@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About Swedlines – Swedish news in English and Swedish</title>
+<meta name="description" content="What Swedlines is: an independent personal project that gathers headlines from selected Swedish publishers and shows them in English and Swedish, linking to the original reporting.">
+<link rel="canonical" href="https://swedlines.com/about/">
+<link rel="icon" href="../assets/logo.svg" type="image/svg+xml">
+<link rel="icon" href="../favicon.ico" sizes="16x16 32x32 48x48">
+<link rel="apple-touch-icon" href="../assets/icon-180.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Swedlines">
+<meta property="og:url" content="https://swedlines.com/about/">
+<meta property="og:title" content="About Swedlines">
+<meta property="og:description" content="An independent personal project that gathers headlines from selected Swedish publishers, in English and Swedish, and links to the original reporting.">
+<meta property="og:image" content="https://swedlines.com/assets/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<script defer src="https://cloud.umami.is/script.js" data-website-id="f35b5351-9870-43e2-8d79-785c1ceaf20b" data-domains="swedlines.com"></script>
+<style>
+  @font-face { font-family: "Manrope"; src: url("../assets/fonts/manrope.ttf") format("truetype"); font-weight: 200 800; font-style: normal; font-display: swap; }
+  :root {
+    --bg: #f7f8fa; --fg: #15202b; --muted: #5b6b7a; --line: #e1e6eb; --panel: #fff;
+    --blue: #006AA7; --blue-ink: #006AA7; --yellow: #FECC02; --hover: #eef4f9;
+    --font: "Manrope", "Helvetica Neue", Arial, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) { :root {
+    --bg: #0b1218; --fg: #e8edf2; --muted: #93a3b2; --line: #223140; --panel: #121c26; --blue-ink: #58a8e0; --hover: #16222e; color-scheme: dark;
+  } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font-family: var(--font); font-size: 15px; line-height: 1.5; }
+  header { position: sticky; top: 0; background: var(--bg); border-bottom: 1px solid var(--line); z-index: 5; }
+  .bar { max-width: 960px; margin: 0 auto; padding: 10px max(16px, env(safe-area-inset-left)) 0; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+  .brand { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; color: var(--blue-ink); font-weight: 800; font-size: 22px; letter-spacing: -0.04em; }
+  .brand svg { width: 28px; height: 28px; }
+  .ticker-line { height: 4px; margin-top: 8px; background: linear-gradient(90deg, var(--yellow) 0, var(--yellow) 40%, transparent); }
+  .controls { margin-left: auto; display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; margin: 0; padding: 0; }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  .seg button { background: var(--panel); color: var(--fg); border: 0; padding: 5px 10px; font: inherit; font-weight: 600; cursor: pointer; }
+  .seg button[aria-pressed="true"] { background: var(--blue); color: #fff; }
+  .seg button:focus-visible { outline: 2px solid var(--yellow); outline-offset: -2px; }
+  .back { color: var(--blue-ink); font-weight: 600; text-decoration: none; }
+  .back:hover { text-decoration: underline; }
+  main { max-width: 720px; margin: 0 auto; padding: 8px max(16px, env(safe-area-inset-left)) 48px; }
+  h1 { font-size: 24px; letter-spacing: -0.02em; margin: 18px 0 6px; text-wrap: balance; }
+  .hero { display: block; width: 100%; height: auto; aspect-ratio: 1200 / 630; margin: 16px 0 4px; border-radius: 12px; border: 1px solid var(--line); }
+  h2 { font-size: 17px; margin: 26px 0 6px; }
+  p, li { max-width: 68ch; }
+  ul.pubs { padding-left: 20px; margin: 6px 0; }
+  ul.pubs li { margin: 2px 0; }
+  .muted { color: var(--muted); font-size: 13px; }
+  a { color: var(--blue-ink); }
+  [hidden] { display: none !important; }
+  footer { max-width: 960px; margin: 0 auto; padding: 16px; color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
+  footer p { margin: 0 0 6px; }
+  footer .version { font-variant-numeric: tabular-nums; opacity: 0.8; }
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <a class="brand" href="../">
+      <svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#006AA7"/><rect x="14" y="17" width="36" height="8" rx="4" fill="#FECC02"/><rect x="14" y="28" width="26" height="8" rx="4" fill="#FECC02"/><rect x="14" y="39" width="18" height="8" rx="4" fill="#FECC02"/></svg>
+      swedlines
+    </a>
+    <div class="controls">
+      <fieldset class="seg">
+        <legend class="sr-only">Language / Språk</legend>
+        <button type="button" data-page-lang="en" aria-pressed="true">English</button>
+        <button type="button" data-page-lang="sv" aria-pressed="false">Svenska</button>
+      </fieldset>
+      <a class="back" href="../" data-i18n="back">← Headlines</a>
+    </div>
+  </div>
+  <div class="ticker-line"></div>
+</header>
+<main>
+<section data-lang-block="en" lang="en">
+  <img class="hero" src="../assets/og.png" width="1200" height="630" alt="Swedlines: Swedish news in English and Swedish" fetchpriority="high">
+  <h1>About Swedlines</h1>
+  <p>Swedlines is an independent personal project. It brings together headlines from a selected set of Swedish news publishers and shows them in English and Swedish, so that people who do not read Swedish can follow what is in the Swedish news.</p>
+
+  <h2>How it works</h2>
+  <p>Every 15 minutes Swedlines reads the public RSS feeds of the publishers listed below and stores the headline, a short teaser and the link. English headlines are machine-translated by a language model and may contain errors, odd phrasing or mistranslated names. The Swedish original is always available; the “Both” view shows them side by side.</p>
+  <p>Swedlines links to the original reporting. It does not provide full translated articles, does not copy article text, and does not bypass paywalls. Some publishers require a subscription for some or all articles; that is noted in the list below.</p>
+
+  <h2>Accuracy and responsibility</h2>
+  <p>Swedlines does not write, verify or edit the news. Headlines and teasers are shown as each publisher published them, and the English versions are automatic translations that may contain errors. Swedlines is not responsible for the accuracy of the headlines or of the articles they point to. For the full and authoritative story, always follow the link to the publisher’s original article. If a headline looks wrong, use the “Report translation issue” link or email us.</p>
+
+  <h2>Publishers</h2>
+  <p>Publishers are chosen by hand to combine widely read national news sites, the public-service broadcasters, the quality dailies, a business daily and two regional papers. Each must offer a public RSS feed. The current list, generated from the site configuration:</p>
+  <ul class="pubs">
+<li><a href="https://www.svt.se/nyheter" rel="noopener">SVT Nyheter</a></li>
+<li><a href="https://sverigesradio.se/ekot" rel="noopener">Sveriges Radio Ekot</a></li>
+<li><a href="https://www.dn.se" rel="noopener">Dagens Nyheter</a> <span class="muted">(most articles require a subscription)</span></li>
+<li><a href="https://www.svd.se" rel="noopener">Svenska Dagbladet</a> <span class="muted">(most articles require a subscription)</span></li>
+<li><a href="https://www.aftonbladet.se" rel="noopener">Aftonbladet</a> <span class="muted">(some articles require a subscription)</span></li>
+<li><a href="https://www.expressen.se" rel="noopener">Expressen</a> <span class="muted">(some articles require a subscription)</span></li>
+<li><a href="https://www.tv4.se/nyheterna" rel="noopener">TV4 Nyheterna</a></li>
+<li><a href="https://www.di.se" rel="noopener">Dagens industri</a> <span class="muted">(most articles require a subscription)</span></li>
+<li><a href="https://www.gp.se" rel="noopener">Göteborgs-Posten</a> <span class="muted">(most articles require a subscription)</span></li>
+<li><a href="https://www.sydsvenskan.se" rel="noopener">Sydsvenskan</a> <span class="muted">(most articles require a subscription)</span></li>
+</ul>
+  <p class="muted">Headlines and teasers belong to their publishers. Publisher names and logos are used only to identify the source of each headline.</p>
+
+  <h2>Support</h2>
+  <p>Swedlines is free to use. Hosting and machine translation cost money, and optional one-time or monthly contributions through <a href="https://ko-fi.com/swedlines" rel="noopener" target="_blank" data-support="ko-fi" data-placement="about">Ko-fi</a> help cover those costs. Nothing on the site is gated behind support.</p>
+
+  <h2 id="contact">Contact</h2>
+  <p>Questions, corrections or a publisher request: <a href="mailto:swedlines@gmail.com">swedlines@gmail.com</a>. To report a mistranslated headline, use the “Report translation issue” link shown next to each headline in the “Both” view; it prepares an email with the article details.</p>
+</section>
+
+<section data-lang-block="sv" lang="sv" hidden>
+  <img class="hero" src="../assets/og-sv.png" width="1200" height="630" alt="Swedlines: svenska nyheter på engelska och svenska">
+  <h1>Om Swedlines</h1>
+  <p>Swedlines är ett fristående personligt projekt. Det samlar rubriker från ett urval svenska nyhetspublicister och visar dem på engelska och svenska, så att den som inte läser svenska ändå kan följa vad som står i svenska nyheter.</p>
+
+  <h2>Så fungerar det</h2>
+  <p>Var 15:e minut läser Swedlines de publika RSS-flödena från publicisterna nedan och sparar rubrik, en kort ingress och länken. Engelska rubriker maskinöversätts av en språkmodell och kan innehålla fel, konstiga formuleringar eller felöversatta namn. Det svenska originalet finns alltid kvar; läget ”Båda” visar dem sida vid sida.</p>
+  <p>Swedlines länkar till originalrapporteringen. Vi tillhandahåller inga fullständiga översatta artiklar, kopierar ingen artikeltext och kringgår inga betalväggar. Vissa publicister kräver prenumeration för en del eller alla artiklar; det anges i listan nedan.</p>
+
+  <h2>Korrekthet och ansvar</h2>
+  <p>Swedlines skriver, granskar eller redigerar inte nyheterna. Rubriker och ingresser visas som respektive publicist publicerade dem, och de engelska versionerna är automatiska översättningar som kan innehålla fel. Swedlines ansvarar inte för att rubrikerna eller artiklarna de leder till är korrekta. För den fullständiga och tillförlitliga nyheten, följ alltid länken till publicistens originalartikel. Om en rubrik ser fel ut, använd länken ”Rapportera översättningsfel” eller mejla oss.</p>
+
+  <h2>Publicister</h2>
+  <p>Publicisterna väljs för hand för att kombinera välbesökta rikstäckande nyhetssajter, public service, kvalitetsdagstidningarna, en affärstidning och två regionala tidningar. Alla måste ha ett publikt RSS-flöde. Aktuell lista, genererad från sajtens konfiguration:</p>
+  <ul class="pubs">
+<li><a href="https://www.svt.se/nyheter" rel="noopener">SVT Nyheter</a></li>
+<li><a href="https://sverigesradio.se/ekot" rel="noopener">Sveriges Radio Ekot</a></li>
+<li><a href="https://www.dn.se" rel="noopener">Dagens Nyheter</a> <span class="muted">(de flesta artiklar kräver prenumeration)</span></li>
+<li><a href="https://www.svd.se" rel="noopener">Svenska Dagbladet</a> <span class="muted">(de flesta artiklar kräver prenumeration)</span></li>
+<li><a href="https://www.aftonbladet.se" rel="noopener">Aftonbladet</a> <span class="muted">(vissa artiklar kräver prenumeration)</span></li>
+<li><a href="https://www.expressen.se" rel="noopener">Expressen</a> <span class="muted">(vissa artiklar kräver prenumeration)</span></li>
+<li><a href="https://www.tv4.se/nyheterna" rel="noopener">TV4 Nyheterna</a></li>
+<li><a href="https://www.di.se" rel="noopener">Dagens industri</a> <span class="muted">(de flesta artiklar kräver prenumeration)</span></li>
+<li><a href="https://www.gp.se" rel="noopener">Göteborgs-Posten</a> <span class="muted">(de flesta artiklar kräver prenumeration)</span></li>
+<li><a href="https://www.sydsvenskan.se" rel="noopener">Sydsvenskan</a> <span class="muted">(de flesta artiklar kräver prenumeration)</span></li>
+</ul>
+  <p class="muted">Rubriker och ingresser tillhör respektive publicist. Publicisternas namn används bara för att visa varifrån varje rubrik kommer.</p>
+
+  <h2>Stöd</h2>
+  <p>Swedlines är gratis att använda. Drift och maskinöversättning kostar pengar, och frivilliga engångs- eller månadsbidrag via <a href="https://ko-fi.com/swedlines" rel="noopener" target="_blank" data-support="ko-fi" data-placement="about">Ko-fi</a> hjälper till att täcka kostnaderna. Inget på sajten är låst bakom stöd.</p>
+
+  <h2 id="contact-sv">Kontakt</h2>
+  <p>Frågor, rättelser eller önskemål om publicister: <a href="mailto:swedlines@gmail.com">swedlines@gmail.com</a>. För att rapportera en felöversatt rubrik, använd länken ”Rapportera översättningsfel” som visas vid varje rubrik i läget ”Båda”; den förbereder ett mejl med artikelns uppgifter.</p>
+</section>
+</main>
+<footer>
+  <p><span data-i18n="footer_rights">Headlines and teasers belong to their publishers.</span> <span data-i18n="footer_updated">Updated every 15 minutes.</span></p>
+  <p><span class="version">v1.1.0</span> · <a href="./" data-i18n="about_link">About Swedlines</a> · <a href="../privacy/" data-i18n="privacy_link">Privacy Policy</a></p>
+</footer>
+<script>
+(() => {
+  // Show the section matching the saved site language (sv → Swedish, en/both → English).
+  // The buttons only switch this page; they do not change the saved headline preference.
+  const T = {
+    en: { back: "← Headlines", footer_rights: "Headlines and teasers belong to their publishers.", footer_updated: "Updated every 15 minutes.", about_link: "About Swedlines", privacy_link: "Privacy Policy" },
+    sv: { back: "← Rubriker", footer_rights: "Rubriker och ingresser tillhör respektive publicist.", footer_updated: "Uppdateras var 15:e minut.", about_link: "Om Swedlines", privacy_link: "Integritetspolicy" },
+  };
+  let lang = "en";
+  try { if (localStorage.getItem("lang") === "sv") lang = "sv"; } catch {}
+  if (lang === "en") {
+    const prefs = (navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || "en"]).map(l => String(l).toLowerCase());
+    let saved = null; try { saved = localStorage.getItem("lang"); } catch {}
+    if (!saved && prefs.some(l => l === "sv" || l.startsWith("sv-"))) lang = "sv";
+  }
+  const buttons = [...document.querySelectorAll("[data-page-lang]")];
+  function apply() {
+    document.documentElement.lang = lang;
+    for (const s of document.querySelectorAll("[data-lang-block]")) s.hidden = s.dataset.langBlock !== lang;
+    for (const b of buttons) b.setAttribute("aria-pressed", String(b.dataset.pageLang === lang));
+    for (const el of document.querySelectorAll("[data-i18n]")) el.textContent = T[lang][el.dataset.i18n];
+  }
+  for (const b of buttons) b.addEventListener("click", () => { if (b.dataset.pageLang !== lang) { lang = b.dataset.pageLang; apply(); } });
+  apply();
+  function track(name, props) {
+    const u = window.umami;
+    if (!u || typeof u.track !== "function") return;
+    try { const r = u.track(name, props); if (r && typeof r.catch === "function") r.catch(() => {}); } catch {}
+  }
+  const cleanUrl = href => { try { const u = new URL(href, location.href); return u.origin + u.pathname; } catch { return ""; } };
+  const isActivation = e => e.type === "click" || (e.type === "auxclick" && e.button === 1);
+  for (const a of document.querySelectorAll("a[data-support]")) {
+    const h = e => { if (isActivation(e)) track("support_click", { platform: a.dataset.support, placement: a.dataset.placement, destination_url: cleanUrl(a.href) }); };
+    a.addEventListener("click", h); a.addEventListener("auxclick", h);
+  }
+})();
+</script>
+</body>
+</html>
