@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T07:45:55+01:00",
+  "generated_at": "2026-11-23T08:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4a2756211ec8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347971",
+      "guid": "rss:sr.se/article/9347971",
+      "published_at": "2026-11-23T07:51:00+01:00",
+      "fetched_at": "2026-11-23T08:01:12+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Bilbranschens kris: Volkswagen tjänar bara 130 kronor per bil",
+        "summary": "Biltillverkarnas vinster har minskat i år, visar en undersökning från tyska bilforskningsinstitutet CAM. Två av tre tillverkare har fått lägre rörelsemarginaler. Studien omfattar 21 globala bilkoncerner och jämför januari–september med samma period i fjol.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Car industry crisis: Volkswagen earns just SEK 130 per car",
+        "summary": "Car makers' profits have fallen this year, a survey from the German automotive research institute CAM shows. Two of three manufacturers have seen lower operating margins. The study covers 21 global car groups and compares January–September with the same period last year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T08:01:25+01:00"
+      }
+    },
     {
       "id": "b87d1d4e659e",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T08:15:46+01:00"
-      }
-    },
-    {
-      "id": "b7aefce49c8c",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344074",
-      "guid": "rss:sr.se/article/9344074",
-      "published_at": "2026-11-17T07:18:00+01:00",
-      "fetched_at": "2026-11-17T07:30:58+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trump landar i Filippinerna – polisen har gripit demonstranter",
-        "summary": "USA:s president Donald Trump landar i dag i Asien. Hans resa börjar i Filippinerna och besöket kantas redan av protester. Inför presidentens ankomst har polisen i Manila gripit hundratals demonstranter som protesterat mot Pax Silica – den USA-ledda pakten som syftar till att säkra leveranskedjor…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Trump lands in the Philippines – police have arrested protesters",
-        "summary": "US President Donald Trump lands in Asia today. His trip begins in the Philippines and the visit is already marked by protests. Ahead of the president's arrival, police in Manila have arrested hundreds of demonstrators who protested against Pax Silica – the US-led pact that aims to secure supply chains…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:31:07+01:00"
       }
     }
   ]

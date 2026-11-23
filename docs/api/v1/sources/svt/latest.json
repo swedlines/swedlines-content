@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T07:45:55+01:00",
+  "generated_at": "2026-11-23T08:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "320d45975e84",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/lastbil-korde-in-i-viadukt-pa-ersboda-krossat-glas-pa-vagbanan",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/lastbil-korde-in-i-viadukt-pa-ersboda-krossat-glas-pa-vagbanan",
+      "published_at": "2026-11-23T07:21:48+01:00",
+      "fetched_at": "2026-11-23T08:01:11+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Lastbil körde in i viadukt på Ersboda – krossat glas på vägbanan",
+        "summary": "En lastbil har kört in i en viadukt på Ersboda i Umeå och tappat delar av sitt ekipage på vägen. Trafiken leds om medan räddningstjänsten sanerar platsen från krossat glas.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Truck drove into viaduct in Ersboda – broken glass on the roadway",
+        "summary": "A truck has driven into a viaduct in Ersboda in Umeå and lost parts of its load on the road. Traffic is being diverted while the rescue service clears the site of broken glass."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T08:01:25+01:00"
+      }
+    },
     {
       "id": "8248e7bc9a0a",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T11:01:24+01:00"
-      }
-    },
-    {
-      "id": "54927bb75be3",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/drapmisstankt-i-skelleftea-slapps-pa-fri-fot",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/drapmisstankt-i-skelleftea-slapps-pa-fri-fot",
-      "published_at": "2026-11-17T10:39:39+01:00",
-      "fetched_at": "2026-11-17T10:45:43+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Dråpmisstänkt i Skellefteå släpps på fri fot",
-        "summary": "Den man som suttit häktad efter ett knivdrama då en man i 50-årsåldern omkom på Erikslid i Skellefteå har försatts på fri fot. – Det som framkommit från de tekniska uppgifterna är att han mycket väl kan ha agerat i en nödvärnssituation, säger åklagaren Anders Norberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Suspect in Skellefteå manslaughter released",
-        "summary": "The man who was remanded in custody after a knife incident in which a man in his 50s died at Erikslid in Skellefteå has been released. – What has emerged from the technical data is that he may well have acted in a situation of self-defence, says prosecutor Anders Norberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T10:45:55+01:00"
       }
     }
   ]
