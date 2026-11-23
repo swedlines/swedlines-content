@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-23T17:16:06+01:00",
+  "generated_at": "2026-11-23T17:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9dc231b82534",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/rejalt-lyft-for-usa-rantor-i-teknikrallyt",
+      "guid": "4f5cbc7e-47c3-437f-b816-2f7bd192dfea",
+      "published_at": "2026-11-23T17:15:52+01:00",
+      "fetched_at": "2026-11-23T17:31:00+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Rejält lyft för USA-räntor i teknikrallyt",
+        "summary": "Europaräntorna sjönk något på måndagseftermiddagen. USA-räntorna steg däremot kraftigt när en återhämtning i teknikaktier dämpade efterfrågan på statsobligationer. Dollarn stärktes samtidigt, medan oljepriserna föll.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "US yields surge in tech rally",
+        "summary": "European yields fell slightly on Monday afternoon. US yields rose sharply as a recovery in tech shares dampened demand for government bonds. The dollar strengthened at the same time, while oil prices fell."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:31:06+01:00"
+      }
+    },
+    {
+      "id": "c2399b613965",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/elva-dagar-som-skakade-nvidia-och-ai-sektorn",
+      "guid": "2c5c85cc-0500-46a5-98e9-5125d8f2ef71",
+      "published_at": "2026-11-23T17:11:50+01:00",
+      "fetched_at": "2026-11-23T17:31:00+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8e7b90ab-30c0-45d8-a1fc-c057fc3959f7.jpeg?width=600",
+      "sv": {
+        "title": "Elva dagar som skakade Nvidia – och AI-sektorn",
+        "summary": "På elva dagar gick Jensen Huang från att avgå som vd för Nvidia till att vara tillbaka på posten. Under tiden halverades aktien på en månad, finansinspektionen SEC började granska bolaget och Nasdaq raderade hela årets uppgång. Nu rusar aktien igen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Eleven days that shook Nvidia – and the AI sector",
+        "summary": "In eleven days Jensen Huang went from stepping down as CEO of Nvidia to being back in the post. In the meantime the share price halved in one month, the SEC financial regulator began examining the company, and Nasdaq erased the entire year's gains. Now the share is rising again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:31:06+01:00"
+      }
+    },
     {
       "id": "8e20e321aae9",
       "schema_version": 1,
@@ -5294,60 +5347,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T09:31:15+01:00"
-      }
-    },
-    {
-      "id": "89f1260a4e63",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/kritiken-vaxer-mot-toppmotet-forskaren-viktig-arena",
-      "guid": "c781f2c0-aee3-4f40-92e1-caa1d0dd647b",
-      "published_at": "2026-11-21T08:42:41+01:00",
-      "fetched_at": "2026-11-21T09:01:17+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/abb784c0-178a-4b86-af10-6fbfe0904e34.jpeg?width=600",
-      "sv": {
-        "title": "Kritiken växer mot toppmötet – forskaren: ”Viktig arena”",
-        "summary": "Kritiken mot FN:s klimattoppmöten växer. Frågan gäller inte bara det låsta förhandlingsspelet, utan om mötena fortfarande förmår driva klimatpolitiken framåt. Samtidigt visar ny forskning att stödet för mer genomgripande reformer är svagt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Criticism grows against the summit – researcher: \"Important arena\"",
-        "summary": "Criticism of the UN climate summits is growing. The issue is not only the deadlocked negotiation game, but whether the meetings are still able to drive climate policy forward. At the same time, new research shows that support for more far-reaching reforms is weak."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:01:22+01:00"
-      }
-    },
-    {
-      "id": "ab2b2e19180d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/oklart-lage-pa-utdraget-klimattoppmote",
-      "guid": "5273b7d9-0b50-4dc4-b1bd-00ce84750468",
-      "published_at": "2026-11-21T08:42:30+01:00",
-      "fetched_at": "2026-11-21T09:01:17+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/830cd12c-4841-4083-8d88-876cbcd0acd4.jpg?width=600",
-      "sv": {
-        "title": "Oklart läge på utdraget klimattoppmöte",
-        "summary": "FN:s klimattoppmöte skulle ha avslutats på fredagskvällen, men förhandlingarna fortsätter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unclear situation at the prolonged climate summit",
-        "summary": "The UN climate summit was due to end on Friday evening, but negotiations are continuing."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:01:22+01:00"
       }
     }
   ]

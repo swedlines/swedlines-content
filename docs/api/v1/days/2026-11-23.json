@@ -1,7 +1,247 @@
 {
-  "generated_at": "2026-11-23T17:16:06+01:00",
-  "count": 486,
+  "generated_at": "2026-11-23T17:31:09+01:00",
+  "count": 496,
   "items": [
+    {
+      "id": "2d72c643a26b",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/M8zo2eGniNNWEj2w7MNA5/gabrielssons-nya-c-sagning",
+      "guid": "M8zo2eGniNNWEj2w7MNA5",
+      "published_at": "2026-11-23T17:26:45+01:00",
+      "fetched_at": "2026-11-23T17:30:59+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Valet 2026"
+      ],
+      "sv": {
+        "title": "Gabrielssons nya C-sågning: ”Hur hade ni tänkt?”",
+        "summary": "Ida Gabrielsson (V) kommenterar beskedet om att Vänsterpartiet nobbat Magdalena Anderssons bud på elva punkter, som publicerades på Expressen Debatt på söndagen. Budet nobbades efter 20 minuter.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Gabrielsson's new C-snub: \"What were you thinking?\"",
+        "summary": "Ida Gabrielsson (V) comments on the news that the Left Party rejected Magdalena Andersson's eleven-point offer, published in Expressen Debatt on Sunday. The offer was rejected after 20 minutes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:31:06+01:00"
+      }
+    },
+    {
+      "id": "8b94dedba22d",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/augustprisgalan-i-gang-forsta-priset-utdelat",
+      "guid": "dc0d4c22-4385-4c28-bef4-65f941c2928d",
+      "published_at": "2026-11-23T17:26:15+01:00",
+      "fetched_at": "2026-11-23T17:31:01+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/6a9ca4ec-0c1a-4b0a-8f3c-fa06538eb443.jpg?width=600",
+      "sv": {
+        "title": "Augustprisgalan i gång – första priset utdelat",
+        "summary": "Nu har kvällens Augustprisgala på Dramaten i Stockholm inletts. Lilla Augustpriset går till ”Solkraft” av Lea Andersson. Senare i kväll kan Klas Östergren få Augustpriset för första gången.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "August Prize gala under way – first prize awarded",
+        "summary": "Tonight's August Prize gala has begun at Dramaten in Stockholm. The Little August Prize goes to \"Solkraft\" by Lea Andersson. Later this evening Klas Östergren may receive the August Prize for the first time."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:31:06+01:00"
+      }
+    },
+    {
+      "id": "0469ded6ddbd",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/vkQ2jL/svenskar-rusade-till-nvidia-gjorde-bra-affarer",
+      "guid": "https://www.svd.se/a/vkQ2jL/svenskar-rusade-till-nvidia-gjorde-bra-affarer?utm_medium=rss",
+      "published_at": "2026-11-23T17:25:57+01:00",
+      "fetched_at": "2026-11-23T17:30:58+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/aa50b52d-ac30-3c9a-a394-dfa8185c4f76?format=auto&s=9f1a58c99196b28fec8ec19f7005403f075261a1&w=1000",
+      "sv": {
+        "title": "Svenskar rusade till Nvidia — gjorde bra affärer",
+        "summary": "Tiotusentals svenskar passade på att köpa när Nvidia-aktien föll efter otrohetsskandalerna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedes rushed to Nvidia — made good deals",
+        "summary": "Tens of thousands of Swedes seized the chance to buy when the Nvidia share fell after the infidelity scandals."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:31:06+01:00"
+      }
+    },
+    {
+      "id": "859af40ee069",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/elevernas-ord-efter-tillslaget-i-sigtuna-vi-har-golare",
+      "guid": "https://www.dn.se/sverige/elevernas-ord-efter-tillslaget-i-sigtuna-vi-har-golare/",
+      "published_at": "2026-11-23T17:24:46+01:00",
+      "fetched_at": "2026-11-23T17:30:58+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/c0d58e84-4abf-47b2-bb97-7a3cdce799a4.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Elevernas ord efter tillslaget i Sigtuna: ”Vi har golare”",
+        "summary": "Direktivet var tydligt när poliserna gick in på Sigtunaskolan: Sök efter golfklubbor, skärp och skohorn. Samma dag började de nu åtalade killarna förstå att yngre elever vittnat mot dem. ”Vi har några golare”, skrev en kille i deras gruppchatt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pupils' words after the raid at Sigtuna: \"We have snitches\"",
+        "summary": "The directive was clear when the police entered Sigtunaskolan: search for golf clubs, belts and shoehorns. The same day, the now-charged boys began to understand that younger pupils had testified against them. \"We have some snitches,\" a boy wrote in their group chat."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:31:06+01:00"
+      }
+    },
+    {
+      "id": "1346dcd0e795",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348509",
+      "guid": "rss:sr.se/article/9348509",
+      "published_at": "2026-11-23T17:24:00+01:00",
+      "fetched_at": "2026-11-23T17:30:57+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Vänsterpartiet gläntar på dörren för att släppa ministerkrav",
+        "summary": "Vänsterpartiet står fast vid kravet på ministerposter, men vice partiledaren Ida Gabrielsson öppnar för att släppa det vid stora sakpolitiska eftergifter.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Left Party opens door to dropping ministerial demand",
+        "summary": "The Left Party stands firm on its demand for ministerial posts, but deputy party leader Ida Gabrielsson is open to dropping it in return for major policy concessions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:31:06+01:00"
+      }
+    },
+    {
+      "id": "ddf0101335ea",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348492",
+      "guid": "rss:sr.se/article/9348492",
+      "published_at": "2026-11-23T17:24:00+01:00",
+      "fetched_at": "2026-11-23T17:30:57+01:00",
+      "category": "world",
+      "sv": {
+        "title": "COP31-kollapsen ”dåligt för svenska företag”",
+        "summary": "Att klimattoppmötet i Turkiet kollapsade är negativt för svenska företag som har satsat mycket på klimatomställningen. Det säger Peter Hellberg, förbundsordförande för facket Unionen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "COP31 collapse \"bad for Swedish companies\"",
+        "summary": "The collapse of the climate summit in Turkey is negative for Swedish companies that have invested heavily in the climate transition. That is what Peter Hellberg, chair of the Unionen union, says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:31:06+01:00"
+      }
+    },
+    {
+      "id": "af9aaa7bdab9",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/varmland/tidigare-v-riksdagsledamoten-slapp-ministerkravet",
+      "guid": "https://www.svt.se/nyheter/lokalt/varmland/tidigare-v-riksdagsledamoten-slapp-ministerkravet",
+      "published_at": "2026-11-23T17:22:07+01:00",
+      "fetched_at": "2026-11-23T17:30:57+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Tidigare V-riksdagsledamoten: ”Släpp ministerkravet”",
+        "summary": "Bör vänsterpartiet ge upp sitt krav på ministerposter? I ett uppmärksammat Facebook-inlägg uppmanar nu den tidigare vänsterpartistiska riksdagsledamoten Bengt Berg (V) att partiet bör kompromissa med kravet om ministerposter i regeringen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Former Left Party MP: \"Drop the ministerial demand\"",
+        "summary": "Should the Left Party give up its demand for ministerial posts? In a widely noticed Facebook post, former Left Party Riksdag member Bengt Berg (V) urges the party to compromise on its demand for ministerial posts in the government."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:31:06+01:00"
+      }
+    },
+    {
+      "id": "49b4d62f0f7e",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348536",
+      "guid": "rss:sr.se/article/9348536",
+      "published_at": "2026-11-23T17:18:00+01:00",
+      "fetched_at": "2026-11-23T17:30:57+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Framtidsoro för klimatet efter katastrofen i Nepal",
+        "summary": "Det har snart gått tre månader sedan den stora översvämningskatastrofen i Nepal då minst 1500 personer omkom. På FNs klimattoppmöte har Nepal försökte få mer fokus på hur bergsområden som Himalaya påverkas av det allt varmare klimatet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Climate concern grows after the disaster in Nepal",
+        "summary": "It is almost three months since the major flood disaster in Nepal, in which at least 1,500 people died. At the UN climate summit, Nepal tried to put more focus on how mountain areas such as the Himalayas are affected by the increasingly warm climate."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:31:06+01:00"
+      }
+    },
+    {
+      "id": "9dc231b82534",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/rejalt-lyft-for-usa-rantor-i-teknikrallyt",
+      "guid": "4f5cbc7e-47c3-437f-b816-2f7bd192dfea",
+      "published_at": "2026-11-23T17:15:52+01:00",
+      "fetched_at": "2026-11-23T17:31:00+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Rejält lyft för USA-räntor i teknikrallyt",
+        "summary": "Europaräntorna sjönk något på måndagseftermiddagen. USA-räntorna steg däremot kraftigt när en återhämtning i teknikaktier dämpade efterfrågan på statsobligationer. Dollarn stärktes samtidigt, medan oljepriserna föll.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "US yields surge in tech rally",
+        "summary": "European yields fell slightly on Monday afternoon. US yields rose sharply as a recovery in tech shares dampened demand for government bonds. The dollar strengthened at the same time, while oil prices fell."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:31:06+01:00"
+      }
+    },
     {
       "id": "88a3c9ef659a",
       "schema_version": 1,
@@ -80,6 +320,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T17:15:58+01:00"
+      }
+    },
+    {
+      "id": "c2399b613965",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/elva-dagar-som-skakade-nvidia-och-ai-sektorn",
+      "guid": "2c5c85cc-0500-46a5-98e9-5125d8f2ef71",
+      "published_at": "2026-11-23T17:11:50+01:00",
+      "fetched_at": "2026-11-23T17:31:00+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8e7b90ab-30c0-45d8-a1fc-c057fc3959f7.jpeg?width=600",
+      "sv": {
+        "title": "Elva dagar som skakade Nvidia – och AI-sektorn",
+        "summary": "På elva dagar gick Jensen Huang från att avgå som vd för Nvidia till att vara tillbaka på posten. Under tiden halverades aktien på en månad, finansinspektionen SEC började granska bolaget och Nasdaq raderade hela årets uppgång. Nu rusar aktien igen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Eleven days that shook Nvidia – and the AI sector",
+        "summary": "In eleven days Jensen Huang went from stepping down as CEO of Nvidia to being back in the post. In the meantime the share price halved in one month, the SEC financial regulator began examining the company, and Nasdaq erased the entire year's gains. Now the share is rising again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:31:06+01:00"
       }
     },
     {
