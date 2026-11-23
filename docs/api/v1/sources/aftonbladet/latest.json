@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T18:01:25+01:00",
+  "generated_at": "2026-11-23T18:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4c88fd23af8a",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/7P0vOW/35-centerpartister-vagrar-regera-med-sd",
+      "guid": "https://www.aftonbladet.se/nyheter/a/7P0vOW/35-centerpartister-vagrar-regera-med-sd?utm_medium=rss",
+      "published_at": "2026-11-23T18:00:22+01:00",
+      "fetched_at": "2026-11-23T18:15:44+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/bb164aed-1097-37ba-b27f-32872fb45e17?format=auto&s=8f8bd71cc811b7828e9caa0b52b42cf1416ba944&w=1000",
+      "sv": {
+        "title": "35 centerpartister: Ett svek att regera med stöd från SD",
+        "summary": "35 centerpartister: ”Ett svek mot väljarna”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "35 Centre Party members: Governing with support from the SD would be a betrayal",
+        "summary": "35 Centre Party members: \"A betrayal of voters\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T18:15:53+01:00"
+      }
+    },
     {
       "id": "bdd6a64e5c19",
       "schema_version": 1,
@@ -5345,33 +5372,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T14:01:29+01:00"
-      }
-    },
-    {
-      "id": "89aa5c7ec142",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/4EqQBq/urvattnat-utkast-pa-cop-igen-i-dag-ska-nya-dokumentet-vara-klart",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/4EqQBq/urvattnat-utkast-pa-cop-igen-i-dag-ska-nya-dokumentet-vara-klart?utm_medium=rss",
-      "published_at": "2026-11-20T13:30:31+01:00",
-      "fetched_at": "2026-11-20T13:45:43+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/d5727241-abf9-3b82-a6ef-b3ea851d3a18?format=auto&s=a222a349ad1aefa55979ca846c4a41346461ae22&w=1000",
-      "sv": {
-        "title": "Urvattnat utkast på COP igen – i dag ska nya dokumentet vara klart",
-        "summary": "COP31 ”Tävling mellan hycklare”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Watered-down draft at COP again – new document due to be finished today",
-        "summary": "COP31 \"Competition between hypocrites\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:45:48+01:00"
       }
     }
   ]

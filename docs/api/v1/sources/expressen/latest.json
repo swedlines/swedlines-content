@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T18:01:25+01:00",
+  "generated_at": "2026-11-23T18:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "01033de2367a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-det-kravs-for-att-v-ska-slappa-ministerkravet",
+      "guid": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-det-kravs-for-att-v-ska-slappa-ministerkravet/",
+      "published_at": "2026-11-23T18:07:55+01:00",
+      "fetched_at": "2026-11-23T18:15:45+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Ida Gabrielsson: Det krävs för att V ska släppa ministerkravet",
+        "summary": "Vänsterpartiet står fast vid kravet på ministerposter. Men nu förklarar vice partiledaren Ida Gabrielsson vad som skulle krävas för att partiet ska överväga att backa.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ida Gabrielsson: This is what it would take for the Left Party to drop the ministerial demand",
+        "summary": "The Left Party is holding firm on its demand for ministerial posts. But now deputy party leader Ida Gabrielsson explains what would be required for the party to consider backing down."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T18:15:53+01:00"
+      }
+    },
     {
       "id": "4f59cb577cff",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T08:31:10+01:00"
-      }
-    },
-    {
-      "id": "a6613e8bbdbf",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8cae0a49-2550-4182-8e9f-0b3a55cfa994",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8cae0a49-2550-4182-8e9f-0b3a55cfa994",
-      "published_at": "2026-11-20T07:16:27+01:00",
-      "fetched_at": "2026-11-20T07:31:06+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Stopp efter olycka på E18: ”Blixthalka”",
-        "summary": "Stopp efter olycka på E18",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stop after accident on E18: “Black ice”",
-        "summary": "Stop after accident on E18"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:31:23+01:00"
       }
     }
   ]
