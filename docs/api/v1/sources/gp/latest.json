@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-23T07:04:13+01:00",
+  "generated_at": "2026-11-23T07:06:43+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "33eba481ad8e",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/asikt-och-debatt/fria-ord/har-ai-ens-i-klassrummet-att-gora.fcc3e3a3-d7f4-55b2-bd2d-d13abb8b7a6d",
+      "guid": "fcc3e3a3-d7f4-55b2-bd2d-d13abb8b7a6d",
+      "published_at": "2026-11-23T07:00:00+01:00",
+      "fetched_at": "2026-11-23T07:06:40+01:00",
+      "category": "other",
+      "feed_categories": [
+        "Fria ord",
+        "Tagg: Artificiell intelligens",
+        "Tagg: Skola"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/d4ba7765-730d-3f1f-8f71-5444fcc7a119",
+      "sv": {
+        "title": "Har AI ens i klassrummet att göra?",
+        "summary": "Vi kan inte hindra tekniken säger några, då hamnar våra ungdomar efter utvecklingen! Men gör de verkligen det? skriver insändarskribenten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Does AI even belong in the classroom?",
+        "summary": "We can't stop the technology, some say, or our young people will fall behind the development! But do they really? writes the letter writer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T07:06:43+01:00"
+      }
+    },
     {
       "id": "3bc19beedfda",
       "schema_version": 1,
@@ -6885,39 +6917,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T16:16:01+01:00"
-      }
-    },
-    {
-      "id": "556722a73336",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/storgoteborg/frihetsberovad-man-forsokte-rymma-efter-olycka-pa-e20.9c591b96-1f85-570c-a388-138783fd40fb",
-      "guid": "9c591b96-1f85-570c-a388-138783fd40fb",
-      "published_at": "2026-11-18T15:30:15+01:00",
-      "fetched_at": "2026-11-18T15:45:44+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Storgöteborg",
-        "Tagg: breaking-GP",
-        "Tagg: Partille",
-        "Tagg: Jens Andersson"
-      ],
-      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
-      "sv": {
-        "title": "Frihetsberövad man försökte rymma på E20",
-        "summary": "Säkrades av polisen • Vägen helt avstängd under insatsen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man in custody tried to escape on E20",
-        "summary": "Secured by police • Road completely closed during the operation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T15:45:51+01:00"
       }
     }
   ]
