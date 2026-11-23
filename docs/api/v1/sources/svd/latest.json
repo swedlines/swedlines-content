@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-23T22:01:28+01:00",
+  "generated_at": "2026-11-23T22:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8080a111304c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80232",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80232&utm_medium=rss",
+      "published_at": "2026-11-23T22:12:41+01:00",
+      "fetched_at": "2026-11-23T22:15:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nvidia gav tokrally på Nasdaq"
+      },
+      "en": {
+        "title": "Nvidia sends Nasdaq into a frenzied rally"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:15:55+01:00"
+      }
+    },
     {
       "id": "a08732e09dc4",
       "schema_version": 1,
@@ -5228,33 +5251,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "2b5a71cb5c2c",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/g37WoB/sa-ser-man-i-norge-och-finland-pa-svenska-regeringsbildningen",
-      "guid": "https://www.svd.se/a/g37WoB/sa-ser-man-i-norge-och-finland-pa-svenska-regeringsbildningen?utm_medium=rss",
-      "published_at": "2026-11-20T16:12:23+01:00",
-      "fetched_at": "2026-11-20T16:15:53+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/4de709b8-bdfc-38f9-aee6-cff9ebc15f7b?format=auto&s=7b1756a0f343c4b1c0e44a83b252d9bd4faa90cf&w=1000",
-      "sv": {
-        "title": "Norsk kritik: ”Konstigt” att ingen tar ansvar",
-        "summary": "De låsta positionerna efter det svenska valet förvånar i våra nordiska grannländer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Norwegian criticism: \"Strange\" that no one takes responsibility",
-        "summary": "The locked positions after the Swedish election surprise our Nordic neighbours."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:16:03+01:00"
       }
     }
   ]

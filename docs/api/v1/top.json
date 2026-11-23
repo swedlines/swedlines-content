@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:01:28+01:00",
+  "generated_at": "2026-11-23T22:15:58+01:00",
   "count": 30,
   "stories": [
     {
@@ -1855,6 +1855,82 @@
       ]
     },
     {
+      "id": "3834a0255c35",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "sydsvenskan",
+        "sr"
+      ],
+      "first_published_at": "2026-11-23T18:37:50+01:00",
+      "last_published_at": "2026-11-23T22:03:00+01:00",
+      "lead": {
+        "id": "3834a0255c35",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/BrR9pG/rapport-gaza-ar-en-giftig-odemark",
+        "guid": "https://www.aftonbladet.se/nyheter/a/BrR9pG/rapport-gaza-ar-en-giftig-odemark?utm_medium=rss",
+        "published_at": "2026-11-23T18:37:50+01:00",
+        "fetched_at": "2026-11-23T18:45:49+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/7ca082ad-e328-3e0a-a468-9b7221b3562d?format=auto&s=a976f33972222c67b1c7428cf6c2fe24d95d83b9&w=1000",
+        "sv": {
+          "title": "Rapport: ”Gaza är en giftig ödemark”",
+          "summary": "Förstörelsen i Gaza har orsakat miljöskador som kommer att utgöra en fara för befolkningen i flera…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Report: \"Gaza is a poisonous wasteland\"",
+          "summary": "The destruction in Gaza has caused environmental damage that will pose a danger to the population for decades…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T18:45:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "c7fc65872e01",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348682",
+          "published_at": "2026-11-23T22:03:00+01:00",
+          "sv": {
+            "title": "Rapport: Striderna i Gaza förgiftar miljön – ökar risk för cancer"
+          },
+          "en": {
+            "title": "Report: Fighting in Gaza poisons the environment – increases cancer risk"
+          }
+        },
+        {
+          "id": "92759f66c791",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/rapport-gaza-ar-en-giftig-odemark",
+          "published_at": "2026-11-23T18:39:40+01:00",
+          "sv": {
+            "title": "Rapport: ”Gaza är en giftig ödemark”"
+          },
+          "en": {
+            "title": "Report: \"Gaza is a poisonous wasteland\""
+          }
+        },
+        {
+          "id": "3834a0255c35",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/BrR9pG/rapport-gaza-ar-en-giftig-odemark",
+          "published_at": "2026-11-23T18:37:50+01:00",
+          "sv": {
+            "title": "Rapport: ”Gaza är en giftig ödemark”"
+          },
+          "en": {
+            "title": "Report: \"Gaza is a poisonous wasteland\""
+          }
+        }
+      ]
+    },
+    {
       "id": "01033de2367a",
       "source_count": 3,
       "sources": [
@@ -3054,69 +3130,6 @@
           },
           "en": {
             "title": "Person Found Dead – Suspected Murder"
-          }
-        }
-      ]
-    },
-    {
-      "id": "3834a0255c35",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-23T18:37:50+01:00",
-      "last_published_at": "2026-11-23T18:39:40+01:00",
-      "lead": {
-        "id": "3834a0255c35",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/BrR9pG/rapport-gaza-ar-en-giftig-odemark",
-        "guid": "https://www.aftonbladet.se/nyheter/a/BrR9pG/rapport-gaza-ar-en-giftig-odemark?utm_medium=rss",
-        "published_at": "2026-11-23T18:37:50+01:00",
-        "fetched_at": "2026-11-23T18:45:49+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/7ca082ad-e328-3e0a-a468-9b7221b3562d?format=auto&s=a976f33972222c67b1c7428cf6c2fe24d95d83b9&w=1000",
-        "sv": {
-          "title": "Rapport: ”Gaza är en giftig ödemark”",
-          "summary": "Förstörelsen i Gaza har orsakat miljöskador som kommer att utgöra en fara för befolkningen i flera…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Report: \"Gaza is a poisonous wasteland\"",
-          "summary": "The destruction in Gaza has caused environmental damage that will pose a danger to the population for decades…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T18:45:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "92759f66c791",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/rapport-gaza-ar-en-giftig-odemark",
-          "published_at": "2026-11-23T18:39:40+01:00",
-          "sv": {
-            "title": "Rapport: ”Gaza är en giftig ödemark”"
-          },
-          "en": {
-            "title": "Report: \"Gaza is a poisonous wasteland\""
-          }
-        },
-        {
-          "id": "3834a0255c35",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/BrR9pG/rapport-gaza-ar-en-giftig-odemark",
-          "published_at": "2026-11-23T18:37:50+01:00",
-          "sv": {
-            "title": "Rapport: ”Gaza är en giftig ödemark”"
-          },
-          "en": {
-            "title": "Report: \"Gaza is a poisonous wasteland\""
           }
         }
       ]

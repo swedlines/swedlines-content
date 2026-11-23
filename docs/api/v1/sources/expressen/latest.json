@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T22:01:28+01:00",
+  "generated_at": "2026-11-23T22:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "df033810f719",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
+      "guid": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering/",
+      "published_at": "2026-11-23T22:09:52+01:00",
+      "fetched_at": "2026-11-23T22:15:49+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering",
+        "summary": "Det blir ingen rödgrön regering, tror Maud Olofsson. – Jag tror att de har kommit till vägs ände. De har ju suttit hur länge som helst och diskuterat. Man har inte kommit närmare varandra, säger den tidigare C-ledaren i SVT:s ”Aktuellt”.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government",
+        "summary": "There will be no red-green government, believes Maud Olofsson. \"I think they have reached the end of the road. They have sat for ever and discussed. They have not come closer to each other,\" says the former Centre Party leader on SVT's \"Aktuellt\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:15:55+01:00"
+      }
+    },
     {
       "id": "beb4814b3f5b",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T12:01:25+01:00"
-      }
-    },
-    {
-      "id": "1b1fc74ba8f3",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trump-ber-guyana-overvaga-att-ge-upp-omrade-till-venezuela",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-ber-guyana-overvaga-att-ge-upp-omrade-till-venezuela/",
-      "published_at": "2026-11-20T11:35:27+01:00",
-      "fetched_at": "2026-11-20T11:45:50+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trump ber Guyana överväga att ge upp område till Venezuela",
-        "summary": "Trumpadministrationen lägger sig i en territoriell dispyt i Sydamerika. I samtal ska en amerikansk representant ha bett Guyana att ”överväga” att ge upp ett olje- och guldrikt landområde till Venezuela. – Vi har klargjort vår åsikt tydligt, säger Guyanas president Irfaan Ali.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump asks Guyana to consider giving up territory to Venezuela",
-        "summary": "The Trump administration is getting involved in a territorial dispute in South America. In talks, an American representative reportedly asked Guyana to \"consider\" giving up a land area rich in oil and gold to Venezuela. – We have made our position clear, says Guyanese President Irfaan Ali."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:45:57+01:00"
       }
     }
   ]

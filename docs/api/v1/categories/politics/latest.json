@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T22:01:28+01:00",
+  "generated_at": "2026-11-23T22:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "df033810f719",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
+      "guid": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering/",
+      "published_at": "2026-11-23T22:09:52+01:00",
+      "fetched_at": "2026-11-23T22:15:49+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering",
+        "summary": "Det blir ingen rödgrön regering, tror Maud Olofsson. – Jag tror att de har kommit till vägs ände. De har ju suttit hur länge som helst och diskuterat. Man har inte kommit närmare varandra, säger den tidigare C-ledaren i SVT:s ”Aktuellt”.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government",
+        "summary": "There will be no red-green government, believes Maud Olofsson. \"I think they have reached the end of the road. They have sat for ever and discussed. They have not come closer to each other,\" says the former Centre Party leader on SVT's \"Aktuellt\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:15:55+01:00"
+      }
+    },
     {
       "id": "31bc97712cdd",
       "schema_version": 1,
@@ -5351,33 +5377,6 @@
       "en": {
         "title": "Sources: red-green talks \"completely locked\" – V holds firm on ministerial demand",
         "summary": "Despite concessions from C – the Left Party refuses to discuss"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:16:03+01:00"
-      }
-    },
-    {
-      "id": "2b5a71cb5c2c",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/g37WoB/sa-ser-man-i-norge-och-finland-pa-svenska-regeringsbildningen",
-      "guid": "https://www.svd.se/a/g37WoB/sa-ser-man-i-norge-och-finland-pa-svenska-regeringsbildningen?utm_medium=rss",
-      "published_at": "2026-11-20T16:12:23+01:00",
-      "fetched_at": "2026-11-20T16:15:53+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/4de709b8-bdfc-38f9-aee6-cff9ebc15f7b?format=auto&s=7b1756a0f343c4b1c0e44a83b252d9bd4faa90cf&w=1000",
-      "sv": {
-        "title": "Norsk kritik: ”Konstigt” att ingen tar ansvar",
-        "summary": "De låsta positionerna efter det svenska valet förvånar i våra nordiska grannländer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Norwegian criticism: \"Strange\" that no one takes responsibility",
-        "summary": "The locked positions after the Swedish election surprise our Nordic neighbours."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T22:01:28+01:00",
+  "generated_at": "2026-11-23T22:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c7fc65872e01",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348682",
+      "guid": "rss:sr.se/article/9348682",
+      "published_at": "2026-11-23T22:03:00+01:00",
+      "fetched_at": "2026-11-23T22:15:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Rapport: Striderna i Gaza förgiftar miljön – ökar risk för cancer",
+        "summary": "Efter förstörelsen och striderna i Gaza är miljön så förgiftad att den kommer att utgöra en fara för befolkningen i årtionden. I en rapport kallad \"giftig ödemark\", som bland andra Oxfam ligger bakom, konstateras det att tungmetaller, rester av sprängämnen och asbest från förstörda byggnader…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Report: Fighting in Gaza poisons the environment – increases cancer risk",
+        "summary": "After the destruction and fighting in Gaza, the environment is so poisoned that it will pose a danger to the population for decades. A report called \"Toxic Wasteland\", backed by Oxfam among others, states that heavy metals, explosive residues and asbestos from destroyed buildings…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:15:55+01:00"
+      }
+    },
     {
       "id": "059a1e6837f9",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T11:16:04+01:00"
-      }
-    },
-    {
-      "id": "8ad5df73abc8",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345047",
-      "guid": "rss:sr.se/article/9345047",
-      "published_at": "2026-11-18T10:17:00+01:00",
-      "fetched_at": "2026-11-18T10:30:59+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Alla partier överens om nytt kvittningssystem",
-        "summary": "Riksdagspartierna är överens om en ny kvittningsöverenskommelse, enligt TT. Överenskommelsen ska börja gälla nästa vecka och innebär att 10,5 procent av ledamöterna kommer att vara utkvitterade vid varje voteringstillfälle – vilket i mandat översätts till 36 av 349 ledamöter.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "All parties agree on new pairing system",
-        "summary": "The Riksdag parties have agreed on a new pairing agreement, according to TT. The agreement is to take effect next week and means that 10.5 percent of members will be paired at each voting occasion – which in seats translates to 36 of 349 members."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T10:31:10+01:00"
       }
     }
   ]

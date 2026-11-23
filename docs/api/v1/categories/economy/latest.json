@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-23T22:01:28+01:00",
+  "generated_at": "2026-11-23T22:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8080a111304c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80232",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80232&utm_medium=rss",
+      "published_at": "2026-11-23T22:12:41+01:00",
+      "fetched_at": "2026-11-23T22:15:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nvidia gav tokrally på Nasdaq"
+      },
+      "en": {
+        "title": "Nvidia sends Nasdaq into a frenzied rally"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:15:55+01:00"
+      }
+    },
+    {
+      "id": "74fb666f9c35",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/basta-borsdagen-sedan-forra-varen-en-seger-for-ai",
+      "guid": "ae711fee-fbb5-4740-bf32-85b4de6f3f79",
+      "published_at": "2026-11-23T22:07:33+01:00",
+      "fetched_at": "2026-11-23T22:15:50+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/83cc8696-cce5-47c8-b389-bc706f57c429.jpeg?width=600",
+      "sv": {
+        "title": "Bästa börsdagen sedan förra våren: ”En seger för AI”",
+        "summary": "Wall Street noterade den bästa börsdagen sedan tullkaoset i april 2025. Indexen fick stöd av Nvidias historiska rally efter att Jensen Huang gjort comeback som vd.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Best stock market day since last spring: \"A win for AI\"",
+        "summary": "Wall Street recorded its best stock market day since the tariff chaos of April 2025. The indices were supported by Nvidia's historic rally after Jensen Huang made a comeback as CEO."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:15:55+01:00"
+      }
+    },
     {
       "id": "059a1e6837f9",
       "schema_version": 1,
@@ -5229,52 +5279,6 @@
       },
       "en": {
         "title": "187 square metre house in Höllviken sold"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T07:04:12+01:00"
-      }
-    },
-    {
-      "id": "b92707bc06f9",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/109-kvadratmeter-stort-hus-for-4-5-miljoner",
-      "guid": "b8ca5499-a1d3-4695-ae14-7152b99859c5",
-      "published_at": "2026-11-23T07:01:58+01:00",
-      "fetched_at": "2026-11-23T07:04:04+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "109 kvadratmeter stort hus för 4,5 miljoner"
-      },
-      "en": {
-        "title": "109 square metre house for 4.5 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T07:04:12+01:00"
-      }
-    },
-    {
-      "id": "65472e07f96f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-lantbruksfastighet-W3nob",
-      "guid": "208868c1-6719-4a90-bcc7-8798f2980797",
-      "published_at": "2026-11-23T07:01:53+01:00",
-      "fetched_at": "2026-11-23T07:04:04+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nya ägare till lantbruksfastighet"
-      },
-      "en": {
-        "title": "New owners of agricultural property"
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T22:01:28+01:00",
+  "generated_at": "2026-11-23T22:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e0013e91c868",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/finland-lat-ryssland-hamta-attackerade-fartyget-vacker-kritik",
+      "guid": "https://www.dn.se/varlden/finland-lat-ryssland-hamta-attackerade-fartyget-vacker-kritik/",
+      "published_at": "2026-11-23T22:13:37+01:00",
+      "fetched_at": "2026-11-23T22:15:47+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/d518922e-648f-4265-9c95-6b603b0b47f6.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Finland lät Ryssland hämta attackerade fartyget – väcker kritik",
+        "summary": "Varför lät Finland Ryssland bogsera bort det attackerade lastfartyget Sparta II? Och vad fanns i lasten? Ryska myndigheter uppgav att lasten bestod av ”brandfarliga vätskor”, men gav inget tydligare svar, rapporterar Yle.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Finland let Russia tow away attacked ship – draws criticism",
+        "summary": "Why did Finland let Russia tow away the attacked cargo ship Sparta II? And what was in the cargo? Russian authorities said the cargo consisted of \"flammable liquids\" but gave no clearer answer, reports Yle."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:15:55+01:00"
+      }
+    },
     {
       "id": "e1ce9ff930d2",
       "schema_version": 1,
@@ -5370,33 +5397,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T13:45:48+01:00"
-      }
-    },
-    {
-      "id": "84cb60c0f77c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/lander-struntar-i-forhandlingarna-enas-om-egen-utfasning",
-      "guid": "https://www.dn.se/varlden/lander-struntar-i-forhandlingarna-enas-om-egen-utfasning/",
-      "published_at": "2026-11-20T13:26:40+01:00",
-      "fetched_at": "2026-11-20T13:31:01+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/713b1d2c-ccc4-41a3-863d-9977bed9c371.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Länder struntar i förhandlingarna – enas om egen utfasning",
-        "summary": "Världens länder ser än en gång ut att misslyckas med att enas om en utfasning av fossila bränslen på klimatmötet i Turkiet. Men på mötets sista dag tog en växande grupp länder saken i egna händer och valde att strunta i konsensus.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Countries ignore the negotiations and agree on their own phase-out",
-        "summary": "The world's countries once again appear set to fail to agree on a phase-out of fossil fuels at the climate summit in Turkey. But on the meeting's last day, a growing group of countries took matters into their own hands and chose to disregard consensus."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:31:20+01:00"
       }
     }
   ]
