@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:46:01+01:00",
+  "generated_at": "2026-11-24T00:53:01+01:00",
   "count": 30,
   "stories": [
     {
@@ -1593,89 +1593,76 @@
       ]
     },
     {
-      "id": "58dbdbde02ee",
-      "source_count": 4,
+      "id": "926ab31e92e2",
+      "source_count": 3,
       "sources": [
-        "svt",
         "aftonbladet",
         "svd",
-        "sydsvenskan"
+        "svt"
       ],
-      "first_published_at": "2026-11-23T10:23:25+01:00",
-      "last_published_at": "2026-11-23T12:52:02+01:00",
+      "first_published_at": "2026-11-24T00:36:21+01:00",
+      "last_published_at": "2026-11-24T00:46:39+01:00",
       "lead": {
-        "id": "58dbdbde02ee",
+        "id": "926ab31e92e2",
         "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/inrikes/chatt-vem-blir-statsminister-och-nar-ar-det-klart",
-        "guid": "https://www.svt.se/nyheter/inrikes/chatt-vem-blir-statsminister-och-nar-ar-det-klart",
-        "published_at": "2026-11-23T10:23:25+01:00",
-        "fetched_at": "2026-11-23T10:30:58+01:00",
-        "category": "other",
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/3BJGoM/sydkorea-krankning-av-luftrum",
+        "guid": "https://www.aftonbladet.se/nyheter/a/3BJGoM/sydkorea-krankning-av-luftrum?utm_medium=rss",
+        "published_at": "2026-11-24T00:36:21+01:00",
+        "fetched_at": "2026-11-24T00:45:48+01:00",
+        "category": "world",
         "sv": {
-          "title": "Chatt: Vem blir statsminister – och när är det klart?",
-          "summary": "Över 70 dagar utan regering. Förhandlingar inför öppen ridå. Andersson vs. Kristersson. Hur ska regeringsbildningen sluta? Och när? Ställ dina frågor till SVT:s politikreporter Kristeroffer Törnmalm – som svarar i chatt och livesändning.",
+          "title": "Sydkorea: Nordkorea tros ha kränkt luftrum",
+          "summary": "Ett misstänkt nordkoreanskt flygplan har tagit sig in i det sydkoreanska luftrummet, uppger Sydkorea…",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Chat: Who will become prime minister – and when will it be settled?",
-          "summary": "Over 70 days without a government. Negotiations before the curtain rises. Andersson vs. Kristersson. How will the government formation end? And when? Ask your questions to SVT's political reporter Kristeroffer Törnmalm – who answers in chat and live broadcast."
+          "title": "South Korea: North Korea believed to have violated airspace",
+          "summary": "A suspected North Korean aircraft has entered South Korean airspace, South Korea says…"
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T10:31:11+01:00"
+          "translated_at": "2026-11-24T00:45:56+01:00"
         }
       },
       "items": [
         {
-          "id": "6a5a62d64adf",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/statsvetare-s-budet-gar-langre-an-tidoavtalet",
-          "published_at": "2026-11-23T12:52:02+01:00",
-          "sv": {
-            "title": "Statsvetare: S-budet går längre än Tidöavtalet"
-          },
-          "en": {
-            "title": "Political scientist: S offer goes further than the Tidö Agreement"
-          }
-        },
-        {
-          "id": "942620621cd3",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wdPGoA/statsvetare-s-budet-gar-langre-an-tidoavtalet",
-          "published_at": "2026-11-23T12:48:12+01:00",
-          "sv": {
-            "title": "Statsvetare: S-budet går längre än Tidöavtalet"
-          },
-          "en": {
-            "title": "Political scientist: S offer goes further than the Tidö Agreement"
-          }
-        },
-        {
-          "id": "667ee99aca02",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/0vnyaG/statsvetare-s-budet-gar-langre-an-tidoavtalet",
-          "published_at": "2026-11-23T12:48:12+01:00",
-          "sv": {
-            "title": "Statsvetare: S-budet går längre än Tidöavtalet"
-          },
-          "en": {
-            "title": "Political scientist: S offer goes further than the Tidö Agreement"
-          }
-        },
-        {
-          "id": "58dbdbde02ee",
+          "id": "e519522b88b1",
           "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/chatt-vem-blir-statsminister-och-nar-ar-det-klart",
-          "published_at": "2026-11-23T10:23:25+01:00",
+          "url": "https://www.svt.se/nyheter/utrikes/sydkorea-nordkorea-tros-ha-krankt-luftrum",
+          "published_at": "2026-11-24T00:46:39+01:00",
           "sv": {
-            "title": "Chatt: Vem blir statsminister – och när är det klart?"
+            "title": "Sydkorea: Nordkorea tros ha kränkt luftrum"
           },
           "en": {
-            "title": "Chat: Who will become prime minister – and when will it be settled?"
+            "title": "South Korea: North Korea believed to have violated airspace"
+          }
+        },
+        {
+          "id": "f715b4702273",
+          "source": "svd",
+          "url": "https://www.svd.se/a/j3deg0/sydkorea-krankning-av-luftrum",
+          "published_at": "2026-11-24T00:36:21+01:00",
+          "sv": {
+            "title": "Sydkorea: Kränkning av luftrum"
+          },
+          "en": {
+            "title": "South Korea: Airspace violation"
+          }
+        },
+        {
+          "id": "926ab31e92e2",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/3BJGoM/sydkorea-krankning-av-luftrum",
+          "published_at": "2026-11-24T00:36:21+01:00",
+          "sv": {
+            "title": "Sydkorea: Nordkorea tros ha kränkt luftrum"
+          },
+          "en": {
+            "title": "South Korea: North Korea believed to have violated airspace"
           }
         }
       ]
@@ -2770,68 +2757,6 @@
       ]
     },
     {
-      "id": "926ab31e92e2",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-24T00:36:21+01:00",
-      "last_published_at": "2026-11-24T00:36:21+01:00",
-      "lead": {
-        "id": "926ab31e92e2",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/3BJGoM/sydkorea-krankning-av-luftrum",
-        "guid": "https://www.aftonbladet.se/nyheter/a/3BJGoM/sydkorea-krankning-av-luftrum?utm_medium=rss",
-        "published_at": "2026-11-24T00:36:21+01:00",
-        "fetched_at": "2026-11-24T00:45:48+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Sydkorea: Nordkorea tros ha kränkt luftrum",
-          "summary": "Ett misstänkt nordkoreanskt flygplan har tagit sig in i det sydkoreanska luftrummet, uppger Sydkorea…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "South Korea: North Korea believed to have violated airspace",
-          "summary": "A suspected North Korean aircraft has entered South Korean airspace, South Korea says…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T00:45:56+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "f715b4702273",
-          "source": "svd",
-          "url": "https://www.svd.se/a/j3deg0/sydkorea-krankning-av-luftrum",
-          "published_at": "2026-11-24T00:36:21+01:00",
-          "sv": {
-            "title": "Sydkorea: Kränkning av luftrum"
-          },
-          "en": {
-            "title": "South Korea: Airspace violation"
-          }
-        },
-        {
-          "id": "926ab31e92e2",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/3BJGoM/sydkorea-krankning-av-luftrum",
-          "published_at": "2026-11-24T00:36:21+01:00",
-          "sv": {
-            "title": "Sydkorea: Nordkorea tros ha kränkt luftrum"
-          },
-          "en": {
-            "title": "South Korea: North Korea believed to have violated airspace"
-          }
-        }
-      ]
-    },
-    {
       "id": "df033810f719",
       "source_count": 2,
       "sources": [
@@ -3092,6 +3017,68 @@
           },
           "en": {
             "title": "Wall Street surges after Huang's return to Nvidia"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7719072a3882",
+      "source_count": 2,
+      "sources": [
+        "expressen",
+        "sr"
+      ],
+      "first_published_at": "2026-11-23T21:22:45+01:00",
+      "last_published_at": "2026-11-23T21:54:00+01:00",
+      "lead": {
+        "id": "7719072a3882",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/varlden/rasar-mot-trumps-inblandning-i-huangs-comeback",
+        "guid": "https://www.expressen.se/nyheter/varlden/rasar-mot-trumps-inblandning-i-huangs-comeback/",
+        "published_at": "2026-11-23T21:22:45+01:00",
+        "fetched_at": "2026-11-23T21:31:02+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Rasar mot Trumps inblandning i Huangs comeback",
+          "summary": "Donald Trump tryckte personligen på för att Jensen Huang skulle återvända som vd för Nvidia. Nu möter beslutet hård kritik från både republikaner och demokrater i kongressen. ”Ingen risk för nationell säkerhet? Baserat på vad?”, frågar den republikanske senatorn John Cornyn.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Outrage over Trump's involvement in Huang's comeback",
+          "summary": "Donald Trump personally pushed for Jensen Huang to return as CEO of Nvidia. The decision now meets harsh criticism from both Republicans and Democrats in Congress. \"No risk to national security? Based on what?\" asks Republican senator John Cornyn."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T21:31:09+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "059a1e6837f9",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348677",
+          "published_at": "2026-11-23T21:54:00+01:00",
+          "sv": {
+            "title": "Uppgifter: Trump gav garantier om Huang till Nvidiastyrelse"
+          },
+          "en": {
+            "title": "Reports: Trump gave guarantees about Huang to Nvidia board"
+          }
+        },
+        {
+          "id": "7719072a3882",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/rasar-mot-trumps-inblandning-i-huangs-comeback",
+          "published_at": "2026-11-23T21:22:45+01:00",
+          "sv": {
+            "title": "Rasar mot Trumps inblandning i Huangs comeback"
+          },
+          "en": {
+            "title": "Outrage over Trump's involvement in Huang's comeback"
           }
         }
       ]

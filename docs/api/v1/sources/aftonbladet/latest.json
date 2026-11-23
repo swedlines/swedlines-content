@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T00:46:01+01:00",
+  "generated_at": "2026-11-24T00:53:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "869048e07eaa",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/aGwnjM/smutsig-tandlakarutrustning-kan-ha-spridit-hiv",
+      "guid": "https://www.aftonbladet.se/nyheter/a/aGwnjM/smutsig-tandlakarutrustning-kan-ha-spridit-hiv?utm_medium=rss",
+      "published_at": "2026-11-24T00:48:08+01:00",
+      "fetched_at": "2026-11-24T00:52:53+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/da944c21-6903-314a-bb2c-ee02a570fc8a?format=auto&s=c9122d8527fcac839e46703314f61887574d9f57&w=1000",
+      "sv": {
+        "title": "Smutsig tandläkarutrustning kan ha spridit hiv",
+        "summary": "Kan ha smittats av Folktandvården",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dirty dental equipment may have spread HIV",
+        "summary": "May have been infected by Folktandvården"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T00:52:58+01:00"
+      }
+    },
     {
       "id": "793a1bb367c6",
       "schema_version": 1,
@@ -5344,33 +5371,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:31:13+01:00"
-      }
-    },
-    {
-      "id": "3a526abfa7bf",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1506585",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1506585&utm_medium=rss",
-      "published_at": "2026-11-20T18:52:27+01:00",
-      "fetched_at": "2026-11-20T19:15:54+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/df09b9b9-dfe9-39ae-9c5a-7a421ae05f6f?format=auto&s=11400eb4eb5080fcd92c74f025fc6abb284f1cc5&w=1000",
-      "sv": {
-        "title": "Trump efter Kinamötet: \"Hatar varandra\"",
-        "summary": "Trumps ord efter toppmötet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump after China meeting: \"Hate each other\"",
-        "summary": "Trump's words after the summit"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T19:16:01+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T00:46:01+01:00",
+  "generated_at": "2026-11-24T00:53:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e519522b88b1",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/sydkorea-nordkorea-tros-ha-krankt-luftrum",
+      "guid": "https://www.svt.se/nyheter/utrikes/sydkorea-nordkorea-tros-ha-krankt-luftrum",
+      "published_at": "2026-11-24T00:46:39+01:00",
+      "fetched_at": "2026-11-24T00:52:50+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Sydkorea: Nordkorea tros ha kränkt luftrum",
+        "summary": "Ett misstänkt nordkoreanskt flygplan har tagit sig in i det sydkoreanska luftrummet, uppger Sydkorea enligt Yonhap.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "South Korea: North Korea believed to have violated airspace",
+        "summary": "A suspected North Korean aircraft has entered South Korean airspace, South Korea says according to Yonhap."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T00:52:58+01:00"
+      }
+    },
     {
       "id": "926ab31e92e2",
       "schema_version": 1,
@@ -5321,35 +5347,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T22:15:55+01:00"
-      }
-    },
-    {
-      "id": "9a87c9cab7d5",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/tt-261121-cop311-52b11a69/ny-kompromiss-pa-cop31-far-bara-eller-brista",
-      "guid": "tt-261121-cop311-52b11a69",
-      "published_at": "2026-11-21T21:46:14+01:00",
-      "fetched_at": "2026-11-21T22:01:13+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Liberalerna"
-      ],
-      "sv": {
-        "title": "Ny kompromiss på COP31: ”Får bära eller brista”",
-        "summary": "100 länder har lämnat över förslag • “Faktiskt en stor risk“",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New compromise at COP31: “Must either bear or break”",
-        "summary": "100 countries have submitted proposals • “Actually a major risk”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T22:01:19+01:00"
       }
     }
   ]
