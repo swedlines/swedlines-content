@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-23T15:01:18+01:00",
+  "generated_at": "2026-11-23T15:11:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a8ab7a458965",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/frontalkrock-med-buss",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/frontalkrock-med-buss",
+      "published_at": "2026-11-23T15:03:49+01:00",
+      "fetched_at": "2026-11-23T15:10:44+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Frontalkrock med buss",
+        "summary": "En buss och en personbil har frontalkrockat i Anneberg i Nässjö kommun.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Head-on collision with bus",
+        "summary": "A bus and a passenger car have collided head-on in Anneberg in Nässjö Municipality."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:10:54+01:00"
+      }
+    },
+    {
+      "id": "613a949b914d",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/familjehemspappa-i-umea-atalas-for-valdtakt-mot-barn",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/familjehemspappa-i-umea-atalas-for-valdtakt-mot-barn",
+      "published_at": "2026-11-23T14:48:41+01:00",
+      "fetched_at": "2026-11-23T15:10:44+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Familjehemspappa i Umeå åtalas för våldtäkt mot barn",
+        "summary": "En man i 60-årsåldern hemmahörande i Umeå kommun åtalas för våldtäkt mot barn och grovt barnfridsbrott. Mannen har under flera år varit familjehemspappa åt tre barn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Foster father in Umeå charged with rape of child",
+        "summary": "A man in his 60s residing in Umeå Municipality is charged with rape of a child and aggravated child-protection offence. The man has for several years been a foster father to three children."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:10:54+01:00"
+      }
+    },
     {
       "id": "0e35892e35f6",
       "schema_version": 1,
@@ -5148,58 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T17:15:53+01:00"
-      }
-    },
-    {
-      "id": "4771f9e91585",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/stockholm/busschaufforer-i-norrtalje-utan-julbord-kanns-som-en-bestraffning",
-      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/busschaufforer-i-norrtalje-utan-julbord-kanns-som-en-bestraffning",
-      "published_at": "2026-11-17T16:53:59+01:00",
-      "fetched_at": "2026-11-17T16:54:21+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Busschaufförer i Norrtälje utan julbord: ”Känns som en bestraffning”",
-        "summary": "I oktober stannade all busstrafik i Norrtälje kommun efter ett akut skyddsstopp. I förra veckan meddelade bussoperatören Transdev att det inte blir något julbord för de anställda – och refererade till kostnaderna skyddstoppet medfört.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Norrtälje bus driver without Christmas buffet: \"Feels like a punishment\"",
-        "summary": "In October, all bus traffic in Norrtälje municipality stopped after an acute safety stoppage. Last week, bus operator Transdev announced there will be no Christmas buffet for the employees – and referred to the costs caused by the safety stoppage."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:54:30+01:00"
-      }
-    },
-    {
-      "id": "62b75e0c7b68",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/fruktat-hastvirus-i-timra-tva-hastar-doda",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/fruktat-hastvirus-i-timra-tva-hastar-doda",
-      "published_at": "2026-11-17T16:06:23+01:00",
-      "fetched_at": "2026-11-17T16:15:47+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Fruktat hästvirus i Timrå – två hästar döda",
-        "summary": "Två hästar i Västernorrland har dött av misstänkt herpessmitta. Nu uppmanar länsveterinären till försiktighet. – Jag tycker att man alltid ska agera som om det finns smitta, säger Helén Löfblad på Länsstyrelsen i Västernorrland.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Feared horse virus in Timrå – two horses dead",
-        "summary": "Two horses in Västernorrland have died of suspected herpes infection. The county veterinarian now urges caution. – I think one should always act as if there is infection, says Helén Löfblad at the county administrative board of Västernorrland."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:15:57+01:00"
       }
     }
   ]

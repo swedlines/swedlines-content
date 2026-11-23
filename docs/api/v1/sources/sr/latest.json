@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T15:01:18+01:00",
+  "generated_at": "2026-11-23T15:11:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "db68772ae622",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348407",
+      "guid": "rss:sr.se/article/9348407",
+      "published_at": "2026-11-23T15:02:00+01:00",
+      "fetched_at": "2026-11-23T15:10:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Jensen Huang återinsätts som vd för Nvidia",
+        "summary": "Jensen Huang återinsätts som vd för Nvidia, skriver bolaget i ett pressmeddelande. Aktien för AI-jätten rusar med 29 procent efter nyheten. Artikel uppdateras.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jensen Huang reinstated as CEO of Nvidia",
+        "summary": "Jensen Huang is reinstated as CEO of Nvidia, the company writes in a press release. The shares of the AI giant surge 29 percent following the news. Article being updated."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:10:54+01:00"
+      }
+    },
     {
       "id": "37b425e9ae12",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T19:01:19+01:00"
-      }
-    },
-    {
-      "id": "4ea7f696ed0d",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344646",
-      "guid": "rss:sr.se/article/9344646",
-      "published_at": "2026-11-17T17:58:00+01:00",
-      "fetched_at": "2026-11-17T18:01:15+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Gissén om pressen på S: ”Vore en smärre katastrof”",
-        "summary": "S-ledaren Magdalena Andersson välkomnar talmannens besked om ny talmansrunda nästa vecka och säger att hon kommer att fortsätta arbeta intensivt för att Sverige ska få en ny regering.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Gissén on pressure on the Social Democrats: \"Would be a minor catastrophe\"",
-        "summary": "Social Democrat leader Magdalena Andersson welcomes the Speaker's announcement of a new round of talks with party leaders next week and says she will continue working intensively for Sweden to get a new government."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:01:27+01:00"
       }
     }
   ]

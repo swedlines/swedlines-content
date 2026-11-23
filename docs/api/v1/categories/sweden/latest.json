@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T15:01:18+01:00",
+  "generated_at": "2026-11-23T15:11:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a8ab7a458965",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/frontalkrock-med-buss",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/frontalkrock-med-buss",
+      "published_at": "2026-11-23T15:03:49+01:00",
+      "fetched_at": "2026-11-23T15:10:44+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Frontalkrock med buss",
+        "summary": "En buss och en personbil har frontalkrockat i Anneberg i Nässjö kommun.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Head-on collision with bus",
+        "summary": "A bus and a passenger car have collided head-on in Anneberg in Nässjö Municipality."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:10:54+01:00"
+      }
+    },
     {
       "id": "d71f408b30aa",
       "schema_version": 1,
@@ -5404,32 +5430,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T11:45:49+01:00"
-      }
-    },
-    {
-      "id": "cdc83155fdd2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=14aec9dd-d945-43db-aa2c-5181d19fa022",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=14aec9dd-d945-43db-aa2c-5181d19fa022",
-      "published_at": "2026-11-19T11:24:04+01:00",
-      "fetched_at": "2026-11-19T11:31:01+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Ung man död",
-        "summary": "Olycka utanför Vimmerby",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Young man dead",
-        "summary": "Accident outside Vimmerby"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T11:31:11+01:00"
       }
     }
   ]

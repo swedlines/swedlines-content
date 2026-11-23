@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T15:01:18+01:00",
+  "generated_at": "2026-11-23T15:11:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bb05f277a3b6",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/qOLavm/familjehemspappa-atalas-for-valdtakt",
+      "guid": "https://www.aftonbladet.se/nyheter/a/qOLavm/familjehemspappa-atalas-for-valdtakt?utm_medium=rss",
+      "published_at": "2026-11-23T15:05:13+01:00",
+      "fetched_at": "2026-11-23T15:10:46+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/d61d853c-3d0e-3358-a5be-ecf3c86b4b4e?format=auto&s=3804ae22dab660f7ea1ffbc635c2829e61165bb9&w=1000",
+      "sv": {
+        "title": "Familjehemspappa åtalas för våldtäkt",
+        "summary": "En man i 60-årsåldern, som i flera år varit familjehemspappa åt tre barn, åtalas för våldtäkt mot…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Foster father charged with rape",
+        "summary": "A man in his 60s, who has for several years been a foster father to three children, is charged with rape against…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:10:54+01:00"
+      }
+    },
     {
       "id": "a2578c2fd379",
       "schema_version": 1,
@@ -29,6 +56,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T15:01:15+01:00"
+      }
+    },
+    {
+      "id": "613a949b914d",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/familjehemspappa-i-umea-atalas-for-valdtakt-mot-barn",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/familjehemspappa-i-umea-atalas-for-valdtakt-mot-barn",
+      "published_at": "2026-11-23T14:48:41+01:00",
+      "fetched_at": "2026-11-23T15:10:44+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Familjehemspappa i Umeå åtalas för våldtäkt mot barn",
+        "summary": "En man i 60-årsåldern hemmahörande i Umeå kommun åtalas för våldtäkt mot barn och grovt barnfridsbrott. Mannen har under flera år varit familjehemspappa åt tre barn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Foster father in Umeå charged with rape of child",
+        "summary": "A man in his 60s residing in Umeå Municipality is charged with rape of a child and aggravated child-protection offence. The man has for several years been a foster father to three children."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:10:54+01:00"
       }
     },
     {
@@ -5369,58 +5422,6 @@
       "en": {
         "title": "Six charged over abuse at Sigtunaskolan",
         "summary": "Six male students are charged following the suspected abuse at Sigtunaskolan, the Prosecution Authority announces."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T09:15:58+01:00"
-      }
-    },
-    {
-      "id": "9c6e74bd85cc",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=b14f4bb3-23b5-4d63-8e9f-0829c54d192a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b14f4bb3-23b5-4d63-8e9f-0829c54d192a",
-      "published_at": "2026-11-19T09:08:39+01:00",
-      "fetched_at": "2026-11-19T09:15:42+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Sex elever åtalas för brott på Sigtunaskolan",
-        "summary": "Misstänkta för brott på Sigtuna",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Six students charged over offences at Sigtunaskolan",
-        "summary": "Suspected of offences at Sigtuna"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T09:15:58+01:00"
-      }
-    },
-    {
-      "id": "ee94563b8a25",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/stockholm/sex-atalas-for-valdsbrott-pa-internatet-i-sigtuna",
-      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/sex-atalas-for-valdsbrott-pa-internatet-i-sigtuna",
-      "published_at": "2026-11-19T09:08:35+01:00",
-      "fetched_at": "2026-11-19T09:15:40+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Sex åtalas för våldsbrott på internatet i Sigtuna",
-        "summary": "Under hösten har misstankar om misshandel, olaga tvång och sexuellt ofredande mellan elever framkommit på Sigtunaskolan humanistiska läroverket. Nu åtalas sex personer. Tre av eleverna åtalas för grovt sexuellt ofredande, grov misshandel och grovt olaga tvång.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Six charged with violent offences at the boarding school in Sigtuna",
-        "summary": "Over the autumn, suspicions of assault, unlawful coercion and sexual harassment between students have emerged at Sigtunaskolan Humanistiska Läroverket. Now six people are charged. Three of the students are charged with aggravated sexual harassment, aggravated assault and aggravated unlawful coercion."
       },
       "translation": {
         "status": "done",
