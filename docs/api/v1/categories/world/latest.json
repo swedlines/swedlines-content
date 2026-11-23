@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T07:31:07+01:00",
+  "generated_at": "2026-11-23T07:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b87d1d4e659e",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347982",
+      "guid": "rss:sr.se/article/9347982",
+      "published_at": "2026-11-23T07:32:00+01:00",
+      "fetched_at": "2026-11-23T07:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Då väntas Venezuela tidigast hålla val: ”De måste förstå”",
+        "summary": "Venezuelas regering tvingas förhandla under amerikansk press efter USA:s gripande av president Nicolas Maduro. Ramon Lopez, en av oppositionens fem representanter i förhandlingarna, menar att presen ger resultat i form av den nya högsta domstolen som snart är snart på plats och näst på tur en ny…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Venezuela expected to hold elections at the earliest: “They must understand”",
+        "summary": "Venezuela's government is being forced to negotiate under American pressure following the US arrest of President Nicolas Maduro. Ramon Lopez, one of the opposition's five representatives in the negotiations, argues that pressure is producing results in the form of the new Supreme Court, which will soon be in place, and next in line a new…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T07:45:54+01:00"
+      }
+    },
     {
       "id": "c6cf04a30c8b",
       "schema_version": 1,
@@ -5358,33 +5384,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T06:01:22+01:00"
-      }
-    },
-    {
-      "id": "8653d964ff4a",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/8Pm13E/historisk-dom-kan-paverka-folkmordsmal-mot-israel",
-      "guid": "https://www.svd.se/a/8Pm13E/historisk-dom-kan-paverka-folkmordsmal-mot-israel?utm_medium=rss",
-      "published_at": "2026-11-21T06:00:13+01:00",
-      "fetched_at": "2026-11-21T06:15:48+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/853e4705-155e-3248-bbc8-413c197364e5?format=auto&s=59128252755245c93bfd3c81cfb852d3e4723b69&w=1000",
-      "sv": {
-        "title": "Historisk dom kan påverka folkmordsmål mot Israel",
-        "summary": "Den historiska folkmordsdomen mot Myanmar ger rohingyerna upprättelse.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Historic Ruling Could Affect Genocide Case Against Israel",
-        "summary": "The historic genocide ruling against Myanmar gives the Rohingya redress."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T06:16:04+01:00"
       }
     }
   ]

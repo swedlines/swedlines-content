@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T07:31:07+01:00",
+  "generated_at": "2026-11-23T07:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "035ee2b1a6eb",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/ekonomi/polisens-varning-infor-black-week-ubhbh",
+      "guid": "https://www.expressen.se/ekonomi/polisens-varning-infor-black-week-ubhbh/",
+      "published_at": "2026-11-23T07:40:10+01:00",
+      "fetched_at": "2026-11-23T07:45:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisens varning inför Black Week",
+        "summary": "Black week är i gång med röda prislappar och lockande erbjudanden – och bedrägerier. Här är polisens tips på hur du undviker att bli lurad under de stundande och kommande högtiderna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police warning ahead of Black Week",
+        "summary": "Black Week is under way with red price tags and tempting offers – and fraud. Here are the police's tips on how to avoid being duped during the coming holidays."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T07:45:54+01:00"
+      }
+    },
     {
       "id": "23a9676c4fce",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T19:01:19+01:00"
-      }
-    },
-    {
-      "id": "83e4c210fb0f",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/inas-hamdan-och-viktor-barth-kron-prisas",
-      "guid": "https://www.expressen.se/nyheter/sverige/inas-hamdan-och-viktor-barth-kron-prisas/",
-      "published_at": "2026-11-19T18:49:07+01:00",
-      "fetched_at": "2026-11-19T22:30:59+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Inas Hamdan och Viktor Barth-Kron prisas",
-        "summary": "Expressens Viktor Barth-Kron och Inas Hamdan vinner Stora Journalistpriset. Det tillkännagavs på torsdagskvällen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Inas Hamdan and Viktor Barth-Kron honoured",
-        "summary": "Expressen's Viktor Barth-Kron and Inas Hamdan win the Stora Journalistpriset. It was announced on Thursday evening."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T22:31:03+01:00"
       }
     }
   ]

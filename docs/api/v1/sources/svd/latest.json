@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-23T07:31:07+01:00",
+  "generated_at": "2026-11-23T07:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8f266139c587",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/z0GjVK/anthropic-och-claude-bakom-losning-pa-riemannhypotesen-en-av-matematikens-storsta-gator",
+      "guid": "https://www.svd.se/a/z0GjVK/anthropic-och-claude-bakom-losning-pa-riemannhypotesen-en-av-matematikens-storsta-gator?utm_medium=rss",
+      "published_at": "2026-11-23T07:35:36+01:00",
+      "fetched_at": "2026-11-23T07:45:45+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/063d0d85-6e8f-3f47-a294-a1994f906bba?format=auto&s=a3cf16d2c65cd50cf14c957c745055d987345ded&w=1000",
+      "sv": {
+        "title": "Lösningen på gåtan – som ingen förstår"
+      },
+      "en": {
+        "title": "The solution to the puzzle – that no one understands"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T07:45:54+01:00"
+      }
+    },
     {
       "id": "da248cc7c337",
       "schema_version": 1,
@@ -5235,33 +5259,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T03:31:05+01:00"
-      }
-    },
-    {
-      "id": "664e92e41e45",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Oyp093/kockduon-lamnar-stjarnkrogen",
-      "guid": "https://www.svd.se/a/Oyp093/kockduon-lamnar-stjarnkrogen?utm_medium=rss",
-      "published_at": "2026-11-20T03:06:04+01:00",
-      "fetched_at": "2026-11-20T03:15:45+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/c250d86a-ac2e-36a0-a7b5-1967b456aa21?format=auto&s=4b99f22ce1ee2dbc93662b28d74f4d1fdf6bc550&w=1000",
-      "sv": {
-        "title": "Kockduon lämnar stjärnkrogen",
-        "summary": "Efter sex år vid rodret lämnar Tommy Myllymäki och Pi Le restaurangen ”Aira”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Cooking duo leaves star restaurant",
-        "summary": "After six years at the helm, Tommy Myllymäki and Pi Le are leaving the restaurant \"Aira\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T03:15:50+01:00"
       }
     }
   ]

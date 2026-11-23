@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-23T07:31:07+01:00",
+  "generated_at": "2026-11-23T07:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "92de5140b709",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7qd4uGkLRokptcmUAO7pWz/myndigheternas-black-week-larm-brister-i-9-av-10-produkter",
+      "guid": "7qd4uGkLRokptcmUAO7pWz",
+      "published_at": "2026-11-23T07:32:49+01:00",
+      "fetched_at": "2026-11-23T07:45:47+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi"
+      ],
+      "sv": {
+        "title": "Myndigheternas Black Week-larm: Brister i 9 av 10 produkter",
+        "summary": "Totalt granskades 265 produkter från säljare utanför EU på bland annat Amazon, Temu, Shein, AliExpress, CDON, Wish och Fyndiq. Kemikalieinspektionen hittade förbjudna ämnen i 104 av 131 undersökta produkter.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Authorities' Black Week alarm: Deficiencies in 9 of 10 products",
+        "summary": "A total of 265 products from sellers outside the EU were examined on, among others, Amazon, Temu, Shein, AliExpress, CDON, Wish and Fyndiq. The Chemicals Inspectorate found banned substances in 104 of 131 products examined."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T07:45:54+01:00"
+      }
+    },
     {
       "id": "c6cf04a30c8b",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "ffd7ef37f022",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/61LDOx4dWJIDqnt1d9xC8b/de-tvingas-laemna-taevlingen-efter-duetterna",
-      "guid": "61LDOx4dWJIDqnt1d9xC8b",
-      "published_at": "2026-11-14T22:44:16+01:00",
-      "fetched_at": "2026-11-14T23:33:36+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "De tvingas lämna tävlingen efter duetterna",
-        "summary": "Får lämna veckan innan kvartsfinal • ”Jag fick avsluta på topp”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "They are forced to leave the competition after the duets",
-        "summary": "Must leave the week before the quarter-final • \"I got to end on a high\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T23:33:46+01:00"
       }
     }
   ]
