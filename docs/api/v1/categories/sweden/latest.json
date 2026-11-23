@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:45:51+01:00",
+  "generated_at": "2026-11-23T22:01:28+01:00",
   "count": 200,
   "items": [
     {
@@ -56,6 +56,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T20:15:50+01:00"
+      }
+    },
+    {
+      "id": "84d81c492626",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3YA06wlP8w08cRhdQjNXOK/kaendisbagaren-rasar-mot-lussebullefoerbudet-galet",
+      "guid": "3YA06wlP8w08cRhdQjNXOK",
+      "published_at": "2026-11-23T19:44:42+01:00",
+      "fetched_at": "2026-11-23T22:01:14+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Efter fem"
+      ],
+      "sv": {
+        "title": "Stjärnbagaren rasar mot förskolornas lussebulledrag: ”Galet”",
+        "summary": "Beslutet att begränsa livsmedel med mycket socker fattades redan i början av 2025, med hänvisning till Livsmedelsverkets rekommendationer. Men först nu har det uppmärksammats att även det traditionella lussebaket påverkas, något Göteborgs-Posten var först med att rapportera.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Star baker lashes out at preschools' lussebullar ruling: ”Crazy”",
+        "summary": "The decision to restrict foods with high sugar content was made back in early 2025, citing the recommendations of the National Food Agency. But only now has it been noticed that the traditional Lucia bun baking is also affected, something Göteborgs-Posten was first to report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:01:21+01:00"
       }
     },
     {
@@ -5422,33 +5451,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T15:31:07+01:00"
-      }
-    },
-    {
-      "id": "17d8417d395f",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/konstgjuteriets-rivning-stoppas-far-anda-inte-vara-kvar",
-      "guid": "https://www.dn.se/kultur/konstgjuteriets-rivning-stoppas-far-anda-inte-vara-kvar/",
-      "published_at": "2026-11-19T15:04:38+01:00",
-      "fetched_at": "2026-11-19T15:15:41+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/ebc90b50-1fe4-4122-9474-c2b7efd4e26c.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Konstgjuteriets rivning stoppas – får ändå inte vara kvar",
-        "summary": "Det anrika konstgjuteriet Herman Bergman tvingas flytta från sina lokaler vid årsskiftet för att fastighetsägaren Iris vill riva lokalerna. Nu har politikerna stoppat rivningen – men fastighetsägaren kastar ändå ut gjuteriet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Demolition of Konstgjuteriet Halted – But Foundry Still Must Leave",
-        "summary": "The venerable Herman Bergman art foundry is being forced to move out of its premises at year-end because property owner Iris wants to demolish the building. Now politicians have halted the demolition – but the property owner is still evicting the foundry."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:15:49+01:00"
       }
     }
   ]

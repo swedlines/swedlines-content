@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T21:45:51+01:00",
+  "generated_at": "2026-11-23T22:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d6620e3ed99e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/jensen-huang-tillbaka-pa-kontoret-ska-vara-en-battre-vd",
+      "guid": "422e98ff-4bcb-479e-8e99-74c43120ef1a",
+      "published_at": "2026-11-23T21:51:15+01:00",
+      "fetched_at": "2026-11-23T22:01:15+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0ebfc0ad-cd6d-4759-a659-22622def46fe.jpeg?width=600",
+      "sv": {
+        "title": "Jensen Huang tillbaka på kontoret: ”Ska vara en bättre vd”",
+        "summary": "Efter bara elva dagar var Nvidias vd Jensen Huang tillbaka på jobbet under måndagen, mött av jubel från de anställda vid huvudkontoret i Kalifornien. ”Jag har ingen dator, så it-avdelningen ska ge mig en ny”, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jensen Huang back in the office: ”Will be a better CEO”",
+        "summary": "After just eleven days, Nvidia CEO Jensen Huang was back at work on Monday, greeted with cheers from employees at the headquarters in California. ”I don't have a computer, so the IT department will give me a new one”, he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:01:21+01:00"
+      }
+    },
     {
       "id": "791b4cb57111",
       "schema_version": 1,
@@ -5316,33 +5343,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T16:45:50+01:00"
-      }
-    },
-    {
-      "id": "31dbe736ee5a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/tv4-laser-in-shl-i-langt-avtal",
-      "guid": "913e6ef7-8e5f-41fa-9a53-46a29f5be4bf",
-      "published_at": "2026-11-21T15:17:11+01:00",
-      "fetched_at": "2026-11-21T15:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/af0f79d3-1dec-4532-a5b9-c583344b393a.jpeg?width=600",
-      "sv": {
-        "title": "TV4 låser in SHL i långt avtal",
-        "summary": "TV4 tecknar ett nytt flerårsavtal med Svenska Hockeyligan, SHL. Nu ska sport i tv-sofforna göra tv-bolaget till landets största streamingstjänst, enligt TV4-chefen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "TV4 locks in the SHL with a long contract",
-        "summary": "TV4 signs a new multi-year agreement with the Swedish Hockey League, SHL. Now sport in the TV sofas is to make the broadcaster the country's largest streaming service, according to the TV4 chief."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T15:31:08+01:00"
       }
     }
   ]
