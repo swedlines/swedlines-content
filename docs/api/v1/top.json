@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:45:52+01:00",
+  "generated_at": "2026-11-23T23:01:18+01:00",
   "count": 30,
   "stories": [
     {
@@ -2706,81 +2706,6 @@
       ]
     },
     {
-      "id": "6bd831d21749",
-      "source_count": 3,
-      "sources": [
-        "svd",
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-23T10:55:22+01:00",
-      "last_published_at": "2026-11-23T11:00:50+01:00",
-      "lead": {
-        "id": "6bd831d21749",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/g37nJJ/71-dagar-utan-regering-detta-har-hant",
-        "guid": "https://www.svd.se/a/g37nJJ/71-dagar-utan-regering-detta-har-hant?utm_medium=rss",
-        "published_at": "2026-11-23T10:55:22+01:00",
-        "fetched_at": "2026-11-23T11:01:07+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "71 dagar utan regering – detta har hänt",
-          "summary": "Det har nu gått 71 dagar sedan valdagen. Ännu är det oklart vilken regering Sverige ska få.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "71 days without a government – here is what has happened",
-          "summary": "It has now been 71 days since election day. It is still unclear which government Sweden will get."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T11:01:15+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "c0bc1befa9ae",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/71-dagar-utan-regering-detta-har-hant",
-          "published_at": "2026-11-23T11:00:50+01:00",
-          "sv": {
-            "title": "71 dagar utan regering – detta har hänt"
-          },
-          "en": {
-            "title": "71 days without a government – here is what has happened"
-          }
-        },
-        {
-          "id": "932db2c8ecb8",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/ez8LkO/71-dagar-utan-regering-detta-har-hant",
-          "published_at": "2026-11-23T10:55:22+01:00",
-          "sv": {
-            "title": "71 dagar utan regering – detta har hänt"
-          },
-          "en": {
-            "title": "71 days without a government – here is what has happened"
-          }
-        },
-        {
-          "id": "6bd831d21749",
-          "source": "svd",
-          "url": "https://www.svd.se/a/g37nJJ/71-dagar-utan-regering-detta-har-hant",
-          "published_at": "2026-11-23T10:55:22+01:00",
-          "sv": {
-            "title": "71 dagar utan regering – detta har hänt"
-          },
-          "en": {
-            "title": "71 days without a government – here is what has happened"
-          }
-        }
-      ]
-    },
-    {
       "id": "293cc1331fc7",
       "source_count": 2,
       "sources": [
@@ -3103,6 +3028,73 @@
           },
           "en": {
             "title": "Outrage over Trump's involvement in Huang's comeback"
+          }
+        }
+      ]
+    },
+    {
+      "id": "495fbd70c646",
+      "source_count": 2,
+      "sources": [
+        "gp",
+        "svd"
+      ],
+      "first_published_at": "2026-11-23T20:49:24+01:00",
+      "last_published_at": "2026-11-23T21:25:25+01:00",
+      "lead": {
+        "id": "495fbd70c646",
+        "schema_version": 1,
+        "source": "gp",
+        "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/hammarby-besegrade-ifk-goteborg-guldrysare-vantar.82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
+        "guid": "82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
+        "published_at": "2026-11-23T20:49:24+01:00",
+        "fetched_at": "2026-11-23T21:15:51+01:00",
+        "category": "sports",
+        "feed_categories": [
+          "IFK Göteborg",
+          "Tagg: IFK Göteborg"
+        ],
+        "image_url": "https://vcdn.polarismedia.no/0d18a469-4adc-301d-9c79-0d952e474166",
+        "sv": {
+          "title": "Bajen besegrade Blåvitt – guldrysare väntar",
+          "summary": "Blåvitt lyckades skapa nerv – räckte inte hela vägen • Slutdrama i sista omgången på Gamla Ullevi.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Bajen beat Blåvitt – title race awaits",
+          "summary": "Blåvitt managed to create tension – but not enough to go all the way • Thriller in the final round at Gamla Ullevi."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T21:15:56+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "83a1c0c56045",
+          "source": "svd",
+          "url": "https://www.svd.se/a/aGwn75/henrik-rydstrom-har-lyft-hammarby-ena-handen-pa-lennart-johanssons-pokal",
+          "published_at": "2026-11-23T21:25:25+01:00",
+          "sv": {
+            "title": "Rydströms intåg har lyft Bajen"
+          },
+          "en": {
+            "title": "Rydström's arrival has lifted Bajen"
+          }
+        },
+        {
+          "id": "495fbd70c646",
+          "source": "gp",
+          "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/hammarby-besegrade-ifk-goteborg-guldrysare-vantar.82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
+          "published_at": "2026-11-23T20:49:24+01:00",
+          "sv": {
+            "title": "Bajen besegrade Blåvitt – guldrysare väntar"
+          },
+          "en": {
+            "title": "Bajen beat Blåvitt – title race awaits"
           }
         }
       ]
