@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T11:03:11+01:00",
+  "generated_at": "2026-11-23T11:16:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3a64661928c8",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/fotboll/sirius-spelarna-kommer-inte-se-hammarby-matchen-bryr-mig-inte",
+      "guid": "https://www.svt.se/sport/fotboll/sirius-spelarna-kommer-inte-se-hammarby-matchen-bryr-mig-inte",
+      "published_at": "2026-11-23T10:58:02+01:00",
+      "fetched_at": "2026-11-23T11:15:44+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Sirius-spelarna kommer inte se Hammarby-matchen: ”Bryr mig inte”",
+        "summary": "Hammarby behöver vinna för att återta serieledningen. Då avstår flera Sirius-spelare från att kolla konkurrentens match. – Jag bryr mig inte om hur de spelar, vi behöver vinna sista matchen ändå, säger David Celic.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sirius players won't watch the Hammarby match: “I don't care”",
+        "summary": "Hammarby need to win to regain the top of the table. Several Sirius players are therefore refraining from watching the rival's match. “I don't care how they play, we need to win the last match anyway,” says David Celic."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:15:59+01:00"
+      }
+    },
     {
       "id": "eb812e908ef6",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T14:01:28+01:00"
-      }
-    },
-    {
-      "id": "db23f2475b2f",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/krimbron-delvis-kollapsad-efter-ukrainsk-attack",
-      "guid": "https://www.svt.se/nyheter/utrikes/krimbron-delvis-kollapsad-efter-ukrainsk-attack",
-      "published_at": "2026-11-17T13:18:27+01:00",
-      "fetched_at": "2026-11-17T13:31:01+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Krimbron delvis kollapsad efter ukrainsk attack",
-        "summary": "En del av den viktiga Kertjbron har kollapsat efter ukrainska angrepp – ett allvarligt slag mot Rysslands ockupation av Krim, enligt Johan Huovinen på Försvarshögskolan. – Det här är ett sätt att öka pressen på Moskva inför de kommande förhandlingarna, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Crimea bridge partially collapsed after Ukrainian attack",
-        "summary": "Part of the important Kerch Bridge has collapsed after Ukrainian attacks - a serious blow to Russia's occupation of Crimea, according to Johan Huovinen at the Swedish Defence University. - This is a way to increase pressure on Moscow ahead of the upcoming negotiations, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:31:17+01:00"
       }
     }
   ]

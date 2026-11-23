@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T11:03:11+01:00",
+  "generated_at": "2026-11-23T11:16:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "54bcda9e82fd",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/omfattande-smittsparning-efter-masslingsfall-i-stockholm",
+      "guid": "https://www.dn.se/sverige/omfattande-smittsparning-efter-masslingsfall-i-stockholm/",
+      "published_at": "2026-11-23T11:05:15+01:00",
+      "fetched_at": "2026-11-23T11:15:45+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/c2d733ba-2978-4d70-8803-879ac2c70aab.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Omfattande smittspårning efter mässlingsfall i Stockholm",
+        "summary": "Södersjukhuset i Stockholm har inlett en omfattande smittspårning efter ett fall av mässling. Man kontaktar nu hundratals sedan den smittade personen befunnit sig i ett väntrum på sjukhuset under flera timmar. – Vi har under fredagen haft ett bekräftat fall, säger chefläkare Annelie Liljegren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Extensive contact tracing after measles case in Stockholm",
+        "summary": "Södersjukhuset in Stockholm has launched extensive contact tracing after a measles case. Hundreds are now being contacted since the infected person was in a hospital waiting room for several hours. “We had a confirmed case on Friday,” says chief physician Annelie Liljegren."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:15:59+01:00"
+      }
+    },
     {
       "id": "3ca5cbfc9b0c",
       "schema_version": 1,
@@ -5369,33 +5396,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T21:31:06+01:00"
-      }
-    },
-    {
-      "id": "a691ab3b6909",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/hilma-af-klints-verk-salt-for-rekordsumma",
-      "guid": "https://www.dn.se/kultur/hilma-af-klints-verk-salt-for-rekordsumma/",
-      "published_at": "2026-11-19T21:07:13+01:00",
-      "fetched_at": "2026-11-19T21:15:45+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/e0faa8c8-655e-4487-8a5f-c3f95052df93.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Hilma af Klints verk sålt för rekordsumma",
-        "summary": "Den svenska konstnärens verk, ungefär lika stort som ett A4-papper, blev det dyraste någonsin att säljas på auktion i Norden. Hilma af Klints målning såldes för 128,9 miljoner kronor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hilma af Klint work sold for record sum",
-        "summary": "The Swedish artist's work, roughly the size of an A4 sheet of paper, became the most expensive ever sold at auction in the Nordics. Hilma af Klint's painting sold for SEK 128.9 million."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T21:15:59+01:00"
       }
     }
   ]

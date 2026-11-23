@@ -1,7 +1,64 @@
 {
-  "generated_at": "2026-11-23T11:03:11+01:00",
+  "generated_at": "2026-11-23T11:16:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3a64661928c8",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/fotboll/sirius-spelarna-kommer-inte-se-hammarby-matchen-bryr-mig-inte",
+      "guid": "https://www.svt.se/sport/fotboll/sirius-spelarna-kommer-inte-se-hammarby-matchen-bryr-mig-inte",
+      "published_at": "2026-11-23T10:58:02+01:00",
+      "fetched_at": "2026-11-23T11:15:44+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Sirius-spelarna kommer inte se Hammarby-matchen: ”Bryr mig inte”",
+        "summary": "Hammarby behöver vinna för att återta serieledningen. Då avstår flera Sirius-spelare från att kolla konkurrentens match. – Jag bryr mig inte om hur de spelar, vi behöver vinna sista matchen ändå, säger David Celic.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sirius players won't watch the Hammarby match: “I don't care”",
+        "summary": "Hammarby need to win to regain the top of the table. Several Sirius players are therefore refraining from watching the rival's match. “I don't care how they play, we need to win the last match anyway,” says David Celic."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:15:59+01:00"
+      }
+    },
+    {
+      "id": "bef1a9f0ccab",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/ifk-goteborg-kan-avgora-guldstriden-noah-tolf-vill-slippa-nytt-guldjubel-pa-gamla-ullevi.27b89c4d-4435-555b-a064-c5c0f4979524",
+      "guid": "27b89c4d-4435-555b-a064-c5c0f4979524",
+      "published_at": "2026-11-23T10:37:59+01:00",
+      "fetched_at": "2026-11-23T11:15:46+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "IFK Göteborg",
+        "Tagg: IFK Göteborg"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/179277c7-f614-32b7-8568-c16e8e07e319",
+      "sv": {
+        "title": "Blåvitt vill stöka till guldstriden: ”Kul att röra om i grytan”",
+        "summary": "Har båda guldkandidaterna kvar att möta – Björklund tippar Bajen med en blåvit brasklapp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Blåvitt wants to stir up the title race: “Fun to stir the pot”",
+        "summary": "Both title contenders still have to be faced – Björklund tips Bajen with a blue-and-white caveat."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:15:59+01:00"
+      }
+    },
     {
       "id": "543a0ce18861",
       "schema_version": 1,
@@ -5579,59 +5636,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T21:01:25+01:00"
-      }
-    },
-    {
-      "id": "880ad7705440",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/tva-gor-landslagsdebut-mot-polen",
-      "guid": "497cf77e-b436-4b84-89db-151dc9bffbcb",
-      "published_at": "2026-11-17T20:11:55+01:00",
-      "fetched_at": "2026-11-17T20:15:56+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/ded60af5-8e53-4e5f-bddd-9085d758cf7e.jpg?width=600",
-      "sv": {
-        "title": "Två gör landslagsdebut mot Polen",
-        "summary": "Gruppsegern är redan säkrad och förbundskapten Graham Potter kan rotera. Två debuterar när Sveriges fotbollsherrar avslutar årets Nations League-spel borta mot Polen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Two make national team debut against Poland",
-        "summary": "The group win is already secured and head coach Graham Potter can rotate. Two players make their debuts when Sweden's men's football team finish this year's Nations League matches away against Poland."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T20:16:02+01:00"
-      }
-    },
-    {
-      "id": "42e2297e9752",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/fotbollsherrarna-jagar-ny-seger",
-      "guid": "847fac7c-57db-48d3-855a-856e2bbfabda",
-      "published_at": "2026-11-17T20:00:00+01:00",
-      "fetched_at": "2026-11-17T20:01:18+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Fotbollsherrarna jagar ny seger",
-        "summary": "Uppflyttningen till A-divisionen är redan klar, men avslutar fotbollsherrarna landslagsåret med ytterligare en vinst? Och fortsätter målsuccén för Viktor Gyökeres i bortamötet med Polen?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The men's national team chases another win",
-        "summary": "Promotion to the A-division is already secured, but will the men's team end the national-team year with another win? And will Viktor Gyökeres continue his goal-scoring run in the away match against Poland?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T20:01:26+01:00"
       }
     }
   ]

@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-23T11:03:11+01:00",
+  "generated_at": "2026-11-23T11:16:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "acdd6f35d3d0",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5iMiWD1waN3s51MLn7vB1K/misstaenkt-maesslingsutbrott-hundratals-smittstparas",
+      "guid": "5iMiWD1waN3s51MLn7vB1K",
+      "published_at": "2026-11-23T11:11:23+01:00",
+      "fetched_at": "2026-11-23T11:15:46+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Misstänkt mässlingsutbrott – hundratals smittstpåras",
+        "summary": "Det misstänkta utbrottet har sitt ursprung på Södersjukhuset. Där ska en nu bekräftat smittad patient ha befunnit sig i ett väntrum under flera timmar tillsammans med flera andra personer, enligt uppgifter.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Suspected measles outbreak – hundreds to be traced",
+        "summary": "The suspected outbreak originated at Södersjukhuset. There, a now confirmed infected patient is said to have been in a waiting room for several hours together with several other people, according to reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:15:59+01:00"
+      }
+    },
     {
       "id": "da91219d833e",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T13:31:13+01:00"
-      }
-    },
-    {
-      "id": "47571cb3d01c",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4YT8FJsxRwIr3ivDwyjnOs/lennox-lever-med-ovanliga-sturge-webers-syndrom",
-      "guid": "4YT8FJsxRwIr3ivDwyjnOs",
-      "published_at": "2026-11-15T11:37:07+01:00",
-      "fetched_at": "2026-11-15T15:15:45+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Nyhetsmorgon"
-      ],
-      "sv": {
-        "title": "Sexåriga Lennox lever med ovanliga syndromet: ”Gör allt de kan”",
-        "summary": "Sturge-Webers syndrom kännetecknas av kärlförändringar som kan ge upphov till flera olika symtom. I Lennox fall innebär det ett synligt födelsemärke i ansiktet, glaukom, vilket innebär ett förhöjt tryck i ögat, samt kärlmissbildningar på hjärnans yta.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Six-year-old Lennox lives with rare syndrome: \"Does everything they can\"",
-        "summary": "Sturge-Weber syndrome is characterised by vascular changes that can cause several different symptoms. In Lennox's case, it means a visible birthmark on the face, glaucoma, which means raised pressure in the eye, and vascular malformations on the surface of the brain."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T15:15:50+01:00"
       }
     }
   ]

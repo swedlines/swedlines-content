@@ -1,7 +1,118 @@
 {
-  "generated_at": "2026-11-23T11:03:11+01:00",
+  "generated_at": "2026-11-23T11:16:04+01:00",
   "count": 25,
   "stories": [
+    {
+      "id": "af1400435bf8",
+      "source_count": 6,
+      "sources": [
+        "svd",
+        "aftonbladet",
+        "svt",
+        "sydsvenskan",
+        "dn",
+        "tv4"
+      ],
+      "first_published_at": "2026-11-23T09:36:16+01:00",
+      "last_published_at": "2026-11-23T11:11:23+01:00",
+      "lead": {
+        "id": "af1400435bf8",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80214",
+        "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80214&utm_medium=rss",
+        "published_at": "2026-11-23T09:36:16+01:00",
+        "fetched_at": "2026-11-23T09:45:45+01:00",
+        "category": "sweden",
+        "sv": {
+          "title": "Misstänkt mässlingsutbrott i Stockholm"
+        },
+        "en": {
+          "title": "Suspected measles outbreak in Stockholm"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T09:45:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "acdd6f35d3d0",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/5iMiWD1waN3s51MLn7vB1K/misstaenkt-maesslingsutbrott-hundratals-smittstparas",
+          "published_at": "2026-11-23T11:11:23+01:00",
+          "sv": {
+            "title": "Misstänkt mässlingsutbrott – hundratals smittstpåras"
+          },
+          "en": {
+            "title": "Suspected measles outbreak – hundreds to be traced"
+          }
+        },
+        {
+          "id": "54bcda9e82fd",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/omfattande-smittsparning-efter-masslingsfall-i-stockholm",
+          "published_at": "2026-11-23T11:05:15+01:00",
+          "sv": {
+            "title": "Omfattande smittspårning efter mässlingsfall i Stockholm"
+          },
+          "en": {
+            "title": "Extensive contact tracing after measles case in Stockholm"
+          }
+        },
+        {
+          "id": "8cfbbdaa7327",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/smittsparning-efter-masslingsfall-i-stockholm",
+          "published_at": "2026-11-23T09:53:19+01:00",
+          "sv": {
+            "title": "Smittspårning efter mässlingsfall i Stockholm"
+          },
+          "en": {
+            "title": "Contact tracing after measles case in Stockholm"
+          }
+        },
+        {
+          "id": "ce575bbf7794",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-utbrott-av-massling-i-stockholm",
+          "published_at": "2026-11-23T09:45:26+01:00",
+          "sv": {
+            "title": "Misstänkt utbrott av mässling i Stockholm"
+          },
+          "en": {
+            "title": "Suspected measles outbreak in Stockholm"
+          }
+        },
+        {
+          "id": "dfc16e832bfd",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/BrRKR7/smittsparning-efter-masslingsfall-i-stockholm",
+          "published_at": "2026-11-23T09:42:39+01:00",
+          "sv": {
+            "title": "Smittspårning efter mässlingsfall i Stockholm"
+          },
+          "en": {
+            "title": "Contact tracing after measles case in Stockholm"
+          }
+        },
+        {
+          "id": "af1400435bf8",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80214",
+          "published_at": "2026-11-23T09:36:16+01:00",
+          "sv": {
+            "title": "Misstänkt mässlingsutbrott i Stockholm"
+          },
+          "en": {
+            "title": "Suspected measles outbreak in Stockholm"
+          }
+        }
+      ]
+    },
     {
       "id": "364d7b31bb32",
       "source_count": 6,
@@ -113,6 +224,107 @@
           },
           "en": {
             "title": "Family thanks for support – pleads for space"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eb812e908ef6",
+      "source_count": 5,
+      "sources": [
+        "svt",
+        "aftonbladet",
+        "gp",
+        "sr",
+        "svd"
+      ],
+      "first_published_at": "2026-11-23T10:41:20+01:00",
+      "last_published_at": "2026-11-23T10:53:31+01:00",
+      "lead": {
+        "id": "eb812e908ef6",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
+        "guid": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
+        "published_at": "2026-11-23T10:41:20+01:00",
+        "fetched_at": "2026-11-23T10:45:46+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Larm om bombhot mot flera skolor i Danmark",
+          "summary": "Polisdistrikt i hela Danmark får just nu in anmälningar om bombhot mot ett stort antal danska skolor, skriver danska TV 2. Samtidigt uppmanar polisen till lugn och betonar att det i nuläget inte finns anledning till oro.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Alarm over bomb threats against several schools in Denmark",
+          "summary": "Police districts across Denmark are currently receiving reports of bomb threats against a large number of Danish schools, Danish TV 2 writes. At the same time, police urge calm and stress that there is currently no reason for concern."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T10:45:57+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "5d1e43d437ad",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80215",
+          "published_at": "2026-11-23T10:53:31+01:00",
+          "sv": {
+            "title": "Bombhot mot skolor i hela Danmark"
+          },
+          "en": {
+            "title": "Bomb threat against schools across Denmark"
+          }
+        },
+        {
+          "id": "14a18f9a1ac4",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348127",
+          "published_at": "2026-11-23T10:49:00+01:00",
+          "sv": {
+            "title": "Bombhot mot flera danska skolor"
+          },
+          "en": {
+            "title": "Bomb threat against several Danish schools"
+          }
+        },
+        {
+          "id": "05354ea44495",
+          "source": "gp",
+          "url": "https://www.gp.se/nyheter/varlden/bombhot-mot-manga-skolor-i-danmark.ea4478c5-ab2d-5d30-af63-2353e18636e8",
+          "published_at": "2026-11-23T10:45:21+01:00",
+          "sv": {
+            "title": "Bombhot mot danska skolor – polisen skickar patruller"
+          },
+          "en": {
+            "title": "Bomb threats against Danish schools – police send patrols"
+          }
+        },
+        {
+          "id": "0aa6831c9009",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/7P0ORo/bombhot-mot-skolor-i-hela-danmark",
+          "published_at": "2026-11-23T10:44:58+01:00",
+          "sv": {
+            "title": "Bombhot mot skolor i hela Danmark"
+          },
+          "en": {
+            "title": "Bomb threats against schools across Denmark"
+          }
+        },
+        {
+          "id": "eb812e908ef6",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
+          "published_at": "2026-11-23T10:41:20+01:00",
+          "sv": {
+            "title": "Larm om bombhot mot flera skolor i Danmark"
+          },
+          "en": {
+            "title": "Alarm over bomb threats against several schools in Denmark"
           }
         }
       ]
@@ -372,94 +584,6 @@
       ]
     },
     {
-      "id": "eb812e908ef6",
-      "source_count": 4,
-      "sources": [
-        "svt",
-        "aftonbladet",
-        "sr",
-        "svd"
-      ],
-      "first_published_at": "2026-11-23T10:41:20+01:00",
-      "last_published_at": "2026-11-23T10:53:31+01:00",
-      "lead": {
-        "id": "eb812e908ef6",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
-        "guid": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
-        "published_at": "2026-11-23T10:41:20+01:00",
-        "fetched_at": "2026-11-23T10:45:46+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Larm om bombhot mot flera skolor i Danmark",
-          "summary": "Polisdistrikt i hela Danmark får just nu in anmälningar om bombhot mot ett stort antal danska skolor, skriver danska TV 2. Samtidigt uppmanar polisen till lugn och betonar att det i nuläget inte finns anledning till oro.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Alarm over bomb threats against several schools in Denmark",
-          "summary": "Police districts across Denmark are currently receiving reports of bomb threats against a large number of Danish schools, Danish TV 2 writes. At the same time, police urge calm and stress that there is currently no reason for concern."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T10:45:57+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "5d1e43d437ad",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80215",
-          "published_at": "2026-11-23T10:53:31+01:00",
-          "sv": {
-            "title": "Bombhot mot skolor i hela Danmark"
-          },
-          "en": {
-            "title": "Bomb threat against schools across Denmark"
-          }
-        },
-        {
-          "id": "14a18f9a1ac4",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348127",
-          "published_at": "2026-11-23T10:49:00+01:00",
-          "sv": {
-            "title": "Bombhot mot flera danska skolor"
-          },
-          "en": {
-            "title": "Bomb threat against several Danish schools"
-          }
-        },
-        {
-          "id": "0aa6831c9009",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/7P0ORo/bombhot-mot-skolor-i-hela-danmark",
-          "published_at": "2026-11-23T10:44:58+01:00",
-          "sv": {
-            "title": "Bombhot mot skolor i hela Danmark"
-          },
-          "en": {
-            "title": "Bomb threats against schools across Denmark"
-          }
-        },
-        {
-          "id": "eb812e908ef6",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
-          "published_at": "2026-11-23T10:41:20+01:00",
-          "sv": {
-            "title": "Larm om bombhot mot flera skolor i Danmark"
-          },
-          "en": {
-            "title": "Alarm over bomb threats against several schools in Denmark"
-          }
-        }
-      ]
-    },
-    {
       "id": "f531e4d89da6",
       "source_count": 4,
       "sources": [
@@ -543,91 +667,6 @@
           },
           "en": {
             "title": "Lion on the loose"
-          }
-        }
-      ]
-    },
-    {
-      "id": "af1400435bf8",
-      "source_count": 4,
-      "sources": [
-        "svd",
-        "aftonbladet",
-        "svt",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-23T09:36:16+01:00",
-      "last_published_at": "2026-11-23T09:53:19+01:00",
-      "lead": {
-        "id": "af1400435bf8",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80214",
-        "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80214&utm_medium=rss",
-        "published_at": "2026-11-23T09:36:16+01:00",
-        "fetched_at": "2026-11-23T09:45:45+01:00",
-        "category": "sweden",
-        "sv": {
-          "title": "Misstänkt mässlingsutbrott i Stockholm"
-        },
-        "en": {
-          "title": "Suspected measles outbreak in Stockholm"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T09:45:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "8cfbbdaa7327",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/smittsparning-efter-masslingsfall-i-stockholm",
-          "published_at": "2026-11-23T09:53:19+01:00",
-          "sv": {
-            "title": "Smittspårning efter mässlingsfall i Stockholm"
-          },
-          "en": {
-            "title": "Contact tracing after measles case in Stockholm"
-          }
-        },
-        {
-          "id": "ce575bbf7794",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-utbrott-av-massling-i-stockholm",
-          "published_at": "2026-11-23T09:45:26+01:00",
-          "sv": {
-            "title": "Misstänkt utbrott av mässling i Stockholm"
-          },
-          "en": {
-            "title": "Suspected measles outbreak in Stockholm"
-          }
-        },
-        {
-          "id": "dfc16e832bfd",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/BrRKR7/smittsparning-efter-masslingsfall-i-stockholm",
-          "published_at": "2026-11-23T09:42:39+01:00",
-          "sv": {
-            "title": "Smittspårning efter mässlingsfall i Stockholm"
-          },
-          "en": {
-            "title": "Contact tracing after measles case in Stockholm"
-          }
-        },
-        {
-          "id": "af1400435bf8",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80214",
-          "published_at": "2026-11-23T09:36:16+01:00",
-          "sv": {
-            "title": "Misstänkt mässlingsutbrott i Stockholm"
-          },
-          "en": {
-            "title": "Suspected measles outbreak in Stockholm"
           }
         }
       ]
@@ -1281,6 +1320,69 @@
           },
           "en": {
             "title": "WHO calls for peace in Ebola-affected Kongo-Kinshasa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c4b3252cd103",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-23T10:46:23+01:00",
+      "last_published_at": "2026-11-23T11:03:04+01:00",
+      "lead": {
+        "id": "c4b3252cd103",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/1vn9Rl/l-vald-i-skolan-ska-leda-till-omplacering",
+        "guid": "https://www.aftonbladet.se/nyheter/a/1vn9Rl/l-vald-i-skolan-ska-leda-till-omplacering?utm_medium=rss",
+        "published_at": "2026-11-23T10:46:23+01:00",
+        "fetched_at": "2026-11-23T11:01:07+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/be8c1766-18d6-39ae-aae6-d9fde7019c6a?format=auto&s=ce85de33301927dbba9b65761fbdc3aa5a11bc39&w=1000",
+        "sv": {
+          "title": "L: Våld i skolan ska leda till omplacering",
+          "summary": "Liberalerna vill att våld i skolan i högre grad ska leda till omplacering av elever.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "L: Violence in schools should lead to relocation",
+          "summary": "The Liberals want violence in schools to lead to relocation of pupils to a greater extent."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T11:01:15+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "d981c08bf9f3",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/l-vald-i-skolan-ska-leda-till-omplacering",
+          "published_at": "2026-11-23T11:03:04+01:00",
+          "sv": {
+            "title": "L: Våld i skolan ska leda till omplacering"
+          },
+          "en": {
+            "title": "L: Violence in schools should lead to reassignment"
+          }
+        },
+        {
+          "id": "c4b3252cd103",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/1vn9Rl/l-vald-i-skolan-ska-leda-till-omplacering",
+          "published_at": "2026-11-23T10:46:23+01:00",
+          "sv": {
+            "title": "L: Våld i skolan ska leda till omplacering"
+          },
+          "en": {
+            "title": "L: Violence in schools should lead to relocation"
           }
         }
       ]
@@ -1955,68 +2057,6 @@
           },
           "en": {
             "title": "UN concerned over drone attacks"
-          }
-        }
-      ]
-    },
-    {
-      "id": "9ea097fcf1fc",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "svd"
-      ],
-      "first_published_at": "2026-11-22T21:57:23+01:00",
-      "last_published_at": "2026-11-22T23:07:53+01:00",
-      "lead": {
-        "id": "9ea097fcf1fc",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/varlden/stewart-rhodes-ledde-stormning-fordomer-nu-trump",
-        "guid": "https://www.expressen.se/nyheter/varlden/stewart-rhodes-ledde-stormning-fordomer-nu-trump/",
-        "published_at": "2026-11-22T21:57:23+01:00",
-        "fetched_at": "2026-11-22T22:01:09+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Stewart Rhodes ledde stormning – fördömer nu Trump",
-          "summary": "Han grundade högerextrema milisgruppen ”Oath Keepers”, ledde stormningen av Kapitolium 2021 och tatuerade ett porträtt av Donald Trump under sitt fängelsestraff. Nu dömer Stewart Rhodes, 60, ut presidenten som en korrumperad förrädare.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Stewart Rhodes led storming – now condemns Trump",
-          "summary": "He founded the far-right militia group \"Oath Keepers\", led the storming of the Capitol in 2021 and had a portrait of Donald Trump tattooed during his prison sentence. Now Stewart Rhodes, 60, denounces the president as a corrupt traitor."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-22T22:01:15+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "21869b121f2c",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80203",
-          "published_at": "2026-11-22T23:07:53+01:00",
-          "sv": {
-            "title": "Kongresstormare: ”Trump den värsta”"
-          },
-          "en": {
-            "title": "Congress troublemakers: \"Trump the worst\""
-          }
-        },
-        {
-          "id": "9ea097fcf1fc",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/stewart-rhodes-ledde-stormning-fordomer-nu-trump",
-          "published_at": "2026-11-22T21:57:23+01:00",
-          "sv": {
-            "title": "Stewart Rhodes ledde stormning – fördömer nu Trump"
-          },
-          "en": {
-            "title": "Stewart Rhodes led storming – now condemns Trump"
           }
         }
       ]
