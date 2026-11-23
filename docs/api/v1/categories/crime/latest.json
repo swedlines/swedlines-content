@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T22:31:15+01:00",
+  "generated_at": "2026-11-23T22:45:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d72f7b407948",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/elevernas-misstankta-tortyrliknande-vald-pa-sigtunaskolan",
+      "guid": "https://www.expressen.se/nyheter/sverige/elevernas-misstankta-tortyrliknande-vald-pa-sigtunaskolan/",
+      "published_at": "2026-11-23T22:35:51+01:00",
+      "fetched_at": "2026-11-23T22:45:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Elevernas misstänkta ”tortyrliknande” våld på Sigtunaskolan",
+        "summary": "Prefekten stod högst i rang. Men det var, enligt åtalet, strafförmannen och viceprefekten som utförde de grövsta, ”tortyrliknande” brotten mot yngre elever. Slag med golfklubba och metallskohorn, sexuella kränkningar och dödshot misstänks ha varit några av inslagen i skräckväldet på Sigtunaskolan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pupils' suspected \"torture-like\" violence at Sigtuna school",
+        "summary": "The headmaster ranked highest. But according to the charges, the disciplinary prefect and deputy headmaster carried out the most serious \"torture-like\" crimes against younger pupils. Beatings with a golf club and metal shoehorn, sexual abuse and death threats are suspected to have been among the elements of the reign of terror at Sigtuna school."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:45:50+01:00"
+      }
+    },
     {
       "id": "65b25a4a6a4a",
       "schema_version": 1,
@@ -5408,32 +5434,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T11:45:49+01:00"
-      }
-    },
-    {
-      "id": "c179da671807",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sormland/uppgifter-tag-har-utrymts-i-katrineholm-bombskyddet-inkallat",
-      "guid": "https://www.svt.se/nyheter/lokalt/sormland/uppgifter-tag-har-utrymts-i-katrineholm-bombskyddet-inkallat",
-      "published_at": "2026-11-19T11:27:58+01:00",
-      "fetched_at": "2026-11-19T11:30:59+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Uppgifter: Tåg har utrymts i Katrineholm – bombskyddet inkallat",
-        "summary": "Ett tåg mellan Stockholm och Göteborg har utrymts i Katrineholm. Det Nationella bombskyddet har kopplats in, enligt uppgifter till Aftonbladet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: Train evacuated in Katrineholm – national bomb squad called in",
-        "summary": "A train between Stockholm and Göteborg has been evacuated in Katrineholm. The National Bomb Protection unit has been called in, according to information to Aftonbladet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T11:31:11+01:00"
       }
     }
   ]

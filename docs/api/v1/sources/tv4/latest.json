@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:31:15+01:00",
+  "generated_at": "2026-11-23T22:45:52+01:00",
   "count": 200,
   "items": [
     {
@@ -145,6 +145,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T20:01:24+01:00"
+      }
+    },
+    {
+      "id": "255e9582af8a",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/tt-261123-allsv1-d2eb3204/fordel-hammarby-i-guldjakten-magiskt",
+      "guid": "tt-261123-allsv1-d2eb3204",
+      "published_at": "2026-11-23T19:54:55+01:00",
+      "fetched_at": "2026-11-23T22:45:46+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "IK Sirius"
+      ],
+      "sv": {
+        "title": "Fördel Hammarby i guldjakten: ”Magiskt”",
+        "summary": "På söndag avgörs guldstriden i allsvenskan – och det är med Hammarby i förarsätet. Tack vare måndagskvällens hemmaseger mot IFK Göteborg leder man nu allsvenskan. Stockholmsklubben har 61 poäng, lika många som Sirius, men med bättre målskillnad.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Hammarby favourites in gold chase: \"Magical\"",
+        "summary": "The Allsvenskan gold battle is decided on Sunday – and Hammarby are in the driver's seat. Thanks to Monday evening's home win against IFK Göteborg, they now lead the Allsvenskan. The Stockholm club has 61 points, as many as Sirius, but with a better goal difference."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:45:50+01:00"
       }
     },
     {
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T09:01:40+01:00"
-      }
-    },
-    {
-      "id": "9080601cc7ac",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2LnAXFeu7uf7eooNb5xASj/kurdiska-raeven-fortsatt-aktiv",
-      "guid": "2LnAXFeu7uf7eooNb5xASj",
-      "published_at": "2026-11-16T08:25:02+01:00",
-      "fetched_at": "2026-11-16T08:31:00+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Inrikes"
-      ],
-      "sv": {
-        "title": "Kurdiska räven fortsatt aktiv",
-        "summary": "Ledaren för det kriminella nätverket Foxtrot, Rawa Majid, tros ha lämnat Sverige 2018 och befinner sig enligt uppgifter till SVT i Iran. Men han är fortsatt aktiv i nätverket, som bland annat bedriver narkotikahandel och utpressning, uppger polisen för Ekot. – Nätverket Foxtrot är aktörscentrerat.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Kurdish fox still active",
-        "summary": "The leader of the criminal network Foxtrot, Rawa Majid, is believed to have left Sweden in 2018 and is according to information to SVT in Iran. But he remains active in the network, which among other things engages in narcotics trafficking and extortion, the police tell Ekot. – The Foxtrot network is actor-centred."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T08:31:06+01:00"
       }
     }
   ]
