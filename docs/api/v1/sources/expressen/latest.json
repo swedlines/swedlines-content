@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T21:31:11+01:00",
+  "generated_at": "2026-11-23T21:36:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "beb4814b3f5b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/vansterprofilen-leonidas-aretakis-da-kan-v-slappa-ministerkravet-",
+      "guid": "https://www.expressen.se/nyheter/politik/vansterprofilen-leonidas-aretakis-da-kan-v-slappa-ministerkravet-/",
+      "published_at": "2026-11-23T21:32:52+01:00",
+      "fetched_at": "2026-11-23T21:36:20+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Vänsterprofilen Leonidas Aretakis: Då kan V släppa ministerkravet",
+        "summary": "V kan släppa kravet på ministerposter om partiet erbjuds ”enormt stora sakpolitiska eftergifter”. Det sa V:s vice partiordförande Ida Gabrielsson i ”Studio Ett” på måndagen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Left Party profile Leonidas Aretakis: Then the Left Party can drop its ministerial demand",
+        "summary": "The Left Party may drop its demand for ministerial posts if the party is offered \"enormously large policy concessions\". Ida Gabrielsson, the Left Party's deputy party leader, said so in \"Studio Ett\" on Monday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:36:24+01:00"
+      }
+    },
     {
       "id": "7719072a3882",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T11:45:57+01:00"
-      }
-    },
-    {
-      "id": "f9aba1846019",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f109c6b3-8a68-4ced-93d1-839cb1c3060c",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f109c6b3-8a68-4ced-93d1-839cb1c3060c",
-      "published_at": "2026-11-20T11:12:18+01:00",
-      "fetched_at": "2026-11-20T11:15:47+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Rysk robot i polskt luftrum",
-        "summary": "Uppger landets militär",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russian drone in Polish airspace",
-        "summary": "Says the country's military"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:15:54+01:00"
       }
     }
   ]

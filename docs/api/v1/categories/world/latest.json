@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T21:31:11+01:00",
+  "generated_at": "2026-11-23T21:36:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5ddb3ceb8ffb",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/z0GKOb/fn-chef-guterres-efterlyser-snabb-ai-reglering",
+      "guid": "https://www.aftonbladet.se/nyheter/a/z0GKOb/fn-chef-guterres-efterlyser-snabb-ai-reglering?utm_medium=rss",
+      "published_at": "2026-11-23T21:32:38+01:00",
+      "fetched_at": "2026-11-23T21:36:19+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/13ce4384-2fc5-3505-8cc7-abec4a682cd5?format=auto&s=241546ae89d2c3f235147d0b82fb06f49438ccbc&w=1000",
+      "sv": {
+        "title": "FN-chef Guterres efterlyser snabb AI-reglering",
+        "summary": "Med lite mer än fem veckor kvar på posten som FN:s generalsekreterare kräver António Guterres…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "UN chief Guterres calls for swift AI regulation",
+        "summary": "With just over five weeks left in the post of UN Secretary-General, António Guterres demands…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:36:24+01:00"
+      }
+    },
     {
       "id": "7719072a3882",
       "schema_version": 1,
@@ -5354,33 +5381,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T18:45:51+01:00"
-      }
-    },
-    {
-      "id": "37eb601be778",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/rubio-pekas-ut-som-ett-starkare-kort-an-vance",
-      "guid": "https://www.dn.se/varlden/rubio-pekas-ut-som-ett-starkare-kort-an-vance/",
-      "published_at": "2026-11-21T18:16:43+01:00",
-      "fetched_at": "2026-11-21T18:30:59+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/3e029cea-b5b1-4064-873c-cf676947a6d2.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Rubio pekas ut som ett starkare kort än Vance",
-        "summary": "Länge har JD Vance setts som Donald Trumps självklara arvtagare. Nu växer i stället stödet för Marco Rubio, som enligt bedömare står friare från Trump och därför kan ha lättare att vinna bredare stöd hos väljarna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Rubio seen as a stronger card than Vance",
-        "summary": "JD Vance has long been seen as Donald Trump's obvious successor. Now support is instead growing for Marco Rubio, who according to analysts stands more freely from Trump and may therefore find it easier to win broader support among voters."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T18:31:06+01:00"
       }
     }
   ]
