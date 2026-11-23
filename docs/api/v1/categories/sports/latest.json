@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T19:45:56+01:00",
+  "generated_at": "2026-11-23T20:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7c9adcefad3e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/fordel-hammarby-i-guldjakten",
+      "guid": "ebcf694b-e498-4752-abf2-dbd0f179eca9",
+      "published_at": "2026-11-23T19:59:22+01:00",
+      "fetched_at": "2026-11-23T20:01:15+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/9e86c6d1-716e-4e52-9316-dc9ab5e584be.jpg?width=600",
+      "sv": {
+        "title": "Fördel Hammarby i guldjakten",
+        "summary": "Fördel Hammarby i guldjakten. Det är situationen sedan Stockholmsklubben har gått till halvtidsvila med 1–0-ledning hemma mot IFK Göteborg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hammarby have the edge in the gold chase",
+        "summary": "Hammarby have the edge in the gold chase. That is the situation after the Stockholm club went into half-time leading 1–0 at home against IFK Göteborg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T20:01:24+01:00"
+      }
+    },
     {
       "id": "bd5b13aa15de",
       "schema_version": 1,
@@ -5587,39 +5614,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T08:01:19+01:00"
-      }
-    },
-    {
-      "id": "c8bd25f53841",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/johanna-hagstroms-dubbla-mal-infor-vm-sasongen.8a7769c6-8af4-5b98-90bd-884afdafa26c",
-      "guid": "8a7769c6-8af4-5b98-90bd-884afdafa26c",
-      "published_at": "2026-11-18T06:02:54+01:00",
-      "fetched_at": "2026-11-18T06:15:41+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Sport",
-        "Tagg: Fokus sport",
-        "Tagg: Johanna Hagström",
-        "Tagg: Längdskidor"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/b10be53f-56a2-3f2d-ac18-080827bdd1fa",
-      "sv": {
-        "title": "Johanna Hagström har rest sog efter OS-besvikelsen – siktar mot dubbla mål",
-        "summary": "Johanna Hagström vill slåss om VM-medalj i Falun och om sprintcupen i Ulricehamn.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Johanna Hagström has recovered from Olympic disappointment – aims for two goals",
-        "summary": "Johanna Hagström wants to fight for a World Championship medal in Falun and the sprint cup in Ulricehamn."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T06:15:59+01:00"
       }
     }
   ]

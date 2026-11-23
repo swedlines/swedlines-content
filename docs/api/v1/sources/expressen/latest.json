@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T19:45:56+01:00",
+  "generated_at": "2026-11-23T20:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3ce2ff089da4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/fredrik-sjoshult/chockstraffet-for-sven-tolv-ars-fangelse",
+      "guid": "https://www.expressen.se/kronikorer/fredrik-sjoshult/chockstraffet-for-sven-tolv-ars-fangelse/",
+      "published_at": "2026-11-23T19:50:02+01:00",
+      "fetched_at": "2026-11-23T20:01:13+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Chockstraffet för ”Sven”: Tolv års fängelse",
+        "summary": "Tolv års fängelse blir det nya gängstraffet för en kille som kallades Sven innan han gick i polisens fälla. Han döms bara för hantering av tre vapen – brott som tidigare gett två-tre års fängelse. Så motiveras det extremt hårda straffet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Harsh sentence for \"Sven\": Twelve years in prison",
+        "summary": "Twelve years in prison is the new gang sentence for a man known as Sven before he walked into a police trap. He was convicted only for handling three weapons – offences that previously led to two to three years in prison. This is how the extremely harsh sentence is justified."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T20:01:24+01:00"
+      }
+    },
     {
       "id": "0b6858a166e3",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T09:45:59+01:00"
-      }
-    },
-    {
-      "id": "ce8fca990780",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/miljoner-roda-krabbor-vandrar-mot-havet",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/miljoner-roda-krabbor-vandrar-mot-havet",
-      "published_at": "2026-11-20T09:41:25+01:00",
-      "fetched_at": "2026-11-20T10:01:11+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Här myllrar djuren mot paradisstrand",
-        "summary": "Röd matta • Vägarna stängs",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here animals swarm toward paradise beach",
-        "summary": "Red carpet • Roads closed"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T10:01:18+01:00"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:45:56+01:00",
+  "generated_at": "2026-11-23T20:01:27+01:00",
   "count": 30,
   "stories": [
     {
@@ -1833,6 +1833,81 @@
       ]
     },
     {
+      "id": "01033de2367a",
+      "source_count": 3,
+      "sources": [
+        "expressen",
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-23T18:07:55+01:00",
+      "last_published_at": "2026-11-23T19:49:35+01:00",
+      "lead": {
+        "id": "01033de2367a",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-det-kravs-for-att-v-ska-slappa-ministerkravet",
+        "guid": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-det-kravs-for-att-v-ska-slappa-ministerkravet/",
+        "published_at": "2026-11-23T18:07:55+01:00",
+        "fetched_at": "2026-11-23T18:15:45+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Ida Gabrielsson: Det krävs för att V ska släppa ministerkravet",
+          "summary": "Vänsterpartiet står fast vid kravet på ministerposter. Men nu förklarar vice partiledaren Ida Gabrielsson vad som skulle krävas för att partiet ska överväga att backa.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Ida Gabrielsson: This is what it would take for the Left Party to drop the ministerial demand",
+          "summary": "The Left Party is holding firm on its demand for ministerial posts. But now deputy party leader Ida Gabrielsson explains what would be required for the party to consider backing down."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T18:15:53+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "04f287503c70",
+          "source": "svd",
+          "url": "https://www.svd.se/a/dJOeqA/s-vill-satta-dit-ida-gabrielsson",
+          "published_at": "2026-11-23T19:49:35+01:00",
+          "sv": {
+            "title": "S vill sätta dit Ida Gabrielsson"
+          },
+          "en": {
+            "title": "S wants to pin down Ida Gabrielsson"
+          }
+        },
+        {
+          "id": "46805ec162be",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/g37l29/v-kan-slappa-ministerkravet-mot-enormt-stora-eftergifter",
+          "published_at": "2026-11-23T18:19:52+01:00",
+          "sv": {
+            "title": "V kan släppa ministerkravet mot \"enormt stora eftergifter\""
+          },
+          "en": {
+            "title": "V may drop ministerial demand in exchange for \"enormous concessions\""
+          }
+        },
+        {
+          "id": "01033de2367a",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-det-kravs-for-att-v-ska-slappa-ministerkravet",
+          "published_at": "2026-11-23T18:07:55+01:00",
+          "sv": {
+            "title": "Ida Gabrielsson: Det krävs för att V ska släppa ministerkravet"
+          },
+          "en": {
+            "title": "Ida Gabrielsson: This is what it would take for the Left Party to drop the ministerial demand"
+          }
+        }
+      ]
+    },
+    {
       "id": "4285f4fc503b",
       "source_count": 3,
       "sources": [
@@ -2759,6 +2834,69 @@
       ]
     },
     {
+      "id": "00b6df668619",
+      "source_count": 2,
+      "sources": [
+        "dn",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-23T13:09:37+01:00",
+      "last_published_at": "2026-11-23T19:59:22+01:00",
+      "lead": {
+        "id": "00b6df668619",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/sport/hammarbykaptenen-kan-gora-sin-sista-hemmamatch-i-skuggan-av-guldjakten",
+        "guid": "https://www.dn.se/sport/hammarbykaptenen-kan-gora-sin-sista-hemmamatch-i-skuggan-av-guldjakten/",
+        "published_at": "2026-11-23T13:09:37+01:00",
+        "fetched_at": "2026-11-23T13:15:48+01:00",
+        "category": "sports",
+        "image_url": "https://static.bonniernews.se/ba/c19208b4-8390-4511-97cb-729210e9f243.jpeg?io=1&width=1000",
+        "sv": {
+          "title": "Hammarbykaptenen kan göra sin sista hemmamatch – i skuggan av guldjakten",
+          "summary": "Hammarbys lagkapten Nahir Besara har blivit en klubbikon på 3 arena. På måndagskvällen är det möjligt att han spelar sin sista fotbollsmatch där, men det vill han helst inte att någon fokuserar på. – Det viktigaste är att vi vinner de här två matcherna och vinner SM-guldet, säger 35-åringen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Hammarby captain may play his last home match – in the shadow of the gold chase",
+          "summary": "Hammarby captain Nahir Besara has become a club icon at 3 Arena. On Monday evening he may play his last football match there, but he would rather no one focused on that. \"The most important thing is that we win these two matches and win the Swedish championship gold\", says the 35-year-old."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T13:15:59+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "7c9adcefad3e",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/fordel-hammarby-i-guldjakten",
+          "published_at": "2026-11-23T19:59:22+01:00",
+          "sv": {
+            "title": "Fördel Hammarby i guldjakten"
+          },
+          "en": {
+            "title": "Hammarby have the edge in the gold chase"
+          }
+        },
+        {
+          "id": "00b6df668619",
+          "source": "dn",
+          "url": "https://www.dn.se/sport/hammarbykaptenen-kan-gora-sin-sista-hemmamatch-i-skuggan-av-guldjakten",
+          "published_at": "2026-11-23T13:09:37+01:00",
+          "sv": {
+            "title": "Hammarbykaptenen kan göra sin sista hemmamatch – i skuggan av guldjakten"
+          },
+          "en": {
+            "title": "Hammarby captain may play his last home match – in the shadow of the gold chase"
+          }
+        }
+      ]
+    },
+    {
       "id": "4c88fd23af8a",
       "source_count": 2,
       "sources": [
@@ -2943,138 +3081,6 @@
           },
           "en": {
             "title": "Confirmed: They get the 2031 and 2035 Women's World Cups"
-          }
-        }
-      ]
-    },
-    {
-      "id": "cbb6f487db48",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sr"
-      ],
-      "first_published_at": "2026-11-23T09:26:45+01:00",
-      "last_published_at": "2026-11-23T16:32:00+01:00",
-      "lead": {
-        "id": "cbb6f487db48",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/4EqAJe/nya-detaljer-om-huangs-kopplingar-till-kinesiska-spioner",
-        "guid": "https://www.aftonbladet.se/nyheter/a/4EqAJe/nya-detaljer-om-huangs-kopplingar-till-kinesiska-spioner?utm_medium=rss",
-        "published_at": "2026-11-23T09:26:45+01:00",
-        "fetched_at": "2026-11-23T09:31:08+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/0b8d968c-f818-3c2d-9d86-7e083c080112?format=auto&s=7e336037aaf092e690f8cbd1d83f997b380b3857&w=1000",
-        "sv": {
-          "title": "Nya detaljer om Huangs kopplingar till kinesiska spioner",
-          "summary": "Nya detaljerna om spionkopplingarna",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "New details on Huang's links to Chinese spies",
-          "summary": "New details on the espionage links"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T09:31:16+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "a06986e7a683",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348200",
-          "published_at": "2026-11-23T16:32:00+01:00",
-          "sv": {
-            "title": "Nya uppgifter om Nvidia-skandalen: Spionkontakt i över ett år"
-          },
-          "en": {
-            "title": "New details on the Nvidia scandal: Spy contact for over a year"
-          }
-        },
-        {
-          "id": "cbb6f487db48",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/4EqAJe/nya-detaljer-om-huangs-kopplingar-till-kinesiska-spioner",
-          "published_at": "2026-11-23T09:26:45+01:00",
-          "sv": {
-            "title": "Nya detaljer om Huangs kopplingar till kinesiska spioner"
-          },
-          "en": {
-            "title": "New details on Huang's links to Chinese spies"
-          }
-        }
-      ]
-    },
-    {
-      "id": "28a81f6d495b",
-      "source_count": 2,
-      "sources": [
-        "gp",
-        "di"
-      ],
-      "first_published_at": "2026-11-23T11:34:37+01:00",
-      "last_published_at": "2026-11-23T16:21:19+01:00",
-      "lead": {
-        "id": "28a81f6d495b",
-        "schema_version": 1,
-        "source": "gp",
-        "url": "https://www.gp.se/nyheter/varlden/uppgifter-ryssland-planerar-karnvapen-i-rymden.729fc4d0-7d49-5310-8583-883af3fd637c",
-        "guid": "729fc4d0-7d49-5310-8583-883af3fd637c",
-        "published_at": "2026-11-23T11:34:37+01:00",
-        "fetched_at": "2026-11-23T11:45:44+01:00",
-        "category": "world",
-        "feed_categories": [
-          "Världen",
-          "Tagg: Kärnvapen",
-          "Tagg: Rymden",
-          "Tagg: Uppdatera mig - BEHOV"
-        ],
-        "image_url": "https://vcdn.polarismedia.no/324deb22-0a4c-34d4-9279-ad7fdf601b10",
-        "sv": {
-          "title": "Uppgifter: Ryssland kan snart ha kärnvapen i rymden",
-          "summary": "Västliga underrättelsetjänster tror att Vladimir Putin planerar att skjuta upp en satellit med känvapen i december, rapporterar tyska medier.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Reports: Russia may soon have nuclear weapons in space",
-          "summary": "Western intelligence services believe Vladimir Putin plans to launch a satellite carrying nuclear weapons in December, German media report."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T11:45:51+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "0bd7c5433808",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/underrattelsetjanster-varnar-for-ryska-karnvapen-i-rymden",
-          "published_at": "2026-11-23T16:21:19+01:00",
-          "sv": {
-            "title": "Underrättelsetjänster varnar för ryska kärnvapen i rymden"
-          },
-          "en": {
-            "title": "Intelligence services warn of Russian nuclear weapons in space"
-          }
-        },
-        {
-          "id": "28a81f6d495b",
-          "source": "gp",
-          "url": "https://www.gp.se/nyheter/varlden/uppgifter-ryssland-planerar-karnvapen-i-rymden.729fc4d0-7d49-5310-8583-883af3fd637c",
-          "published_at": "2026-11-23T11:34:37+01:00",
-          "sv": {
-            "title": "Uppgifter: Ryssland kan snart ha kärnvapen i rymden"
-          },
-          "en": {
-            "title": "Reports: Russia may soon have nuclear weapons in space"
           }
         }
       ]

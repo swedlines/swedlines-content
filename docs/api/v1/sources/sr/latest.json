@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T19:45:56+01:00",
+  "generated_at": "2026-11-23T20:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4f0cb03029c0",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348625",
+      "guid": "rss:sr.se/article/9348625",
+      "published_at": "2026-11-23T19:54:00+01:00",
+      "fetched_at": "2026-11-23T20:01:11+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trump: Huang är avgörande för Nvidias framgång",
+        "summary": "Donald Trump kommenterar nu beskedet att Jensen Huang återinsätts som vd för Nvidia. ”Han verkar ha haft en aktiv roll i beslutet. Han står nära Huang och Trump säger att han har talat med styrelsen och har öppet uppmanat dem att ta tillbaka Huang som vd”, säger Ginna Lindberg,…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Trump: Huang is crucial to Nvidia's success",
+        "summary": "Donald Trump is now commenting on the news that Jensen Huang is being reinstated as CEO of Nvidia. \"He seems to have played an active role in the decision. He is close to Huang, and Trump says he has spoken with the board and has openly urged them to bring Huang back as CEO,\" says Ginna Lindberg,…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T20:01:24+01:00"
+      }
+    },
     {
       "id": "008d62c0dbb7",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:01:37+01:00"
-      }
-    },
-    {
-      "id": "b96be84c13dc",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344504",
-      "guid": "rss:sr.se/article/9344504",
-      "published_at": "2026-11-18T06:03:00+01:00",
-      "fetched_at": "2026-11-18T06:15:39+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Unionen spår stark ekonomi – men varnar för AI-effekt för jobben",
-        "summary": "Sveriges ekonomi utvecklas starkt, enligt en ny prognos från Unionen. Facket spår att ekonomin växer med 2,6 procent nästa år. Men arbetsmarknaden släpar efter, och Unionen pekar på AI-effekter när det gäller vissa tjänstemannajobb som inte blir fler trots en starkare konjunktur.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Unionen sees strong economy – but warns of AI effect on jobs",
-        "summary": "Sweden's economy is developing strongly, according to a new forecast from Unionen. The union expects the economy to grow 2.6 percent next year. But the labour market is lagging behind, and Unionen points to AI effects on certain white-collar jobs that will not increase despite a stronger economic upturn."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T06:15:59+01:00"
       }
     }
   ]
