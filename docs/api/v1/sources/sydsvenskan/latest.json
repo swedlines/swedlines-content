@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T08:16:04+01:00",
+  "generated_at": "2026-11-23T08:31:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "318bc334398c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/s-toppen-nu-ar-det-skarpt-lage",
+      "guid": "3c7b8960-4636-4d8c-bb80-4d11da85e297",
+      "published_at": "2026-11-23T08:30:23+01:00",
+      "fetched_at": "2026-11-23T08:31:05+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/5e4bb41b-fb6c-4223-8eae-34f0c602cfb8.jpg?width=600",
+      "sv": {
+        "title": "S-toppen: Nu är det skarpt läge",
+        "summary": "Det börjar bli skarpt läge i regeringsförhandlingarna, enligt S-toppen Mikael Damberg. – Om Vänsterpartiet inte förhandlar är det väldigt svårt att bygga ett samarbete, säger han i P1 Morgon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "S leadership: Things are getting serious",
+        "summary": "Negotiations to form a government are getting serious, according to Social Democrat leader Mikael Damberg. – If the Left Party does not negotiate, it is very difficult to build a cooperation, he says on P1 Morgon."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T08:31:18+01:00"
+      }
+    },
     {
       "id": "26cff9f29e99",
       "schema_version": 1,
@@ -5243,33 +5270,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T20:45:59+01:00"
-      }
-    },
-    {
-      "id": "7cccda4570b7",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/fin-start-av-stark-jagar-40-miljoner-kronor",
-      "guid": "09f715a7-196f-48b3-b3cb-5260a47420a3",
-      "published_at": "2026-11-19T20:15:00+01:00",
-      "fetched_at": "2026-11-19T20:15:50+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/0480f46f-babc-41ae-862a-34958932c97a.jpg?width=600",
-      "sv": {
-        "title": "Fin start av Stark – jagar 40 miljoner kronor",
-        "summary": "Maja Stark fick en fin start på säsongsfinalen av LPGA-touren i Florida där vinnaren kammar hem drygt 40 miljoner kronor. Den svenska golfaren gick den första rundan på tre slag under par.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Strong start for Stark – chasing SEK 40 million",
-        "summary": "Maja Stark had a strong start to the season-final of the LPGA Tour in Florida, where the winner takes home just over SEK 40 million. The Swedish golfer shot three under par in the first round."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T20:15:56+01:00"
       }
     }
   ]
