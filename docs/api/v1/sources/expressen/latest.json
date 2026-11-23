@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-23T12:31:04+01:00",
+  "generated_at": "2026-11-23T12:46:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2a76f53e9ac9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=dc68a609-2c45-4d04-b741-8c6da96b2953",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=dc68a609-2c45-4d04-b741-8c6da96b2953",
+      "published_at": "2026-11-23T12:38:59+01:00",
+      "fetched_at": "2026-11-23T12:45:48+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Värnpliktig skjuten under övning",
+        "summary": "Träffad av skott under övning, enligt Aftonbladet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Conscript shot during exercise",
+        "summary": "Hit by gunfire during exercise, according to Aftonbladet"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:46:02+01:00"
+      }
+    },
+    {
+      "id": "c91d5991b640",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/gar-det-att-undvika-en-storkonflikt-nu",
+      "guid": "https://www.expressen.se/nyheter/varlden/gar-det-att-undvika-en-storkonflikt-nu/",
+      "published_at": "2026-11-23T12:30:00+01:00",
+      "fetched_at": "2026-11-23T12:45:48+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Går det att undvika en storkonflikt nu?",
+        "summary": "Kriget i Ukraina spiller över på andra delar av Europa. Nu ökar spänningarna kring Östersjön. Vad är Rysslands nästa drag och hur ska en storkonflikt undvikas? Expressens utrikeskommentator Mats Larsson chattar med läsarna från klockan 13.00 – redan nu kan ni skicka in era frågor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Is it possible to avoid a major conflict now?",
+        "summary": "The war in Ukraine is spilling over into other parts of Europe. Tensions are now rising around the Baltic Sea. What is Russia's next move and how can a major conflict be avoided? Expressen's foreign affairs commentator Mats Larsson chats with readers from 13.00 – you can already send in your questions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:46:02+01:00"
+      }
+    },
     {
       "id": "caa442df05f0",
       "schema_version": 1,
@@ -5148,58 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T23:15:51+01:00"
-      }
-    },
-    {
-      "id": "e21a981c0abf",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/elon-musk-kanner--mig-ganska-dum",
-      "guid": "https://www.expressen.se/nyheter/varlden/elon-musk-kanner--mig-ganska-dum/",
-      "published_at": "2026-11-19T22:50:51+01:00",
-      "fetched_at": "2026-11-19T23:01:15+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Elon Musk: ”Känner mig ganska dum”",
-        "summary": "Världens rikaste man, Elon Musk, spenderade enorma summor på Republikanernas valkampanj i mellanårsvalet. Nu kommenterar han för första gången sitt ekonomiska stöd. – Jag känner mig ganska dum, säger han till New York Times.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Elon Musk: \"I feel rather stupid\"",
-        "summary": "The world's richest man, Elon Musk, spent huge sums on the Republicans' campaign in the midterm elections. Now he comments for the first time on his financial support. \"I feel rather stupid,\" he tells the New York Times."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T23:01:22+01:00"
-      }
-    },
-    {
-      "id": "d5a49b831fc1",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/teknikjatten-prisfuskade-myndigheten-vill-utkrava-vite",
-      "guid": "https://www.expressen.se/nyheter/sverige/teknikjatten-prisfuskade-myndigheten-vill-utkrava-vite/",
-      "published_at": "2026-11-19T22:49:57+01:00",
-      "fetched_at": "2026-11-19T23:01:15+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Teknikjätten prisfuskade – myndigheten vill utkräva vite",
-        "summary": "Kjell & Company skrev inte ut varornas billigaste pris under senaste månaden. I stället framställdes en prishöjning som rabatt. Nu vill konsumentombudsmannen att företaget ska betala vite om miljonbelopp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tech giant price-fixed – authority wants to claim penalty",
-        "summary": "Kjell & Company did not display the lowest price of its goods during the most recent month. Instead, a price increase was presented as a discount. Now the consumer ombudsman wants the company to pay a penalty of millions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T23:01:22+01:00"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T12:31:04+01:00",
+  "generated_at": "2026-11-23T12:46:09+01:00",
   "count": 30,
   "stories": [
     {
@@ -610,6 +610,95 @@
       ]
     },
     {
+      "id": "7da3bfad9511",
+      "source_count": 4,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "expressen",
+        "dn"
+      ],
+      "first_published_at": "2026-11-23T06:10:35+01:00",
+      "last_published_at": "2026-11-23T12:43:57+01:00",
+      "lead": {
+        "id": "7da3bfad9511",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln",
+        "guid": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln?utm_medium=rss",
+        "published_at": "2026-11-23T06:10:35+01:00",
+        "fetched_at": "2026-11-23T06:56:01+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/3e3dac2a-580e-392d-a1e0-cbd05d92971f?format=auto&s=c9fee6b2eb30212be380de84f75f7edc3cfbc36b&w=1000",
+        "sv": {
+          "title": "V:s vrede efter debattartikeln: ”Obegripligt”",
+          "summary": "Öppet ordkrig ✓ Ville stoppa publiceringen",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "The Left Party's (V) anger after the debate article: “Incomprehensible”",
+          "summary": "Open war of words ✓ Wanted to stop the publication"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T06:56:30+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "39bbb128e0b0",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/sa-ser-rodgrona-budet-ut-till-v-mot-var-uttryckliga-vilja",
+          "published_at": "2026-11-23T12:43:57+01:00",
+          "sv": {
+            "title": "Så ser rödgröna budet ut till V: ”Mot vår uttryckliga vilja”"
+          },
+          "en": {
+            "title": "This is the red-green offer to V: “Against our explicit will”"
+          }
+        },
+        {
+          "id": "64c58b275176",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/s-budet-till-v--garantierna-som-ska-fa-dem-att-vanda",
+          "published_at": "2026-11-23T11:48:11+01:00",
+          "sv": {
+            "title": "S-budet till V – garantierna som ska få dem att vända"
+          },
+          "en": {
+            "title": "The S offer to the Left Party – the guarantees that are meant to make them turn"
+          }
+        },
+        {
+          "id": "5ecd18bd22ec",
+          "source": "svd",
+          "url": "https://www.svd.se/a/7P0Ar8/v-bad-s-att-inte-publicera-debattartikeln-med-sitt-bud-menar-att-de-blev-overkorda",
+          "published_at": "2026-11-23T09:53:19+01:00",
+          "sv": {
+            "title": "Ilska efter artikeln med budet: ”Obegripligt”"
+          },
+          "en": {
+            "title": "Outrage over article with the bid: “Incomprehensible”"
+          }
+        },
+        {
+          "id": "7da3bfad9511",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln",
+          "published_at": "2026-11-23T06:10:35+01:00",
+          "sv": {
+            "title": "V:s vrede efter debattartikeln: ”Obegripligt”"
+          },
+          "en": {
+            "title": "The Left Party's (V) anger after the debate article: “Incomprehensible”"
+          }
+        }
+      ]
+    },
+    {
       "id": "f531e4d89da6",
       "source_count": 4,
       "sources": [
@@ -887,6 +976,81 @@
       ]
     },
     {
+      "id": "2a76f53e9ac9",
+      "source_count": 3,
+      "sources": [
+        "expressen",
+        "svd",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-23T12:38:59+01:00",
+      "last_published_at": "2026-11-23T12:43:19+01:00",
+      "lead": {
+        "id": "2a76f53e9ac9",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=dc68a609-2c45-4d04-b741-8c6da96b2953",
+        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=dc68a609-2c45-4d04-b741-8c6da96b2953",
+        "published_at": "2026-11-23T12:38:59+01:00",
+        "fetched_at": "2026-11-23T12:45:48+01:00",
+        "category": "sweden",
+        "sv": {
+          "title": "Värnpliktig skjuten under övning",
+          "summary": "Träffad av skott under övning, enligt Aftonbladet",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Conscript shot during exercise",
+          "summary": "Hit by gunfire during exercise, according to Aftonbladet"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T12:46:02+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "d26de0d5ad3a",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/3BJb8X/varnpliktig-skjuten-under-ovning-traffad-i-foten",
+          "published_at": "2026-11-23T12:43:19+01:00",
+          "sv": {
+            "title": "Värnpliktig skjuten under övning – träffad i foten"
+          },
+          "en": {
+            "title": "Conscript shot during exercise – hit in the foot"
+          }
+        },
+        {
+          "id": "648b2cd195db",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80217",
+          "published_at": "2026-11-23T12:41:12+01:00",
+          "sv": {
+            "title": "Värnpliktig skjuten i foten under övning"
+          },
+          "en": {
+            "title": "Conscript shot in the foot during exercise"
+          }
+        },
+        {
+          "id": "2a76f53e9ac9",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=dc68a609-2c45-4d04-b741-8c6da96b2953",
+          "published_at": "2026-11-23T12:38:59+01:00",
+          "sv": {
+            "title": "Värnpliktig skjuten under övning"
+          },
+          "en": {
+            "title": "Conscript shot during exercise"
+          }
+        }
+      ]
+    },
+    {
       "id": "b42121ced675",
       "source_count": 3,
       "sources": [
@@ -958,82 +1122,6 @@
           },
           "en": {
             "title": "Designer powerless as AI steals everything she makes"
-          }
-        }
-      ]
-    },
-    {
-      "id": "7da3bfad9511",
-      "source_count": 3,
-      "sources": [
-        "aftonbladet",
-        "svd",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-23T06:10:35+01:00",
-      "last_published_at": "2026-11-23T11:48:11+01:00",
-      "lead": {
-        "id": "7da3bfad9511",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln",
-        "guid": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln?utm_medium=rss",
-        "published_at": "2026-11-23T06:10:35+01:00",
-        "fetched_at": "2026-11-23T06:56:01+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/3e3dac2a-580e-392d-a1e0-cbd05d92971f?format=auto&s=c9fee6b2eb30212be380de84f75f7edc3cfbc36b&w=1000",
-        "sv": {
-          "title": "V:s vrede efter debattartikeln: ”Obegripligt”",
-          "summary": "Öppet ordkrig ✓ Ville stoppa publiceringen",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "The Left Party's (V) anger after the debate article: “Incomprehensible”",
-          "summary": "Open war of words ✓ Wanted to stop the publication"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T06:56:30+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "64c58b275176",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/s-budet-till-v--garantierna-som-ska-fa-dem-att-vanda",
-          "published_at": "2026-11-23T11:48:11+01:00",
-          "sv": {
-            "title": "S-budet till V – garantierna som ska få dem att vända"
-          },
-          "en": {
-            "title": "The S offer to the Left Party – the guarantees that are meant to make them turn"
-          }
-        },
-        {
-          "id": "5ecd18bd22ec",
-          "source": "svd",
-          "url": "https://www.svd.se/a/7P0Ar8/v-bad-s-att-inte-publicera-debattartikeln-med-sitt-bud-menar-att-de-blev-overkorda",
-          "published_at": "2026-11-23T09:53:19+01:00",
-          "sv": {
-            "title": "Ilska efter artikeln med budet: ”Obegripligt”"
-          },
-          "en": {
-            "title": "Outrage over article with the bid: “Incomprehensible”"
-          }
-        },
-        {
-          "id": "7da3bfad9511",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln",
-          "published_at": "2026-11-23T06:10:35+01:00",
-          "sv": {
-            "title": "V:s vrede efter debattartikeln: ”Obegripligt”"
-          },
-          "en": {
-            "title": "The Left Party's (V) anger after the debate article: “Incomprehensible”"
           }
         }
       ]
@@ -1510,6 +1598,68 @@
           },
           "en": {
             "title": "WHO calls for peace in Ebola-affected Kongo-Kinshasa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6a9a9339193e",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-23T10:11:02+01:00",
+      "last_published_at": "2026-11-23T12:40:46+01:00",
+      "lead": {
+        "id": "6a9a9339193e",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/skane/25-aring-hittad-dod-i-kristianstad-misstankt-man-anhallen",
+        "guid": "https://www.svt.se/nyheter/lokalt/skane/25-aring-hittad-dod-i-kristianstad-misstankt-man-anhallen",
+        "published_at": "2026-11-23T10:11:02+01:00",
+        "fetched_at": "2026-11-23T10:15:47+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "25-åring hittad död i Kristianstad – misstänkt man anhållen",
+          "summary": "En man i 25-årsåldern hittades död i en lägenhet under kvällen i lördags. På söndagen greps och anhölls en man i 30-årsåldern misstänkt för mord.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "25-year-old found dead in Kristianstad – suspect detained",
+          "summary": "A man in his 25s was found dead in an apartment on Saturday evening. On Sunday, a man in his 30s suspected of murder was arrested and detained."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T10:15:59+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "a68a412115cf",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/0vny82/man-hittad-dod-i-kristianstad-en-anhallen",
+          "published_at": "2026-11-23T12:40:46+01:00",
+          "sv": {
+            "title": "Man hittad död i Kristianstad – en anhållen"
+          },
+          "en": {
+            "title": "Man found dead in Kristianstad – one detained"
+          }
+        },
+        {
+          "id": "6a9a9339193e",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/skane/25-aring-hittad-dod-i-kristianstad-misstankt-man-anhallen",
+          "published_at": "2026-11-23T10:11:02+01:00",
+          "sv": {
+            "title": "25-åring hittad död i Kristianstad – misstänkt man anhållen"
+          },
+          "en": {
+            "title": "25-year-old found dead in Kristianstad – suspect detained"
           }
         }
       ]
@@ -2310,131 +2460,6 @@
           },
           "en": {
             "title": "12,000 evacuated from concert"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b21503a73cb8",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "di"
-      ],
-      "first_published_at": "2026-11-23T04:20:03+01:00",
-      "last_published_at": "2026-11-23T05:08:41+01:00",
-      "lead": {
-        "id": "b21503a73cb8",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/g37ezA/kallor-darfor-misstankte-usa-en-honungsfalla",
-        "guid": "https://www.svd.se/a/g37ezA/kallor-darfor-misstankte-usa-en-honungsfalla?utm_medium=rss",
-        "published_at": "2026-11-23T04:20:03+01:00",
-        "fetched_at": "2026-11-23T04:41:19+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/65b12670-859a-3ae6-a7ec-e70bf85efa10?format=auto&s=a712779d9ddcc4163ffa0cb9172fe81b36bec245&w=1000",
-        "sv": {
-          "title": "Källor: Därför misstänkte USA en honungsfälla",
-          "summary": "Spionanklagade Alice Huang hade kontakt med den kinesiska staten under mer än ett år – samtidigt som…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Sources: This is why the US suspected a honeytrap",
-          "summary": "Alice Huang, charged with espionage, had contact with the Chinese state for more than a year – at the same time as…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T04:41:25+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "9de98df6325e",
-          "source": "di",
-          "url": "https://www.di.se/live/kallor-darfor-misstankte-usa-en-honungsfalla",
-          "published_at": "2026-11-23T05:08:41+01:00",
-          "sv": {
-            "title": "Källor: Därför misstänkte USA en honungsfälla"
-          },
-          "en": {
-            "title": "Sources: This is why the USA suspected a honey trap"
-          }
-        },
-        {
-          "id": "b21503a73cb8",
-          "source": "svd",
-          "url": "https://www.svd.se/a/g37ezA/kallor-darfor-misstankte-usa-en-honungsfalla",
-          "published_at": "2026-11-23T04:20:03+01:00",
-          "sv": {
-            "title": "Källor: Därför misstänkte USA en honungsfälla"
-          },
-          "en": {
-            "title": "Sources: This is why the US suspected a honeytrap"
-          }
-        }
-      ]
-    },
-    {
-      "id": "323b75dae6d5",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-23T01:53:36+01:00",
-      "last_published_at": "2026-11-23T01:53:36+01:00",
-      "lead": {
-        "id": "323b75dae6d5",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/nLaj1d/fn-oroat-over-dronarattacker",
-        "guid": "https://www.svd.se/a/nLaj1d/fn-oroat-over-dronarattacker?utm_medium=rss",
-        "published_at": "2026-11-23T01:53:36+01:00",
-        "fetched_at": "2026-11-23T02:12:10+01:00",
-        "category": "world",
-        "sv": {
-          "title": "FN oroat över drönarattacker",
-          "summary": "FN uttrycker oro över drönarattacker mot två fartyg utanför Libyen. FN-insatsen Unsmil i Libyen…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "UN concerned over drone attacks",
-          "summary": "The UN expresses concern over drone attacks on two ships off Libya. The UN mission in Libya, Unsmil…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T02:12:17+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "70a2ba0e34b3",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/WmbKvr/fn-oroat-over-dronarattacker",
-          "published_at": "2026-11-23T01:53:36+01:00",
-          "sv": {
-            "title": "FN oroat över drönarattacker"
-          },
-          "en": {
-            "title": "UN concerned over drone attacks"
-          }
-        },
-        {
-          "id": "323b75dae6d5",
-          "source": "svd",
-          "url": "https://www.svd.se/a/nLaj1d/fn-oroat-over-dronarattacker",
-          "published_at": "2026-11-23T01:53:36+01:00",
-          "sv": {
-            "title": "FN oroat över drönarattacker"
-          },
-          "en": {
-            "title": "UN concerned over drone attacks"
           }
         }
       ]

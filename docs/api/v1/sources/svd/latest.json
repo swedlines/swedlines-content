@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-23T12:31:04+01:00",
+  "generated_at": "2026-11-23T12:46:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "648b2cd195db",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80217",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80217&utm_medium=rss",
+      "published_at": "2026-11-23T12:41:12+01:00",
+      "fetched_at": "2026-11-23T12:45:47+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Värnpliktig skjuten i foten under övning"
+      },
+      "en": {
+        "title": "Conscript shot in the foot during exercise"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:46:02+01:00"
+      }
+    },
     {
       "id": "5c1ce2d22f1c",
       "schema_version": 1,
@@ -5227,30 +5250,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:56:15+01:00"
-      }
-    },
-    {
-      "id": "96477a72fd59",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/GPG8kB/anthropics-borsnotering-nastan-alla-blev-dollarmiljonarer",
-      "guid": "https://www.svd.se/a/GPG8kB/anthropics-borsnotering-nastan-alla-blev-dollarmiljonarer?utm_medium=rss",
-      "published_at": "2026-11-20T07:40:01+01:00",
-      "fetched_at": "2026-11-20T07:45:43+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/fa2ce3bf-04d3-3205-86f4-32c2d04d5965?format=auto&s=0015efe3b648f4ccaefa511a0acbe88daabb6b8f&w=1000",
-      "sv": {
-        "title": "Nästan alla blev dollarmiljonärer"
-      },
-      "en": {
-        "title": "Almost everyone became dollar millionaires"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:45:51+01:00"
       }
     }
   ]

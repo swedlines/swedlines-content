@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T12:31:04+01:00",
+  "generated_at": "2026-11-23T12:46:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "39bbb128e0b0",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/sa-ser-rodgrona-budet-ut-till-v-mot-var-uttryckliga-vilja",
+      "guid": "https://www.dn.se/sverige/sa-ser-rodgrona-budet-ut-till-v-mot-var-uttryckliga-vilja/",
+      "published_at": "2026-11-23T12:43:57+01:00",
+      "fetched_at": "2026-11-23T12:45:47+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/d502697c-56a3-40e2-9049-76710b15872b.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Så ser rödgröna budet ut till V: ”Mot vår uttryckliga vilja”",
+        "summary": "Vänsterpartiet har uttryckt sin irritation över det ”startpaket” som de andra rödgröna partierna lade fram på söndagen. DN erfar att V ännu inte kommit tillbaka till förhandlingsbordet. – Sekunden V är intresserade av att förhandla är de välkomna att göra det, säger en källa med insyn.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "This is the red-green offer to V: “Against our explicit will”",
+        "summary": "The Left Party (V) has expressed its irritation at the “starter package” that the other red-green parties presented on Sunday. DN has learned that V has not yet returned to the negotiating table. – As soon as V is interested in negotiating, they are welcome to do so, says a source with insight."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:46:02+01:00"
+      }
+    },
     {
       "id": "a3dc2df8bf41",
       "schema_version": 1,
@@ -5380,32 +5407,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:16:01+01:00"
-      }
-    },
-    {
-      "id": "724938c76a9c",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-vansterkaoset-i-savsjo-stolar-star-tomma",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-vansterkaoset-i-savsjo-stolar-star-tomma",
-      "published_at": "2026-11-19T15:38:33+01:00",
-      "fetched_at": "2026-11-19T15:45:41+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Efter vänsterkaoset i Sävsjö – stolar står tomma",
-        "summary": "Trots valframgångarna har Vänsterpartiets två stolar stått tomma i Sävsjö fullmäktige efter valet. Flera av toppnamnen på listan har hoppat av. – Vi har fått stötta en del och det är en del oerfarenhet, säger Kristoffer Wolke som är distriktsordförande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the Left Party chaos in Sävsjö – seats stand empty",
-        "summary": "Despite election gains, the Left Party's two seats have stood empty on the Sävsjö municipal council since the election. Several of the top names on the list have dropped out. – We have had to support a number of people and there is some inexperience, says Kristoffer Wolke, district chair."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
       }
     }
   ]

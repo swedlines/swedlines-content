@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-23T12:31:04+01:00",
+  "generated_at": "2026-11-23T12:46:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "adf48bfe0ad2",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/krogprofil-i-goteborg-frias-fran-valdtakt-av-hovratten.8669eed3-e5d4-53bf-b4cf-5159c7b9df6a",
+      "guid": "8669eed3-e5d4-53bf-b4cf-5159c7b9df6a",
+      "published_at": "2026-11-23T12:06:58+01:00",
+      "fetched_at": "2026-11-23T12:45:49+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Krim",
+        "Tagg: Brott och straff",
+        "Tagg: Polisen",
+        "Tagg: Uppdatera mig - BEHOV"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/123b9fd5-7c81-36e4-86f1-61d559fa01f4",
+      "sv": {
+        "title": "Krogprofil frias från våldtäkt",
+        "summary": "Greps på nattklubb • Advokaten: ”Drabbat honom oerhört hårt”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nightclub personality acquitted of rape",
+        "summary": "Arrested at nightclub • Lawyer: “It affected him extremely hard”."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:46:02+01:00"
+      }
+    },
     {
       "id": "28a81f6d495b",
       "schema_version": 1,
@@ -6855,40 +6888,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T20:46:01+01:00"
-      }
-    },
-    {
-      "id": "6260ec01c27d",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/forst-regn-och-sno-sen-ishalka.db214681-fdee-5851-a7aa-e78d8ecbd603",
-      "guid": "db214681-fdee-5851-a7aa-e78d8ecbd603",
-      "published_at": "2026-11-18T19:57:25+01:00",
-      "fetched_at": "2026-11-18T20:15:45+01:00",
-      "category": "weather",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: Ishalka",
-        "Tagg: SMHI",
-        "Tagg: Trafik",
-        "Tagg: Västsverige"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/15f72cd0-6a47-3b77-ac31-6d17d9e0edcd",
-      "sv": {
-        "title": "Torsdagsmorgonen kan bli en mardröm i rusningstrafiken",
-        "summary": "Först regn och snö – sen ishalka",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Thursday morning could become a nightmare in rush-hour traffic",
-        "summary": "First rain and snow – then black ice"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T20:15:50+01:00"
       }
     }
   ]

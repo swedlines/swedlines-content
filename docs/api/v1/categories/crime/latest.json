@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T12:31:04+01:00",
+  "generated_at": "2026-11-23T12:46:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a68a412115cf",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/0vny82/man-hittad-dod-i-kristianstad-en-anhallen",
+      "guid": "https://www.aftonbladet.se/nyheter/a/0vny82/man-hittad-dod-i-kristianstad-en-anhallen?utm_medium=rss",
+      "published_at": "2026-11-23T12:40:46+01:00",
+      "fetched_at": "2026-11-23T12:45:47+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/e58857d9-ace1-3de9-abb9-28191f87f33f?format=auto&s=cdb09c9d3d77aecf8c7dcbab452263766a94eb95&w=1000",
+      "sv": {
+        "title": "Man hittad död i Kristianstad – en anhållen",
+        "summary": "En man i 30-årsåldern har gripits och anhållits misstänkt för mord efter att en man hittats död i en…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man found dead in Kristianstad – one detained",
+        "summary": "A man in his 30s has been arrested and detained on suspicion of murder after a man was found dead in a…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:46:02+01:00"
+      }
+    },
     {
       "id": "3b96ac537bfa",
       "schema_version": 1,
@@ -26,6 +53,39 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T12:15:54+01:00"
+      }
+    },
+    {
+      "id": "adf48bfe0ad2",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/krogprofil-i-goteborg-frias-fran-valdtakt-av-hovratten.8669eed3-e5d4-53bf-b4cf-5159c7b9df6a",
+      "guid": "8669eed3-e5d4-53bf-b4cf-5159c7b9df6a",
+      "published_at": "2026-11-23T12:06:58+01:00",
+      "fetched_at": "2026-11-23T12:45:49+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Krim",
+        "Tagg: Brott och straff",
+        "Tagg: Polisen",
+        "Tagg: Uppdatera mig - BEHOV"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/123b9fd5-7c81-36e4-86f1-61d559fa01f4",
+      "sv": {
+        "title": "Krogprofil frias från våldtäkt",
+        "summary": "Greps på nattklubb • Advokaten: ”Drabbat honom oerhört hårt”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nightclub personality acquitted of rape",
+        "summary": "Arrested at nightclub • Lawyer: “It affected him extremely hard”."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:46:02+01:00"
       }
     },
     {
@@ -5369,60 +5429,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T09:15:58+01:00"
-      }
-    },
-    {
-      "id": "efdcd0d782a4",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/skrev-att-han-skulle-doda-femton-elever-stalls-infor-ratta-for-terrorbrott",
-      "guid": "https://www.dn.se/sverige/skrev-att-han-skulle-doda-femton-elever-stalls-infor-ratta-for-terrorbrott/",
-      "published_at": "2026-11-19T08:14:56+01:00",
-      "fetched_at": "2026-11-19T08:15:45+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/95eaf23e-3761-4184-a2c0-47f6dc33a1be.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Skrev att han skulle döda femton elever – ställs inför rätta för terrorbrott",
-        "summary": "Av familjen beskrivs 19-åringen som tillbakadragen och försiktig, men i chattar skriver han att han ska svära trohet till IS och ”ha blodet från 15 avfällingar” på sina händer. I dag inleds rättegången där han åtalas för att ha planerat ett terrordåd.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Wrote he would kill fifteen students – to stand trial for terror offence",
-        "summary": "The family describes the 19-year-old as withdrawn and cautious, but in chats he writes that he will swear allegiance to IS and have \"the blood of 15 apostates\" on his hands. Today his trial begins, in which he is charged with planning a terror attack"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T08:15:56+01:00"
-      }
-    },
-    {
-      "id": "bc4801bbe98d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/forberedde-is-dad-i-skolan-de-fortjanar-dodsstraff",
-      "guid": "74a1bb5f-a8e3-406f-9607-d071645d1934",
-      "published_at": "2026-11-19T08:08:03+01:00",
-      "fetched_at": "2026-11-19T08:15:51+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/a4264686-431e-4a53-a41b-827dcaea99e0.jpg?width=600",
-      "sv": {
-        "title": "Förberedde IS-dåd i skolan – ”De förtjänar dödsstraff”",
-        "summary": "Den 18-årige Halmstadsbon skrev att han ville bli martyr och döda 15 personer på sin gymnasieskola. Sedan skulle han svära trohet till IS. Dagen efter påsklovet greps han av polis och nu inleds rättegången.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Prepared IS attack at school – \"They deserve the death penalty\"",
-        "summary": "The 18-year-old from Halmstad wrote that he wanted to become a martyr and kill 15 people at his upper secondary school. He would then swear allegiance to IS. The day after the Easter break he was arrested by police and the trial now begins"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T08:15:56+01:00"
       }
     }
   ]
