@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T12:46:09+01:00",
+  "generated_at": "2026-11-23T13:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "09aa1ff64e57",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/revanschlyft-pa-borsen-industribolagen-stiger",
+      "guid": "4401cd70-e3bc-4353-9adf-b703d4d216b0",
+      "published_at": "2026-11-23T12:49:20+01:00",
+      "fetched_at": "2026-11-23T13:01:18+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Revanschlyft på börsen – industribolagen stiger",
+        "summary": "Efter en blytung förra vecka vänder Stockholmsbörsen upp på måndagen. Industribolagen går starkt – medan Hemnet bryter sin mardrömssvit.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Revenge rally on the stock market – industrial companies rise",
+        "summary": "After a heavy previous week, the Stockholm Stock Exchange turns up on Monday. Industrial companies are performing strongly – while Hemnet breaks its nightmare streak."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T13:01:23+01:00"
+      }
+    },
     {
       "id": "ae6f79653caa",
       "schema_version": 1,
@@ -5331,33 +5357,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "2d59e01153b1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/aq-groups-vd-tankar-aktier-89bRq",
-      "guid": "a99763b4-b9de-4e14-bdbe-a0d2356dde03",
-      "published_at": "2026-11-20T16:14:34+01:00",
-      "fetched_at": "2026-11-20T16:20:53+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/1b5f29cb-8f2a-4e77-9925-2a7c6570bd15.jpeg?width=600",
-      "sv": {
-        "title": "AQ Groups vd tankar aktier",
-        "summary": "Verkstadsbolaget AQ Groups vd James Ahrgren har på fredagen köpt 3.200 AQ Group-aktier för 217,45 kronor styck, eller totalt 0,7 miljoner kronor. Det framgår av inrapportering till Finansinspektionens insynsregister.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "AQ Group CEO buys shares",
-        "summary": "AQ Group CEO James Ahrgren, of the engineering company, bought 3,200 AQ Group shares at SEK 217.45 each, or SEK 0.7 million in total on Friday. This is according to a report to the Financial Supervisory Authority's insider register."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:20:57+01:00"
       }
     }
   ]

@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-23T12:46:09+01:00",
+  "generated_at": "2026-11-23T13:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "308d36507dc9",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/OypqoO/ashkan-26-halkade-pa-brygga-lag-ute-i-tre-timmar",
+      "guid": "https://www.aftonbladet.se/nyheter/a/OypqoO/ashkan-26-halkade-pa-brygga-lag-ute-i-tre-timmar?utm_medium=rss",
+      "published_at": "2026-11-23T12:59:23+01:00",
+      "fetched_at": "2026-11-23T13:01:16+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/a9e0bd59-9d3c-335d-a79f-39b10bc64be5?format=auto&s=ba22207e8b51b86afa6b231161f2c13d48bd08f7&w=1000",
+      "sv": {
+        "title": "Ashkan, 26, halkade på brygga – låg ute i tre timmar",
+        "summary": "Vägrade skicka ambulans ✓ ”Jag bara skrek”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ashkan, 26, fell through ice on pier – lay outside for three hours",
+        "summary": "Refused to send ambulance ✓ “I just screamed”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T13:01:23+01:00"
+      }
+    },
+    {
+      "id": "c6d5e142b3a1",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/varnpliktig-skjuten-under-ovning-traffad-i-foten",
+      "guid": "3a40abf1-c5ed-412b-b51d-a55076654513",
+      "published_at": "2026-11-23T12:54:50+01:00",
+      "fetched_at": "2026-11-23T13:01:19+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/2c342694-c80c-4b9e-a53c-e444ed194c5a.jpg?width=600",
+      "sv": {
+        "title": "Värnpliktig skjuten vid övning – träffad i foten",
+        "summary": "En värnpliktig träffades av ett skarpt skott under en skjutövning på Horssjöns skjutfält i Värmland på söndagseftermiddagen, uppger Försvarsmakten för Aftonbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Conscript shot during exercise – hit in the foot",
+        "summary": "A conscript was hit by a live round during a shooting exercise at the Horssjön firing range in Värmland on Sunday afternoon, the Armed Forces told Aftonbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T13:01:23+01:00"
+      }
+    },
     {
       "id": "d26de0d5ad3a",
       "schema_version": 1,
@@ -5381,58 +5435,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T08:45:59+01:00"
-      }
-    },
-    {
-      "id": "4823bfc3dd77",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/dalarna/naturskyddsforeningen-overklagar-vargjakten-hor-hemma-i-svensk-natur",
-      "guid": "https://www.svt.se/nyheter/lokalt/dalarna/naturskyddsforeningen-overklagar-vargjakten-hor-hemma-i-svensk-natur",
-      "published_at": "2026-11-19T07:33:37+01:00",
-      "fetched_at": "2026-11-19T07:45:42+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Naturskyddsföreningen överklagar vargjakten: ”Hör hemma i svensk natur”",
-        "summary": "Naturskyddsföreningen överklagar nästa års licensjakt på varg. – Vargen hör hemma i den svenska naturen. Vi har ett ansvar för att den ska finnas kvar, säger generalsekreterare Beatrice Rindevall till TT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish Society for Nature Conservation appeals wolf hunt: \"Belongs in Swedish nature\"",
-        "summary": "The Swedish Society for Nature Conservation is appealing next year's licensed wolf hunt. \"The wolf belongs in Swedish nature. We have a responsibility to ensure it remains,\" says Secretary General Beatrice Rindevall to TT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T07:45:55+01:00"
-      }
-    },
-    {
-      "id": "65f97651b309",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/beslutet-sis-stanger-vemyra-i-solleftea",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/beslutet-sis-stanger-vemyra-i-solleftea",
-      "published_at": "2026-11-19T07:27:07+01:00",
-      "fetched_at": "2026-11-19T07:45:42+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Beslutet: SiS stänger Vemyra i Sollefteå",
-        "summary": "Ungdomshemmet Vemyra stängs. Det står klart efter att SiS beslutat att inte överklaga Kammarrättens dom.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Decision: SiS closes Vemyra in Sollefteå",
-        "summary": "The Vemyra youth home is closing. This is clear after SiS decided not to appeal the Court of Appeal's ruling."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T07:45:55+01:00"
       }
     }
   ]
