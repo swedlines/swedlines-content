@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T13:01:26+01:00",
+  "generated_at": "2026-11-23T13:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "51e6ec660e7c",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/9Bv49w/ny-bevisning-om-brattasmorden-inlamnad",
+      "guid": "https://www.aftonbladet.se/nyheter/a/9Bv49w/ny-bevisning-om-brattasmorden-inlamnad?utm_medium=rss",
+      "published_at": "2026-11-23T13:03:12+01:00",
+      "fetched_at": "2026-11-23T13:15:49+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/5e43fc93-65d3-300a-883f-7407ce88dded?format=auto&s=a7c439412b0c7190f2ab94428104609f52eeec14&w=1000",
+      "sv": {
+        "title": "Ny bevisning om Brattåsmorden inlämnad",
+        "summary": "Nytt sekretessbelagt bevismaterial i målet om dubbelmordet i Brattås har lämnats in till hovrätten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New evidence submitted in Brattås murders",
+        "summary": "New classified evidence in the case concerning the double murder in Brattås has been submitted to the court of appeal."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T13:15:59+01:00"
+      }
+    },
     {
       "id": "a68a412115cf",
       "schema_version": 1,
@@ -5403,32 +5430,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T09:31:14+01:00"
-      }
-    },
-    {
-      "id": "e06da89ffa30",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/blekinge/volvo-doms-att-betala-23-miljoner-kronor-efter-allvarlig-olycka",
-      "guid": "https://www.svt.se/nyheter/lokalt/blekinge/volvo-doms-att-betala-23-miljoner-kronor-efter-allvarlig-olycka",
-      "published_at": "2026-11-19T09:00:40+01:00",
-      "fetched_at": "2026-11-19T09:15:40+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Volvo döms att betala 23 miljoner kronor – efter allvarlig olycka",
-        "summary": "En anställd på Volvo Personvagnar AB i Olofström höll på att klämmas ihjäl i en olycka förra året. Nu döms Volvo att betala 23,2 miljoner kronor i företagsbot, då det framkommit stora säkerhetsbrister i fabriken.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Volvo ordered to pay SEK 23 million – after serious accident",
-        "summary": "An employee at Volvo Personvagnar AB in Olofström was nearly crushed to death in an accident last year. Volvo is now sentenced to pay SEK 23.2 million in corporate fine, as serious safety deficiencies in the factory have emerged."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T09:15:58+01:00"
       }
     }
   ]
