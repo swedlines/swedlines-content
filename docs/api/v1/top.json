@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T15:46:01+01:00",
+  "generated_at": "2026-11-23T16:01:27+01:00",
   "count": 30,
   "stories": [
     {
@@ -2201,6 +2201,139 @@
       ]
     },
     {
+      "id": "efe14e07b5e1",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-23T15:00:27+01:00",
+      "last_published_at": "2026-11-23T15:53:35+01:00",
+      "lead": {
+        "id": "efe14e07b5e1",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/Pv9Jvb/jensen-huang-gor-comeback-som-vd",
+        "guid": "https://www.aftonbladet.se/nyheter/a/Pv9Jvb/jensen-huang-gor-comeback-som-vd?utm_medium=rss",
+        "published_at": "2026-11-23T15:00:27+01:00",
+        "fetched_at": "2026-11-23T15:31:05+01:00",
+        "category": "economy",
+        "image_url": "https://akamai.vgc.no/v2/images/a073ee57-f5d9-3243-b60d-f5eefef21489?format=auto&s=72a80629304ad65803884df3d5b90bb03e932482&w=1000",
+        "sv": {
+          "title": "Jensen Huang gör comeback som vd",
+          "summary": "”Tillräckligt uppriktig” ✓Aktien rusar",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Jensen Huang makes comeback as CEO",
+          "summary": "“Sufficiently candid” ✓The stock soars"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T15:31:20+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "13db2a60bdc0",
+          "source": "svd",
+          "url": "https://www.svd.se/a/vkQ2zB/huang-tillbaka-efter-skandalerna-detta-har-hant",
+          "published_at": "2026-11-23T15:53:35+01:00",
+          "sv": {
+            "title": "Huang tillbaka efter skandalerna – detta har hänt"
+          },
+          "en": {
+            "title": "Huang back after the scandals – here is what happened"
+          }
+        },
+        {
+          "id": "efe14e07b5e1",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Pv9Jvb/jensen-huang-gor-comeback-som-vd",
+          "published_at": "2026-11-23T15:00:27+01:00",
+          "sv": {
+            "title": "Jensen Huang gör comeback som vd"
+          },
+          "en": {
+            "title": "Jensen Huang makes comeback as CEO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f8cee793f305",
+      "source_count": 2,
+      "sources": [
+        "gp",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-23T15:16:27+01:00",
+      "last_published_at": "2026-11-23T15:48:34+01:00",
+      "lead": {
+        "id": "f8cee793f305",
+        "schema_version": 1,
+        "source": "gp",
+        "url": "https://www.gp.se/nyheter/storgoteborg/fel-kvinna-pa-polisens-foto-fran-landvetter.8184f9ec-b684-5a29-b9aa-db0edccd8fe0",
+        "guid": "8184f9ec-b684-5a29-b9aa-db0edccd8fe0",
+        "published_at": "2026-11-23T15:16:27+01:00",
+        "fetched_at": "2026-11-23T15:45:49+01:00",
+        "category": "crime",
+        "feed_categories": [
+          "Storgöteborg",
+          "Tagg: breaking-GP",
+          "Tagg: Missing People",
+          "Tagg: Polisen",
+          "Tagg: Landvetter"
+        ],
+        "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
+        "sv": {
+          "title": "Kvinnan på polisens bild var inte försvunnen",
+          "summary": "Hörde själv av sig till polisen • 35-årig försvunnen i snart två månader.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Woman in police image was not missing",
+          "summary": "Contacted the police herself • 35-year-old missing for almost two months."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T15:45:56+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "8220d67aa634",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=1b778fac-d6d6-4f72-802d-87fefe590566",
+          "published_at": "2026-11-23T15:48:34+01:00",
+          "sv": {
+            "title": "Polisens bilder – på fel person"
+          },
+          "en": {
+            "title": "Police images – of the wrong person"
+          }
+        },
+        {
+          "id": "f8cee793f305",
+          "source": "gp",
+          "url": "https://www.gp.se/nyheter/storgoteborg/fel-kvinna-pa-polisens-foto-fran-landvetter.8184f9ec-b684-5a29-b9aa-db0edccd8fe0",
+          "published_at": "2026-11-23T15:16:27+01:00",
+          "sv": {
+            "title": "Kvinnan på polisens bild var inte försvunnen"
+          },
+          "en": {
+            "title": "Woman in police image was not missing"
+          }
+        }
+      ]
+    },
+    {
       "id": "613a949b914d",
       "source_count": 2,
       "sources": [
@@ -2670,142 +2803,6 @@
           },
           "en": {
             "title": "New proposal to V from S, C and MP"
-          }
-        }
-      ]
-    },
-    {
-      "id": "ea15ee9d0fc4",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "sr"
-      ],
-      "first_published_at": "2026-11-23T11:10:25+01:00",
-      "last_published_at": "2026-11-23T13:18:00+01:00",
-      "lead": {
-        "id": "ea15ee9d0fc4",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
-        "guid": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
-        "published_at": "2026-11-23T11:10:25+01:00",
-        "fetched_at": "2026-11-23T11:15:46+01:00",
-        "category": "other",
-        "sv": {
-          "title": "JUST NU: Startbud, slutbud, skambud?",
-          "summary": "Expressens ”Politikrummet” live om regeringskaoset",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "JUST NOW: Starting bid, final bid, shame bid?",
-          "summary": "Expressen's live “Politikrummet” on the government chaos"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T11:15:59+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "41749b70d161",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348271",
-          "published_at": "2026-11-23T13:18:00+01:00",
-          "sv": {
-            "title": "Vänsterpartister sluter upp bakom ledningens nej till startpaketet"
-          },
-          "en": {
-            "title": "Left Party members back leadership's no to starter package"
-          }
-        },
-        {
-          "id": "0b80efc311f8",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/har-ar-startpaketet-till-v-fran-s-c-och-mp",
-          "published_at": "2026-11-23T11:48:28+01:00",
-          "sv": {
-            "title": "Här är ”startpaketet” till V – från S, C och MP"
-          },
-          "en": {
-            "title": "Here is the \"starter package\" for the Left Party – from the Social Democrats, the Centre Party and the Green Party"
-          }
-        },
-        {
-          "id": "ea15ee9d0fc4",
-          "source": "expressen",
-          "url": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
-          "published_at": "2026-11-23T11:10:25+01:00",
-          "sv": {
-            "title": "JUST NU: Startbud, slutbud, skambud?"
-          },
-          "en": {
-            "title": "JUST NOW: Starting bid, final bid, shame bid?"
-          }
-        }
-      ]
-    },
-    {
-      "id": "6a9a9339193e",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-23T10:11:02+01:00",
-      "last_published_at": "2026-11-23T12:40:46+01:00",
-      "lead": {
-        "id": "6a9a9339193e",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/lokalt/skane/25-aring-hittad-dod-i-kristianstad-misstankt-man-anhallen",
-        "guid": "https://www.svt.se/nyheter/lokalt/skane/25-aring-hittad-dod-i-kristianstad-misstankt-man-anhallen",
-        "published_at": "2026-11-23T10:11:02+01:00",
-        "fetched_at": "2026-11-23T10:15:47+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "25-åring hittad död i Kristianstad – misstänkt man anhållen",
-          "summary": "En man i 25-årsåldern hittades död i en lägenhet under kvällen i lördags. På söndagen greps och anhölls en man i 30-årsåldern misstänkt för mord.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "25-year-old found dead in Kristianstad – suspect detained",
-          "summary": "A man in his 25s was found dead in an apartment on Saturday evening. On Sunday, a man in his 30s suspected of murder was arrested and detained."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T10:15:59+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "a68a412115cf",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/0vny82/man-hittad-dod-i-kristianstad-en-anhallen",
-          "published_at": "2026-11-23T12:40:46+01:00",
-          "sv": {
-            "title": "Man hittad död i Kristianstad – en anhållen"
-          },
-          "en": {
-            "title": "Man found dead in Kristianstad – one detained"
-          }
-        },
-        {
-          "id": "6a9a9339193e",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/skane/25-aring-hittad-dod-i-kristianstad-misstankt-man-anhallen",
-          "published_at": "2026-11-23T10:11:02+01:00",
-          "sv": {
-            "title": "25-åring hittad död i Kristianstad – misstänkt man anhållen"
-          },
-          "en": {
-            "title": "25-year-old found dead in Kristianstad – suspect detained"
           }
         }
       ]
