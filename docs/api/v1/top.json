@@ -1,7 +1,121 @@
 {
-  "generated_at": "2026-11-23T11:45:54+01:00",
+  "generated_at": "2026-11-23T12:01:32+01:00",
   "count": 28,
   "stories": [
+    {
+      "id": "eb812e908ef6",
+      "source_count": 6,
+      "sources": [
+        "svt",
+        "aftonbladet",
+        "gp",
+        "sr",
+        "svd",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-23T10:41:20+01:00",
+      "last_published_at": "2026-11-23T11:56:31+01:00",
+      "lead": {
+        "id": "eb812e908ef6",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
+        "guid": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
+        "published_at": "2026-11-23T10:41:20+01:00",
+        "fetched_at": "2026-11-23T10:45:46+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Larm om bombhot mot flera skolor i Danmark",
+          "summary": "Polisdistrikt i hela Danmark får just nu in anmälningar om bombhot mot ett stort antal danska skolor, skriver danska TV 2. Samtidigt uppmanar polisen till lugn och betonar att det i nuläget inte finns anledning till oro.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Alarm over bomb threats against several schools in Denmark",
+          "summary": "Police districts across Denmark are currently receiving reports of bomb threats against a large number of Danish schools, Danish TV 2 writes. At the same time, police urge calm and stress that there is currently no reason for concern."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T10:45:57+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "a73ef0a853e7",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=e889162b-1204-45a8-9026-526ded2f32a2",
+          "published_at": "2026-11-23T11:56:31+01:00",
+          "sv": {
+            "title": "Bombhot mot skolor i Tyskland och Danmark"
+          },
+          "en": {
+            "title": "Bomb threats against schools in Germany and Denmark"
+          }
+        },
+        {
+          "id": "5d1e43d437ad",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80215",
+          "published_at": "2026-11-23T10:53:31+01:00",
+          "sv": {
+            "title": "Bombhot mot skolor i hela Danmark"
+          },
+          "en": {
+            "title": "Bomb threat against schools across Denmark"
+          }
+        },
+        {
+          "id": "14a18f9a1ac4",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348127",
+          "published_at": "2026-11-23T10:49:00+01:00",
+          "sv": {
+            "title": "Bombhot mot flera danska skolor"
+          },
+          "en": {
+            "title": "Bomb threat against several Danish schools"
+          }
+        },
+        {
+          "id": "05354ea44495",
+          "source": "gp",
+          "url": "https://www.gp.se/nyheter/varlden/bombhot-mot-manga-skolor-i-danmark.ea4478c5-ab2d-5d30-af63-2353e18636e8",
+          "published_at": "2026-11-23T10:45:21+01:00",
+          "sv": {
+            "title": "Bombhot mot danska skolor – polisen skickar patruller"
+          },
+          "en": {
+            "title": "Bomb threats against Danish schools – police send patrols"
+          }
+        },
+        {
+          "id": "0aa6831c9009",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/7P0ORo/bombhot-mot-skolor-i-hela-danmark",
+          "published_at": "2026-11-23T10:44:58+01:00",
+          "sv": {
+            "title": "Bombhot mot skolor i hela Danmark"
+          },
+          "en": {
+            "title": "Bomb threats against schools across Denmark"
+          }
+        },
+        {
+          "id": "eb812e908ef6",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
+          "published_at": "2026-11-23T10:41:20+01:00",
+          "sv": {
+            "title": "Larm om bombhot mot flera skolor i Danmark"
+          },
+          "en": {
+            "title": "Alarm over bomb threats against several schools in Denmark"
+          }
+        }
+      ]
+    },
     {
       "id": "af1400435bf8",
       "source_count": 6,
@@ -224,107 +338,6 @@
           },
           "en": {
             "title": "Family thanks for support – pleads for space"
-          }
-        }
-      ]
-    },
-    {
-      "id": "eb812e908ef6",
-      "source_count": 5,
-      "sources": [
-        "svt",
-        "aftonbladet",
-        "gp",
-        "sr",
-        "svd"
-      ],
-      "first_published_at": "2026-11-23T10:41:20+01:00",
-      "last_published_at": "2026-11-23T10:53:31+01:00",
-      "lead": {
-        "id": "eb812e908ef6",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
-        "guid": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
-        "published_at": "2026-11-23T10:41:20+01:00",
-        "fetched_at": "2026-11-23T10:45:46+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Larm om bombhot mot flera skolor i Danmark",
-          "summary": "Polisdistrikt i hela Danmark får just nu in anmälningar om bombhot mot ett stort antal danska skolor, skriver danska TV 2. Samtidigt uppmanar polisen till lugn och betonar att det i nuläget inte finns anledning till oro.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Alarm over bomb threats against several schools in Denmark",
-          "summary": "Police districts across Denmark are currently receiving reports of bomb threats against a large number of Danish schools, Danish TV 2 writes. At the same time, police urge calm and stress that there is currently no reason for concern."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T10:45:57+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "5d1e43d437ad",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80215",
-          "published_at": "2026-11-23T10:53:31+01:00",
-          "sv": {
-            "title": "Bombhot mot skolor i hela Danmark"
-          },
-          "en": {
-            "title": "Bomb threat against schools across Denmark"
-          }
-        },
-        {
-          "id": "14a18f9a1ac4",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348127",
-          "published_at": "2026-11-23T10:49:00+01:00",
-          "sv": {
-            "title": "Bombhot mot flera danska skolor"
-          },
-          "en": {
-            "title": "Bomb threat against several Danish schools"
-          }
-        },
-        {
-          "id": "05354ea44495",
-          "source": "gp",
-          "url": "https://www.gp.se/nyheter/varlden/bombhot-mot-manga-skolor-i-danmark.ea4478c5-ab2d-5d30-af63-2353e18636e8",
-          "published_at": "2026-11-23T10:45:21+01:00",
-          "sv": {
-            "title": "Bombhot mot danska skolor – polisen skickar patruller"
-          },
-          "en": {
-            "title": "Bomb threats against Danish schools – police send patrols"
-          }
-        },
-        {
-          "id": "0aa6831c9009",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/7P0ORo/bombhot-mot-skolor-i-hela-danmark",
-          "published_at": "2026-11-23T10:44:58+01:00",
-          "sv": {
-            "title": "Bombhot mot skolor i hela Danmark"
-          },
-          "en": {
-            "title": "Bomb threats against schools across Denmark"
-          }
-        },
-        {
-          "id": "eb812e908ef6",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
-          "published_at": "2026-11-23T10:41:20+01:00",
-          "sv": {
-            "title": "Larm om bombhot mot flera skolor i Danmark"
-          },
-          "en": {
-            "title": "Alarm over bomb threats against several schools in Denmark"
           }
         }
       ]
@@ -861,6 +874,158 @@
       ]
     },
     {
+      "id": "b42121ced675",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "di"
+      ],
+      "first_published_at": "2026-11-23T11:30:22+01:00",
+      "last_published_at": "2026-11-23T11:49:18+01:00",
+      "lead": {
+        "id": "b42121ced675",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/Vxb8L6/designer-maktlos-nar-ai-stjal-allt-hon-gor",
+        "guid": "https://www.aftonbladet.se/nyheter/a/Vxb8L6/designer-maktlos-nar-ai-stjal-allt-hon-gor?utm_medium=rss",
+        "published_at": "2026-11-23T11:30:22+01:00",
+        "fetched_at": "2026-11-23T11:45:43+01:00",
+        "category": "culture",
+        "image_url": "https://akamai.vgc.no/v2/images/24c03685-05a4-3e65-852c-0627a1232eb3?format=auto&s=915eed2ba3d2d48dce7ce7fcf5398905edadcfbe&w=1000",
+        "sv": {
+          "title": "Designer maktlös när AI stjäl allt hon gör",
+          "summary": "Så fort Malin Fredriksson lägger ut en ny design kan hon räkna med att den blir kopierad.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Designer powerless as AI steals everything she makes",
+          "summary": "As soon as Malin Fredriksson posts a new design, she can expect it to be copied."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T11:45:51+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "6cf47facc37a",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/designers-dilemma-ai-stjal-allt-sparat-ut",
+          "published_at": "2026-11-23T11:49:18+01:00",
+          "sv": {
+            "title": "Designers dilemma – AI stjäl allt: ”Spårat ut”"
+          },
+          "en": {
+            "title": "Designers' dilemma – AI steals everything: \"Spiralling out\""
+          }
+        },
+        {
+          "id": "44d658b31b78",
+          "source": "svd",
+          "url": "https://www.svd.se/a/aGwQkO/designer-maktlos-nar-ai-stjal-allt-hon-gor",
+          "published_at": "2026-11-23T11:30:23+01:00",
+          "sv": {
+            "title": "Designer maktlös när AI stjäl allt hon gör"
+          },
+          "en": {
+            "title": "Designer powerless as AI steals everything she makes"
+          }
+        },
+        {
+          "id": "b42121ced675",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Vxb8L6/designer-maktlos-nar-ai-stjal-allt-hon-gor",
+          "published_at": "2026-11-23T11:30:22+01:00",
+          "sv": {
+            "title": "Designer maktlös när AI stjäl allt hon gör"
+          },
+          "en": {
+            "title": "Designer powerless as AI steals everything she makes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7da3bfad9511",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-23T06:10:35+01:00",
+      "last_published_at": "2026-11-23T11:48:11+01:00",
+      "lead": {
+        "id": "7da3bfad9511",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln",
+        "guid": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln?utm_medium=rss",
+        "published_at": "2026-11-23T06:10:35+01:00",
+        "fetched_at": "2026-11-23T06:56:01+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/3e3dac2a-580e-392d-a1e0-cbd05d92971f?format=auto&s=c9fee6b2eb30212be380de84f75f7edc3cfbc36b&w=1000",
+        "sv": {
+          "title": "V:s vrede efter debattartikeln: ”Obegripligt”",
+          "summary": "Öppet ordkrig ✓ Ville stoppa publiceringen",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "The Left Party's (V) anger after the debate article: “Incomprehensible”",
+          "summary": "Open war of words ✓ Wanted to stop the publication"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T06:56:30+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "64c58b275176",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/s-budet-till-v--garantierna-som-ska-fa-dem-att-vanda",
+          "published_at": "2026-11-23T11:48:11+01:00",
+          "sv": {
+            "title": "S-budet till V – garantierna som ska få dem att vända"
+          },
+          "en": {
+            "title": "The S offer to the Left Party – the guarantees that are meant to make them turn"
+          }
+        },
+        {
+          "id": "5ecd18bd22ec",
+          "source": "svd",
+          "url": "https://www.svd.se/a/7P0Ar8/v-bad-s-att-inte-publicera-debattartikeln-med-sitt-bud-menar-att-de-blev-overkorda",
+          "published_at": "2026-11-23T09:53:19+01:00",
+          "sv": {
+            "title": "Ilska efter artikeln med budet: ”Obegripligt”"
+          },
+          "en": {
+            "title": "Outrage over article with the bid: “Incomprehensible”"
+          }
+        },
+        {
+          "id": "7da3bfad9511",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln",
+          "published_at": "2026-11-23T06:10:35+01:00",
+          "sv": {
+            "title": "V:s vrede efter debattartikeln: ”Obegripligt”"
+          },
+          "en": {
+            "title": "The Left Party's (V) anger after the debate article: “Incomprehensible”"
+          }
+        }
+      ]
+    },
+    {
       "id": "01e469789fba",
       "source_count": 3,
       "sources": [
@@ -1337,69 +1502,6 @@
       ]
     },
     {
-      "id": "b42121ced675",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-23T11:30:22+01:00",
-      "last_published_at": "2026-11-23T11:30:23+01:00",
-      "lead": {
-        "id": "b42121ced675",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/Vxb8L6/designer-maktlos-nar-ai-stjal-allt-hon-gor",
-        "guid": "https://www.aftonbladet.se/nyheter/a/Vxb8L6/designer-maktlos-nar-ai-stjal-allt-hon-gor?utm_medium=rss",
-        "published_at": "2026-11-23T11:30:22+01:00",
-        "fetched_at": "2026-11-23T11:45:43+01:00",
-        "category": "culture",
-        "image_url": "https://akamai.vgc.no/v2/images/24c03685-05a4-3e65-852c-0627a1232eb3?format=auto&s=915eed2ba3d2d48dce7ce7fcf5398905edadcfbe&w=1000",
-        "sv": {
-          "title": "Designer maktlös när AI stjäl allt hon gör",
-          "summary": "Så fort Malin Fredriksson lägger ut en ny design kan hon räkna med att den blir kopierad.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Designer powerless as AI steals everything she makes",
-          "summary": "As soon as Malin Fredriksson posts a new design, she can expect it to be copied."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T11:45:51+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "44d658b31b78",
-          "source": "svd",
-          "url": "https://www.svd.se/a/aGwQkO/designer-maktlos-nar-ai-stjal-allt-hon-gor",
-          "published_at": "2026-11-23T11:30:23+01:00",
-          "sv": {
-            "title": "Designer maktlös när AI stjäl allt hon gör"
-          },
-          "en": {
-            "title": "Designer powerless as AI steals everything she makes"
-          }
-        },
-        {
-          "id": "b42121ced675",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Vxb8L6/designer-maktlos-nar-ai-stjal-allt-hon-gor",
-          "published_at": "2026-11-23T11:30:22+01:00",
-          "sv": {
-            "title": "Designer maktlös när AI stjäl allt hon gör"
-          },
-          "en": {
-            "title": "Designer powerless as AI steals everything she makes"
-          }
-        }
-      ]
-    },
-    {
       "id": "a9ddda1432e2",
       "source_count": 2,
       "sources": [
@@ -1720,69 +1822,6 @@
           },
           "en": {
             "title": "Convicted terrorist Danish spy demands compensation"
-          }
-        }
-      ]
-    },
-    {
-      "id": "7da3bfad9511",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-23T06:10:35+01:00",
-      "last_published_at": "2026-11-23T09:53:19+01:00",
-      "lead": {
-        "id": "7da3bfad9511",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln",
-        "guid": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln?utm_medium=rss",
-        "published_at": "2026-11-23T06:10:35+01:00",
-        "fetched_at": "2026-11-23T06:56:01+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/3e3dac2a-580e-392d-a1e0-cbd05d92971f?format=auto&s=c9fee6b2eb30212be380de84f75f7edc3cfbc36b&w=1000",
-        "sv": {
-          "title": "V:s vrede efter debattartikeln: ”Obegripligt”",
-          "summary": "Öppet ordkrig ✓ Ville stoppa publiceringen",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "The Left Party's (V) anger after the debate article: “Incomprehensible”",
-          "summary": "Open war of words ✓ Wanted to stop the publication"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T06:56:30+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "5ecd18bd22ec",
-          "source": "svd",
-          "url": "https://www.svd.se/a/7P0Ar8/v-bad-s-att-inte-publicera-debattartikeln-med-sitt-bud-menar-att-de-blev-overkorda",
-          "published_at": "2026-11-23T09:53:19+01:00",
-          "sv": {
-            "title": "Ilska efter artikeln med budet: ”Obegripligt”"
-          },
-          "en": {
-            "title": "Outrage over article with the bid: “Incomprehensible”"
-          }
-        },
-        {
-          "id": "7da3bfad9511",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln",
-          "published_at": "2026-11-23T06:10:35+01:00",
-          "sv": {
-            "title": "V:s vrede efter debattartikeln: ”Obegripligt”"
-          },
-          "en": {
-            "title": "The Left Party's (V) anger after the debate article: “Incomprehensible”"
           }
         }
       ]

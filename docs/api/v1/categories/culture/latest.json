@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T11:45:54+01:00",
+  "generated_at": "2026-11-23T12:01:32+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "12b015b7c0ca",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/berg-och-gynning-gor-nytt-tv-program-ihop",
+      "guid": "a0d3680e-0709-466f-b8e7-29dddcfacf9b",
+      "published_at": "2026-11-23T11:56:15+01:00",
+      "fetched_at": "2026-11-23T12:01:18+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Berg och Gynning gör nytt tv-program ihop",
+        "summary": "Carina Berg och Carolina Gynning ska utforska vägar till lycka och bättre hälsa i ett nytt program i TV3 och på Viaplay i vår.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Berg and Gynning make new TV programme together",
+        "summary": "Carina Berg and Carolina Gynning are to explore paths to happiness and better health in a new programme on TV3 and Viaplay this spring."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:01:24+01:00"
+      }
+    },
     {
       "id": "44d658b31b78",
       "schema_version": 1,
@@ -5699,33 +5725,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T09:45:59+01:00"
-      }
-    },
-    {
-      "id": "21094792f7c8",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/the-strokes-klara-for-way-out-west",
-      "guid": "bbcc3337-01b6-4f67-9bea-ee649f269a44",
-      "published_at": "2026-11-20T09:05:31+01:00",
-      "fetched_at": "2026-11-20T09:15:48+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/eda08c27-1851-4444-b853-6c2db6fa2272.jpg?width=600",
-      "sv": {
-        "title": "The Strokes klara för Way Out West",
-        "summary": "New York-bandet The Strokes kommer till Sverige och Way Out West nästa sommar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Strokes confirmed for Way Out West",
-        "summary": "New York band The Strokes is coming to Sweden and Way Out West next summer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T09:15:53+01:00"
       }
     }
   ]
