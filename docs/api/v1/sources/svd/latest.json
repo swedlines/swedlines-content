@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T00:31:01+01:00",
+  "generated_at": "2026-11-24T00:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f715b4702273",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/j3deg0/sydkorea-krankning-av-luftrum",
+      "guid": "https://www.svd.se/a/j3deg0/sydkorea-krankning-av-luftrum?utm_medium=rss",
+      "published_at": "2026-11-24T00:36:21+01:00",
+      "fetched_at": "2026-11-24T00:45:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Sydkorea: Kränkning av luftrum",
+        "summary": "Sydkorea uppger att ett misstänkt nordkoreanskt flygplan har tagit sig in i det sydkoreanska…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "South Korea: Airspace violation",
+        "summary": "South Korea says a suspected North Korean aircraft has entered South Korean…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T00:45:56+01:00"
+      }
+    },
     {
       "id": "6c66fcadad98",
       "schema_version": 1,
@@ -5217,33 +5243,6 @@
       "en": {
         "title": "EU cuts support for sport with Russians",
         "summary": "The EU Commission is cutting funding to sports federations and organisers that allow Russians to compete…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:16:00+01:00"
-      }
-    },
-    {
-      "id": "f6546d1be539",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/2vGKMB/ryska-reaktioner-efter-ukrainas-attack-mot-krimbron",
-      "guid": "https://www.svd.se/a/2vGKMB/ryska-reaktioner-efter-ukrainas-attack-mot-krimbron?utm_medium=rss",
-      "published_at": "2026-11-20T17:59:19+01:00",
-      "fetched_at": "2026-11-20T18:15:45+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/9818bf01-0038-3abc-8a6f-e7a3236d519a?format=auto&s=1bc0ef70e0ac8773aeb62e3536b9905f62074a35&w=1000",
-      "sv": {
-        "title": "Spänd stämning i diplomatstaden",
-        "summary": "Något känns annorlunda. ”Ökad säkerhet nu, inte som förut”. Inne i den flotta salen bland de ryska…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tense mood in the diplomat city",
-        "summary": "Something feels different. \"Increased security now, not like before\". Inside the grand hall among the Russian…"
       },
       "translation": {
         "status": "done",

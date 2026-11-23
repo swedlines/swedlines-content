@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-24T00:31:01+01:00",
+  "generated_at": "2026-11-24T00:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "926ab31e92e2",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/3BJGoM/sydkorea-krankning-av-luftrum",
+      "guid": "https://www.aftonbladet.se/nyheter/a/3BJGoM/sydkorea-krankning-av-luftrum?utm_medium=rss",
+      "published_at": "2026-11-24T00:36:21+01:00",
+      "fetched_at": "2026-11-24T00:45:48+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Sydkorea: Nordkorea tros ha kränkt luftrum",
+        "summary": "Ett misstänkt nordkoreanskt flygplan har tagit sig in i det sydkoreanska luftrummet, uppger Sydkorea…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "South Korea: North Korea believed to have violated airspace",
+        "summary": "A suspected North Korean aircraft has entered South Korean airspace, South Korea says…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T00:45:56+01:00"
+      }
+    },
+    {
+      "id": "f715b4702273",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/j3deg0/sydkorea-krankning-av-luftrum",
+      "guid": "https://www.svd.se/a/j3deg0/sydkorea-krankning-av-luftrum?utm_medium=rss",
+      "published_at": "2026-11-24T00:36:21+01:00",
+      "fetched_at": "2026-11-24T00:45:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Sydkorea: Kränkning av luftrum",
+        "summary": "Sydkorea uppger att ett misstänkt nordkoreanskt flygplan har tagit sig in i det sydkoreanska…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "South Korea: Airspace violation",
+        "summary": "South Korea says a suspected North Korean aircraft has entered South Korean…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T00:45:56+01:00"
+      }
+    },
     {
       "id": "c5a098561885",
       "schema_version": 1,
@@ -5298,59 +5350,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T22:01:19+01:00"
-      }
-    },
-    {
-      "id": "2e606fec108b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/dJOP7B/mordarroboten-ar-har-kan-den-stoppas",
-      "guid": "https://www.svd.se/a/dJOP7B/mordarroboten-ar-har-kan-den-stoppas?utm_medium=rss",
-      "published_at": "2026-11-21T21:34:59+01:00",
-      "fetched_at": "2026-11-21T21:39:56+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/5897923f-1741-392d-bd81-f8a99dfbd615?format=auto&s=180c964ad1f26be8558be1fe85e1382749f61431&w=1000",
-      "sv": {
-        "title": "”Mördarroboten” är här: kan den stoppas?",
-        "summary": "De attackerar och kan döda utan slutlig kontroll av människor. Autonoma vapen, så kallade…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Killer robots\" are here: can they be stopped?",
-        "summary": "They attack and can kill without final human control. Autonomous weapons, so-called…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T21:40:02+01:00"
-      }
-    },
-    {
-      "id": "e628fa28f9c4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/dronarlarm-vid-ryska-ostersjobasen",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/dronarlarm-vid-ryska-ostersjobasen",
-      "published_at": "2026-11-21T21:12:53+01:00",
-      "fetched_at": "2026-11-21T21:15:46+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Drönarlarm vid ryska Östersjöbasen",
-        "summary": "Ryskt luftförsvar skjuter vid militärbas",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Drone alarm at Russian Baltic Sea base",
-        "summary": "Russian air defence fires at military base"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T21:15:52+01:00"
       }
     }
   ]

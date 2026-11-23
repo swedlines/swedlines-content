@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:31:01+01:00",
+  "generated_at": "2026-11-24T00:46:01+01:00",
   "count": 30,
   "stories": [
     {
@@ -928,6 +928,119 @@
       ]
     },
     {
+      "id": "ea15ee9d0fc4",
+      "source_count": 5,
+      "sources": [
+        "expressen",
+        "sr",
+        "gp",
+        "dn",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-23T11:10:25+01:00",
+      "last_published_at": "2026-11-24T00:38:22+01:00",
+      "lead": {
+        "id": "ea15ee9d0fc4",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
+        "guid": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
+        "published_at": "2026-11-23T11:10:25+01:00",
+        "fetched_at": "2026-11-23T11:15:46+01:00",
+        "category": "other",
+        "sv": {
+          "title": "JUST NU: Startbud, slutbud, skambud?",
+          "summary": "Expressens ”Politikrummet” live om regeringskaoset",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "JUST NOW: Starting bid, final bid, shame bid?",
+          "summary": "Expressen's live “Politikrummet” on the government chaos"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T11:15:59+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "793a1bb367c6",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/1vn4WX/sa-blev-totalpaketet-ett-startpaket-som-blev-slutbud",
+          "published_at": "2026-11-24T00:38:22+01:00",
+          "sv": {
+            "title": "Så blev totalpaketet ett startpaket som blev slutbud"
+          },
+          "en": {
+            "title": "How the total package became a starter package that became the final offer"
+          }
+        },
+        {
+          "id": "75c1e3938cfa",
+          "source": "dn",
+          "url": "https://www.dn.se/podd/alskade-politik/pangbud-eller-skambud-har-ar-dadgostars-dilemma",
+          "published_at": "2026-11-23T16:24:21+01:00",
+          "sv": {
+            "title": "Pangbud eller skambud – här är Dadgostars dilemma"
+          },
+          "en": {
+            "title": "Pang offer or insult offer – here is Dadgostar's dilemma"
+          }
+        },
+        {
+          "id": "91156070176b",
+          "source": "gp",
+          "url": "https://www.gp.se/politik/trots-v-nej-till-startpaket-s-har-inte-gett-upp.b87029d1-2c3e-507e-904f-1997ff8817a6",
+          "published_at": "2026-11-23T16:21:18+01:00",
+          "sv": {
+            "title": "Trots V nej till startpaket – S har inte gett upp"
+          },
+          "en": {
+            "title": "Despite V no to starter package – S has not given up"
+          }
+        },
+        {
+          "id": "41749b70d161",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348271",
+          "published_at": "2026-11-23T13:18:00+01:00",
+          "sv": {
+            "title": "Vänsterpartister sluter upp bakom ledningens nej till startpaketet"
+          },
+          "en": {
+            "title": "Left Party members back leadership's no to starter package"
+          }
+        },
+        {
+          "id": "0b80efc311f8",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/har-ar-startpaketet-till-v-fran-s-c-och-mp",
+          "published_at": "2026-11-23T11:48:28+01:00",
+          "sv": {
+            "title": "Här är ”startpaketet” till V – från S, C och MP"
+          },
+          "en": {
+            "title": "Here is the \"starter package\" for the Left Party – from the Social Democrats, the Centre Party and the Green Party"
+          }
+        },
+        {
+          "id": "ea15ee9d0fc4",
+          "source": "expressen",
+          "url": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
+          "published_at": "2026-11-23T11:10:25+01:00",
+          "sv": {
+            "title": "JUST NU: Startbud, slutbud, skambud?"
+          },
+          "en": {
+            "title": "JUST NOW: Starting bid, final bid, shame bid?"
+          }
+        }
+      ]
+    },
+    {
       "id": "00b6df668619",
       "source_count": 4,
       "sources": [
@@ -1363,106 +1476,6 @@
           },
           "en": {
             "title": "Greta Thunberg sentenced for actions in Copenhagen"
-          }
-        }
-      ]
-    },
-    {
-      "id": "ea15ee9d0fc4",
-      "source_count": 4,
-      "sources": [
-        "expressen",
-        "sr",
-        "gp",
-        "dn"
-      ],
-      "first_published_at": "2026-11-23T11:10:25+01:00",
-      "last_published_at": "2026-11-23T16:24:21+01:00",
-      "lead": {
-        "id": "ea15ee9d0fc4",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
-        "guid": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
-        "published_at": "2026-11-23T11:10:25+01:00",
-        "fetched_at": "2026-11-23T11:15:46+01:00",
-        "category": "other",
-        "sv": {
-          "title": "JUST NU: Startbud, slutbud, skambud?",
-          "summary": "Expressens ”Politikrummet” live om regeringskaoset",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "JUST NOW: Starting bid, final bid, shame bid?",
-          "summary": "Expressen's live “Politikrummet” on the government chaos"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T11:15:59+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "75c1e3938cfa",
-          "source": "dn",
-          "url": "https://www.dn.se/podd/alskade-politik/pangbud-eller-skambud-har-ar-dadgostars-dilemma",
-          "published_at": "2026-11-23T16:24:21+01:00",
-          "sv": {
-            "title": "Pangbud eller skambud – här är Dadgostars dilemma"
-          },
-          "en": {
-            "title": "Pang offer or insult offer – here is Dadgostar's dilemma"
-          }
-        },
-        {
-          "id": "91156070176b",
-          "source": "gp",
-          "url": "https://www.gp.se/politik/trots-v-nej-till-startpaket-s-har-inte-gett-upp.b87029d1-2c3e-507e-904f-1997ff8817a6",
-          "published_at": "2026-11-23T16:21:18+01:00",
-          "sv": {
-            "title": "Trots V nej till startpaket – S har inte gett upp"
-          },
-          "en": {
-            "title": "Despite V no to starter package – S has not given up"
-          }
-        },
-        {
-          "id": "41749b70d161",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348271",
-          "published_at": "2026-11-23T13:18:00+01:00",
-          "sv": {
-            "title": "Vänsterpartister sluter upp bakom ledningens nej till startpaketet"
-          },
-          "en": {
-            "title": "Left Party members back leadership's no to starter package"
-          }
-        },
-        {
-          "id": "0b80efc311f8",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/har-ar-startpaketet-till-v-fran-s-c-och-mp",
-          "published_at": "2026-11-23T11:48:28+01:00",
-          "sv": {
-            "title": "Här är ”startpaketet” till V – från S, C och MP"
-          },
-          "en": {
-            "title": "Here is the \"starter package\" for the Left Party – from the Social Democrats, the Centre Party and the Green Party"
-          }
-        },
-        {
-          "id": "ea15ee9d0fc4",
-          "source": "expressen",
-          "url": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
-          "published_at": "2026-11-23T11:10:25+01:00",
-          "sv": {
-            "title": "JUST NU: Startbud, slutbud, skambud?"
-          },
-          "en": {
-            "title": "JUST NOW: Starting bid, final bid, shame bid?"
           }
         }
       ]
@@ -2757,76 +2770,63 @@
       ]
     },
     {
-      "id": "2a76f53e9ac9",
-      "source_count": 3,
+      "id": "926ab31e92e2",
+      "source_count": 2,
       "sources": [
-        "expressen",
-        "svd",
-        "aftonbladet"
+        "aftonbladet",
+        "svd"
       ],
-      "first_published_at": "2026-11-23T12:38:59+01:00",
-      "last_published_at": "2026-11-23T12:43:19+01:00",
+      "first_published_at": "2026-11-24T00:36:21+01:00",
+      "last_published_at": "2026-11-24T00:36:21+01:00",
       "lead": {
-        "id": "2a76f53e9ac9",
+        "id": "926ab31e92e2",
         "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=dc68a609-2c45-4d04-b741-8c6da96b2953",
-        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=dc68a609-2c45-4d04-b741-8c6da96b2953",
-        "published_at": "2026-11-23T12:38:59+01:00",
-        "fetched_at": "2026-11-23T12:45:48+01:00",
-        "category": "sweden",
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/3BJGoM/sydkorea-krankning-av-luftrum",
+        "guid": "https://www.aftonbladet.se/nyheter/a/3BJGoM/sydkorea-krankning-av-luftrum?utm_medium=rss",
+        "published_at": "2026-11-24T00:36:21+01:00",
+        "fetched_at": "2026-11-24T00:45:48+01:00",
+        "category": "world",
         "sv": {
-          "title": "Värnpliktig skjuten under övning",
-          "summary": "Träffad av skott under övning, enligt Aftonbladet",
+          "title": "Sydkorea: Nordkorea tros ha kränkt luftrum",
+          "summary": "Ett misstänkt nordkoreanskt flygplan har tagit sig in i det sydkoreanska luftrummet, uppger Sydkorea…",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Conscript shot during exercise",
-          "summary": "Hit by gunfire during exercise, according to Aftonbladet"
+          "title": "South Korea: North Korea believed to have violated airspace",
+          "summary": "A suspected North Korean aircraft has entered South Korean airspace, South Korea says…"
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T12:46:02+01:00"
+          "translated_at": "2026-11-24T00:45:56+01:00"
         }
       },
       "items": [
         {
-          "id": "d26de0d5ad3a",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/3BJb8X/varnpliktig-skjuten-under-ovning-traffad-i-foten",
-          "published_at": "2026-11-23T12:43:19+01:00",
-          "sv": {
-            "title": "Värnpliktig skjuten under övning – träffad i foten"
-          },
-          "en": {
-            "title": "Conscript shot during exercise – hit in the foot"
-          }
-        },
-        {
-          "id": "648b2cd195db",
+          "id": "f715b4702273",
           "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80217",
-          "published_at": "2026-11-23T12:41:12+01:00",
+          "url": "https://www.svd.se/a/j3deg0/sydkorea-krankning-av-luftrum",
+          "published_at": "2026-11-24T00:36:21+01:00",
           "sv": {
-            "title": "Värnpliktig skjuten i foten under övning"
+            "title": "Sydkorea: Kränkning av luftrum"
           },
           "en": {
-            "title": "Conscript shot in the foot during exercise"
+            "title": "South Korea: Airspace violation"
           }
         },
         {
-          "id": "2a76f53e9ac9",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=dc68a609-2c45-4d04-b741-8c6da96b2953",
-          "published_at": "2026-11-23T12:38:59+01:00",
+          "id": "926ab31e92e2",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/3BJGoM/sydkorea-krankning-av-luftrum",
+          "published_at": "2026-11-24T00:36:21+01:00",
           "sv": {
-            "title": "Värnpliktig skjuten under övning"
+            "title": "Sydkorea: Nordkorea tros ha kränkt luftrum"
           },
           "en": {
-            "title": "Conscript shot during exercise"
+            "title": "South Korea: North Korea believed to have violated airspace"
           }
         }
       ]

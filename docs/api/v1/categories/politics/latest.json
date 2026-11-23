@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T00:31:01+01:00",
+  "generated_at": "2026-11-24T00:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "793a1bb367c6",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/1vn4WX/sa-blev-totalpaketet-ett-startpaket-som-blev-slutbud",
+      "guid": "https://www.aftonbladet.se/nyheter/a/1vn4WX/sa-blev-totalpaketet-ett-startpaket-som-blev-slutbud?utm_medium=rss",
+      "published_at": "2026-11-24T00:38:22+01:00",
+      "fetched_at": "2026-11-24T00:45:48+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/ae37e611-cd6a-370c-bfc4-862127f07164?format=auto&s=37c6414ad752bf790d19360218560c0f34b035ae&w=1000",
+      "sv": {
+        "title": "Så blev totalpaketet ett startpaket som blev slutbud",
+        "summary": "Totalpaket blev högersväng",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How the total package became a starter package that became the final offer",
+        "summary": "Total package became a rightward turn"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T00:45:56+01:00"
+      }
+    },
     {
       "id": "90738eaa913e",
       "schema_version": 1,
@@ -5332,35 +5359,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:45:53+01:00"
-      }
-    },
-    {
-      "id": "741262c1a0ff",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/tt-261121-regeringstatsvetare1-67640582/statsvetare-darfor-vill-s-inte-regera-med-v",
-      "guid": "tt-261121-regeringstatsvetare1-67640582",
-      "published_at": "2026-11-21T08:20:45+01:00",
-      "fetched_at": "2026-11-21T08:31:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Socialdemokraterna"
-      ],
-      "sv": {
-        "title": "Statsvetaren slår fast: Därför vill S inte regera med V",
-        "summary": "Oron kring ministerposterna • Läget låst",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Political scientist concludes: This is why the Social Democrats do not want to govern with the Left Party",
-        "summary": "Concern over ministerial posts • Situation deadlocked"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T08:31:09+01:00"
       }
     }
   ]
