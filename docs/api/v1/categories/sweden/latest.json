@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:38:37+01:00",
+  "generated_at": "2026-11-23T13:45:59+01:00",
   "count": 200,
   "items": [
     {
@@ -237,6 +237,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T12:46:02+01:00"
+      }
+    },
+    {
+      "id": "6a1893ec38df",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/r8AR7l/varnpliktig-skjuten-under-ovning",
+      "guid": "https://www.aftonbladet.se/nyheter/a/r8AR7l/varnpliktig-skjuten-under-ovning?utm_medium=rss",
+      "published_at": "2026-11-23T12:36:22+01:00",
+      "fetched_at": "2026-11-23T13:45:50+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/b881ed1e-d1dd-3755-8390-a5fed995007b?format=auto&s=684cf86468f3204f0f615508ad3ed3ce8971f6a1&w=1000",
+      "sv": {
+        "title": "Värnpliktig skjuten under övning",
+        "summary": "Träffades under övning",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Conscript shot during exercise",
+        "summary": "Hit during exercise"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T13:45:56+01:00"
       }
     },
     {
@@ -5402,42 +5429,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T13:01:19+01:00"
-      }
-    },
-    {
-      "id": "3357944ea933",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/misstankt-farligt-foremal-i-vidkarr.68764503-f4ff-5c35-adc9-14773819e8b5",
-      "guid": "68764503-f4ff-5c35-adc9-14773819e8b5",
-      "published_at": "2026-11-19T10:18:56+01:00",
-      "fetched_at": "2026-11-19T11:01:20+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: breaking-GP",
-        "Tagg: Just nu",
-        "Tagg: Nationella bombskyddet",
-        "Tagg: Polisen",
-        "Tagg: Göteborg",
-        "Tagg: Larm"
-      ],
-      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
-      "sv": {
-        "title": "Boende uppmanas hålla sig borta från fönster",
-        "summary": "Nationella bombskyddet är på plats i Vidkärr – misstänkt farligt föremål.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Residents urged to stay away from windows",
-        "summary": "The National Bomb Protection Unit is on site in Vidkärr – suspected dangerous object."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T11:01:27+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T13:38:37+01:00",
+  "generated_at": "2026-11-23T13:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d9fbe92d9fcb",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=901a062b-d9fa-4139-afbb-7e0e9174d353",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=901a062b-d9fa-4139-afbb-7e0e9174d353",
+      "published_at": "2026-11-23T13:39:15+01:00",
+      "fetched_at": "2026-11-23T13:45:51+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Greta Thunberg döms i Danmark",
+        "summary": "Straffas efter aktioner i Danmark",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Greta Thunberg convicted in Denmark",
+        "summary": "Sentenced for actions in Denmark"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T13:45:56+01:00"
+      }
+    },
     {
       "id": "207e0e28f2f2",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T23:31:02+01:00"
-      }
-    },
-    {
-      "id": "9d463821ee0b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/ekonomi/fyra-maklare-far-licens-indragen-har-skulder",
-      "guid": "https://www.expressen.se/ekonomi/fyra-maklare-far-licens-indragen-har-skulder/",
-      "published_at": "2026-11-19T23:22:26+01:00",
-      "fetched_at": "2026-11-20T05:45:39+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Fyra mäklare får licens indragen – har skulder",
-        "summary": "Närmare 3,4 miljoner kronor. Så mycket hade en mäklare i skuld – och nu förlorar han sin licens. Ytterligare tre mäklare blir också av med sina licenser på grund av skulder.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Four estate agents lose licences – have debts",
-        "summary": "Almost SEK 3.4 million. That is how much one estate agent owed – and now he loses his licence. Three more estate agents are also losing their licences due to debts."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T05:45:48+01:00"
       }
     }
   ]

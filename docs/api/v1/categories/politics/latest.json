@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T13:38:37+01:00",
+  "generated_at": "2026-11-23T13:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "542b26b6cec4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/podcasts/episode/411112",
+      "guid": "https://www.aftonbladet.se/podcasts/episode/411112?utm_medium=rss",
+      "published_at": "2026-11-23T13:42:28+01:00",
+      "fetched_at": "2026-11-23T13:45:50+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/ee49def7-d023-36a8-9280-a0085e567177?format=auto&s=efd7fce4b957b09cf71e2d8a571761c3bba64710&w=1000",
+      "sv": {
+        "title": "EN UNDRAN TILL: E’ de’ det här du kallar förhandling?",
+        "summary": "Stressen för S ✓ ”Vill göra det svårt”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "A QUESTION FOR YOU: Is this what you call negotiation?",
+        "summary": "The stress for the Social Democrats ✓ \"Wants to make it difficult\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T13:45:56+01:00"
+      }
+    },
     {
       "id": "207e0e28f2f2",
       "schema_version": 1,
@@ -5382,32 +5409,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T18:45:57+01:00"
-      }
-    },
-    {
-      "id": "c246371b87b1",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346406",
-      "guid": "rss:sr.se/article/9346406",
-      "published_at": "2026-11-19T17:41:00+01:00",
-      "fetched_at": "2026-11-19T17:45:45+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Rödgröna vill återuppta KU-granskningen mot Kristersson",
-        "summary": "De rödgröna partierna undersöker nu om det går att återuppta KU-granskningen av Ulf Kristersson innan rättsprocessen mot Henrik Landerholm är avslutad.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Red-greens want to resume KU review of Kristersson",
-        "summary": "The red-green parties are examining whether it is possible to resume the KU review of Ulf Kristersson (M) before the legal process against Henrik Landerholm has concluded."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:45:54+01:00"
       }
     }
   ]
