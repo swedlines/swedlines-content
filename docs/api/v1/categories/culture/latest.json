@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T00:15:55+01:00",
+  "generated_at": "2026-11-24T00:28:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8672065c56b1",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/GPGL86/svenskar-provoceras-av-att-inte-alla-utlanningar-talar-engelska",
+      "guid": "https://www.svd.se/a/GPGL86/svenskar-provoceras-av-att-inte-alla-utlanningar-talar-engelska?utm_medium=rss",
+      "published_at": "2026-11-24T00:15:00+01:00",
+      "fetched_at": "2026-11-24T00:28:45+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/5960328c-b55e-36b7-8c64-490663f7f2d4?format=auto&s=79cd91d894843e6711bd55495d3db7072fd2dcef&w=1000",
+      "sv": {
+        "title": "”Obegripligt” faktum provocerar svensken",
+        "summary": "Svenskar anses vara bäst i världen på det, delvis på grund av ett kulturellt tunnelseende.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Incomprehensible” fact provokes Swedes",
+        "summary": "Swedes are considered the best in the world at it, partly due to a cultural tunnel vision."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T00:28:53+01:00"
+      }
+    },
     {
       "id": "1f2ba9f001e6",
       "schema_version": 1,
@@ -5684,33 +5711,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T15:31:09+01:00"
-      }
-    },
-    {
-      "id": "a5022262217c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/non-grata-en-valkommen-bekantskap-namnet-till-trots",
-      "guid": "https://www.dn.se/kultur/non-grata-en-valkommen-bekantskap-namnet-till-trots/",
-      "published_at": "2026-11-20T15:04:34+01:00",
-      "fetched_at": "2026-11-20T15:15:48+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/db918f81-52c2-4fca-981a-15b3acfad6aa.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Non Grata: En välkommen bekantskap namnet till trots",
-        "summary": "Krogkommissionen. Personas avspända lillasyster ligger i en gömd oas i hjärtat av Östermalm. Här serveras rätter så goda att DN:s utsända vill kyssa kocken.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Non Grata: A welcome acquaintance despite the name",
-        "summary": "The Restaurant Commission. Persona's relaxed little sister lies in a hidden oasis in the heart of Östermalm. Here dishes are served so good that DN's correspondent wants to kiss the chef."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T15:15:55+01:00"
       }
     }
   ]
