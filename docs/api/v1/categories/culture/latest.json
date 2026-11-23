@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-23T14:01:33+01:00",
+  "generated_at": "2026-11-23T14:16:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2ac26e190926",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kulturdebatt/lat-lararen-pa-valand-stanna.d6fa8fcb-52d7-5440-b86e-7be9183be66d",
+      "guid": "d6fa8fcb-52d7-5440-b86e-7be9183be66d",
+      "published_at": "2026-11-23T14:02:32+01:00",
+      "fetched_at": "2026-11-23T14:15:53+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kulturdebatt",
+        "Tagg: Konst",
+        "Tagg: Forskning",
+        "Tagg: Fotografi",
+        "Tagg: Utbildning",
+        "Tagg: Akademin Valand",
+        "Tagg: Göteborg"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/b48c3d27-3fbe-39f1-85a3-dde2128c6b37",
+      "sv": {
+        "title": "Låt Annika Elisabeth von Hausswolff stanna",
+        "summary": "För dem som känner till hennes arbete är det chockerande att hon inte längre ska arbeta som professor på HDK/Valand.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Let Annika Elisabeth von Hausswolff stay",
+        "summary": "For those who know her work, it is shocking that she is no longer to work as a professor at HDK/Valand."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T14:16:05+01:00"
+      }
+    },
     {
       "id": "bc446620e238",
       "schema_version": 1,
@@ -5694,37 +5730,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T10:16:00+01:00"
-      }
-    },
-    {
-      "id": "27ee1b87d1a7",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/gp-historia/25-ton-skor-godis-och-cigarrer-blev-bronshast.11121763-e819-52b6-95c9-1c3055511e06",
-      "guid": "11121763-e819-52b6-95c9-1c3055511e06",
-      "published_at": "2026-11-20T09:44:00+01:00",
-      "fetched_at": "2026-11-20T10:01:12+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "GP Historia",
-        "Tagg: GP Historia"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/e7bc5c31-1b96-399e-9130-59ee282e5c8d",
-      "sv": {
-        "title": "25 ton skor, godis och cigarrer blev bronshäst",
-        "summary": "Kuststäder hjälper varandra.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "25 tonnes of shoes, sweets and cigars became bronze horse",
-        "summary": "Coastal cities help each other."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T10:01:18+01:00"
       }
     }
   ]
