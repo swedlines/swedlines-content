@@ -1,7 +1,65 @@
 {
-  "generated_at": "2026-11-23T04:41:26+01:00",
+  "generated_at": "2026-11-23T06:56:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "62648c707672",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/tt-261123-ronningemord1-acb48819/familjens-sorg-efter-ronningemordet-smarta-varje-dag",
+      "guid": "tt-261123-ronningemord1-acb48819",
+      "published_at": "2026-11-23T06:34:20+01:00",
+      "fetched_at": "2026-11-23T06:56:01+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Brott"
+      ],
+      "sv": {
+        "title": "Familjens sorg efter mordet på My: ”Smärta varje dag”",
+        "summary": "My var på väg hem efter en utekväll när hon försvann natten mot annandagen vid stationen i Rönninge sydväst om Stockholm. Dagen därpå hittades hon mördad. Åtalet mot den 26-åring som misstänks för mordet väntas enligt åklagaren i början av december.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Family's grief after the murder of My: “Pain every day”",
+        "summary": "My was on her way home after a night out when she disappeared on the night of Boxing Day at the station in Rönninge southwest of Stockholm. The following day she was found murdered. Charges against the 26-year-old suspected of the murder are expected in early December, according to the prosecutor."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T06:56:30+01:00"
+      }
+    },
+    {
+      "id": "8312968809da",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/tt-261123-csnlan1-2eeeadf7/sa-mycket-dyrare-blir-csn-lanet-nasta-ar",
+      "guid": "tt-261123-csnlan1-2eeeadf7",
+      "published_at": "2026-11-23T06:00:07+01:00",
+      "fetched_at": "2026-11-23T06:56:01+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Privatekonomi"
+      ],
+      "sv": {
+        "title": "Så mycket dyrare blir CSN-lånet nästa år",
+        "summary": "I veckan väntas besked från regeringen gällande räntan på studielån för 2027. Inför beskedet har Centrala studiestödsnämnden (CSN) gjort sedvanlig prognos för utfallet. Enligt myndighetens beräkningar väntas räntan landa på 2,002 procent, en viss nedgång jämfört med årets ränta på 2,135 procent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "This is how much more expensive the CSN loan becomes next year",
+        "summary": "This week the government is expected to announce the interest rate on student loans for 2027. Ahead of the announcement, the Central Student Aid Board (CSN) has made its usual forecast of the outcome. According to the agency's calculations, the rate is expected to land at 2.002 percent, a slight decline from this year's rate of 2.135 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T06:56:44+01:00"
+      }
+    },
     {
       "id": "03d40bfa62b9",
       "schema_version": 1,
@@ -5724,64 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "0d2a31620b8e",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/7aaiBWeDXhOjLrJH6TufTj/det-haer-aer-farligt-du-luktar-vaeldigt-mycket-seger",
-      "guid": "7aaiBWeDXhOjLrJH6TufTj",
-      "published_at": "2026-11-14T21:48:53+01:00",
-      "fetched_at": "2026-11-14T23:33:36+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "”Det här är farligt, du luktar väldigt mycket seger”",
-        "summary": "Juryn tappade kontrollen • ”A star is born”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"This is dangerous, you smell very strongly of victory\"",
-        "summary": "The jury lost control • \"A star is born\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "bcc8efb9b507",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/bx17caxrcQ3OPjQKUUk2s/just-nu-sverige-leder",
-      "guid": "bx17caxrcQ3OPjQKUUk2s",
-      "published_at": "2026-11-14T20:55:04+01:00",
-      "fetched_at": "2026-11-14T21:40:37+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Nations league"
-      ],
-      "sv": {
-        "title": "Drömstart för Sverige i Nations League",
-        "summary": "Blågult har allt i egna händer. Vid seger hemma mot Bosnien-Hercegovina blir det uppflyttning till Nations Leagues A-division, med en match kvar att spela. När lagen möttes i oktober blev det 1-1. Den matchen spelades i Zenica.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Dream start for Sweden in the Nations League",
-        "summary": "Blågult have everything in their own hands. A home win against Bosnia-Herzegovina means promotion to the Nations League A division, with one match left to play. When the teams met in October it ended 1-1. That match was played in Zenica."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T21:40:46+01:00"
       }
     }
   ]
