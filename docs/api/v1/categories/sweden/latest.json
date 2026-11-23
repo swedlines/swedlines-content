@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T12:01:32+01:00",
+  "generated_at": "2026-11-23T12:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "caa442df05f0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=544a8032-2b8f-4f9f-b072-18ac42ab5784",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=544a8032-2b8f-4f9f-b072-18ac42ab5784",
+      "published_at": "2026-11-23T12:04:01+01:00",
+      "fetched_at": "2026-11-23T12:15:46+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Totalstopp på E4 efter olycka",
+        "summary": "Lastbil i olycka",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Total stop on E4 after accident",
+        "summary": "Lorry in accident"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:15:54+01:00"
+      }
+    },
     {
       "id": "19ad60ce75ca",
       "schema_version": 1,
@@ -134,6 +160,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T11:31:07+01:00"
+      }
+    },
+    {
+      "id": "9773c6b68242",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4NDLcRnbkh036XYauu0blw/zaid-hjaelpte-soeren-vid-svara-bussolyckan-haer-ses-de-igen",
+      "guid": "4NDLcRnbkh036XYauu0blw",
+      "published_at": "2026-11-23T11:18:59+01:00",
+      "fetched_at": "2026-11-23T12:15:46+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Nyhetsmorgon"
+      ],
+      "sv": {
+        "title": "Zaid hjälpte Sören vid svåra bussolyckan – här ses de igen",
+        "summary": "Det var fredag eftermiddag den 14 november förra året som den allvarliga bussolyckan inträffade vid Tekniska högskolan i Stockholm. Det var mycket folk i rörelse när larmet kom klockan 15:23 att en dubbeldäckarbuss kört in i en busskur. I busskuren stod Sören Jansson.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Zaid helped Sören after the serious bus accident – now they meet again",
+        "summary": "It was Friday afternoon on 14 November last year when the serious bus accident occurred outside the Royal Institute of Technology in Stockholm. There were many people on the move when the alarm came at 15:23 that a double-decker bus had driven into a bus shelter. Sören Jansson was standing in the bus shelter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:15:54+01:00"
       }
     },
     {
@@ -5383,63 +5438,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T07:01:21+01:00"
-      }
-    },
-    {
-      "id": "80c2b6ebe661",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80077",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80077&utm_medium=rss",
-      "published_at": "2026-11-19T06:12:28+01:00",
-      "fetched_at": "2026-11-19T06:15:44+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Tusentals drabbade av strömavbrott"
-      },
-      "en": {
-        "title": "Thousands affected by power outage"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:15:52+01:00"
-      }
-    },
-    {
-      "id": "e03a84c38fbb",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/interna-kritiken-sparvagnsbromsar-fortsatt-bristfalliga.4e9d4d24-1fd6-5d76-8a5f-330890d2a730",
-      "guid": "4e9d4d24-1fd6-5d76-8a5f-330890d2a730",
-      "published_at": "2026-11-19T05:49:25+01:00",
-      "fetched_at": "2026-11-19T06:30:56+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: Västtrafik",
-        "Tagg: Göteborgs spårvägar",
-        "Tagg: Skoda",
-        "Tagg: Transportstyrelsen"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/356c70c7-b8ad-345c-bfcf-6dc177a4dc6e",
-      "sv": {
-        "title": "Interna kritiken: Bromsar fortfarande bristfälliga",
-        "summary": "Missnöjet från förarna • Därför syns många ”gamla” vagnar i Göteborg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Internal criticism: Brakes still deficient",
-        "summary": "Discontent from drivers • This is why many \"old\" carriages are visible in Göteborg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:31:03+01:00"
       }
     }
   ]

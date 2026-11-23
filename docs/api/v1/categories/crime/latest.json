@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-23T12:01:32+01:00",
+  "generated_at": "2026-11-23T12:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3b96ac537bfa",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/misstankta-mordet-i-lulea-en-slappt-pa-fri-fot",
+      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/misstankta-mordet-i-lulea-en-slappt-pa-fri-fot",
+      "published_at": "2026-11-23T12:10:41+01:00",
+      "fetched_at": "2026-11-23T12:15:44+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Misstänkta mordet i Luleå: En släppt på fri fot",
+        "summary": "Den man i 30-årsåldern som suttit häktad för grovt skyddande av brottsling efter det misstänkta mordet i Luleå har släppts på fri fot.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspects in Luleå murder: One released",
+        "summary": "The man in his 30s who was remanded in custody on suspicion of aggravated harbouring of a criminal following the suspected murder in Luleå has been released."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:15:54+01:00"
+      }
+    },
+    {
+      "id": "db0956531b20",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/danmark/bombhot-mot-hundratals-skolor-i-danmark-och-tyskland",
+      "guid": "52b6ecbb-578e-4a24-80db-968bfb40c3d7",
+      "published_at": "2026-11-23T12:05:29+01:00",
+      "fetched_at": "2026-11-23T12:15:48+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/29240a58-a1f6-400d-9548-db54b71e2c56.jpeg?width=600",
+      "sv": {
+        "title": "Bombhot mot hundratals skolor i Danmark och Tyskland",
+        "summary": "Hundratals skolor i Danmark och Tyskland har bombhotats via mejl under måndagen. Dansk polis manar till lugn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bomb threats against hundreds of schools in Denmark and Germany",
+        "summary": "Hundreds of schools in Denmark and Germany received bomb threats by email on Monday. Danish police urge calm."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:15:54+01:00"
+      }
+    },
     {
       "id": "7383e4b0ae24",
       "schema_version": 1,
@@ -5363,60 +5416,6 @@
       "en": {
         "title": "Prepared IS attack at school – \"They deserve the death penalty\"",
         "summary": "The 18-year-old from Halmstad wrote that he wanted to become a martyr and kill 15 people at his upper secondary school. He would then swear allegiance to IS. The day after the Easter break he was arrested by police and the trial now begins"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T08:15:56+01:00"
-      }
-    },
-    {
-      "id": "b7ec61177167",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/7P04GK/forberedde-is-dad-i-skolan-de-fortjanar-dodsstraff",
-      "guid": "https://www.aftonbladet.se/nyheter/a/7P04GK/forberedde-is-dad-i-skolan-de-fortjanar-dodsstraff?utm_medium=rss",
-      "published_at": "2026-11-19T08:07:54+01:00",
-      "fetched_at": "2026-11-19T08:15:47+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/2055f14c-bf8f-3fcc-ab36-417f63553832?format=auto&s=e1d7d18fa677e99bce2a6415540a7202cb344927&w=1000",
-      "sv": {
-        "title": "Förberedde IS-dåd i skolan – ”De förtjänar dödsstraff”",
-        "summary": "Den 18-årige Halmstadsbon skrev att han ville bli martyr och döda 15 personer på sin gymnasieskola.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Prepared IS attack at school – \"They deserve the death penalty\"",
-        "summary": "The 18-year-old from Halmstad wrote that he wanted to become a martyr and kill 15 people at his upper secondary school"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T08:15:56+01:00"
-      }
-    },
-    {
-      "id": "c33b64260b97",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/kMJyO6/forberedde-is-dad-i-skolan-de-fortjanar-dodsstraff",
-      "guid": "https://www.svd.se/a/kMJyO6/forberedde-is-dad-i-skolan-de-fortjanar-dodsstraff?utm_medium=rss",
-      "published_at": "2026-11-19T08:07:54+01:00",
-      "fetched_at": "2026-11-19T08:15:45+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/2055f14c-bf8f-3fcc-ab36-417f63553832?format=auto&s=e1d7d18fa677e99bce2a6415540a7202cb344927&w=1000",
-      "sv": {
-        "title": "Förberedde IS-dåd i skolan – ”De förtjänar dödsstraff”",
-        "summary": "Den 18-årige Halmstadsbon skrev att han ville bli martyr och döda 15 personer på sin gymnasieskola.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Prepared IS attack at school – \"They deserve the death penalty\"",
-        "summary": "The 18-year-old from Halmstad wrote that he wanted to become a martyr and kill 15 people at his upper secondary school"
       },
       "translation": {
         "status": "done",

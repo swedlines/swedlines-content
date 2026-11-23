@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T12:01:32+01:00",
+  "generated_at": "2026-11-23T12:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "caa442df05f0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=544a8032-2b8f-4f9f-b072-18ac42ab5784",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=544a8032-2b8f-4f9f-b072-18ac42ab5784",
+      "published_at": "2026-11-23T12:04:01+01:00",
+      "fetched_at": "2026-11-23T12:15:46+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Totalstopp på E4 efter olycka",
+        "summary": "Lastbil i olycka",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Total stop on E4 after accident",
+        "summary": "Lorry in accident"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:15:54+01:00"
+      }
+    },
     {
       "id": "a73ef0a853e7",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T23:01:22+01:00"
-      }
-    },
-    {
-      "id": "dab1a9f5abff",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/kandis-flodhasten-fiona-dod",
-      "guid": "https://www.expressen.se/nyheter/varlden/kandis-flodhasten-fiona-dod/",
-      "published_at": "2026-11-19T22:37:54+01:00",
-      "fetched_at": "2026-11-19T22:45:45+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Kändis-flodhästen Fiona död",
-        "summary": "Flodhästen Fiona, känd som bokfigur och internetfenomen, har dött, meddelar djurparken där hon levde.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Celebrity hippo Fiona dead",
-        "summary": "Hippo Fiona, known as a book character and internet phenomenon, has died, the zoo where she lived announces."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T22:45:51+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T12:01:32+01:00",
+  "generated_at": "2026-11-23T12:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "002abe34043c",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348215",
+      "guid": "rss:sr.se/article/9348215",
+      "published_at": "2026-11-23T12:11:00+01:00",
+      "fetched_at": "2026-11-23T12:15:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Klimattoppmöten väntas bli mer polariserade",
+        "summary": "Världens länder lyckades inte enas om ett slutdokument efter det rekordlånga klimattoppmötet i Turkiet, främst på grund av oenighet om utfasning av fossila bränslen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Climate summits expected to become more polarised",
+        "summary": "The world's countries failed to agree on a final document after the record-long climate summit in Turkey, mainly due to disagreement over phasing out fossil fuels."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:15:54+01:00"
+      }
+    },
     {
       "id": "a73ef0a853e7",
       "schema_version": 1,
@@ -5366,33 +5392,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:31:13+01:00"
-      }
-    },
-    {
-      "id": "e6ac5c137ab4",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/trump-sparkar-cyberchef-efter-it-haveriet-inte-bra-nog",
-      "guid": "https://www.dn.se/varlden/trump-sparkar-cyberchef-efter-it-haveriet-inte-bra-nog/",
-      "published_at": "2026-11-21T10:08:31+01:00",
-      "fetched_at": "2026-11-21T10:15:45+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/4cffdf9f-8562-4711-9d29-501cea7b2083.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Trump sparkar cyberchef efter it-haveriet: ”Inte bra nog”",
-        "summary": "Vita huset har sparkat sin nationella cybersäkerhetschef Sean Cairncross efter de tekniska avbrotten som slog mot USA förra veckan. Redan har en efterträdare valts ut. – Jag tyckte inte att han var bra nog, säger president Donald Trump vid en pressträff.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump fires cyber chief after IT outage: \"Not good enough\"",
-        "summary": "The White House has fired its national cybersecurity chief Sean Cairncross after the technical outages that hit the USA last week. A successor has already been selected. \"I didn't think he was good enough,\" says President Donald Trump at a press conference."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T10:15:53+01:00"
       }
     }
   ]

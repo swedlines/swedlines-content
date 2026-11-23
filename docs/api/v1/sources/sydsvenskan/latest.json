@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-23T12:01:32+01:00",
+  "generated_at": "2026-11-23T12:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "748e9c429172",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/nar-nojesteatern-och-elysee-laggs-ned-gar-det-gamla-malmo-i-graven",
+      "guid": "44b60242-3bd0-4955-9762-5ab5354409eb",
+      "published_at": "2026-11-23T12:08:15+01:00",
+      "fetched_at": "2026-11-23T12:15:48+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/fd5cd8c6-cb7c-4f5d-a7ac-6955d0e8e152.jpeg?width=600",
+      "sv": {
+        "title": "När Nöjesteatern och Elysée läggs ned går det gamla Malmö i graven",
+        "summary": "Svårt med parkering och en snål medelklass som inte vill betala för kultur. Det kan vara några av anledningarna till att Nöjesteatern tvingats lägga ner, skriver Kalle Lind.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "When Nöjesteatern and Elysée close, old Malmö goes to the grave",
+        "summary": "Difficult parking and a stingy middle class that does not want to pay for culture. These may be some of the reasons Nöjesteatern was forced to close, writes Kalle Lind."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:15:54+01:00"
+      }
+    },
+    {
+      "id": "db0956531b20",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/danmark/bombhot-mot-hundratals-skolor-i-danmark-och-tyskland",
+      "guid": "52b6ecbb-578e-4a24-80db-968bfb40c3d7",
+      "published_at": "2026-11-23T12:05:29+01:00",
+      "fetched_at": "2026-11-23T12:15:48+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/29240a58-a1f6-400d-9548-db54b71e2c56.jpeg?width=600",
+      "sv": {
+        "title": "Bombhot mot hundratals skolor i Danmark och Tyskland",
+        "summary": "Hundratals skolor i Danmark och Tyskland har bombhotats via mejl under måndagen. Dansk polis manar till lugn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bomb threats against hundreds of schools in Denmark and Germany",
+        "summary": "Hundreds of schools in Denmark and Germany received bomb threats by email on Monday. Danish police urge calm."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:15:54+01:00"
+      }
+    },
     {
       "id": "19ad60ce75ca",
       "schema_version": 1,
@@ -5210,59 +5264,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T06:31:13+01:00"
-      }
-    },
-    {
-      "id": "607439fdf53e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/staffanstorp/tidningshog-brann-vid-lekplats",
-      "guid": "e98a45fd-35a0-45d0-b9ed-d07bc0582ad1",
-      "published_at": "2026-11-20T06:15:02+01:00",
-      "fetched_at": "2026-11-20T06:15:42+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Tidningshög brann vid lekplats",
-        "summary": "En mindre brand bröt ut utomhus i Staffanstorp tidigt på fredagsmorgonen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Newspaper-filled fire at playground",
-        "summary": "A minor outdoor fire broke out in Staffanstorp early Friday morning."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:15:47+01:00"
-      }
-    },
-    {
-      "id": "7fe6ab688d0f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/borgerliga-kravet-sank-farten-pa-e22-genom-lund-annu-mer",
-      "guid": "f16045c8-f994-477c-896a-4cda111c7960",
-      "published_at": "2026-11-20T06:06:00+01:00",
-      "fetched_at": "2026-11-20T06:15:42+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/d84f7860-1cfa-4144-9670-4f2af80d3aff.jpeg?width=600",
-      "sv": {
-        "title": "Borgerliga kravet: Sänk farten på E22 genom Lund ännu mer",
-        "summary": "Trafiken på E22 genom Lund bullrar och bidrar till stora utsläpp av växthusgaser. Nu vill två av Lunds borgerliga partier att Trafikverket sänker hastigheten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bourgeois demand: Cut speed on E22 through Lund even further",
-        "summary": "Traffic on the E22 through Lund is noisy and contributes to large emissions of greenhouse gases. Now two of Lund's bourgeois parties want the Transport Administration to lower the speed limit."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:15:47+01:00"
       }
     }
   ]

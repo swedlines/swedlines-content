@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-23T12:01:32+01:00",
+  "generated_at": "2026-11-23T12:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9773c6b68242",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4NDLcRnbkh036XYauu0blw/zaid-hjaelpte-soeren-vid-svara-bussolyckan-haer-ses-de-igen",
+      "guid": "4NDLcRnbkh036XYauu0blw",
+      "published_at": "2026-11-23T11:18:59+01:00",
+      "fetched_at": "2026-11-23T12:15:46+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Nyhetsmorgon"
+      ],
+      "sv": {
+        "title": "Zaid hjälpte Sören vid svåra bussolyckan – här ses de igen",
+        "summary": "Det var fredag eftermiddag den 14 november förra året som den allvarliga bussolyckan inträffade vid Tekniska högskolan i Stockholm. Det var mycket folk i rörelse när larmet kom klockan 15:23 att en dubbeldäckarbuss kört in i en busskur. I busskuren stod Sören Jansson.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Zaid helped Sören after the serious bus accident – now they meet again",
+        "summary": "It was Friday afternoon on 14 November last year when the serious bus accident occurred outside the Royal Institute of Technology in Stockholm. There were many people on the move when the alarm came at 15:23 that a double-decker bus had driven into a bus shelter. Sören Jansson was standing in the bus shelter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:15:54+01:00"
+      }
+    },
     {
       "id": "acdd6f35d3d0",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T19:01:18+01:00"
-      }
-    },
-    {
-      "id": "df178cf30da0",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/22LptwJUQBWU2uDnoGNjTO/haer-avtaecks-klassiska-julskyltningen-magiskt",
-      "guid": "22LptwJUQBWU2uDnoGNjTO",
-      "published_at": "2026-11-15T12:05:20+01:00",
-      "fetched_at": "2026-11-15T13:30:54+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Här avtäcks klassiska julskyltningen",
-        "summary": "Tusentals människor samlades på Hamngatan i Stockholm för att se när NK avslöjade årets julskyltning. Anna Hula är på plats för fjärde året i rad. – Det är så mysigt. I går gick vi och lyssnade på en konsert, och julbelysningen är uppe.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Here the classic Christmas window display is unveiled",
-        "summary": "Thousands of people gathered on Hamngatan in Stockholm to see NK unveil this year's Christmas window display. Anna Hula is there for the fourth year in a row. \"It's so cozy. Yesterday we went and listened to a concert, and the Christmas lights are up.\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:31:13+01:00"
       }
     }
   ]
