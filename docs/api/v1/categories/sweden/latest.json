@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T13:45:59+01:00",
+  "generated_at": "2026-11-23T14:01:33+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e537a7b93b2c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/skane/influensan-okar-i-skane-kan-na-topp-till-jul",
+      "guid": "51d397ac-c615-48e6-aca8-11562ab8f465",
+      "published_at": "2026-11-23T14:00:00+01:00",
+      "fetched_at": "2026-11-23T14:01:16+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/674513f0-9882-4ffa-b300-3353bb0b8c40.jpeg?width=600",
+      "sv": {
+        "title": "Influensan ökar i Skåne – kan nå topp till jul",
+        "summary": "Antalet influensafall i Skåne ökar och kurvan pekar uppåt. – Det har hänt förr att det blir besvärligt till jul och nyår. Så kan det bli även i år, säger Skånes biträdande smittskyddsläkare Per Hagstam.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Influenza rising in Skåne – could peak by Christmas",
+        "summary": "Influenza cases in Skåne are rising and the curve is pointing upward. – It has happened before that it becomes troublesome by Christmas and New Year. It could be like that this year too, says Skåne's deputy infection control physician Per Hagstam."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T14:01:30+01:00"
+      }
+    },
     {
       "id": "7359ca09e007",
       "schema_version": 1,
@@ -5400,35 +5427,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T10:45:49+01:00"
-      }
-    },
-    {
-      "id": "bde8c243a6ed",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/39psYOuhx64x9BbzQ73SWQ/kritisk-till-regionernas-rad-om-koksaltsprej-vid-foerkylning",
-      "guid": "39psYOuhx64x9BbzQ73SWQ",
-      "published_at": "2026-11-19T10:33:18+01:00",
-      "fetched_at": "2026-11-19T13:01:12+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Nyhetsmorgon"
-      ],
-      "sv": {
-        "title": "Kritisk till regionernas råd om koksaltsprej vid förkylning",
-        "summary": "Om du använder nässpray med koksaltlösning kan en förkylning bli kortare och lindrigare. Ja, så lyder rekommendationerna från två av våra regioner, nämligen Dalarna och Västra Götaland.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Critical of regions' advice on saline nasal spray for colds",
-        "summary": "If you use a saline nasal spray, a cold may become shorter and milder. Yes, that is the recommendation from two of our regions, namely Dalarna and Västra Götaland."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T13:01:19+01:00"
       }
     }
   ]

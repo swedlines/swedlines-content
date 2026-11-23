@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-23T13:45:59+01:00",
+  "generated_at": "2026-11-23T14:01:33+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "077cb26480ac",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2Qr9ktds2hZT6h04jTLlNV/mordet-fangas-av-teslans-kamera-duon-slar-till-igen-dagar-senare",
+      "guid": "2Qr9ktds2hZT6h04jTLlNV",
+      "published_at": "2026-11-23T13:55:34+01:00",
+      "fetched_at": "2026-11-23T14:01:12+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Brott och straff"
+      ],
+      "sv": {
+        "title": "Mordet fångas av Teslans kamera – duon slår till igen dagar senare",
+        "summary": "Två pojkar står inför rätta vid Norrköpings tingsrätt för dubbla mord, ett i Oslo, det andra i Norrköping, med bara fyra dagars mellanrum. Morduppdragen ska de ha fått i chattar från alias som kopplas till Foxtrotnätverket.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Murder caught on Tesla's camera – duo strikes again days later",
+        "summary": "Two boys are standing trial at the Norrköping district court for double murder, one in Oslo and the other in Norrköping, only four days apart. The murder assignments they are said to have received in chats from aliases linked to the Foxtrot network."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T14:01:30+01:00"
+      }
+    },
     {
       "id": "7359ca09e007",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T15:45:47+01:00"
-      }
-    },
-    {
-      "id": "83a7035108cf",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3E3HpOumnhbjDBnIEvuk1o/gw-sannolikheten-foer-faellande-domar-aer-hoeg",
-      "guid": "3E3HpOumnhbjDBnIEvuk1o",
-      "published_at": "2026-11-15T13:25:14+01:00",
-      "fetched_at": "2026-11-15T13:30:54+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "GW: ”Sannolikheten för fällande domar är hög”",
-        "summary": "Det var i onsdags som Expressen rapporterade att en sjätte elev delgivits misstanke om brott i utredningen om de misstänkta övergreppen på Sigtunaskolan. Samtidigt meddelade åklagaren Lisa dos Santos att åtal väntas inom kort.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "GW: \"The likelihood of convictions is high\"",
-        "summary": "On Wednesday Expressen reported that a sixth pupil has been served with suspicion of a crime in the investigation into the suspected abuse at Sigtunaskolan. At the same time, prosecutor Lisa dos Santos announced that charges are expected shortly"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:31:07+01:00"
       }
     }
   ]

@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-23T13:45:59+01:00",
+  "generated_at": "2026-11-23T14:01:33+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e9bb9fd7775a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/missvisande-video-sprider-oro-kring-nya-kreditlagen-hejda-klarna",
+      "guid": "https://www.svt.se/nyheter/inrikes/missvisande-video-sprider-oro-kring-nya-kreditlagen-hejda-klarna",
+      "published_at": "2026-11-23T13:50:00+01:00",
+      "fetched_at": "2026-11-23T14:01:10+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Missvisande video sprider oro kring nya kreditlagen: ”Hejdå Klarna!”",
+        "summary": "I en video som fått två miljoner visningar hävdas att en ny ”EU-lag” gör att AI får tillgång till upp till två års banktransaktioner när man handlar på avbetalning. Men det påståendet är missvisande.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Misleading video spreads concern about new credit law: \"Goodbye Klarna!\"",
+        "summary": "A video that has received two million views claims that a new \"EU law\" gives AI access to up to two years of bank transactions when shopping on instalment credit. But that claim is misleading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T14:01:30+01:00"
+      }
+    },
+    {
+      "id": "8f3dc868a80f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/efterlyst-svensk-greps-vid-ryska-gransen",
+      "guid": "https://www.svt.se/nyheter/utrikes/efterlyst-svensk-greps-vid-ryska-gransen",
+      "published_at": "2026-11-23T13:43:16+01:00",
+      "fetched_at": "2026-11-23T14:01:10+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Efterlyst svensk greps vid ryska gränsen",
+        "summary": "Den polska polisen har gripit en internationellt efterlyst 28-årig svensk medborgare vid gränsövergången mellan Kaliningrad och Polen, skriver TV4.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wanted Swede arrested at Russian border",
+        "summary": "Polish police have arrested an internationally wanted 28-year-old Swedish citizen at the border crossing between Kaliningrad and Poland, TV4 reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T14:01:30+01:00"
+      }
+    },
     {
       "id": "c141a0af3f47",
       "schema_version": 1,
@@ -5148,58 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T15:45:57+01:00"
-      }
-    },
-    {
-      "id": "19b569d0edca",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/jordbruksverket-varnar-for-fagelinfluensa",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/jordbruksverket-varnar-for-fagelinfluensa",
-      "published_at": "2026-11-17T15:33:09+01:00",
-      "fetched_at": "2026-11-17T15:45:46+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Jordbruksverket varnar för fågelinfluensa",
-        "summary": "Flera konstaterade fall av fågelinfluensa bland vilda fåglar har fått Jordbruksverket att införa högriskområden i stora delar av södra Sverige för att skydda tama fåglar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Board of Agriculture warns of bird flu",
-        "summary": "Several confirmed cases of bird flu among wild birds have led the Board of Agriculture to introduce high-risk areas across large parts of southern Sweden to protect domestic birds."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T15:45:57+01:00"
-      }
-    },
-    {
-      "id": "9139e7a46792",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/mordforsok-i-kalix-man-gripen",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/mordforsok-i-kalix-man-gripen",
-      "published_at": "2026-11-17T15:21:57+01:00",
-      "fetched_at": "2026-11-17T15:30:59+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Mordförsök i Kalix – man gripen",
-        "summary": "En man i 50-årsåldern har gripits misstänkt för mordförsök i centrala Kalix. Enligt polisen ska mannen ha betett sig hotfullt mot andra – och en person ska ha skadats.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Attempted murder in Kalix – man arrested",
-        "summary": "A man in his 50s has been arrested on suspicion of attempted murder in central Kalix. According to police, the man is said to have behaved threateningly towards others – and one person is said to have been injured."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T15:31:09+01:00"
       }
     }
   ]
