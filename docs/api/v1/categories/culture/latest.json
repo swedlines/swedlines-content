@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T10:04:49+01:00",
+  "generated_at": "2026-11-23T10:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a30bd15f25a6",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/elin-peters-talmannens-vattenfika-var-en-tydlig-signal-om-andra-bullar",
+      "guid": "https://www.dn.se/kultur/elin-peters-talmannens-vattenfika-var-en-tydlig-signal-om-andra-bullar/",
+      "published_at": "2026-11-23T10:11:37+01:00",
+      "fetched_at": "2026-11-23T10:15:49+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/8134f0ba-ab84-4889-b268-90975c7ae298.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Elin Peters: Talmannens vattenfika var en tydlig signal om andra bullar",
+        "summary": "Kan politiskt samförstånd verkligen uppnås över ett glas vatten? Kaffebrödets roll som socialt smörjmedel ska inte underskattas, skriver DN:s matredaktör Elin Peters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elin Peters: The Speaker's coffee break was a clear signal about other buns",
+        "summary": "Can political consensus really be reached over a glass of water? The role of coffee buns as a social lubricant should not be underestimated, writes DN food editor Elin Peters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T10:15:59+01:00"
+      }
+    },
     {
       "id": "a4e70cc4cb3d",
       "schema_version": 1,
@@ -27,6 +54,37 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T10:04:48+01:00"
+      }
+    },
+    {
+      "id": "2cd2bc33575d",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/albin-lee-meldau-kommer-till-tradgardsforeningen.fd85c68f-642e-552c-af14-5f07269a2440",
+      "guid": "fd85c68f-642e-552c-af14-5f07269a2440",
+      "published_at": "2026-11-23T10:00:02+01:00",
+      "fetched_at": "2026-11-23T10:15:52+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: Kultur"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/4c4e5aa5-6115-33a1-9c00-952bac307eeb",
+      "sv": {
+        "title": "Albin Lee Meldau tar nya tag",
+        "summary": "Släpper nya albumet ”Lonely by another name”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Albin Lee Meldau makes a fresh start",
+        "summary": "Releases new album \"Lonely by another name\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T10:15:59+01:00"
       }
     },
     {
@@ -5676,60 +5734,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:31:23+01:00"
-      }
-    },
-    {
-      "id": "be8308bdb727",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/quiz/quiz-kanner-du-igen-nationalsangen",
-      "guid": "8791348a-c353-442d-8822-7e1df6e75696",
-      "published_at": "2026-11-20T07:00:00+01:00",
-      "fetched_at": "2026-11-20T07:01:07+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/9eb077a6-0e00-48e5-ab97-37909ac1481f.png?width=600",
-      "sv": {
-        "title": "Quiz: Känner du igen nationalsången?",
-        "summary": "Fotbolls-VM, medaljceremonier, nationaldagar – det finns många tillfällen när folket stämmer upp i sin nationalsång. Känner du igen dessa? Ljud på!",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Quiz: Do you recognise the national anthem?",
-        "summary": "World Cup football, medal ceremonies, national days – there are many occasions when people strike up their national anthem. Do you recognise these? Sound on!"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:01:13+01:00"
-      }
-    },
-    {
-      "id": "e66fc4bfe0af",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/det-luktar-stekos-och-korven-borjar-brinna-pa-bordet",
-      "guid": "9f1832e6-48dc-4065-9850-0e369f1ae6b3",
-      "published_at": "2026-11-20T07:00:00+01:00",
-      "fetched_at": "2026-11-20T07:01:07+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/1be593d9-9e97-4d77-97f3-30cf4632355e.jpeg?width=600",
-      "sv": {
-        "title": "Det luktar stekos och korven börjar brinna på bordet",
-        "summary": "Kafé Kungsgatan har stängt och blivit till Olá. Jag undrar vad Vasco da Gama hade tyckt om den här portugisiska baren.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The smell of sizzling food and sausages starting to burn on the table",
-        "summary": "Kafé Kungsgatan has closed and become Olá. I wonder what Vasco da Gama would have thought of this Portuguese bar."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:01:13+01:00"
       }
     }
   ]

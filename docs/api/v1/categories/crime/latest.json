@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T10:04:49+01:00",
+  "generated_at": "2026-11-23T10:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6a9a9339193e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/25-aring-hittad-dod-i-kristianstad-misstankt-man-anhallen",
+      "guid": "https://www.svt.se/nyheter/lokalt/skane/25-aring-hittad-dod-i-kristianstad-misstankt-man-anhallen",
+      "published_at": "2026-11-23T10:11:02+01:00",
+      "fetched_at": "2026-11-23T10:15:47+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "25-åring hittad död i Kristianstad – misstänkt man anhållen",
+        "summary": "En man i 25-årsåldern hittades död i en lägenhet under kvällen i lördags. På söndagen greps och anhölls en man i 30-årsåldern misstänkt för mord.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "25-year-old found dead in Kristianstad – suspect detained",
+        "summary": "A man in his 25s was found dead in an apartment on Saturday evening. On Sunday, a man in his 30s suspected of murder was arrested and detained."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T10:15:59+01:00"
+      }
+    },
     {
       "id": "1022675102e8",
       "schema_version": 1,
@@ -5381,32 +5407,6 @@
       "en": {
         "title": "Woman found dead – suspected murder",
         "summary": "A woman has been found dead at an address in Enköping. A man has been arrested on suspicion of murder, reports…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T08:01:26+01:00"
-      }
-    },
-    {
-      "id": "ad4e1bb9076e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bf75ff51-9328-4641-b4c5-387120c660c7",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bf75ff51-9328-4641-b4c5-387120c660c7",
-      "published_at": "2026-11-19T07:51:55+01:00",
-      "fetched_at": "2026-11-19T08:01:18+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Kvinna hittad död",
-        "summary": "Misstänkt mord i Enköping",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Woman found dead",
-        "summary": "Suspected murder in Enköping"
       },
       "translation": {
         "status": "done",
