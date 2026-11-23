@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-23T10:15:59+01:00",
+  "generated_at": "2026-11-23T10:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "da91219d833e",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5tWMVoRFNSU4mqRFFIB93I/centerpartiet-thanderstruck-infoer-sitt-slutliga-vaegval",
+      "guid": "5tWMVoRFNSU4mqRFFIB93I",
+      "published_at": "2026-11-23T10:27:48+01:00",
+      "fetched_at": "2026-11-23T10:31:01+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Valet 2026"
+      ],
+      "sv": {
+        "title": "Centerpartiet ”Thanderstruck” inför sitt slutliga vägval"
+      },
+      "en": {
+        "title": "The Centre Party ”Thanderstruck” ahead of its final choice"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T10:31:11+01:00"
+      }
+    },
+    {
+      "id": "d99a85f2566f",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/6PjRne/nooshi-dadgostar-om-s-budet-kanns-inte-schysst",
+      "guid": "https://www.aftonbladet.se/nyheter/a/6PjRne/nooshi-dadgostar-om-s-budet-kanns-inte-schysst?utm_medium=rss",
+      "published_at": "2026-11-23T10:18:38+01:00",
+      "fetched_at": "2026-11-23T10:31:00+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/01b5d629-47ae-39f9-881c-51e92760ed80?format=auto&s=6b7da248ce70f06d94e5fe8bf536d8b2215764ab&w=1000",
+      "sv": {
+        "title": "Nooshi Dadgostar om S-budet: ”Känns inte schysst”",
+        "summary": "Dadgostar efter budet: Aggressivt",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nooshi Dadgostar on the S budget: ”Doesn't feel decent”",
+        "summary": "Dadgostar after the budget: Aggressive"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T10:31:11+01:00"
+      }
+    },
+    {
+      "id": "d747fb5e2c78",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/dadgostar-nobbade-andersson-infor-debattartikeln",
+      "guid": "https://www.expressen.se/nyheter/politik/dadgostar-nobbade-andersson-infor-debattartikeln/",
+      "published_at": "2026-11-23T10:14:40+01:00",
+      "fetched_at": "2026-11-23T10:31:01+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Dadgostar nobbade Andersson – inför debattartikeln",
+        "summary": "Magdalena Andersson ville informera Vänsterpartiet om startpaketet från S, MP och C före debattartikeln. Men hon fick kalla handen – direkt. ”Jag behöver inte ens se det, vi säger nej ändå”, sa Nooshi Dadgostar enligt uppgifter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dadgostar snubbed Andersson – ahead of the debate article",
+        "summary": "Magdalena Andersson wanted to inform the Left Party about the starter package from the Social Democrats, the Green Party and the Centre Party before the debate article. But she got a cold shoulder – right away. ”I don't even need to see it, we're saying no anyway”, Nooshi Dadgostar reportedly said."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T10:31:11+01:00"
+      }
+    },
     {
       "id": "2b1775614542",
       "schema_version": 1,
@@ -5337,85 +5416,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T08:04:35+01:00"
-      }
-    },
-    {
-      "id": "02f8a7a85db5",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/yz3KKK/brister-i-skydd-mot-spionage-och-terrorism",
-      "guid": "https://www.aftonbladet.se/nyheter/a/yz3KKK/brister-i-skydd-mot-spionage-och-terrorism?utm_medium=rss",
-      "published_at": "2026-11-19T06:56:39+01:00",
-      "fetched_at": "2026-11-19T07:01:14+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/7a3f9eb4-1d15-3b00-87fd-4e046fcaef32?format=auto&s=f6a4ac70e0957643db818f9847e0827f598a235d&w=1000",
-      "sv": {
-        "title": "Brister i skydd mot spionage och terrorism",
-        "summary": "Svenska myndigheter har hittat brister i säkerhetsarbetet hos flera samhällsviktiga verksamheter…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Shortcomings in protection against espionage and terrorism",
-        "summary": "Swedish authorities have found shortcomings in security work at several societally important operations..."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T07:01:21+01:00"
-      }
-    },
-    {
-      "id": "5298d13ed0a9",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344282",
-      "guid": "rss:sr.se/article/9344282",
-      "published_at": "2026-11-19T06:00:00+01:00",
-      "fetched_at": "2026-11-19T06:01:12+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Reportern om säkerhetsskyddet: ”Beskrivs som ett svårt arbete”",
-        "summary": "Ekots granskning visar att det sedan januari förra året har upptäckts brister i det så kallade säkerhetsskyddet - alltså det som ska skydda viktiga svenska verksamheter mot sabotage, spionage och terrorism.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Reporter on security protection: \"Described as a difficult job\"",
-        "summary": "Ekot's investigation shows that since January last year, shortcomings have been discovered in the so-called security protection - that is, what is meant to protect important Swedish operations against sabotage, espionage and terrorism."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:01:24+01:00"
-      }
-    },
-    {
-      "id": "be3fcb0de848",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9337166",
-      "guid": "rss:sr.se/article/9337166",
-      "published_at": "2026-11-19T06:00:00+01:00",
-      "fetched_at": "2026-11-19T06:01:12+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Runt 100 krav på åtgärder efter brister i skydd mot spionage, sabotage och terrorism",
-        "summary": "En granskning Ekot gjort av åtgärdskrav från tillsynsmyndigheter visar att de upptäckt brister i det så kallade säkerhetsskyddet – alltså skyddet mot sabotage, spionage och terrorism – i en lång rad verksamheter som är viktiga för Sveriges säkerhet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Around 100 demands for action after shortcomings in protection against espionage, sabotage and terrorism",
-        "summary": "An Ekot investigation of action demands from supervisory authorities shows they have found shortcomings in the so-called security protection - that is, protection against sabotage, espionage and terrorism - in a long list of operations that are important for Sweden's security."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:01:24+01:00"
       }
     }
   ]

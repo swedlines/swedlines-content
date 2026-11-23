@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T10:15:59+01:00",
+  "generated_at": "2026-11-23T10:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "16ece769b47b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/BrRKrQ/terrordomd-dansk-spion-kraver-ersattning",
+      "guid": "https://www.aftonbladet.se/nyheter/a/BrRKrQ/terrordomd-dansk-spion-kraver-ersattning?utm_medium=rss",
+      "published_at": "2026-11-23T10:25:35+01:00",
+      "fetched_at": "2026-11-23T10:31:00+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Terrordömd dansk spion kräver ersättning",
+        "summary": "En dansk man dömdes som IS-terrorist, men visade sig efter flera år i fängelse ha spionerat för…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Convicted terrorist Danish spy demands compensation",
+        "summary": "A Danish man was convicted as an IS terrorist, but after several years in prison turned out to have spied for…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T10:31:11+01:00"
+      }
+    },
     {
       "id": "5dceac98c469",
       "schema_version": 1,
@@ -5366,33 +5392,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T09:15:50+01:00"
-      }
-    },
-    {
-      "id": "475c160843f0",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/z0GP7w/oklart-lage-pa-utdraget-klimattoppmote",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/z0GP7w/oklart-lage-pa-utdraget-klimattoppmote?utm_medium=rss",
-      "published_at": "2026-11-21T08:39:43+01:00",
-      "fetched_at": "2026-11-21T09:01:15+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/23c42d6e-4cad-3879-bd18-16870e8b6b98?format=auto&s=5f60d689cc59daa36f769511d87705740f4f305b&w=1000",
-      "sv": {
-        "title": "Oklart läge på utdraget klimattoppmöte",
-        "summary": "COP31 Går in på övertid",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unclear situation at the prolonged climate summit",
-        "summary": "COP31 Goes into overtime"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:01:22+01:00"
       }
     }
   ]
