@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T09:45:56+01:00",
+  "generated_at": "2026-11-23T10:01:31+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ce575bbf7794",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-utbrott-av-massling-i-stockholm",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-utbrott-av-massling-i-stockholm",
+      "published_at": "2026-11-23T09:45:26+01:00",
+      "fetched_at": "2026-11-23T10:01:14+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Misstänkt utbrott av mässling i Stockholm",
+        "summary": "Hundratals personer ska testas för mässling i Stockholm efter ett misstänkt utbrott, rapporterar TV4. En smittad person ska ha befunnit sig på akutmottagningen på Södersjukhuset under flera timmar tillsammans med flera andra personer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspected measles outbreak in Stockholm",
+        "summary": "Hundreds of people are to be tested for measles in Stockholm after a suspected outbreak, reports TV4. An infected person is said to have spent several hours in the emergency department at Södersjukhuset together with several other people."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T10:01:30+01:00"
+      }
+    },
     {
       "id": "ef3741b541da",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:45:55+01:00"
-      }
-    },
-    {
-      "id": "099bcf755bef",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/brand-i-radhus-i-sodertalje",
-      "guid": "https://www.svt.se/nyheter/lokalt/sodertalje/brand-i-radhus-i-sodertalje",
-      "published_at": "2026-11-17T12:34:52+01:00",
-      "fetched_at": "2026-11-17T14:31:03+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Brand i radhus i Hovsjö: ”Har spridit sig till intilliggande bostäder”",
-        "summary": "En radhusbrand rasar i Hovsjö i Södertälje. Totalt ska fyra bostäder vara drabbade. Släckningsarbete pågår. – Det är svårt att säga i nuläget hur omfattande skadorna är, säger Cecilia Lundfeldt på Södertörns brandförsvarsförbund.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "House fire in Hovsjö: “Has spread to adjacent homes”",
-        "summary": "A terraced house fire is raging in Hovsjö in Södertälje. A total of four homes are said to be affected. Extinguishing work is ongoing. – It is difficult to say at this point how extensive the damage is, says Cecilia Lundfeldt of Södertörn fire and rescue association."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:31:11+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T09:45:56+01:00",
+  "generated_at": "2026-11-23T10:01:31+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5ecd18bd22ec",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/7P0Ar8/v-bad-s-att-inte-publicera-debattartikeln-med-sitt-bud-menar-att-de-blev-overkorda",
+      "guid": "https://www.svd.se/a/7P0Ar8/v-bad-s-att-inte-publicera-debattartikeln-med-sitt-bud-menar-att-de-blev-overkorda?utm_medium=rss",
+      "published_at": "2026-11-23T09:53:19+01:00",
+      "fetched_at": "2026-11-23T10:01:16+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/5da2c46f-e8a4-31e8-b00d-a0bcc0610cd4?format=auto&s=ba7eacbd430e25438622de3a8056d48b60cf6066&w=1000",
+      "sv": {
+        "title": "Ilska efter artikeln med budet: ”Obegripligt”",
+        "summary": "V bad S att inte publicera debattartikeln med sitt bud – men menar att de blev överkörda.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Outrage over article with the bid: “Incomprehensible”",
+        "summary": "V asked S not to publish the debate article with its bid – but says it was steamrolled."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T10:01:30+01:00"
+      }
+    },
     {
       "id": "451587ddbf36",
       "schema_version": 1,
@@ -5386,33 +5413,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T06:01:24+01:00"
-      }
-    },
-    {
-      "id": "0fbcaba658fa",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/vintern-kommer-men-sodra-sverige-ar-inte-redo",
-      "guid": "31f223d8-b703-4a3f-b1c8-a868ec0e34f4",
-      "published_at": "2026-11-19T05:30:00+01:00",
-      "fetched_at": "2026-11-19T05:31:03+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/7985a5b7-7ea7-4258-88b9-56c4bfcfa201.jpeg?width=600",
-      "sv": {
-        "title": "”Vintern kommer, men södra Sverige är inte redo.”",
-        "summary": "Moderaterna har rätt i att det behöver produceras mer el i södra Sverige, skriver Birger Lahti, Hanna Gedin och Alexandra Thomasson, företrädare för Vänsterpartiet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Winter is coming, but southern Sweden is not ready\"",
-        "summary": "The Moderates are right that more electricity needs to be produced in southern Sweden, write Birger Lahti, Hanna Gedin and Alexandra Thomasson, representatives of the Left Party."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T05:31:11+01:00"
       }
     }
   ]
