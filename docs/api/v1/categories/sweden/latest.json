@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T07:15:51+01:00",
+  "generated_at": "2026-11-23T07:31:07+01:00",
   "count": 200,
   "items": [
     {
@@ -27,6 +27,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T06:56:30+01:00"
+      }
+    },
+    {
+      "id": "8248e7bc9a0a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/dubbla-olyckor-pa-riksvag-31-trafiken-kan-paverkas",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/dubbla-olyckor-pa-riksvag-31-trafiken-kan-paverkas",
+      "published_at": "2026-11-23T06:31:16+01:00",
+      "fetched_at": "2026-11-23T07:30:59+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Trafikolycka med flera fordon på E4:an och avåkningar på 31:an",
+        "summary": "Två olyckor har inträffat på riksväg 31 mellan Jönköping och Nässjö. Strax innan klockan 07 kom det också ett larm om en olycka med flera bilar på E4:an.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Multi-vehicle crash on the E4 and run-off-road accidents on Route 31",
+        "summary": "Two accidents have occurred on Route 31 between Jönköping and Nässjö. Shortly before 07:00, an alarm also came in about a multi-car accident on the E4."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T07:31:07+01:00"
       }
     },
     {
@@ -5447,33 +5473,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T18:15:50+01:00"
-      }
-    },
-    {
-      "id": "c8ef9fb7f9c3",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/GPGer9/sis-hem-stangs-ner-ungdomarna-tog-over",
-      "guid": "https://www.aftonbladet.se/nyheter/a/GPGer9/sis-hem-stangs-ner-ungdomarna-tog-over?utm_medium=rss",
-      "published_at": "2026-11-18T17:43:34+01:00",
-      "fetched_at": "2026-11-18T17:45:49+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/921d19b3-6e64-38be-ac3f-ac6a6ab65fee?format=auto&s=d1ae8707e5d3a2705b9d03e6f6d66507a19e754b&w=1000",
-      "sv": {
-        "title": "Sis-hem stängs ner – ungdomarna tog över",
-        "summary": "Statens institutionsstyrelse, Sis, har beslutat att stänga Vemyra ungdomshem i Sollefteå.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Youth home closed – the young people took over",
-        "summary": "The Swedish National Board of Institutional Care, Sis, has decided to close Vemyra youth home in Sollefteå."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:45:57+01:00"
       }
     }
   ]

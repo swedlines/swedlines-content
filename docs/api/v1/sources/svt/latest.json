@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T07:15:51+01:00",
+  "generated_at": "2026-11-23T07:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8248e7bc9a0a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/dubbla-olyckor-pa-riksvag-31-trafiken-kan-paverkas",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/dubbla-olyckor-pa-riksvag-31-trafiken-kan-paverkas",
+      "published_at": "2026-11-23T06:31:16+01:00",
+      "fetched_at": "2026-11-23T07:30:59+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Trafikolycka med flera fordon på E4:an och avåkningar på 31:an",
+        "summary": "Två olyckor har inträffat på riksväg 31 mellan Jönköping och Nässjö. Strax innan klockan 07 kom det också ett larm om en olycka med flera bilar på E4:an.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Multi-vehicle crash on the E4 and run-off-road accidents on Route 31",
+        "summary": "Two accidents have occurred on Route 31 between Jönköping and Nässjö. Shortly before 07:00, an alarm also came in about a multi-car accident on the E4."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T07:31:07+01:00"
+      }
+    },
     {
       "id": "75f304acbff5",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T10:45:55+01:00"
-      }
-    },
-    {
-      "id": "9d7f6b9dba58",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/misstankta-mordarens-forsvarare-i-ronningemordet-begar-mer-tid-atal-skjuts-fram",
-      "guid": "https://www.svt.se/nyheter/lokalt/sodertalje/misstankta-mordarens-forsvarare-i-ronningemordet-begar-mer-tid-atal-skjuts-fram",
-      "published_at": "2026-11-17T10:25:26+01:00",
-      "fetched_at": "2026-11-17T10:30:56+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Misstänkta mördarens försvarare i Rönningemordet begär mer tid – åtal skjuts fram",
-        "summary": "Åtal mot den 26-årige man som misstänks för mordet i Rönninge skjuts fram igen. Tidigare har åklagaren begärt mer tid – nu är det den misstänktes försvarare som gör det. Åtalet planeras väckas den 1 december.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Defence lawyer for suspect in Rönninge murder asks for more time – charges postponed again",
-        "summary": "Charges against the 26-year-old man suspected of the murder in Rönninge are postponed again. Previously the prosecutor requested more time – now it is the suspect's defence counsel doing so. The charges are planned to be brought on 1 December."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T10:31:17+01:00"
       }
     }
   ]

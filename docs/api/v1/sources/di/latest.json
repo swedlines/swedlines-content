@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T07:15:51+01:00",
+  "generated_at": "2026-11-23T07:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d2b4da8c7d28",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/demokraterna-storsta-pa-over-30-ar",
+      "guid": "363a2c87-6814-459a-8215-468fc634fce6",
+      "published_at": "2026-11-23T07:13:21+01:00",
+      "fetched_at": "2026-11-23T07:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/3dcc5220-b8ce-4877-b7d3-6c099d337f83.jpeg?width=600",
+      "sv": {
+        "title": "Demokraterna största på över 30 år",
+        "summary": "Demokraterna har vunnit minst 258 platser i USA:s representanthus efter mellanårsvalet, vilket innebär den största majoritet som något av partierna har haft i kongressens underhus på mer än tre decennier, rapporterar Reuters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Democrats largest in over 30 years",
+        "summary": "The Democrats have won at least 258 seats in the US House of Representatives after the midterm elections, which gives them the largest majority any party has held in the lower house of Congress in more than three decades, reports Reuters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T07:31:07+01:00"
+      }
+    },
     {
       "id": "2ba9e8f0c25b",
       "schema_version": 1,
@@ -5332,33 +5359,6 @@
       "en": {
         "title": "Cheap acquisitions the key for Karnell – gets new buy rating",
         "summary": "As long as serial acquirer Karnell can keep making new company purchases at low multiples, it matters little that earnings development in the acquired companies is relatively weak. SB1 Markets writes in a fresh buy recommendation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T10:01:18+01:00"
-      }
-    },
-    {
-      "id": "9659655b61de",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/jobbsiffror-vacker-hopp",
-      "guid": "5ab5728b-1b02-4d8d-b609-6ebbdfc0286b",
-      "published_at": "2026-11-20T09:52:54+01:00",
-      "fetched_at": "2026-11-20T10:01:12+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/70a0e071-7338-423f-b2c3-7252bffa2ece.jpeg?width=600",
-      "sv": {
-        "title": "Jobbsiffror väcker hopp",
-        "summary": "Arbetslösheten vänder sakta nedåt, med betoning på sakta. Men det går åt rätt håll.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jobs figures raise hopes",
-        "summary": "Unemployment is slowly turning downward, with emphasis on slowly. But it is moving in the right direction."
       },
       "translation": {
         "status": "done",
