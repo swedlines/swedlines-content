@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-23T18:33:14+01:00",
+  "generated_at": "2026-11-23T18:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "92759f66c791",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/rapport-gaza-ar-en-giftig-odemark",
+      "guid": "0db1d066-d084-465b-a5e8-c6fd279a8991",
+      "published_at": "2026-11-23T18:39:40+01:00",
+      "fetched_at": "2026-11-23T18:45:52+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/f1db4e26-ad6b-4ea5-a0cb-8bd2d7a604da.jpg?width=600",
+      "sv": {
+        "title": "Rapport: ”Gaza är en giftig ödemark”",
+        "summary": "Förstörelsen i Gaza har orsakat miljöskador som kommer att utgöra en fara för befolkningen i flera årtionden, enligt en ny rapport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Report: \"Gaza is a poisonous wasteland\"",
+        "summary": "The destruction in Gaza has caused environmental damage that will pose a danger to the population for decades, according to a new report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T18:45:55+01:00"
+      }
+    },
+    {
+      "id": "3834a0255c35",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/BrR9pG/rapport-gaza-ar-en-giftig-odemark",
+      "guid": "https://www.aftonbladet.se/nyheter/a/BrR9pG/rapport-gaza-ar-en-giftig-odemark?utm_medium=rss",
+      "published_at": "2026-11-23T18:37:50+01:00",
+      "fetched_at": "2026-11-23T18:45:49+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/7ca082ad-e328-3e0a-a468-9b7221b3562d?format=auto&s=a976f33972222c67b1c7428cf6c2fe24d95d83b9&w=1000",
+      "sv": {
+        "title": "Rapport: ”Gaza är en giftig ödemark”",
+        "summary": "Förstörelsen i Gaza har orsakat miljöskador som kommer att utgöra en fara för befolkningen i flera…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Report: \"Gaza is a poisonous wasteland\"",
+        "summary": "The destruction in Gaza has caused environmental damage that will pose a danger to the population for decades…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T18:45:55+01:00"
+      }
+    },
     {
       "id": "293cc1331fc7",
       "schema_version": 1,
@@ -5332,59 +5386,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T17:31:09+01:00"
-      }
-    },
-    {
-      "id": "1390767f609d",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347676",
-      "guid": "rss:sr.se/article/9347676",
-      "published_at": "2026-11-21T17:12:00+01:00",
-      "fetched_at": "2026-11-21T17:15:42+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Nytt miljardbud kan dubbla Sveriges EU-avgift: ”Den måste ner”",
-        "summary": "EU:s ordförande António Costa har kommit med nytt förslag i den svåra frågan om EU:s nästa långtidsbudget som avgör vad EU ska satsa på de kommande åren. Sveriges regering är fortsatt kritisk då det, enligt initiala beräkningar, kan öka Sveriges bidrag till budgeten med 50 procent.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "New billion-euro-scale bid could double Sweden's EU fee: \"It must come down\"",
-        "summary": "EU Council President António Costa has put forward a new proposal in the difficult question of the EU's next long-term budget, which determines what the EU will invest in in the coming years. The Swedish government remains critical, as according to initial calculations it could increase Sweden's contribution to the budget by 50 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T17:15:50+01:00"
-      }
-    },
-    {
-      "id": "13124dead017",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/minst-fyra-doda-i-israeliskt-angrepp-i-gaza",
-      "guid": "16f6ea12-76f7-47ef-9628-339553fa6876",
-      "published_at": "2026-11-21T17:04:34+01:00",
-      "fetched_at": "2026-11-21T17:15:47+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/e809a711-d6a4-486b-a867-e8cbdbd1ccc2.jpg?width=600",
-      "sv": {
-        "title": "Minst fyra döda i israeliskt angrepp i Gaza",
-        "summary": "Tre personer som fraktade förnödenheter i ett fordon till behövande på Gazaremsan dödades i ett angrepp på lördagen, uppger den av terrorstämplade Hamas kontrollerade civilförsvarsmyndigheten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "At least four dead in Israeli strike in Gaza",
-        "summary": "Three people who were transporting supplies by vehicle to those in need in the Gaza Strip were killed in a strike on Saturday, according to the civil defence authority controlled by Hamas, which is designated as a terrorist organisation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T17:15:50+01:00"
       }
     }
   ]
