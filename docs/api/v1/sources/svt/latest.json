@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T10:31:11+01:00",
+  "generated_at": "2026-11-23T10:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eb812e908ef6",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
+      "guid": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
+      "published_at": "2026-11-23T10:41:20+01:00",
+      "fetched_at": "2026-11-23T10:45:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Larm om bombhot mot flera skolor i Danmark",
+        "summary": "Polisdistrikt i hela Danmark får just nu in anmälningar om bombhot mot ett stort antal danska skolor, skriver danska TV 2. Samtidigt uppmanar polisen till lugn och betonar att det i nuläget inte finns anledning till oro.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm over bomb threats against several schools in Denmark",
+        "summary": "Police districts across Denmark are currently receiving reports of bomb threats against a large number of Danish schools, Danish TV 2 writes. At the same time, police urge calm and stress that there is currently no reason for concern."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T10:45:57+01:00"
+      }
+    },
     {
       "id": "58dbdbde02ee",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T13:31:17+01:00"
-      }
-    },
-    {
-      "id": "671c061f7eca",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/kultur/melodifestivalen-skrotar-finalkvalet",
-      "guid": "https://www.svt.se/kultur/melodifestivalen-skrotar-finalkvalet",
-      "published_at": "2026-11-17T13:05:28+01:00",
-      "fetched_at": "2026-11-17T13:15:44+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Melodifestivalen skrotar finalkvalet",
-        "summary": "Det blir inget finalkval i Melodifestivalen nästa år. SVT slopar konceptet med en andra chans efter 25 år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Melodifestivalen scraps the final qualifier",
-        "summary": "There will be no final qualifier in Melodifestivalen next year. SVT is dropping the concept of a second chance after 25 years."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:15:51+01:00"
       }
     }
   ]
