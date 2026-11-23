@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T16:31:03+01:00",
+  "generated_at": "2026-11-23T16:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a06986e7a683",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348200",
+      "guid": "rss:sr.se/article/9348200",
+      "published_at": "2026-11-23T16:32:00+01:00",
+      "fetched_at": "2026-11-23T16:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Nya uppgifter om Nvidia-skandalen: Spionkontakt i över ett år",
+        "summary": "Den kvinna som står i centrum för spionskandalen kring chipföretaget Nvidias vd Jensen Huang, ska ha haft kontakt med en kinesisk agent under över ett års tid. Det uppger underrättelsekällor för New York Times.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New details on the Nvidia scandal: Spy contact for over a year",
+        "summary": "The woman at the centre of the spy scandal surrounding chip company Nvidia's CEO Jensen Huang reportedly had contact with a Chinese agent for over a year. This is according to intelligence sources speaking to The New York Times."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:45:50+01:00"
+      }
+    },
     {
       "id": "0002d457fd97",
       "schema_version": 1,
@@ -5358,33 +5384,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T16:01:25+01:00"
-      }
-    },
-    {
-      "id": "443fa1a4b66f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Jnog4P/ryska-fartyget-sparta-ii-i-brand-i-finskt-territorialvatten",
-      "guid": "https://www.svd.se/a/Jnog4P/ryska-fartyget-sparta-ii-i-brand-i-finskt-territorialvatten?utm_medium=rss",
-      "published_at": "2026-11-21T15:39:01+01:00",
-      "fetched_at": "2026-11-21T15:45:44+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/abb59f90-86e2-3aec-893d-7db123b8501f?format=auto&s=6e148901b1c74cbfa2ec86e1c429c3fee557c13c&w=923",
-      "sv": {
-        "title": "Dramat – fartyg i lågor kopplas till rysk militär",
-        "summary": "Ett ryskt containerfartyg attackerades av drönare på lördagsmorgonen och har nu drivit in på finskt…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Drama – ship in flames linked to Russian military",
-        "summary": "A Russian container ship was attacked by drones on Saturday morning and has now drifted ashore in Finnish…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T15:45:49+01:00"
       }
     }
   ]

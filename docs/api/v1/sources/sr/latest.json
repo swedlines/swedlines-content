@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T16:31:03+01:00",
+  "generated_at": "2026-11-23T16:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a06986e7a683",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348200",
+      "guid": "rss:sr.se/article/9348200",
+      "published_at": "2026-11-23T16:32:00+01:00",
+      "fetched_at": "2026-11-23T16:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Nya uppgifter om Nvidia-skandalen: Spionkontakt i över ett år",
+        "summary": "Den kvinna som står i centrum för spionskandalen kring chipföretaget Nvidias vd Jensen Huang, ska ha haft kontakt med en kinesisk agent under över ett års tid. Det uppger underrättelsekällor för New York Times.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New details on the Nvidia scandal: Spy contact for over a year",
+        "summary": "The woman at the centre of the spy scandal surrounding chip company Nvidia's CEO Jensen Huang reportedly had contact with a Chinese agent for over a year. This is according to intelligence sources speaking to The New York Times."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:45:50+01:00"
+      }
+    },
     {
       "id": "0002d457fd97",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T20:16:02+01:00"
-      }
-    },
-    {
-      "id": "a611931ba2dd",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344465",
-      "guid": "rss:sr.se/article/9344465",
-      "published_at": "2026-11-17T19:23:00+01:00",
-      "fetched_at": "2026-11-17T19:31:10+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Runt tusen unga kan omfattas av stopp för tonårsutvisningar",
-        "summary": "Riksdagens socialförsäkringsutskott går vidare med en lag för att stoppa tonårsutvisningar, men det är oklart om Migrationsverket pausar utvisningarna under tiden. Sju av åtta partier stöder inriktningen, Sverigedemokraterna är emot.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Around a thousand young people may be covered by stop on deportations of teenagers",
-        "summary": "The Riksdag's Social Insurance Committee is advancing a law to stop deportations of teenagers, but it is unclear whether the Migration Agency will pause deportations in the meantime. Seven of eight parties support the direction, the Sweden Democrats are against."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:31:23+01:00"
       }
     }
   ]

@@ -1,7 +1,141 @@
 {
-  "generated_at": "2026-11-23T16:31:03+01:00",
-  "count": 465,
+  "generated_at": "2026-11-23T16:45:58+01:00",
+  "count": 472,
   "items": [
+    {
+      "id": "c186c2db2ef6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/arets-julklapp-slutsald-i-stockholm-och-goteborg",
+      "guid": "88b4d1e4-5623-47b3-91bc-2a827b61eb39",
+      "published_at": "2026-11-23T16:39:32+01:00",
+      "fetched_at": "2026-11-23T16:45:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a17437af-05ff-489d-9ede-e5788e46458a.jpeg?width=600",
+      "sv": {
+        "title": "Årets julklapp slutsåld – i Stockholm och Göteborg",
+        "summary": "Ett startnummer till ett motionslopp utsågs i förra veckan till årets julklapp av HUI Research. För den som vill ge ett startnummer i present tvingas nu leta sig utanför de populäraste loppen i Stockholm och Göteborg efter att ännu ett blivit slutsålt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Year's Christmas present sold out – in Stockholm and Göteborg",
+        "summary": "A race bib for a fun run was named this year's Christmas present by HUI Research last week. Those wanting to give a race bib as a gift must now look outside the most popular races in Stockholm and Göteborg, after yet another one sold out."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:45:50+01:00"
+      }
+    },
+    {
+      "id": "d2ed6222b2dc",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/klart-de-far-arrangera-fotbolls-vm-2031-och-2035",
+      "guid": "f71cb57e-7ac2-4eb9-86ae-5dba97446910",
+      "published_at": "2026-11-23T16:39:03+01:00",
+      "fetched_at": "2026-11-23T16:45:46+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/4716f90d-cedb-4315-951c-3dad22f2b8b9.jpg?width=600",
+      "sv": {
+        "title": "Klart: De får arrangera fotbolls-VM 2031 och 2035",
+        "summary": "Precis som förväntat kommer damernas fotbolls-VM 2031 att spelas i USA, Mexiko, Costa Rica och Jamaica. 2035 går mästerskapet till England, Skottland, Wales och Nordirland.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Confirmed: They will host the 2031 and 2035 Women's Football World Cups",
+        "summary": "As expected, the 2031 Women's Football World Cup will be played in the USA, Mexico, Costa Rica and Jamaica. The 2035 tournament goes to England, Scotland, Wales and Northern Ireland."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:45:50+01:00"
+      }
+    },
+    {
+      "id": "244a42903e21",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/j3d2p9/jensen-huang-tillbaka-nvidias-styrelse-star-for-ett-misslyckande",
+      "guid": "https://www.svd.se/a/j3d2p9/jensen-huang-tillbaka-nvidias-styrelse-star-for-ett-misslyckande?utm_medium=rss",
+      "published_at": "2026-11-23T16:33:34+01:00",
+      "fetched_at": "2026-11-23T16:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/50b5f885-001b-3a89-add8-d3f206dce021?format=auto&s=89ccd5a392d175edba84253dae5e8394665b8a00&w=1000",
+      "sv": {
+        "title": "Nu får kung Huang en farlig position",
+        "summary": "Pressen på Nvidias styrelse blev för stor – för andra gången på mindre än två veckor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Now King Huang gets a dangerous position",
+        "summary": "Pressure on Nvidia's board became too great – for the second time in less than two weeks."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:45:50+01:00"
+      }
+    },
+    {
+      "id": "a06986e7a683",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348200",
+      "guid": "rss:sr.se/article/9348200",
+      "published_at": "2026-11-23T16:32:00+01:00",
+      "fetched_at": "2026-11-23T16:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Nya uppgifter om Nvidia-skandalen: Spionkontakt i över ett år",
+        "summary": "Den kvinna som står i centrum för spionskandalen kring chipföretaget Nvidias vd Jensen Huang, ska ha haft kontakt med en kinesisk agent under över ett års tid. Det uppger underrättelsekällor för New York Times.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New details on the Nvidia scandal: Spy contact for over a year",
+        "summary": "The woman at the centre of the spy scandal surrounding chip company Nvidia's CEO Jensen Huang reportedly had contact with a Chinese agent for over a year. This is according to intelligence sources speaking to The New York Times."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:45:50+01:00"
+      }
+    },
+    {
+      "id": "8023a75fb5dd",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/kMJbmA/10-storforetag-da-maste-du-beratta-om-din-jobbromans",
+      "guid": "https://www.aftonbladet.se/nyheter/a/kMJbmA/10-storforetag-da-maste-du-beratta-om-din-jobbromans?utm_medium=rss",
+      "published_at": "2026-11-23T16:31:37+01:00",
+      "fetched_at": "2026-11-23T16:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/da00a302-3a6d-39bf-8b1e-2e5c81b04b5d?format=auto&s=c789acff4d0d0859f91fbf1416629b3cecb1255c&w=1000",
+      "sv": {
+        "title": "10 svenska storföretag: Då måste du berätta om din jobbromans",
+        "summary": "Maria, 29, blev kär i kollega: ”Väldigt diskreta”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "10 major Swedish companies: Then you must tell about your work romance",
+        "summary": "Maria, 29, fell in love with a colleague: \"Very discreet\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:45:50+01:00"
+      }
+    },
     {
       "id": "0022c9407796",
       "schema_version": 1,
@@ -110,6 +244,41 @@
       }
     },
     {
+      "id": "a3a5d9864548",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/ekonomi/jensen-huang-tillbaka-som-vd-for-nvidia-en-otrolig-soppa.67f5980a-fa65-5cf3-b5c4-df5c8691c0a0",
+      "guid": "67f5980a-fa65-5cf3-b5c4-df5c8691c0a0",
+      "published_at": "2026-11-23T16:23:39+01:00",
+      "fetched_at": "2026-11-23T16:45:45+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi",
+        "Tagg: Nvidia",
+        "Tagg: Donald Trump",
+        "Tagg: Esbjörn Lundevall",
+        "Tagg: Stockholmsbörsen",
+        "Tagg: Aktier"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/f0a5c986-ef74-3b10-97af-8d32328e4dd8",
+      "sv": {
+        "title": "Nividias vd tillbaka: ”En otrolig soppa”",
+        "summary": "Återvänder efter otrohet med misstänkt spion • Aktien rusar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia's CEO returns: \"An incredible mess\"",
+        "summary": "Returns after infidelity with suspected spy • Shares soar."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:45:50+01:00"
+      }
+    },
+    {
       "id": "f59adc00045f",
       "schema_version": 1,
       "source": "aftonbladet",
@@ -185,6 +354,43 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T16:29:18+01:00"
+      }
+    },
+    {
+      "id": "91156070176b",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/trots-v-nej-till-startpaket-s-har-inte-gett-upp.b87029d1-2c3e-507e-904f-1997ff8817a6",
+      "guid": "b87029d1-2c3e-507e-904f-1997ff8817a6",
+      "published_at": "2026-11-23T16:21:18+01:00",
+      "fetched_at": "2026-11-23T16:45:45+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Magdalena Andersson",
+        "Tagg: Ardalan Shekarabi",
+        "Tagg: Ida Gabrielsson",
+        "Tagg: Vänsterpartiet",
+        "Tagg: Socialdemokraterna",
+        "Tagg: Rickard Nordin",
+        "Tagg: Nooshi Dadgostar"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/90668bb0-40e0-36e4-8268-40a7a251bbb7",
+      "sv": {
+        "title": "Trots V nej till startpaket – S har inte gett upp",
+        "summary": "Ardalan Shekarabi (S): ”Hoppas att alla partier inser vad som står på spel”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Despite V no to starter package – S has not given up",
+        "summary": "Ardalan Shekarabi (S): \"Hope all parties realise what is at stake\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:45:50+01:00"
       }
     },
     {
