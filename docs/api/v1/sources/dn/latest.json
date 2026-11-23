@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T22:15:58+01:00",
+  "generated_at": "2026-11-23T22:30:41+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4c91af8c4692",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/experternas-scenario-okad-press-pa-putin-i-vinter",
+      "guid": "https://www.dn.se/varlden/experternas-scenario-okad-press-pa-putin-i-vinter/",
+      "published_at": "2026-11-23T22:18:10+01:00",
+      "fetched_at": "2026-11-23T22:30:27+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/382fafb7-cf63-4538-a4b9-65396e4a0166.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Experternas scenario: Ökad press på Putin i vinter",
+        "summary": "Vapenvila, eftergifter eller utökade attacker? DN har pratat med tre militärexperter om hur kriget i Ukraina kan se ut i vinter – efter nästan fem års strider. – Det finns en farhåga om att det kan gå fortare än vad vi européer hinner med, säger Johan Huovinen på Försvarshögskolan.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Experts' scenarios: Increased pressure on Putin this winter",
+        "summary": "Ceasefire, concessions or expanded attacks? DN has spoken with three military experts about how the war in Ukraine could look this winter – after nearly five years of fighting. – There is a concern that it could move faster than we Europeans can keep up, says Johan Huovinen at the Swedish Defence University."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:30:34+01:00"
+      }
+    },
     {
       "id": "e0013e91c868",
       "schema_version": 1,
@@ -5370,33 +5397,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T14:16:02+01:00"
-      }
-    },
-    {
-      "id": "71389f037462",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/birgitta-rubin-rafflande-kamp-om-raritet-av-hilma-af-klint",
-      "guid": "https://www.dn.se/kultur/birgitta-rubin-rafflande-kamp-om-raritet-av-hilma-af-klint/",
-      "published_at": "2026-11-20T13:40:41+01:00",
-      "fetched_at": "2026-11-20T13:45:42+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/63e12f5c-a384-42af-ab57-4d1906b9e58f.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Birgitta Rubin: Rafflande kamp om raritet av Hilma af Klint",
-        "summary": "Ett abstrakt verk av Hilma af Klint såldes på torsdagskvällen för 128,9 miljoner kronor, Sveriges genom tiderna dyraste konstverk. Birgitta Rubin bevittnade den historiska och sällsynt spännande dragkampen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Birgitta Rubin: Thrilling battle over a rarity by Hilma af Klint",
-        "summary": "An abstract work by Hilma af Klint sold on Thursday evening for SEK 128.9 million, Sweden's most expensive artwork ever. Birgitta Rubin witnessed the historic and rarely thrilling tug-of-war."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:45:48+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T22:15:58+01:00",
+  "generated_at": "2026-11-23T22:30:41+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "87806f465cc6",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/ekonomi/nvidias-vd-tillbaka-wall-street-rusade-vilt",
+      "guid": "https://www.svt.se/nyheter/ekonomi/nvidias-vd-tillbaka-wall-street-rusade-vilt",
+      "published_at": "2026-11-23T22:23:56+01:00",
+      "fetched_at": "2026-11-23T22:30:26+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nvidias vd tillbaka – Wall Street rusade vilt",
+        "summary": "Nasdaqs tekniktunga index rusade 6,5 procent på börsen i New York på måndagen efter beskedet om att Jensen Huang återinsätts som halvledarbjässen Nvidias vd. Nvidia steg hela 31,5 procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia's CEO back – Wall Street surged wildly",
+        "summary": "The tech-heavy Nasdaq index surged 6.5 percent on the New York stock exchange on Monday after the news that Jensen Huang is reinstated as CEO of semiconductor giant Nvidia. Nvidia rose as much as 31.5 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:30:34+01:00"
+      }
+    },
     {
       "id": "08132aaa7ca6",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Schoolchildren must run across the road in Böle – 20 years of campaigning for a pedestrian crossing",
         "summary": "Today, pupils travelling to and from Böle village school by bus must pass the sometimes heavily trafficked County Road 592. This often means long waits for gaps and children having to run between cars. The Transport Administration believes a solution with a raised crossing could be in place by 2027."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:45:56+01:00"
-      }
-    },
-    {
-      "id": "ac4b19df74fc",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/lycksele-kommun-ar-antibiotikasmart-elvira-5-viktigt-med-tval",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/lycksele-kommun-ar-antibiotikasmart-elvira-5-viktigt-med-tval",
-      "published_at": "2026-11-18T05:30:03+01:00",
-      "fetched_at": "2026-11-18T05:45:45+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Lycksele kommun är antibiotikasmart – Elvira, 5: ”Viktigt med tvål”",
-        "summary": "Lycksele kommun är först i Västerbotten med att jobba ”antibiotikasmart” i alla förskolor. Där jobbar man aktivt för att minska smittor och sjukdomar. – Om man inte tar tvål försvinner inte bakterierna, säger femåriga Elvira Karytska Engman på förskolan Daggkåpan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lycksele municipality is antibiotic-smart – Elvira, 5: \"Soap is important\"",
-        "summary": "Lycksele municipality is the first in Västerbotten to work \"antibiotic-smart\" in all preschools. There, staff actively work to reduce infections and illness. \"If you don't use soap, the bacteria don't disappear,\" says five-year-old Elvira Karytska Engman at the Daggkåpan preschool."
       },
       "translation": {
         "status": "done",

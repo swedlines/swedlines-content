@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T22:15:58+01:00",
+  "generated_at": "2026-11-23T22:30:41+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1f2ba9f001e6",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/saftiga-priset-for-bilden-pa-melania",
+      "guid": "https://www.expressen.se/nyheter/varlden/saftiga-priset-for-bilden-pa-melania/",
+      "published_at": "2026-11-23T22:25:03+01:00",
+      "fetched_at": "2026-11-23T22:30:28+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Saftiga priset för bilden på Melania",
+        "summary": "Sugen på att köpa en ”exklusiv” bild på presidentfrun Melania Trump? Priset: 1 500 kronor, skriver Independet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Steep price for picture of Melania",
+        "summary": "Keen to buy an “exclusive” picture of First Lady Melania Trump? The price: SEK 1,500, writes Independent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:30:34+01:00"
+      }
+    },
     {
       "id": "df033810f719",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Russian missile hits Poland",
         "summary": "Identified by the defence minister • Air defence activated"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T12:01:25+01:00"
-      }
-    },
-    {
-      "id": "856b2575d784",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=0f15cdfb-8baa-4b99-8b82-8dac176421c2",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0f15cdfb-8baa-4b99-8b82-8dac176421c2",
-      "published_at": "2026-11-20T11:52:06+01:00",
-      "fetched_at": "2026-11-20T12:01:15+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Volvoverkstad utrymd",
-        "summary": "Syra har läckt ut, enligt SVT Sörmland",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Car workshop evacuated",
-        "summary": "Acid has leaked out, according to SVT Sörmland"
       },
       "translation": {
         "status": "done",

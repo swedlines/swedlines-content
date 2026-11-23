@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:15:58+01:00",
+  "generated_at": "2026-11-23T22:30:41+01:00",
   "count": 30,
   "stories": [
     {
@@ -2944,6 +2944,143 @@
       ]
     },
     {
+      "id": "306e7c415635",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "svt"
+      ],
+      "first_published_at": "2026-11-23T19:48:24+01:00",
+      "last_published_at": "2026-11-23T22:23:56+01:00",
+      "lead": {
+        "id": "306e7c415635",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/wall-street-rusar-efter-huangs-aterkomst-till-nvidia",
+        "guid": "784c26c3-b0b0-47a9-a0f0-62949f395e7c",
+        "published_at": "2026-11-23T19:48:24+01:00",
+        "fetched_at": "2026-11-23T20:01:14+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/bb9aca9b-5a31-47a0-8af1-ced0cfc84084.jpeg?width=600",
+        "sv": {
+          "title": "Wall Street rusar efter Huangs återkomst till Nvidia",
+          "summary": "Huvudindexen på Wall Street lyser klargröna efter fyra timmars handel. Jensen Huangs återkomst till chipjätten Nvidia har minst sagt fått spaltmeter under måndagen och bidragit till en börsfest, inte minst för flera aktier inom AI-trejden.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Wall Street surges after Huang's return to Nvidia",
+          "summary": "The main indices on Wall Street are deep green after four hours of trading. Jensen Huang's return to chip giant Nvidia has, to say the least, attracted attention on Monday and sparked a stock party, not least for several shares in the AI trend."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T20:01:24+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "87806f465cc6",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/ekonomi/nvidias-vd-tillbaka-wall-street-rusade-vilt",
+          "published_at": "2026-11-23T22:23:56+01:00",
+          "sv": {
+            "title": "Nvidias vd tillbaka – Wall Street rusade vilt"
+          },
+          "en": {
+            "title": "Nvidia's CEO back – Wall Street surged wildly"
+          }
+        },
+        {
+          "id": "d6620e3ed99e",
+          "source": "di",
+          "url": "https://www.di.se/live/jensen-huang-tillbaka-pa-kontoret-ska-vara-en-battre-vd",
+          "published_at": "2026-11-23T21:51:15+01:00",
+          "sv": {
+            "title": "Jensen Huang tillbaka på kontoret: ”Ska vara en bättre vd”"
+          },
+          "en": {
+            "title": "Jensen Huang back in the office: ”Will be a better CEO”"
+          }
+        },
+        {
+          "id": "306e7c415635",
+          "source": "di",
+          "url": "https://www.di.se/live/wall-street-rusar-efter-huangs-aterkomst-till-nvidia",
+          "published_at": "2026-11-23T19:48:24+01:00",
+          "sv": {
+            "title": "Wall Street rusar efter Huangs återkomst till Nvidia"
+          },
+          "en": {
+            "title": "Wall Street surges after Huang's return to Nvidia"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1346dcd0e795",
+      "source_count": 2,
+      "sources": [
+        "sr",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-23T17:24:00+01:00",
+      "last_published_at": "2026-11-23T22:20:53+01:00",
+      "lead": {
+        "id": "1346dcd0e795",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9348509",
+        "guid": "rss:sr.se/article/9348509",
+        "published_at": "2026-11-23T17:24:00+01:00",
+        "fetched_at": "2026-11-23T17:30:57+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Vänsterpartiet gläntar på dörren för att släppa ministerkrav",
+          "summary": "Vänsterpartiet står fast vid kravet på ministerposter, men vice partiledaren Ida Gabrielsson öppnar för att släppa det vid stora sakpolitiska eftergifter.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Left Party opens door to dropping ministerial demand",
+          "summary": "The Left Party stands firm on its demand for ministerial posts, but deputy party leader Ida Gabrielsson is open to dropping it in return for major policy concessions."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T17:31:06+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "6ef826e5bc29",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/z0GKAO/ida-gabrielsson-da-kan-vansterpartiet-avsta-ministerposter",
+          "published_at": "2026-11-23T22:20:53+01:00",
+          "sv": {
+            "title": "Gabrielsson: Det kan få oss att avstå ministerposter"
+          },
+          "en": {
+            "title": "Gabrielsson: It could cause us to refrain from ministerial posts"
+          }
+        },
+        {
+          "id": "1346dcd0e795",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348509",
+          "published_at": "2026-11-23T17:24:00+01:00",
+          "sv": {
+            "title": "Vänsterpartiet gläntar på dörren för att släppa ministerkrav"
+          },
+          "en": {
+            "title": "Left Party opens door to dropping ministerial demand"
+          }
+        }
+      ]
+    },
+    {
       "id": "7719072a3882",
       "source_count": 2,
       "sources": [
@@ -3001,135 +3138,6 @@
           },
           "en": {
             "title": "Outrage over Trump's involvement in Huang's comeback"
-          }
-        }
-      ]
-    },
-    {
-      "id": "495fbd70c646",
-      "source_count": 2,
-      "sources": [
-        "gp",
-        "svd"
-      ],
-      "first_published_at": "2026-11-23T20:49:24+01:00",
-      "last_published_at": "2026-11-23T21:25:25+01:00",
-      "lead": {
-        "id": "495fbd70c646",
-        "schema_version": 1,
-        "source": "gp",
-        "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/hammarby-besegrade-ifk-goteborg-guldrysare-vantar.82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
-        "guid": "82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
-        "published_at": "2026-11-23T20:49:24+01:00",
-        "fetched_at": "2026-11-23T21:15:51+01:00",
-        "category": "sports",
-        "feed_categories": [
-          "IFK Göteborg",
-          "Tagg: IFK Göteborg"
-        ],
-        "image_url": "https://vcdn.polarismedia.no/0d18a469-4adc-301d-9c79-0d952e474166",
-        "sv": {
-          "title": "Bajen besegrade Blåvitt – guldrysare väntar",
-          "summary": "Blåvitt lyckades skapa nerv – räckte inte hela vägen • Slutdrama i sista omgången på Gamla Ullevi.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Bajen beat Blåvitt – title race awaits",
-          "summary": "Blåvitt managed to create tension – but not enough to go all the way • Thriller in the final round at Gamla Ullevi."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T21:15:56+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "83a1c0c56045",
-          "source": "svd",
-          "url": "https://www.svd.se/a/aGwn75/henrik-rydstrom-har-lyft-hammarby-ena-handen-pa-lennart-johanssons-pokal",
-          "published_at": "2026-11-23T21:25:25+01:00",
-          "sv": {
-            "title": "Rydströms intåg har lyft Bajen"
-          },
-          "en": {
-            "title": "Rydström's arrival has lifted Bajen"
-          }
-        },
-        {
-          "id": "495fbd70c646",
-          "source": "gp",
-          "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/hammarby-besegrade-ifk-goteborg-guldrysare-vantar.82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
-          "published_at": "2026-11-23T20:49:24+01:00",
-          "sv": {
-            "title": "Bajen besegrade Blåvitt – guldrysare väntar"
-          },
-          "en": {
-            "title": "Bajen beat Blåvitt – title race awaits"
-          }
-        }
-      ]
-    },
-    {
-      "id": "8d2393339361",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "svd"
-      ],
-      "first_published_at": "2026-11-23T20:51:24+01:00",
-      "last_published_at": "2026-11-23T20:52:35+01:00",
-      "lead": {
-        "id": "8d2393339361",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2357fa30-f644-4045-8ca9-74e72497b36d",
-        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2357fa30-f644-4045-8ca9-74e72497b36d",
-        "published_at": "2026-11-23T20:51:24+01:00",
-        "fetched_at": "2026-11-23T21:01:09+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Person hittad död – misstänkt mord",
-          "summary": "Misstänkt mord i Heby",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Person Found Dead – Suspected Murder",
-          "summary": "Suspected murder in Heby"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T21:01:14+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "e6b8ca42eafa",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80229",
-          "published_at": "2026-11-23T20:52:35+01:00",
-          "sv": {
-            "title": "Misstänkt mord i Heby"
-          },
-          "en": {
-            "title": "Suspected Murder in Heby"
-          }
-        },
-        {
-          "id": "8d2393339361",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2357fa30-f644-4045-8ca9-74e72497b36d",
-          "published_at": "2026-11-23T20:51:24+01:00",
-          "sv": {
-            "title": "Person hittad död – misstänkt mord"
-          },
-          "en": {
-            "title": "Person Found Dead – Suspected Murder"
           }
         }
       ]

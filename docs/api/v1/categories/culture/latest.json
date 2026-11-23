@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T22:15:58+01:00",
+  "generated_at": "2026-11-23T22:30:41+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1f2ba9f001e6",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/saftiga-priset-for-bilden-pa-melania",
+      "guid": "https://www.expressen.se/nyheter/varlden/saftiga-priset-for-bilden-pa-melania/",
+      "published_at": "2026-11-23T22:25:03+01:00",
+      "fetched_at": "2026-11-23T22:30:28+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Saftiga priset för bilden på Melania",
+        "summary": "Sugen på att köpa en ”exklusiv” bild på presidentfrun Melania Trump? Priset: 1 500 kronor, skriver Independet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Steep price for picture of Melania",
+        "summary": "Keen to buy an “exclusive” picture of First Lady Melania Trump? The price: SEK 1,500, writes Independent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T22:30:34+01:00"
+      }
+    },
     {
       "id": "e394a3b6061f",
       "schema_version": 1,
@@ -5678,33 +5704,6 @@
       "en": {
         "title": "Non Grata: A welcome acquaintance despite the name",
         "summary": "The Restaurant Commission. Persona's relaxed little sister lies in a hidden oasis in the heart of Östermalm. Here dishes are served so good that DN's correspondent wants to kiss the chef."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T15:15:55+01:00"
-      }
-    },
-    {
-      "id": "7475428f6b06",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/tre-krogar-med-asiatiska-smaker",
-      "guid": "https://www.dn.se/kultur/tre-krogar-med-asiatiska-smaker/",
-      "published_at": "2026-11-20T15:04:31+01:00",
-      "fetched_at": "2026-11-20T15:15:48+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/e1e96aba-95b5-4fe8-b37c-b61b9fce6fb5.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Tre krogar med asiatiska smaker",
-        "summary": "Sugen på sushi, yakitori eller krispig gris? Här är tre asiatiska krogar i Stockholm – med helt olika inriktning – som DN:s krogkommission testat det senaste året.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Three restaurants with Asian flavours",
-        "summary": "Craving sushi, yakitori or crispy pork? Here are three Asian restaurants in Stockholm – with very different orientations – that DN's restaurant commission has tested over the past year."
       },
       "translation": {
         "status": "done",
