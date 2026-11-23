@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T07:06:43+01:00",
+  "generated_at": "2026-11-23T07:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a92f56c1d65d",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/aleksandr-litvinenkos-anka-till-och-med-min-man-underskattade-putin",
+      "guid": "https://www.dn.se/varlden/aleksandr-litvinenkos-anka-till-och-med-min-man-underskattade-putin/",
+      "published_at": "2026-11-23T07:11:44+01:00",
+      "fetched_at": "2026-11-23T07:15:44+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/3a6ce14e-d9ba-4cfc-8593-9298111d3603.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Aleksandr Litvinenkos änka: ”Till och med min man underskattade Putin”",
+        "summary": "LONDON. Det har gått 20 år sedan den ryske dissidenten Aleksandr Litvinenko mördades med polonium. Hans änka trodde in i det längsta att han skulle överleva. – Ingen har dömts för mordet på min man. Men en dag kommer Putins brott att summeras, säger Marina Litvinenko.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Aleksandr Litvinenko's widow: \"Even my husband underestimated Putin\"",
+        "summary": "LONDON. It has been 20 years since Russian dissident Aleksandr Litvinenko was murdered with polonium. His widow believed to the very end that he would survive. – No one has been convicted of the murder of my husband. But one day Putin's crimes will be summed up, says Marina Litvinenko."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T07:15:50+01:00"
+      }
+    },
     {
       "id": "83d11362057e",
       "schema_version": 1,
@@ -5356,33 +5383,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T06:01:22+01:00"
-      }
-    },
-    {
-      "id": "db4334283edc",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Wmby5j/omvarlden-behover-skydda-palestinierna-skriver-palestinas-ambassador",
-      "guid": "https://www.svd.se/a/Wmby5j/omvarlden-behover-skydda-palestinierna-skriver-palestinas-ambassador?utm_medium=rss",
-      "published_at": "2026-11-21T06:00:00+01:00",
-      "fetched_at": "2026-11-21T06:15:48+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/bc5a8ed9-670c-3ea0-8cd6-7d8021670054?format=auto&s=a08c78cd242c02b534c6d40e3dea036d0d34e914&w=1000",
-      "sv": {
-        "title": "”Omvärlden behöver skydda palestinierna”",
-        "summary": "Vinterkyla och översvämningar får inte bli ytterligare en dödsorsak i Gaza för dem som överlevt…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"The Outside World Needs to Protect the Palestinians\"",
-        "summary": "Winter cold and flooding must not become yet another cause of death in Gaza for those who have survived…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T06:16:04+01:00"
       }
     }
   ]

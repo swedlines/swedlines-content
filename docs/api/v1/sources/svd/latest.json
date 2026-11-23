@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T07:06:43+01:00",
+  "generated_at": "2026-11-23T07:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cc698ac39e40",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/LoAoGJ/recension-ur-djupet-av-lina-gustafsson",
+      "guid": "https://www.svd.se/a/LoAoGJ/recension-ur-djupet-av-lina-gustafsson?utm_medium=rss",
+      "published_at": "2026-11-23T07:15:00+01:00",
+      "fetched_at": "2026-11-23T07:15:44+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/f52d7522-e521-35a7-9c84-9e9857299826?format=auto&s=40301603fb61ea6d1ed9dd44de37cd1642891cfd&w=1000",
+      "sv": {
+        "title": "Hur ter sig livet som fisk?",
+        "summary": "I dag kan Lina Gustafssons ”Ur djupet” – en bok om fiskars medvetande och hur de upplever vår…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "What is life like as a fish?",
+        "summary": "Today Lina Gustafsson's \"Ur djupet\" – a book about the consciousness of fish and how they experience our…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T07:15:50+01:00"
+      }
+    },
     {
       "id": "ef30267436fe",
       "schema_version": 1,
@@ -5235,33 +5262,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T00:45:51+01:00"
-      }
-    },
-    {
-      "id": "06af5cf96b0d",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/aGwLLM/jesper-karlsson-det-ar-mitt-maste-pa-julbordet",
-      "guid": "https://www.svd.se/a/aGwLLM/jesper-karlsson-det-ar-mitt-maste-pa-julbordet?utm_medium=rss",
-      "published_at": "2026-11-20T00:15:00+01:00",
-      "fetched_at": "2026-11-20T00:31:01+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/12a6b647-ff30-3334-95ec-08f560853287?format=auto&s=9002e1573cfa513cc028e9faea10fe0974c101b4&w=1000",
-      "sv": {
-        "title": "”Det är mitt måste på julbordet”",
-        "summary": "Jesper Karlsson om flottyrkokt grishuvud på Fäviken, oätlig hämtmat i Wales och vikten av en bra…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"It's my must at the Christmas buffet\"",
-        "summary": "Jesper Karlsson on slow-cooked pork head at Fäviken, inedible takeaway in Wales and the importance of a good…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T00:31:08+01:00"
       }
     }
   ]
