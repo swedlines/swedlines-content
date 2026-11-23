@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-23T08:46:03+01:00",
+  "generated_at": "2026-11-23T09:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b3028d08ea03",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3UzY0TvFI8ZPQbzRlB3Nad/spaghetti-allassassina-med-burrata",
+      "guid": "3UzY0TvFI8ZPQbzRlB3Nad",
+      "published_at": "2026-11-23T08:58:10+01:00",
+      "fetched_at": "2026-11-23T09:01:20+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Mat"
+      ],
+      "sv": {
+        "title": "Spaghetti all’assassina med burrata",
+        "summary": "Dagens middagstips bjuder på en rätt där spaghettin får koka färdigt i het tomatbuljong direkt i pannan och blir kryddig, djup och lätt bränd i kanterna. Toppa med gyllene, krispigt pangrattato med persilja och parmesan, och med en hemgjord burrata för en komplett middag. Se Siri Barjes recept",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Spaghetti all'assassina with burrata",
+        "summary": "Today's dinner tip is a dish where the spaghetti is finished cooking in hot tomato broth directly in the pan, becoming spicy, deep and lightly charred at the edges. Top with golden, crispy pangrattato with parsley and parmesan, and with homemade burrata for a complete dinner. See Siri Barje's recipe"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T09:01:26+01:00"
+      }
+    },
     {
       "id": "a9ab00fb5f8c",
       "schema_version": 1,
@@ -5701,33 +5730,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T06:31:13+01:00"
-      }
-    },
-    {
-      "id": "167975bdb250",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/you-can-see-everything-den-stirrande-blicken-blev-viral-men-filmen-ar-lika-manipulativ",
-      "guid": "0966bdf5-1bd9-47aa-b90b-43b9676a4c97",
-      "published_at": "2026-11-20T06:00:00+01:00",
-      "fetched_at": "2026-11-20T06:01:18+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/dbbcc117-e84b-4cf6-9ac9-bcf7b19ce479.jpeg?width=600",
-      "sv": {
-        "title": "”You can see everything”: Den stirrande blicken blev viral – men filmen är lika manipulativ",
-        "summary": "Dokumentären om Silicon Valley-bedragaren Elizabeth Holmes har blivit årets mest otippade succé. Men Oscar Westerholm är inte imponerad.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "”You can see everything”: The staring gaze went viral – but the film is just as manipulative",
-        "summary": "The documentary about Silicon Valley fraudster Elizabeth Holmes has become this year's most unexpected success. But Oscar Westerholm is not impressed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:01:34+01:00"
       }
     }
   ]

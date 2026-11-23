@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T08:46:03+01:00",
+  "generated_at": "2026-11-23T09:01:26+01:00",
   "count": 200,
   "items": [
     {
@@ -128,6 +128,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T08:01:25+01:00"
+      }
+    },
+    {
+      "id": "c70a5b9fa6f4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/8PmAKA/lastbil-olycka-star-i-fel-riktning-pa-e4",
+      "guid": "https://www.aftonbladet.se/nyheter/a/8PmAKA/lastbil-olycka-star-i-fel-riktning-pa-e4?utm_medium=rss",
+      "published_at": "2026-11-23T07:27:23+01:00",
+      "fetched_at": "2026-11-23T09:01:19+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/f260058d-a646-3023-ad74-bb0c6004f0c0?format=auto&s=18d32a030c264a0527fac29b78a79add847c51a9&w=1000",
+      "sv": {
+        "title": "Lastbil i olycka – står i fel riktning på E4",
+        "summary": "Flera olyckor under morgonen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Truck in accident – facing the wrong way on the E4",
+        "summary": "Several accidents during the morning"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T09:01:26+01:00"
       }
     },
     {
@@ -5422,43 +5449,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T20:31:09+01:00"
-      }
-    },
-    {
-      "id": "8d50ffbaf5bd",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/sahlgrenska-tvingas-betala-tillbaka-41-miljoner-skulle-gatt-till-cancerforskning.29bc03d1-6911-57cc-a6e8-a4e2a8a301f6",
-      "guid": "29bc03d1-6911-57cc-a6e8-a4e2a8a301f6",
-      "published_at": "2026-11-18T20:22:21+01:00",
-      "fetched_at": "2026-11-18T20:45:48+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: Samhällsredaktionen",
-        "Tagg: Socialstyrelsen",
-        "Tagg: Sahlgrenska universitetssjukhuset",
-        "Tagg: Myndigheter",
-        "Tagg: Cancer",
-        "Tagg: Läkemedel",
-        "Tagg: Vård"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/3fb89170-ddfb-3fda-9f1f-9f923b7dee28",
-      "sv": {
-        "title": "Sahlgrenska tvingas betala tillbaka 41 miljoner",
-        "summary": "Enligt Socialstyrelsen har sjukhuset inte använt statsbidraget på rätt sätt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sahlgrenska forced to repay 41 million",
-        "summary": "According to the National Board of Health and Welfare, the hospital has not used the state grant correctly."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T20:46:01+01:00"
       }
     }
   ]

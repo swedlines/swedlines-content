@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T08:46:03+01:00",
+  "generated_at": "2026-11-23T09:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "52dd0d86683b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/ukraina-sankte-rysk-korvett-i-libysk-hamn",
+      "guid": "2d40ca0a-0ec5-46f9-843a-dc0a0e146ead",
+      "published_at": "2026-11-23T09:00:43+01:00",
+      "fetched_at": "2026-11-23T09:01:22+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/69369d52-c84f-4eec-ab9b-54a7fd6d12f8.jpg?width=600",
+      "sv": {
+        "title": "Ukraina sänkte rysk korvett i libysk hamn",
+        "summary": "En rysk korvett har sänkts i Libyen, i en hamn kontrollerad av Rysslandsstödda styrkor. Ukraina tar på sig ansvaret. Farhågor väcks om att kriget i Europa spiller över i en konflikt på en annan kontinent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ukraine sank Russian corvette in Libyan port",
+        "summary": "A Russian corvette has been sunk in Libya, in a port controlled by Russia-backed forces. Ukraine takes responsibility. Concerns are raised that the war in Europe is spilling over into a conflict on another continent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T09:01:26+01:00"
+      }
+    },
     {
       "id": "318bc334398c",
       "schema_version": 1,
@@ -5243,33 +5270,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T21:15:59+01:00"
-      }
-    },
-    {
-      "id": "0e8efb6f9283",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/derbyforlust-for-lugi-och-negativa-sviten-vaxer",
-      "guid": "826cbf95-598b-497c-861b-7197e3970c08",
-      "published_at": "2026-11-19T20:33:25+01:00",
-      "fetched_at": "2026-11-19T20:45:55+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/ae6932f2-8cf3-43d2-bc3e-be728b2cdc0c.jpeg?width=600",
-      "sv": {
-        "title": "Derbyförlust för Lugi – och negativa sviten växer",
-        "summary": "Lugi negativa svit är uppe i tio raka matcher utan seger. Skånederbyt mot IFK Kristianstad slutade 36–40.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lugi lose derby – and losing streak grows",
-        "summary": "Lugi's losing streak is now ten straight matches without a win. The Skåne derby against IFK Kristianstad ended 36–40."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T20:45:59+01:00"
       }
     }
   ]

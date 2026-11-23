@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T08:46:03+01:00",
+  "generated_at": "2026-11-23T09:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "543a0ce18861",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/fotboll/siriusstjarnan-melker-heier-hyllas-i-en-lat-chock",
+      "guid": "https://www.svt.se/sport/fotboll/siriusstjarnan-melker-heier-hyllas-i-en-lat-chock",
+      "published_at": "2026-11-23T08:56:05+01:00",
+      "fetched_at": "2026-11-23T09:01:17+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Siriusstjärnan Melker Heier hyllas – i en låt: ”Chock”",
+        "summary": "På något sätt är han nu förevigad i Uppsala. Sirius kugge Melker Heier, 25, hyllas i en ny låt. – Det var som en chock, säger han till SVT Sport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Siriusstjärnan Melker Heier honoured – in a song: \"Chock\"",
+        "summary": "In some way he is now immortalised in Uppsala. Sirius cog Melker Heier, 25, is honoured in a new song. – It was like a shock, he tells SVT Sport."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T09:01:26+01:00"
+      }
+    },
     {
       "id": "6e5517119946",
       "schema_version": 1,
@@ -5606,33 +5632,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T20:01:26+01:00"
-      }
-    },
-    {
-      "id": "d641107db7de",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/mff-forwarden-som-vraker-in-mal-vantar-fortfarande-pa-chansen",
-      "guid": "96b01242-7515-48f7-85c0-6e936a4f2506",
-      "published_at": "2026-11-17T17:00:00+01:00",
-      "fetched_at": "2026-11-17T17:01:20+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/9fabe256-a7e6-497e-b9fc-3988fb7d2904.jpeg?width=600",
-      "sv": {
-        "title": "MFF-forwarden som vräker in mål – väntar fortfarande på chansen",
-        "summary": "Malmö FF:s yttrar har haft svårt att producera poäng de senaste månaderna. I truppen finns dock en 19-årig forward som vräker in mål och assist från sin högerkant. – Det hade varit jättekul att få spela, säger Antonio Palac.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The MFF forward who scores goals – still waiting for his chance",
-        "summary": "Malmö FF's forwards have struggled to produce points in recent months. However, the squad includes a 19-year-old forward who scores goals and assists from his right wing. – It would have been really fun to get to play, says Antonio Palac."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:01:25+01:00"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T08:46:03+01:00",
+  "generated_at": "2026-11-23T09:01:26+01:00",
   "count": 200,
   "items": [
     {
@@ -81,6 +81,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T08:01:25+01:00"
+      }
+    },
+    {
+      "id": "c70a5b9fa6f4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/8PmAKA/lastbil-olycka-star-i-fel-riktning-pa-e4",
+      "guid": "https://www.aftonbladet.se/nyheter/a/8PmAKA/lastbil-olycka-star-i-fel-riktning-pa-e4?utm_medium=rss",
+      "published_at": "2026-11-23T07:27:23+01:00",
+      "fetched_at": "2026-11-23T09:01:19+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/f260058d-a646-3023-ad74-bb0c6004f0c0?format=auto&s=18d32a030c264a0527fac29b78a79add847c51a9&w=1000",
+      "sv": {
+        "title": "Lastbil i olycka – står i fel riktning på E4",
+        "summary": "Flera olyckor under morgonen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Truck in accident – facing the wrong way on the E4",
+        "summary": "Several accidents during the morning"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T09:01:26+01:00"
       }
     },
     {
@@ -5349,33 +5376,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T22:15:56+01:00"
-      }
-    },
-    {
-      "id": "8d75466c5a98",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/0vnOWg/vill-se-stopp-for-okand-klimatvarsting",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/0vnOWg/vill-se-stopp-for-okand-klimatvarsting?utm_medium=rss",
-      "published_at": "2026-11-19T21:45:20+01:00",
-      "fetched_at": "2026-11-20T11:15:46+01:00",
-      "category": "science_tech",
-      "image_url": "https://akamai.vgc.no/v2/images/987eac52-a377-3c75-a81e-566e63b5a294?format=auto&s=ddcd8082566f1eba47f58dc81365bed5999b561d&w=1000",
-      "sv": {
-        "title": "Vill se stopp för okänd klimatvärsting",
-        "summary": "COP31 ”Hade inte hört talas om den”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Wants to stop unknown climate villain",
-        "summary": "COP31 \"Had not heard of it\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:15:54+01:00"
       }
     }
   ]
