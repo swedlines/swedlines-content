@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-23T23:01:18+01:00",
+  "generated_at": "2026-11-23T23:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "06e819e01c4e",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/orgryte-is/ois-reste-sig-efter-fansens-ilska-horde-det.8e2b690d-7a7e-5308-8a65-d044d397ac59",
+      "guid": "8e2b690d-7a7e-5308-8a65-d044d397ac59",
+      "published_at": "2026-11-23T22:51:07+01:00",
+      "fetched_at": "2026-11-23T23:15:44+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Örgryte IS",
+        "Tagg: Örgryte IS",
+        "Tagg: Öis"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/28cfd2df-dd6f-3b77-8a67-e2721c296e42",
+      "sv": {
+        "title": "Öis vändning – efter fansens ilska: ”Hörde det”",
+        "summary": "Örgryte svarade upp på missnöjet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Öis turnaround – after fan anger: ”Heard that”",
+        "summary": "Örgryte responded to the discontent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T23:15:50+01:00"
+      }
+    },
     {
       "id": "9dc2514e8378",
       "schema_version": 1,
@@ -5599,33 +5631,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T14:15:54+01:00"
-      }
-    },
-    {
-      "id": "09ff0774f87e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/drombesked-fran-malmoarrangorer-arets-julklapp-finns-kvar",
-      "guid": "ca32a75e-8b4a-4a74-a00d-0bb174b38df3",
-      "published_at": "2026-11-18T14:00:00+01:00",
-      "fetched_at": "2026-11-18T14:01:15+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/163bd114-fe77-47de-b4ee-dd66719345d0.jpeg?width=600",
-      "sv": {
-        "title": "Drömbesked från Malmöarrangörer – årets julklapp finns kvar",
-        "summary": "Ett startnummer till ett motionslopp är årets julklapp. Men medan Stockholm maraton och Göteborgsvarvet är slutsålda sedan länge kan arrangörer för Malmölopp komma med lugnande besked – det finns många platser kvar.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Dream news from Malmö organisers – the year's Christmas present still available",
-        "summary": "A race bib for a fun run is this year's Christmas present. But while the Stockholm Marathon and the Göteborgsvarvet are long sold out, organisers for Malmö races can offer reassuring news – there are many places left."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T14:01:21+01:00"
       }
     }
   ]

@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-23T23:01:18+01:00",
+  "generated_at": "2026-11-23T23:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bd77be789e1d",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80233",
+      "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80233&utm_medium=rss",
+      "published_at": "2026-11-23T23:10:38+01:00",
+      "fetched_at": "2026-11-23T23:15:43+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C återupptar förhandlingar med högerpartierna"
+      },
+      "en": {
+        "title": "C resumes talks with the right-wing parties"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T23:15:50+01:00"
+      }
+    },
     {
       "id": "8080a111304c",
       "schema_version": 1,
@@ -5225,32 +5248,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:45:52+01:00"
-      }
-    },
-    {
-      "id": "6cf398bae0fb",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/JnowV6/polisen-utreder-misstankt-dataintrang-hos-taxibolag",
-      "guid": "https://www.svd.se/a/JnowV6/polisen-utreder-misstankt-dataintrang-hos-taxibolag?utm_medium=rss",
-      "published_at": "2026-11-20T16:20:46+01:00",
-      "fetched_at": "2026-11-20T16:31:04+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisen utreder misstänkt dataintrång hos taxibolag",
-        "summary": "Polisen utreder ett misstänkt dataintrång mot taxibolag. Enligt uppgifter till TT rör intrånget…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police investigate suspected data breach at taxi company",
-        "summary": "Police are investigating a suspected data breach at a taxi company. According to information to TT, the breach concerns…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:31:12+01:00"
       }
     }
   ]
