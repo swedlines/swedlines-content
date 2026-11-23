@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T14:16:07+01:00",
+  "generated_at": "2026-11-23T14:31:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "43db1bdbefb2",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/aGw9WL/over-20-doda-i-utbrunnen-godisfabrik",
+      "guid": "https://www.aftonbladet.se/nyheter/a/aGw9WL/over-20-doda-i-utbrunnen-godisfabrik?utm_medium=rss",
+      "published_at": "2026-11-23T14:18:05+01:00",
+      "fetched_at": "2026-11-23T14:30:56+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/44eace97-0902-3936-b2b8-044745a9c918?format=auto&s=126eab7ec03583a2ec485ed84efd55753f0d5b79&w=1000",
+      "sv": {
+        "title": "Över 20 döda i utbrunnen godisfabrik",
+        "summary": "En omfattande brand i en godisfabrik i Indonesien har skördat över 20 människoliv.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Over 20 dead in burned-out candy factory",
+        "summary": "A massive fire at a candy factory in Indonesia has killed more than 20 people."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T14:31:03+01:00"
+      }
+    },
     {
       "id": "43cf34034041",
       "schema_version": 1,
@@ -5346,32 +5373,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T21:01:22+01:00"
-      }
-    },
-    {
-      "id": "e88e8309ba64",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ez8R2R/medier-ryssland-hyrde-danskar-for-mord-pa-rappare",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ez8R2R/medier-ryssland-hyrde-danskar-for-mord-pa-rappare?utm_medium=rss",
-      "published_at": "2026-11-20T11:42:02+01:00",
-      "fetched_at": "2026-11-20T11:45:50+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Medier: Ryssland hyrde danskar för mord på rappare",
-        "summary": "Två danska män misstänks ha anlitats av Ryssland för att mörda en ukrainsk artist i samband med en…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Media: Russia hired Danes to murder rapper",
-        "summary": "Two Danish men are suspected of having been hired by Russia to murder a Ukrainian artist in connection with a…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:45:57+01:00"
       }
     }
   ]
