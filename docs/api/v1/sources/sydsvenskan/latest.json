@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-23T16:16:03+01:00",
+  "generated_at": "2026-11-23T16:29:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0022c9407796",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/vellinge/bilist-krockade-in-i-varningsbil-pa-e6-har-nog-varit-en-rejal-small",
+      "guid": "c042ace4-6b8b-4818-af12-ee49dfcb44fb",
+      "published_at": "2026-11-23T16:28:30+01:00",
+      "fetched_at": "2026-11-23T16:29:13+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/5470915b-df2f-4d16-97a9-9b575fc6a9e2.jpeg?width=600",
+      "sv": {
+        "title": "Bilist krockade in i varningsbil på E6 – \"Har nog varit en rejäl smäll\"",
+        "summary": "En personbil har kört in i en TMA-bil på E6 söder om Håslöv, i norrgående riktning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Motorist crashes into warning vehicle on E6 – \"Must have been a real bang\"",
+        "summary": "A passenger car has driven into a TMA vehicle on the E6 south of Håslöv, in the northbound direction."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:29:18+01:00"
+      }
+    },
+    {
+      "id": "ebecdf7c3409",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/mff-bygger-om-vem-overlever-trupprensningen",
+      "guid": "f7f1decd-d794-418d-8484-c89a11d61484",
+      "published_at": "2026-11-23T16:21:32+01:00",
+      "fetched_at": "2026-11-23T16:29:13+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "MFF bygger om – vem överlever trupprensningen?",
+        "summary": "Malmö FF behöver bygga om spelartruppen för att ta sig tillbaka till den allsvenska toppen. Vilka spelare kommer Helstrups lagbygge vila på – och vilka kommer skeppas? Vi pratar också om flyttryktena kring Hakšabanović och poängen på Listerlandet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "MFF rebuilds – who survives the squad purge?",
+        "summary": "Malmö FF needs to rebuild its squad to return to the top of the Allsvenskan. Which players will Helstrup's team-building rest on – and who will be shipped out? We also discuss transfer rumours surrounding Hakšabanović and the point won at Listerlandet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:29:18+01:00"
+      }
+    },
     {
       "id": "2d9baf2ec4f9",
       "schema_version": 1,
@@ -5222,56 +5275,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T10:16:00+01:00"
-      }
-    },
-    {
-      "id": "04b2abcfb336",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/skanederbyt-blev-radiorostens-sista-match",
-      "guid": "07632309-89be-4144-9cf3-111928f096d8",
-      "published_at": "2026-11-20T09:54:37+01:00",
-      "fetched_at": "2026-11-20T10:01:12+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Skånederbyt blev radioröstens sista match"
-      },
-      "en": {
-        "title": "The Skåne derby became radio voice's last match"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T10:01:18+01:00"
-      }
-    },
-    {
-      "id": "21094792f7c8",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/the-strokes-klara-for-way-out-west",
-      "guid": "bbcc3337-01b6-4f67-9bea-ee649f269a44",
-      "published_at": "2026-11-20T09:05:31+01:00",
-      "fetched_at": "2026-11-20T09:15:48+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/eda08c27-1851-4444-b853-6c2db6fa2272.jpg?width=600",
-      "sv": {
-        "title": "The Strokes klara för Way Out West",
-        "summary": "New York-bandet The Strokes kommer till Sverige och Way Out West nästa sommar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Strokes confirmed for Way Out West",
-        "summary": "New York band The Strokes is coming to Sweden and Way Out West next summer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T09:15:53+01:00"
       }
     }
   ]

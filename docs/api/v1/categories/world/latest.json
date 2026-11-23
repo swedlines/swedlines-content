@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-23T16:16:03+01:00",
+  "generated_at": "2026-11-23T16:29:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0002d457fd97",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348432",
+      "guid": "rss:sr.se/article/9348432",
+      "published_at": "2026-11-23T16:24:00+01:00",
+      "fetched_at": "2026-11-23T16:29:09+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ukrainska sjödrönare sänkte rysk korvett i Libyen",
+        "summary": "Ukrainas president Volodymyr Zelenskyj uppger att landets styrkor sänkt den ryska korvetten Merkury i Benghazi i Libyen med hjälp av sjödrönare. Satellitbilder visar fartyget delvis under vatten vid kajen. En rysk Ka-27-helikopter förstördes också och ett fraktfartyg skadades.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ukrainian sea drones sank Russian corvette in Libya",
+        "summary": "Ukrainian President Volodymyr Zelenskyy says the country's forces sank the Russian corvette Merkury in Benghazi, Libya, using sea drones. Satellite images show the vessel partly underwater at the quay. A Russian Ka-27 helicopter was also destroyed and a cargo ship was damaged."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:29:18+01:00"
+      }
+    },
+    {
+      "id": "f59adc00045f",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdP2kM/uppgifter-tre-doda-i-israelisk-attack-mot-gaza",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdP2kM/uppgifter-tre-doda-i-israelisk-attack-mot-gaza?utm_medium=rss",
+      "published_at": "2026-11-23T16:22:41+01:00",
+      "fetched_at": "2026-11-23T16:29:11+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgifter: Tre döda i israelisk attack mot Gaza",
+        "summary": "Minst tre personer rapporteras ha dödats och flera skadats i ett israeliskt flyganfall mot staden…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Three dead in Israeli attack on Gaza",
+        "summary": "At least three people are reported killed and several injured in an Israeli airstrike on the city…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:29:18+01:00"
+      }
+    },
     {
       "id": "2d9baf2ec4f9",
       "schema_version": 1,
@@ -5333,55 +5385,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T15:45:49+01:00"
-      }
-    },
-    {
-      "id": "0f294a1b8b6a",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bae9cf29-4c91-436e-b621-a3f35e7af7bd",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bae9cf29-4c91-436e-b621-a3f35e7af7bd",
-      "published_at": "2026-11-21T15:10:30+01:00",
-      "fetched_at": "2026-11-21T15:15:43+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Rysk helikopter har kränkt finskt luftrum",
-        "summary": "Kränkt luftrummet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russian helicopter has violated Finnish airspace",
-        "summary": "Violated airspace"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T15:15:47+01:00"
-      }
-    },
-    {
-      "id": "883622266ffc",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80157",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80157&utm_medium=rss",
-      "published_at": "2026-11-21T14:57:46+01:00",
-      "fetched_at": "2026-11-21T15:01:09+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Rysk helikopter har kränkt finländskt luftrum"
-      },
-      "en": {
-        "title": "Russian helicopter violated Finnish airspace"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T15:01:15+01:00"
       }
     }
   ]

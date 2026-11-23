@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T16:16:03+01:00",
+  "generated_at": "2026-11-23T16:29:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0002d457fd97",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348432",
+      "guid": "rss:sr.se/article/9348432",
+      "published_at": "2026-11-23T16:24:00+01:00",
+      "fetched_at": "2026-11-23T16:29:09+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ukrainska sjödrönare sänkte rysk korvett i Libyen",
+        "summary": "Ukrainas president Volodymyr Zelenskyj uppger att landets styrkor sänkt den ryska korvetten Merkury i Benghazi i Libyen med hjälp av sjödrönare. Satellitbilder visar fartyget delvis under vatten vid kajen. En rysk Ka-27-helikopter förstördes också och ett fraktfartyg skadades.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ukrainian sea drones sank Russian corvette in Libya",
+        "summary": "Ukrainian President Volodymyr Zelenskyy says the country's forces sank the Russian corvette Merkury in Benghazi, Libya, using sea drones. Satellite images show the vessel partly underwater at the quay. A Russian Ka-27 helicopter was also destroyed and a cargo ship was damaged."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:29:18+01:00"
+      }
+    },
     {
       "id": "d963addcc6c7",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T19:31:23+01:00"
-      }
-    },
-    {
-      "id": "75514642a8d2",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344746",
-      "guid": "rss:sr.se/article/9344746",
-      "published_at": "2026-11-17T19:07:00+01:00",
-      "fetched_at": "2026-11-17T19:15:42+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Uppgifter: Topphemligt nätverk i USA ligger nere",
-        "summary": "Ett hemligt nätverk för intern kommunikation på USA:s myndighet för nationell säkerhet (NSA) ska ligga nere, enligt källor till CNN. Nätverket uppges användas av anställda vid NSA för att kommunicera hemligstämplad information internt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Reports: Top-secret network in the US is down",
-        "summary": "A secret network for internal communication at the US National Security Agency (NSA) is reportedly down, according to sources speaking to CNN. The network is said to be used by NSA employees to communicate classified information internally."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:15:50+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T16:16:03+01:00",
+  "generated_at": "2026-11-23T16:29:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a2c889a0e6aa",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/v-distriktens-besked-efter-ledningens-diss-mot-s-budet",
+      "guid": "https://www.expressen.se/nyheter/politik/v-distriktens-besked-efter-ledningens-diss-mot-s-budet/",
+      "published_at": "2026-11-23T16:18:23+01:00",
+      "fetched_at": "2026-11-23T16:29:11+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "V-distriktens besked efter ledningens diss mot S-budet",
+        "summary": "Med sakpolitiska förslag och löften om inflytande hoppas S få med sig Vänstern. Men i partidistrikten runtom i landet är stödet för V-ledningens nej kompakt. – Väldigt tondöv, säger Lage Jonbrant i Jämtland-Härjedalen om Magdalena Anderssons drag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "District branches' response after leadership's snub of the S offer",
+        "summary": "With policy proposals and promises of influence, the Social Democrats hope to bring the Left along. But in party districts across the country, support for the V leadership's no is solid. – Very tone-deaf, says Lage Jonbrant in Jämtland-Härjedalen about Magdalena Andersson's move."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:29:18+01:00"
+      }
+    },
     {
       "id": "b35fff95b62a",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T06:45:50+01:00"
-      }
-    },
-    {
-      "id": "c1f2b69a572e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/svarsonen-om--putin-bekvam-med-garantier",
-      "guid": "https://www.expressen.se/nyheter/varlden/svarsonen-om--putin-bekvam-med-garantier/",
-      "published_at": "2026-11-20T06:24:55+01:00",
-      "fetched_at": "2026-11-20T06:30:58+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Svärsonen om Putin: ”Bekväm med garantier”",
-        "summary": "Putins Ryssland är ”bekvämt” med tanken på Natoliknande säkerhetsgarantier för Ukraina, enligt Trumps svärson tillika sändebud Jared Kushner. Men oron stiger bland europeiska ledare när Trump kallar Putin ”min vän” och beskriver Zelenskyjs Ukraina som ”den andra sidan”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Son-in-law on Putin: “Comfortable with guarantees”",
-        "summary": "Putin's Russia is “comfortable” with the idea of NATO-like security guarantees for Ukraine, according to Trump's son-in-law and envoy Jared Kushner. But concern is rising among European leaders as Trump calls Putin “my friend” and describes Zelenskyy's Ukraine as “the other side”."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:31:13+01:00"
       }
     }
   ]

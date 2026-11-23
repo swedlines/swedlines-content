@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T16:16:03+01:00",
+  "generated_at": "2026-11-23T16:29:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ebecdf7c3409",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/mff-bygger-om-vem-overlever-trupprensningen",
+      "guid": "f7f1decd-d794-418d-8484-c89a11d61484",
+      "published_at": "2026-11-23T16:21:32+01:00",
+      "fetched_at": "2026-11-23T16:29:13+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "MFF bygger om – vem överlever trupprensningen?",
+        "summary": "Malmö FF behöver bygga om spelartruppen för att ta sig tillbaka till den allsvenska toppen. Vilka spelare kommer Helstrups lagbygge vila på – och vilka kommer skeppas? Vi pratar också om flyttryktena kring Hakšabanović och poängen på Listerlandet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "MFF rebuilds – who survives the squad purge?",
+        "summary": "Malmö FF needs to rebuild its squad to return to the top of the Allsvenskan. Which players will Helstrup's team-building rest on – and who will be shipped out? We also discuss transfer rumours surrounding Hakšabanović and the point won at Listerlandet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:29:18+01:00"
+      }
+    },
     {
       "id": "bb60fef700f9",
       "schema_version": 1,
@@ -5599,33 +5625,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T00:15:51+01:00"
-      }
-    },
-    {
-      "id": "94cbd8b7e1c7",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/norge-till-slutspel-haaland-straffade-danmark",
-      "guid": "cfa5ad1b-e42b-4bb3-8da4-8a15f15fe613",
-      "published_at": "2026-11-17T23:35:02+01:00",
-      "fetched_at": "2026-11-17T23:45:50+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/e8a48206-c4b5-435b-a89c-2b97a795a4ec.jpg?width=600",
-      "sv": {
-        "title": "Norge till slutspel – Haaland straffade Danmark",
-        "summary": "Danmark och Norge gjorde upp om en plats i Nations Leagues slutspel. Där drog Norge det längsta strået – tack vare ett straffmål av Erling Braut Haaland på övertid.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Norway into play-offs – Haaland scored penalty against Denmark",
-        "summary": "Denmark and Norway played for a place in the Nations League play-offs. Norway came out on top, thanks to a penalty goal by Erling Braut Haaland in added time."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T23:45:52+01:00"
       }
     }
   ]

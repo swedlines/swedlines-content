@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T16:16:03+01:00",
+  "generated_at": "2026-11-23T16:29:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0022c9407796",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/vellinge/bilist-krockade-in-i-varningsbil-pa-e6-har-nog-varit-en-rejal-small",
+      "guid": "c042ace4-6b8b-4818-af12-ee49dfcb44fb",
+      "published_at": "2026-11-23T16:28:30+01:00",
+      "fetched_at": "2026-11-23T16:29:13+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/5470915b-df2f-4d16-97a9-9b575fc6a9e2.jpeg?width=600",
+      "sv": {
+        "title": "Bilist krockade in i varningsbil på E6 – \"Har nog varit en rejäl smäll\"",
+        "summary": "En personbil har kört in i en TMA-bil på E6 söder om Håslöv, i norrgående riktning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Motorist crashes into warning vehicle on E6 – \"Must have been a real bang\"",
+        "summary": "A passenger car has driven into a TMA vehicle on the E6 south of Håslöv, in the northbound direction."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:29:18+01:00"
+      }
+    },
     {
       "id": "d981fa3ab0ac",
       "schema_version": 1,
@@ -5404,32 +5431,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T12:15:48+01:00"
-      }
-    },
-    {
-      "id": "b38d6b9d9ad0",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/ivo-beslut-efter-skandalen-med-barnhjartlakaren",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/ivo-beslut-efter-skandalen-med-barnhjartlakaren",
-      "published_at": "2026-11-19T11:56:08+01:00",
-      "fetched_at": "2026-11-19T12:01:12+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "IVO beslut efter skandalen med barnhjärtläkaren",
-        "summary": "Inspektionen för vård och omsorg har fattat beslut efter Region Jönköpings län anmälan om brister i vården kopplat till barnhjärtläkaren. IVO bedömer att regionen har sett till att inget liknande inträffar igen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "IVO decision after the scandal involving the paediatric cardiologist",
-        "summary": "The Health and Social Care Inspectorate (IVO) has made a decision following the Region Jönköping County's report on shortcomings in care linked to the paediatric cardiologist. IVO assesses that the region has ensured nothing similar will happen again."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T12:01:23+01:00"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:16:03+01:00",
+  "generated_at": "2026-11-23T16:29:21+01:00",
   "count": 30,
   "stories": [
     {
@@ -919,6 +919,118 @@
       ]
     },
     {
+      "id": "01e469789fba",
+      "source_count": 4,
+      "sources": [
+        "sr",
+        "di",
+        "sydsvenskan",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-23T05:07:00+01:00",
+      "last_published_at": "2026-11-23T16:24:00+01:00",
+      "lead": {
+        "id": "01e469789fba",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9347985",
+        "guid": "rss:sr.se/article/9347985",
+        "published_at": "2026-11-23T05:07:00+01:00",
+        "fetched_at": "2026-11-23T06:55:59+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Ryskt krigsfartyg sänkt av havsdrönare i Libyen",
+          "summary": "FN kräver en utredning och fördömer drönarattackerna utanför Benghazi i östra Libyen under söndagskvällen, rapporterar AFP. En av attackerna orsakade en explosion på ett ryskt krigsfartyg och tio personer skadades lindrigt, enligt lokala myndigheter.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Russian warship sunk by sea drone in Libya",
+          "summary": "The UN demands an investigation and condemns the drone attacks outside Benghazi in eastern Libya on Sunday evening, reports AFP. One of the attacks caused an explosion on a Russian warship and ten people were lightly injured, according to local authorities."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T06:56:48+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "0002d457fd97",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348432",
+          "published_at": "2026-11-23T16:24:00+01:00",
+          "sv": {
+            "title": "Ukrainska sjödrönare sänkte rysk korvett i Libyen"
+          },
+          "en": {
+            "title": "Ukrainian sea drones sank Russian corvette in Libya"
+          }
+        },
+        {
+          "id": "45b3e50b051a",
+          "source": "expressen",
+          "url": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-nya-krav-pa-nato",
+          "published_at": "2026-11-23T15:04:30+01:00",
+          "sv": {
+            "title": "Zelenskyjs krigskrav"
+          },
+          "en": {
+            "title": "Zelenskyy's war demands"
+          }
+        },
+        {
+          "id": "2c07e291ef75",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348166",
+          "published_at": "2026-11-23T11:25:00+01:00",
+          "sv": {
+            "title": "Zelenskyj: Ukraina bakom fartygsattack i Libyen"
+          },
+          "en": {
+            "title": "Zelenskyy: Ukraine behind ship attack in Libya"
+          }
+        },
+        {
+          "id": "52dd0d86683b",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/ukraina-sankte-rysk-korvett-i-libysk-hamn",
+          "published_at": "2026-11-23T09:00:43+01:00",
+          "sv": {
+            "title": "Ukraina sänkte rysk korvett i libysk hamn"
+          },
+          "en": {
+            "title": "Ukraine sank Russian corvette in Libyan port"
+          }
+        },
+        {
+          "id": "cc549e18b645",
+          "source": "di",
+          "url": "https://www.di.se/live/rysk-korvett-sankt-i-libysk-hamn",
+          "published_at": "2026-11-23T08:04:07+01:00",
+          "sv": {
+            "title": "Rysk korvett sänkt i libysk hamn"
+          },
+          "en": {
+            "title": "Russian corvette sunk in Libyan port"
+          }
+        },
+        {
+          "id": "01e469789fba",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9347985",
+          "published_at": "2026-11-23T05:07:00+01:00",
+          "sv": {
+            "title": "Ryskt krigsfartyg sänkt av havsdrönare i Libyen"
+          },
+          "en": {
+            "title": "Russian warship sunk by sea drone in Libya"
+          }
+        }
+      ]
+    },
+    {
       "id": "7da3bfad9511",
       "source_count": 4,
       "sources": [
@@ -928,7 +1040,7 @@
         "dn"
       ],
       "first_published_at": "2026-11-23T06:10:35+01:00",
-      "last_published_at": "2026-11-23T16:11:42+01:00",
+      "last_published_at": "2026-11-23T16:18:23+01:00",
       "lead": {
         "id": "7da3bfad9511",
         "schema_version": 1,
@@ -957,6 +1069,18 @@
         }
       },
       "items": [
+        {
+          "id": "a2c889a0e6aa",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/v-distriktens-besked-efter-ledningens-diss-mot-s-budet",
+          "published_at": "2026-11-23T16:18:23+01:00",
+          "sv": {
+            "title": "V-distriktens besked efter ledningens diss mot S-budet"
+          },
+          "en": {
+            "title": "District branches' response after leadership's snub of the S offer"
+          }
+        },
         {
           "id": "f6e2460e207b",
           "source": "aftonbladet",
@@ -1032,101 +1156,90 @@
       ]
     },
     {
-      "id": "01e469789fba",
+      "id": "efe14e07b5e1",
       "source_count": 4,
       "sources": [
-        "sr",
-        "di",
-        "sydsvenskan",
-        "expressen"
+        "aftonbladet",
+        "svd",
+        "dn",
+        "di"
       ],
-      "first_published_at": "2026-11-23T05:07:00+01:00",
-      "last_published_at": "2026-11-23T15:04:30+01:00",
+      "first_published_at": "2026-11-23T15:00:27+01:00",
+      "last_published_at": "2026-11-23T16:17:34+01:00",
       "lead": {
-        "id": "01e469789fba",
+        "id": "efe14e07b5e1",
         "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9347985",
-        "guid": "rss:sr.se/article/9347985",
-        "published_at": "2026-11-23T05:07:00+01:00",
-        "fetched_at": "2026-11-23T06:55:59+01:00",
-        "category": "world",
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/Pv9Jvb/jensen-huang-gor-comeback-som-vd",
+        "guid": "https://www.aftonbladet.se/nyheter/a/Pv9Jvb/jensen-huang-gor-comeback-som-vd?utm_medium=rss",
+        "published_at": "2026-11-23T15:00:27+01:00",
+        "fetched_at": "2026-11-23T15:31:05+01:00",
+        "category": "economy",
+        "image_url": "https://akamai.vgc.no/v2/images/a073ee57-f5d9-3243-b60d-f5eefef21489?format=auto&s=72a80629304ad65803884df3d5b90bb03e932482&w=1000",
         "sv": {
-          "title": "Ryskt krigsfartyg sänkt av havsdrönare i Libyen",
-          "summary": "FN kräver en utredning och fördömer drönarattackerna utanför Benghazi i östra Libyen under söndagskvällen, rapporterar AFP. En av attackerna orsakade en explosion på ett ryskt krigsfartyg och tio personer skadades lindrigt, enligt lokala myndigheter.",
-          "summary_origin": "truncated"
+          "title": "Jensen Huang gör comeback som vd",
+          "summary": "”Tillräckligt uppriktig” ✓Aktien rusar",
+          "summary_origin": "feed"
         },
         "en": {
-          "title": "Russian warship sunk by sea drone in Libya",
-          "summary": "The UN demands an investigation and condemns the drone attacks outside Benghazi in eastern Libya on Sunday evening, reports AFP. One of the attacks caused an explosion on a Russian warship and ten people were lightly injured, according to local authorities."
+          "title": "Jensen Huang makes comeback as CEO",
+          "summary": "“Sufficiently candid” ✓The stock soars"
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T06:56:48+01:00"
+          "translated_at": "2026-11-23T15:31:20+01:00"
         }
       },
       "items": [
         {
-          "id": "45b3e50b051a",
-          "source": "expressen",
-          "url": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-nya-krav-pa-nato",
-          "published_at": "2026-11-23T15:04:30+01:00",
-          "sv": {
-            "title": "Zelenskyjs krigskrav"
-          },
-          "en": {
-            "title": "Zelenskyy's war demands"
-          }
-        },
-        {
-          "id": "2c07e291ef75",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348166",
-          "published_at": "2026-11-23T11:25:00+01:00",
-          "sv": {
-            "title": "Zelenskyj: Ukraina bakom fartygsattack i Libyen"
-          },
-          "en": {
-            "title": "Zelenskyy: Ukraine behind ship attack in Libya"
-          }
-        },
-        {
-          "id": "52dd0d86683b",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/ukraina-sankte-rysk-korvett-i-libysk-hamn",
-          "published_at": "2026-11-23T09:00:43+01:00",
-          "sv": {
-            "title": "Ukraina sänkte rysk korvett i libysk hamn"
-          },
-          "en": {
-            "title": "Ukraine sank Russian corvette in Libyan port"
-          }
-        },
-        {
-          "id": "cc549e18b645",
+          "id": "916baa837735",
           "source": "di",
-          "url": "https://www.di.se/live/rysk-korvett-sankt-i-libysk-hamn",
-          "published_at": "2026-11-23T08:04:07+01:00",
+          "url": "https://www.di.se/nyheter/techanalytikern-fragor-kring-jensen-huang-aterstar",
+          "published_at": "2026-11-23T16:17:34+01:00",
           "sv": {
-            "title": "Rysk korvett sänkt i libysk hamn"
+            "title": "Techanalytikern: Frågor kring Jensen Huang återstår"
           },
           "en": {
-            "title": "Russian corvette sunk in Libyan port"
+            "title": "Tech analyst: Questions around Jensen Huang remain"
           }
         },
         {
-          "id": "01e469789fba",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9347985",
-          "published_at": "2026-11-23T05:07:00+01:00",
+          "id": "1f0e1e0fc9f4",
+          "source": "dn",
+          "url": "https://www.dn.se/ekonomi/linus-larsson-jensen-huang-kan-tacka-trump-for-jobbet",
+          "published_at": "2026-11-23T16:09:30+01:00",
           "sv": {
-            "title": "Ryskt krigsfartyg sänkt av havsdrönare i Libyen"
+            "title": "Linus Larsson: Jensen Huang kan tacka Trump för jobbet"
           },
           "en": {
-            "title": "Russian warship sunk by sea drone in Libya"
+            "title": "Linus Larsson: Jensen Huang can thank Trump for the job"
+          }
+        },
+        {
+          "id": "13db2a60bdc0",
+          "source": "svd",
+          "url": "https://www.svd.se/a/vkQ2zB/huang-tillbaka-efter-skandalerna-detta-har-hant",
+          "published_at": "2026-11-23T15:53:35+01:00",
+          "sv": {
+            "title": "Huang tillbaka efter skandalerna – detta har hänt"
+          },
+          "en": {
+            "title": "Huang back after the scandals – here is what happened"
+          }
+        },
+        {
+          "id": "efe14e07b5e1",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Pv9Jvb/jensen-huang-gor-comeback-som-vd",
+          "published_at": "2026-11-23T15:00:27+01:00",
+          "sv": {
+            "title": "Jensen Huang gör comeback som vd"
+          },
+          "en": {
+            "title": "Jensen Huang makes comeback as CEO"
           }
         }
       ]
@@ -1586,77 +1699,88 @@
       ]
     },
     {
-      "id": "efe14e07b5e1",
+      "id": "ea15ee9d0fc4",
       "source_count": 3,
       "sources": [
-        "aftonbladet",
-        "svd",
+        "expressen",
+        "sr",
         "dn"
       ],
-      "first_published_at": "2026-11-23T15:00:27+01:00",
-      "last_published_at": "2026-11-23T16:09:30+01:00",
+      "first_published_at": "2026-11-23T11:10:25+01:00",
+      "last_published_at": "2026-11-23T16:24:21+01:00",
       "lead": {
-        "id": "efe14e07b5e1",
+        "id": "ea15ee9d0fc4",
         "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/Pv9Jvb/jensen-huang-gor-comeback-som-vd",
-        "guid": "https://www.aftonbladet.se/nyheter/a/Pv9Jvb/jensen-huang-gor-comeback-som-vd?utm_medium=rss",
-        "published_at": "2026-11-23T15:00:27+01:00",
-        "fetched_at": "2026-11-23T15:31:05+01:00",
-        "category": "economy",
-        "image_url": "https://akamai.vgc.no/v2/images/a073ee57-f5d9-3243-b60d-f5eefef21489?format=auto&s=72a80629304ad65803884df3d5b90bb03e932482&w=1000",
+        "source": "expressen",
+        "url": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
+        "guid": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
+        "published_at": "2026-11-23T11:10:25+01:00",
+        "fetched_at": "2026-11-23T11:15:46+01:00",
+        "category": "other",
         "sv": {
-          "title": "Jensen Huang gör comeback som vd",
-          "summary": "”Tillräckligt uppriktig” ✓Aktien rusar",
+          "title": "JUST NU: Startbud, slutbud, skambud?",
+          "summary": "Expressens ”Politikrummet” live om regeringskaoset",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Jensen Huang makes comeback as CEO",
-          "summary": "“Sufficiently candid” ✓The stock soars"
+          "title": "JUST NOW: Starting bid, final bid, shame bid?",
+          "summary": "Expressen's live “Politikrummet” on the government chaos"
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T15:31:20+01:00"
+          "translated_at": "2026-11-23T11:15:59+01:00"
         }
       },
       "items": [
         {
-          "id": "1f0e1e0fc9f4",
+          "id": "75c1e3938cfa",
           "source": "dn",
-          "url": "https://www.dn.se/ekonomi/linus-larsson-jensen-huang-kan-tacka-trump-for-jobbet",
-          "published_at": "2026-11-23T16:09:30+01:00",
+          "url": "https://www.dn.se/podd/alskade-politik/pangbud-eller-skambud-har-ar-dadgostars-dilemma",
+          "published_at": "2026-11-23T16:24:21+01:00",
           "sv": {
-            "title": "Linus Larsson: Jensen Huang kan tacka Trump för jobbet"
+            "title": "Pangbud eller skambud – här är Dadgostars dilemma"
           },
           "en": {
-            "title": "Linus Larsson: Jensen Huang can thank Trump for the job"
+            "title": "Pang offer or insult offer – here is Dadgostar's dilemma"
           }
         },
         {
-          "id": "13db2a60bdc0",
-          "source": "svd",
-          "url": "https://www.svd.se/a/vkQ2zB/huang-tillbaka-efter-skandalerna-detta-har-hant",
-          "published_at": "2026-11-23T15:53:35+01:00",
+          "id": "41749b70d161",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348271",
+          "published_at": "2026-11-23T13:18:00+01:00",
           "sv": {
-            "title": "Huang tillbaka efter skandalerna – detta har hänt"
+            "title": "Vänsterpartister sluter upp bakom ledningens nej till startpaketet"
           },
           "en": {
-            "title": "Huang back after the scandals – here is what happened"
+            "title": "Left Party members back leadership's no to starter package"
           }
         },
         {
-          "id": "efe14e07b5e1",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Pv9Jvb/jensen-huang-gor-comeback-som-vd",
-          "published_at": "2026-11-23T15:00:27+01:00",
+          "id": "0b80efc311f8",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/har-ar-startpaketet-till-v-fran-s-c-och-mp",
+          "published_at": "2026-11-23T11:48:28+01:00",
           "sv": {
-            "title": "Jensen Huang gör comeback som vd"
+            "title": "Här är ”startpaketet” till V – från S, C och MP"
           },
           "en": {
-            "title": "Jensen Huang makes comeback as CEO"
+            "title": "Here is the \"starter package\" for the Left Party – from the Social Democrats, the Centre Party and the Green Party"
+          }
+        },
+        {
+          "id": "ea15ee9d0fc4",
+          "source": "expressen",
+          "url": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
+          "published_at": "2026-11-23T11:10:25+01:00",
+          "sv": {
+            "title": "JUST NU: Startbud, slutbud, skambud?"
+          },
+          "en": {
+            "title": "JUST NOW: Starting bid, final bid, shame bid?"
           }
         }
       ]
@@ -2301,6 +2425,75 @@
       ]
     },
     {
+      "id": "28a81f6d495b",
+      "source_count": 2,
+      "sources": [
+        "gp",
+        "di"
+      ],
+      "first_published_at": "2026-11-23T11:34:37+01:00",
+      "last_published_at": "2026-11-23T16:21:19+01:00",
+      "lead": {
+        "id": "28a81f6d495b",
+        "schema_version": 1,
+        "source": "gp",
+        "url": "https://www.gp.se/nyheter/varlden/uppgifter-ryssland-planerar-karnvapen-i-rymden.729fc4d0-7d49-5310-8583-883af3fd637c",
+        "guid": "729fc4d0-7d49-5310-8583-883af3fd637c",
+        "published_at": "2026-11-23T11:34:37+01:00",
+        "fetched_at": "2026-11-23T11:45:44+01:00",
+        "category": "world",
+        "feed_categories": [
+          "Världen",
+          "Tagg: Kärnvapen",
+          "Tagg: Rymden",
+          "Tagg: Uppdatera mig - BEHOV"
+        ],
+        "image_url": "https://vcdn.polarismedia.no/324deb22-0a4c-34d4-9279-ad7fdf601b10",
+        "sv": {
+          "title": "Uppgifter: Ryssland kan snart ha kärnvapen i rymden",
+          "summary": "Västliga underrättelsetjänster tror att Vladimir Putin planerar att skjuta upp en satellit med känvapen i december, rapporterar tyska medier.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Reports: Russia may soon have nuclear weapons in space",
+          "summary": "Western intelligence services believe Vladimir Putin plans to launch a satellite carrying nuclear weapons in December, German media report."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T11:45:51+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "0bd7c5433808",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/underrattelsetjanster-varnar-for-ryska-karnvapen-i-rymden",
+          "published_at": "2026-11-23T16:21:19+01:00",
+          "sv": {
+            "title": "Underrättelsetjänster varnar för ryska kärnvapen i rymden"
+          },
+          "en": {
+            "title": "Intelligence services warn of Russian nuclear weapons in space"
+          }
+        },
+        {
+          "id": "28a81f6d495b",
+          "source": "gp",
+          "url": "https://www.gp.se/nyheter/varlden/uppgifter-ryssland-planerar-karnvapen-i-rymden.729fc4d0-7d49-5310-8583-883af3fd637c",
+          "published_at": "2026-11-23T11:34:37+01:00",
+          "sv": {
+            "title": "Uppgifter: Ryssland kan snart ha kärnvapen i rymden"
+          },
+          "en": {
+            "title": "Reports: Russia may soon have nuclear weapons in space"
+          }
+        }
+      ]
+    },
+    {
       "id": "f8cee793f305",
       "source_count": 2,
       "sources": [
@@ -2679,167 +2872,6 @@
           },
           "en": {
             "title": "Negotiation expert slams S, C and MP"
-          }
-        }
-      ]
-    },
-    {
-      "id": "6786a3cf8386",
-      "source_count": 2,
-      "sources": [
-        "di",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-23T13:19:16+01:00",
-      "last_published_at": "2026-11-23T13:43:59+01:00",
-      "lead": {
-        "id": "6786a3cf8386",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/eu-coca-cola-ar-for-dyr-utreder",
-        "guid": "762c9225-58e3-4ff9-a7d3-9f94af93cff6",
-        "published_at": "2026-11-23T13:19:16+01:00",
-        "fetched_at": "2026-11-23T13:31:01+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/4a8d039a-380f-428c-bbe6-c7389437b682.jpg?width=600",
-        "sv": {
-          "title": "EU: Coca-Cola är för dyr – utreder",
-          "summary": "En formell utredning om misstänkt konkurrensbrott av Coca-Cola Europacific Partners (CCEP) – en stor aktör i grossistledet inom läskedryckshanteringen i Europa – har inletts av EU-kommissionen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "EU: Coca-Cola is too expensive – investigating",
-          "summary": "A formal investigation into suspected competition violations by Coca-Cola Europacific Partners (CCEP) – a major wholesale player in soft drink distribution in Europe – has been opened by the European Commission."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T13:31:20+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "a0c1e95a7614",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/coca-cola-bolag-utreds-for-konkurrensbrott",
-          "published_at": "2026-11-23T13:43:59+01:00",
-          "sv": {
-            "title": "Coca-Cola-bolag utreds för konkurrensbrott"
-          },
-          "en": {
-            "title": "Coca-Cola bottler investigated for competition violation"
-          }
-        },
-        {
-          "id": "6786a3cf8386",
-          "source": "di",
-          "url": "https://www.di.se/live/eu-coca-cola-ar-for-dyr-utreder",
-          "published_at": "2026-11-23T13:19:16+01:00",
-          "sv": {
-            "title": "EU: Coca-Cola är för dyr – utreder"
-          },
-          "en": {
-            "title": "EU: Coca-Cola is too expensive – investigating"
-          }
-        }
-      ]
-    },
-    {
-      "id": "5ae9d078ef23",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "sr"
-      ],
-      "first_published_at": "2026-11-22T18:01:25+01:00",
-      "last_published_at": "2026-11-23T13:23:16+01:00",
-      "lead": {
-        "id": "5ae9d078ef23",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/nya-forslaget-till-v-fran-s-c-och-mp",
-        "guid": "https://www.expressen.se/nyheter/politik/nya-forslaget-till-v-fran-s-c-och-mp/",
-        "published_at": "2026-11-22T18:01:25+01:00",
-        "fetched_at": "2026-11-22T18:15:46+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Nya förslaget till V från S, C och MP",
-          "summary": "Nooshi Dadgostar (V) får nu ett bud av S, MP och C. Hon får ingå i ett ”inre kabinett” i regeringskansliet och kan räkna hem en rad politiska vinster – men inga ministerposter.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "New proposal to V from S, C and MP",
-          "summary": "Nooshi Dadgostar (V) now receives an offer from the Social Democrats, the Green Party and the Centre Party. She may join an “inner cabinet” in the government offices and can count on a number of political wins – but no ministerial posts."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-22T18:15:53+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "474b11b9a851",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-v-fina-ord-med-litet-innehall",
-          "published_at": "2026-11-23T13:23:16+01:00",
-          "sv": {
-            "title": "Ida Gabrielsson (V): ”Fina ord med litet innehåll”"
-          },
-          "en": {
-            "title": "Ida Gabrielsson (V): “Nice words with little substance”"
-          }
-        },
-        {
-          "id": "451587ddbf36",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348036",
-          "published_at": "2026-11-23T08:59:00+01:00",
-          "sv": {
-            "title": "Fredrik Furtenbach om S erbjudande till V: Kärvar rejält"
-          },
-          "en": {
-            "title": "Fredrik Furtenbach on the Social Democrats' offer to the Left Party: It's clearly tough going"
-          }
-        },
-        {
-          "id": "63c700816480",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/sverige/gabrielsson-det-har-saknar-v-i-erbjudandet",
-          "published_at": "2026-11-23T06:02:00+01:00",
-          "sv": {
-            "title": "Gabrielsson: Det här saknar V i erbjudandet"
-          },
-          "en": {
-            "title": "Gabrielsson: This is what V is missing in the offer"
-          }
-        },
-        {
-          "id": "d98762b92dfc",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/sverige/jenny-madestam-om-forslaget--till-v-generost-erbjudande",
-          "published_at": "2026-11-22T20:22:10+01:00",
-          "sv": {
-            "title": "Jenny Madestam om förslaget till V: ”Generöst erbjudande”"
-          },
-          "en": {
-            "title": "Jenny Madestam on the proposal to the Left Party (V): \"Generous offer\""
-          }
-        },
-        {
-          "id": "5ae9d078ef23",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/nya-forslaget-till-v-fran-s-c-och-mp",
-          "published_at": "2026-11-22T18:01:25+01:00",
-          "sv": {
-            "title": "Nya förslaget till V från S, C och MP"
-          },
-          "en": {
-            "title": "New proposal to V from S, C and MP"
           }
         }
       ]
