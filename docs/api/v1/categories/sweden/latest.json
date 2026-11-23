@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T15:15:56+01:00",
+  "generated_at": "2026-11-23T15:31:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d981fa3ab0ac",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/pMLj2o/forbud-mot-lussebullar-visar-att-sockerskracken-har-gatt-for-langt",
+      "guid": "https://www.svd.se/a/pMLj2o/forbud-mot-lussebullar-visar-att-sockerskracken-har-gatt-for-langt?utm_medium=rss",
+      "published_at": "2026-11-23T15:28:02+01:00",
+      "fetched_at": "2026-11-23T15:31:03+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/bb7c3ef1-7583-358a-9d03-8a9aba962e84?format=auto&s=95afad95c10dd6dc351eec844bfe476e13357ee6&w=1000",
+      "sv": {
+        "title": "Socker­skräcken har gått för långt",
+        "summary": "Förskolor som stoppar det traditionsenliga lussebaket misslyckas med en central del av sitt uppdrag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The sugar scare has gone too far",
+        "summary": "Preschools that stop the traditional Lucia bun baking fail at a central part of their mission."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:31:20+01:00"
+      }
+    },
     {
       "id": "a8ab7a458965",
       "schema_version": 1,
@@ -5403,33 +5430,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T12:01:23+01:00"
-      }
-    },
-    {
-      "id": "c843c6fba658",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/6PjKdW/ung-man-dod-efter-trafikolycka",
-      "guid": "https://www.aftonbladet.se/nyheter/a/6PjKdW/ung-man-dod-efter-trafikolycka?utm_medium=rss",
-      "published_at": "2026-11-19T11:36:57+01:00",
-      "fetched_at": "2026-11-19T11:45:41+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/b14ce5b7-8d23-3b73-b7c2-f012844e6332?format=auto&s=5878f0dc6864bab010c6303fd37777f7b5975883&w=1000",
-      "sv": {
-        "title": "Ung man död efter trafikolycka",
-        "summary": "En 19-årig man har omkommit i en trafikolycka utanför Vimmerby, skriver polisen på sin hemsida.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Young man dead after traffic accident",
-        "summary": "A 19-year-old man has died in a traffic accident outside Vimmerby, the police write on their website."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T11:45:49+01:00"
       }
     }
   ]

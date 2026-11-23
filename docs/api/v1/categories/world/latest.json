@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T15:15:56+01:00",
+  "generated_at": "2026-11-23T15:31:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3ab03500aad5",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/2vGzq4/usa-nazist-pa-terrorlista-i-eu",
+      "guid": "https://www.aftonbladet.se/nyheter/a/2vGzq4/usa-nazist-pa-terrorlista-i-eu?utm_medium=rss",
+      "published_at": "2026-11-23T15:15:26+01:00",
+      "fetched_at": "2026-11-23T15:31:05+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/f9bcc8b6-dce9-39c7-99d0-cd16d7301cce?format=auto&s=38528071726718a2dd3152a71d59d0fd3cab4afd&w=1000",
+      "sv": {
+        "title": "USA-nazist på terrorlista i EU",
+        "summary": "EU-länderna sätter upp den Rysslandsboende amerikanske nynazisten Rinaldo Nazzaro på sin terrorlista.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "US Nazi on EU terror list",
+        "summary": "EU member states are placing the Russia-based American neo-Nazi Rinaldo Nazzaro on their terror list."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:31:20+01:00"
+      }
+    },
     {
       "id": "45b3e50b051a",
       "schema_version": 1,
@@ -5339,35 +5366,6 @@
       "en": {
         "title": "Blasts in mushroom clouds of fire",
         "summary": "Several dead in gas explosion in Iraq – the fire has spread"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T14:01:24+01:00"
-      }
-    },
-    {
-      "id": "cb300f337208",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6v4IgKOvVKRmOg9BESuZWd/svensk-pilot-fick-tillstand-att-skjuta-ned-misstaenkt-rysk-robot",
-      "guid": "6v4IgKOvVKRmOg9BESuZWd",
-      "published_at": "2026-11-21T13:45:57+01:00",
-      "fetched_at": "2026-11-21T14:01:18+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Svensk pilot fick tillstånd att skjuta ned misstänkt rysk robot",
-        "summary": "Det var under natten till fredagen som två svenska Jas Gripen-plan skickades upp för att försvara det polska luftrummet i samband med en omfattande rysk attack mot Ukraina.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Swedish pilot was authorised to shoot down suspected Russian missile",
-        "summary": "It was during the night to Friday that two Swedish JAS Gripen jets were sent up to defend Polish airspace in connection with a large-scale Russian attack on Ukraine."
       },
       "translation": {
         "status": "done",

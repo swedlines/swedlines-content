@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-23T15:15:56+01:00",
+  "generated_at": "2026-11-23T15:31:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d0664e4e0ed5",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4e81IAwRXkwomMOrzvmrcY/jensen-huang-goer-comeback-som-vd",
+      "guid": "4e81IAwRXkwomMOrzvmrcY",
+      "published_at": "2026-11-23T15:25:14+01:00",
+      "fetched_at": "2026-11-23T15:31:06+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi"
+      ],
+      "sv": {
+        "title": "Jensen Huang gör comeback som vd",
+        "summary": "Jensen Huang återvänder som vd för Nvidia, skriver AI-jätten i ett pressmeddelande. Detta efter ”en serie diskussioner och möten” med den sparkade chefen, där styrelsedirektörerna känt sig ”nöjda med Mr. Huangs uppriktighet och förmåga” att leda företaget.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Jensen Huang makes comeback as CEO",
+        "summary": "Jensen Huang is returning as CEO of Nvidia, the AI giant writes in a press release. This follows “a series of discussions and meetings” with the fired chief, where the board members felt “satisfied with Mr. Huang’s candour and ability” to lead the company."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:31:20+01:00"
+      }
+    },
     {
       "id": "a2578c2fd379",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T18:31:05+01:00"
-      }
-    },
-    {
-      "id": "2139f205ad5d",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5ceY2Z6aq1trT50SCVkGZD/intern-kritik-mot-muf-taevling-kaendes-ganska-sunkigt",
-      "guid": "5ceY2Z6aq1trT50SCVkGZD",
-      "published_at": "2026-11-15T15:58:01+01:00",
-      "fetched_at": "2026-11-15T16:01:12+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Intern kritik mot Muf-tävling: ”Kändes ganska sunkigt”",
-        "summary": "Kan utlösa skattesmäll: ”Väntar på svar”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Internal criticism of Muf competition: \"It felt rather sleazy\"",
-        "summary": "Could trigger a tax hit: \"Waiting for an answer\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:01:23+01:00"
       }
     }
   ]

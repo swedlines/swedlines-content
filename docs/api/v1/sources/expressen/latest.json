@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T15:15:56+01:00",
+  "generated_at": "2026-11-23T15:31:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "39c819cc0299",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/jensen-huang-tillbaka-som-vd-pa-nvidia",
+      "guid": "https://www.expressen.se/nyheter/varlden/jensen-huang-tillbaka-som-vd-pa-nvidia/",
+      "published_at": "2026-11-23T15:25:27+01:00",
+      "fetched_at": "2026-11-23T15:31:05+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Jensen Huang tillbaka som vd på Nvidia",
+        "summary": "Tre otrohetsskandaler senare är Jensen Huang tillbaka som vd på Nvidia. Nu rusar aktien – med över 30 procent. ”Det är en ära att återvända till NVIDIA”, säger Huang i ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jensen Huang back as CEO of Nvidia",
+        "summary": "Three infidelity scandals later, Jensen Huang is back as CEO of Nvidia. Now the stock is soaring, by over 30 percent. “It is an honour to return to NVIDIA”, Huang says in a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:31:20+01:00"
+      }
+    },
     {
       "id": "fa1301352e5a",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T05:15:50+01:00"
-      }
-    },
-    {
-      "id": "9f4500e50729",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/efter-fornedringen-i-mellanarsvalet-rubio-ny-favorit",
-      "guid": "https://www.expressen.se/nyheter/varlden/efter-fornedringen-i-mellanarsvalet-rubio-ny-favorit/",
-      "published_at": "2026-11-20T04:47:45+01:00",
-      "fetched_at": "2026-11-20T04:57:17+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Efter förnedringen i mellanårsvalet – Rubio ny favorit",
-        "summary": "Republikanerna kraschade i mellanårsvalet. Ur Maga-askan kliver en ny favorit till presidentvalet fram. – Det är uppseendeväckande många som säger att de verkligen vill ha honom, säger tidigare talmannen Newt Gingrich.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the humiliation in the midterms – Rubio new favourite",
-        "summary": "Republicans crashed in the midterm elections. From the ashes of Maga, a new favourite for the presidential election emerges. – It is remarkably many who say they really want him, says former House Speaker Newt Gingrich."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T04:57:22+01:00"
       }
     }
   ]
