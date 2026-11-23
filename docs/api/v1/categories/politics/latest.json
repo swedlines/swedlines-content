@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-22T23:57:05+01:00",
+  "generated_at": "2026-11-23T02:12:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3094275fb71b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346371",
+      "guid": "rss:sr.se/article/9346371",
+      "published_at": "2026-11-23T02:00:00+01:00",
+      "fetched_at": "2026-11-23T02:12:09+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Stödet för dödshjälp ökar – men inget parti driver frågan",
+        "summary": "Stödet för aktiv dödshjälp ökar i Sverige, men inget riksdagsparti driver frågan trots att en majoritet av partierna vill utreda den. Kristdemokraterna och Socialdemokraterna säger nej till både utredning och införande av dödshjälp.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Support for assisted dying rises – but no party is pushing the issue",
+        "summary": "Support for active assisted dying is rising in Sweden, but no party in the Riksdag is pushing the issue, even though a majority of parties want to investigate it. The Christian Democrats and the Social Democrats say no to both an inquiry and the introduction of assisted dying."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T02:12:17+01:00"
+      }
+    },
     {
       "id": "03d40bfa62b9",
       "schema_version": 1,
@@ -5397,32 +5423,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "ecf11adccdc1",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/35-fragor-har-ar-de-rodgrona-partierna-overens-och-inte",
-      "guid": "https://www.svt.se/nyheter/35-fragor-har-ar-de-rodgrona-partierna-overens-och-inte",
-      "published_at": "2026-11-18T18:43:07+01:00",
-      "fetched_at": "2026-11-18T18:45:39+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "35 frågor: Här är de rödgröna partierna överens – och inte",
-        "summary": "Regeringsförhandlingar pågår just nu mellan de rödgröna partierna. Förutom vilka partier som ska sitta i en eventuell regering behöver de komma överens om en rad sakpolitiska förslag. Se SVT:s genomgång av frågor som förenar – och skiljer dem åt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "35 questions: Here is where the red-greens agree – and where they don't",
-        "summary": "Government negotiations are currently under way between the red-green parties. In addition to which parties should sit in a possible government, they need to agree on a number of policy proposals. See SVT's overview of issues that unite them – and divide them."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:45:55+01:00"
       }
     }
   ]
