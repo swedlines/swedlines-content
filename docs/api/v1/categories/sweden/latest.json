@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-23T20:31:05+01:00",
+  "generated_at": "2026-11-23T20:40:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f6026a268212",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4UNr27z8RIhEws7NzStyK5/haer-oevervakar-man-soprummen-och-boetfaeller-snedsteg",
+      "guid": "4UNr27z8RIhEws7NzStyK5",
+      "published_at": "2026-11-23T20:38:24+01:00",
+      "fetched_at": "2026-11-23T20:40:01+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Här övervakar man soprummen – och bötfäller snedsteg",
+        "summary": "Anna Hartvigson visar på mobilen hur det såg ut innan systemet med kameror sattes igång. Stöket och oordningen är påtaglig på bilden. Men nu visar hon upp samma soprum som på bilden och skillnaden är påtaglig. – Det ser ju helt fantastiskt ut här.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Here they monitor the waste rooms – and fine misbehaviour",
+        "summary": "Anna Hartvigson shows on her phone what it looked like before the camera system was switched on. The mess and disorder are clear in the picture. But now she shows the same waste room as in the picture, and the difference is striking. – It looks absolutely fantastic here."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T20:40:13+01:00"
+      }
+    },
     {
       "id": "bd9da38c8e1c",
       "schema_version": 1,
@@ -5420,33 +5449,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T15:15:49+01:00"
-      }
-    },
-    {
-      "id": "0c219584de7c",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Pv3K3b/lakares-uppdrag-for-adhd-lakemedelsbolag-intresse-fran-industrin",
-      "guid": "https://www.svd.se/a/Pv3K3b/lakares-uppdrag-for-adhd-lakemedelsbolag-intresse-fran-industrin?utm_medium=rss",
-      "published_at": "2026-11-19T14:28:23+01:00",
-      "fetched_at": "2026-11-19T14:30:57+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/1506e3ab-ec77-37c5-a4c5-acd27b25a360?format=auto&s=c1bdff8d97d3ab53b7da156ce0fc7296a0088186&w=1000",
-      "sv": {
-        "title": "Sveriges strategi – släpp in adhd-jättar i vården",
-        "summary": "Sveriges strategi är tydlig. Forskare och läkare uppmuntras att jobba tillsammans med…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sweden's strategy – let ADHD giants into health care",
-        "summary": "Sweden's strategy is clear. Researchers and doctors are encouraged to work together with…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T14:31:07+01:00"
       }
     }
   ]

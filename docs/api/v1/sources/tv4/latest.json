@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-23T20:31:05+01:00",
+  "generated_at": "2026-11-23T20:40:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f6026a268212",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4UNr27z8RIhEws7NzStyK5/haer-oevervakar-man-soprummen-och-boetfaeller-snedsteg",
+      "guid": "4UNr27z8RIhEws7NzStyK5",
+      "published_at": "2026-11-23T20:38:24+01:00",
+      "fetched_at": "2026-11-23T20:40:01+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Här övervakar man soprummen – och bötfäller snedsteg",
+        "summary": "Anna Hartvigson visar på mobilen hur det såg ut innan systemet med kameror sattes igång. Stöket och oordningen är påtaglig på bilden. Men nu visar hon upp samma soprum som på bilden och skillnaden är påtaglig. – Det ser ju helt fantastiskt ut här.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Here they monitor the waste rooms – and fine misbehaviour",
+        "summary": "Anna Hartvigson shows on her phone what it looked like before the camera system was switched on. The mess and disorder are clear in the picture. But now she shows the same waste room as in the picture, and the difference is striking. – It looks absolutely fantastic here."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T20:40:13+01:00"
+      }
+    },
     {
       "id": "431906d4ec8e",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T22:15:59+01:00"
-      }
-    },
-    {
-      "id": "28886a2c8793",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5y4xGl3gILMJPh4xdTGhmE/c-daerfoer-ratade-vi-kristerssons-totalpaket",
-      "guid": "5y4xGl3gILMJPh4xdTGhmE",
-      "published_at": "2026-11-15T21:54:19+01:00",
-      "fetched_at": "2026-11-15T23:15:39+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Därför ratade C Kristerssons paket",
-        "summary": "Utvecklar i SVT:s Agenda • ”Två paket med mycket bra innehåll”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is why the Centre Party rejected Kristersson's package",
-        "summary": "Explains in SVT's Agenda • \"Two packages with very good content\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T23:15:46+01:00"
       }
     }
   ]

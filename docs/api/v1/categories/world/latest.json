@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T20:31:05+01:00",
+  "generated_at": "2026-11-23T20:40:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3903d7c6c595",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/nya-reglerna-for-turister-i-alperna",
+      "guid": "https://www.expressen.se/nyheter/varlden/nya-reglerna-for-turister-i-alperna/",
+      "published_at": "2026-11-23T20:36:56+01:00",
+      "fetched_at": "2026-11-23T20:40:01+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Nya reglerna för turister i Alperna",
+        "summary": "Planerar du en naturskön vandring i de franska Alperna? Se då till att boka ditt besök i förväg – i alla fall om du ska till Chamonix. Från och med nästa år planeras besökskvoter vid flera populära sjöar med utsikt över Mont Blanc.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New rules for tourists in the Alps",
+        "summary": "Are you planning a scenic hike in the French Alps? Then be sure to book your visit in advance – at least if you are going to Chamonix. From next year, visitor quotas are planned at several popular lakes with a view of Mont Blanc."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T20:40:13+01:00"
+      }
+    },
     {
       "id": "c2aaa9b18027",
       "schema_version": 1,
@@ -5363,29 +5389,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T18:01:17+01:00"
-      }
-    },
-    {
-      "id": "c4887de24dbc",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80166",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80166&utm_medium=rss",
-      "published_at": "2026-11-21T17:42:57+01:00",
-      "fetched_at": "2026-11-21T17:45:43+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Uppgift: Nytt ryskt fartyg i finländska vatten"
-      },
-      "en": {
-        "title": "Reports: New Russian vessel in Finnish waters"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T17:45:54+01:00"
       }
     }
   ]

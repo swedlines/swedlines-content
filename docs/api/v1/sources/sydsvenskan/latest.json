@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T20:31:05+01:00",
+  "generated_at": "2026-11-23T20:40:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e85e002e5833",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/uppgifter-c-i-extrainsatt-mote-om-regeringsfragan",
+      "guid": "4d889b0f-99e6-4b26-859d-91f0853fd8fa",
+      "published_at": "2026-11-23T20:37:43+01:00",
+      "fetched_at": "2026-11-23T20:40:02+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/89c74577-d26d-4a7d-8767-475b6e78a937.jpg?width=600",
+      "sv": {
+        "title": "Uppgifter: C i extrainsatt möte om regeringsfrågan",
+        "summary": "Centerpartiets partistyrelse och riksdagsgrupp håller ett extrainsatt möte på måndagskvällen, enligt uppgifter till både Expressen och Svenska Dagbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: C in extra meeting on government question",
+        "summary": "The Centre Party's party board and parliamentary group are holding an extra meeting on Monday evening, according to reports to both Expressen and Svenska Dagbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T20:40:13+01:00"
+      }
+    },
     {
       "id": "b7b9a9874403",
       "schema_version": 1,
@@ -5242,33 +5269,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T14:01:29+01:00"
-      }
-    },
-    {
-      "id": "1b48710f3fe1",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/jag-kanner-frustration-splittring-vid-klimatmote",
-      "guid": "69b92643-9c5e-45e9-a212-1b6edc494bdb",
-      "published_at": "2026-11-20T13:25:05+01:00",
-      "fetched_at": "2026-11-20T13:31:05+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/00b351af-e6d5-4818-bc1d-4372ef4aae93.jpg?width=600",
-      "sv": {
-        "title": "”Jag känner frustration” – splittring vid klimatmöte",
-        "summary": "Förhandlingarna vid klimattoppmötet COP31 går knackigt. – Det finns många länder som har intressen av fossilutvinning som är rätt lugna och nöjda just nu. Och jag tycker att det är oacceptabelt, säger klimatminister Romina Pourmokhtari (L) till TT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "“I feel frustration” – division at climate summit",
-        "summary": "Negotiations at the COP31 climate summit are going badly. – There are many countries with interests in fossil extraction who are quite calm and satisfied right now. And I think that is unacceptable, says climate minister Romina Pourmokhtari (L) to TT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:31:20+01:00"
       }
     }
   ]
