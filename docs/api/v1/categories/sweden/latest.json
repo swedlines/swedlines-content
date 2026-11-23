@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-23T13:16:03+01:00",
+  "generated_at": "2026-11-23T13:31:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7359ca09e007",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3QLFXHpWkqNTY2ieJHPOqK/virusforskaren-varnar-allvarligt-kan-leda-till-svar-sjukdom",
+      "guid": "3QLFXHpWkqNTY2ieJHPOqK",
+      "published_at": "2026-11-23T13:29:56+01:00",
+      "fetched_at": "2026-11-23T13:31:01+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Virusforskaren varnar: ”Allvarligt – kan leda till svår sjukdom”",
+        "summary": "På fredagen uppsökte en person akutmottagningen på Södersjukhuset för vård. Patienten blev sittande i väntrummet under ett antal timmar, samtidigt som andra människor rörde sig där. Senare konstaterade sjukhuset att patienten hade mässling och en intensiv smittspårning inleddes.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The virus researcher warns: “Serious – can lead to severe illness”",
+        "summary": "On Friday a person visited the emergency department at Södersjukhuset for care. The patient sat in the waiting room for several hours while other people moved around there. Later the hospital established that the patient had measles and an intensive contact tracing operation was launched."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T13:31:20+01:00"
+      }
+    },
+    {
+      "id": "724fb1d5a849",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/pulverbomben-kan-ha-raddat-radhuset-i-hovsjo",
+      "guid": "https://www.svt.se/nyheter/lokalt/sodertalje/pulverbomben-kan-ha-raddat-radhuset-i-hovsjo",
+      "published_at": "2026-11-23T13:21:23+01:00",
+      "fetched_at": "2026-11-23T13:30:57+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Pulverbomben kan ha räddat radhuset i Hovsjö",
+        "summary": "Förra veckans brand i ett radhusområde i Hovsjö dämpades av automatiska pulversläckare på vinden. – Vad glad jag blir att de fungerade, säger Peter Gustafsson, tidigare fastighetschef på Telge bostäder som var med och förde idén till stadsdelen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The powder bomb may have saved the terraced house in Hovsjö",
+        "summary": "Last week's fire in a terraced house area in Hovsjö was contained by automatic powder extinguishers in the attic. – How glad I am that they worked, says Peter Gustafsson, former property manager at Telge bostäder, who helped bring the idea to the district."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T13:31:20+01:00"
+      }
+    },
     {
       "id": "2f4ee6725e1c",
       "schema_version": 1,
@@ -5383,58 +5438,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "9cc2b6dd1816",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345980",
-      "guid": "rss:sr.se/article/9345980",
-      "published_at": "2026-11-19T10:02:00+01:00",
-      "fetched_at": "2026-11-19T10:15:43+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Återstarten av Ringhals dröjer flera veckor",
-        "summary": "Återstarten av ena reaktorn i Ringhals kärnkraftverk försenas ytterligare. Ringhals 3 skulle ha återstartats den 5 december. men nu dröjer återstarten till 21 december. Den senaste tiden avstängda reaktorer har bidragit till de höga elpriserna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Restart of Ringhals delayed by several weeks",
-        "summary": "The restart of one reactor at the Ringhals nuclear power plant is further delayed. Ringhals 3 was to have restarted on 5 December, but now the restart is delayed until 21 December. Recently, shut-down reactors have contributed to high electricity prices."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T10:16:03+01:00"
-      }
-    },
-    {
-      "id": "86f08302ad89",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/halland/ytterligare-forsening-av-reaktorstart-pa-ringhals",
-      "guid": "https://www.svt.se/nyheter/lokalt/halland/ytterligare-forsening-av-reaktorstart-pa-ringhals",
-      "published_at": "2026-11-19T09:53:23+01:00",
-      "fetched_at": "2026-11-19T10:15:42+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Ytterligare försening av reaktorstart på Ringhals",
-        "summary": "Efter onsdagens besked om fördröjning av återstart av Ringhals kommer nu ännu en uppskjutning av återstart. Nytt uppstartsdatum för Ringhals 3 är nu 20 december.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Further delay to reactor start at Ringhals",
-        "summary": "Following Wednesday's announcement of a delay in the restart of Ringhals, yet another postponement of the restart now follows. New start date for Ringhals 3 is now 20 December."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T10:16:03+01:00"
       }
     }
   ]
