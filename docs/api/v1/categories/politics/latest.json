@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T15:31:26+01:00",
+  "generated_at": "2026-11-23T15:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "af18072965e2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/dadgostar-vill-syna-centerns-bluff",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/dadgostar-vill-syna-centerns-bluff/",
+      "published_at": "2026-11-23T15:31:58+01:00",
+      "fetched_at": "2026-11-23T15:45:47+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Dadgostar vill syna Centerns bluff",
+        "summary": "Just nu skäller alla socialdemokrater på Nooshi Dadgostar. Om Vänsterpartiet vinner sitt slutspel är det nästan lika många som lär tacka henne – i alla fall i smyg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dadgostar wants to expose the Centre Party's bluff",
+        "summary": "Right now everyone among the Social Democrats is attacking Nooshi Dadgostar. If the Left Party wins its play-off, almost as many will be thanking her – at least quietly."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:45:56+01:00"
+      }
+    },
     {
       "id": "0c7c7d28e44c",
       "schema_version": 1,
@@ -5373,39 +5399,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T06:01:38+01:00"
-      }
-    },
-    {
-      "id": "ad41eaab24ed",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/ledare/c-och-v-ar-varandras-motpoler.b78069a5-e1a3-5c96-addc-be91b3a12198",
-      "guid": "b78069a5-e1a3-5c96-addc-be91b3a12198",
-      "published_at": "2026-11-20T05:00:00+01:00",
-      "fetched_at": "2026-11-20T05:31:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Ledare",
-        "Tagg: Vänsterpartiet",
-        "Tagg: Centerpartiet",
-        "Tagg: Karl Marx"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/d5080da9-1ead-3431-937f-b1e91427df66",
-      "sv": {
-        "title": "Håkan Boström: C och V är varandras motpoler",
-        "summary": "Den klassiska konflikten mellan arbete och kapital, stat och marknad, kollektiv och individ genomsyrar i stort sett alla tunga politikområden.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Håkan Boström: C and V are each other's opposites",
-        "summary": "The classic conflict between labour and capital, state and market, collective and individual permeates almost all major policy areas."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T05:31:09+01:00"
       }
     }
   ]

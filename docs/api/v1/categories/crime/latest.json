@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-23T15:31:26+01:00",
+  "generated_at": "2026-11-23T15:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f8cee793f305",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/storgoteborg/fel-kvinna-pa-polisens-foto-fran-landvetter.8184f9ec-b684-5a29-b9aa-db0edccd8fe0",
+      "guid": "8184f9ec-b684-5a29-b9aa-db0edccd8fe0",
+      "published_at": "2026-11-23T15:16:27+01:00",
+      "fetched_at": "2026-11-23T15:45:49+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Storgöteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Missing People",
+        "Tagg: Polisen",
+        "Tagg: Landvetter"
+      ],
+      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
+      "sv": {
+        "title": "Kvinnan på polisens bild var inte försvunnen",
+        "summary": "Hörde själv av sig till polisen • 35-årig försvunnen i snart två månader.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Woman in police image was not missing",
+        "summary": "Contacted the police herself • 35-year-old missing for almost two months."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:45:56+01:00"
+      }
+    },
     {
       "id": "bb05f277a3b6",
       "schema_version": 1,
@@ -5402,33 +5436,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T10:01:25+01:00"
-      }
-    },
-    {
-      "id": "1bffc753a9c1",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/sex-atalas-for-overgrepp-pa-sigtunaskolan",
-      "guid": "c967ef41-f589-4125-a0bb-c2fd6ab1322c",
-      "published_at": "2026-11-19T09:13:49+01:00",
-      "fetched_at": "2026-11-19T09:15:44+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/2c2d82c5-4c5e-4311-99f5-96ffd66f7979.jpg?width=600",
-      "sv": {
-        "title": "Sex åtalas för övergrepp på Sigtunaskolan",
-        "summary": "Sex manliga elever åtalas efter de misstänkta övergreppen på Sigtunaskolan, meddelar Åklagarmyndigheten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Six charged over abuse at Sigtunaskolan",
-        "summary": "Six male students are charged following the suspected abuse at Sigtunaskolan, the Prosecution Authority announces."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T09:15:58+01:00"
       }
     }
   ]

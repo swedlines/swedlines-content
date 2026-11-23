@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T15:31:26+01:00",
+  "generated_at": "2026-11-23T15:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "af18072965e2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/dadgostar-vill-syna-centerns-bluff",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/dadgostar-vill-syna-centerns-bluff/",
+      "published_at": "2026-11-23T15:31:58+01:00",
+      "fetched_at": "2026-11-23T15:45:47+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Dadgostar vill syna Centerns bluff",
+        "summary": "Just nu skäller alla socialdemokrater på Nooshi Dadgostar. Om Vänsterpartiet vinner sitt slutspel är det nästan lika många som lär tacka henne – i alla fall i smyg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dadgostar wants to expose the Centre Party's bluff",
+        "summary": "Right now everyone among the Social Democrats is attacking Nooshi Dadgostar. If the Left Party wins its play-off, almost as many will be thanking her – at least quietly."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:45:56+01:00"
+      }
+    },
     {
       "id": "39c819cc0299",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T06:15:47+01:00"
-      }
-    },
-    {
-      "id": "779e67bb272b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/krim/efterlyste-mario-martinovic-31-jag-langtar-hem",
-      "guid": "https://www.expressen.se/nyheter/krim/efterlyste-mario-martinovic-31-jag-langtar-hem/",
-      "published_at": "2026-11-20T05:00:00+01:00",
-      "fetched_at": "2026-11-20T05:15:45+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Efterlyste Mario Martinovic, 31: ”Jag längtar hem”",
-        "summary": "Misstankarna om omfattande bedrägerier hopade sig – då valde Mario Martinovic att packa väskan och dra för tre år sedan. Sedan dess har han blivit internationellt efterlyst för grova bedrägerier och uppsatt på Interpols röda lista. – Det är svårt att ständigt vara på flykt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sought Mario Martinovic, 31: \"I long to go home\"",
-        "summary": "Suspicions of extensive fraud piled up – then Mario Martinovic chose to pack his bag and leave three years ago. Since then he has been internationally wanted for aggravated fraud and placed on Interpol's red list. – It is hard to be constantly on the run."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T05:15:50+01:00"
       }
     }
   ]
