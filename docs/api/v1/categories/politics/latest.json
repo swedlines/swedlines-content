@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T09:01:26+01:00",
+  "generated_at": "2026-11-23T09:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "451587ddbf36",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348036",
+      "guid": "rss:sr.se/article/9348036",
+      "published_at": "2026-11-23T08:59:00+01:00",
+      "fetched_at": "2026-11-23T09:15:48+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Fredrik Furtenbach om S erbjudande till V: Kärvar rejält",
+        "summary": "Socialdemokraternas debattartikel i Expressen på söndagskvällen, där man erbjuder Vänsterpartiet flera reformer och positioner, vittnar om förhandlingsproblem. Det säger Ekots inrikespolitiske kommentator Fredrik Furtenbach: ”Det kärvar uppenbarligen rejält”.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Fredrik Furtenbach on the Social Democrats' offer to the Left Party: It's clearly tough going",
+        "summary": "The Social Democrats' opinion piece in Expressen on Sunday evening, offering the Left Party several reforms and positions, indicates negotiation difficulties. Ekot's domestic political commentator Fredrik Furtenbach says: \"It's clearly tough going\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T09:15:57+01:00"
+      }
+    },
     {
       "id": "318bc334398c",
       "schema_version": 1,
@@ -5389,35 +5415,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T22:31:07+01:00"
-      }
-    },
-    {
-      "id": "bb88b85d3559",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/ZhwBaDI1hxJDNtI0XB6lp/missade-valet-med-24-timmar-nu-hoppas-melanie-pa-ny-chans",
-      "guid": "ZhwBaDI1hxJDNtI0XB6lp",
-      "published_at": "2026-11-18T20:59:52+01:00",
-      "fetched_at": "2026-11-18T21:15:47+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Svensk politik"
-      ],
-      "sv": {
-        "title": "Missade valet med 24 timmar – nu hoppas Melanie på ny chans",
-        "summary": "Fyllde 18 dagen efter • Så många nya väljare har tillkommit • Experten: “Inte obetydligt“",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Missed the election by 24 hours – now Melanie hopes for a new chance",
-        "summary": "Turned 18 the day after • So many new voters have been added • Expert: \"Not insignificant\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:15:54+01:00"
       }
     }
   ]

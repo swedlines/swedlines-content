@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-23T09:01:26+01:00",
+  "generated_at": "2026-11-23T09:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "123cd7422cc3",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/6PjAxr/attacker-mot-flera-ryska-oljeanlaggningar",
+      "guid": "https://www.aftonbladet.se/nyheter/a/6PjAxr/attacker-mot-flera-ryska-oljeanlaggningar?utm_medium=rss",
+      "published_at": "2026-11-23T09:08:27+01:00",
+      "fetched_at": "2026-11-23T09:15:51+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Attacker mot flera ryska oljeanläggningar",
+        "summary": "En oljeanläggning i ryska Tatarstan har angripits av ukrainska drönare, enligt lokala myndigheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Attacks on several Russian oil facilities",
+        "summary": "An oil facility in Russia's Tatarstan has been attacked by Ukrainian drones, according to local authorities."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T09:15:57+01:00"
+      }
+    },
+    {
+      "id": "44bed5ce8d07",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/protester-lamslar-belgien-alla-flyg-installda",
+      "guid": "637036f4-b915-42be-9730-9ddb92f0f58e",
+      "published_at": "2026-11-23T09:02:33+01:00",
+      "fetched_at": "2026-11-23T09:15:53+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/0bb7da3c-ed26-4ec4-adfd-bf0353129969.jpg?width=600",
+      "sv": {
+        "title": "Protester lamslår Belgien – alla flyg inställda",
+        "summary": "Demonstrationer mot höga levnadskostnader väntas i dag orsaka ”betydande störningar” över hela Belgien, enligt tidningen Le Soir.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Protests paralyse Belgium – all flights cancelled",
+        "summary": "Demonstrations against high cost of living are expected to cause \"significant disruption\" across Belgium today, according to the newspaper Le Soir."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T09:15:57+01:00"
+      }
+    },
     {
       "id": "52dd0d86683b",
       "schema_version": 1,
@@ -5335,59 +5388,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T07:15:53+01:00"
-      }
-    },
-    {
-      "id": "be49a629881e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7c631e4e-829a-4de8-a879-a0f73d89c4fb",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7c631e4e-829a-4de8-a879-a0f73d89c4fb",
-      "published_at": "2026-11-21T07:10:30+01:00",
-      "fetched_at": "2026-11-21T07:15:47+01:00",
-      "category": "world",
-      "sv": {
-        "title": "FBI hackade",
-        "summary": "Källor till CNN: Databas utsatt",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "FBI hacked",
-        "summary": "Sources to CNN: Database breached"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T07:15:53+01:00"
-      }
-    },
-    {
-      "id": "bedf5e64089a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/4Eqgjg/svensk-polis-oppnar-polistation-i-irak",
-      "guid": "https://www.aftonbladet.se/nyheter/a/4Eqgjg/svensk-polis-oppnar-polistation-i-irak?utm_medium=rss",
-      "published_at": "2026-11-21T06:56:27+01:00",
-      "fetched_at": "2026-11-21T08:15:41+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/2b51f484-ea80-3d5e-a632-c033f632526b?format=auto&s=7ded49bc2cf9bf02f07b0c850e0aa7bc91e65306&w=1000",
-      "sv": {
-        "title": "Svensk polis öppnar station i Irak",
-        "summary": "Öppnar station i Irak",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish police open station in Iraq",
-        "summary": "Opens station in Iraq"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T08:15:48+01:00"
       }
     }
   ]
