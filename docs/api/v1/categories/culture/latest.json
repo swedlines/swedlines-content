@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-23T17:31:39+01:00",
+  "generated_at": "2026-11-23T17:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "634c8ab2d19a",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/recension-gta-6.6b66b755-9728-526d-ab7b-0d6957666a23",
+      "guid": "6b66b755-9728-526d-ab7b-0d6957666a23",
+      "published_at": "2026-11-23T17:37:27+01:00",
+      "fetched_at": "2026-11-23T17:45:49+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: Satir",
+        "Tagg: Red dead redemption 2",
+        "Tagg: GTA 6",
+        "Tagg: Vice"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/40e6b7f5-2317-3ed9-a01f-03c6ff61f903",
+      "sv": {
+        "title": "”GTA 6” flyttar nivån för vad som är ett mästerverk",
+        "summary": "Anar en spelad upprördhet från killar som måste bete sig som en hygglig pojkvän.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"GTA 6\" moves the bar for what counts as a masterpiece",
+        "summary": "Smells of played-out outrage from guys who need to behave like decent boyfriends."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:45:54+01:00"
+      }
+    },
     {
       "id": "8b94dedba22d",
       "schema_version": 1,
@@ -5707,33 +5741,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T12:01:25+01:00"
-      }
-    },
-    {
-      "id": "879866efa2d5",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/ingrosso-salde-slut-gor-en-till-ullevikonsert",
-      "guid": "30e2b1fa-18d1-412b-9909-65376610ecb6",
-      "published_at": "2026-11-20T11:22:13+01:00",
-      "fetched_at": "2026-11-20T11:31:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/233cbdcd-5898-42d4-82bd-19bd51cda15b.jpg?width=600",
-      "sv": {
-        "title": "Ingrosso sålde slut – gör en till Ullevikonsert",
-        "summary": "Biljetterna till Benjamin Ingrossos Ullevi-spelning sålde slut på mindre än en timme. Nu lägger han till ytterligare en konsert på Göteborgsarenan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ingrosso's tickets sold out – adds another Ullevi concert",
-        "summary": "Tickets for Benjamin Ingrosso's Ullevi show sold out in less than an hour. Now he is adding another concert at Göteborgsarenan."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:31:22+01:00"
       }
     }
   ]

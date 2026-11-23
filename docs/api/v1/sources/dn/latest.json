@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T17:31:39+01:00",
+  "generated_at": "2026-11-23T17:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8ff673ae54bc",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/efter-huangs-comeback-det-har-gatt-valdigt-fort",
+      "guid": "https://www.dn.se/ekonomi/efter-huangs-comeback-det-har-gatt-valdigt-fort/",
+      "published_at": "2026-11-23T17:38:15+01:00",
+      "fetched_at": "2026-11-23T17:45:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c799ac83-0aa8-4217-a75c-1be6d5b55840.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Expert om Huangs comeback: \"Har gått väldigt fort\"",
+        "summary": "Mycket överraskande och väldigt positivt för AI-bolagen. Den bedömningen gör börsexperterna om Jensen Huangs återkomst. – Det är en dramatisk comeback, säger Maria Landeborn på Danske Bank.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert on Huang's comeback: \"It has happened very fast\"",
+        "summary": "Very surprising and very positive for AI companies. That is the assessment market experts make of Jensen Huang's return. \"It is a dramatic comeback,\" says Maria Landeborn at Danske Bank."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:45:54+01:00"
+      }
+    },
     {
       "id": "859af40ee069",
       "schema_version": 1,
@@ -5370,33 +5397,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T10:31:10+01:00"
-      }
-    },
-    {
-      "id": "50eb982ea256",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/nathan-shachar-oro-i-saudiarabien-for-att-huthierna-snart-ar-vid-adens-portar",
-      "guid": "https://www.dn.se/varlden/nathan-shachar-oro-i-saudiarabien-for-att-huthierna-snart-ar-vid-adens-portar/",
-      "published_at": "2026-11-20T10:10:49+01:00",
-      "fetched_at": "2026-11-20T10:15:51+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/0cdc623d-0ca6-4998-abae-73159cc7ab50.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Nathan Shachar: Oro i Saudiarabien för att huthierna snart är vid Adens portar",
-        "summary": "Norra Jemens huthier står bara drygt fem mil från Aden, Sydjemens forna huvudstad och säte för den internationellt erkända regeringen. I grannländerna – och många andra länder – bävar regeringar, rederier och exportörer för fortsättningen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nathan Shachar: Oil in Saudi Arabia as the Houthis are soon at Aden's gates",
-        "summary": "Northern Yemen's Houthis are just over 50 km from Aden, South Yemen's former capital and seat of the internationally recognised government. In neighbouring countries – and many others – governments, shipping companies and exporters are alarmed about what comes next."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T10:16:00+01:00"
       }
     }
   ]

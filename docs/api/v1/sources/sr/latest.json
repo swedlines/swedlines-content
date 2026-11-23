@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T17:31:39+01:00",
+  "generated_at": "2026-11-23T17:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4c62b0d782a5",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348528",
+      "guid": "rss:sr.se/article/9348528",
+      "published_at": "2026-11-23T17:38:00+01:00",
+      "fetched_at": "2026-11-23T17:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Efter Huangs comeback som vd – Nvidias aktier rusar",
+        "summary": "Nvidias aktie sköt i höjden på Nasdaqbörsen i New York efter beskedet att grundaren Jensen Huang återinsätts som vd. Inför börsöppningen på måndagen väntades Nvidia-aktien rusa omkring 27 procent. Strax efter klockan 16 svensk tid var aktien upp drygt 33 procent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "After Huang's comeback as CEO – Nvidia's shares soar",
+        "summary": "Nvidia's share price shot up on the Nasdaq exchange in New York after the news that founder Jensen Huang is being reinstated as CEO. Ahead of the market opening on Monday, the Nvidia share was expected to surge around 27 percent. Shortly after 4 p.m. Swedish time, the share was up just over 33 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:45:54+01:00"
+      }
+    },
     {
       "id": "1346dcd0e795",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T06:01:29+01:00"
-      }
-    },
-    {
-      "id": "b3cad9d17540",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344854",
-      "guid": "rss:sr.se/article/9344854",
-      "published_at": "2026-11-18T03:03:00+01:00",
-      "fetched_at": "2026-11-18T03:15:41+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ny talman utsedd – kan bli huvudvärk för Netanyahu",
-        "summary": "Israels parlamentet Knesset har valt Matan Kahana till ny talman. Kahana tillhör oppositionsledaren Eisenkots parti, som just nu försöker bilda regering.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "New speaker elected – could be a headache for Netanyahu",
-        "summary": "Israel's parliament, the Knesset, has elected Matan Kahana as its new speaker. Kahana belongs to opposition leader Eisenkot's party, which is currently trying to form a government."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T03:15:50+01:00"
       }
     }
   ]

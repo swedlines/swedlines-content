@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T17:31:39+01:00",
+  "generated_at": "2026-11-23T17:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3a849df8fbdc",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2f2de765-cf6e-4c27-bee7-e845ffca7128",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2f2de765-cf6e-4c27-bee7-e845ffca7128",
+      "published_at": "2026-11-23T17:43:50+01:00",
+      "fetched_at": "2026-11-23T17:45:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trumps behå-bild på Huang",
+        "summary": "Lägger ut efter vd-beskedet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's bra picture of Huang",
+        "summary": "Posted after the CEO announcement"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:45:54+01:00"
+      }
+    },
     {
       "id": "1ea6f9234827",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Accident on the E4",
         "summary": "Transport Administration: \"Very major impact\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:01:13+01:00"
-      }
-    },
-    {
-      "id": "dc939e63dd4b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/attack-mot-putins-kemijatte-i-natt",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/attack-mot-putins-kemijatte-i-natt",
-      "published_at": "2026-11-20T06:55:32+01:00",
-      "fetched_at": "2026-11-20T07:01:06+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Putins kemijätte attackeras",
-        "summary": "Tillverkar gödsel • Uppges visa träff",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Putin's chemical giant attacked",
-        "summary": "Manufactures fertiliser • Reportedly shows a hit"
       },
       "translation": {
         "status": "done",

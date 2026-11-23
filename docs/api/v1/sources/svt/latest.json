@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T17:31:39+01:00",
+  "generated_at": "2026-11-23T17:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b23615566f2e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/trump-fick-som-han-ville-men-nya-akter-vantar-i-nvidia-dramat",
+      "guid": "https://www.svt.se/nyheter/utrikes/trump-fick-som-han-ville-men-nya-akter-vantar-i-nvidia-dramat",
+      "published_at": "2026-11-23T17:42:07+01:00",
+      "fetched_at": "2026-11-23T17:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "”Trump fick som han ville – men nya akter väntar i Nvidia-dramat”",
+        "summary": "Jensen Huang har gjort comeback. Donald Trump ser ut att ha klivit in och ändrat förutsättningarna för det här dramats nästa akt – eller ska vi säga fars?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Trump got what he wanted – but new acts await in the Nvidia drama\"",
+        "summary": "Jensen Huang has made a comeback. Donald Trump appears to have stepped in and changed the conditions for the next act of this drama – or should we say farce?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:45:54+01:00"
+      }
+    },
     {
       "id": "af9aaa7bdab9",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T19:15:50+01:00"
-      }
-    },
-    {
-      "id": "55dadd757ce7",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/beslut-om-tonarsutvisningarna-de-paverkas-av-nya-stopplagen",
-      "guid": "https://www.svt.se/nyheter/inrikes/beslut-om-tonarsutvisningarna-de-paverkas-av-nya-stopplagen",
-      "published_at": "2026-11-17T18:31:55+01:00",
-      "fetched_at": "2026-11-17T18:45:39+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Beslut om tonårsutvisningarna: De påverkas av nya stopplagen",
-        "summary": "Ett beslut om vilka som omfattas av stopplagen för de så kallade tonårsutvisningarna har fattats. – En viktig milstolpe, säger Jennifer Merelaid Hankins (V), ledamot i socialförsäkringsutskottet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Decision on teen deportations: They are affected by new stop law",
-        "summary": "A decision has been made on who is covered by the stop law for the so-called teen deportations. – An important milestone, says Jennifer Merelaid Hankins (V), member of the Social Insurance Committee."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:45:46+01:00"
       }
     }
   ]
