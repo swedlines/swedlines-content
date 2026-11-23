@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T17:46:00+01:00",
+  "generated_at": "2026-11-23T18:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bdd6a64e5c19",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/VxbvJJ/merz-om-rysk-krankning-farliga-provokationer",
+      "guid": "https://www.aftonbladet.se/nyheter/a/VxbvJJ/merz-om-rysk-krankning-farliga-provokationer?utm_medium=rss",
+      "published_at": "2026-11-23T18:00:04+01:00",
+      "fetched_at": "2026-11-23T18:01:14+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/1767fdf8-5582-3303-b122-5a2ab9def3f2?format=auto&s=b05bd443d7e8b7a102c3d46acdfa8c202f3b7e13&w=1000",
+      "sv": {
+        "title": "Merz om rysk kränkning: Farliga provokationer",
+        "summary": "Tysklands förbundskansler Friedrich Merz kallar de ryska projektiler som under fredagen kränkt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Merz on Russian violation: Dangerous provocations",
+        "summary": "German Chancellor Friedrich Merz calls the Russian projectiles that violated airspace on Friday…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T18:01:23+01:00"
+      }
+    },
     {
       "id": "23ea9b39ba19",
       "schema_version": 1,
@@ -5345,33 +5372,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T13:45:48+01:00"
-      }
-    },
-    {
-      "id": "7510ed4aa0be",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/mMRxp4/tidigare-s-ministern-rodgrona-har-en-chans-kvar",
-      "guid": "https://www.aftonbladet.se/nyheter/a/mMRxp4/tidigare-s-ministern-rodgrona-har-en-chans-kvar?utm_medium=rss",
-      "published_at": "2026-11-20T13:25:22+01:00",
-      "fetched_at": "2026-11-20T13:31:02+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/c684d070-a10b-38c1-916b-e35c287cb4ef?format=auto&s=18731ee9d4f4d621ef75ffb5a68a62c664c71466&w=1000",
-      "sv": {
-        "title": "Tidigare S-ministern: Rödgröna har en chans kvar",
-        "summary": "Tidigare S-ministern om regeringsknuten",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Former Social Democrat minister: the red-greens still have a chance",
-        "summary": "Former Social Democrat minister on the government deadlock"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:31:20+01:00"
       }
     }
   ]

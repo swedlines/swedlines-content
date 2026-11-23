@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-23T17:46:00+01:00",
+  "generated_at": "2026-11-23T18:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6d9caffbbcbf",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ai-och-forsvarsaktier-tog-taten-i-europa",
+      "guid": "10f189aa-5661-42c5-894e-24808f084cbb",
+      "published_at": "2026-11-23T17:49:25+01:00",
+      "fetched_at": "2026-11-23T18:01:16+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "AI- och försvarsaktier tog täten i Europa",
+        "summary": "Europabörserna handlades tydligt högre på veckans första handelsdag, med en bred AI-återhämtning i fokus. Det breda samlingsindexet Stoxx 600 stärktes 2 procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "AI and defence stocks take the lead in Europe",
+        "summary": "European stock exchanges traded clearly higher on the first trading day of the week, with a broad AI recovery in focus. The broad Stoxx 600 index strengthened 2 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T18:01:23+01:00"
+      }
+    },
+    {
+      "id": "45960f736f8e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/oslo-pa-efterkalken-i-borsrallyt",
+      "guid": "3a9ed825-c483-4957-8904-7f34be50279e",
+      "published_at": "2026-11-23T17:45:07+01:00",
+      "fetched_at": "2026-11-23T18:01:16+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Oslo på efterkälken i börsrallyt",
+        "summary": "De nordiska börserna inleder veckan med breda uppgångar, i linje med börserna i omvärlden som fick ett lyft av beskedet om att Jensen Huang återinsätts som vd för Nvidia. Det regionala samlingsindexet Vinx 30 handlades upp 2,2 procent till 1.495.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Oslo lags behind in the stock rally",
+        "summary": "The Nordic stock exchanges opened the week with broad gains, in line with stock exchanges abroad, which were lifted by the news that Jensen Huang is being reinstated as CEO of Nvidia. The regional composite index Vinx 30 rose 2.2 percent to 1,495."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T18:01:23+01:00"
+      }
+    },
     {
       "id": "3a849df8fbdc",
       "schema_version": 1,
@@ -5265,60 +5317,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T23:01:21+01:00"
-      }
-    },
-    {
-      "id": "dbd441c00b66",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/bessent-vander-om-eventuell-jensen-huang-comeback",
-      "guid": "b63b5b87-8fb3-42cf-82c0-8032780ee78f",
-      "published_at": "2026-11-22T22:22:37+01:00",
-      "fetched_at": "2026-11-22T22:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/40560837-02e9-4341-904c-3939d3223e28.jpeg?width=600",
-      "sv": {
-        "title": "Bessent vänder om eventuell Jensen Huang-comeback",
-        "summary": "Nvidia borde leta efter en ny vd utanför företaget – och nu är Jensen Huang på utsidan. Det säger USA:s finansminister Scott Bessent i en intervju med CBS.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bessent reverses on possible Jensen Huang comeback",
-        "summary": "Nvidia should look for a new CEO outside the company – and now Jensen Huang is on the outside. That is what US Finance Minister Scott Bessent says in an interview with CBS."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T22:31:06+01:00"
-      }
-    },
-    {
-      "id": "145f7406ff4a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/bortglomt-avdrag-sanker-skatten-for-jobbonarer",
-      "guid": "e8506662-af71-443d-b132-40eccd260990",
-      "published_at": "2026-11-22T22:02:15+01:00",
-      "fetched_at": "2026-11-22T22:15:42+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ffb4fef3-60c7-4fe9-ae60-0995f453601a.jpeg?width=600",
-      "sv": {
-        "title": "Bortglömt avdrag sänker skatten för jobbonärer",
-        "summary": "Trots att det avdragsgilla pensionssparandet försvann för de allra flesta för tio år sedan lever möjligheten kvar för vissa grupper. Det gäller exempelvis jobbonärer. En grupp som riskerar hög inkomstskatt när pension och arbete kombineras.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Forgotten deduction lowers tax for job-and-pension earners",
-        "summary": "Although the tax-deductible pension savings scheme disappeared for the vast majority ten years ago, the option remains for certain groups. This applies, for example, to jobbonärer. A group that risks high income tax when pension and work are combined."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T22:15:47+01:00"
       }
     }
   ]
