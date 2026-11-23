@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-23T18:16:01+01:00",
+  "generated_at": "2026-11-23T18:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ce01f75e4e40",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80225",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80225&utm_medium=rss",
+      "published_at": "2026-11-23T18:16:22+01:00",
+      "fetched_at": "2026-11-23T18:30:58+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "De får Augustpriset"
+      },
+      "en": {
+        "title": "They win the August Prize"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T18:31:03+01:00"
+      }
+    },
     {
       "id": "d270a99e1ed4",
       "schema_version": 1,
@@ -5225,33 +5248,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T13:31:20+01:00"
-      }
-    },
-    {
-      "id": "23a291b53937",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/6Pj5pe/stockholms-bostadsmarknad-ar-het-sodermalm-sticker-ut-allra-mest",
-      "guid": "https://www.svd.se/a/6Pj5pe/stockholms-bostadsmarknad-ar-het-sodermalm-sticker-ut-allra-mest?utm_medium=rss",
-      "published_at": "2026-11-20T13:11:58+01:00",
-      "fetched_at": "2026-11-20T13:15:45+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/a809dacf-8af9-32e4-96ff-667cce9b9ce3?format=auto&s=63013d018e46de630081cbdb73143bf3ce656d0f&w=1000",
-      "sv": {
-        "title": "Oväntade effekten – här rusar budgivningarna",
-        "summary": "Inte sedan våren 2022 har budgivningarna på Stockholms bostadsmarknad varit så heta.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unexpected effect – bidding wars heat up",
-        "summary": "For the first time since spring 2022, bidding wars on the Stockholm housing market have been this hot."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:15:53+01:00"
       }
     }
   ]

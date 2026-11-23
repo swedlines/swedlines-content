@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:16:01+01:00",
+  "generated_at": "2026-11-23T18:31:07+01:00",
   "count": 30,
   "stories": [
     {
@@ -1835,6 +1835,158 @@
       ]
     },
     {
+      "id": "0d35d9002aaa",
+      "source_count": 3,
+      "sources": [
+        "di",
+        "sydsvenskan",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-23T14:09:24+01:00",
+      "last_published_at": "2026-11-23T18:21:39+01:00",
+      "lead": {
+        "id": "0d35d9002aaa",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/beskedet-alkohol-och-snus-i-julkalendern-ett-lagbrott",
+        "guid": "a056e8aa-12d5-4c56-b14a-171a5b21b7e2",
+        "published_at": "2026-11-23T14:09:24+01:00",
+        "fetched_at": "2026-11-23T14:15:52+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/72265192-acad-419b-8a8b-cd3465a4b0e5.jpg?width=600",
+        "sv": {
+          "title": "Beskedet: Alkohol och snus i julkalendern ett lagbrott",
+          "summary": "Vitt snus eller alkohol i julkalendern är ett lagbrott, enligt Konsumentverket. Myndighetens besked kommer sedan det noterats att flera företag som säljer snus, vitt snus och alkohol har marknadsfört kalendrar på nätet och i sociala medier.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Ruling: Alcohol and snus in Christmas calendars is a crime",
+          "summary": "White snus or alcohol in Christmas calendars is a crime, according to the Consumer Agency. The agency's ruling comes after it noted that several companies selling snus, white snus and alcohol have marketed calendars online and on social media."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T14:16:05+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "ba19eb74178c",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/julkalendrar-med-snus-och-alkohol-bryter-mot-lagen",
+          "published_at": "2026-11-23T18:21:39+01:00",
+          "sv": {
+            "title": "Julkalendrar med snus och alkohol bryter mot lagen"
+          },
+          "en": {
+            "title": "Advent calendars with snus and alcohol break the law"
+          }
+        },
+        {
+          "id": "228c34d43d06",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/konsumentverket-snus-i-kalendern-ar-ett-lagbrott",
+          "published_at": "2026-11-23T14:23:03+01:00",
+          "sv": {
+            "title": "Konsumentverket: Snus i kalendern är ett lagbrott"
+          },
+          "en": {
+            "title": "Consumer Agency: Snus in advent calendars is a violation of the law"
+          }
+        },
+        {
+          "id": "0d35d9002aaa",
+          "source": "di",
+          "url": "https://www.di.se/live/beskedet-alkohol-och-snus-i-julkalendern-ett-lagbrott",
+          "published_at": "2026-11-23T14:09:24+01:00",
+          "sv": {
+            "title": "Beskedet: Alkohol och snus i julkalendern ett lagbrott"
+          },
+          "en": {
+            "title": "Ruling: Alcohol and snus in Christmas calendars is a crime"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8b94dedba22d",
+      "source_count": 3,
+      "sources": [
+        "sydsvenskan",
+        "svd",
+        "dn"
+      ],
+      "first_published_at": "2026-11-23T17:26:15+01:00",
+      "last_published_at": "2026-11-23T18:19:50+01:00",
+      "lead": {
+        "id": "8b94dedba22d",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/noje/augustprisgalan-i-gang-forsta-priset-utdelat",
+        "guid": "dc0d4c22-4385-4c28-bef4-65f941c2928d",
+        "published_at": "2026-11-23T17:26:15+01:00",
+        "fetched_at": "2026-11-23T17:31:01+01:00",
+        "category": "culture",
+        "image_url": "https://static.bonniernews.se/ba/6a9ca4ec-0c1a-4b0a-8f3c-fa06538eb443.jpg?width=600",
+        "sv": {
+          "title": "Augustprisgalan i gång – första priset utdelat",
+          "summary": "Nu har kvällens Augustprisgala på Dramaten i Stockholm inletts. Lilla Augustpriset går till ”Solkraft” av Lea Andersson. Senare i kväll kan Klas Östergren få Augustpriset för första gången.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "August Prize gala under way – first prize awarded",
+          "summary": "Tonight's August Prize gala has begun at Dramaten in Stockholm. The Little August Prize goes to \"Solkraft\" by Lea Andersson. Later this evening Klas Östergren may receive the August Prize for the first time."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T17:31:06+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "610a605d6014",
+          "source": "dn",
+          "url": "https://www.dn.se/kultur/karolina-ramqvist-vinner-augustpriset",
+          "published_at": "2026-11-23T18:19:50+01:00",
+          "sv": {
+            "title": "Karolina Ramqvist vinner Augustpriset"
+          },
+          "en": {
+            "title": "Karolina Ramqvist wins the August Prize"
+          }
+        },
+        {
+          "id": "ce01f75e4e40",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80225",
+          "published_at": "2026-11-23T18:16:22+01:00",
+          "sv": {
+            "title": "De får Augustpriset"
+          },
+          "en": {
+            "title": "They win the August Prize"
+          }
+        },
+        {
+          "id": "8b94dedba22d",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/noje/augustprisgalan-i-gang-forsta-priset-utdelat",
+          "published_at": "2026-11-23T17:26:15+01:00",
+          "sv": {
+            "title": "Augustprisgalan i gång – första priset utdelat"
+          },
+          "en": {
+            "title": "August Prize gala under way – first prize awarded"
+          }
+        }
+      ]
+    },
+    {
       "id": "5d2fcdccf316",
       "source_count": 3,
       "sources": [
@@ -2933,131 +3085,6 @@
           },
           "en": {
             "title": "Woman in police image was not missing"
-          }
-        }
-      ]
-    },
-    {
-      "id": "613a949b914d",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-23T14:48:41+01:00",
-      "last_published_at": "2026-11-23T15:05:13+01:00",
-      "lead": {
-        "id": "613a949b914d",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/familjehemspappa-i-umea-atalas-for-valdtakt-mot-barn",
-        "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/familjehemspappa-i-umea-atalas-for-valdtakt-mot-barn",
-        "published_at": "2026-11-23T14:48:41+01:00",
-        "fetched_at": "2026-11-23T15:10:44+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Familjehemspappa i Umeå åtalas för våldtäkt mot barn",
-          "summary": "En man i 60-årsåldern hemmahörande i Umeå kommun åtalas för våldtäkt mot barn och grovt barnfridsbrott. Mannen har under flera år varit familjehemspappa åt tre barn.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Foster father in Umeå charged with rape of child",
-          "summary": "A man in his 60s residing in Umeå Municipality is charged with rape of a child and aggravated child-protection offence. The man has for several years been a foster father to three children."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T15:10:54+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "bb05f277a3b6",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/qOLavm/familjehemspappa-atalas-for-valdtakt",
-          "published_at": "2026-11-23T15:05:13+01:00",
-          "sv": {
-            "title": "Familjehemspappa åtalas för våldtäkt"
-          },
-          "en": {
-            "title": "Foster father charged with rape"
-          }
-        },
-        {
-          "id": "613a949b914d",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/familjehemspappa-i-umea-atalas-for-valdtakt-mot-barn",
-          "published_at": "2026-11-23T14:48:41+01:00",
-          "sv": {
-            "title": "Familjehemspappa i Umeå åtalas för våldtäkt mot barn"
-          },
-          "en": {
-            "title": "Foster father in Umeå charged with rape of child"
-          }
-        }
-      ]
-    },
-    {
-      "id": "4e520fda75f8",
-      "source_count": 2,
-      "sources": [
-        "sydsvenskan",
-        "di"
-      ],
-      "first_published_at": "2026-11-23T14:36:06+01:00",
-      "last_published_at": "2026-11-23T14:45:37+01:00",
-      "lead": {
-        "id": "4e520fda75f8",
-        "schema_version": 1,
-        "source": "sydsvenskan",
-        "url": "https://www.sydsvenskan.se/ekonomi/lego-storsatser-pa-ny-fabrik-i-portugal",
-        "guid": "178f4b47-45a3-4732-acdb-28cbd311b07a",
-        "published_at": "2026-11-23T14:36:06+01:00",
-        "fetched_at": "2026-11-23T14:45:51+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/b8e55983-9075-4d92-97ef-d3cd31cf4353.jpg?width=600",
-        "sv": {
-          "title": "Lego storsatser på ny fabrik i Portugal",
-          "summary": "Den danska leksakstillverkaren Lego investerar en miljard euro (drygt elva miljarder kronor) på bygget av en ny fabrik Portugal, för att möta ökad europeisk efterfrågan.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Lego invests heavily in new factory in Portugal",
-          "summary": "The Danish toy maker Lego is investing one billion euros (just over SEK 11 billion) in building a new factory in Portugal to meet increased European demand."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T14:45:56+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "80a59efecf5e",
-          "source": "di",
-          "url": "https://www.di.se/live/lego-bygger-ny-fabrik-for-11-miljarder",
-          "published_at": "2026-11-23T14:45:37+01:00",
-          "sv": {
-            "title": "Lego bygger ny fabrik för 11 miljarder"
-          },
-          "en": {
-            "title": "Lego builds new factory for SEK 11 billion"
-          }
-        },
-        {
-          "id": "4e520fda75f8",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/lego-storsatser-pa-ny-fabrik-i-portugal",
-          "published_at": "2026-11-23T14:36:06+01:00",
-          "sv": {
-            "title": "Lego storsatser på ny fabrik i Portugal"
-          },
-          "en": {
-            "title": "Lego invests heavily in new factory in Portugal"
           }
         }
       ]

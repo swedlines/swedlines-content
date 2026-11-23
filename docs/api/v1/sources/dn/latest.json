@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T18:16:01+01:00",
+  "generated_at": "2026-11-23T18:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "610a605d6014",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/karolina-ramqvist-vinner-augustpriset",
+      "guid": "https://www.dn.se/kultur/karolina-ramqvist-vinner-augustpriset/",
+      "published_at": "2026-11-23T18:19:50+01:00",
+      "fetched_at": "2026-11-23T18:30:58+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/ba2120d2-79be-4352-8ad4-e226450851c2.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Karolina Ramqvist vinner Augustpriset",
+        "summary": "Årets Augustpris för bästa skönlitterära bok tilldelas Karolina Ramqvist för ”Nattsäsong”. Priset för årets fackbok går postumt till författaren och journalisten Per Svensson för ”När jag dog”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Karolina Ramqvist wins the August Prize",
+        "summary": "This year's August Prize for best fiction book goes to Karolina Ramqvist for \"Nattsäsong\". The prize for this year's non-fiction book goes posthumously to author and journalist Per Svensson for \"När jag dog\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T18:31:03+01:00"
+      }
+    },
     {
       "id": "bd5b13aa15de",
       "schema_version": 1,
@@ -5370,33 +5397,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T10:45:54+01:00"
-      }
-    },
-    {
-      "id": "2b12438a4a6a",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ekonomi/okanda-hackare-hotar-lacka-nvidias-hemligheter",
-      "guid": "https://www.dn.se/ekonomi/okanda-hackare-hotar-lacka-nvidias-hemligheter/",
-      "published_at": "2026-11-20T10:17:04+01:00",
-      "fetched_at": "2026-11-20T10:31:02+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/96260cdd-354b-40de-b6b3-1a6155a2e97e.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Ökända hackare hotar läcka Nvidias hemligheter",
-        "summary": "Hackergruppen The Gentlemen säger sig ha stulit hemlig data från AI-jätten Nvidia. Om bolaget inte betalar en lösensumma hotar hackarna att publicera allt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Notorious hackers threaten to leak Nvidia's secrets",
-        "summary": "The hacker group The Gentlemen claims to have stolen confidential data from AI giant Nvidia. If the company does not pay a ransom, the hackers threaten to publish everything."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T10:31:10+01:00"
       }
     }
   ]

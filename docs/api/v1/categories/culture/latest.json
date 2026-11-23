@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-23T18:16:01+01:00",
+  "generated_at": "2026-11-23T18:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "610a605d6014",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/karolina-ramqvist-vinner-augustpriset",
+      "guid": "https://www.dn.se/kultur/karolina-ramqvist-vinner-augustpriset/",
+      "published_at": "2026-11-23T18:19:50+01:00",
+      "fetched_at": "2026-11-23T18:30:58+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/ba2120d2-79be-4352-8ad4-e226450851c2.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Karolina Ramqvist vinner Augustpriset",
+        "summary": "Årets Augustpris för bästa skönlitterära bok tilldelas Karolina Ramqvist för ”Nattsäsong”. Priset för årets fackbok går postumt till författaren och journalisten Per Svensson för ”När jag dog”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Karolina Ramqvist wins the August Prize",
+        "summary": "This year's August Prize for best fiction book goes to Karolina Ramqvist for \"Nattsäsong\". The prize for this year's non-fiction book goes posthumously to author and journalist Per Svensson for \"När jag dog\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T18:31:03+01:00"
+      }
+    },
+    {
+      "id": "ce01f75e4e40",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80225",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80225&utm_medium=rss",
+      "published_at": "2026-11-23T18:16:22+01:00",
+      "fetched_at": "2026-11-23T18:30:58+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "De får Augustpriset"
+      },
+      "en": {
+        "title": "They win the August Prize"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T18:31:03+01:00"
+      }
+    },
     {
       "id": "05f20e9d1fe5",
       "schema_version": 1,
@@ -5666,64 +5716,6 @@
       "en": {
         "title": "Valter Nilsson releases live album from Bananpiren",
         "summary": "All proceeds go to Göteborgs Stadsmission."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T12:01:25+01:00"
-      }
-    },
-    {
-      "id": "84875246d0cd",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/3BJooq/mer-ull-for-pengarna-nar-du-handlar-klader-pa-herravdelningen",
-      "guid": "https://www.svd.se/a/3BJooq/mer-ull-for-pengarna-nar-du-handlar-klader-pa-herravdelningen?utm_medium=rss",
-      "published_at": "2026-11-20T11:39:17+01:00",
-      "fetched_at": "2026-11-20T11:45:49+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/e118bfed-db75-31b3-9dcb-6ea974f16386?format=auto&s=45e7b499f27645a4f2e2ae0d7291dd1cd9c9bb52&w=1000",
-      "sv": {
-        "title": "”Hela min outfit är gjord av syntetmaterial”",
-        "summary": "Man får mer ull för pengarna på herravdelningen, visar en ny jämförelse.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"My entire outfit is made of synthetic material\"",
-        "summary": "You get more wool for your money in the men's department, a new comparison shows."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:45:57+01:00"
-      }
-    },
-    {
-      "id": "0c4eba0cab32",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyhetsshowen/kandisflodhasten-fiona-at-sticka-mossa-och-dog.31e71ed4-b1e4-507f-abc7-5e790ccb5bb6",
-      "guid": "31e71ed4-b1e4-507f-abc7-5e790ccb5bb6",
-      "published_at": "2026-11-20T11:34:42+01:00",
-      "fetched_at": "2026-11-20T12:01:17+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nyhetsshowen",
-        "Tagg: Nyhetsshowen"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/b95c67b7-7b6d-30ce-a246-00d6db684e83",
-      "sv": {
-        "title": "Nyhetsshowen 20 november: Kändisflodhästen Fiona åt sticka mössa och dog",
-        "summary": "Konflikt kring populära julgodiset, potentiellt hotfulla mejladresser stoppade tåg och influensan är här – tidigare än vanligt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "News show 20 November: Celebrity hippo Fiona ate a knitted hat and died",
-        "summary": "Dispute over popular Christmas sweets, potentially threatening email addresses stopped trains and the flu is here – earlier than usual."
       },
       "translation": {
         "status": "done",
