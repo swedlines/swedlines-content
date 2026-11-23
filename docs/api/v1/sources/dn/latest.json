@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T23:15:52+01:00",
+  "generated_at": "2026-11-23T23:28:39+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3916a11f0968",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-23-november-3",
+      "guid": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-23-november-3/",
+      "published_at": "2026-11-23T23:26:08+01:00",
+      "fetched_at": "2026-11-23T23:28:27+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/2ced1e8e-5079-4c9e-bb4f-8a336a39cab7.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Noterat av DN:s läsare den 23 november",
+        "summary": "INSÄNDARE. Dagens Nyheters läsare ger sin syn på läget i Sverige och världen samt DN:s innehåll måndagen den 23 november.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letters. Noted by DN's readers on 23 November",
+        "summary": "LETTERS. Dagens Nyheter's readers share their views on the situation in Sweden and the world, as well as DN's content on Monday 23 November."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T23:28:35+01:00"
+      }
+    },
     {
       "id": "4c91af8c4692",
       "schema_version": 1,
@@ -5370,33 +5397,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T14:31:08+01:00"
-      }
-    },
-    {
-      "id": "68ae9a667084",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/ola-larsmo-manniskorattens-dodgravare-stravar-efter-ingenting-alls",
-      "guid": "https://www.dn.se/kultur/ola-larsmo-manniskorattens-dodgravare-stravar-efter-ingenting-alls/",
-      "published_at": "2026-11-20T14:07:36+01:00",
-      "fetched_at": "2026-11-20T14:15:48+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/17747c8c-f6c9-4936-88be-f0753626e06f.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Ola Larsmo: Människorättens dödgrävare strävar efter ”ingenting alls”",
-        "summary": "Den 19 november blev Myanmar den första staten att fällas för folkmord av FN:s högsta domstol. Samma dag förenades Putin, Trump och Xi i ett gemensamt utfall mot människorätten. Nu väntar en ödesstund för rättvisan, skriver Ola Larsmo.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ola Larsmo: Human rights gravediggers strive for \"nothing at all\"",
-        "summary": "On 19 November Myanmar became the first state to be convicted of genocide by the UN's highest court. The same day Putin, Trump and Xi came together in a joint move against human rights. Now a decisive moment for justice awaits, writes Ola Larsmo."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T14:16:02+01:00"
       }
     }
   ]

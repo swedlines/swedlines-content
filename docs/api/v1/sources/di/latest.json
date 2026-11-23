@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T23:15:52+01:00",
+  "generated_at": "2026-11-23T23:28:39+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a536f5fc52ea",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/centerns-besked-aterupptar-samtalen-med-m-kd-och-l",
+      "guid": "549a22b4-2439-4b33-898e-48fa4dc1b58a",
+      "published_at": "2026-11-23T23:18:40+01:00",
+      "fetched_at": "2026-11-23T23:28:31+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/25d803e8-421e-4468-b63e-5b3fe45c661a.jpeg?width=600",
+      "sv": {
+        "title": "Centerns besked: Återupptar samtalen med M, KD och L",
+        "summary": "Centerpartiet återupptar samtalen med M, KD och L Uppger C-ledaren Elisabeth Thand Ringqvist för Aftonbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre's answer: Resumes talks with the Moderates, the Christian Democrats and the Liberals",
+        "summary": "The Centre Party is resuming talks with the Moderates, the Christian Democrats and the Liberals, C leader Elisabeth Thand Ringqvist tells Aftonbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T23:28:35+01:00"
+      }
+    },
     {
       "id": "74fb666f9c35",
       "schema_version": 1,
@@ -5316,33 +5343,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T17:31:09+01:00"
-      }
-    },
-    {
-      "id": "d4aa18599635",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/nu-drar-svarta-miljardyran-igang-ordentlig-okning",
-      "guid": "5d3cecc3-7615-41a5-8bac-31f0bfd08007",
-      "published_at": "2026-11-21T16:37:17+01:00",
-      "fetched_at": "2026-11-21T16:45:44+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/69192d09-fa2d-4682-a243-8498d6e5daa5.jpeg?width=600",
-      "sv": {
-        "title": "Nu drar svarta miljardyran igång: ”Ordentlig ökning”",
-        "summary": "Med Black Week tjuvstartar julhandeln som spås bli rekordstark i år. Under reaveckan som startar på måndag handlar svenskarna för 12 miljarder kronor mer än under en vanlig vecka. Planerade julklappsköp till lägre pris lockar, men privatekonomer varnar för onödiga spontanköp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Black Friday shopping kicks off: “Significant increase”",
-        "summary": "With Black Week, the Christmas shopping season starts early and is forecast to be record-strong this year. During the sale week starting on Monday, Swedes will spend SEK 12 billion more than during an ordinary week. Planned Christmas purchases at lower prices are attracting shoppers, but private economists warn against unnecessary impulse buying."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T16:45:50+01:00"
       }
     }
   ]

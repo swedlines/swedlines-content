@@ -1,7 +1,114 @@
 {
-  "generated_at": "2026-11-23T23:15:52+01:00",
+  "generated_at": "2026-11-23T23:28:39+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3916a11f0968",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-23-november-3",
+      "guid": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-23-november-3/",
+      "published_at": "2026-11-23T23:26:08+01:00",
+      "fetched_at": "2026-11-23T23:28:27+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/2ced1e8e-5079-4c9e-bb4f-8a336a39cab7.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Noterat av DN:s läsare den 23 november",
+        "summary": "INSÄNDARE. Dagens Nyheters läsare ger sin syn på läget i Sverige och världen samt DN:s innehåll måndagen den 23 november.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letters. Noted by DN's readers on 23 November",
+        "summary": "LETTERS. Dagens Nyheter's readers share their views on the situation in Sweden and the world, as well as DN's content on Monday 23 November."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T23:28:35+01:00"
+      }
+    },
+    {
+      "id": "c47c26537bd1",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/r8A7mK/c-gar-hogerut-inga-tydliga-besked-fran-v",
+      "guid": "https://www.svd.se/a/r8A7mK/c-gar-hogerut-inga-tydliga-besked-fran-v?utm_medium=rss",
+      "published_at": "2026-11-23T23:24:02+01:00",
+      "fetched_at": "2026-11-23T23:28:28+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/69cd1c5a-5f97-3b53-bd5f-4d9c79393e28?format=auto&s=92deed74b58cb65286b2da8bb513e3f98e903122&w=1000",
+      "sv": {
+        "title": "C går högerut: ”Inga tydliga besked från V”",
+        "summary": "Centerpartiet återupptar samtalen med högersidan, skriver partiledare Elisabeth Thand Ringqvist till…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C turns right: \"No clear answer from V\"",
+        "summary": "The Centre Party is resuming talks with the right-leaning side, party leader Elisabeth Thand Ringqvist writes to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T23:28:35+01:00"
+      }
+    },
+    {
+      "id": "92233074b00b",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/mojlig-oppning-for-att-v-ska-slappa-ministerkraven",
+      "guid": "https://www.svt.se/nyheter/inrikes/mojlig-oppning-for-att-v-ska-slappa-ministerkraven",
+      "published_at": "2026-11-23T23:22:43+01:00",
+      "fetched_at": "2026-11-23T23:28:26+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Möjlig öppning för att V ska släppa ministerkraven",
+        "summary": "Vänsterpartiet kan tänka sig att överväga släppa kravet på ministerposter – men bara om de får igenom större politiska sakfrågor, det säger Ida Gabrielsson (V) i Aktuellt. – Jag hade förväntat mig ett ordentlig bud, inte småsaker.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Possible opening for V to drop ministerial demands",
+        "summary": "The Left Party could consider dropping its demand for ministerial posts – but only if it gets through larger policy issues, says Ida Gabrielsson (V) on Aktuellt. – I had expected a proper offer, not small things."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T23:28:35+01:00"
+      }
+    },
+    {
+      "id": "a536f5fc52ea",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/centerns-besked-aterupptar-samtalen-med-m-kd-och-l",
+      "guid": "549a22b4-2439-4b33-898e-48fa4dc1b58a",
+      "published_at": "2026-11-23T23:18:40+01:00",
+      "fetched_at": "2026-11-23T23:28:31+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/25d803e8-421e-4468-b63e-5b3fe45c661a.jpeg?width=600",
+      "sv": {
+        "title": "Centerns besked: Återupptar samtalen med M, KD och L",
+        "summary": "Centerpartiet återupptar samtalen med M, KD och L Uppger C-ledaren Elisabeth Thand Ringqvist för Aftonbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre's answer: Resumes talks with the Moderates, the Christian Democrats and the Liberals",
+        "summary": "The Centre Party is resuming talks with the Moderates, the Christian Democrats and the Liberals, C leader Elisabeth Thand Ringqvist tells Aftonbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T23:28:35+01:00"
+      }
+    },
     {
       "id": "bd77be789e1d",
       "schema_version": 1,
@@ -49,6 +156,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T23:15:50+01:00"
+      }
+    },
+    {
+      "id": "f15341d7f968",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/KL3gWG/c-aterupptar-samtal-med-m-kd-och-l",
+      "guid": "https://www.aftonbladet.se/nyheter/a/KL3gWG/c-aterupptar-samtal-med-m-kd-och-l?utm_medium=rss",
+      "published_at": "2026-11-23T23:05:54+01:00",
+      "fetched_at": "2026-11-23T23:28:29+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/c1587827-4151-31b2-953b-eb4def3f6fd6?format=auto&s=632960ec4226c6310a78868ec9ac0281614617e1&w=1000",
+      "sv": {
+        "title": "C återupptar samtal med M, KD och L",
+        "summary": "Nya beskedet från Thand Ringqvist",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C resumes talks with the Moderates, the Christian Democrats and the Liberals",
+        "summary": "New message from Thand Ringqvist"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T23:28:35+01:00"
       }
     },
     {
@@ -5310,139 +5444,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T16:15:57+01:00"
-      }
-    },
-    {
-      "id": "13db2a60bdc0",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/vkQ2zB/huang-tillbaka-efter-skandalerna-detta-har-hant",
-      "guid": "https://www.svd.se/a/vkQ2zB/huang-tillbaka-efter-skandalerna-detta-har-hant?utm_medium=rss",
-      "published_at": "2026-11-23T15:53:35+01:00",
-      "fetched_at": "2026-11-23T16:01:14+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/65b12670-859a-3ae6-a7ec-e70bf85efa10?format=auto&s=a712779d9ddcc4163ffa0cb9172fe81b36bec245&w=1000",
-      "sv": {
-        "title": "Huang tillbaka efter skandalerna – detta har hänt",
-        "summary": "Han fick sparken efter att flera otrohetsskandaler uppdagats, inte minst med en misstänkt kinesisk…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Huang back after the scandals – here is what happened",
-        "summary": "He was fired after several infidelity scandals came to light, not least with a suspected Chinese…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T16:01:24+01:00"
-      }
-    },
-    {
-      "id": "a09a3de6f8be",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/det-basta-beslutet-for-nvidia-och-ai-sektorn",
-      "guid": "8dec1400-41cc-4c29-a198-741791eb6ae2",
-      "published_at": "2026-11-23T15:52:13+01:00",
-      "fetched_at": "2026-11-23T16:15:51+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/9ed8256c-c630-47ac-8b12-d1da09dedd01.jpeg?width=600",
-      "sv": {
-        "title": "Det bästa beslutet för Nvidia och AI-sektorn",
-        "summary": "NEW YORK. Jensen Huang återvänder som vd. För Nvidia fanns knappast något annat realistiskt alternativ. Styrelsens beslut att återanställa medgrundaren är det bästa som AI-sektorns fixstjärna hade kunnat göra.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The best decision for Nvidia and the AI sector",
-        "summary": "NEW YORK. Jensen Huang returns as CEO. For Nvidia there was hardly any other realistic option. The board's decision to rehire the co-founder is the best thing the AI sector's star could have hoped for."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T16:15:57+01:00"
-      }
-    },
-    {
-      "id": "eac60dda002d",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/centerpartiet-bor-lagga-ner-sina-roster",
-      "guid": "https://www.dn.se/insandare/centerpartiet-bor-lagga-ner-sina-roster/",
-      "published_at": "2026-11-23T15:51:24+01:00",
-      "fetched_at": "2026-11-23T16:01:13+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/cf12ada2-e6a1-4775-8f2b-3aabea8cac7d.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Centerpartiet bör lägga ner sina röster",
-        "summary": "INSÄNDARE. Om Centerpartiet inte ingår i en rödgrön regering skulle partiet kunna utestänga SD genom att rösta med vänste­rblocket när så önskas. Varför hör man inget om alternativet att C lägger ner sin röst i statsministervalet? undrar Nina Rask.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letter. The Centre Party should withdraw its votes",
-        "summary": "Letter. If the Centre Party is not part of a red-green government, the party could exclude the Sweden Democrats by voting with the left-wing bloc when desired. Why do we hear nothing about the alternative of the Centre Party withdrawing its vote in the prime-ministerial vote? asks Nina Rask."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T16:01:24+01:00"
-      }
-    },
-    {
-      "id": "b35fff95b62a",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/skadespelarens-video-vacker-ilska-nu-utreds-hon",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/skadespelarens-video-vacker-ilska-nu-utreds-hon",
-      "published_at": "2026-11-23T15:50:47+01:00",
-      "fetched_at": "2026-11-23T16:01:15+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Utreds av polis – efter tolv sekunder",
-        "summary": "Skådespelarens film från moskén väcker ilska",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police investigating – after twelve seconds",
-        "summary": "The actor's film from the mosque sparks anger"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T16:01:24+01:00"
-      }
-    },
-    {
-      "id": "8220d67aa634",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=1b778fac-d6d6-4f72-802d-87fefe590566",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1b778fac-d6d6-4f72-802d-87fefe590566",
-      "published_at": "2026-11-23T15:48:34+01:00",
-      "fetched_at": "2026-11-23T16:01:15+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisens bilder – på fel person",
-        "summary": "Hoppades hitta försvunnen kvinna",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police images – of the wrong person",
-        "summary": "Hoped to find missing woman"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T16:01:24+01:00"
       }
     }
   ]
