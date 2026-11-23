@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:28:39+01:00",
+  "generated_at": "2026-11-23T23:31:11+01:00",
   "count": 30,
   "stories": [
     {
@@ -2757,6 +2757,69 @@
       ]
     },
     {
+      "id": "f15341d7f968",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "dn"
+      ],
+      "first_published_at": "2026-11-23T23:05:54+01:00",
+      "last_published_at": "2026-11-23T23:30:15+01:00",
+      "lead": {
+        "id": "f15341d7f968",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/KL3gWG/c-aterupptar-samtal-med-m-kd-och-l",
+        "guid": "https://www.aftonbladet.se/nyheter/a/KL3gWG/c-aterupptar-samtal-med-m-kd-och-l?utm_medium=rss",
+        "published_at": "2026-11-23T23:05:54+01:00",
+        "fetched_at": "2026-11-23T23:28:29+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/c1587827-4151-31b2-953b-eb4def3f6fd6?format=auto&s=632960ec4226c6310a78868ec9ac0281614617e1&w=1000",
+        "sv": {
+          "title": "C återupptar samtal med M, KD och L",
+          "summary": "Nya beskedet från Thand Ringqvist",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "C resumes talks with the Moderates, the Christian Democrats and the Liberals",
+          "summary": "New message from Thand Ringqvist"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T23:28:35+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "918657884c98",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/cs-aterupptar-forhandlingar-med-m-kd-och-l",
+          "published_at": "2026-11-23T23:30:15+01:00",
+          "sv": {
+            "title": "C:s återupptar förhandlingar med M, KD och L"
+          },
+          "en": {
+            "title": "C re-opens talks with the Moderates, Christian Democrats and Liberals"
+          }
+        },
+        {
+          "id": "f15341d7f968",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/KL3gWG/c-aterupptar-samtal-med-m-kd-och-l",
+          "published_at": "2026-11-23T23:05:54+01:00",
+          "sv": {
+            "title": "C återupptar samtal med M, KD och L"
+          },
+          "en": {
+            "title": "C resumes talks with the Moderates, the Christian Democrats and the Liberals"
+          }
+        }
+      ]
+    },
+    {
       "id": "293cc1331fc7",
       "source_count": 2,
       "sources": [
@@ -3017,73 +3080,6 @@
           },
           "en": {
             "title": "Outrage over Trump's involvement in Huang's comeback"
-          }
-        }
-      ]
-    },
-    {
-      "id": "495fbd70c646",
-      "source_count": 2,
-      "sources": [
-        "gp",
-        "svd"
-      ],
-      "first_published_at": "2026-11-23T20:49:24+01:00",
-      "last_published_at": "2026-11-23T21:25:25+01:00",
-      "lead": {
-        "id": "495fbd70c646",
-        "schema_version": 1,
-        "source": "gp",
-        "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/hammarby-besegrade-ifk-goteborg-guldrysare-vantar.82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
-        "guid": "82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
-        "published_at": "2026-11-23T20:49:24+01:00",
-        "fetched_at": "2026-11-23T21:15:51+01:00",
-        "category": "sports",
-        "feed_categories": [
-          "IFK Göteborg",
-          "Tagg: IFK Göteborg"
-        ],
-        "image_url": "https://vcdn.polarismedia.no/0d18a469-4adc-301d-9c79-0d952e474166",
-        "sv": {
-          "title": "Bajen besegrade Blåvitt – guldrysare väntar",
-          "summary": "Blåvitt lyckades skapa nerv – räckte inte hela vägen • Slutdrama i sista omgången på Gamla Ullevi.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Bajen beat Blåvitt – title race awaits",
-          "summary": "Blåvitt managed to create tension – but not enough to go all the way • Thriller in the final round at Gamla Ullevi."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T21:15:56+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "83a1c0c56045",
-          "source": "svd",
-          "url": "https://www.svd.se/a/aGwn75/henrik-rydstrom-har-lyft-hammarby-ena-handen-pa-lennart-johanssons-pokal",
-          "published_at": "2026-11-23T21:25:25+01:00",
-          "sv": {
-            "title": "Rydströms intåg har lyft Bajen"
-          },
-          "en": {
-            "title": "Rydström's arrival has lifted Bajen"
-          }
-        },
-        {
-          "id": "495fbd70c646",
-          "source": "gp",
-          "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/hammarby-besegrade-ifk-goteborg-guldrysare-vantar.82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
-          "published_at": "2026-11-23T20:49:24+01:00",
-          "sv": {
-            "title": "Bajen besegrade Blåvitt – guldrysare väntar"
-          },
-          "en": {
-            "title": "Bajen beat Blåvitt – title race awaits"
           }
         }
       ]
