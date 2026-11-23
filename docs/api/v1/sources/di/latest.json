@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T20:01:27+01:00",
+  "generated_at": "2026-11-23T20:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6840e4850928",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/experter-detta-vantar-nvidia-och-borsen",
+      "guid": "43507a39-6d67-4c53-9b5d-99e907151d84",
+      "published_at": "2026-11-23T20:03:01+01:00",
+      "fetched_at": "2026-11-23T20:15:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6a5596c4-8611-4288-ab1a-53409f1e2979.jpeg?width=600",
+      "sv": {
+        "title": "Experter: Detta väntar Nvidia och börsen",
+        "summary": "Wall Streets närmast historiska reaktion på Jensen Huangs återkomst till Nvidia förklaras delvis av att AI-bolagen var extremt översålda, enligt bedömare. Men hur ser framtiden ut nu för Nvidia och i förlängningen börsen?",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Experts: This Awaits Nvidia and the Stock Market",
+        "summary": "Wall Street's near-historic reaction to Jensen Huang's return to Nvidia is partly explained by AI companies being extremely oversold, according to analysts. But what does the future now hold for Nvidia and, by extension, the stock market?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T20:15:50+01:00"
+      }
+    },
     {
       "id": "306e7c415635",
       "schema_version": 1,
@@ -5316,33 +5343,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T14:01:24+01:00"
-      }
-    },
-    {
-      "id": "e1961f0ede31",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/fartyg-attackerat-drivit-till-finlandskt-vatten",
-      "guid": "d6eca980-790f-4086-ab1c-fddb5314f94e",
-      "published_at": "2026-11-21T13:23:55+01:00",
-      "fetched_at": "2026-11-21T13:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a19d3d3a-cbbe-4e7b-b630-4c1cd2ea9411.jpg?width=600",
-      "sv": {
-        "title": "Fartyg attackerat – drivit till finländskt vatten",
-        "summary": "Ett fraktfartyg har attackerats i Finska viken och drivit in i finländskt vatten. Fartyget ifråga står under sanktioner för vapentransporter till den ryska militären.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ship attacked – drifted into Finnish waters",
-        "summary": "A cargo ship was attacked in the Gulf of Finland and drifted into Finnish waters. The vessel in question is under sanctions for transporting weapons to the Russian military."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T13:31:08+01:00"
       }
     }
   ]

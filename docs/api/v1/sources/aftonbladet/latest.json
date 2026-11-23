@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T20:01:27+01:00",
+  "generated_at": "2026-11-23T20:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bd9da38c8e1c",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/2vGzm4/utredningen-avslojar-bestraffningsmetoderna-pa-sigtunaskolan",
+      "guid": "https://www.aftonbladet.se/nyheter/a/2vGzm4/utredningen-avslojar-bestraffningsmetoderna-pa-sigtunaskolan?utm_medium=rss",
+      "published_at": "2026-11-23T20:03:17+01:00",
+      "fetched_at": "2026-11-23T20:15:45+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/1a70a08f-b02a-31e8-ac97-e12599785349?format=auto&s=ebcd9f4fd839ec0c8a299a7872c9120b8bd6640a&w=1000",
+      "sv": {
+        "title": "Utredningen avslöjar bestraffningsmetoderna på Sigtunaskolan",
+        "summary": "Larm om tortyr, sexövergrepp och förnedring",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Investigation Reveals Punishment Methods at Sigtuna School",
+        "summary": "Reports of torture, sexual abuse and humiliation"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T20:15:50+01:00"
+      }
+    },
     {
       "id": "697da291db6e",
       "schema_version": 1,
@@ -5345,33 +5372,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T15:01:26+01:00"
-      }
-    },
-    {
-      "id": "152497e0a3ea",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/kMJPzQ/frankrike-begar-fn-mote-efter-ambassadanfall",
-      "guid": "https://www.aftonbladet.se/nyheter/a/kMJPzQ/frankrike-begar-fn-mote-efter-ambassadanfall?utm_medium=rss",
-      "published_at": "2026-11-20T14:40:09+01:00",
-      "fetched_at": "2026-11-20T14:45:46+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/e028959b-b2ad-3035-9469-3f5fa5d730a8?format=auto&s=7c17dc000333d020ee39934bfed355d0f20b7766&w=1000",
-      "sv": {
-        "title": "Frankrike begär FN-möte efter ambassadanfall",
-        "summary": "Efter torsdagens ryska attacker mot ambassader i Ukraina har Frankrike begärt ett möte i FN:s…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "France requests UN meeting after embassy attacks",
-        "summary": "Following Thursday's Russian attacks on embassies in Ukraine, France has requested a meeting at the UN…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T14:45:51+01:00"
       }
     }
   ]

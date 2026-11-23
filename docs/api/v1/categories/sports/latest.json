@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T20:01:27+01:00",
+  "generated_at": "2026-11-23T20:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ac0fd85b3339",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/skidskytte/martin-ponsiluoma-missar-varldscuppremiaren",
+      "guid": "https://www.svt.se/sport/skidskytte/martin-ponsiluoma-missar-varldscuppremiaren",
+      "published_at": "2026-11-23T20:02:35+01:00",
+      "fetched_at": "2026-11-23T20:15:43+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Martin Ponsiluoma missar världscuppremiären: ”Personliga skäl”",
+        "summary": "Martin Ponsiluoma drar sig ur världscuppremiären i Kontiolax. ”Martin och Hanna ber om visad hänsyn för sitt privatliv kommande tid”, skriver skidskytteförbundets pressansvariga Emma Höglund.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Martin Ponsiluoma Misses World Cup Season Opener: \"Personal Reasons\"",
+        "summary": "Martin Ponsiluoma is withdrawing from the World Cup season opener in Kontiolahti. \"Martin and Hanna ask for consideration for their private life in the coming period,\" writes Emma Höglund, press officer of the Swedish Biathlon Federation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T20:15:50+01:00"
+      }
+    },
     {
       "id": "7c9adcefad3e",
       "schema_version": 1,
@@ -5588,32 +5614,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T08:45:50+01:00"
-      }
-    },
-    {
-      "id": "fd8cca340727",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/fotboll/kif-orebro-begars-i-konkurs-dagen-innan-kvalet",
-      "guid": "https://www.svt.se/sport/fotboll/kif-orebro-begars-i-konkurs-dagen-innan-kvalet",
-      "published_at": "2026-11-18T07:57:41+01:00",
-      "fetched_at": "2026-11-18T08:01:10+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Kif Örebro begärs i konkurs",
-        "summary": "Kif Örebro slutade trea i elitettan och ska kvala upp till damallsvenskan. Men nu, dagen innan första kvalmatchen mot Rosengård, stårt det klart att klubben har begärts i konkurs. Det hela bekräftar klubbens ordförande till P4 Örebro.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kif Örebro declared bankrupt",
-        "summary": "Kif Örebro finished third in the Elitettan and must play off to reach the Damallsvenskan. But now, the day before the first play-off match against Rosengård, it has emerged that the club has been declared bankrupt. The club's chairman confirms this to P4 Örebro."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T08:01:19+01:00"
       }
     }
   ]
