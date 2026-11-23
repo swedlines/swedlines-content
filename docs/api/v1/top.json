@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T14:45:59+01:00",
+  "generated_at": "2026-11-23T15:01:18+01:00",
   "count": 30,
   "stories": [
     {
@@ -1203,6 +1203,105 @@
       ]
     },
     {
+      "id": "4285f4fc503b",
+      "source_count": 3,
+      "sources": [
+        "svt",
+        "aftonbladet",
+        "tv4"
+      ],
+      "first_published_at": "2026-11-23T05:30:01+01:00",
+      "last_published_at": "2026-11-23T14:48:53+01:00",
+      "lead": {
+        "id": "4285f4fc503b",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/dalarna/forlorade-sin-14-ariga-dotter-nu-inleds-annu-en-rattegang-om-mollys-dod",
+        "guid": "https://www.svt.se/nyheter/lokalt/dalarna/forlorade-sin-14-ariga-dotter-nu-inleds-annu-en-rattegang-om-mollys-dod",
+        "published_at": "2026-11-23T05:30:01+01:00",
+        "fetched_at": "2026-11-23T06:55:59+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Förlorade sin 14-åriga dotter – nu inleds ännu en rättegång om Mollys död",
+          "summary": "Malin och Johan Gnospelius förlorade sin 14-åriga dotter Molly efter att hon tagit tramadol under en festkväll i Falun 2023. Nu tas fallet upp i Svea hovrätt, där det ska avgöras om den då 16-årige pojke som sålde drogerna till Molly kan hållas ansvarig för hennes död.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Lost their 14-year-old daughter – another trial begins over Molly's death",
+          "summary": "Malin and Johan Gnospelius lost their 14-year-old daughter Molly after she took tramadol during a party evening in Falun in 2023. Now the case is being heard at the Svea Court of Appeal, where it will be decided whether the then 16-year-old boy who sold the drugs to Molly can be held responsible for her death."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T06:56:44+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "a2578c2fd379",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/1Aqi17haaqTr0bj5WWV5WK/ny-bevisning-om-brattasmorden-ytterligare-dna",
+          "published_at": "2026-11-23T14:48:53+01:00",
+          "sv": {
+            "title": "Ny bevisning om Brattåsmorden – ”ytterligare dna”"
+          },
+          "en": {
+            "title": "New evidence in the Brattås murders – \"additional DNA\""
+          }
+        },
+        {
+          "id": "51e6ec660e7c",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/9Bv49w/ny-bevisning-om-brattasmorden-inlamnad",
+          "published_at": "2026-11-23T13:03:12+01:00",
+          "sv": {
+            "title": "Ny bevisning om Brattåsmorden inlämnad"
+          },
+          "en": {
+            "title": "New evidence submitted in Brattås murders"
+          }
+        },
+        {
+          "id": "0ab721ed6406",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/ny-bevisning-i-brattasmalet-inlamnad-till-hovratten",
+          "published_at": "2026-11-23T11:30:47+01:00",
+          "sv": {
+            "title": "Ny bevisning i Brattåsmålet inlämnad till hovrätten"
+          },
+          "en": {
+            "title": "New evidence in Brattås case submitted to court of appeal"
+          }
+        },
+        {
+          "id": "89f8bfeae329",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/dalarna/mollys-dod-tas-upp-i-svea-hovratt-har-ar-nya-bevisen",
+          "published_at": "2026-11-23T05:30:01+01:00",
+          "sv": {
+            "title": "Nya bevis när Mollys död tas upp i Svea hovrätt"
+          },
+          "en": {
+            "title": "New evidence as Molly's death is taken up in the Svea Court of Appeal"
+          }
+        },
+        {
+          "id": "4285f4fc503b",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/dalarna/forlorade-sin-14-ariga-dotter-nu-inleds-annu-en-rattegang-om-mollys-dod",
+          "published_at": "2026-11-23T05:30:01+01:00",
+          "sv": {
+            "title": "Förlorade sin 14-åriga dotter – nu inleds ännu en rättegång om Mollys död"
+          },
+          "en": {
+            "title": "Lost their 14-year-old daughter – another trial begins over Molly's death"
+          }
+        }
+      ]
+    },
+    {
       "id": "43cf34034041",
       "source_count": 3,
       "sources": [
@@ -1830,76 +1929,126 @@
       ]
     },
     {
-      "id": "0cbb292faefe",
-      "source_count": 3,
+      "id": "f5a08925ef10",
+      "source_count": 2,
       "sources": [
-        "svd",
-        "aftonbladet",
-        "sr"
+        "di",
+        "svd"
       ],
-      "first_published_at": "2026-11-23T02:08:16+01:00",
-      "last_published_at": "2026-11-23T02:52:00+01:00",
+      "first_published_at": "2026-11-23T10:10:28+01:00",
+      "last_published_at": "2026-11-23T14:46:21+01:00",
       "lead": {
-        "id": "0cbb292faefe",
+        "id": "f5a08925ef10",
         "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/j3djvL/dodstalet-stiger-i-ukraina",
-        "guid": "https://www.svd.se/a/j3djvL/dodstalet-stiger-i-ukraina?utm_medium=rss",
-        "published_at": "2026-11-23T02:08:16+01:00",
-        "fetched_at": "2026-11-23T02:12:10+01:00",
-        "category": "world",
+        "source": "di",
+        "url": "https://www.di.se/live/rejal-uppstuds-for-nvidia-i-forhandeln",
+        "guid": "7781be5b-6243-4847-b9fc-7e0e92f071b6",
+        "published_at": "2026-11-23T10:10:28+01:00",
+        "fetched_at": "2026-11-23T10:15:52+01:00",
+        "category": "economy",
         "sv": {
-          "title": "Dödstalet stiger i Ukraina",
-          "summary": "Minst tolv personer har dödats i söndagens ryska attacker mot den ukrainska regionen Kiev, enligt…",
+          "title": "Rejäl uppstuds för Nvidia i förhandeln",
+          "summary": "De amerikanska börsterminerna studsar upp efter fredagens branta kursfall. Bland annat lyfter Nvidia kraftigt efter förra veckans blodiga ras.",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Death toll rises in Ukraine",
-          "summary": "At least twelve people have been killed in Russian attacks on the Ukrainian region of Kyiv on Sunday, according to…"
+          "title": "Nvidia gets a hefty boost in the pre-market",
+          "summary": "US stock index futures are bouncing back after Friday's steep share price drop. Among others, Nvidia is rising sharply after last week's bloody slump."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T02:12:17+01:00"
+          "translated_at": "2026-11-23T10:15:59+01:00"
         }
       },
       "items": [
         {
-          "id": "d655deb42a93",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9347975",
-          "published_at": "2026-11-23T02:52:00+01:00",
-          "sv": {
-            "title": "Dödssiffran efter ryska attacken stiger till tolv"
-          },
-          "en": {
-            "title": "Death toll from Russian attack rises to twelve"
-          }
-        },
-        {
-          "id": "bdc4f4736caf",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/3BJ31q/dodstalet-stiger-i-ukraina",
-          "published_at": "2026-11-23T02:08:16+01:00",
-          "sv": {
-            "title": "Dödstalet stiger i Ukraina"
-          },
-          "en": {
-            "title": "Death toll rises in Ukraine"
-          }
-        },
-        {
-          "id": "0cbb292faefe",
+          "id": "e22190225342",
           "source": "svd",
-          "url": "https://www.svd.se/a/j3djvL/dodstalet-stiger-i-ukraina",
-          "published_at": "2026-11-23T02:08:16+01:00",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80221",
+          "published_at": "2026-11-23T14:46:21+01:00",
           "sv": {
-            "title": "Dödstalet stiger i Ukraina"
+            "title": "Nvidia rusar i förhandeln"
           },
           "en": {
-            "title": "Death toll rises in Ukraine"
+            "title": "Nvidia surges in pre-market trading"
+          }
+        },
+        {
+          "id": "f5a08925ef10",
+          "source": "di",
+          "url": "https://www.di.se/live/rejal-uppstuds-for-nvidia-i-forhandeln",
+          "published_at": "2026-11-23T10:10:28+01:00",
+          "sv": {
+            "title": "Rejäl uppstuds för Nvidia i förhandeln"
+          },
+          "en": {
+            "title": "Nvidia gets a hefty boost in the pre-market"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4e520fda75f8",
+      "source_count": 2,
+      "sources": [
+        "sydsvenskan",
+        "di"
+      ],
+      "first_published_at": "2026-11-23T14:36:06+01:00",
+      "last_published_at": "2026-11-23T14:45:37+01:00",
+      "lead": {
+        "id": "4e520fda75f8",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/ekonomi/lego-storsatser-pa-ny-fabrik-i-portugal",
+        "guid": "178f4b47-45a3-4732-acdb-28cbd311b07a",
+        "published_at": "2026-11-23T14:36:06+01:00",
+        "fetched_at": "2026-11-23T14:45:51+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/b8e55983-9075-4d92-97ef-d3cd31cf4353.jpg?width=600",
+        "sv": {
+          "title": "Lego storsatser på ny fabrik i Portugal",
+          "summary": "Den danska leksakstillverkaren Lego investerar en miljard euro (drygt elva miljarder kronor) på bygget av en ny fabrik Portugal, för att möta ökad europeisk efterfrågan.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Lego invests heavily in new factory in Portugal",
+          "summary": "The Danish toy maker Lego is investing one billion euros (just over SEK 11 billion) in building a new factory in Portugal to meet increased European demand."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T14:45:56+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "80a59efecf5e",
+          "source": "di",
+          "url": "https://www.di.se/live/lego-bygger-ny-fabrik-for-11-miljarder",
+          "published_at": "2026-11-23T14:45:37+01:00",
+          "sv": {
+            "title": "Lego bygger ny fabrik för 11 miljarder"
+          },
+          "en": {
+            "title": "Lego builds new factory for SEK 11 billion"
+          }
+        },
+        {
+          "id": "4e520fda75f8",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/lego-storsatser-pa-ny-fabrik-i-portugal",
+          "published_at": "2026-11-23T14:36:06+01:00",
+          "sv": {
+            "title": "Lego storsatser på ny fabrik i Portugal"
+          },
+          "en": {
+            "title": "Lego invests heavily in new factory in Portugal"
           }
         }
       ]
@@ -2328,92 +2477,6 @@
       ]
     },
     {
-      "id": "4285f4fc503b",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-23T05:30:01+01:00",
-      "last_published_at": "2026-11-23T13:03:12+01:00",
-      "lead": {
-        "id": "4285f4fc503b",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/lokalt/dalarna/forlorade-sin-14-ariga-dotter-nu-inleds-annu-en-rattegang-om-mollys-dod",
-        "guid": "https://www.svt.se/nyheter/lokalt/dalarna/forlorade-sin-14-ariga-dotter-nu-inleds-annu-en-rattegang-om-mollys-dod",
-        "published_at": "2026-11-23T05:30:01+01:00",
-        "fetched_at": "2026-11-23T06:55:59+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Förlorade sin 14-åriga dotter – nu inleds ännu en rättegång om Mollys död",
-          "summary": "Malin och Johan Gnospelius förlorade sin 14-åriga dotter Molly efter att hon tagit tramadol under en festkväll i Falun 2023. Nu tas fallet upp i Svea hovrätt, där det ska avgöras om den då 16-årige pojke som sålde drogerna till Molly kan hållas ansvarig för hennes död.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Lost their 14-year-old daughter – another trial begins over Molly's death",
-          "summary": "Malin and Johan Gnospelius lost their 14-year-old daughter Molly after she took tramadol during a party evening in Falun in 2023. Now the case is being heard at the Svea Court of Appeal, where it will be decided whether the then 16-year-old boy who sold the drugs to Molly can be held responsible for her death."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T06:56:44+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "51e6ec660e7c",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/9Bv49w/ny-bevisning-om-brattasmorden-inlamnad",
-          "published_at": "2026-11-23T13:03:12+01:00",
-          "sv": {
-            "title": "Ny bevisning om Brattåsmorden inlämnad"
-          },
-          "en": {
-            "title": "New evidence submitted in Brattås murders"
-          }
-        },
-        {
-          "id": "0ab721ed6406",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/ny-bevisning-i-brattasmalet-inlamnad-till-hovratten",
-          "published_at": "2026-11-23T11:30:47+01:00",
-          "sv": {
-            "title": "Ny bevisning i Brattåsmålet inlämnad till hovrätten"
-          },
-          "en": {
-            "title": "New evidence in Brattås case submitted to court of appeal"
-          }
-        },
-        {
-          "id": "89f8bfeae329",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/dalarna/mollys-dod-tas-upp-i-svea-hovratt-har-ar-nya-bevisen",
-          "published_at": "2026-11-23T05:30:01+01:00",
-          "sv": {
-            "title": "Nya bevis när Mollys död tas upp i Svea hovrätt"
-          },
-          "en": {
-            "title": "New evidence as Molly's death is taken up in the Svea Court of Appeal"
-          }
-        },
-        {
-          "id": "4285f4fc503b",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/dalarna/forlorade-sin-14-ariga-dotter-nu-inleds-annu-en-rattegang-om-mollys-dod",
-          "published_at": "2026-11-23T05:30:01+01:00",
-          "sv": {
-            "title": "Förlorade sin 14-åriga dotter – nu inleds ännu en rättegång om Mollys död"
-          },
-          "en": {
-            "title": "Lost their 14-year-old daughter – another trial begins over Molly's death"
-          }
-        }
-      ]
-    },
-    {
       "id": "6a9a9339193e",
       "source_count": 2,
       "sources": [
@@ -2534,69 +2597,6 @@
           },
           "en": {
             "title": "Black Week expected to turn over SEK 34 billion"
-          }
-        }
-      ]
-    },
-    {
-      "id": "a9ddda1432e2",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-23T11:30:19+01:00",
-      "last_published_at": "2026-11-23T11:30:20+01:00",
-      "lead": {
-        "id": "a9ddda1432e2",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/j3dEMz/snart-i-mal-oljesanering-med-stort-hjarta",
-        "guid": "https://www.aftonbladet.se/nyheter/a/j3dEMz/snart-i-mal-oljesanering-med-stort-hjarta?utm_medium=rss",
-        "published_at": "2026-11-23T11:30:19+01:00",
-        "fetched_at": "2026-11-23T11:30:59+01:00",
-        "category": "sweden",
-        "image_url": "https://akamai.vgc.no/v2/images/be7c34c1-b46d-3634-89bc-bd2b7820af03?format=auto&s=665d649df43f1ca51726925acd9095a150b2b0d3&w=1000",
-        "sv": {
-          "title": "Snart i mål: oljesanering med stort hjärta",
-          "summary": "Mer än två mil av Listerlandets kustlinje var indränkt i kletig olja efter färjan Marco Polos dubbla…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Almost there: oil clean-up with a big heart",
-          "summary": "More than two miles of the Listerland coastline was soaked in sticky oil after the ferry Marco Polo's double…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T11:31:07+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "49bb9b83c866",
-          "source": "svd",
-          "url": "https://www.svd.se/a/oMpbPW/snart-i-mal-oljesanering-med-stort-hjarta",
-          "published_at": "2026-11-23T11:30:20+01:00",
-          "sv": {
-            "title": "Snart i mål: oljesanering med stort hjärta"
-          },
-          "en": {
-            "title": "Nearly done: oil clean-up with a big heart"
-          }
-        },
-        {
-          "id": "a9ddda1432e2",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/j3dEMz/snart-i-mal-oljesanering-med-stort-hjarta",
-          "published_at": "2026-11-23T11:30:19+01:00",
-          "sv": {
-            "title": "Snart i mål: oljesanering med stort hjärta"
-          },
-          "en": {
-            "title": "Almost there: oil clean-up with a big heart"
           }
         }
       ]

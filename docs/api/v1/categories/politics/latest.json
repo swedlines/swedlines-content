@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-23T14:45:59+01:00",
+  "generated_at": "2026-11-23T15:01:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4b0969bcf0ea",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/extra-val-kan-bli-arets-julklapp-och-det-ar-okej",
+      "guid": "7d131974-a4b5-4df3-8ef7-06792eef9c24",
+      "published_at": "2026-11-23T14:53:58+01:00",
+      "fetched_at": "2026-11-23T15:01:10+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/006cbaa8-2fb6-4155-a994-90445633fc10.jpeg?width=600",
+      "sv": {
+        "title": "Extra val kan bli årets julklapp – och det är okej"
+      },
+      "en": {
+        "title": "Snap election could be this year's Christmas present – and that's fine"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:01:15+01:00"
+      }
+    },
     {
       "id": "fff9c41be80e",
       "schema_version": 1,
@@ -5384,32 +5408,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T22:01:17+01:00"
-      }
-    },
-    {
-      "id": "10bbcccfde1f",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/svensk-storovning-vi-sander-ett-budskap-till-putin",
-      "guid": "https://www.expressen.se/nyheter/sverige/svensk-storovning-vi-sander-ett-budskap-till-putin/",
-      "published_at": "2026-11-19T20:42:35+01:00",
-      "fetched_at": "2026-11-19T20:45:54+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Svensk storövning: ”Vi sänder ett budskap till Putin”",
-        "summary": "Bombade sjukhus, utslagna vägar och attacker mot samhällsviktig infrastruktur. I stabsövningen Polestar 26 testas Sveriges totalförsvar i ett krigsscenario med Ryssland som anfallare. – Vi sänder ett strategiskt budskap till president Putin och Ryssland.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Major Swedish exercise: \"We are sending a message to Putin\"",
-        "summary": "Bombed hospitals, cut-off roads and attacks on critical infrastructure. The staff exercise Polestar 26 tests Sweden's total defence in a war scenario with Russia as the attacker. – We are sending a strategic message to President Putin and Russia."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T20:45:59+01:00"
       }
     }
   ]

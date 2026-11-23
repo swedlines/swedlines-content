@@ -1,7 +1,244 @@
 {
-  "generated_at": "2026-11-23T14:45:59+01:00",
-  "count": 396,
+  "generated_at": "2026-11-23T15:01:18+01:00",
+  "count": 405,
   "items": [
+    {
+      "id": "f989867a912a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/arets-familjeteater-blir-kul-forst-nar-de-franska-simmarna-gor-entre",
+      "guid": "aec0ab97-79d8-4fd5-b714-3e2ac7a84b4c",
+      "published_at": "2026-11-23T15:00:00+01:00",
+      "fetched_at": "2026-11-23T15:01:10+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/b2556f3f-c690-4425-a126-88f64e9c8f36.jpeg?width=600",
+      "sv": {
+        "title": "Årets familjeteater blir kul först när de franska simmarna gör entré",
+        "summary": "Handlingen i Astrid Lindgrens ”I skymningslandet” har förlagts till Malmö och på Hippodromen flyger pojken Göran över Pildammsparkens karamellträd.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The family theatre production only gets fun when the French swimmers make their entrance",
+        "summary": "The plot of Astrid Lindgren's \"I skymningslandet\" has been moved to Malmö, and at Hippodromen the boy Göran flies over the candy trees of Pildammsparken."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:01:15+01:00"
+      }
+    },
+    {
+      "id": "4b0969bcf0ea",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/extra-val-kan-bli-arets-julklapp-och-det-ar-okej",
+      "guid": "7d131974-a4b5-4df3-8ef7-06792eef9c24",
+      "published_at": "2026-11-23T14:53:58+01:00",
+      "fetched_at": "2026-11-23T15:01:10+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/006cbaa8-2fb6-4155-a994-90445633fc10.jpeg?width=600",
+      "sv": {
+        "title": "Extra val kan bli årets julklapp – och det är okej"
+      },
+      "en": {
+        "title": "Snap election could be this year's Christmas present – and that's fine"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:01:15+01:00"
+      }
+    },
+    {
+      "id": "d71f408b30aa",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/larmet-nar-badhuset-i-lund-stanger-drabbar-simkunnigheten",
+      "guid": "edccd42e-3fce-4915-b306-3800adc757dd",
+      "published_at": "2026-11-23T14:49:52+01:00",
+      "fetched_at": "2026-11-23T15:01:10+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/6e35b025-b220-4515-b23a-d6168cb47aa4.jpeg?width=600",
+      "sv": {
+        "title": "Larmet när badhuset i Lund stänger: ”Drabbar simkunnigheten”",
+        "summary": "Om ett år stänger Delphinen, ett av Lunds två badhus. Kommunen vet ännu inte hur simhallsbristen ska lösas. – Det finns en risk för sämre simkunnighet i Lund, säger simklubben Poseidons sportchef Thorbjörn Holmberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm as Lund's swimming hall closes: \"Will affect swimming ability\"",
+        "summary": "In a year, Delphinen, one of Lund's two swimming halls, will close. The municipality does not yet know how the shortage of swimming facilities will be solved. – There is a risk of poorer swimming ability in Lund, says Thorbjörn Holmberg, sports director of the swim club Poseidon."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:01:15+01:00"
+      }
+    },
+    {
+      "id": "a2578c2fd379",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1Aqi17haaqTr0bj5WWV5WK/ny-bevisning-om-brattasmorden-ytterligare-dna",
+      "guid": "1Aqi17haaqTr0bj5WWV5WK",
+      "published_at": "2026-11-23T14:48:53+01:00",
+      "fetched_at": "2026-11-23T15:01:08+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Ny bevisning om Brattåsmorden – ”ytterligare dna”",
+        "summary": "Rättegången ska börja på onsdag. Nu har nytt bevismaterial om dubbelmordet i Brattås 2005 lämnats in till hovrätten. Enligt åklagaren Hanna Flordal handlar det om ytterligare dna-spår.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New evidence in the Brattås murders – \"additional DNA\"",
+        "summary": "The trial is set to begin on Wednesday. New evidence in the double murder in Brattås in 2005 has now been submitted to the court of appeal. According to prosecutor Hanna Flordal, it concerns additional DNA traces."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:01:15+01:00"
+      }
+    },
+    {
+      "id": "e8daa13c4720",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/indikator-usa-s-ekonomi-i-recessions-zonen",
+      "guid": "1f2a9bc0-ea55-4dda-8cdf-eceabe511623",
+      "published_at": "2026-11-23T14:48:13+01:00",
+      "fetched_at": "2026-11-23T15:01:09+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Indikator: USA:s ekonomi i recessions-zonen",
+        "summary": "Chicago Federal Reserves nationella aktivitetsindex noterades till minus 0,06 i oktober, ned från 0,05 föregående månad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Indicator: US economy in recession zone",
+        "summary": "The Chicago Federal Reserve's national activity index came in at minus 0.06 in October, down from 0.05 the previous month."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:01:15+01:00"
+      }
+    },
+    {
+      "id": "50d82f3d1fea",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/simon-campanello-kritikerrosade-you-can-see-everything-ar-djupt-oansvarig",
+      "guid": "https://www.dn.se/varlden/simon-campanello-kritikerrosade-you-can-see-everything-ar-djupt-oansvarig/",
+      "published_at": "2026-11-23T14:47:17+01:00",
+      "fetched_at": "2026-11-23T15:01:07+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/bdcc7e39-c2ba-400f-8cbd-54bf5fbce11a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Simon Campanello: Kritikerrosade ”You can see everything” är djupt oansvarig",
+        "summary": "I sina misslyckade försök att förstå vad som pågår i bluffmakerskan Elizabeth Holmes inre glömmer filmskaparna något viktigt: Theranos var inget skämt, det var ett riktigt företag som skadade riktiga människor, skriver DN:s vetenskapsreporter Simon Campanello.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Simon Campanello: Critically acclaimed \"You Can See Everything\" is deeply irresponsible",
+        "summary": "In their unsuccessful attempts to understand what is going on inside fraudster Elizabeth Holmes, the filmmakers forget something important: Theranos was no joke, it was a real company that harmed real people, writes DN science reporter Simon Campanello."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:01:15+01:00"
+      }
+    },
+    {
+      "id": "e22190225342",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80221",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80221&utm_medium=rss",
+      "published_at": "2026-11-23T14:46:21+01:00",
+      "fetched_at": "2026-11-23T15:01:07+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nvidia rusar i förhandeln"
+      },
+      "en": {
+        "title": "Nvidia surges in pre-market trading"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:01:15+01:00"
+      }
+    },
+    {
+      "id": "455a1c722ce0",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/storningsjouren-ryckte-ut-38-ganger-tvingades-stanga-av-elen",
+      "guid": "https://www.dn.se/sverige/storningsjouren-ryckte-ut-38-ganger-tvingades-stanga-av-elen/",
+      "published_at": "2026-11-23T14:45:41+01:00",
+      "fetched_at": "2026-11-23T15:01:07+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/8ef87dc0-184c-460d-9eb9-b40afd5910ea.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Störningsjouren ryckte ut 38 gånger – tvingades stänga av elen",
+        "summary": "Trots att störningsjouren ryckte ut 38 gånger på ett halvår så fortsatte mannen att spela musik. Vid ett tillfälle tvingades man stänga av elen för att få tyst på oljudet. Nu döms 43-åringen att betala för utryckningarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Disturbance patrol went out 38 times – forced to cut off the power",
+        "summary": "Although the disturbance patrol went out 38 times in six months, the man continued to play music. On one occasion, he was forced to switch off the power to silence the noise. Now the 43-year-old is ordered to pay for the call-outs."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:01:15+01:00"
+      }
+    },
+    {
+      "id": "80a59efecf5e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/lego-bygger-ny-fabrik-for-11-miljarder",
+      "guid": "deba3e86-93df-4316-8167-d449f59ee1e4",
+      "published_at": "2026-11-23T14:45:37+01:00",
+      "fetched_at": "2026-11-23T15:01:09+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/99706539-af2d-47dc-aae5-5052dc96eacd.jpg?width=600",
+      "sv": {
+        "title": "Lego bygger ny fabrik för 11 miljarder",
+        "summary": "Den danska leksakstillverkaren Lego investerar 1 miljard euro, motsvarande 11 miljarder kronor, på bygget av en ny fabrik i Portugal, för att möta ökad europeisk efterfrågan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lego builds new factory for SEK 11 billion",
+        "summary": "Danish toy maker Lego is investing EUR 1 billion, equivalent to SEK 11 billion, in building a new factory in Portugal to meet increased European demand."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:01:15+01:00"
+      }
+    },
     {
       "id": "fff9c41be80e",
       "schema_version": 1,

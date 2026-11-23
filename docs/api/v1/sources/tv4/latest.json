@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-23T14:45:59+01:00",
+  "generated_at": "2026-11-23T15:01:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a2578c2fd379",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1Aqi17haaqTr0bj5WWV5WK/ny-bevisning-om-brattasmorden-ytterligare-dna",
+      "guid": "1Aqi17haaqTr0bj5WWV5WK",
+      "published_at": "2026-11-23T14:48:53+01:00",
+      "fetched_at": "2026-11-23T15:01:08+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Ny bevisning om Brattåsmorden – ”ytterligare dna”",
+        "summary": "Rättegången ska börja på onsdag. Nu har nytt bevismaterial om dubbelmordet i Brattås 2005 lämnats in till hovrätten. Enligt åklagaren Hanna Flordal handlar det om ytterligare dna-spår.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New evidence in the Brattås murders – \"additional DNA\"",
+        "summary": "The trial is set to begin on Wednesday. New evidence in the double murder in Brattås in 2005 has now been submitted to the court of appeal. According to prosecutor Hanna Flordal, it concerns additional DNA traces."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:01:15+01:00"
+      }
+    },
     {
       "id": "077cb26480ac",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "7b643e0cb21b",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3tHFQpL47VYEm4onPRtMld/efter-valsegern-demokraterna-splittrade-om-naesta-steg",
-      "guid": "3tHFQpL47VYEm4onPRtMld",
-      "published_at": "2026-11-15T15:43:00+01:00",
-      "fetched_at": "2026-11-15T15:45:41+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Efter valsegern – Demokraterna splittrade om nästa steg",
-        "summary": "Maktkampen har börjat • Trumps skugga vilar tung",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After election victory – the Democrats divided over next steps",
-        "summary": "The power struggle has begun • Trump's shadow looms large"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T15:45:47+01:00"
       }
     }
   ]
