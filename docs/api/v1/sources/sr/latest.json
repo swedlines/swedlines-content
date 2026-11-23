@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T12:23:14+01:00",
+  "generated_at": "2026-11-23T12:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0b530d9a45b8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348236",
+      "guid": "rss:sr.se/article/9348236",
+      "published_at": "2026-11-23T12:24:00+01:00",
+      "fetched_at": "2026-11-23T12:30:56+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Bryssels flygtrafik ligger nere när tusentals demonstrerar",
+        "summary": "Tiotusentals belgare demonstrerar – samtidigt som regeringskrisen blir allt mer akut. Flygtrafiken till och från Bryssel ligger nere. Måndagens storstrejk stöttas av Belgiens tre största fackföreningar, i protest mot regeringens åtstramningspolitik och planerade nedskärningar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Brussels air traffic grounded as thousands demonstrate",
+        "summary": "Tens of thousands of Belgians are demonstrating – while the government crisis becomes ever more acute. Air traffic to and from Brussels is grounded. Monday's general strike is backed by Belgium's three largest trade unions, in protest against the government's austerity policy and planned cuts."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:31:03+01:00"
+      }
+    },
     {
       "id": "002abe34043c",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T14:01:28+01:00"
-      }
-    },
-    {
-      "id": "014b4c1b0891",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344328",
-      "guid": "rss:sr.se/article/9344328",
-      "published_at": "2026-11-17T12:49:00+01:00",
-      "fetched_at": "2026-11-17T13:01:10+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ginna Lindberg: Så länge utredningen är dold kvarstår spekulationer",
-        "summary": "En ny expertrapport ifrågasätter att Jeffrey Epstein tog sitt liv, men amerikanska myndigheter står fast vid bedömningen att det var självmord. Epstein hittades död i sin cell i augusti 2019. Delar av utredningen är fortfarande hemligstämplad, bland annat med hänvisning till offren.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Ginna Lindberg: As long as the investigation is hidden, speculation remains",
-        "summary": "A new expert report questions whether Jeffrey Epstein took his own life, but American authorities maintain their assessment that it was suicide. Epstein was found dead in his cell in August 2019. Parts of the investigation remain classified, partly with reference to the victims."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:01:18+01:00"
       }
     }
   ]

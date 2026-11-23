@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T12:23:14+01:00",
+  "generated_at": "2026-11-23T12:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0b530d9a45b8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348236",
+      "guid": "rss:sr.se/article/9348236",
+      "published_at": "2026-11-23T12:24:00+01:00",
+      "fetched_at": "2026-11-23T12:30:56+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Bryssels flygtrafik ligger nere när tusentals demonstrerar",
+        "summary": "Tiotusentals belgare demonstrerar – samtidigt som regeringskrisen blir allt mer akut. Flygtrafiken till och från Bryssel ligger nere. Måndagens storstrejk stöttas av Belgiens tre största fackföreningar, i protest mot regeringens åtstramningspolitik och planerade nedskärningar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Brussels air traffic grounded as thousands demonstrate",
+        "summary": "Tens of thousands of Belgians are demonstrating – while the government crisis becomes ever more acute. Air traffic to and from Brussels is grounded. Monday's general strike is backed by Belgium's three largest trade unions, in protest against the government's austerity policy and planned cuts."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T12:31:03+01:00"
+      }
+    },
     {
       "id": "002abe34043c",
       "schema_version": 1,
@@ -5365,33 +5391,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T11:01:21+01:00"
-      }
-    },
-    {
-      "id": "71866fe8c2ee",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/xJPWOB/fn-diplomat-och-kvinnorattskampe-dod",
-      "guid": "https://www.aftonbladet.se/nyheter/a/xJPWOB/fn-diplomat-och-kvinnorattskampe-dod?utm_medium=rss",
-      "published_at": "2026-11-21T10:28:12+01:00",
-      "fetched_at": "2026-11-21T10:31:06+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/fda3ba4a-5c62-3c3c-9bc4-38bea50b5e67?format=auto&s=3d326082f1c9ab3dc62ec79bb6dec566b8ef1afe&w=1000",
-      "sv": {
-        "title": "FN-diplomat och kvinnorättskämpe död",
-        "summary": "FN-organet UN Womens tidigare chef Phumzile Mlambo-Ngcuka har gått bort.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "UN diplomat and women's rights campaigner dies",
-        "summary": "Former head of the UN body UN Women, Phumzile Mlambo-Ngcuka, has died."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T10:31:13+01:00"
       }
     }
   ]
