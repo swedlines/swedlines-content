@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T08:01:26+01:00",
+  "generated_at": "2026-11-23T08:15:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4a1569bce066",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/stora-tagforseningar-signalfel-i-malmo",
+      "guid": "https://www.svt.se/nyheter/lokalt/skane/stora-tagforseningar-signalfel-i-malmo",
+      "published_at": "2026-11-23T08:06:48+01:00",
+      "fetched_at": "2026-11-23T08:15:20+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Stora tågförseningar – signalfel i Malmö",
+        "summary": "Det är stora tågförseningar under måndagsmorgonen. Ett signalfel i Hyllie skapar problem sedan 06:40.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major train delays – signal fault in Malmö",
+        "summary": "There are major train delays on Monday morning. A signal fault in Hyllie has caused problems since 06:40."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T08:15:29+01:00"
+      }
+    },
     {
       "id": "320d45975e84",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:01:24+01:00"
-      }
-    },
-    {
-      "id": "49d700258708",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/nya-agare-pizzakoncern-ateruppstar-efter-konkurs",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/nya-agare-pizzakoncern-ateruppstar-efter-konkurs",
-      "published_at": "2026-11-17T10:56:27+01:00",
-      "fetched_at": "2026-11-17T11:01:12+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nya ägare – pizzakoncern återuppstår efter konkurs",
-        "summary": "I september gick företaget som driver Pizza Hut i Sverige i konkurs. Nu är det klart att restaurangkoncernen Nordrest tar över som ny franchisepartner och planerar att återöppna flera av kedjans tidigare restauranger.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New owners – pizza chain revived after bankruptcy",
-        "summary": "In September, the company that runs Pizza Hut in Sweden went bankrupt. It is now confirmed that the restaurant group Nordrest is taking over as the new franchise partner and plans to reopen several of the chain's former restaurants."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T11:01:24+01:00"
       }
     }
   ]

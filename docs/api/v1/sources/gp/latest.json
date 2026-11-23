@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-23T08:01:26+01:00",
+  "generated_at": "2026-11-23T08:15:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8623be627df1",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/sverige/polisens-varning-infor-black-week-sa-undviker-du-bedrageri.a73ad8de-50c0-5611-8a7b-8dcecdbe8dba",
+      "guid": "a73ad8de-50c0-5611-8a7b-8dcecdbe8dba",
+      "published_at": "2026-11-23T07:45:27+01:00",
+      "fetched_at": "2026-11-23T08:15:24+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Sverige",
+        "Tagg: Black Week",
+        "Tagg: Polisen",
+        "Tagg: Bedrägeri",
+        "Tagg: breaking-GP"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/0686905d-fa6a-34a2-a1b8-8f449541289b",
+      "sv": {
+        "title": "Polisens varning inför Black week",
+        "summary": "Under Black week vill många passa på göra ett klipp eller kanske hitta en tidig julklapp till pangpris.Nu varnar dock polisen för att även bedragare ser sin chans.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police warning ahead of Black Week",
+        "summary": "During Black Week, many want to take the chance to make a cut or perhaps find an early Christmas present at a bargain price. But the police now warn that fraudsters also see their chance."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T08:15:29+01:00"
+      }
+    },
     {
       "id": "a16abf6807b3",
       "schema_version": 1,
@@ -6885,37 +6919,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T17:15:53+01:00"
-      }
-    },
-    {
-      "id": "d92cdeacc718",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/varlden/israel-inleder-ny-offensiv-i-gaza.083d4659-b493-543f-853f-85de148d54b2",
-      "guid": "083d4659-b493-543f-853f-85de148d54b2",
-      "published_at": "2026-11-18T16:26:56+01:00",
-      "fetched_at": "2026-11-18T16:45:45+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Världen",
-        "Tagg: breaking-GP"
-      ],
-      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
-      "sv": {
-        "title": "Israel startar ny offensiv i Gaza",
-        "summary": "Stridsvagnar har korsat gula linjen • Minst två döda.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Israel launches new offensive in Gaza",
-        "summary": "Tanks have crossed the yellow line • At least two dead."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:45:52+01:00"
       }
     }
   ]
