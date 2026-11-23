@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T11:31:09+01:00",
+  "generated_at": "2026-11-23T11:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0ab721ed6406",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/ny-bevisning-i-brattasmalet-inlamnad-till-hovratten",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/ny-bevisning-i-brattasmalet-inlamnad-till-hovratten",
+      "published_at": "2026-11-23T11:30:47+01:00",
+      "fetched_at": "2026-11-23T11:45:41+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Ny bevisning i Brattåsmålet inlämnad till hovrätten",
+        "summary": "Under måndagsmorgonen kom nytt sekretessbelagt bevismaterial i målet om dubbelmordet i Brattås i Härnösand in till hovrätten – två dagar före rättegångsstarten. – Vi har begärt ytterligare kompletteringar, och polisen jobbar för fullt med det.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New evidence in Brattås case submitted to court of appeal",
+        "summary": "On Monday morning, new classified evidence in the case of the double murder in Brattås in Härnösand was submitted to the court of appeal – two days before the trial starts. \"We have requested further supplementation, and the police are working hard on it.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:45:51+01:00"
+      }
+    },
     {
       "id": "3a64661928c8",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T15:01:28+01:00"
-      }
-    },
-    {
-      "id": "a528f16c5d79",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/tre-pojkar-doms-for-grov-misshandel-i-vasteras-lurade-ut-14-aring-i-skogen",
-      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/tre-pojkar-doms-for-grov-misshandel-i-vasteras-lurade-ut-14-aring-i-skogen",
-      "published_at": "2026-11-17T13:51:03+01:00",
-      "fetched_at": "2026-11-17T14:01:17+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Tre pojkar döms för grov misshandel i Västerås – lurade ut 14-åring i skogen",
-        "summary": "Tre 16-åriga pojkar döms för att ha misshandlat en yngre kille vid Önsta idrottsplats i Västerås i oktober. Grabbarna döms till ungdomsövervakning för den grova misshandeln.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Three boys convicted of aggravated assault in Västerås – lured 14-year-old into the forest",
-        "summary": "Three 16-year-old boys are convicted of assaulting a younger boy at Önsta sports ground in Västerås in October. The boys are sentenced to youth supervision for the aggravated assault."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:01:28+01:00"
       }
     }
   ]

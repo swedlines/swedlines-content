@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T11:31:09+01:00",
+  "generated_at": "2026-11-23T11:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "04bea71fedd0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/omfattande-skogsbrand-pa-populara-semesteron",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/omfattande-skogsbrand-pa-populara-semesteron",
+      "published_at": "2026-11-23T11:28:11+01:00",
+      "fetched_at": "2026-11-23T11:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Jättebrand på semesterö",
+        "summary": "Högsta varningsnivån i Spanien • Larmar turister",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Huge fire on holiday island",
+        "summary": "Highest warning level in Spain • Alarms tourists"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:45:51+01:00"
+      }
+    },
     {
       "id": "ea15ee9d0fc4",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T21:45:52+01:00"
-      }
-    },
-    {
-      "id": "0784ef458ac5",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=075cc82f-89ea-4950-9c8a-abf66cb9e073",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=075cc82f-89ea-4950-9c8a-abf66cb9e073",
-      "published_at": "2026-11-19T21:27:19+01:00",
-      "fetched_at": "2026-11-19T21:30:59+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Norwegian hackat – ber kunder spärra betalkort",
-        "summary": "Ber resenärer spärra sina betalkort",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Norwegian hacked – urges customers to block payment cards",
-        "summary": "Urges travellers to block their payment cards"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T21:31:06+01:00"
       }
     }
   ]

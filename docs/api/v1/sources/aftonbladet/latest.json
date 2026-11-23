@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T11:31:09+01:00",
+  "generated_at": "2026-11-23T11:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b42121ced675",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Vxb8L6/designer-maktlos-nar-ai-stjal-allt-hon-gor",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Vxb8L6/designer-maktlos-nar-ai-stjal-allt-hon-gor?utm_medium=rss",
+      "published_at": "2026-11-23T11:30:22+01:00",
+      "fetched_at": "2026-11-23T11:45:43+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/24c03685-05a4-3e65-852c-0627a1232eb3?format=auto&s=915eed2ba3d2d48dce7ce7fcf5398905edadcfbe&w=1000",
+      "sv": {
+        "title": "Designer maktlös när AI stjäl allt hon gör",
+        "summary": "Så fort Malin Fredriksson lägger ut en ny design kan hon räkna med att den blir kopierad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Designer powerless as AI steals everything she makes",
+        "summary": "As soon as Malin Fredriksson posts a new design, she can expect it to be copied."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:45:51+01:00"
+      }
+    },
     {
       "id": "a9ddda1432e2",
       "schema_version": 1,
@@ -5344,33 +5371,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T09:01:24+01:00"
-      }
-    },
-    {
-      "id": "dca4891a3048",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/KL3jjE/okanda-bor-i-familjens-fritidshus-i-smyg",
-      "guid": "https://www.aftonbladet.se/nyheter/a/KL3jjE/okanda-bor-i-familjens-fritidshus-i-smyg?utm_medium=rss",
-      "published_at": "2026-11-20T06:57:01+01:00",
-      "fetched_at": "2026-11-20T07:01:06+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/8fe28d80-3bd8-3fab-83aa-f736488fa62a?format=auto&s=b1f1b08b1782b16af5cb8072a1571fd3cf026aa3&w=1000",
-      "sv": {
-        "title": "Okända bor i familjens fritidshus i smyg",
-        "summary": "”Någon hade varit där”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Strangers secretly living in the family's holiday home",
-        "summary": "\"Someone had been there\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:01:13+01:00"
       }
     }
   ]

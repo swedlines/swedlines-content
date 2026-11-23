@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-23T11:31:09+01:00",
+  "generated_at": "2026-11-23T11:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c40f4e369757",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/tyskt-rus-franskt-ras",
+      "guid": "e20536c5-02cd-46f4-bfe9-5f81f8e95216",
+      "published_at": "2026-11-23T11:37:34+01:00",
+      "fetched_at": "2026-11-23T11:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f76d2cba-493a-4d51-9b64-9e4753b2cc58.jpeg?width=600",
+      "sv": {
+        "title": "Tyskt rus – franskt ras",
+        "summary": "Trycket i den tyska ekonomin är det högsta på över fem år, medan de franska företagen deppar. Skillnaden i ekonomiskt humör mellan bjässarna är nu den största sedan 2020. Det framgår av inköpschefsindex.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "German boom – French bust",
+        "summary": "Pressure in the German economy is at its highest in over five years, while French companies are sagging. The gap in economic mood between the two giants is now the largest since 2020. This is according to the purchasing managers' index."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:45:51+01:00"
+      }
+    },
+    {
+      "id": "e0634a09e9c9",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/hebas-vd-lamnar-for-nytt-uppdrag",
+      "guid": "b9792d0d-6a48-4a1c-8425-b9ab5a38132a",
+      "published_at": "2026-11-23T11:36:54+01:00",
+      "fetched_at": "2026-11-23T11:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0f2d8a6f-2069-4cc4-b688-eefdee4eb3bf.jpeg?width=600",
+      "sv": {
+        "title": "Hebas vd lämnar för nytt uppdrag",
+        "summary": "Patrik Emanuelsson lämnar som vd för fastighetsbolaget Heba på egen begäran. Framöver kommer han i stället att bli vd för AP7:s nybildade samhällsfastighetsbolag Secura Fastigheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Heba CEO leaves for new assignment",
+        "summary": "Patrik Emanuelsson is leaving as CEO of the property company Heba at his own request. He will instead become CEO of AP7's newly formed municipal property company Secura Fastigheter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:45:51+01:00"
+      }
+    },
     {
       "id": "66dc0f3f5dc4",
       "schema_version": 1,
@@ -5333,59 +5387,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:15:53+01:00"
-      }
-    },
-    {
-      "id": "4610c6f9bd68",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/ekonomi/cloetta-rasar-mot-haribo-vill-stoppa-skumtomten-",
-      "guid": "https://www.expressen.se/ekonomi/cloetta-rasar-mot-haribo-vill-stoppa-skumtomten-/",
-      "published_at": "2026-11-21T09:55:15+01:00",
-      "fetched_at": "2026-11-21T10:01:13+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Cloetta rasar mot Haribo – vill stoppa skumtomten",
-        "summary": "Det råder skum stämning i tomtefabriken. Cloetta vill stoppa Haribos ”Jul&Skum” – och stämmer nu godisjätten. – Det är en lite större fråga än en skumtomte hit eller dit, säger Cloettas kommunikationsdirektör Laura Lindholm till SVT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Cloetta lashes out at Haribo – wants to stop the marshmallow Santa",
-        "summary": "The mood is frosty at the Santa factory. Cloetta wants to stop Haribo's “Jul&Skum” – and is now suing the candy giant. – It is a bit bigger issue than a marshmallow Santa here or there, says Cloetta's communications director Laura Lindholm to SVT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T10:01:26+01:00"
-      }
-    },
-    {
-      "id": "2b23d306407b",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/sa-agerar-kunderna-pa-elprischocken",
-      "guid": "65060c1e-c6c9-4f10-a00a-21f7d2da4936",
-      "published_at": "2026-11-21T09:30:20+01:00",
-      "fetched_at": "2026-11-21T09:31:11+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/76f88db1-5a5a-4500-ae6b-a9931e1f4b3a.jpg?width=600",
-      "sv": {
-        "title": "Så agerar kunderna på elprischocken",
-        "summary": "En stigande oro för höga elpriser i vinter får hushållen att agera. Många väljer i större utsträckning än tidigare att binda sina elavtal, uppger energibolaget Eon. Andra aktörer ser ingen tydlig tendens.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "How customers are reacting to the electricity price shock",
-        "summary": "Growing concern over high electricity prices this winter is prompting households to act. Many are choosing to lock in their electricity contracts to a greater extent than before, says energy company Eon. Other players see no clear trend."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:31:15+01:00"
       }
     }
   ]

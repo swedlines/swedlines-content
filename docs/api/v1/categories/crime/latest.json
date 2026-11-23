@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-23T11:31:09+01:00",
+  "generated_at": "2026-11-23T11:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7383e4b0ae24",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/tva-anhallna-efter-handgranat-i-hyllieby",
+      "guid": "9350d44b-c3ef-4a61-a630-1a2c2c288106",
+      "published_at": "2026-11-23T11:39:53+01:00",
+      "fetched_at": "2026-11-23T11:45:45+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/59bf30eb-8979-4af1-82b7-624ac13ece3e.jpeg?width=600",
+      "sv": {
+        "title": "Två anhållna efter handgranat i Hyllieby",
+        "summary": "En och man en kvinna har gripits och anhållits efter lördagens larm om ett farligt föremål på en villagata i Hyllieby. Polisen bekräftar att det var en skarp handgranat i anslutning till en bostad.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Two arrested after hand grenade in Hyllieby",
+        "summary": "One man and one woman have been arrested after Saturday's alarm about a dangerous object on a residential street in Hyllieby. Police confirm it was a live hand grenade next to a home."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:45:51+01:00"
+      }
+    },
+    {
+      "id": "0ab721ed6406",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/ny-bevisning-i-brattasmalet-inlamnad-till-hovratten",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/ny-bevisning-i-brattasmalet-inlamnad-till-hovratten",
+      "published_at": "2026-11-23T11:30:47+01:00",
+      "fetched_at": "2026-11-23T11:45:41+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Ny bevisning i Brattåsmålet inlämnad till hovrätten",
+        "summary": "Under måndagsmorgonen kom nytt sekretessbelagt bevismaterial i målet om dubbelmordet i Brattås i Härnösand in till hovrätten – två dagar före rättegångsstarten. – Vi har begärt ytterligare kompletteringar, och polisen jobbar för fullt med det.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New evidence in Brattås case submitted to court of appeal",
+        "summary": "On Monday morning, new classified evidence in the case of the double murder in Brattås in Härnösand was submitted to the court of appeal – two days before the trial starts. \"We have requested further supplementation, and the police are working hard on it.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:45:51+01:00"
+      }
+    },
     {
       "id": "05354ea44495",
       "schema_version": 1,
@@ -5371,55 +5424,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T08:15:56+01:00"
-      }
-    },
-    {
-      "id": "67b9d39a1d10",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/krim/sigtunaelever-atalas-for-brott-skolan-satter-in-krisstod",
-      "guid": "https://www.expressen.se/nyheter/krim/sigtunaelever-atalas-for-brott-skolan-satter-in-krisstod/",
-      "published_at": "2026-11-19T08:05:41+01:00",
-      "fetched_at": "2026-11-19T08:15:48+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Sigtunaelever åtalas för brott – skolan sätter in krisstöd",
-        "summary": "I dag väcks åtal mot flera elever på Sigtunaskolan, enligt åklagare. Nu har skolan tagit fram en krisplan. ”Det här kommer att vara påfrestande”, står det i ett utskick från ledningen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sigtuna students charged with crimes – school deploys crisis support",
-        "summary": "Today charges are brought against several students at Sigtunaskolan, according to prosecutors. The school has now drawn up a crisis plan. \"This will be stressful\", says a message from management"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T08:15:56+01:00"
-      }
-    },
-    {
-      "id": "5bc65d70ea87",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80081",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80081&utm_medium=rss",
-      "published_at": "2026-11-19T07:53:24+01:00",
-      "fetched_at": "2026-11-19T08:01:18+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Misstänkt mord i Enköping"
-      },
-      "en": {
-        "title": "Suspected murder in Enköping"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T08:01:26+01:00"
       }
     }
   ]
