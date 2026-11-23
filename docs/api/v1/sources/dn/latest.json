@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T20:45:52+01:00",
+  "generated_at": "2026-11-23T21:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b6755d45e49e",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/hammarby-har-guldet-i-egna-hander-infor-sista-matchen-slog-ifk-goteborg",
+      "guid": "https://www.dn.se/sport/hammarby-har-guldet-i-egna-hander-infor-sista-matchen-slog-ifk-goteborg/",
+      "published_at": "2026-11-23T20:49:55+01:00",
+      "fetched_at": "2026-11-23T21:01:08+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/2b372e44-623f-4560-ac89-a06da146e209.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Hammarby har guldet i egna händer inför sista matchen – slog IFK Göteborg",
+        "summary": "Hammarby behövde slå IFK Göteborg på måndagskvällen för att ta tillbaka serieledningen i allsvenskan från Sirius. Det lyckades de med. Med en match kvar har Stockholmslaget SM-guldet i fotboll i egna händer efter 3–1-segern.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hammarby Hold Gold in Their Own Hands Ahead of Final Match – Beat IFK Göteborg",
+        "summary": "Hammarby needed to beat IFK Göteborg on Monday evening to regain the top of the Allsvenskan from Sirius. They did. With one match left, the Stockholm club has the Swedish football championship in their own hands after the 3–1 win."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:01:14+01:00"
+      }
+    },
     {
       "id": "c955070bec7d",
       "schema_version": 1,
@@ -5371,33 +5398,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T13:31:20+01:00"
-      }
-    },
-    {
-      "id": "3136be8b2571",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/nytt-besked-multisjuka-barnen-far-bo-kvar-pa-safiren",
-      "guid": "https://www.dn.se/sverige/nytt-besked-multisjuka-barnen-far-bo-kvar-pa-safiren/",
-      "published_at": "2026-11-20T13:04:42+01:00",
-      "fetched_at": "2026-11-20T13:15:44+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/a9d881c8-f9b2-4765-bb5e-1294ce5cf48e.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Nytt besked: Multisjuka barnen får bo kvar på Safiren",
-        "summary": "I sista stund kom beskedet: De svårt sjuka barnen på Safiren i Vallentuna får bo kvar. Region Stockholm har beslutat att förvandla Safiren från LSS-boende till vårdenhet, vilket betyder att barnen kan stanna i samma lokaler med samma personal. – Man är mer än tacksam.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "New decision: Children with multiple illnesses can stay at Safiren",
-        "summary": "At the last minute came the news: the seriously ill children at Safiren in Vallentuna can stay. Region Stockholm has decided to convert Safiren from an LSS home into a healthcare unit, meaning the children can remain in the same premises with the same staff. – We are more than grateful."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:15:53+01:00"
       }
     }
   ]

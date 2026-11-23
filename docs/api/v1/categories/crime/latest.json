@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-11-23T20:45:52+01:00",
+  "generated_at": "2026-11-23T21:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e6b8ca42eafa",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80229",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80229&utm_medium=rss",
+      "published_at": "2026-11-23T20:52:35+01:00",
+      "fetched_at": "2026-11-23T21:01:08+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Misstänkt mord i Heby"
+      },
+      "en": {
+        "title": "Suspected Murder in Heby"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:01:14+01:00"
+      }
+    },
+    {
+      "id": "8d2393339361",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2357fa30-f644-4045-8ca9-74e72497b36d",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2357fa30-f644-4045-8ca9-74e72497b36d",
+      "published_at": "2026-11-23T20:51:24+01:00",
+      "fetched_at": "2026-11-23T21:01:09+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Person hittad död – misstänkt mord",
+        "summary": "Misstänkt mord i Heby",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Person Found Dead – Suspected Murder",
+        "summary": "Suspected murder in Heby"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:01:14+01:00"
+      }
+    },
     {
       "id": "59fa8e2110b5",
       "schema_version": 1,
@@ -5385,55 +5434,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T15:31:07+01:00"
-      }
-    },
-    {
-      "id": "de5f9edd4681",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/EbWqLG/polisinsats-pa-tag-i-katrineholm",
-      "guid": "https://www.aftonbladet.se/nyheter/a/EbWqLG/polisinsats-pa-tag-i-katrineholm?utm_medium=rss",
-      "published_at": "2026-11-19T11:19:28+01:00",
-      "fetched_at": "2026-11-19T11:31:01+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisinsats på tåg i Katrineholm",
-        "summary": "Polisen har stoppat ett tåg i Katrineholm efter uppgifter om ett misstänkt brott.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police operation on train in Katrineholm",
-        "summary": "Police have stopped a train in Katrineholm after reports of a suspected crime."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T11:31:11+01:00"
-      }
-    },
-    {
-      "id": "df4ea61331b0",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80088",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80088&utm_medium=rss",
-      "published_at": "2026-11-19T11:19:08+01:00",
-      "fetched_at": "2026-11-19T11:31:01+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisen söker igenom utrymt tåg"
-      },
-      "en": {
-        "title": "Police search evacuated train"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T11:31:11+01:00"
       }
     }
   ]

@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-23T20:45:52+01:00",
+  "generated_at": "2026-11-23T21:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3ccab307b9be",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5Wrw3YisHCcJCsuouBXZrY/familjerna-kan-inte-fly-barnen-riskerar-att-doe",
+      "guid": "5Wrw3YisHCcJCsuouBXZrY",
+      "published_at": "2026-11-23T20:52:38+01:00",
+      "fetched_at": "2026-11-23T21:01:09+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Utrikesnyheter"
+      ],
+      "sv": {
+        "title": "Familjerna kan inte fly: ”Barnen riskerar att dö”",
+        "summary": "Precis bakom familjen Al-Hawalis hus i Gaza syns gulmålade stenar som sitter på ett rasat armeringsjärn. Det betyder att den gula linjen går där. – Ärligt talat, vi lever i skräck och fasa. I natt kunde vi inte sova en blund.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Families Cannot Flee: “The children risk dying”",
+        "summary": "Right behind the Al-Hawali family's house in Gaza, yellow-painted stones sit on a broken piece of rebar. That means the yellow line runs there. – Honestly, we live in fear and terror. Last night we could not sleep a wink."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:01:14+01:00"
+      }
+    },
     {
       "id": "3903d7c6c595",
       "schema_version": 1,
@@ -5363,32 +5392,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T18:31:06+01:00"
-      }
-    },
-    {
-      "id": "1c6e317c054b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trumps-iranlofte-om-vi-har-en-inkompetent-president",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumps-iranlofte-om-vi-har-en-inkompetent-president/",
-      "published_at": "2026-11-21T17:57:58+01:00",
-      "fetched_at": "2026-11-21T18:01:13+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trumps Iranlöfte: ”Om vi har en inkompetent president”",
-        "summary": "Donald Trump vill få till ett ”permanent” avtal med Iran. Det säger han till Fox News. – Ifall vi har en inkompetent president om 4 år eller 15 år eller 20 år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump's Iran pledge: \"If we have an incompetent president\"",
-        "summary": "Donald Trump wants to reach a \"permanent\" agreement with Iran. He says so to Fox News. – If we have an incompetent president in 4 years or 15 years or 20 years."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T18:01:17+01:00"
       }
     }
   ]

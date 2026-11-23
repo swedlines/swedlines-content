@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T20:45:52+01:00",
+  "generated_at": "2026-11-23T21:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e1cd1f36902d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nya-bolag-tar-plats-i-benchmark-indexet-sex-aker-ut",
+      "guid": "cbbd2f02-e418-439f-aceb-f147daf1f6d3",
+      "published_at": "2026-11-23T20:44:33+01:00",
+      "fetched_at": "2026-11-23T21:01:09+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5d495f9d-0f76-4150-abc4-f2c1eb75b4d1.jpeg?width=600",
+      "sv": {
+        "title": "Nya bolag tar plats i Benchmark-indexet – sex åker ut",
+        "summary": "Från den 1 december kommer tio nya bolag att adderas till OMX Stockholm Benchmark Index medan sex bolag lämnar indexet efter den halvårsvisa översynen av indexen. Det framgår av ett pressmeddelande från börsoperatören Nasdaq.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New Companies Enter Benchmark Index – Six Drop Out",
+        "summary": "From 1 December, ten new companies will be added to the OMX Stockholm Benchmark Index while six companies leave the index after the half-yearly review of the indices. This is according to a press release from exchange operator Nasdaq."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:01:14+01:00"
+      }
+    },
     {
       "id": "6840e4850928",
       "schema_version": 1,
@@ -5239,33 +5266,6 @@
       "en": {
         "title": "This happens Monday 23 November",
         "summary": "On Monday we can look forward to fresh quarterly figures from Verve Group and purchasing managers' indexes from a number of countries."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:30+01:00"
-      }
-    },
-    {
-      "id": "8e8c02604d3c",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/naringsliv/black-fridays-utmanare-foddes-i-malmo-idag-ar-det-dags",
-      "guid": "b84d014c-f018-44ad-91f0-622d93760757",
-      "published_at": "2026-11-23T06:44:53+01:00",
-      "fetched_at": "2026-11-23T06:56:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/01e9a049-2434-4931-833a-db97796a9349.jpeg?width=600",
-      "sv": {
-        "title": "Black Fridays utmanare föddes i Malmö – idag är det dags",
-        "summary": "Att laga, återbruka och dela istället för att köpa nytt. Det var grundidén när Malmöinitiativet Circular Monday startade för nästan tio år sedan som en motreaktion mot Black Friday. Idag är det åter dags för kampanjen som växer över hela världen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Black Friday's challenger was born in Malmö – today is the day",
-        "summary": "To repair, reuse and share instead of buying new. That was the basic idea when the Malmö initiative Circular Monday started almost ten years ago as a counter-reaction to Black Friday. Today the campaign is back, growing across the world."
       },
       "translation": {
         "status": "done",
