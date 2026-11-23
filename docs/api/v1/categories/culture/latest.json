@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-11-23T16:01:27+01:00",
+  "generated_at": "2026-11-23T16:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0c18e5d06332",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/film/filmrecension/recension-the-further-mis-adventures-of-cliff-booth-i-regi-av-david-fincher.e283da9a-a931-52b7-8ec0-b8e4c321cbfe",
+      "guid": "e283da9a-a931-52b7-8ec0-b8e4c321cbfe",
+      "published_at": "2026-11-23T15:47:28+01:00",
+      "fetched_at": "2026-11-23T16:15:51+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Filmrecension",
+        "Tagg: Film",
+        "Tagg: David Fincher",
+        "Tagg: Brad Pitt",
+        "Tagg: Quentin Tarantino",
+        "Tagg: Elizabeth Debicki",
+        "Tagg: Recension",
+        "Tagg: Hollywood"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/5fecf4a1-bd4f-33ab-9bb6-12e221de9aff",
+      "sv": {
+        "title": "Hur kan man göra såhär mot Tarantino?",
+        "summary": "Uppföljaren till ”Once upon a time in Hollywood” funkar fint – men så sker det katastrofala.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How could they do this to Tarantino?",
+        "summary": "The follow-up to ”Once Upon a Time in Hollywood” works nicely – but then the catastrophe happens."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:15:57+01:00"
+      }
+    },
     {
       "id": "f989867a912a",
       "schema_version": 1,
@@ -5703,33 +5740,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T11:15:54+01:00"
-      }
-    },
-    {
-      "id": "62ea228bc8ce",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/1vnraW/hoga-skrin-och-lekfullt-tassande-oppnar-oronen",
-      "guid": "https://www.svd.se/a/1vnraW/hoga-skrin-och-lekfullt-tassande-oppnar-oronen?utm_medium=rss",
-      "published_at": "2026-11-20T10:46:55+01:00",
-      "fetched_at": "2026-11-20T11:01:12+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/d8b72568-2eb0-3529-88f7-33cafcc94d0c?format=auto&s=08d6db3f93efdaad39c86fdb590bbfdf095d61ba&w=1000",
-      "sv": {
-        "title": "Höga skrin och lekfullt tassande öppnar öronen",
-        "summary": "Sound of Stockholm öppnar med polska kvartetten Kwartludium. De spelar pregnant och meningsfull…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "High screeches and playful tapping open the ears",
-        "summary": "Sound of Stockholm opens with the Polish quartet Kwartludium. They play pregnant and meaningful…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:01:27+01:00"
       }
     }
   ]

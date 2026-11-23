@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T16:01:27+01:00",
+  "generated_at": "2026-11-23T16:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2d9baf2ec4f9",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/nya-eu-sanktioner-ryssar-stoppas-fran-idrott",
+      "guid": "ae5fdd9a-f0b7-4cd2-ac76-e29be0729244",
+      "published_at": "2026-11-23T16:12:05+01:00",
+      "fetched_at": "2026-11-23T16:15:52+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/5b82dd72-9852-470a-88fb-cfccaf980745.jpg?width=600",
+      "sv": {
+        "title": "Nya EU-sanktioner: Ryssar stoppas från idrott",
+        "summary": "Ryska idrottare ska stoppas från att delta i tävlingar i EU, säger EU-kommissionens ordförande Ursula von der Leyen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New EU sanctions: Russians barred from sport",
+        "summary": "Russian athletes are to be barred from taking part in competitions in the EU, says European Commission President Ursula von der Leyen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T16:15:57+01:00"
+      }
+    },
     {
       "id": "33ad08ccd347",
       "schema_version": 1,
@@ -5245,32 +5272,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T09:15:53+01:00"
-      }
-    },
-    {
-      "id": "ff7b15d71ef5",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/sundlings-styrkebesked-snabbast-i-premiaren",
-      "guid": "a001545e-eab0-4f8c-95a6-935aeb0ad7de",
-      "published_at": "2026-11-20T09:00:41+01:00",
-      "fetched_at": "2026-11-20T09:01:12+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Sundlings styrkebesked – snabbast i premiären",
-        "summary": "Jonna Sundling visade stark form direkt längdpremiären i Bruksvallarna. Den svenska superstjärnan var snabbast i sprintkvalet när det seedade fältet kört. Hon var drygt två sekunder före Linn Svahn på en andraplats och Maja Dahlqvist som körde in som trea. Kvalet pågår.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sundling's show of strength – fastest in the opener",
-        "summary": "Jonna Sundling showed strong form in the cross-country season opener in Bruksvallarna. The Swedish superstar was fastest in the sprint qualifier once the seeded field had skied. She was just over two seconds ahead of Linn Svahn in second place, with Maja Dahlqvist finishing third. Qualifying continues."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T09:01:24+01:00"
       }
     }
   ]
