@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T19:31:04+01:00",
+  "generated_at": "2026-11-23T19:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3ccfa3022d56",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/s-toppens-svar-till-v-slapp-prestigen",
+      "guid": "https://www.svt.se/nyheter/inrikes/s-toppens-svar-till-v-slapp-prestigen",
+      "published_at": "2026-11-23T19:39:57+01:00",
+      "fetched_at": "2026-11-23T19:45:45+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "S-toppens svar till V: ”Släpp prestigen”",
+        "summary": "V-toppen Ida Gabrielsson tycker inte att Magdalena Anderssons ”startpaket” är tillräckligt bra – för att partiet ska ge upp sitt ministerkrav. Nu svarar S-toppen Ardalan Shekarabi att V behöver ”släppa prestigen”. Enligt honom har V vägrat förhandling ända sedan valet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Social Democrat leadership responds to V: \"Drop the prestige\"",
+        "summary": "V leader Ida Gabrielsson does not think Magdalena Andersson's \"starter package\" is good enough for the party to give up its ministerial demand. Now the Social Democrat leadership's Ardalan Shekarabi responds that V needs to \"drop the prestige\". According to him, V has refused negotiations ever since the election."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T19:45:54+01:00"
+      }
+    },
     {
       "id": "b23615566f2e",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T05:45:56+01:00"
-      }
-    },
-    {
-      "id": "16cf3288a04a",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/tydligt-att-ulf-kristersson-inte-gett-upp-hoppet-om-centerpartiet",
-      "guid": "https://www.svt.se/nyheter/inrikes/tydligt-att-ulf-kristersson-inte-gett-upp-hoppet-om-centerpartiet",
-      "published_at": "2026-11-17T19:11:07+01:00",
-      "fetched_at": "2026-11-17T19:15:41+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "”Tydligt att Ulf Kristersson inte gett upp hoppet om Centerpartiet”",
-        "summary": "Inget tyder på att Vänsterpartiet kommer att släppa sitt krav på ministerposter. Och om de mot förmodan ändå skulle göra det så kommer det med en sakpolitisk nota som kan bli för hög för Centerpartiet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "\"Clear that Ulf Kristersson has not given up hope of the Centre Party\"",
-        "summary": "Nothing suggests the Left Party will drop its demand for ministerial posts. And if they nonetheless did, it would come with a policy memorandum that could be too steep for the Centre Party."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:15:50+01:00"
       }
     }
   ]

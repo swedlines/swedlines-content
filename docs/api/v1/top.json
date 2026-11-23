@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:31:04+01:00",
+  "generated_at": "2026-11-23T19:45:56+01:00",
   "count": 30,
   "stories": [
     {
@@ -1027,121 +1027,6 @@
       ]
     },
     {
-      "id": "364d7b31bb32",
-      "source_count": 6,
-      "sources": [
-        "svd",
-        "aftonbladet",
-        "sydsvenskan",
-        "expressen",
-        "tv4",
-        "dn"
-      ],
-      "first_published_at": "2026-11-23T05:45:11+01:00",
-      "last_published_at": "2026-11-23T07:36:34+01:00",
-      "lead": {
-        "id": "364d7b31bb32",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/bk5rjg/familjens-sorg-efter-ronningemordet-smarta-varje-dag",
-        "guid": "https://www.svd.se/a/bk5rjg/familjens-sorg-efter-ronningemordet-smarta-varje-dag?utm_medium=rss",
-        "published_at": "2026-11-23T05:45:11+01:00",
-        "fetched_at": "2026-11-23T06:56:00+01:00",
-        "category": "crime",
-        "image_url": "https://akamai.vgc.no/v2/images/0f619edb-4157-39ca-b2bf-12b72a9b1b5d?format=auto&s=94c0819134aa35a47271e226a6d01b1320d38332&w=1000",
-        "sv": {
-          "title": "Familjen tackar för stöd – vädjar om utrymme",
-          "summary": "Den 25-åriga kvinnan fördes bort och mördades under julhelgen förra året.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Family thanks for support – pleads for space",
-          "summary": "The 25-year-old woman was abducted and murdered over the Christmas holiday last year."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T06:56:44+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "dd33694fffab",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/familjens-sorg-efter-ronningemordet-smarta-varje-dag",
-          "published_at": "2026-11-23T07:36:34+01:00",
-          "sv": {
-            "title": "Familjens sorg efter Rönningemordet: Smärta varje dag"
-          },
-          "en": {
-            "title": "Family's grief after the Rönninge murder: Pain every day"
-          }
-        },
-        {
-          "id": "62648c707672",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/tt-261123-ronningemord1-acb48819/familjens-sorg-efter-ronningemordet-smarta-varje-dag",
-          "published_at": "2026-11-23T06:34:20+01:00",
-          "sv": {
-            "title": "Familjens sorg efter mordet på My: ”Smärta varje dag”"
-          },
-          "en": {
-            "title": "Family's grief after the murder of My: “Pain every day”"
-          }
-        },
-        {
-          "id": "c724828fc944",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/krim/familjens-sorg-efter-mordet-i-ronninge-gar-inte-att-beskriva",
-          "published_at": "2026-11-23T06:26:21+01:00",
-          "sv": {
-            "title": "Familjens sorg efter mordet i Rönninge: Går inte att beskriva"
-          },
-          "en": {
-            "title": "Family's grief after the murder in Rönninge: “Impossible to describe”"
-          }
-        },
-        {
-          "id": "98af5c7cd287",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/familjens-sorg-efter-ronningemordet-smarta-varje-dag",
-          "published_at": "2026-11-23T05:45:23+01:00",
-          "sv": {
-            "title": "Familjens sorg efter Rönningemordet: Smärta varje dag"
-          },
-          "en": {
-            "title": "Rönninge murder: Family's grief, pain every day"
-          }
-        },
-        {
-          "id": "374509ebfe2c",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/9BvAxE/familjens-sorg-efter-ronningemordet-smarta-varje-dag",
-          "published_at": "2026-11-23T05:45:11+01:00",
-          "sv": {
-            "title": "Familjens sorg efter Rönningemordet: Smärta varje dag"
-          },
-          "en": {
-            "title": "Rönninge murder: Family's grief, pain every day"
-          }
-        },
-        {
-          "id": "364d7b31bb32",
-          "source": "svd",
-          "url": "https://www.svd.se/a/bk5rjg/familjens-sorg-efter-ronningemordet-smarta-varje-dag",
-          "published_at": "2026-11-23T05:45:11+01:00",
-          "sv": {
-            "title": "Familjen tackar för stöd – vädjar om utrymme"
-          },
-          "en": {
-            "title": "Family thanks for support – pleads for space"
-          }
-        }
-      ]
-    },
-    {
       "id": "8312968809da",
       "source_count": 5,
       "sources": [
@@ -1241,6 +1126,119 @@
           },
           "en": {
             "title": "This is how much more expensive the CSN loan becomes next year"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8b94dedba22d",
+      "source_count": 4,
+      "sources": [
+        "sydsvenskan",
+        "svd",
+        "dn",
+        "gp"
+      ],
+      "first_published_at": "2026-11-23T17:26:15+01:00",
+      "last_published_at": "2026-11-23T19:16:39+01:00",
+      "lead": {
+        "id": "8b94dedba22d",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/noje/augustprisgalan-i-gang-forsta-priset-utdelat",
+        "guid": "dc0d4c22-4385-4c28-bef4-65f941c2928d",
+        "published_at": "2026-11-23T17:26:15+01:00",
+        "fetched_at": "2026-11-23T17:31:01+01:00",
+        "category": "culture",
+        "image_url": "https://static.bonniernews.se/ba/6a9ca4ec-0c1a-4b0a-8f3c-fa06538eb443.jpg?width=600",
+        "sv": {
+          "title": "Augustprisgalan i gång – första priset utdelat",
+          "summary": "Nu har kvällens Augustprisgala på Dramaten i Stockholm inletts. Lilla Augustpriset går till ”Solkraft” av Lea Andersson. Senare i kväll kan Klas Östergren få Augustpriset för första gången.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "August Prize gala under way – first prize awarded",
+          "summary": "Tonight's August Prize gala has begun at Dramaten in Stockholm. The Little August Prize goes to \"Solkraft\" by Lea Andersson. Later this evening Klas Östergren may receive the August Prize for the first time."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T17:31:06+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "af6c6397ad00",
+          "source": "gp",
+          "url": "https://www.gp.se/kultur/kommentar/augustkommentar.a1d25591-27e7-5b27-8cd2-e45b67aab508",
+          "published_at": "2026-11-23T19:16:39+01:00",
+          "sv": {
+            "title": "Klaustrofobisk roman får Augustpris"
+          },
+          "en": {
+            "title": "Claustrophobic novel wins August Prize"
+          }
+        },
+        {
+          "id": "e04fe13cb569",
+          "source": "dn",
+          "url": "https://www.dn.se/kultur/jonas-thente-priset-gar-till-en-omedelbar-och-akut-roman",
+          "published_at": "2026-11-23T18:54:24+01:00",
+          "sv": {
+            "title": "Jonas Thente: Priset går till en omedelbar och akut roman"
+          },
+          "en": {
+            "title": "Jonas Thente: The prize goes to an immediate and urgent novel"
+          }
+        },
+        {
+          "id": "454161b36199",
+          "source": "svd",
+          "url": "https://www.svd.se/a/nLa2qo/augustpriset-2026-gar-till-per-svensson",
+          "published_at": "2026-11-23T18:45:19+01:00",
+          "sv": {
+            "title": "Augustpriset till Karolina Ramqvist"
+          },
+          "en": {
+            "title": "The August Prize goes to Karolina Ramqvist"
+          }
+        },
+        {
+          "id": "610a605d6014",
+          "source": "dn",
+          "url": "https://www.dn.se/kultur/karolina-ramqvist-vinner-augustpriset",
+          "published_at": "2026-11-23T18:19:50+01:00",
+          "sv": {
+            "title": "Karolina Ramqvist vinner Augustpriset"
+          },
+          "en": {
+            "title": "Karolina Ramqvist wins the August Prize"
+          }
+        },
+        {
+          "id": "ce01f75e4e40",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80225",
+          "published_at": "2026-11-23T18:16:22+01:00",
+          "sv": {
+            "title": "De får Augustpriset"
+          },
+          "en": {
+            "title": "They win the August Prize"
+          }
+        },
+        {
+          "id": "8b94dedba22d",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/noje/augustprisgalan-i-gang-forsta-priset-utdelat",
+          "published_at": "2026-11-23T17:26:15+01:00",
+          "sv": {
+            "title": "Augustprisgalan i gång – första priset utdelat"
+          },
+          "en": {
+            "title": "August Prize gala under way – first prize awarded"
           }
         }
       ]
@@ -1830,106 +1828,6 @@
           },
           "en": {
             "title": "Damberg: \"Critical situation\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "8b94dedba22d",
-      "source_count": 3,
-      "sources": [
-        "sydsvenskan",
-        "svd",
-        "dn"
-      ],
-      "first_published_at": "2026-11-23T17:26:15+01:00",
-      "last_published_at": "2026-11-23T18:54:24+01:00",
-      "lead": {
-        "id": "8b94dedba22d",
-        "schema_version": 1,
-        "source": "sydsvenskan",
-        "url": "https://www.sydsvenskan.se/noje/augustprisgalan-i-gang-forsta-priset-utdelat",
-        "guid": "dc0d4c22-4385-4c28-bef4-65f941c2928d",
-        "published_at": "2026-11-23T17:26:15+01:00",
-        "fetched_at": "2026-11-23T17:31:01+01:00",
-        "category": "culture",
-        "image_url": "https://static.bonniernews.se/ba/6a9ca4ec-0c1a-4b0a-8f3c-fa06538eb443.jpg?width=600",
-        "sv": {
-          "title": "Augustprisgalan i gång – första priset utdelat",
-          "summary": "Nu har kvällens Augustprisgala på Dramaten i Stockholm inletts. Lilla Augustpriset går till ”Solkraft” av Lea Andersson. Senare i kväll kan Klas Östergren få Augustpriset för första gången.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "August Prize gala under way – first prize awarded",
-          "summary": "Tonight's August Prize gala has begun at Dramaten in Stockholm. The Little August Prize goes to \"Solkraft\" by Lea Andersson. Later this evening Klas Östergren may receive the August Prize for the first time."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T17:31:06+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "e04fe13cb569",
-          "source": "dn",
-          "url": "https://www.dn.se/kultur/jonas-thente-priset-gar-till-en-omedelbar-och-akut-roman",
-          "published_at": "2026-11-23T18:54:24+01:00",
-          "sv": {
-            "title": "Jonas Thente: Priset går till en omedelbar och akut roman"
-          },
-          "en": {
-            "title": "Jonas Thente: The prize goes to an immediate and urgent novel"
-          }
-        },
-        {
-          "id": "454161b36199",
-          "source": "svd",
-          "url": "https://www.svd.se/a/nLa2qo/augustpriset-2026-gar-till-per-svensson",
-          "published_at": "2026-11-23T18:45:19+01:00",
-          "sv": {
-            "title": "Augustpriset till Karolina Ramqvist"
-          },
-          "en": {
-            "title": "The August Prize goes to Karolina Ramqvist"
-          }
-        },
-        {
-          "id": "610a605d6014",
-          "source": "dn",
-          "url": "https://www.dn.se/kultur/karolina-ramqvist-vinner-augustpriset",
-          "published_at": "2026-11-23T18:19:50+01:00",
-          "sv": {
-            "title": "Karolina Ramqvist vinner Augustpriset"
-          },
-          "en": {
-            "title": "Karolina Ramqvist wins the August Prize"
-          }
-        },
-        {
-          "id": "ce01f75e4e40",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80225",
-          "published_at": "2026-11-23T18:16:22+01:00",
-          "sv": {
-            "title": "De får Augustpriset"
-          },
-          "en": {
-            "title": "They win the August Prize"
-          }
-        },
-        {
-          "id": "8b94dedba22d",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/noje/augustprisgalan-i-gang-forsta-priset-utdelat",
-          "published_at": "2026-11-23T17:26:15+01:00",
-          "sv": {
-            "title": "Augustprisgalan i gång – första priset utdelat"
-          },
-          "en": {
-            "title": "August Prize gala under way – first prize awarded"
           }
         }
       ]
@@ -3108,6 +3006,75 @@
           },
           "en": {
             "title": "New details on Huang's links to Chinese spies"
+          }
+        }
+      ]
+    },
+    {
+      "id": "28a81f6d495b",
+      "source_count": 2,
+      "sources": [
+        "gp",
+        "di"
+      ],
+      "first_published_at": "2026-11-23T11:34:37+01:00",
+      "last_published_at": "2026-11-23T16:21:19+01:00",
+      "lead": {
+        "id": "28a81f6d495b",
+        "schema_version": 1,
+        "source": "gp",
+        "url": "https://www.gp.se/nyheter/varlden/uppgifter-ryssland-planerar-karnvapen-i-rymden.729fc4d0-7d49-5310-8583-883af3fd637c",
+        "guid": "729fc4d0-7d49-5310-8583-883af3fd637c",
+        "published_at": "2026-11-23T11:34:37+01:00",
+        "fetched_at": "2026-11-23T11:45:44+01:00",
+        "category": "world",
+        "feed_categories": [
+          "Världen",
+          "Tagg: Kärnvapen",
+          "Tagg: Rymden",
+          "Tagg: Uppdatera mig - BEHOV"
+        ],
+        "image_url": "https://vcdn.polarismedia.no/324deb22-0a4c-34d4-9279-ad7fdf601b10",
+        "sv": {
+          "title": "Uppgifter: Ryssland kan snart ha kärnvapen i rymden",
+          "summary": "Västliga underrättelsetjänster tror att Vladimir Putin planerar att skjuta upp en satellit med känvapen i december, rapporterar tyska medier.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Reports: Russia may soon have nuclear weapons in space",
+          "summary": "Western intelligence services believe Vladimir Putin plans to launch a satellite carrying nuclear weapons in December, German media report."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T11:45:51+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "0bd7c5433808",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/underrattelsetjanster-varnar-for-ryska-karnvapen-i-rymden",
+          "published_at": "2026-11-23T16:21:19+01:00",
+          "sv": {
+            "title": "Underrättelsetjänster varnar för ryska kärnvapen i rymden"
+          },
+          "en": {
+            "title": "Intelligence services warn of Russian nuclear weapons in space"
+          }
+        },
+        {
+          "id": "28a81f6d495b",
+          "source": "gp",
+          "url": "https://www.gp.se/nyheter/varlden/uppgifter-ryssland-planerar-karnvapen-i-rymden.729fc4d0-7d49-5310-8583-883af3fd637c",
+          "published_at": "2026-11-23T11:34:37+01:00",
+          "sv": {
+            "title": "Uppgifter: Ryssland kan snart ha kärnvapen i rymden"
+          },
+          "en": {
+            "title": "Reports: Russia may soon have nuclear weapons in space"
           }
         }
       ]
