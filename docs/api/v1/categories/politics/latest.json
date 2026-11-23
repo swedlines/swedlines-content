@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T15:11:00+01:00",
+  "generated_at": "2026-11-23T15:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fa1301352e5a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/podcast/politikrummet-1/stor-stress-i-c-infor-odesvalet",
+      "guid": "https://www.expressen.se/podcast/politikrummet-1/stor-stress-i-c-infor-odesvalet/",
+      "published_at": "2026-11-23T15:11:51+01:00",
+      "fetched_at": "2026-11-23T15:15:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Stor stress i C – inför ödesvalet",
+        "summary": "Magdalena Andersson lämnar ett bud till Vänsterpartiet. Är det ett startbud, slutbud eller ett skambud? Och vart är Centerpartiet på väg? Lyssna på ”Politikrummet”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major stress in C – ahead of the fateful election",
+        "summary": "Magdalena Andersson makes an offer to the Left Party. Is it an opening bid, a final bid or a shameful bid? And where is the Centre Party heading? Listen to “Politikrummet”."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:15:53+01:00"
+      }
+    },
     {
       "id": "4b0969bcf0ea",
       "schema_version": 1,
@@ -5379,35 +5405,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T23:45:49+01:00"
-      }
-    },
-    {
-      "id": "297f5774a92b",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6sdQodc868UpK3nr7zlnVK/vaexande-hopp-om-extra-val-bland-sd-s-graesroetter",
-      "guid": "6sdQodc868UpK3nr7zlnVK",
-      "published_at": "2026-11-19T21:55:03+01:00",
-      "fetched_at": "2026-11-19T22:01:12+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Växande hopp om extra val bland SD:s gräsrötter",
-        "summary": "Övertygelsen ökar om en Kristerssonregering",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Growing hope for snap election among SD grassroots",
-        "summary": "Belief is growing in a Kristersson government"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T22:01:17+01:00"
       }
     }
   ]

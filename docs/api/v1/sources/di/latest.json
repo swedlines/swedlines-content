@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-23T15:11:00+01:00",
+  "generated_at": "2026-11-23T15:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "33f8b19fb906",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/wall-street-rusar-i-forhandeln-efter-jensen-huangs-aterkomst",
+      "guid": "ac30c15d-b56a-47e5-a81b-7e603de8347c",
+      "published_at": "2026-11-23T15:10:46+01:00",
+      "fetched_at": "2026-11-23T15:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8516286a-2b8a-4d82-a5be-99232a66d225.jpeg?width=600",
+      "sv": {
+        "title": "Wall Street rusar i förhandeln efter Jensen Huangs återkomst",
+        "summary": "De redan gröna terminerna på Wall Street tar ett stort kliv uppåt på beskedet att Jensen Huang gör comeback som vd för Nvidia. Bolaget i fråga rusar nära 30 procent i förhandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wall Street surges in trading after Jensen Huang's return",
+        "summary": "The already green futures on Wall Street take a big step up on the news that Jensen Huang is making a comeback as CEO of Nvidia. The company in question is surging close to 30 percent in trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:15:53+01:00"
+      }
+    },
+    {
+      "id": "929343565327",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nvidia-beskedet-lyfter-stockholmsborsen",
+      "guid": "5b0d505b-c9bc-434b-b26c-152f0fbf5bdb",
+      "published_at": "2026-11-23T15:10:13+01:00",
+      "fetched_at": "2026-11-23T15:15:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nvidia-beskedet lyfter Stockholmsbörsen",
+        "summary": "Beskedet från Nvidia att Jensen Huang återinsätts som vd lyfter Stockholmsbörsen, särskilt dess AI-exponerade aktier varav flera dubblar dagens uppgångar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia news lifts the Stockholm Stock Exchange",
+        "summary": "The news from Nvidia that Jensen Huang is being reinstated as CEO lifts the Stockholm Stock Exchange, especially its AI-exposed shares, several of which are doubling today's gains."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:15:53+01:00"
+      }
+    },
     {
       "id": "ab9e655022b2",
       "schema_version": 1,
@@ -5296,60 +5349,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T00:15:55+01:00"
-      }
-    },
-    {
-      "id": "fdd1c869f38d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/suntrade-forhandlar-om-datacenter-kan-behova-nya-pengar",
-      "guid": "f5926839-b787-4dcf-a7cd-958334e9c3fd",
-      "published_at": "2026-11-20T22:59:07+01:00",
-      "fetched_at": "2026-11-20T23:15:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/592ce4d9-6e08-47d2-a154-9f81ce0fd061.jpeg?width=600",
-      "sv": {
-        "title": "Suntrade förhandlar om datacenter – kan behöva nya pengar",
-        "summary": "Spotlightlistade energibolaget Suntrade för samtal med bland annat amerikanska och tyska aktörer om att etablera mindre datacenter i Sverige. Samtidigt flaggar vd Daniel Hedström för att nya pengar behövs om ett halvår om förhandlingarna går i lås.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Suntrade in talks on data centres – may need new money",
-        "summary": "The Spotlight-listed energy company Suntrade is in talks with, among others, American and German players about establishing smaller data centres in Sweden. Meanwhile, CEO Daniel Hedström flags that new money will be needed in six months if the negotiations reach a deadlock."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T23:15:53+01:00"
-      }
-    },
-    {
-      "id": "a1a8d5cf193e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/wall-street-star-vid-ett-vagskal",
-      "guid": "bbf80bd2-1bba-454e-be41-51a8123f2f18",
-      "published_at": "2026-11-20T22:37:31+01:00",
-      "fetched_at": "2026-11-20T23:01:15+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/9847b039-0780-4cc3-9bc7-bf02e7631a8f.jpeg?width=600",
-      "sv": {
-        "title": "Wall Street står vid ett vägskäl",
-        "summary": "NEW YORK. Wall Street har satsat tusentals miljarder på att AI ska förändra världsekonomin. Men efter Anthropics rekordnotering växer tvivlen. Fredagens breda börsfall kan markera ett avgörande vägskäl för den amerikanska aktiemarknaden.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Wall Street at a crossroads",
-        "summary": "NEW YORK. Wall Street has invested thousands of billions in AI to transform the world economy. But after Anthropic's record listing, doubts are growing. Friday's broad stock market drop may mark a decisive crossroads for the American stock market."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T23:01:20+01:00"
       }
     }
   ]

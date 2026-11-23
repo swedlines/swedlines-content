@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-23T15:11:00+01:00",
+  "generated_at": "2026-11-23T15:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fa1301352e5a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/podcast/politikrummet-1/stor-stress-i-c-infor-odesvalet",
+      "guid": "https://www.expressen.se/podcast/politikrummet-1/stor-stress-i-c-infor-odesvalet/",
+      "published_at": "2026-11-23T15:11:51+01:00",
+      "fetched_at": "2026-11-23T15:15:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Stor stress i C – inför ödesvalet",
+        "summary": "Magdalena Andersson lämnar ett bud till Vänsterpartiet. Är det ett startbud, slutbud eller ett skambud? Och vart är Centerpartiet på väg? Lyssna på ”Politikrummet”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major stress in C – ahead of the fateful election",
+        "summary": "Magdalena Andersson makes an offer to the Left Party. Is it an opening bid, a final bid or a shameful bid? And where is the Centre Party heading? Listen to “Politikrummet”."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:15:53+01:00"
+      }
+    },
+    {
+      "id": "33f8b19fb906",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/wall-street-rusar-i-forhandeln-efter-jensen-huangs-aterkomst",
+      "guid": "ac30c15d-b56a-47e5-a81b-7e603de8347c",
+      "published_at": "2026-11-23T15:10:46+01:00",
+      "fetched_at": "2026-11-23T15:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8516286a-2b8a-4d82-a5be-99232a66d225.jpeg?width=600",
+      "sv": {
+        "title": "Wall Street rusar i förhandeln efter Jensen Huangs återkomst",
+        "summary": "De redan gröna terminerna på Wall Street tar ett stort kliv uppåt på beskedet att Jensen Huang gör comeback som vd för Nvidia. Bolaget i fråga rusar nära 30 procent i förhandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wall Street surges in trading after Jensen Huang's return",
+        "summary": "The already green futures on Wall Street take a big step up on the news that Jensen Huang is making a comeback as CEO of Nvidia. The company in question is surging close to 30 percent in trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:15:53+01:00"
+      }
+    },
+    {
+      "id": "929343565327",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nvidia-beskedet-lyfter-stockholmsborsen",
+      "guid": "5b0d505b-c9bc-434b-b26c-152f0fbf5bdb",
+      "published_at": "2026-11-23T15:10:13+01:00",
+      "fetched_at": "2026-11-23T15:15:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nvidia-beskedet lyfter Stockholmsbörsen",
+        "summary": "Beskedet från Nvidia att Jensen Huang återinsätts som vd lyfter Stockholmsbörsen, särskilt dess AI-exponerade aktier varav flera dubblar dagens uppgångar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia news lifts the Stockholm Stock Exchange",
+        "summary": "The news from Nvidia that Jensen Huang is being reinstated as CEO lifts the Stockholm Stock Exchange, especially its AI-exposed shares, several of which are doubling today's gains."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:15:53+01:00"
+      }
+    },
     {
       "id": "0adda7822bb7",
       "schema_version": 1,
@@ -54,6 +133,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T15:10:54+01:00"
+      }
+    },
+    {
+      "id": "45b3e50b051a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-nya-krav-pa-nato",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-nya-krav-pa-nato",
+      "published_at": "2026-11-23T15:04:30+01:00",
+      "fetched_at": "2026-11-23T15:15:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Zelenskyjs krigskrav",
+        "summary": "Vädjan till Nato: ”Varför inte säga högt vad många tänker?”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Zelenskyy's war demands",
+        "summary": "Appeal to NATO: “Why not say out loud what many are thinking?”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:15:53+01:00"
       }
     },
     {
@@ -5242,116 +5347,6 @@
       "en": {
         "title": "Thyssenkrupp backs bankrupt e-fuel company",
         "summary": "Liquid Wind, the bankrupt electrofuel company that has been revived under the name Liquid Energy Design, is being backed by German industrial giant Thyssenkrupp. The plans for the company are ambitious, according to a press release. But details on how they will be financed are missing."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T10:45:57+01:00"
-      }
-    },
-    {
-      "id": "f493f7958bf5",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348116",
-      "guid": "rss:sr.se/article/9348116",
-      "published_at": "2026-11-23T10:39:00+01:00",
-      "fetched_at": "2026-11-23T10:45:46+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Lejon i bostadsområde – polisjakt pågår utanför Istanbul",
-        "summary": "I Turkiet går ett lejon löst i ett bostadsområde utanför Istanbul. Turkisk polis håller på att försöka fånga in det, rapporterar nyhetsbyrån AP. En invånare larmade om lejonet i går kväll och det fångades senare på bild av övervakningskameror.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Lion in residential area – police hunt underway outside Istanbul",
-        "summary": "In Turkey, a lion has escaped into a residential area outside Istanbul. Turkish police are trying to capture it, news agency AP reports. A resident reported the lion last evening and it was later captured on video by surveillance cameras."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T10:45:57+01:00"
-      }
-    },
-    {
-      "id": "6c4a503a407c",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/humoret-sjonk-for-brittiskt-naringsliv",
-      "guid": "6c699768-38d8-4d1f-9d48-a16f4a68bd5a",
-      "published_at": "2026-11-23T10:38:34+01:00",
-      "fetched_at": "2026-11-23T10:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6e4f4843-be8b-412e-92fb-9e001edd8cc8.jpeg?width=600",
-      "sv": {
-        "title": "Humöret sjönk för brittiskt näringsliv",
-        "summary": "Det kombinerade inköpschefsindexet i Storbritannien sjönk till 52,3 i november, jämfört med 52,9 föregående månad. Det visar preliminär statistik från S&P Global.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mood sinks for British business",
-        "summary": "The composite purchasing managers' index for the United Kingdom fell to 52.3 in November, compared with 52.9 the previous month. This is shown by preliminary statistics from S&P Global."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T10:45:57+01:00"
-      }
-    },
-    {
-      "id": "bef1a9f0ccab",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/ifk-goteborg-kan-avgora-guldstriden-noah-tolf-vill-slippa-nytt-guldjubel-pa-gamla-ullevi.27b89c4d-4435-555b-a064-c5c0f4979524",
-      "guid": "27b89c4d-4435-555b-a064-c5c0f4979524",
-      "published_at": "2026-11-23T10:37:59+01:00",
-      "fetched_at": "2026-11-23T11:15:46+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "IFK Göteborg",
-        "Tagg: IFK Göteborg"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/179277c7-f614-32b7-8568-c16e8e07e319",
-      "sv": {
-        "title": "Blåvitt vill stöka till guldstriden: ”Kul att röra om i grytan”",
-        "summary": "Har båda guldkandidaterna kvar att möta – Björklund tippar Bajen med en blåvit brasklapp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Blåvitt wants to stir up the title race: “Fun to stir the pot”",
-        "summary": "Both title contenders still have to be faced – Björklund tips Bajen with a blue-and-white caveat."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T11:15:59+01:00"
-      }
-    },
-    {
-      "id": "01f82ff09295",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/ubs-telia-utmarker-sig-i-norden",
-      "guid": "d30841ad-bfd5-4f07-a76d-5ba638d0d562",
-      "published_at": "2026-11-23T10:31:47+01:00",
-      "fetched_at": "2026-11-23T10:45:49+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "UBS: Telia utmärker sig i Norden",
-        "summary": "Teleoperatören Telia utmärker sig inom det nordiska klustret och i branschen i stort för kvaliteter som sträcker sig från aktiens defensiva egenskaper och genomförandeförmåga till utrymme för fortsatta uppgraderingar av konsensusprognoserna, skriver UBS.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "UBS: Telia stands out in the Nordics",
-        "summary": "Telecom operator Telia stands out in the Nordic cluster and in the industry as a whole for qualities ranging from the share's defensive characteristics and execution capability to room for further upgrades of consensus forecasts, UBS writes."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-23T15:11:00+01:00",
+  "generated_at": "2026-11-23T15:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "33f8b19fb906",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/wall-street-rusar-i-forhandeln-efter-jensen-huangs-aterkomst",
+      "guid": "ac30c15d-b56a-47e5-a81b-7e603de8347c",
+      "published_at": "2026-11-23T15:10:46+01:00",
+      "fetched_at": "2026-11-23T15:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8516286a-2b8a-4d82-a5be-99232a66d225.jpeg?width=600",
+      "sv": {
+        "title": "Wall Street rusar i förhandeln efter Jensen Huangs återkomst",
+        "summary": "De redan gröna terminerna på Wall Street tar ett stort kliv uppåt på beskedet att Jensen Huang gör comeback som vd för Nvidia. Bolaget i fråga rusar nära 30 procent i förhandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wall Street surges in trading after Jensen Huang's return",
+        "summary": "The already green futures on Wall Street take a big step up on the news that Jensen Huang is making a comeback as CEO of Nvidia. The company in question is surging close to 30 percent in trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:15:53+01:00"
+      }
+    },
+    {
+      "id": "929343565327",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nvidia-beskedet-lyfter-stockholmsborsen",
+      "guid": "5b0d505b-c9bc-434b-b26c-152f0fbf5bdb",
+      "published_at": "2026-11-23T15:10:13+01:00",
+      "fetched_at": "2026-11-23T15:15:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nvidia-beskedet lyfter Stockholmsbörsen",
+        "summary": "Beskedet från Nvidia att Jensen Huang återinsätts som vd lyfter Stockholmsbörsen, särskilt dess AI-exponerade aktier varav flera dubblar dagens uppgångar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia news lifts the Stockholm Stock Exchange",
+        "summary": "The news from Nvidia that Jensen Huang is being reinstated as CEO lifts the Stockholm Stock Exchange, especially its AI-exposed shares, several of which are doubling today's gains."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:15:53+01:00"
+      }
+    },
     {
       "id": "0adda7822bb7",
       "schema_version": 1,
@@ -5277,60 +5330,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T13:01:22+01:00"
-      }
-    },
-    {
-      "id": "26180902caff",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ledare/s-totalpaket-ar-en-bluff",
-      "guid": "ff9dbb61-2987-4c00-bd3b-9db6b5f48b8e",
-      "published_at": "2026-11-22T12:32:39+01:00",
-      "fetched_at": "2026-11-22T12:45:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/5614386d-7b3b-4485-837a-117d79a9d127.jpeg?width=600",
-      "sv": {
-        "title": "S totalpaket är en bluff",
-        "summary": "En ofinansierad önskelista utan ett färdigt regeringsalternativ. S totalpaket går inte att genomföra i sin nuvarande form.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "S total package is a bluff",
-        "summary": "An unfunded wish list without a finished government alternative. The S total package cannot be implemented in its current form."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T12:45:52+01:00"
-      }
-    },
-    {
-      "id": "f7b58fa27160",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/eu-ratar-klimatutkastet-sverige-lamnar-toppmotet",
-      "guid": "2daa2080-9c90-4a4a-90c1-d90ba6cbe860",
-      "published_at": "2026-11-22T12:08:49+01:00",
-      "fetched_at": "2026-11-22T12:15:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/9fcb475e-17bd-4191-9dc8-3277697b17b8.jpg?width=600",
-      "sv": {
-        "title": "EU ratar klimatutkastet – Sverige lämnar toppmötet",
-        "summary": "EU säger nej till klimattoppmötets förslag till slutdokument, meddelar unionens ordförandeland Irland.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "EU rejects climate draft – Sweden leaves summit",
-        "summary": "The EU says no to the climate summit's proposed final document, the EU presidency Ireland announces."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T12:16:00+01:00"
       }
     }
   ]

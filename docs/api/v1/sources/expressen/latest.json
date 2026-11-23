@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-23T15:11:00+01:00",
+  "generated_at": "2026-11-23T15:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fa1301352e5a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/podcast/politikrummet-1/stor-stress-i-c-infor-odesvalet",
+      "guid": "https://www.expressen.se/podcast/politikrummet-1/stor-stress-i-c-infor-odesvalet/",
+      "published_at": "2026-11-23T15:11:51+01:00",
+      "fetched_at": "2026-11-23T15:15:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Stor stress i C – inför ödesvalet",
+        "summary": "Magdalena Andersson lämnar ett bud till Vänsterpartiet. Är det ett startbud, slutbud eller ett skambud? Och vart är Centerpartiet på väg? Lyssna på ”Politikrummet”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major stress in C – ahead of the fateful election",
+        "summary": "Magdalena Andersson makes an offer to the Left Party. Is it an opening bid, a final bid or a shameful bid? And where is the Centre Party heading? Listen to “Politikrummet”."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:15:53+01:00"
+      }
+    },
+    {
+      "id": "45b3e50b051a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-nya-krav-pa-nato",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-nya-krav-pa-nato",
+      "published_at": "2026-11-23T15:04:30+01:00",
+      "fetched_at": "2026-11-23T15:15:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Zelenskyjs krigskrav",
+        "summary": "Vädjan till Nato: ”Varför inte säga högt vad många tänker?”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Zelenskyy's war demands",
+        "summary": "Appeal to NATO: “Why not say out loud what many are thinking?”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T15:15:53+01:00"
+      }
+    },
     {
       "id": "af1c31969ced",
       "schema_version": 1,
@@ -5148,58 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T04:57:22+01:00"
-      }
-    },
-    {
-      "id": "055d077abcdb",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/philip-young-bjod-in-man-for-att-valdta-hustrun-fyra-doms",
-      "guid": "https://www.expressen.se/nyheter/varlden/philip-young-bjod-in-man-for-att-valdta-hustrun-fyra-doms/",
-      "published_at": "2026-11-20T01:53:41+01:00",
-      "fetched_at": "2026-11-20T02:01:11+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Philip Young bjöd in män för att våldta hustrun – fyra döms",
-        "summary": "I över ett årtionde drogade och våldtog den tidigare kommunpolitikern Philip Young sin hustru Joanne. På nätet bjöd han in andra män att delta – för att kunna filma övergreppen. Nu döms fyra av männen som deltog för våldtäkterna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Philip Young invited men to rape his wife – four convicted",
-        "summary": "For over a decade, former municipal politician Philip Young drugged and raped his wife Joanne. Online, he invited other men to take part – so that he could film the abuse. Now four of the men who took part are convicted of the rapes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T02:01:15+01:00"
-      }
-    },
-    {
-      "id": "96f9b73a20a4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=35546b8c-5a63-4b87-a8ac-9741d225b369",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=35546b8c-5a63-4b87-a8ac-9741d225b369",
-      "published_at": "2026-11-20T00:44:24+01:00",
-      "fetched_at": "2026-11-20T07:01:06+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trump missade Kim",
-        "summary": "Förklaringen: Därför blev det inget möte",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump missed Kim",
-        "summary": "The explanation: This is why there was no meeting"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:01:13+01:00"
       }
     }
   ]
