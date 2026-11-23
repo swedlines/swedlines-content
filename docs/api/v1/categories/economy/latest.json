@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-23T21:01:21+01:00",
+  "generated_at": "2026-11-23T21:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "791b4cb57111",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/uppgifter-usa-overvager-att-svartlista-megaspeed",
+      "guid": "4a9e5959-b3cb-480f-885e-fdedd9c02100",
+      "published_at": "2026-11-23T21:07:45+01:00",
+      "fetched_at": "2026-11-23T21:15:50+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/96231e92-6614-43f6-b626-8b6b118ee8d2.jpeg?width=600",
+      "sv": {
+        "title": "Uppgifter: USA överväger att svartlista Megaspeed",
+        "summary": "Trumpadministrationen överväger att lägga till företaget molntjänstföretaget Megaspeed, som står i centrum för Nvidia-skandalen, på en handelsmässig svartlista.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: US considers blacklisting Megaspeed",
+        "summary": "The Trump administration is considering adding the cloud service company Megaspeed, which is at the centre of the Nvidia scandal, to a trade blacklist."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:15:56+01:00"
+      }
+    },
+    {
+      "id": "4d8495d45702",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/experten-ryssland-och-ukraina-i-dolt-krig-i-afrika",
+      "guid": "8b6bdaf6-052b-4396-808b-6d77fcfbc36f",
+      "published_at": "2026-11-23T20:53:53+01:00",
+      "fetched_at": "2026-11-23T21:15:50+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/7ac757cf-6f12-4cb5-8a17-30e585917e2c.jpeg?width=600",
+      "sv": {
+        "title": "Experten: Ryssland och Ukraina i dolt krig i Afrika",
+        "summary": "De två spektakulära attackerna mot ryska fartyg i Libyen och Finska viken vittnar om att Ukraina är hårt pressat ekonomiskt – och är redo att ta större risker för att stärka sin position i de pågående fredsförhandlingarna, säger överstelöjtnant Johan Huovinen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Expert: Russia and Ukraine in hidden war in Africa",
+        "summary": "The two spectacular attacks on Russian vessels in Libya and the Gulf of Finland show that Ukraine is under heavy economic pressure – and is ready to take greater risks to strengthen its position in the ongoing peace negotiations, says Lieutenant Colonel Johan Huovinen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:15:56+01:00"
+      }
+    },
     {
       "id": "e1cd1f36902d",
       "schema_version": 1,
@@ -5220,59 +5274,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T07:04:12+01:00"
-      }
-    },
-    {
-      "id": "ec0e0b4fb21b",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kivra-inleder-samarbete-med-mastercard-valkomnar-swish-konkurrens",
-      "guid": "65befa4b-09f3-4e4a-b681-d50cc3e0d4a4",
-      "published_at": "2026-11-23T07:00:12+01:00",
-      "fetched_at": "2026-11-23T07:04:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b2b542ad-f9bc-4b64-8b83-d2a4f1d667ad.jpeg?width=600",
-      "sv": {
-        "title": "Kivra inleder samarbete med Mastercard – välkomnar Swish-konkurrens",
-        "summary": "Den digitala brevlådan Kivra och kreditkortsbolaget Mastercard lanserar ett nytt samarbete som gör att konsumenter kan koppla sitt kort till Kivra för att få digitala kvitton direkt i appen. Samtidigt utmanas bolagets kärnaffär när Swish kliver in på fakturamarknaden.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Kivra launches partnership with Mastercard – welcomes Swish competition",
-        "summary": "The digital mailbox Kivra and credit card company Mastercard are launching a new partnership that lets consumers link their card to Kivra to receive digital receipts directly in the app. At the same time, the company's core business is being challenged as Swish moves into the invoice market."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T07:04:12+01:00"
-      }
-    },
-    {
-      "id": "82e7620edddd",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/detta-hander-mandag-23-november-njH24",
-      "guid": "75ffe89f-7174-4101-81a1-0df622d544bc",
-      "published_at": "2026-11-23T06:48:07+01:00",
-      "fetched_at": "2026-11-23T06:56:02+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Detta händer måndag 23 november",
-        "summary": "På måndagen kan vi se fram emot färska kvartalssiffror från Verve Group samt inköpschefsindex från en rad länder.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This happens Monday 23 November",
-        "summary": "On Monday we can look forward to fresh quarterly figures from Verve Group and purchasing managers' indexes from a number of countries."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:30+01:00"
       }
     }
   ]

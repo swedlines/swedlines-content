@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T21:01:21+01:00",
+  "generated_at": "2026-11-23T21:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3f3abb10c295",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/spionens-brev-kan--ha-kodade-budskap-",
+      "guid": "https://www.expressen.se/nyheter/sverige/spionens-brev-kan--ha-kodade-budskap-/",
+      "published_at": "2026-11-23T20:59:49+01:00",
+      "fetched_at": "2026-11-23T21:15:50+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Spionens brev kan ha kodade budskap",
+        "summary": "Storspionen Peyman Kia har begärt ut uppgifter om anställda inom Kriminalvården – och kräver nu en muntlig domstolsförhandling med tio vittnen. Samtidigt granskas hans handskrivna brev efter misstankar om att de innehåller kodade budskap.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Spy's letters may contain coded messages",
+        "summary": "Master spy Peyman Kia has requested records on employees of the Prison and Probation Service – and now demands an oral court hearing with ten witnesses. Meanwhile, his handwritten letters are being examined over suspicions that they contain coded messages."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:15:56+01:00"
+      }
+    },
     {
       "id": "8d2393339361",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "c5d91bc34d98",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/hanna-48-nara-olyckan-pa-e6--blixthalka-pa-flera-vagar",
-      "guid": "https://www.expressen.se/nyheter/sverige/hanna-48-nara-olyckan-pa-e6--blixthalka-pa-flera-vagar/",
-      "published_at": "2026-11-20T10:34:18+01:00",
-      "fetched_at": "2026-11-20T10:45:47+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "Hanna, 48, nära olyckan på E6 – blixthalka på flera vägar",
-        "summary": "Det är snorhalt på flera håll i morgontrafiken. Hanna Sjöberg Svensson var mitt i trafikkaoset på E6. – Jag försökte bromsa, men det gick inte, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hanna, 48, nearly in accident on E6 – black ice on several roads",
-        "summary": "It is treacherously slippery in several places in the morning traffic. Hanna Sjöberg Svensson was in the middle of the traffic chaos on the E6. – I tried to brake, but it didn't work, she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T10:45:54+01:00"
       }
     }
   ]
