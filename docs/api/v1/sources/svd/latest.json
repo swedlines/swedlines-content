@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T18:45:58+01:00",
+  "generated_at": "2026-11-23T19:01:32+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "454161b36199",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/nLa2qo/augustpriset-2026-gar-till-per-svensson",
+      "guid": "https://www.svd.se/a/nLa2qo/augustpriset-2026-gar-till-per-svensson?utm_medium=rss",
+      "published_at": "2026-11-23T18:45:19+01:00",
+      "fetched_at": "2026-11-23T19:01:14+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/d0c50485-9e72-39ea-a36a-dfe617a5ba7a?format=auto&s=62361d2c0b7765c9df92566df7e859b2c7b2fbec&w=1000",
+      "sv": {
+        "title": "Augustpriset till Karolina Ramqvist",
+        "summary": "Augustpriset i den skönlitterära klassen går till Karolina Ramqvist för ”Nattsäsong”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The August Prize goes to Karolina Ramqvist",
+        "summary": "The August Prize in the fiction category goes to Karolina Ramqvist for “Nattsäsong”."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T19:01:29+01:00"
+      }
+    },
     {
       "id": "e270c633a209",
       "schema_version": 1,
@@ -5224,30 +5251,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T14:01:29+01:00"
-      }
-    },
-    {
-      "id": "f31eb299d629",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80118",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80118&utm_medium=rss",
-      "published_at": "2026-11-20T13:35:49+01:00",
-      "fetched_at": "2026-11-20T13:45:42+01:00",
-      "category": "other",
-      "image_url": "https://akamai.vgc.no/v2/images/f22c716f-b6cf-3a41-a480-0667e751dbee?format=auto&s=c0bd1e98c24bda615a07c7b4c8e65f9d66ee41ce&w=1000",
-      "sv": {
-        "title": "”Som att inte nämna cigaretter”"
-      },
-      "en": {
-        "title": "\"Like not mentioning cigarettes\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:45:48+01:00"
       }
     }
   ]

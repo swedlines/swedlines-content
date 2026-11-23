@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:45:58+01:00",
+  "generated_at": "2026-11-23T19:01:32+01:00",
   "count": 30,
   "stories": [
     {
@@ -1835,6 +1835,106 @@
       ]
     },
     {
+      "id": "8b94dedba22d",
+      "source_count": 3,
+      "sources": [
+        "sydsvenskan",
+        "svd",
+        "dn"
+      ],
+      "first_published_at": "2026-11-23T17:26:15+01:00",
+      "last_published_at": "2026-11-23T18:54:24+01:00",
+      "lead": {
+        "id": "8b94dedba22d",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/noje/augustprisgalan-i-gang-forsta-priset-utdelat",
+        "guid": "dc0d4c22-4385-4c28-bef4-65f941c2928d",
+        "published_at": "2026-11-23T17:26:15+01:00",
+        "fetched_at": "2026-11-23T17:31:01+01:00",
+        "category": "culture",
+        "image_url": "https://static.bonniernews.se/ba/6a9ca4ec-0c1a-4b0a-8f3c-fa06538eb443.jpg?width=600",
+        "sv": {
+          "title": "Augustprisgalan i gång – första priset utdelat",
+          "summary": "Nu har kvällens Augustprisgala på Dramaten i Stockholm inletts. Lilla Augustpriset går till ”Solkraft” av Lea Andersson. Senare i kväll kan Klas Östergren få Augustpriset för första gången.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "August Prize gala under way – first prize awarded",
+          "summary": "Tonight's August Prize gala has begun at Dramaten in Stockholm. The Little August Prize goes to \"Solkraft\" by Lea Andersson. Later this evening Klas Östergren may receive the August Prize for the first time."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T17:31:06+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "e04fe13cb569",
+          "source": "dn",
+          "url": "https://www.dn.se/kultur/jonas-thente-priset-gar-till-en-omedelbar-och-akut-roman",
+          "published_at": "2026-11-23T18:54:24+01:00",
+          "sv": {
+            "title": "Jonas Thente: Priset går till en omedelbar och akut roman"
+          },
+          "en": {
+            "title": "Jonas Thente: The prize goes to an immediate and urgent novel"
+          }
+        },
+        {
+          "id": "454161b36199",
+          "source": "svd",
+          "url": "https://www.svd.se/a/nLa2qo/augustpriset-2026-gar-till-per-svensson",
+          "published_at": "2026-11-23T18:45:19+01:00",
+          "sv": {
+            "title": "Augustpriset till Karolina Ramqvist"
+          },
+          "en": {
+            "title": "The August Prize goes to Karolina Ramqvist"
+          }
+        },
+        {
+          "id": "610a605d6014",
+          "source": "dn",
+          "url": "https://www.dn.se/kultur/karolina-ramqvist-vinner-augustpriset",
+          "published_at": "2026-11-23T18:19:50+01:00",
+          "sv": {
+            "title": "Karolina Ramqvist vinner Augustpriset"
+          },
+          "en": {
+            "title": "Karolina Ramqvist wins the August Prize"
+          }
+        },
+        {
+          "id": "ce01f75e4e40",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80225",
+          "published_at": "2026-11-23T18:16:22+01:00",
+          "sv": {
+            "title": "De får Augustpriset"
+          },
+          "en": {
+            "title": "They win the August Prize"
+          }
+        },
+        {
+          "id": "8b94dedba22d",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/noje/augustprisgalan-i-gang-forsta-priset-utdelat",
+          "published_at": "2026-11-23T17:26:15+01:00",
+          "sv": {
+            "title": "Augustprisgalan i gång – första priset utdelat"
+          },
+          "en": {
+            "title": "August Prize gala under way – first prize awarded"
+          }
+        }
+      ]
+    },
+    {
       "id": "4285f4fc503b",
       "source_count": 3,
       "sources": [
@@ -2017,82 +2117,6 @@
           },
           "en": {
             "title": "Ruling: Alcohol and snus in Christmas calendars is a crime"
-          }
-        }
-      ]
-    },
-    {
-      "id": "8b94dedba22d",
-      "source_count": 3,
-      "sources": [
-        "sydsvenskan",
-        "svd",
-        "dn"
-      ],
-      "first_published_at": "2026-11-23T17:26:15+01:00",
-      "last_published_at": "2026-11-23T18:19:50+01:00",
-      "lead": {
-        "id": "8b94dedba22d",
-        "schema_version": 1,
-        "source": "sydsvenskan",
-        "url": "https://www.sydsvenskan.se/noje/augustprisgalan-i-gang-forsta-priset-utdelat",
-        "guid": "dc0d4c22-4385-4c28-bef4-65f941c2928d",
-        "published_at": "2026-11-23T17:26:15+01:00",
-        "fetched_at": "2026-11-23T17:31:01+01:00",
-        "category": "culture",
-        "image_url": "https://static.bonniernews.se/ba/6a9ca4ec-0c1a-4b0a-8f3c-fa06538eb443.jpg?width=600",
-        "sv": {
-          "title": "Augustprisgalan i gång – första priset utdelat",
-          "summary": "Nu har kvällens Augustprisgala på Dramaten i Stockholm inletts. Lilla Augustpriset går till ”Solkraft” av Lea Andersson. Senare i kväll kan Klas Östergren få Augustpriset för första gången.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "August Prize gala under way – first prize awarded",
-          "summary": "Tonight's August Prize gala has begun at Dramaten in Stockholm. The Little August Prize goes to \"Solkraft\" by Lea Andersson. Later this evening Klas Östergren may receive the August Prize for the first time."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T17:31:06+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "610a605d6014",
-          "source": "dn",
-          "url": "https://www.dn.se/kultur/karolina-ramqvist-vinner-augustpriset",
-          "published_at": "2026-11-23T18:19:50+01:00",
-          "sv": {
-            "title": "Karolina Ramqvist vinner Augustpriset"
-          },
-          "en": {
-            "title": "Karolina Ramqvist wins the August Prize"
-          }
-        },
-        {
-          "id": "ce01f75e4e40",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80225",
-          "published_at": "2026-11-23T18:16:22+01:00",
-          "sv": {
-            "title": "De får Augustpriset"
-          },
-          "en": {
-            "title": "They win the August Prize"
-          }
-        },
-        {
-          "id": "8b94dedba22d",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/noje/augustprisgalan-i-gang-forsta-priset-utdelat",
-          "published_at": "2026-11-23T17:26:15+01:00",
-          "sv": {
-            "title": "Augustprisgalan i gång – första priset utdelat"
-          },
-          "en": {
-            "title": "August Prize gala under way – first prize awarded"
           }
         }
       ]

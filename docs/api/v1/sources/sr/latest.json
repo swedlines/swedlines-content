@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T18:45:58+01:00",
+  "generated_at": "2026-11-23T19:01:32+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "008d62c0dbb7",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348600",
+      "guid": "rss:sr.se/article/9348600",
+      "published_at": "2026-11-23T18:46:00+01:00",
+      "fetched_at": "2026-11-23T19:01:12+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fem döda i misstänkt gasläcka i Tyskland",
+        "summary": "Två vuxna och tre barn hittades på måndagen döda i en lägenhet i Kehl i västra Tyskland efter en misstänkt gasläcka, rapporterar AFP. Två andra barn vårdas för skador. Polis larmades när barnen saknades i skolan.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Five dead in suspected gas leak in Germany",
+        "summary": "Two adults and three children were found dead on Monday in an apartment in Kehl in western Germany after a suspected gas leak, reports AFP. Two other children are being treated for injuries. Police were alerted when the children were missing from school."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T19:01:29+01:00"
+      }
+    },
     {
       "id": "98c025cd89de",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Unionen sees strong economy – but warns of AI effect on jobs",
         "summary": "Sweden's economy is developing strongly, according to a new forecast from Unionen. The union expects the economy to grow 2.6 percent next year. But the labour market is lagging behind, and Unionen points to AI effects on certain white-collar jobs that will not increase despite a stronger economic upturn."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T06:15:59+01:00"
-      }
-    },
-    {
-      "id": "ec2e959d6cfd",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9343828",
-      "guid": "rss:sr.se/article/9343828",
-      "published_at": "2026-11-18T06:02:00+01:00",
-      "fetched_at": "2026-11-18T06:15:39+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Chef från Riksbanken bjöds med på dyr NHL-match",
-        "summary": "Riksbankens it-chef Mats Eklund och två medarbetare följde med på en NHL-match i Montréal i en privat lounge med en leverantör inför en upphandling. Ekots granskning visar att de kan ha bjudits på tusentals kronor av biljettkostnaden av leverantören.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Riksbank chief was treated to expensive NHL game",
-        "summary": "Riksbank IT chief Mats Eklund and two colleagues attended an NHL game in Montréal in a private lounge with a supplier ahead of a procurement. Ekot's investigation shows they may have been offered thousands of kronor of the ticket cost by the supplier."
       },
       "translation": {
         "status": "done",
