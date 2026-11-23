@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:15:58+01:00",
+  "generated_at": "2026-11-23T21:31:11+01:00",
   "count": 30,
   "stories": [
     {
@@ -1027,6 +1027,107 @@
       ]
     },
     {
+      "id": "00b6df668619",
+      "source_count": 4,
+      "sources": [
+        "dn",
+        "tv4",
+        "sydsvenskan",
+        "svd"
+      ],
+      "first_published_at": "2026-11-23T13:09:37+01:00",
+      "last_published_at": "2026-11-23T20:57:47+01:00",
+      "lead": {
+        "id": "00b6df668619",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/sport/hammarbykaptenen-kan-gora-sin-sista-hemmamatch-i-skuggan-av-guldjakten",
+        "guid": "https://www.dn.se/sport/hammarbykaptenen-kan-gora-sin-sista-hemmamatch-i-skuggan-av-guldjakten/",
+        "published_at": "2026-11-23T13:09:37+01:00",
+        "fetched_at": "2026-11-23T13:15:48+01:00",
+        "category": "sports",
+        "image_url": "https://static.bonniernews.se/ba/c19208b4-8390-4511-97cb-729210e9f243.jpeg?io=1&width=1000",
+        "sv": {
+          "title": "Hammarbykaptenen kan göra sin sista hemmamatch – i skuggan av guldjakten",
+          "summary": "Hammarbys lagkapten Nahir Besara har blivit en klubbikon på 3 arena. På måndagskvällen är det möjligt att han spelar sin sista fotbollsmatch där, men det vill han helst inte att någon fokuserar på. – Det viktigaste är att vi vinner de här två matcherna och vinner SM-guldet, säger 35-åringen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Hammarby captain may play his last home match – in the shadow of the gold chase",
+          "summary": "Hammarby captain Nahir Besara has become a club icon at 3 Arena. On Monday evening he may play his last football match there, but he would rather no one focused on that. \"The most important thing is that we win these two matches and win the Swedish championship gold\", says the 35-year-old."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T13:15:59+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "d3772bec9318",
+          "source": "svd",
+          "url": "https://www.svd.se/a/g37lVq/hammarby-vann-med-31-mot-ifk-goteborg",
+          "published_at": "2026-11-23T20:57:47+01:00",
+          "sv": {
+            "title": "Fördel Hammarby i guldjakten"
+          },
+          "en": {
+            "title": "Hammarby Favoured in Gold Chase"
+          }
+        },
+        {
+          "id": "b6755d45e49e",
+          "source": "dn",
+          "url": "https://www.dn.se/sport/hammarby-har-guldet-i-egna-hander-infor-sista-matchen-slog-ifk-goteborg",
+          "published_at": "2026-11-23T20:49:55+01:00",
+          "sv": {
+            "title": "Hammarby har guldet i egna händer inför sista matchen – slog IFK Göteborg"
+          },
+          "en": {
+            "title": "Hammarby Hold Gold in Their Own Hands Ahead of Final Match – Beat IFK Göteborg"
+          }
+        },
+        {
+          "id": "7c9adcefad3e",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/fordel-hammarby-i-guldjakten",
+          "published_at": "2026-11-23T19:59:22+01:00",
+          "sv": {
+            "title": "Fördel Hammarby i guldjakten"
+          },
+          "en": {
+            "title": "Hammarby have the edge in the gold chase"
+          }
+        },
+        {
+          "id": "381066b542e4",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/tt-261123-allsv1-d2eb3204/fordel-hammarby-i-guldjakten",
+          "published_at": "2026-11-23T19:54:55+01:00",
+          "sv": {
+            "title": "Fördel Hammarby i guldjakten"
+          },
+          "en": {
+            "title": "Hammarby have the edge in the gold chase"
+          }
+        },
+        {
+          "id": "00b6df668619",
+          "source": "dn",
+          "url": "https://www.dn.se/sport/hammarbykaptenen-kan-gora-sin-sista-hemmamatch-i-skuggan-av-guldjakten",
+          "published_at": "2026-11-23T13:09:37+01:00",
+          "sv": {
+            "title": "Hammarbykaptenen kan göra sin sista hemmamatch – i skuggan av guldjakten"
+          },
+          "en": {
+            "title": "Hammarby captain may play his last home match – in the shadow of the gold chase"
+          }
+        }
+      ]
+    },
+    {
       "id": "4c88fd23af8a",
       "source_count": 4,
       "sources": [
@@ -1813,94 +1914,6 @@
           },
           "en": {
             "title": "New details on Huang's links to Chinese spies"
-          }
-        }
-      ]
-    },
-    {
-      "id": "00b6df668619",
-      "source_count": 3,
-      "sources": [
-        "dn",
-        "sydsvenskan",
-        "svd"
-      ],
-      "first_published_at": "2026-11-23T13:09:37+01:00",
-      "last_published_at": "2026-11-23T20:57:47+01:00",
-      "lead": {
-        "id": "00b6df668619",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/sport/hammarbykaptenen-kan-gora-sin-sista-hemmamatch-i-skuggan-av-guldjakten",
-        "guid": "https://www.dn.se/sport/hammarbykaptenen-kan-gora-sin-sista-hemmamatch-i-skuggan-av-guldjakten/",
-        "published_at": "2026-11-23T13:09:37+01:00",
-        "fetched_at": "2026-11-23T13:15:48+01:00",
-        "category": "sports",
-        "image_url": "https://static.bonniernews.se/ba/c19208b4-8390-4511-97cb-729210e9f243.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Hammarbykaptenen kan göra sin sista hemmamatch – i skuggan av guldjakten",
-          "summary": "Hammarbys lagkapten Nahir Besara har blivit en klubbikon på 3 arena. På måndagskvällen är det möjligt att han spelar sin sista fotbollsmatch där, men det vill han helst inte att någon fokuserar på. – Det viktigaste är att vi vinner de här två matcherna och vinner SM-guldet, säger 35-åringen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Hammarby captain may play his last home match – in the shadow of the gold chase",
-          "summary": "Hammarby captain Nahir Besara has become a club icon at 3 Arena. On Monday evening he may play his last football match there, but he would rather no one focused on that. \"The most important thing is that we win these two matches and win the Swedish championship gold\", says the 35-year-old."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T13:15:59+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "d3772bec9318",
-          "source": "svd",
-          "url": "https://www.svd.se/a/g37lVq/hammarby-vann-med-31-mot-ifk-goteborg",
-          "published_at": "2026-11-23T20:57:47+01:00",
-          "sv": {
-            "title": "Fördel Hammarby i guldjakten"
-          },
-          "en": {
-            "title": "Hammarby Favoured in Gold Chase"
-          }
-        },
-        {
-          "id": "b6755d45e49e",
-          "source": "dn",
-          "url": "https://www.dn.se/sport/hammarby-har-guldet-i-egna-hander-infor-sista-matchen-slog-ifk-goteborg",
-          "published_at": "2026-11-23T20:49:55+01:00",
-          "sv": {
-            "title": "Hammarby har guldet i egna händer inför sista matchen – slog IFK Göteborg"
-          },
-          "en": {
-            "title": "Hammarby Hold Gold in Their Own Hands Ahead of Final Match – Beat IFK Göteborg"
-          }
-        },
-        {
-          "id": "7c9adcefad3e",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sport/fordel-hammarby-i-guldjakten",
-          "published_at": "2026-11-23T19:59:22+01:00",
-          "sv": {
-            "title": "Fördel Hammarby i guldjakten"
-          },
-          "en": {
-            "title": "Hammarby have the edge in the gold chase"
-          }
-        },
-        {
-          "id": "00b6df668619",
-          "source": "dn",
-          "url": "https://www.dn.se/sport/hammarbykaptenen-kan-gora-sin-sista-hemmamatch-i-skuggan-av-guldjakten",
-          "published_at": "2026-11-23T13:09:37+01:00",
-          "sv": {
-            "title": "Hammarbykaptenen kan göra sin sista hemmamatch – i skuggan av guldjakten"
-          },
-          "en": {
-            "title": "Hammarby captain may play his last home match – in the shadow of the gold chase"
           }
         }
       ]
@@ -2907,6 +2920,73 @@
       ]
     },
     {
+      "id": "495fbd70c646",
+      "source_count": 2,
+      "sources": [
+        "gp",
+        "svd"
+      ],
+      "first_published_at": "2026-11-23T20:49:24+01:00",
+      "last_published_at": "2026-11-23T21:25:25+01:00",
+      "lead": {
+        "id": "495fbd70c646",
+        "schema_version": 1,
+        "source": "gp",
+        "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/hammarby-besegrade-ifk-goteborg-guldrysare-vantar.82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
+        "guid": "82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
+        "published_at": "2026-11-23T20:49:24+01:00",
+        "fetched_at": "2026-11-23T21:15:51+01:00",
+        "category": "sports",
+        "feed_categories": [
+          "IFK Göteborg",
+          "Tagg: IFK Göteborg"
+        ],
+        "image_url": "https://vcdn.polarismedia.no/0d18a469-4adc-301d-9c79-0d952e474166",
+        "sv": {
+          "title": "Bajen besegrade Blåvitt – guldrysare väntar",
+          "summary": "Blåvitt lyckades skapa nerv – räckte inte hela vägen • Slutdrama i sista omgången på Gamla Ullevi.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Bajen beat Blåvitt – title race awaits",
+          "summary": "Blåvitt managed to create tension – but not enough to go all the way • Thriller in the final round at Gamla Ullevi."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T21:15:56+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "83a1c0c56045",
+          "source": "svd",
+          "url": "https://www.svd.se/a/aGwn75/henrik-rydstrom-har-lyft-hammarby-ena-handen-pa-lennart-johanssons-pokal",
+          "published_at": "2026-11-23T21:25:25+01:00",
+          "sv": {
+            "title": "Rydströms intåg har lyft Bajen"
+          },
+          "en": {
+            "title": "Rydström's arrival has lifted Bajen"
+          }
+        },
+        {
+          "id": "495fbd70c646",
+          "source": "gp",
+          "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/hammarby-besegrade-ifk-goteborg-guldrysare-vantar.82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
+          "published_at": "2026-11-23T20:49:24+01:00",
+          "sv": {
+            "title": "Bajen besegrade Blåvitt – guldrysare väntar"
+          },
+          "en": {
+            "title": "Bajen beat Blåvitt – title race awaits"
+          }
+        }
+      ]
+    },
+    {
       "id": "8d2393339361",
       "source_count": 2,
       "sources": [
@@ -3027,69 +3107,6 @@
           },
           "en": {
             "title": "Report: \"Gaza is a poisonous wasteland\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "bb60fef700f9",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-23T16:13:48+01:00",
-      "last_published_at": "2026-11-23T16:39:03+01:00",
-      "lead": {
-        "id": "bb60fef700f9",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/Jno8Gj/vm-2031-sker-i-usa-mexiko-costa-rica-och-jamaica",
-        "guid": "https://www.svd.se/a/Jno8Gj/vm-2031-sker-i-usa-mexiko-costa-rica-och-jamaica?utm_medium=rss",
-        "published_at": "2026-11-23T16:13:48+01:00",
-        "fetched_at": "2026-11-23T16:15:48+01:00",
-        "category": "sports",
-        "image_url": "https://akamai.vgc.no/v2/images/d125a524-9cf8-3789-a7d4-7d86c01a6794?format=auto&s=c45dd301ab5fccaab5d4a3e763adbac3958bd52d&w=1000",
-        "sv": {
-          "title": "Klart: De får fotbolls-VM 2031 och 2035",
-          "summary": "Precis som förväntat kommer damernas fotbolls-VM 2031 att spelas i USA, Mexiko, Costa Rica och…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Confirmed: They get the 2031 and 2035 Women's World Cups",
-          "summary": "As expected, the 2031 Women's World Cup will be played in the USA, Mexico, Costa Rica and…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T16:15:57+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "d2ed6222b2dc",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sport/klart-de-far-arrangera-fotbolls-vm-2031-och-2035",
-          "published_at": "2026-11-23T16:39:03+01:00",
-          "sv": {
-            "title": "Klart: De får arrangera fotbolls-VM 2031 och 2035"
-          },
-          "en": {
-            "title": "Confirmed: They will host the 2031 and 2035 Women's Football World Cups"
-          }
-        },
-        {
-          "id": "bb60fef700f9",
-          "source": "svd",
-          "url": "https://www.svd.se/a/Jno8Gj/vm-2031-sker-i-usa-mexiko-costa-rica-och-jamaica",
-          "published_at": "2026-11-23T16:13:48+01:00",
-          "sv": {
-            "title": "Klart: De får fotbolls-VM 2031 och 2035"
-          },
-          "en": {
-            "title": "Confirmed: They get the 2031 and 2035 Women's World Cups"
           }
         }
       ]

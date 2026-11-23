@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T21:15:58+01:00",
+  "generated_at": "2026-11-23T21:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e1ce9ff930d2",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/23-november-har-ar-dagens-nyheter",
+      "guid": "https://www.dn.se/sverige/23-november-har-ar-dagens-nyheter/",
+      "published_at": "2026-11-23T21:19:39+01:00",
+      "fetched_at": "2026-11-23T21:31:00+01:00",
+      "category": "other",
+      "sv": {
+        "title": "23 november: Här är dagens nyheter",
+        "summary": "Huangs snabba comeback i Nvidia, öppna maktkampen i C och en sänkt rysk korvett – här är nyheterna du inte får missa från dagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "23 November: Here are today's news",
+        "summary": "Huang's quick comeback at Nvidia, the open power struggle in the C and a sunken Russian corvette – here is the news you must not miss from today."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:31:09+01:00"
+      }
+    },
     {
       "id": "b6755d45e49e",
       "schema_version": 1,
@@ -5364,33 +5390,6 @@
       "en": {
         "title": "Countries ignore the negotiations and agree on their own phase-out",
         "summary": "The world's countries once again appear set to fail to agree on a phase-out of fossil fuels at the climate summit in Turkey. But on the meeting's last day, a growing group of countries took matters into their own hands and chose to disregard consensus."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:31:20+01:00"
-      }
-    },
-    {
-      "id": "fdb4899e60d0",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/svahn-och-grahn-starkas-i-skidpremiaren-ringrostig",
-      "guid": "https://www.dn.se/sport/svahn-och-grahn-starkas-i-skidpremiaren-ringrostig/",
-      "published_at": "2026-11-20T13:24:14+01:00",
-      "fetched_at": "2026-11-20T13:31:01+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/60b258df-17e3-45bb-a150-c439c4cbf492.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Svahn och Grahn starkas i skidpremiären: ”Ringrostig”",
-        "summary": "Linn Svahn fick slita i semifinalen – men knäckte alla konkurrenter i finalen. Och vann sin första Sverigepremiär. – Det är en skön känsla, säger hon till SVT efter segern i sprintpremiären.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Svahn and Grahn shine in the Swedish season opener: “Rusty”",
-        "summary": "Linn Svahn had to struggle in the semi-final but beat all rivals in the final and won her first Swedish season opener. – It's a nice feeling, she tells SVT after winning the sprint opener."
       },
       "translation": {
         "status": "done",

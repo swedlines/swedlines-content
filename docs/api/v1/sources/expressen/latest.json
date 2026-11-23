@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T21:15:58+01:00",
+  "generated_at": "2026-11-23T21:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7719072a3882",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/rasar-mot-trumps-inblandning-i-huangs-comeback",
+      "guid": "https://www.expressen.se/nyheter/varlden/rasar-mot-trumps-inblandning-i-huangs-comeback/",
+      "published_at": "2026-11-23T21:22:45+01:00",
+      "fetched_at": "2026-11-23T21:31:02+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Rasar mot Trumps inblandning i Huangs comeback",
+        "summary": "Donald Trump tryckte personligen på för att Jensen Huang skulle återvända som vd för Nvidia. Nu möter beslutet hård kritik från både republikaner och demokrater i kongressen. ”Ingen risk för nationell säkerhet? Baserat på vad?”, frågar den republikanske senatorn John Cornyn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Outrage over Trump's involvement in Huang's comeback",
+        "summary": "Donald Trump personally pushed for Jensen Huang to return as CEO of Nvidia. The decision now meets harsh criticism from both Republicans and Democrats in Congress. \"No risk to national security? Based on what?\" asks Republican senator John Cornyn."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:31:09+01:00"
+      }
+    },
     {
       "id": "3f3abb10c295",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T11:15:54+01:00"
-      }
-    },
-    {
-      "id": "c74da98f781a",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=65ca0fc2-306b-485c-9e75-0299006d91f1",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=65ca0fc2-306b-485c-9e75-0299006d91f1",
-      "published_at": "2026-11-20T10:49:07+01:00",
-      "fetched_at": "2026-11-20T11:01:12+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Försökte fly genom fönster",
-        "summary": "Man misstänkt för mordförsök på taxichaufför",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tried to escape through window",
-        "summary": "Man suspected of attempted murder of taxi driver"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:01:27+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T21:15:58+01:00",
+  "generated_at": "2026-11-23T21:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "83a1c0c56045",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/aGwn75/henrik-rydstrom-har-lyft-hammarby-ena-handen-pa-lennart-johanssons-pokal",
+      "guid": "https://www.svd.se/a/aGwn75/henrik-rydstrom-har-lyft-hammarby-ena-handen-pa-lennart-johanssons-pokal?utm_medium=rss",
+      "published_at": "2026-11-23T21:25:25+01:00",
+      "fetched_at": "2026-11-23T21:31:00+01:00",
+      "category": "sports",
+      "image_url": "https://akamai.vgc.no/v2/images/23b22e4a-48d6-3545-b4fe-3fc08e68fbd2?format=auto&s=3202ebf73ec5919c3cd29dc901b89081082b13ef&w=1000",
+      "sv": {
+        "title": "Rydströms intåg har lyft Bajen",
+        "summary": "Sex raka segrar imponerar – den här ”straffsparken” missar inte Hammarby",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Rydström's arrival has lifted Bajen",
+        "summary": "Six straight wins impress – this \"penalty\" is not missed by Hammarby"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:31:09+01:00"
+      }
+    },
     {
       "id": "d3772bec9318",
       "schema_version": 1,
@@ -138,6 +165,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T20:01:24+01:00"
+      }
+    },
+    {
+      "id": "381066b542e4",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/tt-261123-allsv1-d2eb3204/fordel-hammarby-i-guldjakten",
+      "guid": "tt-261123-allsv1-d2eb3204",
+      "published_at": "2026-11-23T19:54:55+01:00",
+      "fetched_at": "2026-11-23T21:31:03+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "IK Sirius"
+      ],
+      "sv": {
+        "title": "Fördel Hammarby i guldjakten",
+        "summary": "På söndag avgörs guldstriden i allsvenskan – och det är med Hammarby i förarsätet. Tack vare måndagskvällens hemmaseger mot IFK Göteborg leder man nu allsvenskan. Stockholmsklubben har 61 poäng, lika många som Sirius, men med bättre målskillnad.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Hammarby have the edge in the gold chase",
+        "summary": "On Sunday the Allsvenskan gold battle will be decided – and Hammarby are in the driver's seat. Thanks to Monday evening's home win over IFK Göteborg, they now lead the Allsvenskan. The Stockholm club has 61 points, the same as Sirius, but a better goal difference."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:31:09+01:00"
       }
     },
     {
@@ -5558,66 +5614,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T11:16:04+01:00"
-      }
-    },
-    {
-      "id": "e834a5cacc99",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/langdskidor/regeringen-om-ryska-idrottare-infor-skid-vm-i-falun",
-      "guid": "https://www.svt.se/sport/langdskidor/regeringen-om-ryska-idrottare-infor-skid-vm-i-falun",
-      "published_at": "2026-11-18T10:29:38+01:00",
-      "fetched_at": "2026-11-18T11:30:56+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Regeringen vill stoppa ryska idrottare inför skid-VM i Falun",
-        "summary": "I slutet av februari inleds skid-VM i Falun. Inför det meddelade regeringen idag på en pressträff att de inte vill tillåta ryska idrottare att tävla på svensk mark.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Government wants to stop Russian athletes ahead of Falun ski world championships",
-        "summary": "At the end of February the Falun ski world championships begin. Ahead of that, the government announced at a press conference today that it does not want to allow Russian athletes to compete on Swedish soil."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T11:31:06+01:00"
-      }
-    },
-    {
-      "id": "84fcf022d808",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/har-ar-sveriges-vag-till-em-2028.b6f57f95-8817-5861-ba8a-5cfa93ee4b05",
-      "guid": "b6f57f95-8817-5861-ba8a-5cfa93ee4b05",
-      "published_at": "2026-11-18T10:07:50+01:00",
-      "fetched_at": "2026-11-18T10:15:52+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Fotboll",
-        "Tagg: Uefa",
-        "Tagg: Fotboll",
-        "Tagg: Landslaget i fotboll, herrar",
-        "Tagg: Uefa Nations League"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/066bab84-59f3-3bb8-bd58-00432859828d",
-      "sv": {
-        "title": "Efter gruppsegern: Så ser Sveriges väg till EM 2028 ut",
-        "summary": "Guide: Det här krävs för att Sverige ska nå fotbolls-EM",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the group win: What Sweden's path to the 2028 European Championship looks like",
-        "summary": "Guide: This is what it takes for Sweden to reach the football European Championship"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T10:15:58+01:00"
       }
     }
   ]

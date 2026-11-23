@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T21:15:58+01:00",
+  "generated_at": "2026-11-23T21:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "83a1c0c56045",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/aGwn75/henrik-rydstrom-har-lyft-hammarby-ena-handen-pa-lennart-johanssons-pokal",
+      "guid": "https://www.svd.se/a/aGwn75/henrik-rydstrom-har-lyft-hammarby-ena-handen-pa-lennart-johanssons-pokal?utm_medium=rss",
+      "published_at": "2026-11-23T21:25:25+01:00",
+      "fetched_at": "2026-11-23T21:31:00+01:00",
+      "category": "sports",
+      "image_url": "https://akamai.vgc.no/v2/images/23b22e4a-48d6-3545-b4fe-3fc08e68fbd2?format=auto&s=3202ebf73ec5919c3cd29dc901b89081082b13ef&w=1000",
+      "sv": {
+        "title": "Rydströms intåg har lyft Bajen",
+        "summary": "Sex raka segrar imponerar – den här ”straffsparken” missar inte Hammarby",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Rydström's arrival has lifted Bajen",
+        "summary": "Six straight wins impress – this \"penalty\" is not missed by Hammarby"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:31:09+01:00"
+      }
+    },
     {
       "id": "d3772bec9318",
       "schema_version": 1,
@@ -5224,33 +5251,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T15:45:52+01:00"
-      }
-    },
-    {
-      "id": "32ce0ea29d31",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/oMpybm/svart-vagval-lokal-c-topp-oppnar-for-v-ministrar",
-      "guid": "https://www.svd.se/a/oMpybm/svart-vagval-lokal-c-topp-oppnar-for-v-ministrar?utm_medium=rss",
-      "published_at": "2026-11-20T14:57:40+01:00",
-      "fetched_at": "2026-11-20T15:01:17+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/1d28cd10-6985-34b5-9250-72ff1c41dd6d?format=auto&s=03a90f9184f7d30be555a0d691e289bc285274f7&w=1000",
-      "sv": {
-        "title": "Svårt vägval – lokal C-topp öppnar för V-ministrar",
-        "summary": "Centerpartiet håller fast vid sina röda linjer mot SD och V. Men i ett skarpt läge i…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Difficult choice – local Centre Party top opens to V ministers",
-        "summary": "The Centre Party holds firm to its red lines against the Sweden Democrats and the Left Party. But in a tight situation i…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T15:01:26+01:00"
       }
     }
   ]
