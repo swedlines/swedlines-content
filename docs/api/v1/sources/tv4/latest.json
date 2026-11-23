@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-23T19:16:00+01:00",
+  "generated_at": "2026-11-23T19:30:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "393f4e70b3b2",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1KEh5jNnKyawrSR8MF2j6O/anmaerkningsvaert-hur-soemloest-s-omfamnat-tidoes-upplaegg",
+      "guid": "1KEh5jNnKyawrSR8MF2j6O",
+      "published_at": "2026-11-23T19:17:22+01:00",
+      "fetched_at": "2026-11-23T19:30:15+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Anmärkningsvärt hur sömlöst S omfamnat Tidös upplägg",
+        "summary": "Det är Anderssons största problem just nu",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Remarkable how seamlessly the Social Democrats (S) have embraced the Tidö Agreement's approach",
+        "summary": "That is Andersson's biggest problem right now"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T19:30:27+01:00"
+      }
+    },
     {
       "id": "8f7d04455471",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T23:15:46+01:00"
-      }
-    },
-    {
-      "id": "ca9935aa15d0",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1kccKz86KNwCc6iPbvy4xT/de-vinner-hela-kaendis-sverige-bakar",
-      "guid": "1kccKz86KNwCc6iPbvy4xT",
-      "published_at": "2026-11-15T21:00:10+01:00",
-      "fetched_at": "2026-11-15T21:01:07+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "De vinner Hela kändis-Sverige bakar",
-        "summary": "Efter nio veckor av bakning är vinnarna korade: Frida Jernspets och Vanja Engström tar hem segern i kändisversionen av det populära bakprogrammet. Juryn motiverade sitt val med att duon vecka efter vecka bjudit på vackra bakverk och höjt smaknivåerna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "They win Hela kändis-Sverige bakar",
-        "summary": "After nine weeks of baking, the winners are crowned: Frida Jernspets and Vanja Engström take the victory in the celebrity version of the popular baking programme. The jury justified its choice by saying the duo, week after week, served beautiful bakes and raised the standard of taste."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T21:01:14+01:00"
       }
     }
   ]

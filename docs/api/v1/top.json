@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:16:00+01:00",
+  "generated_at": "2026-11-23T19:30:29+01:00",
   "count": 30,
   "stories": [
     {
@@ -2861,6 +2861,69 @@
       ]
     },
     {
+      "id": "4c88fd23af8a",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-23T18:00:22+01:00",
+      "last_published_at": "2026-11-23T19:27:27+01:00",
+      "lead": {
+        "id": "4c88fd23af8a",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/7P0vOW/35-centerpartister-vagrar-regera-med-sd",
+        "guid": "https://www.aftonbladet.se/nyheter/a/7P0vOW/35-centerpartister-vagrar-regera-med-sd?utm_medium=rss",
+        "published_at": "2026-11-23T18:00:22+01:00",
+        "fetched_at": "2026-11-23T18:15:44+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/bb164aed-1097-37ba-b27f-32872fb45e17?format=auto&s=8f8bd71cc811b7828e9caa0b52b42cf1416ba944&w=1000",
+        "sv": {
+          "title": "35 centerpartister: Ett svek att regera med stöd från SD",
+          "summary": "35 centerpartister: ”Ett svek mot väljarna”",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "35 Centre Party members: Governing with support from the SD would be a betrayal",
+          "summary": "35 Centre Party members: \"A betrayal of voters\""
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T18:15:53+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "0171a5941ad6",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/centerpartiet-har-mote-om-hogersvang",
+          "published_at": "2026-11-23T19:27:27+01:00",
+          "sv": {
+            "title": "Centerpartiet har möte om högersväng"
+          },
+          "en": {
+            "title": "The Centre Party to hold meeting on rightward shift"
+          }
+        },
+        {
+          "id": "4c88fd23af8a",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/7P0vOW/35-centerpartister-vagrar-regera-med-sd",
+          "published_at": "2026-11-23T18:00:22+01:00",
+          "sv": {
+            "title": "35 centerpartister: Ett svek att regera med stöd från SD"
+          },
+          "en": {
+            "title": "35 Centre Party members: Governing with support from the SD would be a betrayal"
+          }
+        }
+      ]
+    },
+    {
       "id": "3834a0255c35",
       "source_count": 2,
       "sources": [
@@ -3045,75 +3108,6 @@
           },
           "en": {
             "title": "New details on Huang's links to Chinese spies"
-          }
-        }
-      ]
-    },
-    {
-      "id": "28a81f6d495b",
-      "source_count": 2,
-      "sources": [
-        "gp",
-        "di"
-      ],
-      "first_published_at": "2026-11-23T11:34:37+01:00",
-      "last_published_at": "2026-11-23T16:21:19+01:00",
-      "lead": {
-        "id": "28a81f6d495b",
-        "schema_version": 1,
-        "source": "gp",
-        "url": "https://www.gp.se/nyheter/varlden/uppgifter-ryssland-planerar-karnvapen-i-rymden.729fc4d0-7d49-5310-8583-883af3fd637c",
-        "guid": "729fc4d0-7d49-5310-8583-883af3fd637c",
-        "published_at": "2026-11-23T11:34:37+01:00",
-        "fetched_at": "2026-11-23T11:45:44+01:00",
-        "category": "world",
-        "feed_categories": [
-          "Världen",
-          "Tagg: Kärnvapen",
-          "Tagg: Rymden",
-          "Tagg: Uppdatera mig - BEHOV"
-        ],
-        "image_url": "https://vcdn.polarismedia.no/324deb22-0a4c-34d4-9279-ad7fdf601b10",
-        "sv": {
-          "title": "Uppgifter: Ryssland kan snart ha kärnvapen i rymden",
-          "summary": "Västliga underrättelsetjänster tror att Vladimir Putin planerar att skjuta upp en satellit med känvapen i december, rapporterar tyska medier.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Reports: Russia may soon have nuclear weapons in space",
-          "summary": "Western intelligence services believe Vladimir Putin plans to launch a satellite carrying nuclear weapons in December, German media report."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T11:45:51+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "0bd7c5433808",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/underrattelsetjanster-varnar-for-ryska-karnvapen-i-rymden",
-          "published_at": "2026-11-23T16:21:19+01:00",
-          "sv": {
-            "title": "Underrättelsetjänster varnar för ryska kärnvapen i rymden"
-          },
-          "en": {
-            "title": "Intelligence services warn of Russian nuclear weapons in space"
-          }
-        },
-        {
-          "id": "28a81f6d495b",
-          "source": "gp",
-          "url": "https://www.gp.se/nyheter/varlden/uppgifter-ryssland-planerar-karnvapen-i-rymden.729fc4d0-7d49-5310-8583-883af3fd637c",
-          "published_at": "2026-11-23T11:34:37+01:00",
-          "sv": {
-            "title": "Uppgifter: Ryssland kan snart ha kärnvapen i rymden"
-          },
-          "en": {
-            "title": "Reports: Russia may soon have nuclear weapons in space"
           }
         }
       ]
