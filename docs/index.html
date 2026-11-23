@@ -98,6 +98,14 @@
   .support-cta:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
   .support-cta svg { width: 16px; height: 16px; }
   @media (max-width: 520px) { .support-box { padding: 18px 18px 18px 22px; } .support-cta { width: 100%; justify-content: center; } }
+  .tabs { display: flex; gap: 4px; margin: 12px 0 0; border-bottom: 1px solid var(--line); }
+  .tabs button { background: none; border: 0; border-bottom: 3px solid transparent; margin-bottom: -1px; padding: 6px 12px 8px; font: inherit; font-weight: 700; color: var(--muted); cursor: pointer; }
+  .tabs button[aria-selected="true"] { color: var(--fg); border-bottom-color: var(--yellow); }
+  .tabs button:hover { color: var(--fg); }
+  .tabs button:focus-visible { outline: 2px solid var(--yellow); outline-offset: -2px; }
+  .count { font-weight: 700; color: var(--fg); }
+  .also { grid-column: 1 / -1; color: var(--muted); font-size: 13px; }
+  li .also a { color: var(--blue-ink); font-weight: 600; }
   /* Kept after the other "… svg" rules so specificity only ascends (biome noDescendingSpecificity). */
   .refresh.busy svg { animation: spin 0.8s linear infinite; }
   @media (prefers-reduced-motion: reduce) { .refresh.busy svg { animation: none; } }
@@ -132,6 +140,10 @@
   <div class="ticker-line"></div>
 </header>
 <main>
+  <div class="tabs" id="tabs" role="tablist" data-top-tab="off" hidden>
+    <button type="button" role="tab" data-view="latest" aria-selected="true" data-i18n="tab_latest">Latest</button>
+    <button type="button" role="tab" data-view="top" aria-selected="false" data-i18n="tab_top">Top stories</button>
+  </div>
   <p class="notice" id="notice" role="status" hidden></p>
   <div id="stream"><p class="empty" data-i18n="loading">Loading headlines…</p></div>
 </main>
@@ -158,7 +170,7 @@
 </section>
 <footer>
   <p><span data-i18n="footer_rights">Headlines and teasers belong to their publishers.</span> <span data-i18n="footer_updated">Updated every 15 minutes.</span></p>
-  <p><span class="version">v1.1.2</span> · <a href="about/" data-i18n="about_link">About Swedlines</a> · <a href="privacy/" data-i18n="privacy_link">Privacy Policy</a></p>
+  <p><span class="version">v1.2.0</span> · <a href="about/" data-i18n="about_link">About Swedlines</a> · <a href="privacy/" data-i18n="privacy_link">Privacy Policy</a></p>
 </footer>
 <script>
 (() => {
@@ -178,6 +190,10 @@
       refresh_failed: "Refresh failed. Showing the headlines from {time}.",
       refresh_failed_unknown: "Refresh failed. Showing the previously loaded headlines.",
       untranslated: "not yet translated",
+      tab_latest: "Latest", tab_top: "Top stories",
+      top_h2: "Covered by the most publishers",
+      top_empty: "No story is being covered by several publishers right now.",
+      top_count: "{n} publishers", also: "Also covered by",
       report_link: "Report translation issue",
       report_subject: "Swedlines translation issue: {id}",
       report_body: "Article ID: {id}\nPublisher URL: {url}\nLanguage view: {lang}\n\nWhat is wrong with the translation?\n",
@@ -203,6 +219,10 @@
       refresh_failed: "Uppdateringen misslyckades. Visar rubrikerna från {time}.",
       refresh_failed_unknown: "Uppdateringen misslyckades. Visar de senast laddade rubrikerna.",
       untranslated: "inte översatt än",
+      tab_latest: "Senaste", tab_top: "Toppnyheter",
+      top_h2: "Bevakas av flest publicister",
+      top_empty: "Just nu bevakas ingen nyhet av flera publicister.",
+      top_count: "{n} publicister", also: "Även hos",
       report_link: "Rapportera översättningsfel",
       report_subject: "Swedlines översättningsfel: {id}",
       report_body: "Artikel-ID: {id}\nPublicistens URL: {url}\nSpråkläge: {lang}\n\nVad är fel i översättningen?\n",
@@ -222,6 +242,11 @@
   const refreshBtn = document.getElementById("refresh");
   const status = document.getElementById("status");
   const langButtons = [...document.querySelectorAll("[data-lang]")];
+  const tabs = document.getElementById("tabs");
+  const tabButtons = [...tabs.querySelectorAll("[data-view]")];
+  // View: "#top" opens the Top view (also the preview route while the tab is not public).
+  const viewFromHash = () => (location.hash === "#top" ? "top" : "latest");
+  let view = viewFromHash(), top = null;
 
   // Language: a saved choice wins; otherwise follow the browser (Swedish if it is among the
   // preferred languages, else English). The choice is kept in localStorage via the buttons below.
@@ -300,7 +325,27 @@
     return `mailto:${CONTACT}?subject=${encodeURIComponent(fmt("report_subject", vars))}&body=${encodeURIComponent(fmt("report_body", vars))}`;
   }
 
-  function render() {
+  const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const srcName = key => sources[key] || key;
+  const link = (a, text, cls) =>
+    `<a${cls ? ` class="${cls}"` : ""} href="${esc(a.url)}" rel="noopener" data-id="${esc(a.id)}" data-source="${esc(a.source)}">${esc(text)}</a>`;
+
+  // One headline row; `meta` is the right-hand line and `extra` goes below the teaser.
+  function row(a, meta, extra) {
+    const en = a.en?.title;
+    const primary = lang === "sv" ? a.sv.title : (en || a.sv.title);
+    const tag = lang !== "sv" && !en ? `<span class="untranslated">${t("untranslated")}</span>` : "";
+    const orig = lang === "both" && en
+      ? `<div class="orig" lang="sv">${esc(a.sv.title)} <a class="report" lang="${ui()}" href="${reportHref(a)}">${t("report_link")}</a></div>`
+      : "";
+    // Publisher teaser (sv.summary from the feed, en.summary machine-translated). Items without one render as before.
+    const summary = lang === "sv" ? a.sv.summary : (a.en?.summary || a.sv.summary);
+    const sum = summary ? `<p class="sum" lang="${lang !== "sv" && a.en?.summary ? "en" : "sv"}">${esc(summary)}</p>` : "";
+    return `<li><span><a href="${esc(a.url)}" rel="noopener" lang="${lang === "sv" || !en ? "sv" : "en"}" data-id="${esc(a.id)}" data-source="${esc(a.source)}">${esc(primary)}</a>${tag}</span>` +
+           `<span class="meta">${meta}</span>${sum}${orig}${extra || ""}</li>`;
+  }
+
+  function renderLatest() {
     if (!data) return;
     const now = Date.now();
     const items = data.items.filter(a => !source || a.source === source);
@@ -310,26 +355,45 @@
       const k = groupKey(new Date(a.published_at), now);
       (groups.get(k) || groups.set(k, []).get(k)).push(a);
     }
-    const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
     let html = "";
     for (const [title, list] of groups) {
       html += `<h2>${esc(title)}</h2><ul>`;
       for (const a of list) {
-        const en = a.en?.title;
-        const primary = lang === "sv" ? a.sv.title : (en || a.sv.title);
-        const tag = lang !== "sv" && !en ? `<span class="untranslated">${t("untranslated")}</span>` : "";
-        const orig = lang === "both" && en
-          ? `<div class="orig" lang="sv">${esc(a.sv.title)} <a class="report" lang="${ui()}" href="${reportHref(a)}">${t("report_link")}</a></div>`
-          : "";
-        // Publisher teaser (sv.summary from the feed, en.summary machine-translated). Items without one render as before.
-        const summary = lang === "sv" ? a.sv.summary : (a.en?.summary || a.sv.summary);
-        const sum = summary ? `<p class="sum" lang="${lang !== "sv" && a.en?.summary ? "en" : "sv"}">${esc(summary)}</p>` : "";
-        html += `<li><span><a href="${esc(a.url)}" rel="noopener" lang="${lang === "sv" || !en ? "sv" : "en"}" data-id="${esc(a.id)}" data-source="${esc(a.source)}">${esc(primary)}</a>${tag}</span>` +
-                `<span class="meta"><span class="src">${esc(sources[a.source] || a.source)}</span> · ${rel(new Date(a.published_at), now)}</span>${sum}${orig}</li>`;
+        html += row(a, `<span class="src">${esc(srcName(a.source))}</span> · ${rel(new Date(a.published_at), now)}`);
       }
       html += "</ul>";
     }
     stream.innerHTML = html;
+  }
+
+  // Top view: stories ranked by how many publishers cover them (api/v1/top.json). The headline is
+  // the earliest publisher's own; "Also covered by" links each other publisher's newest article.
+  function renderTop() {
+    if (!top) return;
+    const now = Date.now();
+    const stories = top.stories.filter(s => !source || s.sources.includes(source));
+    if (!stories.length) { stream.innerHTML = `<p class="empty">${t("top_empty")}</p>`; return; }
+    let html = `<h2>${esc(t("top_h2"))}</h2><ul>`;
+    for (const s of stories) {
+      const seen = new Set([s.lead.source]);
+      const others = [];
+      for (const it of s.items) {
+        if (seen.has(it.source)) continue;
+        seen.add(it.source);
+        others.push(link(it, srcName(it.source)));
+      }
+      const also = others.length ? `<div class="also">${t("also")}: ${others.join(", ")}</div>` : "";
+      const meta = `<span class="src">${esc(srcName(s.lead.source))}</span> · <span class="count">${fmt("top_count", { n: s.source_count })}</span> · ${rel(new Date(s.last_published_at), now)}`;
+      html += row(s.lead, meta, also);
+    }
+    stream.innerHTML = `${html}</ul>`;
+  }
+
+  const render = () => (view === "top" ? renderTop() : renderLatest());
+
+  function showTabs() {
+    tabs.hidden = tabs.dataset.topTab !== "on" && view !== "top";
+    for (const b of tabButtons) b.setAttribute("aria-selected", String(b.dataset.view === view));
   }
 
   // Freshness. generatedAt comes from the feed (api/v1/latest.json generated_at), never from the
@@ -354,12 +418,18 @@
     notice.hidden = !msg;
   }
 
+  const getJson = url => fetch(url, { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); });
   async function fetchAll() {
-    const [latest, src] = await Promise.all([
-      fetch("api/v1/latest.json", { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
-      fetch("api/v1/sources.json", { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
+    const [latest, src, topData] = await Promise.all([
+      getJson("api/v1/latest.json"),
+      getJson("api/v1/sources.json"),
+      view === "top" ? getJson("api/v1/top.json") : Promise.resolve(null),
     ]);
     if (!latest || !Array.isArray(latest.items)) throw new Error("bad feed");
+    if (topData) {
+      if (!Array.isArray(topData.stories)) throw new Error("bad top feed");
+      top = topData;
+    }
     data = latest;
     generatedAt = parseTs(latest.generated_at);
     sources = Object.fromEntries(src.sources.map(s => [s.key, s.name]));
@@ -407,6 +477,21 @@
   });
   refreshBtn.addEventListener("click", () => load());
 
+  function setView(v) {
+    if (v === view) return;
+    view = v;
+    showTabs();
+    if (view === "top" && !top) { stream.innerHTML = `<p class="empty">${t("loading")}</p>`; load(); }
+    else render();
+  }
+  for (const b of tabButtons) b.addEventListener("click", () => {
+    const v = b.dataset.view;
+    if (v === "top") location.hash = "top";
+    else history.replaceState(null, "", location.pathname + location.search);
+    setView(v);
+  });
+  window.addEventListener("hashchange", () => setView(viewFromHash()));
+
   // One delegated listener on the stable container: survives every re-render of the list.
   const onHeadline = e => {
     if (!isActivation(e)) return;
@@ -427,6 +512,7 @@
   }
 
   applyI18n();
+  showTabs();
   load();
   setInterval(load, 5 * 60 * 1000);
   setInterval(showStatus, 30 * 1000);

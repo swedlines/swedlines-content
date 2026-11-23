@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-11-23T10:45:57+01:00",
+  "generated_at": "2026-11-23T11:03:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6bd831d21749",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/g37nJJ/71-dagar-utan-regering-detta-har-hant",
+      "guid": "https://www.svd.se/a/g37nJJ/71-dagar-utan-regering-detta-har-hant?utm_medium=rss",
+      "published_at": "2026-11-23T10:55:22+01:00",
+      "fetched_at": "2026-11-23T11:01:07+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "71 dagar utan regering – detta har hänt",
+        "summary": "Det har nu gått 71 dagar sedan valdagen. Ännu är det oklart vilken regering Sverige ska få.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "71 days without a government – here is what has happened",
+        "summary": "It has now been 71 days since election day. It is still unclear which government Sweden will get."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:01:15+01:00"
+      }
+    },
+    {
+      "id": "5d1e43d437ad",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80215",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80215&utm_medium=rss",
+      "published_at": "2026-11-23T10:53:31+01:00",
+      "fetched_at": "2026-11-23T11:01:07+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Bombhot mot skolor i hela Danmark"
+      },
+      "en": {
+        "title": "Bomb threat against schools across Denmark"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:01:15+01:00"
+      }
+    },
     {
       "id": "5ecd18bd22ec",
       "schema_version": 1,
@@ -5202,56 +5251,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:01:13+01:00"
-      }
-    },
-    {
-      "id": "aca94610bb2a",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/mMRWOO/lomskt-virus-minskar-bland-barn-slar-mot-aldre",
-      "guid": "https://www.svd.se/a/mMRWOO/lomskt-virus-minskar-bland-barn-slar-mot-aldre?utm_medium=rss",
-      "published_at": "2026-11-20T06:15:12+01:00",
-      "fetched_at": "2026-11-20T06:30:57+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/2ef09406-995c-3da1-81fc-15b46e0faeab?format=auto&s=a4c0b180b1415fd8fe5e83507bfb45a79a49191d&w=1000",
-      "sv": {
-        "title": "Lömskt virus minskar bland barn – slår mot äldre",
-        "summary": "Högsäsongen för luftvägsvirus står för dörren. Ett av de mest lömska är RS-virus som kan slå hårt…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sneaky virus declines among children – hits the elderly",
-        "summary": "The high season for respiratory viruses is at the door. One of the most insidious is RS virus, which can hit hard…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:31:13+01:00"
-      }
-    },
-    {
-      "id": "efd97d3043ef",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80106",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80106&utm_medium=rss",
-      "published_at": "2026-11-20T06:08:09+01:00",
-      "fetched_at": "2026-11-20T06:15:39+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "Gul vädervarning för Stockholm"
-      },
-      "en": {
-        "title": "Yellow weather warning for Stockholm"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:15:47+01:00"
       }
     }
   ]

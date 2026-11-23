@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-23T10:45:57+01:00",
+  "generated_at": "2026-11-23T11:03:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0c9d042634e6",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/techreporter-mats-karlsson-tipsar-om-vilka-prylar-du-ska-kopa-s2c4j",
+      "guid": "https://www.expressen.se/nyheter/sverige/techreporter-mats-karlsson-tipsar-om-vilka-prylar-du-ska-kopa-s2c4j/",
+      "published_at": "2026-11-23T11:00:00+01:00",
+      "fetched_at": "2026-11-23T11:01:08+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Chatta med Expressens techreporter om Black week",
+        "summary": "Black week är i gång. Om du fnular på lurar, en ny mobil eller en smartklocka – då ska du vara med och chatta med Expressens techreporter Mats Karlsson. Chatten drar i gång klockan 12 – men du kan ställa dina frågor redan nu.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Chat with Expressen's tech reporter about Black Week",
+        "summary": "Black Week is under way. If you are looking for headphones, a new phone or a smartwatch, then join the chat with Expressen tech reporter Mats Karlsson. The chat starts at 12 – but you can submit your questions already now."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:01:15+01:00"
+      }
+    },
+    {
+      "id": "76e1b56f18e3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=c0e87f45-c472-4830-8f8a-d31850abdb8e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c0e87f45-c472-4830-8f8a-d31850abdb8e",
+      "published_at": "2026-11-23T10:44:43+01:00",
+      "fetched_at": "2026-11-23T11:01:08+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Kräkkaos på förskola",
+        "summary": "Tvingas stänga – barn och personal sjuka, enligt P4",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Vomiting chaos at preschool",
+        "summary": "Forced to close – children and staff sick, according to P4"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:01:15+01:00"
+      }
+    },
     {
       "id": "ce8e0c83453a",
       "schema_version": 1,
@@ -5148,58 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T21:01:17+01:00"
-      }
-    },
-    {
-      "id": "d09867980f5c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/striden-om-norden-sa-ritas-kartan-om",
-      "guid": "https://www.expressen.se/nyheter/sverige/striden-om-norden-sa-ritas-kartan-om/",
-      "published_at": "2026-11-19T20:42:42+01:00",
-      "fetched_at": "2026-11-19T21:01:11+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Striden om Norden: Så ritas kartan om",
-        "summary": "Från en defensiv försvarslinje vid Lule älv till offensiv strid i Finland. Med ett enkelt karttrick visar överste Magnus Ståhl hur Sveriges försvar i norr har förändrats i grunden med Nato-medlemskapet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "The battle for the North: this is how the map is being redrawn",
-        "summary": "From a defensive line at the Lule River to offensive combat in Finland. Using a simple map trick, Colonel Magnus Ståhl shows how Sweden's defence in the north has fundamentally changed with NATO membership."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T21:01:17+01:00"
-      }
-    },
-    {
-      "id": "10bbcccfde1f",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/svensk-storovning-vi-sander-ett-budskap-till-putin",
-      "guid": "https://www.expressen.se/nyheter/sverige/svensk-storovning-vi-sander-ett-budskap-till-putin/",
-      "published_at": "2026-11-19T20:42:35+01:00",
-      "fetched_at": "2026-11-19T20:45:54+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Svensk storövning: ”Vi sänder ett budskap till Putin”",
-        "summary": "Bombade sjukhus, utslagna vägar och attacker mot samhällsviktig infrastruktur. I stabsövningen Polestar 26 testas Sveriges totalförsvar i ett krigsscenario med Ryssland som anfallare. – Vi sänder ett strategiskt budskap till president Putin och Ryssland.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Major Swedish exercise: \"We are sending a message to Putin\"",
-        "summary": "Bombed hospitals, cut-off roads and attacks on critical infrastructure. The staff exercise Polestar 26 tests Sweden's total defence in a war scenario with Russia as the attacker. – We are sending a strategic message to President Putin and Russia."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T20:45:59+01:00"
       }
     }
   ]

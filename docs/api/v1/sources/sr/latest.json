@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T10:45:57+01:00",
+  "generated_at": "2026-11-23T11:03:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "14a18f9a1ac4",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348127",
+      "guid": "rss:sr.se/article/9348127",
+      "published_at": "2026-11-23T10:49:00+01:00",
+      "fetched_at": "2026-11-23T11:01:06+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Bombhot mot flera danska skolor",
+        "summary": "Flera skolor runt om i Danmark har fått ta emot bombhot nu under morgonen, det skriver dansk polis på sin sajt. Polisen kommer undersöka hoten mot varje skola, men skriver samtidigt att det för tillfället inte finns anledning till oro.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bomb threat against several Danish schools",
+        "summary": "Several schools across Denmark received bomb threats this morning, Danish police write on their website. The police will investigate the threats against each school, but state at the same time that there is currently no reason for concern."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:01:15+01:00"
+      }
+    },
     {
       "id": "f493f7958bf5",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Riksbank chose not to report to police – despite recommendation",
         "summary": "An internal investigation urged the Riksbank to consider reporting Mats Eklund to the police for suspected bribery after a luxury trip to Japan with a possible supplier. But the Riksbank chose not to report because the events were not considered to meet the threshold of “reasonable suspicion”."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:16:04+01:00"
-      }
-    },
-    {
-      "id": "f4a472461aa1",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9343646",
-      "guid": "rss:sr.se/article/9343646",
-      "published_at": "2026-11-17T12:00:00+01:00",
-      "fetched_at": "2026-11-17T12:15:44+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Här är mejlet som avslöjar it-chefen",
-        "summary": "Riksbankens it-chef Mats Eklund följde med på en lyxresa till Japan med företaget Fujitsu. Han menade att resan var nödvändig för att få med bolaget i en upphandling som är värd 400 miljoner kronor.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Here is the email that exposes the IT chief",
-        "summary": "Riksbank IT chief Mats Eklund joined a luxury trip to Japan with the company Fujitsu. He argued that the trip was necessary to bring the company into a procurement worth SEK 400 million."
       },
       "translation": {
         "status": "done",
