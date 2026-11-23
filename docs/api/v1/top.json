@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:01:22+01:00",
+  "generated_at": "2026-11-23T17:16:06+01:00",
   "count": 30,
   "stories": [
     {
@@ -16,7 +16,7 @@
         "gp"
       ],
       "first_published_at": "2026-11-23T10:10:28+01:00",
-      "last_published_at": "2026-11-23T16:33:34+01:00",
+      "last_published_at": "2026-11-23T17:12:13+01:00",
       "lead": {
         "id": "f5a08925ef10",
         "schema_version": 1,
@@ -44,6 +44,18 @@
         }
       },
       "items": [
+        {
+          "id": "e15fe047ea41",
+          "source": "svd",
+          "url": "https://www.svd.se/a/WmbMkL/jensen-huangs-comeback-betyder-mycket-enligt-fondforvaltaren",
+          "published_at": "2026-11-23T17:12:13+01:00",
+          "sv": {
+            "title": "Chipexperten: Går inte tillbaka till det normala"
+          },
+          "en": {
+            "title": "Chip expert: Not going back to normal"
+          }
+        },
         {
           "id": "244a42903e21",
           "source": "svd",
@@ -840,6 +852,144 @@
       ]
     },
     {
+      "id": "7da3bfad9511",
+      "source_count": 5,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "expressen",
+        "dn",
+        "svt"
+      ],
+      "first_published_at": "2026-11-23T06:10:35+01:00",
+      "last_published_at": "2026-11-23T17:11:57+01:00",
+      "lead": {
+        "id": "7da3bfad9511",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln",
+        "guid": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln?utm_medium=rss",
+        "published_at": "2026-11-23T06:10:35+01:00",
+        "fetched_at": "2026-11-23T06:56:01+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/3e3dac2a-580e-392d-a1e0-cbd05d92971f?format=auto&s=c9fee6b2eb30212be380de84f75f7edc3cfbc36b&w=1000",
+        "sv": {
+          "title": "V:s vrede efter debattartikeln: ”Obegripligt”",
+          "summary": "Öppet ordkrig ✓ Ville stoppa publiceringen",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "The Left Party's (V) anger after the debate article: “Incomprehensible”",
+          "summary": "Open war of words ✓ Wanted to stop the publication"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T06:56:30+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "01e48ac7b183",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/mats-knutson-tre-skal-till-att-v-nobbar-s-budet",
+          "published_at": "2026-11-23T17:11:57+01:00",
+          "sv": {
+            "title": "Mats Knutson: Tre skäl till att V nobbar S-budet"
+          },
+          "en": {
+            "title": "Mats Knutson: Three reasons why the Left Party rejects the S offer"
+          }
+        },
+        {
+          "id": "a2c889a0e6aa",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/v-distriktens-besked-efter-ledningens-diss-mot-s-budet",
+          "published_at": "2026-11-23T16:18:23+01:00",
+          "sv": {
+            "title": "V-distriktens besked efter ledningens diss mot S-budet"
+          },
+          "en": {
+            "title": "District branches' response after leadership's snub of the S offer"
+          }
+        },
+        {
+          "id": "f6e2460e207b",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/1vnJnG/s-topp-v-bestallde-budet-ville-ha-forankrat-forslag",
+          "published_at": "2026-11-23T16:11:42+01:00",
+          "sv": {
+            "title": "S-topp: V beställde budet – ville ha förankrat förslag"
+          },
+          "en": {
+            "title": "S scandal: V ordered the bid – wanted a pre-agreed proposal"
+          }
+        },
+        {
+          "id": "fff9c41be80e",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Wmb5XQ/uppgifter-v-bjods-inte-in-till-rodgrona-forhandlingarna",
+          "published_at": "2026-11-23T14:36:15+01:00",
+          "sv": {
+            "title": "Uppgifter: V bjöds inte in till rödgröna förhandlingarna"
+          },
+          "en": {
+            "title": "Reports: V was not invited to the red-green negotiations"
+          }
+        },
+        {
+          "id": "39bbb128e0b0",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/sa-ser-rodgrona-budet-ut-till-v-mot-var-uttryckliga-vilja",
+          "published_at": "2026-11-23T12:43:57+01:00",
+          "sv": {
+            "title": "Så ser rödgröna budet ut till V: ”Mot vår uttryckliga vilja”"
+          },
+          "en": {
+            "title": "This is the red-green offer to V: “Against our explicit will”"
+          }
+        },
+        {
+          "id": "64c58b275176",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/s-budet-till-v--garantierna-som-ska-fa-dem-att-vanda",
+          "published_at": "2026-11-23T11:48:11+01:00",
+          "sv": {
+            "title": "S-budet till V – garantierna som ska få dem att vända"
+          },
+          "en": {
+            "title": "The S offer to the Left Party – the guarantees that are meant to make them turn"
+          }
+        },
+        {
+          "id": "5ecd18bd22ec",
+          "source": "svd",
+          "url": "https://www.svd.se/a/7P0Ar8/v-bad-s-att-inte-publicera-debattartikeln-med-sitt-bud-menar-att-de-blev-overkorda",
+          "published_at": "2026-11-23T09:53:19+01:00",
+          "sv": {
+            "title": "Ilska efter artikeln med budet: ”Obegripligt”"
+          },
+          "en": {
+            "title": "Outrage over article with the bid: “Incomprehensible”"
+          }
+        },
+        {
+          "id": "7da3bfad9511",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln",
+          "published_at": "2026-11-23T06:10:35+01:00",
+          "sv": {
+            "title": "V:s vrede efter debattartikeln: ”Obegripligt”"
+          },
+          "en": {
+            "title": "The Left Party's (V) anger after the debate article: “Incomprehensible”"
+          }
+        }
+      ]
+    },
+    {
       "id": "8312968809da",
       "source_count": 5,
       "sources": [
@@ -1252,131 +1402,6 @@
           },
           "en": {
             "title": "Russian warship sunk by sea drone in Libya"
-          }
-        }
-      ]
-    },
-    {
-      "id": "7da3bfad9511",
-      "source_count": 4,
-      "sources": [
-        "aftonbladet",
-        "svd",
-        "expressen",
-        "dn"
-      ],
-      "first_published_at": "2026-11-23T06:10:35+01:00",
-      "last_published_at": "2026-11-23T16:18:23+01:00",
-      "lead": {
-        "id": "7da3bfad9511",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln",
-        "guid": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln?utm_medium=rss",
-        "published_at": "2026-11-23T06:10:35+01:00",
-        "fetched_at": "2026-11-23T06:56:01+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/3e3dac2a-580e-392d-a1e0-cbd05d92971f?format=auto&s=c9fee6b2eb30212be380de84f75f7edc3cfbc36b&w=1000",
-        "sv": {
-          "title": "V:s vrede efter debattartikeln: ”Obegripligt”",
-          "summary": "Öppet ordkrig ✓ Ville stoppa publiceringen",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "The Left Party's (V) anger after the debate article: “Incomprehensible”",
-          "summary": "Open war of words ✓ Wanted to stop the publication"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T06:56:30+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "a2c889a0e6aa",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/v-distriktens-besked-efter-ledningens-diss-mot-s-budet",
-          "published_at": "2026-11-23T16:18:23+01:00",
-          "sv": {
-            "title": "V-distriktens besked efter ledningens diss mot S-budet"
-          },
-          "en": {
-            "title": "District branches' response after leadership's snub of the S offer"
-          }
-        },
-        {
-          "id": "f6e2460e207b",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/1vnJnG/s-topp-v-bestallde-budet-ville-ha-forankrat-forslag",
-          "published_at": "2026-11-23T16:11:42+01:00",
-          "sv": {
-            "title": "S-topp: V beställde budet – ville ha förankrat förslag"
-          },
-          "en": {
-            "title": "S scandal: V ordered the bid – wanted a pre-agreed proposal"
-          }
-        },
-        {
-          "id": "fff9c41be80e",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Wmb5XQ/uppgifter-v-bjods-inte-in-till-rodgrona-forhandlingarna",
-          "published_at": "2026-11-23T14:36:15+01:00",
-          "sv": {
-            "title": "Uppgifter: V bjöds inte in till rödgröna förhandlingarna"
-          },
-          "en": {
-            "title": "Reports: V was not invited to the red-green negotiations"
-          }
-        },
-        {
-          "id": "39bbb128e0b0",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/sa-ser-rodgrona-budet-ut-till-v-mot-var-uttryckliga-vilja",
-          "published_at": "2026-11-23T12:43:57+01:00",
-          "sv": {
-            "title": "Så ser rödgröna budet ut till V: ”Mot vår uttryckliga vilja”"
-          },
-          "en": {
-            "title": "This is the red-green offer to V: “Against our explicit will”"
-          }
-        },
-        {
-          "id": "64c58b275176",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/s-budet-till-v--garantierna-som-ska-fa-dem-att-vanda",
-          "published_at": "2026-11-23T11:48:11+01:00",
-          "sv": {
-            "title": "S-budet till V – garantierna som ska få dem att vända"
-          },
-          "en": {
-            "title": "The S offer to the Left Party – the guarantees that are meant to make them turn"
-          }
-        },
-        {
-          "id": "5ecd18bd22ec",
-          "source": "svd",
-          "url": "https://www.svd.se/a/7P0Ar8/v-bad-s-att-inte-publicera-debattartikeln-med-sitt-bud-menar-att-de-blev-overkorda",
-          "published_at": "2026-11-23T09:53:19+01:00",
-          "sv": {
-            "title": "Ilska efter artikeln med budet: ”Obegripligt”"
-          },
-          "en": {
-            "title": "Outrage over article with the bid: “Incomprehensible”"
-          }
-        },
-        {
-          "id": "7da3bfad9511",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln",
-          "published_at": "2026-11-23T06:10:35+01:00",
-          "sv": {
-            "title": "V:s vrede efter debattartikeln: ”Obegripligt”"
-          },
-          "en": {
-            "title": "The Left Party's (V) anger after the debate article: “Incomprehensible”"
           }
         }
       ]
@@ -1831,6 +1856,117 @@
           },
           "en": {
             "title": "Many safety defects in products bought online"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5ae9d078ef23",
+      "source_count": 3,
+      "sources": [
+        "expressen",
+        "sr",
+        "svd"
+      ],
+      "first_published_at": "2026-11-22T18:01:25+01:00",
+      "last_published_at": "2026-11-23T17:00:33+01:00",
+      "lead": {
+        "id": "5ae9d078ef23",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/nya-forslaget-till-v-fran-s-c-och-mp",
+        "guid": "https://www.expressen.se/nyheter/politik/nya-forslaget-till-v-fran-s-c-och-mp/",
+        "published_at": "2026-11-22T18:01:25+01:00",
+        "fetched_at": "2026-11-22T18:15:46+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Nya förslaget till V från S, C och MP",
+          "summary": "Nooshi Dadgostar (V) får nu ett bud av S, MP och C. Hon får ingå i ett ”inre kabinett” i regeringskansliet och kan räkna hem en rad politiska vinster – men inga ministerposter.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "New proposal to V from S, C and MP",
+          "summary": "Nooshi Dadgostar (V) now receives an offer from the Social Democrats, the Green Party and the Centre Party. She may join an “inner cabinet” in the government offices and can count on a number of political wins – but no ministerial posts."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-22T18:15:53+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "685a719d3212",
+          "source": "svd",
+          "url": "https://www.svd.se/a/qOLaAO/centerpartiet-splittrat-om-paketet-till-vansterpartiet",
+          "published_at": "2026-11-23T17:00:33+01:00",
+          "sv": {
+            "title": "C-källor: Erbjudandet till V är för generöst"
+          },
+          "en": {
+            "title": "Centre sources: Offer to the Left Party is too generous"
+          }
+        },
+        {
+          "id": "474b11b9a851",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-v-fina-ord-med-litet-innehall",
+          "published_at": "2026-11-23T13:23:16+01:00",
+          "sv": {
+            "title": "Ida Gabrielsson (V): ”Fina ord med litet innehåll”"
+          },
+          "en": {
+            "title": "Ida Gabrielsson (V): “Nice words with little substance”"
+          }
+        },
+        {
+          "id": "451587ddbf36",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348036",
+          "published_at": "2026-11-23T08:59:00+01:00",
+          "sv": {
+            "title": "Fredrik Furtenbach om S erbjudande till V: Kärvar rejält"
+          },
+          "en": {
+            "title": "Fredrik Furtenbach on the Social Democrats' offer to the Left Party: It's clearly tough going"
+          }
+        },
+        {
+          "id": "63c700816480",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/gabrielsson-det-har-saknar-v-i-erbjudandet",
+          "published_at": "2026-11-23T06:02:00+01:00",
+          "sv": {
+            "title": "Gabrielsson: Det här saknar V i erbjudandet"
+          },
+          "en": {
+            "title": "Gabrielsson: This is what V is missing in the offer"
+          }
+        },
+        {
+          "id": "d98762b92dfc",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/jenny-madestam-om-forslaget--till-v-generost-erbjudande",
+          "published_at": "2026-11-22T20:22:10+01:00",
+          "sv": {
+            "title": "Jenny Madestam om förslaget till V: ”Generöst erbjudande”"
+          },
+          "en": {
+            "title": "Jenny Madestam on the proposal to the Left Party (V): \"Generous offer\""
+          }
+        },
+        {
+          "id": "5ae9d078ef23",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/nya-forslaget-till-v-fran-s-c-och-mp",
+          "published_at": "2026-11-22T18:01:25+01:00",
+          "sv": {
+            "title": "Nya förslaget till V från S, C och MP"
+          },
+          "en": {
+            "title": "New proposal to V from S, C and MP"
           }
         }
       ]
@@ -2860,69 +2996,6 @@
           },
           "en": {
             "title": "Lego invests heavily in new factory in Portugal"
-          }
-        }
-      ]
-    },
-    {
-      "id": "43db1bdbefb2",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-23T14:18:05+01:00",
-      "last_published_at": "2026-11-23T14:23:53+01:00",
-      "lead": {
-        "id": "43db1bdbefb2",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/aGw9WL/over-20-doda-i-utbrunnen-godisfabrik",
-        "guid": "https://www.aftonbladet.se/nyheter/a/aGw9WL/over-20-doda-i-utbrunnen-godisfabrik?utm_medium=rss",
-        "published_at": "2026-11-23T14:18:05+01:00",
-        "fetched_at": "2026-11-23T14:30:56+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/44eace97-0902-3936-b2b8-044745a9c918?format=auto&s=126eab7ec03583a2ec485ed84efd55753f0d5b79&w=1000",
-        "sv": {
-          "title": "Över 20 döda i utbrunnen godisfabrik",
-          "summary": "En omfattande brand i en godisfabrik i Indonesien har skördat över 20 människoliv.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Over 20 dead in burned-out candy factory",
-          "summary": "A massive fire at a candy factory in Indonesia has killed more than 20 people."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T14:31:03+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "7239a1d5eeaf",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/over-20-doda-i-utbrunnen-godisfabrik",
-          "published_at": "2026-11-23T14:23:53+01:00",
-          "sv": {
-            "title": "Över 20 döda i utbrunnen godisfabrik"
-          },
-          "en": {
-            "title": "Over 20 dead in burned-out candy factory"
-          }
-        },
-        {
-          "id": "43db1bdbefb2",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/aGw9WL/over-20-doda-i-utbrunnen-godisfabrik",
-          "published_at": "2026-11-23T14:18:05+01:00",
-          "sv": {
-            "title": "Över 20 döda i utbrunnen godisfabrik"
-          },
-          "en": {
-            "title": "Over 20 dead in burned-out candy factory"
           }
         }
       ]

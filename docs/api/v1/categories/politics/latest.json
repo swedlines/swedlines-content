@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-23T17:01:22+01:00",
+  "generated_at": "2026-11-23T17:16:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "01e48ac7b183",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/mats-knutson-tre-skal-till-att-v-nobbar-s-budet",
+      "guid": "https://www.svt.se/nyheter/inrikes/mats-knutson-tre-skal-till-att-v-nobbar-s-budet",
+      "published_at": "2026-11-23T17:11:57+01:00",
+      "fetched_at": "2026-11-23T17:15:48+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Mats Knutson: Tre skäl till att V nobbar S-budet",
+        "summary": "Vänsterpartiet nobbar det nya budet från S, MP och C. Men varför räcker inte erbjudandet? SVT:s inrikespolitiske kommentator Mats Knutson pekar på tre viktiga skäl. – Symboliken att få ministerposter är avgörande, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mats Knutson: Three reasons why the Left Party rejects the S offer",
+        "summary": "The Left Party rejects the new offer from the Social Democrats, the Green Party and the Centre Party. But why is the offer not enough? SVT's domestic politics commentator Mats Knutson points to three key reasons. – The symbolism of getting ministerial posts is decisive, he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:15:58+01:00"
+      }
+    },
+    {
+      "id": "685a719d3212",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/qOLaAO/centerpartiet-splittrat-om-paketet-till-vansterpartiet",
+      "guid": "https://www.svd.se/a/qOLaAO/centerpartiet-splittrat-om-paketet-till-vansterpartiet?utm_medium=rss",
+      "published_at": "2026-11-23T17:00:33+01:00",
+      "fetched_at": "2026-11-23T17:15:50+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/338905b2-09fc-39b3-a828-78b4013f3163?format=auto&s=f4db010aa9fca43be98db81c7057924d9c3f0dd8&w=1000",
+      "sv": {
+        "title": "C-källor: Erbjudandet till V är för generöst",
+        "summary": "Paketet som Vänsterpartiet erbjudits, med tunga poster i regeringskansliet, är för…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre sources: Offer to the Left Party is too generous",
+        "summary": "The package offered to the Left Party, with heavy posts in the government offices, is too…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:15:58+01:00"
+      }
+    },
     {
       "id": "839ad334a9e2",
       "schema_version": 1,
@@ -5342,60 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T09:45:59+01:00"
-      }
-    },
-    {
-      "id": "82659e8818e3",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/XogJRo/svd-s-podd-politiken-borde-talmannen-gora-mer",
-      "guid": "https://www.svd.se/a/XogJRo/svd-s-podd-politiken-borde-talmannen-gora-mer?utm_medium=rss",
-      "published_at": "2026-11-20T08:50:44+01:00",
-      "fetched_at": "2026-11-20T09:01:10+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/3a1a4b5b-ab03-36a9-baf9-7fc59867b4e1?format=auto&s=45a2aea158a5822ee33c645e8e990fe60698501e&w=1000",
-      "sv": {
-        "title": "Borde talmannen göra mer?",
-        "summary": "PODD |",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Should the speaker do more?",
-        "summary": "PODD |"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T09:01:24+01:00"
-      }
-    },
-    {
-      "id": "bddc95e82989",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/totalpaketet-fran-s-reformer-for-miljarder",
-      "guid": "b32a5c2b-3778-4ff5-a3f0-dfbbb5b9efd4",
-      "published_at": "2026-11-20T06:00:18+01:00",
-      "fetched_at": "2026-11-20T06:01:18+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/ac1c1527-2e2d-4f77-bff3-747f1733a4e8.jpg?width=600",
-      "sv": {
-        "title": "Totalpaketet från S: Reformer för miljarder",
-        "summary": "Socialdemokraternas ”totalpaket” innehåller slopat karensavdrag, vinstförbud i skolan och höjd straffbarhetsålder till 15 år. Men flera av reformerna kan bli dyra och finansieringen är oklar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Social Democrats' total package: Reforms worth billions",
-        "summary": "The Social Democrats' ”total package” includes abolishing the sick-pay waiting day, a ban on profit-making in schools and raising the age of criminal responsibility to 15. But several of the reforms could be expensive and the financing is unclear."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:01:34+01:00"
       }
     }
   ]
