@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T11:18:17+01:00",
+  "generated_at": "2026-11-23T11:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "75fd392bea35",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/8PmAb1/serien-halls-ihop-av-tejp-och-gummistnoddar",
+      "guid": "https://www.svd.se/a/8PmAb1/serien-halls-ihop-av-tejp-och-gummistnoddar?utm_medium=rss",
+      "published_at": "2026-11-23T11:30:00+01:00",
+      "fetched_at": "2026-11-23T11:30:59+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/6e4beb7f-f170-32b3-ae6c-bcf96b9b64c8?format=auto&s=0e4cc9f3369f6e0fb4d12c90098eb90017d343ed&w=1000",
+      "sv": {
+        "title": "Serien hålls ihop av tejp och gummisnoddar",
+        "summary": "Viaplayserien ”Maffia” skildrar ett deprimerande och glåmigt svenskt 1990-tal.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The series is held together by tape and rubber bands",
+        "summary": "The Viaplay series \"Maffia\" depicts a depressing and drab Swedish 1990s."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:31:07+01:00"
+      }
+    },
     {
       "id": "ec19cc475aec",
       "schema_version": 1,
@@ -5707,33 +5734,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T08:15:49+01:00"
-      }
-    },
-    {
-      "id": "e08bcf01387d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/dygnet-runt/superguiden-2026-planera-ditt-nojesar-i-malmo-dag-for-dag",
-      "guid": "2528d21e-9268-4e9a-8490-27abb2ee52fa",
-      "published_at": "2026-11-20T07:35:47+01:00",
-      "fetched_at": "2026-11-20T07:45:46+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/30822d0d-83c0-4383-945e-7e055ce13314.jpeg?width=600",
-      "sv": {
-        "title": "Superguiden 2026: Planera ditt nöjesår i Malmö – dag för dag",
-        "summary": "Festivaler, premiärer, konserter, utställningar, quiz, ståupp, krogöppningar och mycket mer. Dygnet Runt ger dig den bästa överblicken – dag för dag – av vad som händer i Malmös nöjesliv under 2026.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Superguiden 2026: Plan your entertainment year in Malmö – day by day",
-        "summary": "Festivals, premieres, concerts, exhibitions, quizzes, stand-up, bar openings and much more. Dygnet Runt gives you the best overview – day by day – of what is happening in Malmö's entertainment scene in 2026."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:45:51+01:00"
       }
     }
   ]

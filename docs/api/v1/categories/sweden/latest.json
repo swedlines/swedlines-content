@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T11:18:17+01:00",
+  "generated_at": "2026-11-23T11:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a9ddda1432e2",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/j3dEMz/snart-i-mal-oljesanering-med-stort-hjarta",
+      "guid": "https://www.aftonbladet.se/nyheter/a/j3dEMz/snart-i-mal-oljesanering-med-stort-hjarta?utm_medium=rss",
+      "published_at": "2026-11-23T11:30:19+01:00",
+      "fetched_at": "2026-11-23T11:30:59+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/be7c34c1-b46d-3634-89bc-bd2b7820af03?format=auto&s=665d649df43f1ca51726925acd9095a150b2b0d3&w=1000",
+      "sv": {
+        "title": "Snart i mål: oljesanering med stort hjärta",
+        "summary": "Mer än två mil av Listerlandets kustlinje var indränkt i kletig olja efter färjan Marco Polos dubbla…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Almost there: oil clean-up with a big heart",
+        "summary": "More than two miles of the Listerland coastline was soaked in sticky oil after the ferry Marco Polo's double…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:31:07+01:00"
+      }
+    },
     {
       "id": "acdd6f35d3d0",
       "schema_version": 1,
@@ -5403,42 +5430,6 @@
       "en": {
         "title": "Major power outage in Norrköping – around 11,000 affected",
         "summary": "A major power outage hit Norrköping on Thursday morning. 10,963 of Eon's customers are currently affected."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T05:31:11+01:00"
-      }
-    },
-    {
-      "id": "6bf956a313be",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/debatt/utnyttja-de-mojligheter-att-dela-patientdata-som-finns-i-dag.a56b32c8-822b-5cc9-9734-d31742260bb2",
-      "guid": "a56b32c8-822b-5cc9-9734-d31742260bb2",
-      "published_at": "2026-11-19T04:55:00+01:00",
-      "fetched_at": "2026-11-19T05:31:02+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Debatt",
-        "Tagg: Jakob Forssmed (KD)",
-        "Tagg: Elisabet Lann (KD)",
-        "Tagg: Barncancer",
-        "Tagg: Sjukvård",
-        "Tagg: Forskning",
-        "Tagg: Lagstiftning"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/8a9e1ef5-cd84-37db-b203-49d8fb75e366",
-      "sv": {
-        "title": "Utnyttja de möjligheter att dela patientdata som finns i dag",
-        "summary": "Det finns en rädsla att göra fel som ibland skapar ett restriktivt förhållningssätt hos dem som ska tolka reglerna, skriver debattörerna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Make use of the opportunities to share patient data that exist today",
-        "summary": "There is a fear of making mistakes that sometimes creates a restrictive approach among those who are to interpret the rules, write the debaters."
       },
       "translation": {
         "status": "done",

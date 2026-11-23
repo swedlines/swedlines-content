@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:18:17+01:00",
+  "generated_at": "2026-11-23T11:31:09+01:00",
   "count": 26,
   "stories": [
     {
@@ -861,6 +861,93 @@
       ]
     },
     {
+      "id": "01e469789fba",
+      "source_count": 3,
+      "sources": [
+        "sr",
+        "di",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-23T05:07:00+01:00",
+      "last_published_at": "2026-11-23T11:25:00+01:00",
+      "lead": {
+        "id": "01e469789fba",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9347985",
+        "guid": "rss:sr.se/article/9347985",
+        "published_at": "2026-11-23T05:07:00+01:00",
+        "fetched_at": "2026-11-23T06:55:59+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Ryskt krigsfartyg sänkt av havsdrönare i Libyen",
+          "summary": "FN kräver en utredning och fördömer drönarattackerna utanför Benghazi i östra Libyen under söndagskvällen, rapporterar AFP. En av attackerna orsakade en explosion på ett ryskt krigsfartyg och tio personer skadades lindrigt, enligt lokala myndigheter.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Russian warship sunk by sea drone in Libya",
+          "summary": "The UN demands an investigation and condemns the drone attacks outside Benghazi in eastern Libya on Sunday evening, reports AFP. One of the attacks caused an explosion on a Russian warship and ten people were lightly injured, according to local authorities."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T06:56:48+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "2c07e291ef75",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348166",
+          "published_at": "2026-11-23T11:25:00+01:00",
+          "sv": {
+            "title": "Zelenskyj: Ukraina bakom fartygsattack i Libyen"
+          },
+          "en": {
+            "title": "Zelenskyy: Ukraine behind ship attack in Libya"
+          }
+        },
+        {
+          "id": "52dd0d86683b",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/ukraina-sankte-rysk-korvett-i-libysk-hamn",
+          "published_at": "2026-11-23T09:00:43+01:00",
+          "sv": {
+            "title": "Ukraina sänkte rysk korvett i libysk hamn"
+          },
+          "en": {
+            "title": "Ukraine sank Russian corvette in Libyan port"
+          }
+        },
+        {
+          "id": "cc549e18b645",
+          "source": "di",
+          "url": "https://www.di.se/live/rysk-korvett-sankt-i-libysk-hamn",
+          "published_at": "2026-11-23T08:04:07+01:00",
+          "sv": {
+            "title": "Rysk korvett sänkt i libysk hamn"
+          },
+          "en": {
+            "title": "Russian corvette sunk in Libyan port"
+          }
+        },
+        {
+          "id": "01e469789fba",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9347985",
+          "published_at": "2026-11-23T05:07:00+01:00",
+          "sv": {
+            "title": "Ryskt krigsfartyg sänkt av havsdrönare i Libyen"
+          },
+          "en": {
+            "title": "Russian warship sunk by sea drone in Libya"
+          }
+        }
+      ]
+    },
+    {
       "id": "6bd831d21749",
       "source_count": 3,
       "sources": [
@@ -1094,81 +1181,6 @@
           },
           "en": {
             "title": "Danish Supreme Court expected to decide on the \"ghetto list\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "01e469789fba",
-      "source_count": 3,
-      "sources": [
-        "sr",
-        "di",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-23T05:07:00+01:00",
-      "last_published_at": "2026-11-23T09:00:43+01:00",
-      "lead": {
-        "id": "01e469789fba",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9347985",
-        "guid": "rss:sr.se/article/9347985",
-        "published_at": "2026-11-23T05:07:00+01:00",
-        "fetched_at": "2026-11-23T06:55:59+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Ryskt krigsfartyg sänkt av havsdrönare i Libyen",
-          "summary": "FN kräver en utredning och fördömer drönarattackerna utanför Benghazi i östra Libyen under söndagskvällen, rapporterar AFP. En av attackerna orsakade en explosion på ett ryskt krigsfartyg och tio personer skadades lindrigt, enligt lokala myndigheter.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Russian warship sunk by sea drone in Libya",
-          "summary": "The UN demands an investigation and condemns the drone attacks outside Benghazi in eastern Libya on Sunday evening, reports AFP. One of the attacks caused an explosion on a Russian warship and ten people were lightly injured, according to local authorities."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T06:56:48+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "52dd0d86683b",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/ukraina-sankte-rysk-korvett-i-libysk-hamn",
-          "published_at": "2026-11-23T09:00:43+01:00",
-          "sv": {
-            "title": "Ukraina sänkte rysk korvett i libysk hamn"
-          },
-          "en": {
-            "title": "Ukraine sank Russian corvette in Libyan port"
-          }
-        },
-        {
-          "id": "cc549e18b645",
-          "source": "di",
-          "url": "https://www.di.se/live/rysk-korvett-sankt-i-libysk-hamn",
-          "published_at": "2026-11-23T08:04:07+01:00",
-          "sv": {
-            "title": "Rysk korvett sänkt i libysk hamn"
-          },
-          "en": {
-            "title": "Russian corvette sunk in Libyan port"
-          }
-        },
-        {
-          "id": "01e469789fba",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9347985",
-          "published_at": "2026-11-23T05:07:00+01:00",
-          "sv": {
-            "title": "Ryskt krigsfartyg sänkt av havsdrönare i Libyen"
-          },
-          "en": {
-            "title": "Russian warship sunk by sea drone in Libya"
           }
         }
       ]

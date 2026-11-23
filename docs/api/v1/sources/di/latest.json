@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T11:18:17+01:00",
+  "generated_at": "2026-11-23T11:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0be611ab29c1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/slutstriden-narmar-sig-talmannen-vill-ha-besked",
+      "guid": "45a28223-9c0f-4046-b0ad-1344c90056c6",
+      "published_at": "2026-11-23T11:16:08+01:00",
+      "fetched_at": "2026-11-23T11:31:00+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5f050453-90b0-4ceb-b877-e37b5ada4c33.jpeg?width=600",
+      "sv": {
+        "title": "Slutstriden närmar sig – talmannen vill ha besked",
+        "summary": "V har fått ett ”slutbud” – men säger fortsatt nej. Tunga C-profiler och distrikt vill gå högerut – men möter hårt motstånd. På tisdag håller talman Andreas Norlén partiledarsamtal. En tredje och kanske sista statsministeromröstning rycker allt närmare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Final battle approaches – the Speaker wants an answer",
+        "summary": "The Left Party (V) has received a \"final offer\" – but still says no. Heavyweight Centre Party (C) figures and districts want to move right – but face strong opposition. On Tuesday, Speaker Andreas Norlén holds party leader talks. A third and perhaps final prime minister vote is drawing ever closer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:31:07+01:00"
+      }
+    },
     {
       "id": "6b643a257e83",
       "schema_version": 1,
@@ -5328,33 +5355,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:01:24+01:00"
-      }
-    },
-    {
-      "id": "7c6cabc5a048",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/anthropic-rasar-sochp-500-faller-for-sjunde-dagen-i-rad",
-      "guid": "49b91e8e-40a2-4c05-b5f6-b593c64d90f5",
-      "published_at": "2026-11-20T15:33:51+01:00",
-      "fetched_at": "2026-11-20T15:45:46+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0c6de097-df97-439c-9867-f6e39753955b.jpeg?width=600",
-      "sv": {
-        "title": "Anthropic rasar – S&P 500 faller för sjunde dagen i rad",
-        "summary": "USA-börserna var på ett fortsatt uselt humör i fredagens inledande handel. AI-jätten Anthropic fick en smakstart på karriären som noterat på bolag, men på fredagen var det andra bollar och aktien rasar i den inledande handeln.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anthropic plunges – S&P 500 falls for seventh day in a row",
-        "summary": "US exchanges were in a continued dismal mood in Friday's opening trade. AI giant Anthropic got a rocky start to its career as a listed company, but on Friday it was a different story, and the share is plunging in early trading."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T15:45:52+01:00"
       }
     }
   ]

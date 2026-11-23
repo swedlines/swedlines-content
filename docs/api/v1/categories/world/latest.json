@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-23T11:18:17+01:00",
+  "generated_at": "2026-11-23T11:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2c07e291ef75",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348166",
+      "guid": "rss:sr.se/article/9348166",
+      "published_at": "2026-11-23T11:25:00+01:00",
+      "fetched_at": "2026-11-23T11:30:57+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Zelenskyj: Ukraina bakom fartygsattack i Libyen",
+        "summary": "Ett rysk stridsfartyg har sänkts i Libyen i en hamn kontrollerad av rysstödda styrkor i Benghazi. Ukrainas president Zelenskyy har bekräftat att Ukraina ligger bakom attacken.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Zelenskyy: Ukraine behind ship attack in Libya",
+        "summary": "A Russian warship has been sunk in Libya, in a port controlled by Russian-backed forces in Benghazi. Ukraine's president Zelenskyy has confirmed that Ukraine is behind the attack."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T11:31:07+01:00"
+      }
+    },
     {
       "id": "3ca5cbfc9b0c",
       "schema_version": 1,
@@ -5356,33 +5382,6 @@
       "en": {
         "title": "Drone alarm in Finland and Estonia – NATO aircraft in the air",
         "summary": "Residents of Estonia have been warned about drones during the night. In Finland, air and sea traffic has been restricted."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T10:01:26+01:00"
-      }
-    },
-    {
-      "id": "714665c94571",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/LoAgoP/tva-fartyg-attackerade-i-hormuz",
-      "guid": "https://www.aftonbladet.se/nyheter/a/LoAgoP/tva-fartyg-attackerade-i-hormuz?utm_medium=rss",
-      "published_at": "2026-11-21T09:55:13+01:00",
-      "fetched_at": "2026-11-21T10:01:12+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/a179be24-55f3-3572-a7db-0107983c9a8a?format=auto&s=41b3cc93cdb7ef8089abfbef9cf05884bcc334b0&w=1000",
-      "sv": {
-        "title": "Två fartyg attackerade i Hormuz",
-        "summary": "Två tankerfartyg har angripits i Hormuzsundet, uppger den brittiska marinens sjötrafikbevakare UKMTO.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Two ships attacked in Hormuz",
-        "summary": "Two tanker ships have been attacked in the Strait of Hormuz, according to the British navy's shipping monitor UKMTO."
       },
       "translation": {
         "status": "done",
