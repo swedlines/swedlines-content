@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T09:31:17+01:00",
+  "generated_at": "2026-11-23T09:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "44c7c914b016",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/M5Rvpr/absurt-nar-poliser-jagar-komik",
+      "guid": "https://www.svd.se/a/M5Rvpr/absurt-nar-poliser-jagar-komik?utm_medium=rss",
+      "published_at": "2026-11-23T09:30:00+01:00",
+      "fetched_at": "2026-11-23T09:45:45+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/5bd79fa4-3d13-3c7b-a892-19653bcf4a53?format=auto&s=0a4fba7630d4c767ab2a2274b85b164da17ab99d&w=1000",
+      "sv": {
+        "title": "Absurt när poliser jagar komik",
+        "summary": "Kriminalisering av åsikter är rena Monty Python.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Absurd when police chase comedy",
+        "summary": "Criminalising opinions is pure Monty Python."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T09:45:55+01:00"
+      }
+    },
     {
       "id": "245ad82078a0",
       "schema_version": 1,
@@ -5704,33 +5731,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:01:13+01:00"
-      }
-    },
-    {
-      "id": "6fec2b874f46",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ledare/max-hjelm-ni-borde-tacka-oss-som-alskar-lussekorven",
-      "guid": "https://www.dn.se/ledare/max-hjelm-ni-borde-tacka-oss-som-alskar-lussekorven/",
-      "published_at": "2026-11-20T06:41:35+01:00",
-      "fetched_at": "2026-11-20T06:45:42+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/06bce211-20e1-4173-bbaa-9ed1a8f4033b.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Max Hjelm: Ni borde tacka oss som älskar lussekorven",
-        "summary": "Skända lussebullen! Vägra vanlig semla! Svik de traditionella bakverken! Var otraditionell!",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Max Hjelm: You should thank us who love the lussekorv",
-        "summary": "Desecrate the Lucia bun! Refuse the traditional semla! Betray the traditional pastries! Be untraditional!"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:45:50+01:00"
       }
     }
   ]

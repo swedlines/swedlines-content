@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T09:31:17+01:00",
+  "generated_at": "2026-11-23T09:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dfc16e832bfd",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/BrRKR7/smittsparning-efter-masslingsfall-i-stockholm",
+      "guid": "https://www.aftonbladet.se/nyheter/a/BrRKR7/smittsparning-efter-masslingsfall-i-stockholm?utm_medium=rss",
+      "published_at": "2026-11-23T09:42:39+01:00",
+      "fetched_at": "2026-11-23T09:45:46+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/f291b9b4-1d65-3743-ba80-274640afe284?format=auto&s=f72396393b358d2f3d9f5b1ee063c67f50f7a0b9&w=1000",
+      "sv": {
+        "title": "Smittspårning efter mässlingsfall i Stockholm",
+        "summary": "Hundratals personer ska testas efter ett mässlingsfall på ett sjukhus i Stockholm.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Contact tracing after measles case in Stockholm",
+        "summary": "Hundreds of people are to be tested after a measles case at a hospital in Stockholm."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T09:45:55+01:00"
+      }
+    },
     {
       "id": "cbb6f487db48",
       "schema_version": 1,
@@ -133,6 +160,30 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T09:15:57+01:00"
+      }
+    },
+    {
+      "id": "c56dd1edb9c2",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/j3dj5L/s-toppen-maste-forsoka-vara-kreativa",
+      "guid": "https://www.aftonbladet.se/nyheter/a/j3dj5L/s-toppen-maste-forsoka-vara-kreativa?utm_medium=rss",
+      "published_at": "2026-11-23T08:35:55+01:00",
+      "fetched_at": "2026-11-23T09:45:46+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/6756f703-59e7-3223-ac52-0c8585236445?format=auto&s=f1bc9772a943fd779764d50b51e9debd3e66b06b&w=1000",
+      "sv": {
+        "title": "S-toppen: V hade redan sagt nej"
+      },
+      "en": {
+        "title": "Social Democrat leader: V had already said no"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T09:45:55+01:00"
       }
     },
     {
@@ -5322,59 +5373,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T05:45:48+01:00"
-      }
-    },
-    {
-      "id": "a16443845785",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/r8A3qe/storbritannien-narmar-sig-eu-toppmote-i-bryssel",
-      "guid": "https://www.aftonbladet.se/nyheter/a/r8A3qe/storbritannien-narmar-sig-eu-toppmote-i-bryssel?utm_medium=rss",
-      "published_at": "2026-11-20T05:30:09+01:00",
-      "fetched_at": "2026-11-20T05:45:39+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/6eea3ee1-6838-39e3-85b8-427387e1d907?format=auto&s=b9400f53e6da7d9045c6eb06d60776ea72b3e3a8&w=1000",
-      "sv": {
-        "title": "Storbritannien närmar sig EU – toppmöte i Bryssel",
-        "summary": "Gamla sår rivs upp igen när EU och Storbritannien håller toppmöte i Bryssel.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Britain moves closer to EU – summit in Brussels",
-        "summary": "Old wounds are reopened as the EU and Britain hold a summit in Brussels."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T05:45:48+01:00"
-      }
-    },
-    {
-      "id": "ffbc10499404",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/xJPy0G/avrattning-i-usa-tog-over-en-timme",
-      "guid": "https://www.aftonbladet.se/nyheter/a/xJPy0G/avrattning-i-usa-tog-over-en-timme?utm_medium=rss",
-      "published_at": "2026-11-20T04:24:18+01:00",
-      "fetched_at": "2026-11-20T04:31:00+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Avrättning i USA tog över en timme",
-        "summary": "En avrättning i Texas i USA tog över en timme sedan fängelseanställda flera gånger misslyckades att…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Execution in USA took over an hour",
-        "summary": "An execution in Texas, USA took over an hour after prison staff repeatedly failed to…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T04:31:05+01:00"
       }
     }
   ]
