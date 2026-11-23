@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-23T16:45:58+01:00",
+  "generated_at": "2026-11-23T17:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f5abc4026f27",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/naringsliv/sjobos-fiskpinnar-hade-kunnat-raddas-en-frys-behover-inte-internet",
+      "guid": "015ed964-1d4f-4f68-abc1-58c1b1dc8c4a",
+      "published_at": "2026-11-23T17:00:00+01:00",
+      "fetched_at": "2026-11-23T17:01:14+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/425dc443-c78e-4d0f-99c5-b92922f8a2a3.jpeg?width=600",
+      "sv": {
+        "title": "Sjöbos fiskpinnar hade kunnat räddas – en frys behöver inte internet"
+      },
+      "en": {
+        "title": "Sjöbo's fish sticks could have been saved – a freezer doesn't need internet"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:01:18+01:00"
+      }
+    },
     {
       "id": "c186c2db2ef6",
       "schema_version": 1,
@@ -5299,33 +5323,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T18:15:53+01:00"
-      }
-    },
-    {
-      "id": "e19dfdb7eddc",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/vaxande-spricka-i-c-om-regeringsval",
-      "guid": "f24c202e-38b8-4992-8bd4-7858231b97e9",
-      "published_at": "2026-11-22T17:33:16+01:00",
-      "fetched_at": "2026-11-22T17:45:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c48897e1-b612-4558-ac52-de5b239b6071.jpeg?width=600",
-      "sv": {
-        "title": "Växande spricka i C om regeringsval",
-        "summary": "Sprickan i Centerpartiet om regeringsfrågan växer och skapar oro. ”Det är olyckligt att vi nu har den här diskussionen externt”, säger Patrik Buddgård, distriktsordförande i Stockholms län, till Ekot.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Growing rift in the Centre Party over government question",
-        "summary": "The rift in the Centre Party over the government question is growing and causing concern. \"It is unfortunate that we are now having this discussion externally\", says Patrik Buddgård, district chair in Stockholm County, to Ekot."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T17:45:48+01:00"
       }
     }
   ]

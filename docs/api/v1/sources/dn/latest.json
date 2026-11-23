@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-23T16:45:58+01:00",
+  "generated_at": "2026-11-23T17:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4825962ed654",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/sverker-sorlin-vi-har-natt-den-punkt-dar-hyckleriet-inte-langre-ar-mojligt",
+      "guid": "https://www.dn.se/kultur/sverker-sorlin-vi-har-natt-den-punkt-dar-hyckleriet-inte-langre-ar-mojligt/",
+      "published_at": "2026-11-23T16:56:14+01:00",
+      "fetched_at": "2026-11-23T17:01:10+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/024a09cb-1f03-4563-a212-011ce0ba9298.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Sverker Sörlin: Vi har nått den punkt där hyckleriet inte längre är möjligt",
+        "summary": "EU och flera andra länder röstade ner den klimatöverenskommelse som förhandlats fram under FN-mötet COP31. Finansieringen av klimatanpassningen liknar ett Ebberöds bank i global skala, skriver Sverker Sörlin.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sverker Sörlin: We have reached the point where hypocrisy is no longer possible",
+        "summary": "The EU and several other countries voted down the climate agreement negotiated at the UN meeting COP31. Financing climate adaptation resembles a Ebberöd bank on a global scale, writes Sverker Sörlin."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T17:01:18+01:00"
+      }
+    },
     {
       "id": "75c1e3938cfa",
       "schema_version": 1,
@@ -5370,33 +5397,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T10:16:00+01:00"
-      }
-    },
-    {
-      "id": "c3747cf04900",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/turistorten-hotas-av-hettan-kan-inte-langre-rora-sig-utomhus",
-      "guid": "https://www.dn.se/varlden/turistorten-hotas-av-hettan-kan-inte-langre-rora-sig-utomhus/",
-      "published_at": "2026-11-20T09:42:12+01:00",
-      "fetched_at": "2026-11-20T09:45:41+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/1263535e-4a11-4779-b4e5-e15ef06a7a50.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Turistorten hotas av hettan: ”Kan inte längre röra sig utomhus”",
-        "summary": "ANTALYA. Turister överger de turkiska turistorterna – på grund av klimatkrisen. Mitt under klimatmötet COP31 i Antalya ser restaurangägaren Ruhi Bal hur hans levebröd hotas efter ännu en sommar präglad av extremhetta och skyfall. – Jag har bott i Antalya nästan hela mitt liv.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Tourist resort threatened by heat: \"Can no longer move outdoors\"",
-        "summary": "ANTALYA. Tourists are abandoning Turkish resorts – due to the climate crisis. In the middle of the COP31 climate summit in Antalya, restaurant owner Ruhi Bal sees his livelihood threatened after yet another summer marked by extreme heat and cloudbursts. – I have lived in Antalya almost my whole life."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T09:45:59+01:00"
       }
     }
   ]

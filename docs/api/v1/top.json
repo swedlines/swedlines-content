@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:45:58+01:00",
+  "generated_at": "2026-11-23T17:01:22+01:00",
   "count": 30,
   "stories": [
     {
@@ -944,6 +944,107 @@
       ]
     },
     {
+      "id": "e40a3e9d66ed",
+      "source_count": 4,
+      "sources": [
+        "aftonbladet",
+        "expressen",
+        "di",
+        "sr"
+      ],
+      "first_published_at": "2026-11-23T13:37:18+01:00",
+      "last_published_at": "2026-11-23T16:57:27+01:00",
+      "lead": {
+        "id": "e40a3e9d66ed",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/mMR9G0/greta-thunberg-doms-for-aktioner-i-kopenhamn",
+        "guid": "https://www.aftonbladet.se/nyheter/a/mMR9G0/greta-thunberg-doms-for-aktioner-i-kopenhamn?utm_medium=rss",
+        "published_at": "2026-11-23T13:37:18+01:00",
+        "fetched_at": "2026-11-23T13:38:28+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/7cf79f50-ffd1-3ac4-960f-f824d1a92497?format=auto&s=8f478864e2ab724ab34e8bc0c874f45d3760fa8b&w=1000",
+        "sv": {
+          "title": "Greta Thunberg döms för aktioner i Köpenhamn",
+          "summary": "Den svenska aktivisten Greta Thunberg döms till böter för två fall av olaga intrång i Danmark.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Greta Thunberg sentenced for actions in Copenhagen",
+          "summary": "Swedish activist Greta Thunberg is fined for two cases of trespassing in Denmark."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T13:38:34+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "23ea9b39ba19",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/yz324R/greta-thunberg-doms-for-olaga-intrang",
+          "published_at": "2026-11-23T16:57:27+01:00",
+          "sv": {
+            "title": "Greta Thunberg döms för olaga intrång"
+          },
+          "en": {
+            "title": "Greta Thunberg convicted of unlawful intrusion"
+          }
+        },
+        {
+          "id": "87222b7d340d",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348302",
+          "published_at": "2026-11-23T13:44:00+01:00",
+          "sv": {
+            "title": "Greta Thunberg döms för olaga intrång"
+          },
+          "en": {
+            "title": "Greta Thunberg convicted of trespassing"
+          }
+        },
+        {
+          "id": "c39108f27ca4",
+          "source": "di",
+          "url": "https://www.di.se/live/greta-thunberg-doms-for-aktion-mot-borsjatte",
+          "published_at": "2026-11-23T13:41:19+01:00",
+          "sv": {
+            "title": "Greta Thunberg döms för aktion mot börsjätte"
+          },
+          "en": {
+            "title": "Greta Thunberg sentenced for action against stock exchange giant"
+          }
+        },
+        {
+          "id": "d9fbe92d9fcb",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=901a062b-d9fa-4139-afbb-7e0e9174d353",
+          "published_at": "2026-11-23T13:39:15+01:00",
+          "sv": {
+            "title": "Greta Thunberg döms i Danmark"
+          },
+          "en": {
+            "title": "Greta Thunberg convicted in Denmark"
+          }
+        },
+        {
+          "id": "e40a3e9d66ed",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/mMR9G0/greta-thunberg-doms-for-aktioner-i-kopenhamn",
+          "published_at": "2026-11-23T13:37:18+01:00",
+          "sv": {
+            "title": "Greta Thunberg döms för aktioner i Köpenhamn"
+          },
+          "en": {
+            "title": "Greta Thunberg sentenced for actions in Copenhagen"
+          }
+        }
+      ]
+    },
+    {
       "id": "ea15ee9d0fc4",
       "source_count": 4,
       "sources": [
@@ -1365,95 +1466,6 @@
           },
           "en": {
             "title": "Jensen Huang makes comeback as CEO"
-          }
-        }
-      ]
-    },
-    {
-      "id": "e40a3e9d66ed",
-      "source_count": 4,
-      "sources": [
-        "aftonbladet",
-        "expressen",
-        "di",
-        "sr"
-      ],
-      "first_published_at": "2026-11-23T13:37:18+01:00",
-      "last_published_at": "2026-11-23T13:44:00+01:00",
-      "lead": {
-        "id": "e40a3e9d66ed",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/mMR9G0/greta-thunberg-doms-for-aktioner-i-kopenhamn",
-        "guid": "https://www.aftonbladet.se/nyheter/a/mMR9G0/greta-thunberg-doms-for-aktioner-i-kopenhamn?utm_medium=rss",
-        "published_at": "2026-11-23T13:37:18+01:00",
-        "fetched_at": "2026-11-23T13:38:28+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/7cf79f50-ffd1-3ac4-960f-f824d1a92497?format=auto&s=8f478864e2ab724ab34e8bc0c874f45d3760fa8b&w=1000",
-        "sv": {
-          "title": "Greta Thunberg döms för aktioner i Köpenhamn",
-          "summary": "Den svenska aktivisten Greta Thunberg döms till böter för två fall av olaga intrång i Danmark.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Greta Thunberg sentenced for actions in Copenhagen",
-          "summary": "Swedish activist Greta Thunberg is fined for two cases of trespassing in Denmark."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T13:38:34+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "87222b7d340d",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348302",
-          "published_at": "2026-11-23T13:44:00+01:00",
-          "sv": {
-            "title": "Greta Thunberg döms för olaga intrång"
-          },
-          "en": {
-            "title": "Greta Thunberg convicted of trespassing"
-          }
-        },
-        {
-          "id": "c39108f27ca4",
-          "source": "di",
-          "url": "https://www.di.se/live/greta-thunberg-doms-for-aktion-mot-borsjatte",
-          "published_at": "2026-11-23T13:41:19+01:00",
-          "sv": {
-            "title": "Greta Thunberg döms för aktion mot börsjätte"
-          },
-          "en": {
-            "title": "Greta Thunberg sentenced for action against stock exchange giant"
-          }
-        },
-        {
-          "id": "d9fbe92d9fcb",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=901a062b-d9fa-4139-afbb-7e0e9174d353",
-          "published_at": "2026-11-23T13:39:15+01:00",
-          "sv": {
-            "title": "Greta Thunberg döms i Danmark"
-          },
-          "en": {
-            "title": "Greta Thunberg convicted in Denmark"
-          }
-        },
-        {
-          "id": "e40a3e9d66ed",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/mMR9G0/greta-thunberg-doms-for-aktioner-i-kopenhamn",
-          "published_at": "2026-11-23T13:37:18+01:00",
-          "sv": {
-            "title": "Greta Thunberg döms för aktioner i Köpenhamn"
-          },
-          "en": {
-            "title": "Greta Thunberg sentenced for actions in Copenhagen"
           }
         }
       ]
