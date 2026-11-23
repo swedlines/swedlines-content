@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:36:26+01:00",
+  "generated_at": "2026-11-23T21:45:51+01:00",
   "count": 200,
   "items": [
     {
@@ -191,6 +191,39 @@
       }
     },
     {
+      "id": "a77bb4270898",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/susie-paivarinta-halkade-och-brot-larbenet-kanske-kan-sitta-i-rullstol.567301e0-2f2e-5dd8-8447-e25dee84ec16",
+      "guid": "567301e0-2f2e-5dd8-8447-e25dee84ec16",
+      "published_at": "2026-11-23T21:17:28+01:00",
+      "fetched_at": "2026-11-23T21:45:45+01:00",
+      "category": "other",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: breaking-GP",
+        "Tagg: Susie Päivärinta",
+        "Tagg: Artister"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/5af79fb9-1b06-31b5-8254-b434b58d98da",
+      "sv": {
+        "title": "Lili och Susie-Susie halkade och bröt lårbenet",
+        "summary": "Susie Päivärintas var ute på en hundpromenad när hon halkade och blev liggande i snön.: ”Kanske kan sitta i rullstol”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lili and Susie-Susie slipped and broke thighbone",
+        "summary": "Susie Päivärintas was out on a dog walk when she slipped and lay in the snow: \"Maybe she can sit in a wheelchair\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:45:48+01:00"
+      }
+    },
+    {
       "id": "4e1d85ff1df8",
       "schema_version": 1,
       "source": "aftonbladet",
@@ -215,6 +248,85 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T21:15:56+01:00"
+      }
+    },
+    {
+      "id": "e394a3b6061f",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/vastsverige/elva-julmarknader-att-besoka-i-och-runt-goteborg.d76ba8b0-ee5c-59ee-ab28-751115908cd3",
+      "guid": "d76ba8b0-ee5c-59ee-ab28-751115908cd3",
+      "published_at": "2026-11-23T21:09:30+01:00",
+      "fetched_at": "2026-11-23T21:45:45+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Västsverige",
+        "Tagg: breaking-GP",
+        "Tagg: Hjälp mig - BEHOV",
+        "Tagg: Liseberg",
+        "Tagg: Haga",
+        "Tagg: Gunnebo",
+        "Tagg: Marknader",
+        "Tagg: Nääs fabriker",
+        "Tagg: Tjolöholms slott",
+        "Tagg: Ostindiefararen Götheborg",
+        "Tagg: Göteborg",
+        "Tagg: Nordstan",
+        "Tagg: Jul",
+        "Tagg: Botaniska trädgården",
+        "Tagg: Djur",
+        "Tagg: Julmarknad"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/31c351fd-244e-386e-b475-852b2725edee",
+      "sv": {
+        "title": "11 julmarknader att besöka i och runt Göteborg",
+        "summary": "Från myllret i Haga till julmys i slottsmiljö.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "11 Christmas markets to visit in and around Göteborg",
+        "summary": "From the bustle of Haga to Christmas coziness in castle settings."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:45:48+01:00"
+      }
+    },
+    {
+      "id": "d58265c38a81",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/orgryte-is/snabbanalys-ois-katten-har-oandligt-med-liv-vilka-krigare.bb17f5a3-7a59-5684-b24a-d32ce2fc55f6",
+      "guid": "bb17f5a3-7a59-5684-b24a-d32ce2fc55f6",
+      "published_at": "2026-11-23T21:09:24+01:00",
+      "fetched_at": "2026-11-23T21:45:45+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Örgryte IS",
+        "Tagg: Örgryte IS",
+        "Tagg: Öis",
+        "Tagg: Tobias Sana",
+        "Tagg: Mikael Dyrestam"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/165ee13e-b583-3764-8b95-84602110826a",
+      "sv": {
+        "title": "”Öis-katten har oändligt med liv – vilka rödblå krigare”",
+        "summary": "Hoppet om nytt allsvenskt kontrakt lever för Örgryte.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"The Öis cat has endless life – what red-and-blue warriors\"",
+        "summary": "Örgryte's hope of a new Allsvenskan contract lives on."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-23T21:45:48+01:00"
       }
     },
     {
@@ -5331,82 +5443,6 @@
       "en": {
         "title": "Head-on collision with bus",
         "summary": "A bus and a passenger car have collided head-on in Anneberg in Nässjö Municipality."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T15:10:54+01:00"
-      }
-    },
-    {
-      "id": "3d319c8dccdc",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/1vnJqJ/huang-ater-vd-for-nvidia",
-      "guid": "https://www.svd.se/a/1vnJqJ/huang-ater-vd-for-nvidia?utm_medium=rss",
-      "published_at": "2026-11-23T15:03:30+01:00",
-      "fetched_at": "2026-11-23T15:10:45+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/90d97f63-3575-360f-b3f2-e996b7cdc633?format=auto&s=301a8cc701817be4be23af55020413357e98110a&w=1000",
-      "sv": {
-        "title": "Jensen Huang tillbaka som vd för Nvidia",
-        "summary": "Jensen Huang återinsätts som vd för den amerikanska chiptillverkaren Nvidia, enligt ett…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jensen Huang back as CEO of Nvidia",
-        "summary": "Jensen Huang is reinstated as CEO of the American chipmaker Nvidia, according to a…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T15:10:54+01:00"
-      }
-    },
-    {
-      "id": "183548906436",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80223",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80223&utm_medium=rss",
-      "published_at": "2026-11-23T15:02:56+01:00",
-      "fetched_at": "2026-11-23T15:10:45+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Jensen Huang tillbaka som vd – Nvidia rusar"
-      },
-      "en": {
-        "title": "Jensen Huang back as CEO – Nvidia surges"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T15:10:54+01:00"
-      }
-    },
-    {
-      "id": "af1c31969ced",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7362fba4-f1f0-4095-be9c-5c14a8215909",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7362fba4-f1f0-4095-be9c-5c14a8215909",
-      "published_at": "2026-11-23T15:02:12+01:00",
-      "fetched_at": "2026-11-23T15:10:47+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Jensen Huang tillbaka som vd",
-        "summary": "Ta över Nvidia igen efter skandalerna",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jensen Huang back as CEO",
-        "summary": "Takes over Nvidia again after the scandals"
       },
       "translation": {
         "status": "done",
