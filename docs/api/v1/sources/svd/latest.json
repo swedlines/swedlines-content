@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-24T07:31:18+01:00",
+  "generated_at": "2026-11-24T07:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dc3f7099e626",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80239",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80239&utm_medium=rss",
+      "published_at": "2026-11-24T07:31:28+01:00",
+      "fetched_at": "2026-11-24T07:45:41+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Kvinna gripen misstänkt för mordförsök i Stockholm"
+      },
+      "en": {
+        "title": "Woman arrested on suspicion of attempted murder in Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T07:45:50+01:00"
+      }
+    },
     {
       "id": "6eeeca227d84",
       "schema_version": 1,
@@ -5219,33 +5242,6 @@
       "en": {
         "title": "Give us more who refuse to conform",
         "summary": "There is something seductive about people who refuse to conform to others."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T22:01:22+01:00"
-      }
-    },
-    {
-      "id": "133d16a457f1",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/KL3KVX/ukraina-anvande-dronare-som-relastationer-i-attacken-pa-kertjbron",
-      "guid": "https://www.svd.se/a/KL3KVX/ukraina-anvande-dronare-som-relastationer-i-attacken-pa-kertjbron?utm_medium=rss",
-      "published_at": "2026-11-20T21:55:31+01:00",
-      "fetched_at": "2026-11-20T22:01:14+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/93b22ab2-a7c4-3e9b-8fd8-1af78d83f661?format=auto&s=7626e53aefb398fc646043280fa5c246a2210cdd&w=1000",
-      "sv": {
-        "title": "Efter attacken: ”Tar år att bygga upp den”",
-        "summary": "Ukraina ska ha använt drönare som relästationer för att slå ut Kertjbron och kringgå begränsningar i…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the attack: \"It will take years to rebuild it\"",
-        "summary": "Ukraine is said to have used drones as relay stations to knock out the Kerch bridge and get around restrictions in…"
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-11-24T07:31:18+01:00",
+  "generated_at": "2026-11-24T07:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ff3cd8e274b1",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/emil-fasth-kastades-in-i-glodheta-matchen-hoppas-pa-ny-start-mot-sirius.550534a5-1e32-50c8-9284-52144cb57e23",
+      "guid": "550534a5-1e32-50c8-9284-52144cb57e23",
+      "published_at": "2026-11-24T07:14:46+01:00",
+      "fetched_at": "2026-11-24T07:45:44+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "IFK Göteborg",
+        "Tagg: IFK Göteborg"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/60ae7cc7-b969-3e0b-8a27-29add056a0c0",
+      "sv": {
+        "title": "Emil Fasth hoppas på ny chans i avgörandet",
+        "summary": "Mittbackslöftet kastades in från start i glödheta matchen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Emil Fasth hopes for a new chance in the decider",
+        "summary": "The centre-back's header was thrown in from the start of the scorching match."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T07:45:50+01:00"
+      }
+    },
     {
       "id": "ed555f350f89",
       "schema_version": 1,
@@ -5606,32 +5637,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T16:16:01+01:00"
-      }
-    },
-    {
-      "id": "4abdd3a50b50",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/dromvarvningar-infor-nasta-ar-hade-varit-klockren",
-      "guid": "1e0f9139-a70a-471c-b521-42a30bac41f1",
-      "published_at": "2026-11-18T15:59:01+01:00",
-      "fetched_at": "2026-11-18T16:01:22+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Drömvärvningar inför nästa år: ”Hade varit klockren”",
-        "summary": "Denna landslagsvecka i november tar vi ett samlat grepp om damlagets säsong. Är tredjeplatsen ett misslyckande eller en framgång? Dessutom får alla välja en drömvärvning som skulle lyfta MFF:s herrlag ordentligt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dream signings for next year: “Would have been spot on”",
-        "summary": "This national team week in November we take a comprehensive look at the women's team's season. Is third place a failure or a success? In addition, everyone gets to choose a dream signing who would lift MFF's men's team significantly."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:01:35+01:00"
       }
     }
   ]

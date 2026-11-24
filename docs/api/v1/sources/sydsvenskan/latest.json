@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T07:31:18+01:00",
+  "generated_at": "2026-11-24T07:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8b78271cc62c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/god-morgon-malmo-nu-borjar-vattumannens-tidsalder-nastan",
+      "guid": "d066272b-8f62-4743-9160-97764849e54d",
+      "published_at": "2026-11-24T07:38:52+01:00",
+      "fetched_at": "2026-11-24T07:45:45+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/39cc8ccc-7a25-4127-9f5b-6a6c90954868.jpeg?width=600",
+      "sv": {
+        "title": "God morgon Malmö – nu börjar Vattumannens tidsålder. Nästan.",
+        "summary": "Världsfred, kärlek och harmoni. Är det äntligen dags? Enligt en närmare 60 år gammal hippielåt ligger himlakropparna i dag nästan exakt rätt. Dessutom bjuds Malmöborna på en supermåne.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Good morning Malmö – the Age of Aquarius begins now. Almost.",
+        "summary": "World peace, love and harmony. Is it finally time? According to a nearly 60-year-old hippie song, the celestial bodies are almost exactly in place today. Malmö residents are also treated to a supermoon."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T07:45:50+01:00"
+      }
+    },
     {
       "id": "dfa573623203",
       "schema_version": 1,
@@ -5223,33 +5250,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T20:45:55+01:00"
-      }
-    },
-    {
-      "id": "0368dfb64de0",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/trump-efter-mote-med-putin-vill-avsluta-kriget",
-      "guid": "4718dca8-eff6-478d-b565-54500959fcf2",
-      "published_at": "2026-11-20T20:20:14+01:00",
-      "fetched_at": "2026-11-20T20:31:16+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/2ae22c81-6afa-4616-b63a-9f8e6de5c9ac.jpg?width=600",
-      "sv": {
-        "title": "Trump efter möte med Putin: Vill avsluta kriget",
-        "summary": "USA:s president Donald Trump håller sin första presskonferens efter det historiska mötet i Kina.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump after meeting Putin: Wants to end the war",
-        "summary": "US President Donald Trump is holding his first press conference after the historic meeting in China."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T20:31:20+01:00"
       }
     }
   ]
