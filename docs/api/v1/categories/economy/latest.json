@@ -1,7 +1,115 @@
 {
-  "generated_at": "2026-11-24T15:46:03+01:00",
+  "generated_at": "2026-11-24T16:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5bd5c00ae4d2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/naringsliv/kraftverk-for-tre-miljarder-ska-byggas-i-malmo-kan-fa-ner-elpriset",
+      "guid": "fe7f07dd-65a9-402a-9dbe-af18d5b34c26",
+      "published_at": "2026-11-24T15:54:34+01:00",
+      "fetched_at": "2026-11-24T16:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0376c2f0-47e0-419e-8b46-c133c1c8bf90.jpeg?width=600",
+      "sv": {
+        "title": "Kraftverk för tre miljarder ska byggas i Malmö – kan få ner elpriset",
+        "summary": "Eon får 320 miljoner i statligt stöd för att bygga ett nytt kraftvärmeverk i Oljehamnen i Malmö. Tremiljardersbygget ska kunna producera el för uppemot 10 000 villor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Power plant worth three billion to be built in Malmö – could lower electricity prices",
+        "summary": "Eon receives SEK 320 million in state aid to build a new combined heat and power plant at Oljehamnen in Malmö. The multi-billion project is expected to produce electricity for up to 10,000 villas."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T16:01:23+01:00"
+      }
+    },
+    {
+      "id": "a5016b7c5508",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/anthropic-rasar-jensen-huang-spokar",
+      "guid": "ede3ce8d-bd7f-4122-855d-7d9fc2bf0540",
+      "published_at": "2026-11-24T15:52:15+01:00",
+      "fetched_at": "2026-11-24T16:01:16+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e0d527a1-277b-4be2-bb87-c3ba7aed3b6b.jpeg?width=600",
+      "sv": {
+        "title": "Anthropic rasar – Jensen Huang spökar",
+        "summary": "Jensen Huangs comeback har utlöst ett glädjerus på börsen. Men för börsnykomlingen Anthropic är händelsen en säljsignal. Under tisdagen rasar Dario Amodeis AI-skapelse för första gången under teckningskursen på 83 dollar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic plunges – Jensen Huang haunts",
+        "summary": "Jensen Huang's comeback has triggered a stock market euphoria. But for newly listed Anthropic, the event is a sell signal. On Tuesday, Dario Amodei's AI creation falls below the subscription price of 83 dollars for the first time."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T16:01:23+01:00"
+      }
+    },
+    {
+      "id": "167f0b62ad91",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ledare/andersson-kraschar-se-upp-for-s-spinn",
+      "guid": "f8eaccfb-fd6a-4629-8f28-6bd4569a712a",
+      "published_at": "2026-11-24T15:45:15+01:00",
+      "fetched_at": "2026-11-24T16:01:16+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/584c0f1b-ac4e-4fd6-9112-8602d3fea048.jpeg?width=600",
+      "sv": {
+        "title": "Andersson kraschar – se upp för S-spinn",
+        "summary": "S-ledaren talar om ”Tidö 2”, enbart för att höja priset för centerpartisternas vägval högerut. Man ska vara medveten om att detta bara är ett sätt för S att blanda bort korten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Andersson crashes – watch out for S-spin",
+        "summary": "The S leader talks about ”Tidö 2” merely to raise the price of the Centre Party's rightward choice. One should be aware that this is only a way for S to muddy the waters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T16:01:23+01:00"
+      }
+    },
+    {
+      "id": "d6fae26e5b07",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/investeringschefen-borsoron-storre-an-nvidia",
+      "guid": "8e906d6c-1e0c-43dd-890e-a582876c0865",
+      "published_at": "2026-11-24T15:44:56+01:00",
+      "fetched_at": "2026-11-24T16:01:16+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/93c462d5-c89c-4899-b5cf-02ca136a3410.png?width=600",
+      "sv": {
+        "title": "Investeringschefen: Börsoron större än Nvidia",
+        "summary": "Donald Trump får för stort utrymme i Nvidia-dramatiken och vill ta åt sig äran för Jensen Huangs comeback. Det hävdar Erik Lundkvist, investeringschef på fondbolaget Coeli. Bakom börsoron ligger något större: Räntor, vinsttopp och stormaktskampen om AI, hävdar han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Investment chief: stock market turmoil bigger than Nvidia",
+        "summary": "Donald Trump gets too much space in the Nvidia drama and wants to take credit for Jensen Huang's comeback. That is the claim of Erik Lundkvist, investment chief at the fund company Coeli. Behind the market turmoil lies something bigger: interest rates, peak profits and the great-power struggle over AI, he argues."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T16:01:23+01:00"
+      }
+    },
     {
       "id": "7a21550eae71",
       "schema_version": 1,
@@ -5183,116 +5291,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T19:45:54+01:00"
-      }
-    },
-    {
-      "id": "95ed2234c251",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kallor-nvidia-styrelsen-rundade-hogsta-ledningen",
-      "guid": "5c8044dc-8122-44f2-8b8e-ac5b7b7b700e",
-      "published_at": "2026-11-23T19:09:52+01:00",
-      "fetched_at": "2026-11-23T19:15:53+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/080cce7a-cbad-4d3f-b86a-e83cc165e29b.jpeg?width=600",
-      "sv": {
-        "title": "Källor: Nvidia-styrelsen rundade högsta ledningen",
-        "summary": "Nvidias högsta ledning blev inte rådfrågad om beslutet att återinsätta Jensen Huang. Enligt källor till Bloomberg presenterade styrelsen draget i sista minuten – bland annat efter påtryckningar från Donald Trump.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sources: Nvidia board overruled top management",
-        "summary": "Nvidia's top management was not consulted about the decision to reinstate Jensen Huang. According to sources speaking to Bloomberg, the board presented the move at the last minute – partly after pressure from Donald Trump."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T19:15:58+01:00"
-      }
-    },
-    {
-      "id": "97d26b3c76c1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/trafikverkets-varning-nya-hot-staller-om-kraven-pa-infrastrukturen",
-      "guid": "d9abd8ea-bd94-47f4-885e-bfc599e8d281",
-      "published_at": "2026-11-23T18:57:17+01:00",
-      "fetched_at": "2026-11-23T19:15:53+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/567cb340-4104-455a-b405-db6a8927357e.jpeg?width=600",
-      "sv": {
-        "title": "Trafikverkets varning: Nya hot ställer om kraven på infrastrukturen",
-        "summary": "Cyberhot, hybridkrig, sabotage och extremväder. Trafikverket målar upp en mörk bild i sin nya omvärldsanalys – och ser en utveckling som kommer att ställa helt nya krav på svensk infrastruktur.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Transport Administration warns: New threats call for new infrastructure requirements",
-        "summary": "Cyber threats, hybrid warfare, sabotage and extreme weather. The Transport Administration paints a dark picture in its new environmental analysis – and sees a development that will place entirely new demands on Swedish infrastructure."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T19:15:58+01:00"
-      }
-    },
-    {
-      "id": "c9f6a73379f9",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/jattedepa-ska-losa-jarnvagens-dolda-flaskhals",
-      "guid": "ecef9682-2f6b-47bd-86d6-d51cdfa18f34",
-      "published_at": "2026-11-23T18:56:51+01:00",
-      "fetched_at": "2026-11-23T19:15:53+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/af11acee-548e-4e55-9823-79f520a622e1.jpeg?width=600",
-      "sv": {
-        "title": "Jättedepå ska lösa järnvägens dolda flaskhals",
-        "summary": "SJ och Jernhusen pumpar just nu in miljarder i det svenska järnvägssystemet för att lösa olika flaskhalsar. Inom kort flyttar tågbolaget in i vad som blir norra Europas största tågdepå. Men trots miljardregnet räcker kapaciteten inte till.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Giant depot to solve the railway's hidden bottleneck",
-        "summary": "SJ and Jernhusen are currently pumping billions into the Swedish railway system to resolve various bottlenecks. Shortly, the train operator will move into what will become the largest train depot in Northern Europe. But despite the billions, the capacity is still not enough."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T19:15:58+01:00"
-      }
-    },
-    {
-      "id": "8f7d04455471",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5HjCb53bSpriLskGSV4EKW/elchocken-tvingar-kroegarparet-att-vinterstaenga-restaurangen",
-      "guid": "5HjCb53bSpriLskGSV4EKW",
-      "published_at": "2026-11-23T18:52:08+01:00",
-      "fetched_at": "2026-11-23T19:15:52+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Efter fem"
-      ],
-      "sv": {
-        "title": "Elchocken tvingar krögarparet att stänga – hela vintern",
-        "summary": "De höga elpriserna slår hårt mot södra Sverige. På gästgiveriet i Skivarp har Jeanette och Johan Bohman nu fattat ett tungt beslut: Att hålla restaurangköket stängt under vintern. – Det är vårt kök som drar enorma mängder el.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Electricity shock forces restaurant couple to close – for the entire winter",
-        "summary": "High electricity prices are hitting southern Sweden hard. At the Skivarp coaching inn, Jeanette and Johan Bohman have made a difficult decision: to keep the restaurant kitchen closed during the winter. – It is our kitchen that draws enormous amounts of electricity."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T19:15:58+01:00"
       }
     }
   ]

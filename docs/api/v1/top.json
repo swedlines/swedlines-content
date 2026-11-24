@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:46:03+01:00",
+  "generated_at": "2026-11-24T16:01:26+01:00",
   "count": 30,
   "stories": [
     {
@@ -1196,6 +1196,82 @@
       ]
     },
     {
+      "id": "ac8d6db95ebc",
+      "source_count": 3,
+      "sources": [
+        "sydsvenskan",
+        "svd",
+        "dn"
+      ],
+      "first_published_at": "2026-11-24T15:30:19+01:00",
+      "last_published_at": "2026-11-24T15:57:30+01:00",
+      "lead": {
+        "id": "ac8d6db95ebc",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/sport/beskedet-efter-kaosfinalen-senegal-far-titeln",
+        "guid": "9da615ad-3dac-4fad-9d6d-2e0737b5a766",
+        "published_at": "2026-11-24T15:30:19+01:00",
+        "fetched_at": "2026-11-24T15:31:05+01:00",
+        "category": "sports",
+        "image_url": "https://static.bonniernews.se/ba/cd676be6-2a9a-44be-b7f7-fbc55c7ad661.jpg?width=600",
+        "sv": {
+          "title": "Beskedet efter kaosfinalen – Senegal får titeln",
+          "summary": "Finalen slutade i kaos och förvirring – och nu, nästan ett år senare, har Idrottens skiljedomstol (Cas) kommit med sitt beslut: Senegal tilldelas segern i Afrikanska mästerskapen 2025.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Verdict after chaotic final – Senegal gets the title",
+          "summary": "The final ended in chaos and confusion – and now, almost a year later, the Court of Arbitration for Sport (Cas) has issued its ruling: Senegal is awarded victory in the 2025 Africa Cup of Nations."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T15:31:10+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "79bc8f99616f",
+          "source": "dn",
+          "url": "https://www.dn.se/sport/beskedet-efter-kaosfinalen-senegal-far-titeln",
+          "published_at": "2026-11-24T15:57:30+01:00",
+          "sv": {
+            "title": "Beskedet efter kaosfinalen – Senegal får titeln"
+          },
+          "en": {
+            "title": "Verdict after chaotic final – Senegal gets the title"
+          }
+        },
+        {
+          "id": "3f907a4949a1",
+          "source": "svd",
+          "url": "https://www.svd.se/a/BrRaE7/senegal-vinner-afrikanska-masterskapet-i-fotboll",
+          "published_at": "2026-11-24T15:36:58+01:00",
+          "sv": {
+            "title": "Ett år efter kaosfinalen – Senegal får titeln"
+          },
+          "en": {
+            "title": "One year after the chaotic final – Senegal gets the title"
+          }
+        },
+        {
+          "id": "ac8d6db95ebc",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/beskedet-efter-kaosfinalen-senegal-far-titeln",
+          "published_at": "2026-11-24T15:30:19+01:00",
+          "sv": {
+            "title": "Beskedet efter kaosfinalen – Senegal får titeln"
+          },
+          "en": {
+            "title": "Verdict after chaotic final – Senegal gets the title"
+          }
+        }
+      ]
+    },
+    {
       "id": "73b1b5d8aa2a",
       "source_count": 3,
       "sources": [
@@ -2333,69 +2409,6 @@
           },
           "en": {
             "title": "Supreme Court: \"E-scooter companies must have police permits\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "ac8d6db95ebc",
-      "source_count": 2,
-      "sources": [
-        "sydsvenskan",
-        "svd"
-      ],
-      "first_published_at": "2026-11-24T15:30:19+01:00",
-      "last_published_at": "2026-11-24T15:36:58+01:00",
-      "lead": {
-        "id": "ac8d6db95ebc",
-        "schema_version": 1,
-        "source": "sydsvenskan",
-        "url": "https://www.sydsvenskan.se/sport/beskedet-efter-kaosfinalen-senegal-far-titeln",
-        "guid": "9da615ad-3dac-4fad-9d6d-2e0737b5a766",
-        "published_at": "2026-11-24T15:30:19+01:00",
-        "fetched_at": "2026-11-24T15:31:05+01:00",
-        "category": "sports",
-        "image_url": "https://static.bonniernews.se/ba/cd676be6-2a9a-44be-b7f7-fbc55c7ad661.jpg?width=600",
-        "sv": {
-          "title": "Beskedet efter kaosfinalen – Senegal får titeln",
-          "summary": "Finalen slutade i kaos och förvirring – och nu, nästan ett år senare, har Idrottens skiljedomstol (Cas) kommit med sitt beslut: Senegal tilldelas segern i Afrikanska mästerskapen 2025.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Verdict after chaotic final – Senegal gets the title",
-          "summary": "The final ended in chaos and confusion – and now, almost a year later, the Court of Arbitration for Sport (Cas) has issued its ruling: Senegal is awarded victory in the 2025 Africa Cup of Nations."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T15:31:10+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "3f907a4949a1",
-          "source": "svd",
-          "url": "https://www.svd.se/a/BrRaE7/senegal-vinner-afrikanska-masterskapet-i-fotboll",
-          "published_at": "2026-11-24T15:36:58+01:00",
-          "sv": {
-            "title": "Ett år efter kaosfinalen – Senegal får titeln"
-          },
-          "en": {
-            "title": "One year after the chaotic final – Senegal gets the title"
-          }
-        },
-        {
-          "id": "ac8d6db95ebc",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sport/beskedet-efter-kaosfinalen-senegal-far-titeln",
-          "published_at": "2026-11-24T15:30:19+01:00",
-          "sv": {
-            "title": "Beskedet efter kaosfinalen – Senegal får titeln"
-          },
-          "en": {
-            "title": "Verdict after chaotic final – Senegal gets the title"
           }
         }
       ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T15:46:03+01:00",
+  "generated_at": "2026-11-24T16:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "358385fd651a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/hemska-hemligheten-i-avstangda-kylskapet",
+      "guid": "https://www.expressen.se/nyheter/sverige/hemska-hemligheten-i-avstangda-kylskapet/",
+      "published_at": "2026-11-24T15:53:23+01:00",
+      "fetched_at": "2026-11-24T16:01:16+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Hemska hemligheten i avstängda kylskåpet",
+        "summary": "Ett par i 70-årsåldern har åtalats för djurplågeri efter att tre av deras katter var i så dåligt skick att de behövde avlivas. I deras garage fanns en avstängd kyl som stank så kraftigt att polisen tvingades bära ansiktsmask. I den låg döda, vissa av dem förmultnade, katter kryllande av maskar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The awful secret in the switched-off fridge",
+        "summary": "A couple in their 70s have been charged with animal cruelty after three of their cats were in such poor condition that they had to be put down. In their garage was a switched-off fridge that stank so badly that police had to wear face masks. Inside it lay dead cats, some of them decomposed, crawling with maggots."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T16:01:23+01:00"
+      }
+    },
     {
       "id": "251000b0c435",
       "schema_version": 1,
@@ -5399,35 +5425,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T19:15:56+01:00"
-      }
-    },
-    {
-      "id": "89a46d648424",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2kDyQQylAk7IfLQBHCSZmK/uppgifter-kvinna-knivmoerdad-pa-jobbet-naerstaende-gripen",
-      "guid": "2kDyQQylAk7IfLQBHCSZmK",
-      "published_at": "2026-11-19T18:47:50+01:00",
-      "fetched_at": "2026-11-19T19:01:11+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Brott och straff"
-      ],
-      "sv": {
-        "title": "Uppgifter: Kvinna knivmördad på jobbet – närstående gripen",
-        "summary": "Polisen i Enköping larmades strax före klockan 21 på onsdagen. Enligt uppgifter till TV4 Nyheterna ska insatsen ha börjat som ett ärende utan brottsmisstankar. Polisen ska ha sökt efter en man. När patrullerna åkte till mannens arbetsplats hittade de en död kvinna, som också arbetade där.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Reports: Woman stabbed to death at work – relative arrested",
-        "summary": "Police in Enköping were alerted shortly before 9 pm on Wednesday. According to TV4 Nyheterna, the operation reportedly began as a case with no suspected crime. Police reportedly searched for a man. When patrols went to the man's workplace, they found a dead woman who also worked there."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:01:19+01:00"
       }
     }
   ]
