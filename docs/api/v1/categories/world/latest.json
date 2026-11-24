@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T02:45:49+01:00",
+  "generated_at": "2026-11-24T03:01:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bf29c6449a3c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/nya-chocksiffror-om-antalet-doda-ryssar-i-kriget",
+      "guid": "https://www.expressen.se/nyheter/varlden/nya-chocksiffror-om-antalet-doda-ryssar-i-kriget/",
+      "published_at": "2026-11-24T02:44:59+01:00",
+      "fetched_at": "2026-11-24T03:01:09+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Nya chocksiffror om antalet döda ryssar i kriget",
+        "summary": "De ryska förlusterna i kriget är betydligt högre än man tidigare trott, enligt nya bedömningar från ryska exilmedierna Meduza och Mediazona. Över 700 000 ryska soldater uppges ha dödats.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New shocking figures on the number of Russians killed in the war",
+        "summary": "Russian losses in the war are significantly higher than previously thought, according to new assessments from the Russian exile media Meduza and Mediazona. More than 700,000 Russian soldiers are reported to have been killed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T03:01:12+01:00"
+      }
+    },
     {
       "id": "1f0ecd654234",
       "schema_version": 1,
@@ -5317,33 +5343,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T00:01:18+01:00"
-      }
-    },
-    {
-      "id": "c14e4fef9d6b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/9BvQrM/flodhasten-fionas-dod-vacker-kanslor",
-      "guid": "https://www.svd.se/a/9BvQrM/flodhasten-fionas-dod-vacker-kanslor?utm_medium=rss",
-      "published_at": "2026-11-21T22:48:54+01:00",
-      "fetched_at": "2026-11-21T23:01:08+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/870d9f8a-3999-3dc9-8108-0661453c1d4a?format=auto&s=a45171835406fc73dd98bcbcd82964dc9d64de49&w=1000",
-      "sv": {
-        "title": "Kända flodhästens död väcker ilska",
-        "summary": "Flodhästen Fiona dog efter att ha svalt en stickad mössa ett barn kastat in i hennes inhägnad.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Famous hippo's death sparks anger",
-        "summary": "Hippo Fiona died after swallowing a knitted hat that a child had thrown into her enclosure."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T23:01:14+01:00"
       }
     }
   ]
