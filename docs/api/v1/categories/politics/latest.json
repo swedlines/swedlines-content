@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T16:31:12+01:00",
+  "generated_at": "2026-11-24T16:40:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "20bae1b33757",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/R1RM7O/magdalena-andersson-ser-inga-forutsattningar",
+      "guid": "https://www.aftonbladet.se/nyheter/a/R1RM7O/magdalena-andersson-ser-inga-forutsattningar?utm_medium=rss",
+      "published_at": "2026-11-24T16:05:46+01:00",
+      "fetched_at": "2026-11-24T16:40:42+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/908c0243-90f4-3cf7-bfb0-aabb49ae9a9b?format=auto&s=4e3db86804244de5ca72a392053d6e63bdac6ccf&w=1000",
+      "sv": {
+        "title": "Magdalena Andersson om V: ”Röst på Tidö 2”",
+        "summary": "S-ledaren i Studio Ett",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Magdalena Andersson on V: ”Vote for Tidö 2”",
+        "summary": "The S leader in Studio Ett"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T16:40:52+01:00"
+      }
+    },
     {
       "id": "6ad9a85025ea",
       "schema_version": 1,
@@ -5335,32 +5362,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T19:45:54+01:00"
-      }
-    },
-    {
-      "id": "ddfdf83b46f5",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347940",
-      "guid": "rss:sr.se/article/9347940",
-      "published_at": "2026-11-22T19:03:00+01:00",
-      "fetched_at": "2026-11-22T19:15:41+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Anderssons elva punkter till Vänsterpartiet",
-        "summary": "Socialdemokraterna, Centerpartiet och Miljöpartiet erbjuder Vänsterpartiet ett startpaket med elva reformer inför fortsatta förhandlingar. Här är de elva punkterna som Magdalena Andersson listar. Lägre bostadskostnader med hyresrabatt och nej till marknadshyror. En omfattande tandvårdsreform.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Andersson's eleven points to the Left Party",
-        "summary": "The Social Democrats, the Centre Party and the Green Party are offering the Left Party a starter package of eleven reforms ahead of further negotiations. Here are the eleven points that Magdalena Andersson lists. Lower housing costs with rent discounts and no to market rents. A comprehensive dental care reform."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T19:15:49+01:00"
       }
     }
   ]

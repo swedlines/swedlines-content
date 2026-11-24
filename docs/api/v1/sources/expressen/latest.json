@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T16:31:12+01:00",
+  "generated_at": "2026-11-24T16:40:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7d383cb0a902",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=9971c782-c82a-4af1-9b68-129493fe46b4",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9971c782-c82a-4af1-9b68-129493fe46b4",
+      "published_at": "2026-11-24T16:32:15+01:00",
+      "fetched_at": "2026-11-24T16:40:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Bortrövad 15-åring fritagen av polis",
+        "summary": "Fritagen av Polis • Flera gripna",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Abducted 15-year-old freed by police",
+        "summary": "Freed by police • Several arrested"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T16:40:52+01:00"
+      }
+    },
     {
       "id": "358385fd651a",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T04:45:47+01:00"
-      }
-    },
-    {
-      "id": "eca187df4aaa",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trumpadministrationen-slapper-material-om-bigfoot",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumpadministrationen-slapper-material-om-bigfoot/",
-      "published_at": "2026-11-21T04:04:32+01:00",
-      "fetched_at": "2026-11-21T04:15:48+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trumpadministrationen släpper material om Bigfoot",
-        "summary": "Trumpadministrationen har offentliggjort material om Bigfoot. Efter årtionden av tystnad släpps tre dokument om den mytiska figuren. Där finns detaljer om påstådda möten med den håriga varelsen från 1940- till 1980-talet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump administration releases material on Bigfoot",
-        "summary": "The Trump administration has published material on Bigfoot. After decades of silence, three documents about the mythical figure are being released. They contain details of alleged encounters with the hairy creature from the 1940s to the 1980s."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T04:15:52+01:00"
       }
     }
   ]

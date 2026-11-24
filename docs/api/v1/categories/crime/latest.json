@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T16:31:12+01:00",
+  "generated_at": "2026-11-24T16:40:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7d383cb0a902",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=9971c782-c82a-4af1-9b68-129493fe46b4",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9971c782-c82a-4af1-9b68-129493fe46b4",
+      "published_at": "2026-11-24T16:32:15+01:00",
+      "fetched_at": "2026-11-24T16:40:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Bortrövad 15-åring fritagen av polis",
+        "summary": "Fritagen av Polis • Flera gripna",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Abducted 15-year-old freed by police",
+        "summary": "Freed by police • Several arrested"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T16:40:52+01:00"
+      }
+    },
     {
       "id": "aeba3948f57f",
       "schema_version": 1,
@@ -5397,33 +5423,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T19:31:05+01:00"
-      }
-    },
-    {
-      "id": "876a36264800",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/QroOnW/fyra-domda-for-overgrepp-i-brittiskt-pelicot-fall",
-      "guid": "https://www.svd.se/a/QroOnW/fyra-domda-for-overgrepp-i-brittiskt-pelicot-fall?utm_medium=rss",
-      "published_at": "2026-11-19T19:05:20+01:00",
-      "fetched_at": "2026-11-19T19:15:42+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/83b7cc9f-c964-30c4-96dc-1b9d89180a41?format=auto&s=f7e7581cd52fbc4d5892faf0070de9ef0e386997&w=1000",
-      "sv": {
-        "title": "Fyra dömda för övergrepp i ”brittiskt Pelicot-fall”",
-        "summary": "Fyra män i Storbritannien har dömts för sexuella övergrepp mot en kvinna som sövts av hennes man i…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Four convicted of abuse in ”British Pelicot case”",
-        "summary": "Four men in the UK have been convicted of sexual abuse against a woman who was drugged by her husband in…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:15:56+01:00"
       }
     }
   ]
