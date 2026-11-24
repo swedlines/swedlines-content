@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T17:16:04+01:00",
+  "generated_at": "2026-11-24T17:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0baa309cba93",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/kritik-mot-trump-efter-nvidia-vdn-jensen-huangs-comeback",
+      "guid": "https://www.svt.se/nyheter/utrikes/kritik-mot-trump-efter-nvidia-vdn-jensen-huangs-comeback",
+      "published_at": "2026-11-24T17:13:25+01:00",
+      "fetched_at": "2026-11-24T17:30:57+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Kritik mot Trump efter Nvidia-vd:n Jensen Huangs comeback",
+        "summary": "Jensen Huang är tillbaka som vd för Nvidia efter att ”styrelsen beslöt att göra som vi ville”, enligt Donald Trump. Nu riktar kongressledamöter från båda partierna kritik mot den amerikanska presidenten.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Criticism of Trump after Nvidia CEO Jensen Huang's comeback",
+        "summary": "Jensen Huang is back as CEO of Nvidia after ”the board decided to do what we wanted,” according to Donald Trump. Now congressional members from both parties are criticising the American president."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T17:31:10+01:00"
+      }
+    },
     {
       "id": "d13d8d91ac06",
       "schema_version": 1,
@@ -5252,33 +5278,6 @@
       },
       "en": {
         "title": "Nvidia sends Nasdaq into a frenzied rally"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:15:55+01:00"
-      }
-    },
-    {
-      "id": "74fb666f9c35",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/basta-borsdagen-sedan-forra-varen-en-seger-for-ai",
-      "guid": "ae711fee-fbb5-4740-bf32-85b4de6f3f79",
-      "published_at": "2026-11-23T22:07:33+01:00",
-      "fetched_at": "2026-11-23T22:15:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/83cc8696-cce5-47c8-b389-bc706f57c429.jpeg?width=600",
-      "sv": {
-        "title": "Bästa börsdagen sedan förra våren: ”En seger för AI”",
-        "summary": "Wall Street noterade den bästa börsdagen sedan tullkaoset i april 2025. Indexen fick stöd av Nvidias historiska rally efter att Jensen Huang gjort comeback som vd.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Best stock market day since last spring: \"A win for AI\"",
-        "summary": "Wall Street recorded its best stock market day since the tariff chaos of April 2025. The indices were supported by Nvidia's historic rally after Jensen Huang made a comeback as CEO."
       },
       "translation": {
         "status": "done",

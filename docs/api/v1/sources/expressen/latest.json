@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T17:16:04+01:00",
+  "generated_at": "2026-11-24T17:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0f2d90694ec1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/pojke-kidnappades-hittad-efter-tre-dygn",
+      "guid": "https://www.expressen.se/nyheter/sverige/pojke-kidnappades-hittad-efter-tre-dygn/",
+      "published_at": "2026-11-24T17:25:26+01:00",
+      "fetched_at": "2026-11-24T17:30:59+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Pojke kidnappades – hittad efter tre dygn",
+        "summary": "En 15-årig pojke som kidnappades i Karlskoga i fredags hittades på måndagen i en stor polisinsats i Örebro. Flera personer har gripits misstänkta för människorov.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Boy kidnapped – found after three days",
+        "summary": "A 15-year-old boy who was kidnapped in Karlskoga on Friday was found on Monday in a large police operation in Örebro. Several people have been arrested on suspicion of kidnapping."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T17:31:10+01:00"
+      }
+    },
     {
       "id": "2f6ff5af7995",
       "schema_version": 1,
@@ -5164,32 +5190,6 @@
       "en": {
         "title": "Cosmetic surgery from the inside: \"It is not harmless\"",
         "summary": "Plastic surgeon Tyge Tindholdt scrubs his hands clean outside the operating theatre in Malmö. In a few minutes he is to operate on a woman who has lost a lot of weight. He says he has never had so much to do as now. – Many think it is \"just\" plastic surgery, but the patient is put under anaesthesia."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T05:15:55+01:00"
-      }
-    },
-    {
-      "id": "a2deb6a53e25",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/efter-tva-barn-emily-betalar-135-000-for-mommy-makeover",
-      "guid": "https://www.expressen.se/nyheter/sverige/efter-tva-barn-emily-betalar-135-000-for-mommy-makeover/",
-      "published_at": "2026-11-21T05:00:00+01:00",
-      "fetched_at": "2026-11-21T05:15:48+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Emily, 39, betalar 135 000 för mommy makeover",
-        "summary": "Efter två barn känner Emily Young, 39, inte längre igen sin kropp i spegeln. Nu betalar hon 135 000 kronor för en så kallad mommy makeover. – Jag vill kunna ligga med min man, se på min kropp och tänka att det här är min mage eller det här är mina bröst, och that’s fine.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Emily, 39, pays SEK 135,000 for a mommy makeover",
-        "summary": "After two children, Emily Young, 39, no longer recognises her body in the mirror. Now she is paying SEK 135,000 for a so-called mommy makeover. – I want to be able to sleep with my husband, look at my body and think that this is my stomach or these are my breasts, and that's fine."
       },
       "translation": {
         "status": "done",

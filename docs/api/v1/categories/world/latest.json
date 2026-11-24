@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T17:16:04+01:00",
+  "generated_at": "2026-11-24T17:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1370fa89f28d",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/nal-och-trad-ar-vart-fredliga-motstand",
+      "guid": "d4e6b6b4-2ebd-46b4-a949-563a95ba20de",
+      "published_at": "2026-11-24T17:30:00+01:00",
+      "fetched_at": "2026-11-24T17:31:00+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/50d883e7-7c41-4c22-af81-5af624e2dd19.jpeg?width=600",
+      "sv": {
+        "title": "”Nål och tråd är vårt fredliga motstånd”",
+        "summary": "Fönsterkarmen i syateljén på Folkets hus på Rosengård är full av färdiga tygdockor. En av dem saknar ben – precis som barn i Gaza stympas av bomber, förklarar Kristina Längby. Här träffas ett femtontal kvinnor för att sy och dela sorgen över vad som händer i Gaza.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”Needle and thread are our peaceful resistance”",
+        "summary": "The window frame in the sewing studio at Folkets hus in Rosengård is full of finished cloth dolls. One of them has no legs – just as children in Gaza are maimed by bombs, explains Kristina Längby. Here about fifteen women gather to sew and share their grief over what is happening in Gaza."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T17:31:10+01:00"
+      }
+    },
     {
       "id": "7f6a60e2ee0d",
       "schema_version": 1,
@@ -5342,33 +5369,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T15:29:12+01:00"
-      }
-    },
-    {
-      "id": "e4d0c83348e6",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/qOLdem/19-personer-forgiftade-i-kyrka",
-      "guid": "https://www.aftonbladet.se/nyheter/a/qOLdem/19-personer-forgiftade-i-kyrka?utm_medium=rss",
-      "published_at": "2026-11-22T15:20:24+01:00",
-      "fetched_at": "2026-11-22T17:01:11+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/7abc1133-51c1-3235-b05f-0ce86165d310?format=auto&s=ba01d2223c0aaebc61819436fb875d2d95489266&w=1000",
-      "sv": {
-        "title": "19 personer förgiftade under gudstjänst",
-        "summary": "Fyra allvarligt skadade i Tyskland",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "19 people poisoned during church service",
-        "summary": "Four seriously injured in Germany"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T17:01:21+01:00"
       }
     }
   ]

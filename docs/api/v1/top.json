@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-24T17:16:04+01:00",
+  "generated_at": "2026-11-24T17:31:17+01:00",
   "count": 30,
   "stories": [
     {
       "id": "bc9e35a4d1b8",
-      "source_count": 8,
+      "source_count": 9,
       "sources": [
         "svd",
         "expressen",
@@ -13,10 +13,11 @@
         "sr",
         "sydsvenskan",
         "svt",
-        "di"
+        "di",
+        "dn"
       ],
       "first_published_at": "2026-11-24T10:16:21+01:00",
-      "last_published_at": "2026-11-24T17:13:02+01:00",
+      "last_published_at": "2026-11-24T17:16:00+01:00",
       "lead": {
         "id": "bc9e35a4d1b8",
         "schema_version": 1,
@@ -42,6 +43,18 @@
         }
       },
       "items": [
+        {
+          "id": "9f42c36d4bae",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/kristersson-provas-som-statsminister-nasta-vecka",
+          "published_at": "2026-11-24T17:16:00+01:00",
+          "sv": {
+            "title": "Kristersson prövas som statsminister nästa vecka"
+          },
+          "en": {
+            "title": "Kristersson to be put to a prime ministerial vote next week"
+          }
+        },
         {
           "id": "2f6ff5af7995",
           "source": "expressen",
@@ -1383,89 +1396,187 @@
       ]
     },
     {
-      "id": "87151d6fc999",
-      "source_count": 4,
+      "id": "7d383cb0a902",
+      "source_count": 3,
       "sources": [
+        "expressen",
         "aftonbladet",
-        "svd",
-        "sydsvenskan",
-        "di"
+        "sydsvenskan"
       ],
-      "first_published_at": "2026-11-24T00:04:55+01:00",
-      "last_published_at": "2026-11-24T05:19:57+01:00",
+      "first_published_at": "2026-11-24T16:32:15+01:00",
+      "last_published_at": "2026-11-24T17:25:26+01:00",
       "lead": {
-        "id": "87151d6fc999",
+        "id": "7d383cb0a902",
         "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/mMRlvq/v-beklagar-c-s-sidbyte",
-        "guid": "https://www.aftonbladet.se/nyheter/a/mMRlvq/v-beklagar-c-s-sidbyte?utm_medium=rss",
-        "published_at": "2026-11-24T00:04:55+01:00",
-        "fetched_at": "2026-11-24T00:15:45+01:00",
-        "category": "politics",
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=9971c782-c82a-4af1-9b68-129493fe46b4",
+        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9971c782-c82a-4af1-9b68-129493fe46b4",
+        "published_at": "2026-11-24T16:32:15+01:00",
+        "fetched_at": "2026-11-24T16:40:42+01:00",
+        "category": "crime",
         "sv": {
-          "title": "V: ”Beklagar C:s sidbyte”",
-          "summary": "De rödgröna borde ”synat” Centerpartiets röda linjer innan valet, skriver Vänsterpartiets vice…",
+          "title": "Bortrövad 15-åring fritagen av polis",
+          "summary": "Fritagen av Polis • Flera gripna",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "V: ”We regret C's switch of sides”",
-          "summary": "The red-greens should have ”checked” the Centre Party's red lines before the election, writes Left Party deputy leader…"
+          "title": "Abducted 15-year-old freed by police",
+          "summary": "Freed by police • Several arrested"
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T00:15:52+01:00"
+          "translated_at": "2026-11-24T16:40:52+01:00"
         }
       },
       "items": [
         {
-          "id": "c1d80221a232",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/vansterpartiet-beklagar-c-s-sidbyte",
-          "published_at": "2026-11-24T05:19:57+01:00",
+          "id": "0f2d90694ec1",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/pojke-kidnappades-hittad-efter-tre-dygn",
+          "published_at": "2026-11-24T17:25:26+01:00",
           "sv": {
-            "title": "Vänsterpartiet: ”Beklagar C:s sidbyte”"
+            "title": "Pojke kidnappades – hittad efter tre dygn"
           },
           "en": {
-            "title": "Left Party: \"Regrets the Centre Party's switch\""
+            "title": "Boy kidnapped – found after three days"
           }
         },
         {
-          "id": "90738eaa913e",
+          "id": "21ece4a59995",
           "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/v-beklagar-c-s-sidbyte",
-          "published_at": "2026-11-24T00:08:12+01:00",
+          "url": "https://www.sydsvenskan.se/sverige/pojke-fritagen-av-polis-sex-anhallna",
+          "published_at": "2026-11-24T17:21:07+01:00",
           "sv": {
-            "title": "V: ”Beklagar C:s sidbyte”"
+            "title": "Pojke fritagen av polis – sex anhållna"
           },
           "en": {
-            "title": "V: ”We regret C's switch of sides”"
+            "title": "Boy freed by police – six detained"
           }
         },
         {
-          "id": "accbebb8cef0",
-          "source": "svd",
-          "url": "https://www.svd.se/a/r8A79w/v-beklagar-c-s-sidbyte",
-          "published_at": "2026-11-24T00:04:56+01:00",
-          "sv": {
-            "title": "V: ”Beklagar C:s sidbyte”"
-          },
-          "en": {
-            "title": "V: ”We regret C's switch of sides”"
-          }
-        },
-        {
-          "id": "87151d6fc999",
+          "id": "d57880503f7b",
           "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/mMRlvq/v-beklagar-c-s-sidbyte",
-          "published_at": "2026-11-24T00:04:55+01:00",
+          "url": "https://www.aftonbladet.se/nyheter/a/kMJolL/pojke-fritagen-av-polis-sex-anhallna",
+          "published_at": "2026-11-24T17:20:16+01:00",
           "sv": {
-            "title": "V: ”Beklagar C:s sidbyte”"
+            "title": "Pojke fritagen av polis – sex anhållna"
           },
           "en": {
-            "title": "V: ”We regret C's switch of sides”"
+            "title": "Boy freed by police – six detained"
+          }
+        },
+        {
+          "id": "55861e2b66ee",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/4Eqaa6/15-aring-fritagen-flera-gripna",
+          "published_at": "2026-11-24T16:33:53+01:00",
+          "sv": {
+            "title": "15-åring hittad – fördes bort mot sin vilja"
+          },
+          "en": {
+            "title": "15-year-old found – taken against his will"
+          }
+        },
+        {
+          "id": "7d383cb0a902",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=9971c782-c82a-4af1-9b68-129493fe46b4",
+          "published_at": "2026-11-24T16:32:15+01:00",
+          "sv": {
+            "title": "Bortrövad 15-åring fritagen av polis"
+          },
+          "en": {
+            "title": "Abducted 15-year-old freed by police"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e907d5f72cc1",
+      "source_count": 3,
+      "sources": [
+        "sr",
+        "di",
+        "svt"
+      ],
+      "first_published_at": "2026-11-24T07:00:00+01:00",
+      "last_published_at": "2026-11-24T17:13:25+01:00",
+      "lead": {
+        "id": "e907d5f72cc1",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9348722",
+        "guid": "rss:sr.se/article/9348722",
+        "published_at": "2026-11-24T07:00:00+01:00",
+        "fetched_at": "2026-11-24T07:15:41+01:00",
+        "category": "economy",
+        "sv": {
+          "title": "Flera utredningar mot Jensen Huang på gång – Trump-koppling kan granskas",
+          "summary": "USAs kongress förbereder flera utredningar mot techföretaget Nvidias grundare Jensen Huang, efter att han tagits tillbaka som VD för bolaget trots sin affär med en misstänkt kinesisk spion. Kongressen väntas också granska president Trumps ekonomiska kopplingar till Nvidia.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Several investigations into Jensen Huang in the works – Trump connection could be examined",
+          "summary": "The US Congress is preparing several investigations into Nvidia founder Jensen Huang, after he was reinstated as CEO of the company despite his deal with a suspected Chinese spy. Congress is also expected to examine President Trump's financial ties to Nvidia."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T07:15:57+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "0baa309cba93",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/utrikes/kritik-mot-trump-efter-nvidia-vdn-jensen-huangs-comeback",
+          "published_at": "2026-11-24T17:13:25+01:00",
+          "sv": {
+            "title": "Kritik mot Trump efter Nvidia-vd:n Jensen Huangs comeback"
+          },
+          "en": {
+            "title": "Criticism of Trump after Nvidia CEO Jensen Huang's comeback"
+          }
+        },
+        {
+          "id": "9def7edd4692",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/huangaffaren-osannolik-men-inte-omojlig-i-sverige",
+          "published_at": "2026-11-24T14:18:22+01:00",
+          "sv": {
+            "title": "Huangaffären – osannolik men inte omöjlig i Sverige"
+          },
+          "en": {
+            "title": "The Huang affair – unlikely but not impossible in Sweden"
+          }
+        },
+        {
+          "id": "f4f00db987b2",
+          "source": "di",
+          "url": "https://www.di.se/live/kritiken-mot-huangs-aterkomst-styrelsen-saknar-ryggrad",
+          "published_at": "2026-11-24T07:55:46+01:00",
+          "sv": {
+            "title": "Kritiken mot Huangs återkomst: ”Styrelsen saknar ryggrad”"
+          },
+          "en": {
+            "title": "Criticism of Huang's return: \"The board totally lacks backbone\""
+          }
+        },
+        {
+          "id": "e907d5f72cc1",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348722",
+          "published_at": "2026-11-24T07:00:00+01:00",
+          "sv": {
+            "title": "Flera utredningar mot Jensen Huang på gång – Trump-koppling kan granskas"
+          },
+          "en": {
+            "title": "Several investigations into Jensen Huang in the works – Trump connection could be examined"
           }
         }
       ]
@@ -2483,86 +2594,6 @@
       ]
     },
     {
-      "id": "495fbd70c646",
-      "source_count": 3,
-      "sources": [
-        "gp",
-        "svd",
-        "dn"
-      ],
-      "first_published_at": "2026-11-23T20:49:24+01:00",
-      "last_published_at": "2026-11-24T05:18:32+01:00",
-      "lead": {
-        "id": "495fbd70c646",
-        "schema_version": 1,
-        "source": "gp",
-        "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/hammarby-besegrade-ifk-goteborg-guldrysare-vantar.82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
-        "guid": "82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
-        "published_at": "2026-11-23T20:49:24+01:00",
-        "fetched_at": "2026-11-23T21:15:51+01:00",
-        "category": "sports",
-        "feed_categories": [
-          "IFK Göteborg",
-          "Tagg: IFK Göteborg"
-        ],
-        "image_url": "https://vcdn.polarismedia.no/0d18a469-4adc-301d-9c79-0d952e474166",
-        "sv": {
-          "title": "Bajen besegrade Blåvitt – guldrysare väntar",
-          "summary": "Blåvitt lyckades skapa nerv – räckte inte hela vägen • Slutdrama i sista omgången på Gamla Ullevi.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Bajen beat Blåvitt – title race awaits",
-          "summary": "Blåvitt managed to create tension – but not enough to go all the way • Thriller in the final round at Gamla Ullevi."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T21:15:56+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "af79a63e36d2",
-          "source": "dn",
-          "url": "https://www.dn.se/sport/blavitt-har-vagmastarroll-i-guldstriden-kan-hjalpa-hammarby",
-          "published_at": "2026-11-24T05:18:32+01:00",
-          "sv": {
-            "title": "Blåvitt har vågmästarroll i guldstriden – kan hjälpa Hammarby"
-          },
-          "en": {
-            "title": "Blåvitt holds the balance in the title race – could help Hammarby"
-          }
-        },
-        {
-          "id": "83a1c0c56045",
-          "source": "svd",
-          "url": "https://www.svd.se/a/aGwn75/henrik-rydstrom-har-lyft-hammarby-ena-handen-pa-lennart-johanssons-pokal",
-          "published_at": "2026-11-23T21:25:25+01:00",
-          "sv": {
-            "title": "Rydströms intåg har lyft Bajen"
-          },
-          "en": {
-            "title": "Rydström's arrival has lifted Bajen"
-          }
-        },
-        {
-          "id": "495fbd70c646",
-          "source": "gp",
-          "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/hammarby-besegrade-ifk-goteborg-guldrysare-vantar.82f4b2cc-2d08-5d85-8d6d-aeac013a7b5b",
-          "published_at": "2026-11-23T20:49:24+01:00",
-          "sv": {
-            "title": "Bajen besegrade Blåvitt – guldrysare väntar"
-          },
-          "en": {
-            "title": "Bajen beat Blåvitt – title race awaits"
-          }
-        }
-      ]
-    },
-    {
       "id": "80fffd176ee4",
       "source_count": 2,
       "sources": [
@@ -2642,68 +2673,6 @@
           },
           "en": {
             "title": "Ken Fagerberg is dead – former Öis player was 37"
-          }
-        }
-      ]
-    },
-    {
-      "id": "7d383cb0a902",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-24T16:32:15+01:00",
-      "last_published_at": "2026-11-24T16:33:53+01:00",
-      "lead": {
-        "id": "7d383cb0a902",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=9971c782-c82a-4af1-9b68-129493fe46b4",
-        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9971c782-c82a-4af1-9b68-129493fe46b4",
-        "published_at": "2026-11-24T16:32:15+01:00",
-        "fetched_at": "2026-11-24T16:40:42+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Bortrövad 15-åring fritagen av polis",
-          "summary": "Fritagen av Polis • Flera gripna",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Abducted 15-year-old freed by police",
-          "summary": "Freed by police • Several arrested"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T16:40:52+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "55861e2b66ee",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/4Eqaa6/15-aring-fritagen-flera-gripna",
-          "published_at": "2026-11-24T16:33:53+01:00",
-          "sv": {
-            "title": "15-åring hittad – fördes bort mot sin vilja"
-          },
-          "en": {
-            "title": "15-year-old found – taken against his will"
-          }
-        },
-        {
-          "id": "7d383cb0a902",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=9971c782-c82a-4af1-9b68-129493fe46b4",
-          "published_at": "2026-11-24T16:32:15+01:00",
-          "sv": {
-            "title": "Bortrövad 15-åring fritagen av polis"
-          },
-          "en": {
-            "title": "Abducted 15-year-old freed by police"
           }
         }
       ]
@@ -2829,6 +2798,93 @@
           },
           "en": {
             "title": "Five years in prison for 18-year-old who threw hand grenade with dishwashing gloves"
+          }
+        }
+      ]
+    },
+    {
+      "id": "465f820d762b",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-24T10:07:25+01:00",
+      "last_published_at": "2026-11-24T14:54:00+01:00",
+      "lead": {
+        "id": "465f820d762b",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/ARd1Q5/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig",
+        "guid": "https://www.aftonbladet.se/nyheter/a/ARd1Q5/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig?utm_medium=rss",
+        "published_at": "2026-11-24T10:07:25+01:00",
+        "fetched_at": "2026-11-24T10:15:46+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/2216072f-d74c-350f-baae-12b681590d78?format=auto&s=2a97a56b1cb9d597671d2678a9c65f788cdd2145&w=1000",
+        "sv": {
+          "title": "Rapport: Fem kvinnor i timmen dödas av en anhörig",
+          "summary": "2025 dödades 47 000 kvinnor av sin partner eller en nära anhörig, enligt FN-siffror.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Report: Five women an hour killed by a relative",
+          "summary": "In 2025, 47,000 women were killed by their partner or a close relative, according to UN figures."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T10:16:00+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "ce46b8255177",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/ez8p0M/600-kvinnor-i-sydafrika-mordade-pa-tre-manader",
+          "published_at": "2026-11-24T14:54:00+01:00",
+          "sv": {
+            "title": "600 kvinnor i Sydafrika mördade på tre månader"
+          },
+          "en": {
+            "title": "600 women murdered in South Africa in three months"
+          }
+        },
+        {
+          "id": "8c9e90e20231",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/BrRBe0/nastan-600-kvinnor-mordade-pa-tre-manader",
+          "published_at": "2026-11-24T14:35:16+01:00",
+          "sv": {
+            "title": "Nästan 600 kvinnor mördade på tre månader"
+          },
+          "en": {
+            "title": "Almost 600 women murdered in three months"
+          }
+        },
+        {
+          "id": "04b45845f7e5",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig",
+          "published_at": "2026-11-24T11:37:57+01:00",
+          "sv": {
+            "title": "Rapport: Fem kvinnor i timmen dödas av en anhörig"
+          },
+          "en": {
+            "title": "Report: Five women an hour killed by a relative"
+          }
+        },
+        {
+          "id": "465f820d762b",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/ARd1Q5/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig",
+          "published_at": "2026-11-24T10:07:25+01:00",
+          "sv": {
+            "title": "Rapport: Fem kvinnor i timmen dödas av en anhörig"
+          },
+          "en": {
+            "title": "Report: Five women an hour killed by a relative"
           }
         }
       ]
