@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-11-24T10:31:10+01:00",
+  "generated_at": "2026-11-24T10:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5bec90d06c17",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/hqwCxxLJlwRNLCsSI0XWE/sa-stort-vore-anderssons-nederlag-historiskt",
+      "guid": "hqwCxxLJlwRNLCsSI0XWE",
+      "published_at": "2026-11-24T10:32:22+01:00",
+      "fetched_at": "2026-11-24T10:45:49+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Så stort vore Anderssons nederlag: ”Historiskt”",
+        "summary": "Tror att trenden kan vända • ”Väldigt mycket står på spel”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is how big Andersson's defeat would be: \"Historic\"",
+        "summary": "Believes the trend can turn • \"A great deal is at stake\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T10:45:55+01:00"
+      }
+    },
+    {
+      "id": "a15646bb134a",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/j3dyx0/andersson-bara-en-drom-en-illusion",
+      "guid": "https://www.aftonbladet.se/nyheter/a/j3dyx0/andersson-bara-en-drom-en-illusion?utm_medium=rss",
+      "published_at": "2026-11-24T10:26:48+01:00",
+      "fetched_at": "2026-11-24T10:45:48+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/c5130c49-6abc-3ae1-8c8a-f38494404e6b?format=auto&s=fe3b0cdb4b3e89372264d3c82d7768cc58f20e94&w=1000",
+      "sv": {
+        "title": "Andersson: ”Inga förutsättningar för mig att bilda regering”",
+        "summary": "Andersson håller pressträff",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Andersson: \"No prospects for me to form a government\"",
+        "summary": "Andersson holds press conference"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T10:45:55+01:00"
+      }
+    },
     {
       "id": "d1981b21c099",
       "schema_version": 1,
@@ -5304,59 +5360,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T19:01:17+01:00"
-      }
-    },
-    {
-      "id": "fa81c770a759",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/c-profilen-om-splittringen--kommer-vara-smartsamt",
-      "guid": "https://www.expressen.se/nyheter/sverige/c-profilen-om-splittringen--kommer-vara-smartsamt/",
-      "published_at": "2026-11-21T18:07:54+01:00",
-      "fetched_at": "2026-11-21T18:15:51+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C-profilen om splittringen: ”Kommer vara smärtsamt”",
-        "summary": "C-toppen Emma Ytterell vill se en Allianslösning medan distrikten uppges vara splittrade. En sida måste väljas – och det kommer bli smärtsamt, tror C-profilen Fredrick Federley. – Sen får de väl avgöra om det mest smärtsamma är vänsterut eller högerut, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "C profile on the split: \"It will be painful\"",
-        "summary": "C leader Emma Ytterell wants to see an Alliance solution while the districts are reportedly divided. One side must be chosen – and it will be painful, believes C profile Fredrick Federley. – Then they can decide whether the most painful option is to the left or to the right, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "5c4b03db2786",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/wdPLyM/c-distrikt-oppnar-for-m-regering",
-      "guid": "https://www.aftonbladet.se/nyheter/a/wdPLyM/c-distrikt-oppnar-for-m-regering?utm_medium=rss",
-      "published_at": "2026-11-21T17:56:18+01:00",
-      "fetched_at": "2026-11-22T00:15:48+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/28e485ef-e378-3809-99de-b4dfe64664b2?format=auto&s=6139800b16a1baa822d963f2d4ca1b52ff15f79b&w=1000",
-      "sv": {
-        "title": "Tunga C-distrikt öppnar för M-regering",
-        "summary": "”Har gått i stå” ✓ Kallar till möte",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Heavy C districts open the way for an M government",
-        "summary": "\"Has come to a standstill\" ✓ Calls meeting"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T00:15:54+01:00"
       }
     }
   ]

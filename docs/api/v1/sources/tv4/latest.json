@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-24T10:31:10+01:00",
+  "generated_at": "2026-11-24T10:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5bec90d06c17",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/hqwCxxLJlwRNLCsSI0XWE/sa-stort-vore-anderssons-nederlag-historiskt",
+      "guid": "hqwCxxLJlwRNLCsSI0XWE",
+      "published_at": "2026-11-24T10:32:22+01:00",
+      "fetched_at": "2026-11-24T10:45:49+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Så stort vore Anderssons nederlag: ”Historiskt”",
+        "summary": "Tror att trenden kan vända • ”Väldigt mycket står på spel”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is how big Andersson's defeat would be: \"Historic\"",
+        "summary": "Believes the trend can turn • \"A great deal is at stake\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T10:45:55+01:00"
+      }
+    },
     {
       "id": "6584706d4e8a",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T12:45:53+01:00"
-      }
-    },
-    {
-      "id": "17ca5f62f21f",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4Yc3CsGaP247KUSGjVy9Ru/kyrkomoetet-roestar-om-vigsel-av-samkoenade-par",
-      "guid": "4Yc3CsGaP247KUSGjVy9Ru",
-      "published_at": "2026-11-16T12:22:11+01:00",
-      "fetched_at": "2026-11-16T13:15:52+01:00",
-      "category": "other",
-      "feed_categories": [
-        "Nyhetsmorgon"
-      ],
-      "sv": {
-        "title": "Beslutet splittrar kyrkan: ”Officiella linjen är att viga alla”",
-        "summary": "– Kyrkomötet tog ett beslut 2009, och det är Svenska kyrkans officiella linje att viga alla människor som med fri vilja och kärlek till varandra vill viga sig i någon av våra vackra kyrkor, säger Sandra Signarsdotter, kyrkoherde i Gustaf Vasa församling.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Decision splits the church: \"The official line is to marry everyone\"",
-        "summary": "\"The Church Assembly made a decision in 2009, and it is the Church of Sweden's official line to marry all people who, of their own free will and love for each other, wish to marry in any of our beautiful churches,\" says Sandra Signarsdotter, vicar of Gustaf Vasa parish."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T13:15:58+01:00"
       }
     }
   ]

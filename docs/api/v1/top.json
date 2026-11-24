@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:31:10+01:00",
+  "generated_at": "2026-11-24T10:46:00+01:00",
   "count": 30,
   "stories": [
     {
@@ -1617,6 +1617,69 @@
       ]
     },
     {
+      "id": "a15646bb134a",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "tv4"
+      ],
+      "first_published_at": "2026-11-24T10:26:48+01:00",
+      "last_published_at": "2026-11-24T10:32:22+01:00",
+      "lead": {
+        "id": "a15646bb134a",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/j3dyx0/andersson-bara-en-drom-en-illusion",
+        "guid": "https://www.aftonbladet.se/nyheter/a/j3dyx0/andersson-bara-en-drom-en-illusion?utm_medium=rss",
+        "published_at": "2026-11-24T10:26:48+01:00",
+        "fetched_at": "2026-11-24T10:45:48+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/c5130c49-6abc-3ae1-8c8a-f38494404e6b?format=auto&s=fe3b0cdb4b3e89372264d3c82d7768cc58f20e94&w=1000",
+        "sv": {
+          "title": "Andersson: ”Inga förutsättningar för mig att bilda regering”",
+          "summary": "Andersson håller pressträff",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Andersson: \"No prospects for me to form a government\"",
+          "summary": "Andersson holds press conference"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T10:45:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "5bec90d06c17",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/hqwCxxLJlwRNLCsSI0XWE/sa-stort-vore-anderssons-nederlag-historiskt",
+          "published_at": "2026-11-24T10:32:22+01:00",
+          "sv": {
+            "title": "Så stort vore Anderssons nederlag: ”Historiskt”"
+          },
+          "en": {
+            "title": "This is how big Andersson's defeat would be: \"Historic\""
+          }
+        },
+        {
+          "id": "a15646bb134a",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/j3dyx0/andersson-bara-en-drom-en-illusion",
+          "published_at": "2026-11-24T10:26:48+01:00",
+          "sv": {
+            "title": "Andersson: ”Inga förutsättningar för mig att bilda regering”"
+          },
+          "en": {
+            "title": "Andersson: \"No prospects for me to form a government\""
+          }
+        }
+      ]
+    },
+    {
       "id": "e5cddff2c9b6",
       "source_count": 2,
       "sources": [
@@ -2313,71 +2376,6 @@
           },
           "en": {
             "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government"
-          }
-        }
-      ]
-    },
-    {
-      "id": "293cc1331fc7",
-      "source_count": 2,
-      "sources": [
-        "tv4",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-23T18:11:04+01:00",
-      "last_published_at": "2026-11-23T22:39:50+01:00",
-      "lead": {
-        "id": "293cc1331fc7",
-        "schema_version": 1,
-        "source": "tv4",
-        "url": "https://www.tv4.se/artikel/4LVwXwxmzBeFVlIy0lvCpy/ovanliga-moetet-haer-vaelkomnas-svenska-ambassadoeren-av-kim-jong-un",
-        "guid": "4LVwXwxmzBeFVlIy0lvCpy",
-        "published_at": "2026-11-23T18:11:04+01:00",
-        "fetched_at": "2026-11-23T18:15:45+01:00",
-        "category": "world",
-        "feed_categories": [
-          "/"
-        ],
-        "sv": {
-          "title": "Ovanliga mötet: Sveriges ambassadör välkomnas av Kim Jong Un",
-          "summary": "Nordkoreas statliga tv-sändning innehåller inget ljud, men bilderna visar hur Sveriges ambassadör Josef Ahlberg tillsammans med nio andra utländska diplomater i spikraka rader sitter i varsin röd fåtölj på huvudkontoret för Arbetarpartiets centralkommitté.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Unusual meeting: Sweden's ambassador welcomed by Kim Jong Un",
-          "summary": "North Korea's state television broadcast has no sound, but the images show how Sweden's ambassador Josef Ahlberg, together with nine other foreign diplomats, sits in neat rows in individual red armchairs at the headquarters of the Workers' Party of Korea's Central Committee."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T18:15:53+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "ac93ae04ae19",
-          "source": "expressen",
-          "url": "https://www.expressen.se/tv/nyheter/varlden/kims-ovantade-drag-tar-emot-svensken-",
-          "published_at": "2026-11-23T22:39:50+01:00",
-          "sv": {
-            "title": "Svenskens ovanliga möte – med Kim Jong-Un"
-          },
-          "en": {
-            "title": "Swede's unusual meeting with Kim Jong-un"
-          }
-        },
-        {
-          "id": "293cc1331fc7",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/4LVwXwxmzBeFVlIy0lvCpy/ovanliga-moetet-haer-vaelkomnas-svenska-ambassadoeren-av-kim-jong-un",
-          "published_at": "2026-11-23T18:11:04+01:00",
-          "sv": {
-            "title": "Ovanliga mötet: Sveriges ambassadör välkomnas av Kim Jong Un"
-          },
-          "en": {
-            "title": "Unusual meeting: Sweden's ambassador welcomed by Kim Jong Un"
           }
         }
       ]
