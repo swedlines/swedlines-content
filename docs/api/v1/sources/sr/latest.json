@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T07:01:18+01:00",
+  "generated_at": "2026-11-24T07:16:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e907d5f72cc1",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348722",
+      "guid": "rss:sr.se/article/9348722",
+      "published_at": "2026-11-24T07:00:00+01:00",
+      "fetched_at": "2026-11-24T07:15:41+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Flera utredningar mot Jensen Huang på gång – Trump-koppling kan granskas",
+        "summary": "USAs kongress förbereder flera utredningar mot techföretaget Nvidias grundare Jensen Huang, efter att han tagits tillbaka som VD för bolaget trots sin affär med en misstänkt kinesisk spion. Kongressen väntas också granska president Trumps ekonomiska kopplingar till Nvidia.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Several investigations into Jensen Huang in the works – Trump connection could be examined",
+        "summary": "The US Congress is preparing several investigations into Nvidia founder Jensen Huang, after he was reinstated as CEO of the company despite his deal with a suspected Chinese spy. Congress is also expected to examine President Trump's financial ties to Nvidia."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T07:15:57+01:00"
+      }
+    },
     {
       "id": "dbc5b86e4887",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T17:01:26+01:00"
-      }
-    },
-    {
-      "id": "958242389881",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345433",
-      "guid": "rss:sr.se/article/9345433",
-      "published_at": "2026-11-18T16:18:00+01:00",
-      "fetched_at": "2026-11-18T16:31:00+01:00",
-      "category": "world",
-      "sv": {
-        "title": "OECD: Stöd till Ukraina kan tränga undan bistånd till de mest utsatta",
-        "summary": "OECD riktar kritik mot delar av Sveriges biståndspolitik. I en ny granskning varnar organisationen för att det ökade stödet till Ukraina kan tränga undan bistånd till världens mest utsatta länder.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "OECD: Support for Ukraine may crowd out aid to the most vulnerable",
-        "summary": "The OECD criticises parts of Sweden's development aid policy. In a new review, the organisation warns that increased support for Ukraine may crowd out aid to the world's most vulnerable countries."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:31:12+01:00"
       }
     }
   ]

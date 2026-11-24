@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-24T07:01:18+01:00",
+  "generated_at": "2026-11-24T07:16:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d9c72a545ad4",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3cIa8w6DYhTwk6xZeC7Emj/sa-blir-julmatspriserna-en-historiskt-stor-nedgang",
+      "guid": "3cIa8w6DYhTwk6xZeC7Emj",
+      "published_at": "2026-11-24T07:00:57+01:00",
+      "fetched_at": "2026-11-24T07:15:45+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Så blir julmatspriserna: ”En historiskt stor nedgång”",
+        "summary": "Mellan 2021 och 2025 steg priset på julmat varje år, enligt Matpriskollen. Men nu blir julmaten billigare för första gången sedan företaget började sina mätningar. – Det är ganska mycket, 6-7 procent, säger Matpriskollens vd Ulf Mazur till TV4 Nyheterna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "This is how Christmas food prices will be: “A historically large decline”",
+        "summary": "Between 2021 and 2025 the price of Christmas food rose every year, according to Matpriskollen. But now Christmas food is getting cheaper for the first time since the company began its measurements. “It's quite a lot, 6-7 percent,” says Matpriskollen CEO Ulf Mazur to TV4 Nyheterna."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T07:15:57+01:00"
+      }
+    },
     {
       "id": "f600e1d4b420",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T11:45:50+01:00"
-      }
-    },
-    {
-      "id": "32deaae128c4",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/7u1YCLASXmJ3Qb19efaWiJ/pasta-med-karamelliserad-loek-och-parmesan",
-      "guid": "7u1YCLASXmJ3Qb19efaWiJ",
-      "published_at": "2026-11-16T10:53:07+01:00",
-      "fetched_at": "2026-11-16T11:00:37+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Mat"
-      ],
-      "sv": {
-        "title": "Pasta med karamelliserad lök och parmesan",
-        "summary": "Dagens middagstips bjuder på en enkel pasta där långsamt karamelliserad lök får sällskap av sardeller, vitt vin och parmesan. Med hjälp av pastavatten och en klick smör skapas en härligt krämig sås. En prisvärd vardagsmiddag som smakar mycket mer än den kostar! Se Dante Zias recept",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Pasta with caramelised onion and parmesan",
-        "summary": "Today's dinner tip is a simple pasta where slowly caramelised onion is joined by anchovies, dry white wine and parmesan. Using pasta water and a knob of butter creates a deliciously creamy sauce. An affordable weekday dinner that tastes far better than it costs! See Dante Zia's recipe"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:00:46+01:00"
       }
     }
   ]
