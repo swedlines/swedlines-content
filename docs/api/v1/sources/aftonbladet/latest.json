@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T06:58:38+01:00",
+  "generated_at": "2026-11-24T07:01:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "984605979a46",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Wmb5Jj/vandningen-nu-blir-julmaten-billigare-enligt-matpriskollen",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Wmb5Jj/vandningen-nu-blir-julmaten-billigare-enligt-matpriskollen?utm_medium=rss",
+      "published_at": "2026-11-24T07:00:02+01:00",
+      "fetched_at": "2026-11-24T07:01:10+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/2d7336ac-9b0f-3631-ac82-b9c846393e92?format=auto&s=85753046d23a0b42c92fb7bb00fa7004055e4e77&w=1000",
+      "sv": {
+        "title": "Vändningen: Nu blir julmaten billigare",
+        "summary": "Undantagen: Här stiger priserna",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Turnaround: Christmas food now gets cheaper",
+        "summary": "Exceptions: Here prices rise"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T07:01:16+01:00"
+      }
+    },
     {
       "id": "f7453a8dee9a",
       "schema_version": 1,
@@ -5341,33 +5368,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T22:45:57+01:00"
-      }
-    },
-    {
-      "id": "42a1924bceed",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/wdPppL/svenska-ud-kallade-upp-rysslands-ambassador",
-      "guid": "https://www.aftonbladet.se/nyheter/a/wdPppL/svenska-ud-kallade-upp-rysslands-ambassador?utm_medium=rss",
-      "published_at": "2026-11-20T21:50:00+01:00",
-      "fetched_at": "2026-11-20T22:01:15+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/7fba9402-b1db-3ecf-a1ae-eef4d14a18bf?format=auto&s=33ec27e8727b79695462f26f84c686224f751640&w=1000",
-      "sv": {
-        "title": "Svenska UD kallade upp Rysslands ambassadör",
-        "summary": "Svenska utrikesdepartementet kallade på fredagen upp Rysslands ambassadör i Stockholm.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish MFA summons Russian ambassador",
-        "summary": "The Swedish Ministry for Foreign Affairs on Friday summoned Russia's ambassador in Stockholm."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T22:01:22+01:00"
       }
     }
   ]
