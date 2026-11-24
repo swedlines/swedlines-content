@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:01:23+01:00",
+  "generated_at": "2026-11-24T09:16:03+01:00",
   "count": 30,
   "stories": [
     {
@@ -394,6 +394,94 @@
       ]
     },
     {
+      "id": "1346dcd0e795",
+      "source_count": 4,
+      "sources": [
+        "sr",
+        "aftonbladet",
+        "svt",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-23T17:24:00+01:00",
+      "last_published_at": "2026-11-24T09:10:03+01:00",
+      "lead": {
+        "id": "1346dcd0e795",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9348509",
+        "guid": "rss:sr.se/article/9348509",
+        "published_at": "2026-11-23T17:24:00+01:00",
+        "fetched_at": "2026-11-23T17:30:57+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Vänsterpartiet gläntar på dörren för att släppa ministerkrav",
+          "summary": "Vänsterpartiet står fast vid kravet på ministerposter, men vice partiledaren Ida Gabrielsson öppnar för att släppa det vid stora sakpolitiska eftergifter.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Left Party opens door to dropping ministerial demand",
+          "summary": "The Left Party stands firm on its demand for ministerial posts, but deputy party leader Ida Gabrielsson is open to dropping it in return for major policy concessions."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T17:31:06+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "f3c1394377aa",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-om-s-lofte-haha-nej",
+          "published_at": "2026-11-24T09:10:03+01:00",
+          "sv": {
+            "title": "Ida Gabrielsson om S löfte: Haha nej"
+          },
+          "en": {
+            "title": "Ida Gabrielsson on the Social Democrats' offer: Haha no"
+          }
+        },
+        {
+          "id": "92233074b00b",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/mojlig-oppning-for-att-v-ska-slappa-ministerkraven",
+          "published_at": "2026-11-23T23:22:43+01:00",
+          "sv": {
+            "title": "Möjlig öppning för att V ska släppa ministerkraven"
+          },
+          "en": {
+            "title": "Possible opening for V to drop ministerial demands"
+          }
+        },
+        {
+          "id": "6ef826e5bc29",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/z0GKAO/ida-gabrielsson-da-kan-vansterpartiet-avsta-ministerposter",
+          "published_at": "2026-11-23T22:20:53+01:00",
+          "sv": {
+            "title": "Gabrielsson: Det kan få oss att avstå ministerposter"
+          },
+          "en": {
+            "title": "Gabrielsson: It could cause us to refrain from ministerial posts"
+          }
+        },
+        {
+          "id": "1346dcd0e795",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348509",
+          "published_at": "2026-11-23T17:24:00+01:00",
+          "sv": {
+            "title": "Vänsterpartiet gläntar på dörren för att släppa ministerkrav"
+          },
+          "en": {
+            "title": "Left Party opens door to dropping ministerial demand"
+          }
+        }
+      ]
+    },
+    {
       "id": "306e7c415635",
       "source_count": 4,
       "sources": [
@@ -403,7 +491,7 @@
         "sydsvenskan"
       ],
       "first_published_at": "2026-11-23T19:48:24+01:00",
-      "last_published_at": "2026-11-24T08:59:00+01:00",
+      "last_published_at": "2026-11-24T09:03:50+01:00",
       "lead": {
         "id": "306e7c415635",
         "schema_version": 1,
@@ -432,6 +520,18 @@
         }
       },
       "items": [
+        {
+          "id": "8106ee71e391",
+          "source": "di",
+          "url": "https://www.di.se/live/svenska-smasparare-dippkopte-nvidia-en-bra-affar",
+          "published_at": "2026-11-24T09:03:50+01:00",
+          "sv": {
+            "title": "Svenska småsparare dippköpte Nvidia – ”en bra affär”"
+          },
+          "en": {
+            "title": "Swedish small savers bought the dip in Nvidia – “a good deal”"
+          }
+        },
         {
           "id": "8692075b5b0d",
           "source": "sydsvenskan",
@@ -1481,81 +1581,6 @@
       ]
     },
     {
-      "id": "1346dcd0e795",
-      "source_count": 3,
-      "sources": [
-        "sr",
-        "aftonbladet",
-        "svt"
-      ],
-      "first_published_at": "2026-11-23T17:24:00+01:00",
-      "last_published_at": "2026-11-23T23:22:43+01:00",
-      "lead": {
-        "id": "1346dcd0e795",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9348509",
-        "guid": "rss:sr.se/article/9348509",
-        "published_at": "2026-11-23T17:24:00+01:00",
-        "fetched_at": "2026-11-23T17:30:57+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Vänsterpartiet gläntar på dörren för att släppa ministerkrav",
-          "summary": "Vänsterpartiet står fast vid kravet på ministerposter, men vice partiledaren Ida Gabrielsson öppnar för att släppa det vid stora sakpolitiska eftergifter.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Left Party opens door to dropping ministerial demand",
-          "summary": "The Left Party stands firm on its demand for ministerial posts, but deputy party leader Ida Gabrielsson is open to dropping it in return for major policy concessions."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T17:31:06+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "92233074b00b",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/mojlig-oppning-for-att-v-ska-slappa-ministerkraven",
-          "published_at": "2026-11-23T23:22:43+01:00",
-          "sv": {
-            "title": "Möjlig öppning för att V ska släppa ministerkraven"
-          },
-          "en": {
-            "title": "Possible opening for V to drop ministerial demands"
-          }
-        },
-        {
-          "id": "6ef826e5bc29",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/z0GKAO/ida-gabrielsson-da-kan-vansterpartiet-avsta-ministerposter",
-          "published_at": "2026-11-23T22:20:53+01:00",
-          "sv": {
-            "title": "Gabrielsson: Det kan få oss att avstå ministerposter"
-          },
-          "en": {
-            "title": "Gabrielsson: It could cause us to refrain from ministerial posts"
-          }
-        },
-        {
-          "id": "1346dcd0e795",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348509",
-          "published_at": "2026-11-23T17:24:00+01:00",
-          "sv": {
-            "title": "Vänsterpartiet gläntar på dörren för att släppa ministerkrav"
-          },
-          "en": {
-            "title": "Left Party opens door to dropping ministerial demand"
-          }
-        }
-      ]
-    },
-    {
       "id": "3834a0255c35",
       "source_count": 3,
       "sources": [
@@ -1714,6 +1739,69 @@
           },
           "en": {
             "title": "Ida Gabrielsson: This is what it would take for the Left Party to drop the ministerial demand"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e5cddff2c9b6",
+      "source_count": 2,
+      "sources": [
+        "sydsvenskan",
+        "di"
+      ],
+      "first_published_at": "2026-11-24T07:48:44+01:00",
+      "last_published_at": "2026-11-24T09:08:49+01:00",
+      "lead": {
+        "id": "e5cddff2c9b6",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/ekonomi/globalt-ai-rally-men-nedat-pa-stockholmsborsen",
+        "guid": "6a11d5e1-1c9f-4434-9ce2-a1d341193978",
+        "published_at": "2026-11-24T07:48:44+01:00",
+        "fetched_at": "2026-11-24T08:01:10+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/130a2d45-e312-4334-855a-4774a9ca7b2c.jpg?width=600",
+        "sv": {
+          "title": "Globalt AI-rally – men nedåt på Stockholmsbörsen",
+          "summary": "AI-aktier rusar uppåt i hela världen efter Jensen Huangs återinträde som vd för den amerikanska chiptillverkaren Nvidia. Men i terminshandeln på IG Markets pekar det svagt nedåt för Stockholmsbörsen – efter kurslyften i måndags.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Global AI rally – but down on the Stockholm Stock Exchange",
+          "summary": "AI stocks are surging worldwide after Jensen Huang's return as CEO of the American chipmaker Nvidia. But in futures trading on IG Markets, the Stockholm Stock Exchange is pointing slightly down – after Monday's gains."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T08:01:15+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "718485279148",
+          "source": "di",
+          "url": "https://www.di.se/live/forsiktig-oppning-pa-stockholmsborsen-mMxKP",
+          "published_at": "2026-11-24T09:08:49+01:00",
+          "sv": {
+            "title": "Försiktig öppning på Stockholmsbörsen"
+          },
+          "en": {
+            "title": "Cautious opening on the Stockholm Stock Exchange"
+          }
+        },
+        {
+          "id": "e5cddff2c9b6",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/globalt-ai-rally-men-nedat-pa-stockholmsborsen",
+          "published_at": "2026-11-24T07:48:44+01:00",
+          "sv": {
+            "title": "Globalt AI-rally – men nedåt på Stockholmsbörsen"
+          },
+          "en": {
+            "title": "Global AI rally – but down on the Stockholm Stock Exchange"
           }
         }
       ]
@@ -2340,71 +2428,6 @@
           },
           "en": {
             "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government"
-          }
-        }
-      ]
-    },
-    {
-      "id": "293cc1331fc7",
-      "source_count": 2,
-      "sources": [
-        "tv4",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-23T18:11:04+01:00",
-      "last_published_at": "2026-11-23T22:39:50+01:00",
-      "lead": {
-        "id": "293cc1331fc7",
-        "schema_version": 1,
-        "source": "tv4",
-        "url": "https://www.tv4.se/artikel/4LVwXwxmzBeFVlIy0lvCpy/ovanliga-moetet-haer-vaelkomnas-svenska-ambassadoeren-av-kim-jong-un",
-        "guid": "4LVwXwxmzBeFVlIy0lvCpy",
-        "published_at": "2026-11-23T18:11:04+01:00",
-        "fetched_at": "2026-11-23T18:15:45+01:00",
-        "category": "world",
-        "feed_categories": [
-          "/"
-        ],
-        "sv": {
-          "title": "Ovanliga mötet: Sveriges ambassadör välkomnas av Kim Jong Un",
-          "summary": "Nordkoreas statliga tv-sändning innehåller inget ljud, men bilderna visar hur Sveriges ambassadör Josef Ahlberg tillsammans med nio andra utländska diplomater i spikraka rader sitter i varsin röd fåtölj på huvudkontoret för Arbetarpartiets centralkommitté.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Unusual meeting: Sweden's ambassador welcomed by Kim Jong Un",
-          "summary": "North Korea's state television broadcast has no sound, but the images show how Sweden's ambassador Josef Ahlberg, together with nine other foreign diplomats, sits in neat rows in individual red armchairs at the headquarters of the Workers' Party of Korea's Central Committee."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T18:15:53+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "ac93ae04ae19",
-          "source": "expressen",
-          "url": "https://www.expressen.se/tv/nyheter/varlden/kims-ovantade-drag-tar-emot-svensken-",
-          "published_at": "2026-11-23T22:39:50+01:00",
-          "sv": {
-            "title": "Svenskens ovanliga möte – med Kim Jong-Un"
-          },
-          "en": {
-            "title": "Swede's unusual meeting with Kim Jong-un"
-          }
-        },
-        {
-          "id": "293cc1331fc7",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/4LVwXwxmzBeFVlIy0lvCpy/ovanliga-moetet-haer-vaelkomnas-svenska-ambassadoeren-av-kim-jong-un",
-          "published_at": "2026-11-23T18:11:04+01:00",
-          "sv": {
-            "title": "Ovanliga mötet: Sveriges ambassadör välkomnas av Kim Jong Un"
-          },
-          "en": {
-            "title": "Unusual meeting: Sweden's ambassador welcomed by Kim Jong Un"
           }
         }
       ]
