@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T16:45:56+01:00",
+  "generated_at": "2026-11-24T17:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "977737ce5ce8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349349",
+      "guid": "rss:sr.se/article/9349349",
+      "published_at": "2026-11-24T16:56:00+01:00",
+      "fetched_at": "2026-11-24T17:01:09+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Talmannen: Ulf Kristersson (M) ska prövas",
+        "summary": "Ulf Kristersson (M) ska prövas i en statsministeromröstning, säger talmannen Andreas Norlén på en pressträff efter dagens talmansrundor. Nomineringen kommer att prövas måndagen 30 november.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Speaker: Ulf Kristersson (M) to be put to vote",
+        "summary": "Ulf Kristersson (M) is to be put to a prime ministerial vote, Speaker Andreas Norlén says at a press conference after today's speaker's consultations. The nomination will be put to the vote on Monday 30 November."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T17:01:18+01:00"
+      }
+    },
     {
       "id": "cd51dc70acb5",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T07:15:50+01:00"
-      }
-    },
-    {
-      "id": "6de7672d354f",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345829",
-      "guid": "rss:sr.se/article/9345829",
-      "published_at": "2026-11-19T06:53:00+01:00",
-      "fetched_at": "2026-11-19T07:01:12+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Hegseths oväntade besök i Caracas – nytt militäravtal",
-        "summary": "USA:s försvarsminister Pete Hegseth besökte Venezuelas huvudstad Caracas för att skriva under ett nytt militärt samarbetsavtal mellan länderna. Det är första gången på över 30 år som en amerikansk försvarsminister står på venezolansk mark.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Hegseth's unexpected visit to Caracas – new military agreement",
-        "summary": "US Secretary of Defense Pete Hegseth visited Venezuela's capital Caracas to sign a new military cooperation agreement between the countries. It is the first time in over 30 years that a US defence secretary has set foot on Venezuelan soil."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T07:01:21+01:00"
       }
     }
   ]
