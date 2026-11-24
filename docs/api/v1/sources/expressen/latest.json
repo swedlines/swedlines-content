@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T01:31:04+01:00",
+  "generated_at": "2026-11-24T01:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d3dd528f57e4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/fembarnsmamman-dod-av-optisk-illusion",
+      "guid": "https://www.expressen.se/nyheter/varlden/fembarnsmamman-dod-av-optisk-illusion/",
+      "published_at": "2026-11-24T01:43:03+01:00",
+      "fetched_at": "2026-11-24T01:45:49+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fembarnsmamman död av ”optisk illusion”",
+        "summary": "Jody Brown tog fel på en ”optisk illusion”, skriver Daily Mail. Det blev den 38-åriga fembarnsmammans död. Nu höjs krav på förändring för att förhindra framtida dödsfall.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mother of five dies after ”optical illusion”",
+        "summary": "Jody Brown misjudged an ”optical illusion”, Daily Mail reports. The 38-year-old mother of five died as a result. Calls are now growing for changes to prevent future deaths."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T01:45:53+01:00"
+      }
+    },
     {
       "id": "1508726ffccf",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T13:45:48+01:00"
-      }
-    },
-    {
-      "id": "348d4b0bb991",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/carl-henric-svanberg-om-svara-tiden-efter-operationen",
-      "guid": "https://www.expressen.se/nyheter/sverige/carl-henric-svanberg-om-svara-tiden-efter-operationen/",
-      "published_at": "2026-11-20T13:28:49+01:00",
-      "fetched_at": "2026-11-20T13:31:03+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Carl-Henric Svanberg om svåra tiden efter operationen",
-        "summary": "Näringslivstoppen Carl-Henric Svanberg fick cancer av asbest. Nu berättar han om den svåra tiden efteråt. – Jag var ju i princip förlamad, säger han i en intervju med Di Weekend.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Carl-Henric Svanberg on the difficult time after the operation",
-        "summary": "Business leader Carl-Henric Svanberg developed cancer from asbestos. Now he talks about the difficult time afterwards. – I was basically paralysed, he says in an interview with Di Weekend."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:31:20+01:00"
       }
     }
   ]
