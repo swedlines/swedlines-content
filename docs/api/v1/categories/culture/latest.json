@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T00:15:46+01:00",
+  "generated_at": "2026-11-25T00:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c755722b022c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/BrRKzE/maria-om-sitt-barn-han-kanns-inte-som-en-hon",
+      "guid": "https://www.svd.se/a/BrRKzE/maria-om-sitt-barn-han-kanns-inte-som-en-hon?utm_medium=rss",
+      "published_at": "2026-11-25T00:15:00+01:00",
+      "fetched_at": "2026-11-25T00:31:00+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/e10f2e42-bfed-39f7-8003-58726bf7250e?format=auto&s=232121704a77ba758ef4442c9af1fc9e40831101&w=1000",
+      "sv": {
+        "title": "Maria om sitt barn: ”Han känns inte som en hon”",
+        "summary": "Barnet har kommit ut som trans – ”men han känns inte som en hon”, skriver föräldern.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Maria on her child: \"He doesn't feel like a she\"",
+        "summary": "The child has come out as trans – \"but he doesn't feel like a she\", the parent writes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T00:31:05+01:00"
+      }
+    },
     {
       "id": "2296188aa725",
       "schema_version": 1,
@@ -5687,35 +5714,6 @@
       "en": {
         "title": "Reports: \"Home Alone\" makes a comeback",
         "summary": "A new sequel to the Christmas classic \"Home Alone\" is in development at Disney, Variety reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T08:15:48+01:00"
-      }
-    },
-    {
-      "id": "d83a6fe483e5",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2EOWK3Vq8qRAVPSUTFoklF/death-by-chocolate-chokladtarta-med-chokladglasyr",
-      "guid": "2EOWK3Vq8qRAVPSUTFoklF",
-      "published_at": "2026-11-21T08:04:45+01:00",
-      "fetched_at": "2026-11-21T08:15:42+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Mat"
-      ],
-      "sv": {
-        "title": "Death by chocolate – chokladtårta med chokladglasyr",
-        "summary": "Dagens helgtips bjuder på en maffig chokladtårta där saftiga chokladbottnar varvas med en len och fyllig chokladkräm smaksatt med apelsin. Som pricken över i täcks hela härligheten med en glansig chokladglasyr. En underbart god chokladtårta som passar perfekt när du vill bjuda på något extra gott.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Death by chocolate – chocolate cake with chocolate glaze",
-        "summary": "Today's weekend tip is a stately chocolate cake where juicy chocolate sponge layers alternate with a smooth, rich chocolate cream flavoured with orange. As the icing on the cake, the whole thing is covered with a glossy chocolate glaze. A wonderfully good chocolate cake that is perfect when you want to treat yourself to something extra good."
       },
       "translation": {
         "status": "done",
