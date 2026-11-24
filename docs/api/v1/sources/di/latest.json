@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T22:41:59+01:00",
+  "generated_at": "2026-11-24T22:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1f59b310f8e0",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/hogre-omsattning-och-resultat-an-vantat-for-hp",
+      "guid": "6350474f-c121-4d95-8c43-f508d9422e6f",
+      "published_at": "2026-11-24T22:37:38+01:00",
+      "fetched_at": "2026-11-24T22:45:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Högre omsättning och resultat än väntat för HP",
+        "summary": "Den amerikanska dator- och skrivartillverkaren HP redovisade ett högre resultat och en högre omsättning än väntat för det fjärde kvartalet. Även mittpunkten i bolagets resultatprognos för det kommande räkenskapsåret översteg analytikernas förväntningar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Higher revenue and earnings than expected for HP",
+        "summary": "The American computer and printer maker HP reported higher earnings and revenue than expected for the fourth quarter. The midpoint of the company’s earnings forecast for the coming fiscal year also exceeded analysts’ expectations."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T22:45:56+01:00"
+      }
+    },
     {
       "id": "5062d4a86efc",
       "schema_version": 1,
@@ -5293,33 +5319,6 @@
       "en": {
         "title": "US economy shrinks",
         "summary": "The Chicago Federal Reserve's national activity index came in at minus 0.06 in October, down from 0.05 the previous month."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T14:45:56+01:00"
-      }
-    },
-    {
-      "id": "fa0a6ced3275",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ledare/en-bankskandal-som-forskracker",
-      "guid": "edcfcf83-0114-40b8-b3fa-5cae7be16727",
-      "published_at": "2026-11-23T14:30:50+01:00",
-      "fetched_at": "2026-11-23T14:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/f5eebc12-1411-4657-98cd-5806697b5f23.jpeg?width=600",
-      "sv": {
-        "title": "En bankskandal som förskräcker",
-        "summary": "Deutsche Banks skandalösa affärer med bland annat ryska oligarker har den senaste veckan kostat aktieägarna tiotals miljarder kronor i förlorat börsvärde. Än en gång äventyrar en bank sin viktigaste tillgång – ryktet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "A banking scandal that alarms",
-        "summary": "Deutsche Bank's scandalous dealings, including with Russian oligarchs, have over the past week cost shareholders tens of billions of kronor in lost market value. Once again a bank is jeopardising its most important asset – its reputation."
       },
       "translation": {
         "status": "done",

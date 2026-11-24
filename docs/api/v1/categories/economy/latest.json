@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T22:41:59+01:00",
+  "generated_at": "2026-11-24T22:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1f59b310f8e0",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/hogre-omsattning-och-resultat-an-vantat-for-hp",
+      "guid": "6350474f-c121-4d95-8c43-f508d9422e6f",
+      "published_at": "2026-11-24T22:37:38+01:00",
+      "fetched_at": "2026-11-24T22:45:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Högre omsättning och resultat än väntat för HP",
+        "summary": "Den amerikanska dator- och skrivartillverkaren HP redovisade ett högre resultat och en högre omsättning än väntat för det fjärde kvartalet. Även mittpunkten i bolagets resultatprognos för det kommande räkenskapsåret översteg analytikernas förväntningar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Higher revenue and earnings than expected for HP",
+        "summary": "The American computer and printer maker HP reported higher earnings and revenue than expected for the fourth quarter. The midpoint of the company’s earnings forecast for the coming fiscal year also exceeded analysts’ expectations."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T22:45:56+01:00"
+      }
+    },
     {
       "id": "86e0fb463739",
       "schema_version": 1,
@@ -5218,32 +5244,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T07:15:57+01:00"
-      }
-    },
-    {
-      "id": "a91ec9250fe9",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/storagaren-gar-over-25-procent-i-ferronordic",
-      "guid": "3d3b293b-add3-481f-89a5-5ec58e38f223",
-      "published_at": "2026-11-24T06:45:01+01:00",
-      "fetched_at": "2026-11-24T06:58:32+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Storägaren går över 25 procent i Ferronordic",
-        "summary": "Ferronordics största ägare Per Arwidsson har ökat sitt innehav till över 25 procent av kapitalet i bolaget som är en återförsäljare av anläggningsmaskiner, enligt ett flaggningsmeddelande från Finansinspektionen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Major owner passes 25 percent in Ferronordic",
-        "summary": "Ferronordic's largest owner Per Arwidsson has increased his holding to over 25 percent of the capital in the company, which is a dealer of construction machinery, according to a disclosure notice from the Swedish Financial Supervisory Authority."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T06:58:36+01:00"
       }
     }
   ]

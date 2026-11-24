@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T22:41:59+01:00",
+  "generated_at": "2026-11-24T22:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6ac5d72cd11f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/kand-journalist-atalas-for-vapenbrott",
+      "guid": "https://www.expressen.se/nyheter/sverige/kand-journalist-atalas-for-vapenbrott/",
+      "published_at": "2026-11-24T22:42:46+01:00",
+      "fetched_at": "2026-11-24T22:45:47+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Känd journalist åtalas för vapenbrott",
+        "summary": "En känd journalist åtalas för vapenbrott. I mannens bostad hittades en pistol och ett gevär som han inte hade licens för. Han erkänner brott.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Well-known journalist charged with weapons offence",
+        "summary": "A well-known journalist is charged with weapons offence. A pistol and a rifle that he did not have a licence for were found in the man’s home. He admits to the crime."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T22:45:56+01:00"
+      }
+    },
     {
       "id": "6f72d1bf0fbe",
       "schema_version": 1,
@@ -5409,32 +5435,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T09:01:24+01:00"
-      }
-    },
-    {
-      "id": "824035dc4222",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346787",
-      "guid": "rss:sr.se/article/9346787",
-      "published_at": "2026-11-20T08:31:00+01:00",
-      "fetched_at": "2026-11-20T08:45:41+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Uppgifter: Svensk kvinna mördad i Filippinerna",
-        "summary": "En svensk kvinna i 70-årsåldern har dött på ön Cebu i Filippinerna, rapporterar Expressen. Kvinnan ska ha mördats, enligt lokala medier. UD bekräftar att en svensk kvinna i 70-årsåldern från Götaland avled i Filippinerna den 8 november, skriver Expressen. Anhöriga är underrättade.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: Swedish woman murdered in the Philippines",
-        "summary": "A Swedish woman in her 70s has died on the island of Cebu in the Philippines, reports Expressen. The woman is said to have been murdered, according to local media. The Foreign Ministry confirms that a Swedish woman in her 70s from Götaland died in the Philippines on 8 November, writes Expressen. Relatives have been notified."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T08:45:49+01:00"
       }
     }
   ]
