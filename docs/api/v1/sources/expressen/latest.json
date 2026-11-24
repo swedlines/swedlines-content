@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T13:31:25+01:00",
+  "generated_at": "2026-11-24T13:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9d9ba97ff1fa",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f8fefed4-7d3a-40c1-93f1-438f27986678",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f8fefed4-7d3a-40c1-93f1-438f27986678",
+      "published_at": "2026-11-24T13:28:33+01:00",
+      "fetched_at": "2026-11-24T13:45:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Stormöte för C ikväll",
+        "summary": "Ska få ”lägesuppdatering”, enligt Expressens uppgifter",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Emergency meeting for C tonight",
+        "summary": "Will receive a \"situation update,\" according to Expressen's information."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:45:53+01:00"
+      }
+    },
     {
       "id": "f598aaf449c9",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T23:01:20+01:00"
-      }
-    },
-    {
-      "id": "9e86378384a4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/sport/tips-och-odds/enorm-svensk-vinst-pa-eurojackpot",
-      "guid": "https://www.expressen.se/sport/tips-och-odds/enorm-svensk-vinst-pa-eurojackpot/",
-      "published_at": "2026-11-20T21:55:02+01:00",
-      "fetched_at": "2026-11-20T22:01:15+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Enorm svensk vinst på Eurojackpot",
-        "summary": "Tomt i plånboken veckan före löning? Inte för en, just nu, ovetande svensk. På fredagen blev den 113 miljoner rikare.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Huge Swedish win on Eurojackpot",
-        "summary": "Empty wallet the week before payday? Not for one unaware Swede right now. On Friday they became 113 million richer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T22:01:22+01:00"
       }
     }
   ]

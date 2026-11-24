@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T13:31:25+01:00",
+  "generated_at": "2026-11-24T13:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6d82ec7401b7",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/M5R0A5/manga-skadade-i-bilbomb-i-colombia",
+      "guid": "https://www.aftonbladet.se/nyheter/a/M5R0A5/manga-skadade-i-bilbomb-i-colombia?utm_medium=rss",
+      "published_at": "2026-11-24T13:30:37+01:00",
+      "fetched_at": "2026-11-24T13:45:46+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/ab586ae6-58e7-3317-b28d-23e7a640f0d7?format=auto&s=43be69445e377ea33c6faa21f735ac22ad2dfb2c&w=1000",
+      "sv": {
+        "title": "Många skadade i bilbomb i Colombia",
+        "summary": "Minst 25 personer har skadats i en kraftig explosion i centrala Colombia.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Many injured in car bomb in Colombia",
+        "summary": "At least 25 people have been injured in a powerful explosion in central Colombia."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:45:53+01:00"
+      }
+    },
     {
       "id": "dfac783a3ada",
       "schema_version": 1,
@@ -5344,33 +5371,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T11:45:53+01:00"
-      }
-    },
-    {
-      "id": "e888f256a519",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/z0GP0r/flera-olyckor-i-snoovadret-voltat",
-      "guid": "https://www.aftonbladet.se/nyheter/a/z0GP0r/flera-olyckor-i-snoovadret-voltat?utm_medium=rss",
-      "published_at": "2026-11-21T11:28:04+01:00",
-      "fetched_at": "2026-11-21T11:31:00+01:00",
-      "category": "weather",
-      "image_url": "https://akamai.vgc.no/v2/images/1c6f5e1c-b670-36ab-8a9d-08a4a6b03918?format=auto&s=77edb6d2814bb21664eb2222c6a4682408441f79&w=1000",
-      "sv": {
-        "title": "Flera olyckor i snöovädret: ”Voltat”",
-        "summary": "Flera olyckor ✓ Varning tillbaka",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Several accidents in the snowstorm: \"Voltat\"",
-        "summary": "Several accidents ✓ Warning back"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T11:31:08+01:00"
       }
     }
   ]

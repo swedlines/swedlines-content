@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T13:31:25+01:00",
+  "generated_at": "2026-11-24T13:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9d9ba97ff1fa",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f8fefed4-7d3a-40c1-93f1-438f27986678",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f8fefed4-7d3a-40c1-93f1-438f27986678",
+      "published_at": "2026-11-24T13:28:33+01:00",
+      "fetched_at": "2026-11-24T13:45:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Stormöte för C ikväll",
+        "summary": "Ska få ”lägesuppdatering”, enligt Expressens uppgifter",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Emergency meeting for C tonight",
+        "summary": "Will receive a \"situation update,\" according to Expressen's information."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:45:53+01:00"
+      }
+    },
     {
       "id": "300cdca2daaf",
       "schema_version": 1,
@@ -78,6 +104,39 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T13:31:19+01:00"
+      }
+    },
+    {
+      "id": "5929e6a365cb",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/inte-omojligt-med-ny-alliansregering-enligt-kristersson-m.04828310-bb91-52ae-8fab-95d095076646",
+      "guid": "04828310-bb91-52ae-8fab-95d095076646",
+      "published_at": "2026-11-24T13:14:53+01:00",
+      "fetched_at": "2026-11-24T13:45:47+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Ulf Kristersson",
+        "Tagg: Centerpartiet",
+        "Tagg: Elisabeth Thand Ringqvist"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e025587e-858e-3fbd-8e5d-db38526b9576",
+      "sv": {
+        "title": "Ulf Kristerssons besked om en ny Alliansregering",
+        "summary": "Redo för ny statsministeromröstning efter C beslut om samtal",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ulf Kristersson's decision on a new Alliance government",
+        "summary": "Ready for a new prime minister vote after C's decision to hold talks."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:45:53+01:00"
       }
     },
     {
@@ -5330,61 +5389,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T18:15:53+01:00"
-      }
-    },
-    {
-      "id": "3a98aff8fe31",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/gt/goteborg-infor-stockholmspriser-pa-p-boter",
-      "guid": "https://www.expressen.se/gt/goteborg-infor-stockholmspriser-pa-p-boter/",
-      "published_at": "2026-11-22T17:30:08+01:00",
-      "fetched_at": "2026-11-22T17:45:42+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Göteborg inför Stockholmspriser på p-böter",
-        "summary": "Göteborgs stad inför ”Stockholmspriser” på p-böter. – Det har blivit en stark rabatt på att parkera fel i Göteborg. Det kan vi inte stå bakom, säger kommunpolitikern Karin Pleijel (MP) till GP.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Göteborg introduces Stockholm prices for parking fines",
-        "summary": "The city of Göteborg is introducing \"Stockholm prices\" for parking fines. – Parking incorrectly has become a strong discount in Göteborg. We cannot stand behind that, says municipal politician Karin Pleijel (MP) to GP."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T17:45:48+01:00"
-      }
-    },
-    {
-      "id": "7f6ccba7b668",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1hEVIVaJrXJ8UnPjwtRhRh/oron-inom-c-s-vaensterfalang-vi-aer-pa-vaeg-att-foerlora",
-      "guid": "1hEVIVaJrXJ8UnPjwtRhRh",
-      "published_at": "2026-11-22T17:28:53+01:00",
-      "fetched_at": "2026-11-22T17:31:01+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Oron inom C:s vänsterfalang: ”Vi är på väg att förlora”",
-        "summary": "Fastlåsta positioner med V • Källan: ”Det skulle bli inbördeskrig”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Concern in the Centre Party's left wing: \"We are about to lose\"",
-        "summary": "Locked-in positions with the Left Party • Source: \"It would become civil war\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T17:31:08+01:00"
       }
     }
   ]

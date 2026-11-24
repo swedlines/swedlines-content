@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T13:31:25+01:00",
+  "generated_at": "2026-11-24T13:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5a6f4fce38c5",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/tidigare-ministern-vill-slopa-arlandaavgiften-mycket-billigare",
+      "guid": "https://www.dn.se/sverige/tidigare-ministern-vill-slopa-arlandaavgiften-mycket-billigare/",
+      "published_at": "2026-11-24T13:31:34+01:00",
+      "fetched_at": "2026-11-24T13:45:45+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/fc16f743-03a8-4e7a-a615-844de1ed6bba.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Tidigare ministern vill slopa Arlandaavgiften: ”Mycket billigare”",
+        "summary": "Stationsavgiften på Arlanda central borde slopas så att det blir billigare att ta sig till flygplatsen. Det tycker politikerveteranen och tidigare Arlandasamordnaren Peter Norman.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Former minister wants to scrap Arlanda charge: \"Much cheaper\"",
+        "summary": "The station charge at Arlanda Central should be scrapped so that it becomes cheaper to get to the airport. That is the view of veteran politician and former Arlanda coordinator Peter Norman."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:45:53+01:00"
+      }
+    },
     {
       "id": "dfac783a3ada",
       "schema_version": 1,
@@ -5449,33 +5476,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T20:15:56+01:00"
-      }
-    },
-    {
-      "id": "1332b14720b2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/larm-om-fagelinfluensa-vacker-oro-gor-allt-for-att-forhindra",
-      "guid": "e5cc15ea-23ad-4816-89ae-0ac4111fbbce",
-      "published_at": "2026-11-19T20:00:00+01:00",
-      "fetched_at": "2026-11-19T20:01:18+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/fda8cb6f-63d7-4044-8fa6-bad6ba6f3165.jpeg?width=600",
-      "sv": {
-        "title": "Larm om fågelinfluensa väcker oro: “Gör allt för att förhindra”",
-        "summary": "Stora delar av södra Sverige är nu ett högriskområde för fågelinfluensa. Jordbruksverket gick under tisdagen ut med en varning efter flera fall bland vilda fåglar. – Oro finns självklart, säger Sofia Hollstedt, vd på värphönsproducenten Lohmann.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Alarm over bird flu sparks concern: \"Do everything to prevent it\"",
-        "summary": "Large parts of southern Sweden are now a high-risk area for bird flu. The Swedish Board of Agriculture issued a warning on Tuesday after several cases among wild birds. \"Of course there is concern,\" says Sofia Hollstedt, CEO of egg-laying hen producer Lohmann."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T20:01:24+01:00"
       }
     }
   ]

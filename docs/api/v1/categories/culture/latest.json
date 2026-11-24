@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T13:31:25+01:00",
+  "generated_at": "2026-11-24T13:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5d7cee164068",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/inbrott-i-kate-och-williams-semesterhem",
+      "guid": "https://www.svt.se/nyheter/utrikes/inbrott-i-kate-och-williams-semesterhem",
+      "published_at": "2026-11-24T13:35:10+01:00",
+      "fetched_at": "2026-11-24T13:45:44+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Inbrott i Kate och Williams semesterhem",
+        "summary": "Det brittiska kronprinsparet William och Kate hade inbrott i sitt semesterhem i Norfolk på måndagskvällen, rapporterar The Sun.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Burglary at Kate and William's holiday home",
+        "summary": "The British Prince and Princess of Wales, William and Kate, had a burglary at their holiday home in Norfolk on Monday evening, reports The Sun."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:45:53+01:00"
+      }
+    },
     {
       "id": "aad0011d088d",
       "schema_version": 1,
@@ -5676,33 +5702,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T22:01:22+01:00"
-      }
-    },
-    {
-      "id": "ecdcb9343c15",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/410996",
-      "guid": "https://tv.aftonbladet.se/video/410996?utm_medium=rss",
-      "published_at": "2026-11-20T21:23:59+01:00",
-      "fetched_at": "2026-11-20T23:31:02+01:00",
-      "category": "culture",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/f5ccbc5b886071178c9ae1d1f5bdfd70.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "Vilken tavla! För 1 940 755 874 kronor",
-        "summary": "Uppgörelse: Tvångssåldes under nazisterna",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "What a painting! For SEK 1,940,755,874",
-        "summary": "Settlement: Forced sale under the Nazis"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T23:31:08+01:00"
       }
     }
   ]

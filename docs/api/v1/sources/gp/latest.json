@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-24T13:31:25+01:00",
+  "generated_at": "2026-11-24T13:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5929e6a365cb",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/inte-omojligt-med-ny-alliansregering-enligt-kristersson-m.04828310-bb91-52ae-8fab-95d095076646",
+      "guid": "04828310-bb91-52ae-8fab-95d095076646",
+      "published_at": "2026-11-24T13:14:53+01:00",
+      "fetched_at": "2026-11-24T13:45:47+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Ulf Kristersson",
+        "Tagg: Centerpartiet",
+        "Tagg: Elisabeth Thand Ringqvist"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e025587e-858e-3fbd-8e5d-db38526b9576",
+      "sv": {
+        "title": "Ulf Kristerssons besked om en ny Alliansregering",
+        "summary": "Redo för ny statsministeromröstning efter C beslut om samtal",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ulf Kristersson's decision on a new Alliance government",
+        "summary": "Ready for a new prime minister vote after C's decision to hold talks."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:45:53+01:00"
+      }
+    },
     {
       "id": "5a354cc4e7db",
       "schema_version": 1,
@@ -6874,41 +6907,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T19:01:19+01:00"
-      }
-    },
-    {
-      "id": "1d6df541032e",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/ekonomi/helgeson-och-hamnararbetarforbundet-forlorar-malet-mot-containerterminalen.76f9d323-a984-5cee-bdc0-ebb52e520d9d",
-      "guid": "76f9d323-a984-5cee-bdc0-ebb52e520d9d",
-      "published_at": "2026-11-19T17:31:44+01:00",
-      "fetched_at": "2026-11-19T18:01:21+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Ekonomi",
-        "Tagg: Fackförbund",
-        "Tagg: Sveriges Hamnar",
-        "Tagg: Svenska Hamnarbetarförbundet",
-        "Tagg: Arbetsdomstolen",
-        "Tagg: APM terminals"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/c56c768b-ae92-3073-b75a-cf0e8849e293",
-      "sv": {
-        "title": "Facket ska betala 500 000 efter Helgeson-fallet",
-        "summary": "Erik Helgeson: ”AD pekar på en teknikalitet”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Union to pay 500,000 after the Helgeson case",
-        "summary": "Erik Helgeson: \"The CEO points to a technicality\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:01:29+01:00"
       }
     }
   ]
