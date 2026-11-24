@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-24T15:31:12+01:00",
+  "generated_at": "2026-11-24T15:34:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a23d89b24fc2",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/baksmalla-pa-wall-street-hajpen-lagger-sig",
+      "guid": "8f4d6ee4-e0d8-4e58-8979-eedd81abe99a",
+      "published_at": "2026-11-24T15:32:08+01:00",
+      "fetched_at": "2026-11-24T15:34:06+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/63692065-05e1-4ece-8eae-fc2abbfd3d98.jpeg?width=600",
+      "sv": {
+        "title": "Baksmälla på Wall Street: ”Hajpen lägger sig”",
+        "summary": "Wall Street åker på en baksmälla efter måndagens AI-fest, där Nvidia rusade över 30 procent. Nu faller chipjätten och indexen tillbaka. ”Hajpen lägger sig, känslorna svalnar och alla börjar tänka igen”, säger Banca Finanziaria Internazionale-chefen Jacopo Ceccatelli till Bloomberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wall Street hangover: “The hype is fading”",
+        "summary": "Wall Street is nursing a hangover after Monday's AI party, when Nvidia surged more than 30 percent. Now the chipmaker and the indices are falling back. “The hype is fading, emotions are cooling and everyone starts thinking again,” says Jacopo Ceccatelli, chief of Banca Finanziaria Internazionale, to Bloomberg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:34:10+01:00"
+      }
+    },
+    {
+      "id": "1873fc425331",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/saab-forvarvar-amerikanskt-bolag",
+      "guid": "3f805a58-7c03-4f7c-834f-d884093f88a2",
+      "published_at": "2026-11-24T15:30:00+01:00",
+      "fetched_at": "2026-11-24T15:34:06+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Saab förvärvar amerikanskt bolag",
+        "summary": "Försvarskoncernen Saab har förvärvat det amerikanska bolaget Mythos AI, som utvecklar teknik för maritim autonomi.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Saab acquires American company",
+        "summary": "Defence group Saab has acquired the American company Mythos AI, which develops technology for maritime autonomy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:34:10+01:00"
+      }
+    },
     {
       "id": "180a5b2a6785",
       "schema_version": 1,
@@ -5243,58 +5296,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T18:33:12+01:00"
-      }
-    },
-    {
-      "id": "ba19eb74178c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/julkalendrar-med-snus-och-alkohol-bryter-mot-lagen",
-      "guid": "https://www.expressen.se/nyheter/sverige/julkalendrar-med-snus-och-alkohol-bryter-mot-lagen/",
-      "published_at": "2026-11-23T18:21:39+01:00",
-      "fetched_at": "2026-11-23T18:30:59+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Julkalendrar med snus och alkohol bryter mot lagen",
-        "summary": "Konsumentverket slår larm om adventskalendrar med vitt snus och alkohol – som bryter mot lagen. Nu granskas sex företag för olaglig marknadsföring.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Advent calendars with snus and alcohol break the law",
-        "summary": "The Swedish Consumer Agency sounds the alarm about advent calendars with white snus and alcohol, which break the law. Six companies are now being investigated for illegal marketing."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T18:31:03+01:00"
-      }
-    },
-    {
-      "id": "3962b145c6f0",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/carl-bennets-juvel-aker-ur-finrummet",
-      "guid": "6beb1ae3-9e95-4f08-a5bf-daa73d670dc3",
-      "published_at": "2026-11-23T18:11:27+01:00",
-      "fetched_at": "2026-11-23T18:15:46+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Carl Bennets juvel åker ur finrummet",
-        "summary": "Carl Bennets serieförvärvare Lifco åker ur OMXS30 och ersätts av ett av Investors portföljbolag. Det framgår av ett pressmeddelande från Nasdaq.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Carl Bennet's jewel drops out of the elite",
-        "summary": "Carl Bennet's serial acquirer Lifco is being removed from the OMXS30 and replaced by one of Investor's portfolio companies. This is according to a press release from Nasdaq."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T18:15:53+01:00"
       }
     }
   ]

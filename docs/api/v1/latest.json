@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T15:31:12+01:00",
+  "generated_at": "2026-11-24T15:34:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a23d89b24fc2",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/baksmalla-pa-wall-street-hajpen-lagger-sig",
+      "guid": "8f4d6ee4-e0d8-4e58-8979-eedd81abe99a",
+      "published_at": "2026-11-24T15:32:08+01:00",
+      "fetched_at": "2026-11-24T15:34:06+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/63692065-05e1-4ece-8eae-fc2abbfd3d98.jpeg?width=600",
+      "sv": {
+        "title": "Baksmälla på Wall Street: ”Hajpen lägger sig”",
+        "summary": "Wall Street åker på en baksmälla efter måndagens AI-fest, där Nvidia rusade över 30 procent. Nu faller chipjätten och indexen tillbaka. ”Hajpen lägger sig, känslorna svalnar och alla börjar tänka igen”, säger Banca Finanziaria Internazionale-chefen Jacopo Ceccatelli till Bloomberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wall Street hangover: “The hype is fading”",
+        "summary": "Wall Street is nursing a hangover after Monday's AI party, when Nvidia surged more than 30 percent. Now the chipmaker and the indices are falling back. “The hype is fading, emotions are cooling and everyone starts thinking again,” says Jacopo Ceccatelli, chief of Banca Finanziaria Internazionale, to Bloomberg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:34:10+01:00"
+      }
+    },
     {
       "id": "ac8d6db95ebc",
       "schema_version": 1,
@@ -27,6 +54,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T15:31:10+01:00"
+      }
+    },
+    {
+      "id": "1873fc425331",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/saab-forvarvar-amerikanskt-bolag",
+      "guid": "3f805a58-7c03-4f7c-834f-d884093f88a2",
+      "published_at": "2026-11-24T15:30:00+01:00",
+      "fetched_at": "2026-11-24T15:34:06+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Saab förvärvar amerikanskt bolag",
+        "summary": "Försvarskoncernen Saab har förvärvat det amerikanska bolaget Mythos AI, som utvecklar teknik för maritim autonomi.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Saab acquires American company",
+        "summary": "Defence group Saab has acquired the American company Mythos AI, which develops technology for maritime autonomy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:34:10+01:00"
       }
     },
     {
@@ -5340,57 +5393,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T10:31:08+01:00"
-      }
-    },
-    {
-      "id": "7faa6e40adfd",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/abg-graa-moln-over-kursvinnaren-salj",
-      "guid": "caadafed-f646-48bb-a834-9fad6bf26db6",
-      "published_at": "2026-11-24T10:18:24+01:00",
-      "fetched_at": "2026-11-24T10:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/184b488c-08e8-43a2-a447-c68370f9c70a.jpeg?width=600",
-      "sv": {
-        "title": "ABG: Gråa moln över kursvinnaren – sälj",
-        "summary": "Gråa moln börjar samlas vid detaljhandelsföretaget Clas Ohlsons horisont. Det skriver ABG Sundal Collier i en inledande analys, vilken får aktien att backa på tisdagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "ABG: Grey clouds over top performer – sell",
-        "summary": "Grey clouds are gathering over the horizon of retailer Clas Ohlson. This is according to ABG Sundal Collier in an initial analysis, which causes the share to fall on Tuesday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T10:31:08+01:00"
-      }
-    },
-    {
-      "id": "7991d188783e",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80257",
-      "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80257&utm_medium=rss",
-      "published_at": "2026-11-24T10:16:21+01:00",
-      "fetched_at": "2026-11-24T14:15:49+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/de45a838-5e90-30b5-b193-c71739f29ac9?format=auto&s=931c01c015338c4f9e02b68695b7caf83d62656b&w=1000",
-      "sv": {
-        "title": "Kristersson: Beredd att pröva fyrpartiregering"
-      },
-      "en": {
-        "title": "Kristersson: Ready to test four-party government"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:16:06+01:00"
       }
     }
   ]
