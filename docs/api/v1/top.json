@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T11:16:11+01:00",
+  "generated_at": "2026-11-24T11:31:24+01:00",
   "count": 30,
   "stories": [
     {
@@ -958,6 +958,91 @@
       ]
     },
     {
+      "id": "d1981b21c099",
+      "source_count": 3,
+      "sources": [
+        "svd",
+        "expressen",
+        "sr"
+      ],
+      "first_published_at": "2026-11-24T10:16:21+01:00",
+      "last_published_at": "2026-11-24T11:24:00+01:00",
+      "lead": {
+        "id": "d1981b21c099",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80243",
+        "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80243&utm_medium=rss",
+        "published_at": "2026-11-24T10:16:21+01:00",
+        "fetched_at": "2026-11-24T10:31:01+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/61267cd3-2dc3-3128-a875-f1c08b5de4d8?format=auto&s=d23b3e1aba74b9e11be8672d94fe8e1e23197fd4&w=1000",
+        "sv": {
+          "title": "Kristersson fåordig på väg in till talmannen"
+        },
+        "en": {
+          "title": "Kristersson tight-lipped on way to the Speaker"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T10:31:08+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "da97b47ea7ca",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348940",
+          "published_at": "2026-11-24T11:24:00+01:00",
+          "sv": {
+            "title": "Kristersson redo för omröstning: Beredd att prövas"
+          },
+          "en": {
+            "title": "Kristersson ready for vote: Prepared to be tested"
+          }
+        },
+        {
+          "id": "c7dec62c53d7",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/ulf-kristersson-efter-motet-med-talmannen",
+          "published_at": "2026-11-24T11:05:02+01:00",
+          "sv": {
+            "title": "Ulf Kristersson efter mötet med talmannen"
+          },
+          "en": {
+            "title": "Ulf Kristersson after meeting with the Speaker"
+          }
+        },
+        {
+          "id": "f978686e9172",
+          "source": "svd",
+          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80246",
+          "published_at": "2026-11-24T10:16:21+01:00",
+          "sv": {
+            "title": "Kristersson: Beredd att pröva fyrpartiregering"
+          },
+          "en": {
+            "title": "Kristersson: Prepared to test four-party government"
+          }
+        },
+        {
+          "id": "d1981b21c099",
+          "source": "svd",
+          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80243",
+          "published_at": "2026-11-24T10:16:21+01:00",
+          "sv": {
+            "title": "Kristersson fåordig på väg in till talmannen"
+          },
+          "en": {
+            "title": "Kristersson tight-lipped on way to the Speaker"
+          }
+        }
+      ]
+    },
+    {
       "id": "a15646bb134a",
       "source_count": 3,
       "sources": [
@@ -1719,6 +1804,69 @@
       ]
     },
     {
+      "id": "7739c4381202",
+      "source_count": 2,
+      "sources": [
+        "sydsvenskan",
+        "sr"
+      ],
+      "first_published_at": "2026-11-24T10:37:41+01:00",
+      "last_published_at": "2026-11-24T11:25:00+01:00",
+      "lead": {
+        "id": "7739c4381202",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/ekonomi/efter-nyar-blir-det-dyrare-att-skicka-sma-brev",
+        "guid": "3321c8bb-d748-4ba8-b8e8-43fdac291c37",
+        "published_at": "2026-11-24T10:37:41+01:00",
+        "fetched_at": "2026-11-24T10:45:51+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/4ac6e0ff-0c06-4a4c-8514-372f11dd7954.jpg?width=600",
+        "sv": {
+          "title": "Nästa år blir det dyrare att skicka små brev",
+          "summary": "Från och med den 1 januari höjs portot för inrikes brev upp till 50 gram.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Next year it will cost more to send small letters",
+          "summary": "From 1 January, the postage for domestic letters up to 50 grams is raised."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T10:45:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "3210a8016145",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348938",
+          "published_at": "2026-11-24T11:25:00+01:00",
+          "sv": {
+            "title": "Så mycket dyrare blir det att skicka brev 2027"
+          },
+          "en": {
+            "title": "This is how much more expensive it will be to send a letter in 2027"
+          }
+        },
+        {
+          "id": "7739c4381202",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/efter-nyar-blir-det-dyrare-att-skicka-sma-brev",
+          "published_at": "2026-11-24T10:37:41+01:00",
+          "sv": {
+            "title": "Nästa år blir det dyrare att skicka små brev"
+          },
+          "en": {
+            "title": "Next year it will cost more to send small letters"
+          }
+        }
+      ]
+    },
+    {
       "id": "88f96c764c26",
       "source_count": 2,
       "sources": [
@@ -1779,66 +1927,6 @@
           },
           "en": {
             "title": "Andersson: No conditions to form a government"
-          }
-        }
-      ]
-    },
-    {
-      "id": "d1981b21c099",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-24T10:16:21+01:00",
-      "last_published_at": "2026-11-24T11:05:02+01:00",
-      "lead": {
-        "id": "d1981b21c099",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80243",
-        "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80243&utm_medium=rss",
-        "published_at": "2026-11-24T10:16:21+01:00",
-        "fetched_at": "2026-11-24T10:31:01+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/61267cd3-2dc3-3128-a875-f1c08b5de4d8?format=auto&s=d23b3e1aba74b9e11be8672d94fe8e1e23197fd4&w=1000",
-        "sv": {
-          "title": "Kristersson fåordig på väg in till talmannen"
-        },
-        "en": {
-          "title": "Kristersson tight-lipped on way to the Speaker"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T10:31:08+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "c7dec62c53d7",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/ulf-kristersson-efter-motet-med-talmannen",
-          "published_at": "2026-11-24T11:05:02+01:00",
-          "sv": {
-            "title": "Ulf Kristersson efter mötet med talmannen"
-          },
-          "en": {
-            "title": "Ulf Kristersson after meeting with the Speaker"
-          }
-        },
-        {
-          "id": "d1981b21c099",
-          "source": "svd",
-          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80243",
-          "published_at": "2026-11-24T10:16:21+01:00",
-          "sv": {
-            "title": "Kristersson fåordig på väg in till talmannen"
-          },
-          "en": {
-            "title": "Kristersson tight-lipped on way to the Speaker"
           }
         }
       ]
@@ -2354,69 +2442,6 @@
           },
           "en": {
             "title": "Ivo: Unsuitable operators stopped from running care"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b352c9fc7b88",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-24T06:00:18+01:00",
-      "last_published_at": "2026-11-24T06:01:04+01:00",
-      "lead": {
-        "id": "b352c9fc7b88",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/dJOagO/demoskop-byter-metod-till-slumpmassigt-urval",
-        "guid": "https://www.svd.se/a/dJOagO/demoskop-byter-metod-till-slumpmassigt-urval?utm_medium=rss",
-        "published_at": "2026-11-24T06:00:18+01:00",
-        "fetched_at": "2026-11-24T06:02:21+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/a93e09f9-f46f-352d-aa9c-53294d9b8657?format=auto&s=66e746c6f9b81e16c13d31d8848ae08971e4cb1d&w=1000",
-        "sv": {
-          "title": "Demoskop byter metod till slumpmässigt urval",
-          "summary": "Efter att ha utvärderat olika metoder byter Demoskop nu tillvägagångssätt för de opinionsmätningar…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Demoskop switches to random sampling",
-          "summary": "After evaluating different methods, Demoskop is now changing its approach to the opinion polls…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T06:02:27+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "f7453a8dee9a",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/dJOePB/demoskop-byter-metod-for-valjarbarometern",
-          "published_at": "2026-11-24T06:01:04+01:00",
-          "sv": {
-            "title": "Demoskop byter metod för väljarbarometern"
-          },
-          "en": {
-            "title": "Demoskop changes method for voter barometer"
-          }
-        },
-        {
-          "id": "b352c9fc7b88",
-          "source": "svd",
-          "url": "https://www.svd.se/a/dJOagO/demoskop-byter-metod-till-slumpmassigt-urval",
-          "published_at": "2026-11-24T06:00:18+01:00",
-          "sv": {
-            "title": "Demoskop byter metod till slumpmässigt urval"
-          },
-          "en": {
-            "title": "Demoskop switches to random sampling"
           }
         }
       ]

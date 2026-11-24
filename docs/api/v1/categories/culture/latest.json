@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T11:16:11+01:00",
+  "generated_at": "2026-11-24T11:31:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "52ef651a712a",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/maria-mullern-aspegren-varfor-gor-svt-jakten-pa-klitoris-sa-kranglig",
+      "guid": "https://www.dn.se/kultur/maria-mullern-aspegren-varfor-gor-svt-jakten-pa-klitoris-sa-kranglig/",
+      "published_at": "2026-11-24T11:30:05+01:00",
+      "fetched_at": "2026-11-24T11:30:58+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/2230b5a9-95bd-40af-9766-0075d8fb10eb.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Maria Müllern-Aspegren: Varför gör SVT jakten på klitoris så krånglig?",
+        "summary": "Det är inte nödvändigtvis fel att SVT ägnar sig åt sexualundervisning, men måste det osa av desperation? Maria Müllern-Aspegren har sett ”Jakten på klitoris”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Maria Müllern-Aspegren: Why does SVT make the hunt for the clitoris so convoluted?",
+        "summary": "It is not necessarily wrong for SVT to devote itself to sex education, but must it reek of desperation? Maria Müllern-Aspegren has watched “Jakten på klitoris”."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:31:16+01:00"
+      }
+    },
     {
       "id": "ddbd31599eff",
       "schema_version": 1,
@@ -5677,33 +5704,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T19:31:14+01:00"
-      }
-    },
-    {
-      "id": "c5089a935811",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/3BJwML/carina-bergfeldt-hjalpte-expert-att-anmala-svt",
-      "guid": "https://www.svd.se/a/3BJwML/carina-bergfeldt-hjalpte-expert-att-anmala-svt?utm_medium=rss",
-      "published_at": "2026-11-20T18:20:09+01:00",
-      "fetched_at": "2026-11-20T18:31:00+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/11deecbc-4841-3420-a82d-6a9776d30e4e?format=auto&s=f9c5b80a6653177c5803b914ad60e1ae54d131e2&w=1000",
-      "sv": {
-        "title": "Carina Bergfeldt hjälpte expert att anmäla SVT",
-        "summary": "En artikel av SVT:s Kulturnyheterna har anmälts till Granskningsnämnden av såväl journalisten och…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Carina Bergfeldt helped expert report SVT",
-        "summary": "An article by SVT's Kulturnyheterna has been reported to the Broadcasting Complaints Commission by both the journalist and…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:31:09+01:00"
       }
     }
   ]

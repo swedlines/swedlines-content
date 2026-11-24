@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T11:16:11+01:00",
+  "generated_at": "2026-11-24T11:31:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "da97b47ea7ca",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348940",
+      "guid": "rss:sr.se/article/9348940",
+      "published_at": "2026-11-24T11:24:00+01:00",
+      "fetched_at": "2026-11-24T11:30:58+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Kristersson redo för omröstning: Beredd att prövas",
+        "summary": "Ulf Kristersson (M) har rapporterat sitt sonderingsuppdrag för att bilda regering till talman Andreas Norlén. Han säger sig vara beredd att pröva en borgerlig fyrpartiregering i omröstning i riksdagen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Kristersson ready for vote: Prepared to be tested",
+        "summary": "Ulf Kristersson (M) has reported his exploratory mission to form a government to Speaker Andreas Norlén. He says he is prepared to test a centre-right four-party government in a vote in the Riksdag."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:31:16+01:00"
+      }
+    },
     {
       "id": "2ec303dfbeff",
       "schema_version": 1,
@@ -292,6 +318,30 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T10:31:08+01:00"
+      }
+    },
+    {
+      "id": "f978686e9172",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80246",
+      "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80246&utm_medium=rss",
+      "published_at": "2026-11-24T10:16:21+01:00",
+      "fetched_at": "2026-11-24T11:30:59+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/36637cb6-232a-366e-be22-2bbf5ef6ea92?format=auto&s=c20fe2c3ff98a9e2f6572032d867bff098b085c8&w=1000",
+      "sv": {
+        "title": "Kristersson: Beredd att pröva fyrpartiregering"
+      },
+      "en": {
+        "title": "Kristersson: Prepared to test four-party government"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:31:16+01:00"
       }
     },
     {
@@ -5311,56 +5361,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T08:01:19+01:00"
-      }
-    },
-    {
-      "id": "41fa2ab24d77",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347055",
-      "guid": "rss:sr.se/article/9347055",
-      "published_at": "2026-11-22T07:01:00+01:00",
-      "fetched_at": "2026-11-22T07:15:41+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Tillsynsmyndigheter: Fler brister i säkerhetsskyddet än de som upptäckts",
-        "summary": "Fler av de myndigheter som ska kontrollera att det så kallade säkerhetsskyddet mot bland annat sabotage, spionage och terrorism är tillräckligt i verksamheter som är viktiga för Sveriges säkerhet bedömer att bristerna är mer utbredda än de som upptäckts, det visar Ekots granskning.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Supervisory authorities: More shortcomings in security protection than those discovered",
-        "summary": "More of the authorities that are to check that so-called security protection against, among other things, sabotage, espionage and terrorism is adequate in operations that are important to Sweden's security judge that the shortcomings are more widespread than those discovered, according to Ekot's investigation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T07:15:50+01:00"
-      }
-    },
-    {
-      "id": "fe41d8af7cf0",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/moa-berglof/varken-hoger-eller-vanster-har-svar-pa-missnojet",
-      "guid": "515942e9-b0fd-4861-8dc2-0f1147c0605c",
-      "published_at": "2026-11-22T06:31:00+01:00",
-      "fetched_at": "2026-11-22T06:45:45+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/2024ea1a-c3ae-47c9-a381-fbb355184ab4.jpeg?width=600",
-      "sv": {
-        "title": "Vänsterpopulism är inte heller lösningen"
-      },
-      "en": {
-        "title": "Left-wing populism is not the solution either"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T06:45:55+01:00"
       }
     }
   ]

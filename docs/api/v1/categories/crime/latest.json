@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T11:16:11+01:00",
+  "generated_at": "2026-11-24T11:31:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "70218522c180",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/podcasts/episode/411131",
+      "guid": "https://www.aftonbladet.se/podcasts/episode/411131?utm_medium=rss",
+      "published_at": "2026-11-24T11:21:58+01:00",
+      "fetched_at": "2026-11-24T11:30:59+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/a6419b24-2a79-319a-a703-9f83df35355a?format=auto&s=6a7a7e24a78514147c63dac1a9f612c22377e4f3&w=1000",
+      "sv": {
+        "title": "Grannfejden i Luleå och mordet på Göran",
+        "summary": "Bilkameran fångar orden efter Görans död",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The neighbour feud in Luleå and the murder of Göran",
+        "summary": "Car camera captures the words after Göran’s death"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:31:16+01:00"
+      }
+    },
     {
       "id": "658ffe5faecf",
       "schema_version": 1,
@@ -5397,33 +5424,6 @@
       "en": {
         "title": "Students' weapons at the Sigtuna boarding school: Pointers and shoehorns",
         "summary": "Six students at Sigtunaskolan are charged with assault and sexual abuse. Among other things, students are said to have been assaulted with metal shoehorns and belts, and two of the charged students held positions of power at the boarding school. The investigation has shown that a power structure existed at the school."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T13:16:05+01:00"
-      }
-    },
-    {
-      "id": "1deb3893283b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/9Bvo4r/ranarna-sagade-hal-i-taket-pa-naturkompaniet-i-o-vik",
-      "guid": "https://www.aftonbladet.se/nyheter/a/9Bvo4r/ranarna-sagade-hal-i-taket-pa-naturkompaniet-i-o-vik?utm_medium=rss",
-      "published_at": "2026-11-19T13:05:02+01:00",
-      "fetched_at": "2026-11-19T13:15:48+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/c6906f93-25ce-3c07-8a8e-f0fe002dab67?format=auto&s=76d52c40f1e3fef3b7a89b17ea38a5ae88ae87cf&w=1000",
-      "sv": {
-        "title": "Tjuvarna sågade hål i taket – stal kläder för över miljonen",
-        "summary": "Minst 1 656 123 kronor",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Thieves sawed holes in the roof and stole clothes worth over a million",
-        "summary": "At least SEK 1,656,123"
       },
       "translation": {
         "status": "done",

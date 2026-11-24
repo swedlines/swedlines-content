@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T11:16:11+01:00",
+  "generated_at": "2026-11-24T11:31:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4b570ac3c1f7",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdPBBM/gaza-sex-dodade-i-israeliska-bombningar",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdPBBM/gaza-sex-dodade-i-israeliska-bombningar?utm_medium=rss",
+      "published_at": "2026-11-24T11:21:42+01:00",
+      "fetched_at": "2026-11-24T11:30:59+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/863671ee-473a-3fb6-9c2b-97ff8260c96b?format=auto&s=b36d6721d2a6cfcbce669651d0da53c054e785a8&w=1000",
+      "sv": {
+        "title": "Gaza: Sex dödade i israeliska bombningar",
+        "summary": "Sex personer har dödats i israeliska flyganfall mot Gazaremsan, uppger det palestinska…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gaza: Six killed in Israeli bombings",
+        "summary": "Six people have been killed in Israeli airstrikes on the Gaza Strip, according to the Palestinian…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:31:16+01:00"
+      }
+    },
     {
       "id": "2746f8276933",
       "schema_version": 1,
@@ -5327,32 +5354,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T10:15:43+01:00"
-      }
-    },
-    {
-      "id": "ee5628954a44",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/fartyget-i-finska-viken-annu-inte-slackt",
-      "guid": "https://www.svt.se/nyheter/utrikes/fartyget-i-finska-viken-annu-inte-slackt",
-      "published_at": "2026-11-22T09:49:27+01:00",
-      "fetched_at": "2026-11-22T10:01:11+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Fartyget i finska viken ännu inte släckt",
-        "summary": "Släckningsarbetet fortsätter efter lördagens förmodat ukrainska attack mot ett ryskflaggat fartyg i Finska viken. Vad fartyget är lastat med är fortfarande okänt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ship in the Gulf of Finland not yet extinguished",
-        "summary": "Firefighting continues after Saturday's suspected Ukrainian attack on a Russian-flagged ship in the Gulf of Finland. What the ship is carrying remains unknown."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T10:01:21+01:00"
       }
     }
   ]
