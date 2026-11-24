@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T10:52:44+01:00",
+  "generated_at": "2026-11-24T11:01:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8a831f762f7b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348907",
+      "guid": "rss:sr.se/article/9348907",
+      "published_at": "2026-11-24T10:56:00+01:00",
+      "fetched_at": "2026-11-24T11:01:07+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Varningen: ”För höga” elnätspriser under lång tid",
+        "summary": "Elnätskunder kan få betala för höga avgifter under lång tid framöver, trots att reglerna är på väg att stramas åt för elnätsbolagen. Den varningen kommer idag från Konkurrensverket.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Warning: \"Too high\" grid prices for a long time",
+        "summary": "Grid customers may have to pay excessive fees for a long time to come, even though the rules are about to be tightened for grid companies. The warning comes today from the Competition Authority."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:01:13+01:00"
+      }
+    },
     {
       "id": "4108f4a0498a",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T20:46:01+01:00"
-      }
-    },
-    {
-      "id": "644d4e8606e5",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345713",
-      "guid": "rss:sr.se/article/9345713",
-      "published_at": "2026-11-18T19:09:00+01:00",
-      "fetched_at": "2026-11-18T19:15:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Misstänkt mord på Jylland – två vuxna och ett barn döda",
-        "summary": "I den danska orten Give, på Jylland, misstänker polisen att tre personer har mördats, rapporterar danska medier. Det handlar om en tioårig flicka och två vuxna, som hittades i deras hem under förmiddagen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Suspected murder in Jutland – two adults and a child dead",
-        "summary": "In the Danish town of Give, in Jutland, police suspect three people have been murdered, Danish media report. It concerns a ten-year-old girl and two adults, who were found in their home during the morning."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:15:55+01:00"
       }
     }
   ]

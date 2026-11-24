@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-24T10:52:44+01:00",
+  "generated_at": "2026-11-24T11:01:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8a831f762f7b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348907",
+      "guid": "rss:sr.se/article/9348907",
+      "published_at": "2026-11-24T10:56:00+01:00",
+      "fetched_at": "2026-11-24T11:01:07+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Varningen: ”För höga” elnätspriser under lång tid",
+        "summary": "Elnätskunder kan få betala för höga avgifter under lång tid framöver, trots att reglerna är på väg att stramas åt för elnätsbolagen. Den varningen kommer idag från Konkurrensverket.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Warning: \"Too high\" grid prices for a long time",
+        "summary": "Grid customers may have to pay excessive fees for a long time to come, even though the rules are about to be tightened for grid companies. The warning comes today from the Competition Authority."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:01:13+01:00"
+      }
+    },
+    {
+      "id": "eef8cbeb0314",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Qro6xq/ilska-bland-centerpartister-efter-vandningen-svek",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Qro6xq/ilska-bland-centerpartister-efter-vandningen-svek?utm_medium=rss",
+      "published_at": "2026-11-24T10:55:29+01:00",
+      "fetched_at": "2026-11-24T11:01:08+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/1c2a80b3-c7f1-3513-8aa1-e46725cc4c32?format=auto&s=5c681a09e5c9125daad75e5536820c562e3ae6e3&w=1000",
+      "sv": {
+        "title": "Ilska bland centerpartister efter vändningen: ”Svek”",
+        "summary": "Ska samtala högerut ✓ Centerpartister rasar",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anger among Centre Party members after the turnaround: \"Betrayal\"",
+        "summary": "Will talk to the right ✓ Centre Party members rage"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:01:13+01:00"
+      }
+    },
+    {
+      "id": "cd94e22ec733",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/attendo-sager-upp-hemtjanstavtal-med-goteborg",
+      "guid": "889c9dc0-5ac7-4135-aa3f-6fca1e3f1980",
+      "published_at": "2026-11-24T10:52:29+01:00",
+      "fetched_at": "2026-11-24T11:01:09+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/4f5961a8-f46d-4662-9eeb-e704109f1a4c.jpeg?width=600",
+      "sv": {
+        "title": "Attendo säger upp hemtjänstavtal med Göteborg",
+        "summary": "Attendo säger upp sitt hemtjänstavtal med Göteborgs stad. Vård- och omsorgsbolaget anser att villkoren inte är tillräckligt bra.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Attendo terminates home care contract with Göteborg",
+        "summary": "Attendo is terminating its home care contract with the Göteborg municipality. The care company considers the terms not good enough."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:01:13+01:00"
+      }
+    },
     {
       "id": "32c1d7f04c46",
       "schema_version": 1,
@@ -5281,84 +5361,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T05:45:51+01:00"
-      }
-    },
-    {
-      "id": "5b410f10f70a",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sormland/105-av-112-botfallda-hade-betalat-for-parkering-javlas-med-folk",
-      "guid": "https://www.svt.se/nyheter/lokalt/sormland/105-av-112-botfallda-hade-betalat-for-parkering-javlas-med-folk",
-      "published_at": "2026-11-24T05:30:09+01:00",
-      "fetched_at": "2026-11-24T05:45:38+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "105 av 112 bötfällda hade betalat för parkering: ”Jävlas med folk”",
-        "summary": "SVT Sörmland har granskat 112 p-böter som utfärdats på en parkeringsplats i centrala Eskilstuna. I sju fall saknades någon form av biljett. 105 av bilisterna hade betalat, men angett fel områdeskod.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "105 of 112 people fined had paid for parking: \"Screws people over\"",
-        "summary": "SVT Sörmland has examined 112 parking fines issued at a car park in central Eskilstuna. In seven cases there was no ticket of any kind. 105 of the motorists had paid but entered the wrong zone code."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T05:45:51+01:00"
-      }
-    },
-    {
-      "id": "851fbc48c6cf",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/lulea-centralstation-far-ett-ansiktslyft-nar-tagen-tripplas",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/lulea-centralstation-far-ett-ansiktslyft-nar-tagen-tripplas",
-      "published_at": "2026-11-24T05:30:09+01:00",
-      "fetched_at": "2026-11-24T05:45:38+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Luleå centralstation får ett ansiktslyft när tågen tripplas",
-        "summary": "Trafikverket har påbörjat ombyggnaden av Luleås järnvägsstation. Anledningen är de industrisatsningar med mer transporter till Luleå hamn samtidigt som Norrbotniabanan kommer närmare. – Vi behöver möta kraven.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Luleå central station gets a facelift as trains triple",
-        "summary": "The Transport Administration has begun rebuilding Luleå railway station. The reason is industrial expansion with more transport to the Port of Luleå as the Norrbotnia Line draws closer. \"We need to meet the demands.\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T05:45:51+01:00"
-      }
-    },
-    {
-      "id": "bcae644b86db",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/oppna-grindar-i-viltstangslet-langs-e45-oroar-trafikverket-vi-maste-hjalpas-at",
-      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/oppna-grindar-i-viltstangslet-langs-e45-oroar-trafikverket-vi-maste-hjalpas-at",
-      "published_at": "2026-11-24T05:30:09+01:00",
-      "fetched_at": "2026-11-24T08:01:07+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Öppna grindar i viltstängslet längs E45 oroar Trafikverket: ”Vi måste hjälpas åt”",
-        "summary": "I slutet av november ska viltsäkringen av E45 på sträckan mellan Brunflo och Svenstavik vara klar. Men Trafikverket har redan märkt att flera av de grindar som sitter vid små infarter och skogsbilvägar lämnas öppna långa perioder.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Open gates in wildlife fence along E45 worry Transport Administration: \"We must help each other\"",
-        "summary": "The wildlife protection fence along E45 between Brunflo and Svenstavik is due to be completed at the end of November. But the Transport Administration has already noticed that several of the gates at small access roads and forest tracks are being left open for long periods."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T08:01:15+01:00"
       }
     }
   ]

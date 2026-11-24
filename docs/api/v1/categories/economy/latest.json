@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-24T10:52:44+01:00",
+  "generated_at": "2026-11-24T11:01:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8a831f762f7b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348907",
+      "guid": "rss:sr.se/article/9348907",
+      "published_at": "2026-11-24T10:56:00+01:00",
+      "fetched_at": "2026-11-24T11:01:07+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Varningen: ”För höga” elnätspriser under lång tid",
+        "summary": "Elnätskunder kan få betala för höga avgifter under lång tid framöver, trots att reglerna är på väg att stramas åt för elnätsbolagen. Den varningen kommer idag från Konkurrensverket.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Warning: \"Too high\" grid prices for a long time",
+        "summary": "Grid customers may have to pay excessive fees for a long time to come, even though the rules are about to be tightened for grid companies. The warning comes today from the Competition Authority."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:01:13+01:00"
+      }
+    },
+    {
+      "id": "cd94e22ec733",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/attendo-sager-upp-hemtjanstavtal-med-goteborg",
+      "guid": "889c9dc0-5ac7-4135-aa3f-6fca1e3f1980",
+      "published_at": "2026-11-24T10:52:29+01:00",
+      "fetched_at": "2026-11-24T11:01:09+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/4f5961a8-f46d-4662-9eeb-e704109f1a4c.jpeg?width=600",
+      "sv": {
+        "title": "Attendo säger upp hemtjänstavtal med Göteborg",
+        "summary": "Attendo säger upp sitt hemtjänstavtal med Göteborgs stad. Vård- och omsorgsbolaget anser att villkoren inte är tillräckligt bra.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Attendo terminates home care contract with Göteborg",
+        "summary": "Attendo is terminating its home care contract with the Göteborg municipality. The care company considers the terms not good enough."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:01:13+01:00"
+      }
+    },
     {
       "id": "10535b00c30d",
       "schema_version": 1,
@@ -5231,60 +5284,6 @@
       "en": {
         "title": "US economy shrinks",
         "summary": "The Chicago Federal Reserve's national activity index came in at minus 0.06 in October, down from 0.05 the previous month."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T14:45:56+01:00"
-      }
-    },
-    {
-      "id": "fa0a6ced3275",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ledare/en-bankskandal-som-forskracker",
-      "guid": "edcfcf83-0114-40b8-b3fa-5cae7be16727",
-      "published_at": "2026-11-23T14:30:50+01:00",
-      "fetched_at": "2026-11-23T14:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/f5eebc12-1411-4657-98cd-5806697b5f23.jpeg?width=600",
-      "sv": {
-        "title": "En bankskandal som förskräcker",
-        "summary": "Deutsche Banks skandalösa affärer med bland annat ryska oligarker har den senaste veckan kostat aktieägarna tiotals miljarder kronor i förlorat börsvärde. Än en gång äventyrar en bank sin viktigaste tillgång – ryktet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "A banking scandal that alarms",
-        "summary": "Deutsche Bank's scandalous dealings, including with Russian oligarchs, have over the past week cost shareholders tens of billions of kronor in lost market value. Once again a bank is jeopardising its most important asset – its reputation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T14:45:56+01:00"
-      }
-    },
-    {
-      "id": "bddaf122daa1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/italiens-regering-till-halv-retratt-om-flyttskatt",
-      "guid": "c8d36b78-5cfb-4acd-adbd-1652a839a5b8",
-      "published_at": "2026-11-23T14:27:01+01:00",
-      "fetched_at": "2026-11-23T14:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/38ee57c5-795b-4dbd-aaf2-e8f57251aa25.jpeg?width=600",
-      "sv": {
-        "title": "Italiens regering till halv reträtt om flyttskatt",
-        "summary": "Premiärminister Giorgia Melonis parti föreslår att den omstridda ”utflyttningsskatten” för förmögna personer görs om så att den endast omfattar personer som flyttar från Italien till skatteparadis.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Italy's government makes half-retreat on exit tax",
-        "summary": "Prime Minister Giorgia Meloni's party proposes reworking the controversial \"exit tax\" on wealthy individuals so that it only covers people who move from Italy to tax havens."
       },
       "translation": {
         "status": "done",

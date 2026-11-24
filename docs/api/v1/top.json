@@ -1,7 +1,132 @@
 {
-  "generated_at": "2026-11-24T10:52:44+01:00",
+  "generated_at": "2026-11-24T11:01:18+01:00",
   "count": 30,
   "stories": [
+    {
+      "id": "f7405af4e3c6",
+      "source_count": 5,
+      "sources": [
+        "expressen",
+        "svd",
+        "di",
+        "sr",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-23T23:08:17+01:00",
+      "last_published_at": "2026-11-24T10:55:29+01:00",
+      "lead": {
+        "id": "f7405af4e3c6",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/sverige/c-aterupptar-samtal-med-m-kd-och-l",
+        "guid": "https://www.expressen.se/nyheter/sverige/c-aterupptar-samtal-med-m-kd-och-l/",
+        "published_at": "2026-11-23T23:08:17+01:00",
+        "fetched_at": "2026-11-23T23:15:44+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "C återupptar samtal med M, KD och L",
+          "summary": "C återupptar samtalen med M, KD och L. ”Sverige behöver en regering och därför behöver vi öppna fler dörrar, inte stänga några”, skriver partiledaren Elisabeth Thand Ringqvist i en kommentar till Expressen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "C resumes talks with M, KD and L",
+          "summary": "C resumes talks with M, KD and L. ”Sweden needs a government, and therefore we need to open more doors, not close any”, party leader Elisabeth Thand Ringqvist writes in a comment to Expressen."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T23:15:50+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "eef8cbeb0314",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Qro6xq/ilska-bland-centerpartister-efter-vandningen-svek",
+          "published_at": "2026-11-24T10:55:29+01:00",
+          "sv": {
+            "title": "Ilska bland centerpartister efter vändningen: ”Svek”"
+          },
+          "en": {
+            "title": "Anger among Centre Party members after the turnaround: \"Betrayal\""
+          }
+        },
+        {
+          "id": "b0e044a99c97",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/splittringen-i-c-kanske-ar-i-fel-parti",
+          "published_at": "2026-11-24T07:30:18+01:00",
+          "sv": {
+            "title": "Splittringen i C: ”Kanske är i fel parti”"
+          },
+          "en": {
+            "title": "Split in the Centre Party: \"Maybe is in the wrong party\""
+          }
+        },
+        {
+          "id": "71f8dde03ba9",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348700",
+          "published_at": "2026-11-24T01:03:00+01:00",
+          "sv": {
+            "title": "Högersvängen splittrar C: ”Inte alls överens”"
+          },
+          "en": {
+            "title": "Right-wing shift splits the Centre Party: \"Not at all in agreement\""
+          }
+        },
+        {
+          "id": "c47c26537bd1",
+          "source": "svd",
+          "url": "https://www.svd.se/a/r8A7mK/c-gar-hogerut-inga-tydliga-besked-fran-v",
+          "published_at": "2026-11-23T23:24:02+01:00",
+          "sv": {
+            "title": "C går högerut: ”Inga tydliga besked från V”"
+          },
+          "en": {
+            "title": "C turns right: \"No clear answer from V\""
+          }
+        },
+        {
+          "id": "a536f5fc52ea",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/centerns-besked-aterupptar-samtalen-med-m-kd-och-l",
+          "published_at": "2026-11-23T23:18:40+01:00",
+          "sv": {
+            "title": "Centerns besked: Återupptar samtalen med M, KD och L"
+          },
+          "en": {
+            "title": "Centre's answer: Resumes talks with the Moderates, the Christian Democrats and the Liberals"
+          }
+        },
+        {
+          "id": "bd77be789e1d",
+          "source": "svd",
+          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80233",
+          "published_at": "2026-11-23T23:10:38+01:00",
+          "sv": {
+            "title": "C återupptar förhandlingar med högerpartierna"
+          },
+          "en": {
+            "title": "C resumes talks with the right-wing parties"
+          }
+        },
+        {
+          "id": "f7405af4e3c6",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/c-aterupptar-samtal-med-m-kd-och-l",
+          "published_at": "2026-11-23T23:08:17+01:00",
+          "sv": {
+            "title": "C återupptar samtal med M, KD och L"
+          },
+          "en": {
+            "title": "C resumes talks with M, KD and L"
+          }
+        }
+      ]
+    },
     {
       "id": "ef6c3c23db09",
       "source_count": 5,
@@ -638,118 +763,6 @@
           },
           "en": {
             "title": "Wall Street surges after Huang's return to Nvidia"
-          }
-        }
-      ]
-    },
-    {
-      "id": "f7405af4e3c6",
-      "source_count": 4,
-      "sources": [
-        "expressen",
-        "svd",
-        "di",
-        "sr"
-      ],
-      "first_published_at": "2026-11-23T23:08:17+01:00",
-      "last_published_at": "2026-11-24T07:30:18+01:00",
-      "lead": {
-        "id": "f7405af4e3c6",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/sverige/c-aterupptar-samtal-med-m-kd-och-l",
-        "guid": "https://www.expressen.se/nyheter/sverige/c-aterupptar-samtal-med-m-kd-och-l/",
-        "published_at": "2026-11-23T23:08:17+01:00",
-        "fetched_at": "2026-11-23T23:15:44+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "C återupptar samtal med M, KD och L",
-          "summary": "C återupptar samtalen med M, KD och L. ”Sverige behöver en regering och därför behöver vi öppna fler dörrar, inte stänga några”, skriver partiledaren Elisabeth Thand Ringqvist i en kommentar till Expressen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "C resumes talks with M, KD and L",
-          "summary": "C resumes talks with M, KD and L. ”Sweden needs a government, and therefore we need to open more doors, not close any”, party leader Elisabeth Thand Ringqvist writes in a comment to Expressen."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T23:15:50+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "b0e044a99c97",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/sverige/splittringen-i-c-kanske-ar-i-fel-parti",
-          "published_at": "2026-11-24T07:30:18+01:00",
-          "sv": {
-            "title": "Splittringen i C: ”Kanske är i fel parti”"
-          },
-          "en": {
-            "title": "Split in the Centre Party: \"Maybe is in the wrong party\""
-          }
-        },
-        {
-          "id": "71f8dde03ba9",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348700",
-          "published_at": "2026-11-24T01:03:00+01:00",
-          "sv": {
-            "title": "Högersvängen splittrar C: ”Inte alls överens”"
-          },
-          "en": {
-            "title": "Right-wing shift splits the Centre Party: \"Not at all in agreement\""
-          }
-        },
-        {
-          "id": "c47c26537bd1",
-          "source": "svd",
-          "url": "https://www.svd.se/a/r8A7mK/c-gar-hogerut-inga-tydliga-besked-fran-v",
-          "published_at": "2026-11-23T23:24:02+01:00",
-          "sv": {
-            "title": "C går högerut: ”Inga tydliga besked från V”"
-          },
-          "en": {
-            "title": "C turns right: \"No clear answer from V\""
-          }
-        },
-        {
-          "id": "a536f5fc52ea",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/centerns-besked-aterupptar-samtalen-med-m-kd-och-l",
-          "published_at": "2026-11-23T23:18:40+01:00",
-          "sv": {
-            "title": "Centerns besked: Återupptar samtalen med M, KD och L"
-          },
-          "en": {
-            "title": "Centre's answer: Resumes talks with the Moderates, the Christian Democrats and the Liberals"
-          }
-        },
-        {
-          "id": "bd77be789e1d",
-          "source": "svd",
-          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80233",
-          "published_at": "2026-11-23T23:10:38+01:00",
-          "sv": {
-            "title": "C återupptar förhandlingar med högerpartierna"
-          },
-          "en": {
-            "title": "C resumes talks with the right-wing parties"
-          }
-        },
-        {
-          "id": "f7405af4e3c6",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/sverige/c-aterupptar-samtal-med-m-kd-och-l",
-          "published_at": "2026-11-23T23:08:17+01:00",
-          "sv": {
-            "title": "C återupptar samtal med M, KD och L"
-          },
-          "en": {
-            "title": "C resumes talks with M, KD and L"
           }
         }
       ]
@@ -1693,6 +1706,69 @@
       ]
     },
     {
+      "id": "e2b54e7bb399",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "sr"
+      ],
+      "first_published_at": "2026-11-24T05:16:14+01:00",
+      "last_published_at": "2026-11-24T10:56:00+01:00",
+      "lead": {
+        "id": "e2b54e7bb399",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/varnar-kan-bli-omotiverat-hoga-elnatsavgifter",
+        "guid": "333e7bf0-c471-4202-bc67-67548306291f",
+        "published_at": "2026-11-24T05:16:14+01:00",
+        "fetched_at": "2026-11-24T05:31:03+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/73b5bd5a-a5d9-4fd5-9270-1c7dcdea2dbf.jpg?width=600",
+        "sv": {
+          "title": "Varnar: Kan bli omotiverat höga elnätsavgifter",
+          "summary": "Det finns risk för att svenska hushåll och företag ”under lång tid framöver får betala omotiverat och oskäligt höga elnätsavgifter”, enligt Konkurrensverket.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Warns: Electricity grid fees could become unjustifiably high",
+          "summary": "There is a risk that Swedish households and businesses \"for a long time to come will pay unjustifiably and unreasonably high electricity grid fees\", according to the Competition Authority."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T05:31:09+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "8a831f762f7b",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348907",
+          "published_at": "2026-11-24T10:56:00+01:00",
+          "sv": {
+            "title": "Varningen: ”För höga” elnätspriser under lång tid"
+          },
+          "en": {
+            "title": "Warning: \"Too high\" grid prices for a long time"
+          }
+        },
+        {
+          "id": "e2b54e7bb399",
+          "source": "di",
+          "url": "https://www.di.se/live/varnar-kan-bli-omotiverat-hoga-elnatsavgifter",
+          "published_at": "2026-11-24T05:16:14+01:00",
+          "sv": {
+            "title": "Varnar: Kan bli omotiverat höga elnätsavgifter"
+          },
+          "en": {
+            "title": "Warns: Electricity grid fees could become unjustifiably high"
+          }
+        }
+      ]
+    },
+    {
       "id": "e5cddff2c9b6",
       "source_count": 2,
       "sources": [
@@ -2327,68 +2403,6 @@
           },
           "en": {
             "title": "Reports: US considers blacklisting Megaspeed"
-          }
-        }
-      ]
-    },
-    {
-      "id": "df033810f719",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "svt"
-      ],
-      "first_published_at": "2026-11-23T22:09:52+01:00",
-      "last_published_at": "2026-11-23T22:56:36+01:00",
-      "lead": {
-        "id": "df033810f719",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
-        "guid": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering/",
-        "published_at": "2026-11-23T22:09:52+01:00",
-        "fetched_at": "2026-11-23T22:15:49+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering",
-          "summary": "Det blir ingen rödgrön regering, tror Maud Olofsson. – Jag tror att de har kommit till vägs ände. De har ju suttit hur länge som helst och diskuterat. Man har inte kommit närmare varandra, säger den tidigare C-ledaren i SVT:s ”Aktuellt”.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government",
-          "summary": "There will be no red-green government, believes Maud Olofsson. \"I think they have reached the end of the road. They have sat for ever and discussed. They have not come closer to each other,\" says the former Centre Party leader on SVT's \"Aktuellt\"."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T22:15:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "461cefe495cc",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/tidigare-c-ledaren-syna-kristersson",
-          "published_at": "2026-11-23T22:56:36+01:00",
-          "sv": {
-            "title": "Tidigare C-ledaren: ”Syna Kristersson”"
-          },
-          "en": {
-            "title": "Former C leader: \"See through Kristersson\""
-          }
-        },
-        {
-          "id": "df033810f719",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
-          "published_at": "2026-11-23T22:09:52+01:00",
-          "sv": {
-            "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering"
-          },
-          "en": {
-            "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government"
           }
         }
       ]
