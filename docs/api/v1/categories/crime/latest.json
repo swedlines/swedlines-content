@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T21:16:02+01:00",
+  "generated_at": "2026-11-24T21:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1a1ff39974e2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/sa-gar-elevernas-hemliga-ritualer-i-arv-pa-sigtunaskolan",
+      "guid": "https://www.expressen.se/nyheter/sverige/sa-gar-elevernas-hemliga-ritualer-i-arv-pa-sigtunaskolan/",
+      "published_at": "2026-11-24T21:15:48+01:00",
+      "fetched_at": "2026-11-24T21:30:59+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Så går elevernas hemliga ritualer i arv på Sigtunaskolan",
+        "summary": "En ny prefekt blir krönt på Sigtunaskolan. Liggandes på rygg med en tratt i munnen. Bara månader senare ska han åtalas misstänkt för våld och sexualbrott. Polisens förundersökning ger en unik inblick i de hemliga ritualerna på elitskolan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How pupils' secret rituals are passed down at Sigtuna School",
+        "summary": "A new prefect is crowned at Sigtuna School. Lying on his back with a funnel in his mouth. Only months later he is to be charged, suspected of violence and sexual offences. The police preliminary investigation gives a unique insight into the secret rituals at the elite school."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T21:31:06+01:00"
+      }
+    },
     {
       "id": "ac861d4ffb00",
       "schema_version": 1,
@@ -5406,33 +5432,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:56:15+01:00"
-      }
-    },
-    {
-      "id": "dca4891a3048",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/KL3jjE/okanda-bor-i-familjens-fritidshus-i-smyg",
-      "guid": "https://www.aftonbladet.se/nyheter/a/KL3jjE/okanda-bor-i-familjens-fritidshus-i-smyg?utm_medium=rss",
-      "published_at": "2026-11-20T06:57:01+01:00",
-      "fetched_at": "2026-11-20T07:01:06+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/8fe28d80-3bd8-3fab-83aa-f736488fa62a?format=auto&s=b1f1b08b1782b16af5cb8072a1571fd3cf026aa3&w=1000",
-      "sv": {
-        "title": "Okända bor i familjens fritidshus i smyg",
-        "summary": "”Någon hade varit där”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Strangers secretly living in the family's holiday home",
-        "summary": "\"Someone had been there\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:01:13+01:00"
       }
     }
   ]

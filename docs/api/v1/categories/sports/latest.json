@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T21:16:02+01:00",
+  "generated_at": "2026-11-24T21:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ad9ce3386b50",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/gyokeres-gor-drommal-i-champions-league",
+      "guid": "ef7e28c4-5ed1-44e1-95c5-9fb8bdb4022c",
+      "published_at": "2026-11-24T21:26:46+01:00",
+      "fetched_at": "2026-11-24T21:31:02+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/3acdeb9e-9095-445b-84a5-2d9d44a140cb.jpg?width=600",
+      "sv": {
+        "title": "Gyökeres gör drömmål i Champions League",
+        "summary": "Viktor Gyökeres slog till direkt när Arsenal tog emot Dortmund i Champions League-fotbollen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gyökeres scores dream goal in Champions League",
+        "summary": "Viktor Gyökeres struck immediately as Arsenal hosted Dortmund in Champions League football."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T21:31:06+01:00"
+      }
+    },
     {
       "id": "c1a70cb4b386",
       "schema_version": 1,
@@ -5576,39 +5603,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T11:15:51+01:00"
-      }
-    },
-    {
-      "id": "bc49ffc5df1a",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/edvin-anger-har-hittat-vad-som-gick-fel-pa-os-siktar-pa-medalj-pa-vm.a98fcbc3-e6f4-5a26-b764-834a1f7d03fa",
-      "guid": "a98fcbc3-e6f4-5a26-b764-834a1f7d03fa",
-      "published_at": "2026-11-19T10:49:22+01:00",
-      "fetched_at": "2026-11-19T11:31:02+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Sport",
-        "Tagg: Anton Grahn",
-        "Tagg: Edvin Anger",
-        "Tagg: Längdskidor"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/c20ab3fd-b364-32f7-ba05-912239e3f278",
-      "sv": {
-        "title": "Edvin Anger har hittat vad som gick fel på OS",
-        "summary": "Edvin Anger kom till OS som ett stor svenskt hopp. Det slutade i fiasko, för både honom och det svenska herrlaget. Nu har han hittat vad som gick fel.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Edvin Anger has found what went wrong at the Olympics",
-        "summary": "Edvin Anger came to the Olympics as a great Swedish hope. It ended in fiasco, for both him and the Swedish men's team. Now he has found what went wrong."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T11:31:11+01:00"
       }
     }
   ]
