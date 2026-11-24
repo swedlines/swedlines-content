@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-24T14:20:05+01:00",
+  "generated_at": "2026-11-24T14:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "347c109951b4",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/forre-fotbollsspelaren-ken-fagerberg-dod",
+      "guid": "f36faa90-b671-4362-a142-5b2c4886688e",
+      "published_at": "2026-11-24T14:25:17+01:00",
+      "fetched_at": "2026-11-24T14:31:02+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/a97054d8-b8e4-40d0-af45-732e5babe9d5.jpg?width=600",
+      "sv": {
+        "title": "Förre fotbollsspelaren Ken Fagerberg död",
+        "summary": "Förre fotbollsspelaren Ken Fagerberg är död. Det bekräftar hans föräldrar för Göteborgs-Posten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Former footballer Ken Fagerberg dead",
+        "summary": "Former footballer Ken Fagerberg is dead. His parents confirmed this to Göteborgs-Posten."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:31:07+01:00"
+      }
+    },
+    {
+      "id": "47946e1ab988",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/fotboll/caroline-seger-enda-gangen-man-lar-sig-ar-nar-man-gor-fel",
+      "guid": "https://www.svt.se/sport/fotboll/caroline-seger-enda-gangen-man-lar-sig-ar-nar-man-gor-fel",
+      "published_at": "2026-11-24T14:22:22+01:00",
+      "fetched_at": "2026-11-24T14:30:58+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Caroline Seger: ”Enda gången man lär sig är när man gör fel”",
+        "summary": "Rosengård krisar. Nu uttalar sig fotbollschef Caroline Seger om misslyckandet och framtiden. – Den enda gången man lär sig, är när man gör fel, säger hon till SVT Sport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Caroline Seger: \"The only time you learn is when you make mistakes\"",
+        "summary": "Rosengård is in crisis. Now football director Caroline Seger comments on the failure and the future. – The only time you learn is when you make mistakes, she tells SVT Sport."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:31:07+01:00"
+      }
+    },
     {
       "id": "e40a31841ddd",
       "schema_version": 1,
@@ -5562,63 +5615,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T20:46:01+01:00"
-      }
-    },
-    {
-      "id": "9c1d4d5ef117",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/bk-hacken-ff/hackens-small-foll-mot-manchester-city-i-champions-league-efter-drapliga-malet.eb8ba7c7-1a6e-5e0d-a6c6-28525105ecfa",
-      "guid": "eb8ba7c7-1a6e-5e0d-a6c6-28525105ecfa",
-      "published_at": "2026-11-18T20:39:08+01:00",
-      "fetched_at": "2026-11-18T20:45:48+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "BK Häcken FF",
-        "Tagg: BK Häcken FF"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/7243ee64-91bf-3471-9a42-7aae74b28610",
-      "sv": {
-        "title": "Häckens käftsmäll i Champions League – föll efter dråpliga målet"
-      },
-      "en": {
-        "title": "Häcken's knockout blow in the Champions League, lost to a deadly goal"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T20:46:01+01:00"
-      }
-    },
-    {
-      "id": "4bd86fba4c4d",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4cvwuiGHlvYus99ep6F7hE/startnummer-arets-julklapp-men-stora-loppen-redan-fullbokade",
-      "guid": "4cvwuiGHlvYus99ep6F7hE",
-      "published_at": "2026-11-18T20:26:47+01:00",
-      "fetched_at": "2026-11-18T20:31:02+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Startnummer årets julklapp – men stora loppen redan fullbokade",
-        "summary": "Flera av landets största motionslopp inför nästa år är redan slutsålda. Till Göteborgsvarvet sålde biljetterna slut på bara tre dagar och Stockholm Marathon planerar att eventuellt släppa ett antal extraplatser efter att loppet blev slutsålt på rekordtid.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Race bibs the year's Christmas present – but the big races already fully booked",
-        "summary": "Several of the country's largest running races for next year are already sold out. Tickets for the Göteborgsvarvet sold out in just three days, and Stockholm Marathon plans to possibly release a number of extra places after the race sold out in record time."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T20:31:09+01:00"
       }
     }
   ]

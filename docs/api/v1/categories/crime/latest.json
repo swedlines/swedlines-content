@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T14:20:05+01:00",
+  "generated_at": "2026-11-24T14:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2832cf65995c",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
+      "guid": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
+      "published_at": "2026-11-24T14:20:08+01:00",
+      "fetched_at": "2026-11-24T14:30:58+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Högsta domstolen: ”Elsparkcykelföretag måste ha polistillstånd”",
+        "summary": "Det är olagligt att ställa ut elsparkcyklar utan polistillstånd. Det här slår Högsta domstolen, HD, fast i en vägledande dom som gäller Gävle kommun och elsparkföretaget Ryde.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Supreme Court: \"E-scooter companies must have police permits\"",
+        "summary": "It is illegal to put out e-scooters without a police permit. The Supreme Court, HD, has established this in a precedent-setting ruling concerning Gävle municipality and the e-scooter company Ryde."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:31:07+01:00"
+      }
+    },
     {
       "id": "13fee977bf8f",
       "schema_version": 1,
@@ -5403,32 +5429,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T17:01:27+01:00"
-      }
-    },
-    {
-      "id": "bd77fb8557e8",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346506",
-      "guid": "rss:sr.se/article/9346506",
-      "published_at": "2026-11-19T16:43:00+01:00",
-      "fetched_at": "2026-11-19T16:45:41+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Tågstopp efter misstänkt hot – 120 passagerare saknades",
-        "summary": "Ett tåg mellan Stockholm och Göteborg stoppades av polisen under torsdagsmorgonen, efter uppgifter om ett misstänkt grovt olaga hot. Tåget stoppades i Katrineholm, tömdes på passagerare och söktes igenom av Nationella bombskyddet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Train stopped after suspected threat – 120 passengers unaccounted for",
-        "summary": "A train between Stockholm and Göteborg was stopped by police on Thursday morning, following reports of a suspected aggravated unlawful threat. The train was halted in Katrineholm, emptied of passengers and searched by the National Bomb Protection unit."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:45:52+01:00"
       }
     }
   ]

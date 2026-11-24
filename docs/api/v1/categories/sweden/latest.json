@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-24T14:20:05+01:00",
+  "generated_at": "2026-11-24T14:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2a7f2ee4e5b6",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-UJRrD",
+      "guid": "87ad7501-1542-4c0a-9209-58331ab68f1d",
+      "published_at": "2026-11-24T14:21:47+01:00",
+      "fetched_at": "2026-11-24T14:31:02+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Nya ägare till villa"
+      },
+      "en": {
+        "title": "New owners of villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:31:07+01:00"
+      }
+    },
     {
       "id": "4e2b7cd9bfc3",
       "schema_version": 1,
@@ -5443,32 +5466,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T22:15:56+01:00"
-      }
-    },
-    {
-      "id": "8ecac009509f",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/over-2000-hushall-utan-elstrom-i-jamtland",
-      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/over-2000-hushall-utan-elstrom-i-jamtland",
-      "published_at": "2026-11-19T21:17:28+01:00",
-      "fetched_at": "2026-11-19T21:30:57+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Över 2000 hushåll utan elström i Jämtland",
-        "summary": "Drygt 2000 elkunder hos Jämtkraft har varit utan elström sedan 21-tiden, skriver P4 Jämtland.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Over 2,000 households without power in Jämtland",
-        "summary": "Just over 2,000 electricity customers of Jämtkraft have been without power since around 9 pm, P4 Jämtland reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T21:31:06+01:00"
       }
     }
   ]
