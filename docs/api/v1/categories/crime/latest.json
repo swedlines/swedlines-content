@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T21:01:22+01:00",
+  "generated_at": "2026-11-24T21:16:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ac861d4ffb00",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/g37M41/bevapnade-haller-gisslan-i-matvarubutik",
+      "guid": "https://www.aftonbladet.se/nyheter/a/g37M41/bevapnade-haller-gisslan-i-matvarubutik?utm_medium=rss",
+      "published_at": "2026-11-24T21:02:36+01:00",
+      "fetched_at": "2026-11-24T21:15:47+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/d2163153-6207-3731-a93c-a4d7dc68df68?format=auto&s=5f8ddd490417eec0a59fe93f5c4bd5aaa589adf9&w=1000",
+      "sv": {
+        "title": "Beväpnade håller gisslan i matvarubutik",
+        "summary": "Beväpnade och maskerade gärningspersoner försökte råna ett bepansrat fordon i Cartagena i Colombia.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Armed men hold hostages in grocery store",
+        "summary": "Armed and masked perpetrators attempted to rob an armoured vehicle in Cartagena, Colombia."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T21:15:59+01:00"
+      }
+    },
     {
       "id": "e08012805959",
       "schema_version": 1,
@@ -5406,32 +5433,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:01:13+01:00"
-      }
-    },
-    {
-      "id": "5edf0d8bd194",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/mordet-pa-emporia-skracken-i-fredagsrusningen",
-      "guid": "2b304911-f2f9-4432-9b8b-ee293084392e",
-      "published_at": "2026-11-20T06:30:00+01:00",
-      "fetched_at": "2026-11-20T06:30:59+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Mordet på Emporia – skräcken i fredagsrusningen",
-        "summary": "Mitt i vimlet på köpcentret Emporia skjuts presidenten för det kriminella gänget Satudarah Assassins ihjäl. Två veckor tidigare har han fått en anonym varning: ”Akta dig för dina vänner, de planerar att döda dig.” Uppdragsgivarna använder en helt ny metod: En inhyrd tonåring – helt utan koppling…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "The murder at Emporia – dread in the Friday rush",
-        "summary": "In the middle of the crowd at the Emporia shopping centre, the president of the criminal gang Satudarah Assassins is shot dead. Two weeks earlier he received an anonymous warning: “Watch out for your friends, they plan to kill you.” The clients use a completely new method: a hired teenager – with no connection…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:31:13+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T21:01:22+01:00",
+  "generated_at": "2026-11-24T21:16:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "30fe769bf230",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/6PjOBW/s-toppens-varning-blir-kung-i-riksdagen",
+      "guid": "https://www.aftonbladet.se/nyheter/a/6PjOBW/s-toppens-varning-blir-kung-i-riksdagen?utm_medium=rss",
+      "published_at": "2026-11-24T21:06:46+01:00",
+      "fetched_at": "2026-11-24T21:15:47+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/f4702e2d-29b8-3151-86b0-fe7672b79eb0?format=auto&s=e2bf210ca6267a850efbe2b7b529b78290dc6501&w=1000",
+      "sv": {
+        "title": "S-toppens varning: ”Blir kung i riksdagen”",
+        "summary": "S-toppen sågar Kristerssons bud",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Social Democrat leadership warns: ”Will be king in the Riksdag”",
+        "summary": "The Social Democrat leadership slams Kristersson's offer"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T21:15:59+01:00"
+      }
+    },
     {
       "id": "4abbc9eee8c9",
       "schema_version": 1,
@@ -5337,33 +5364,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T08:31:18+01:00"
-      }
-    },
-    {
-      "id": "7da3bfad9511",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln",
-      "guid": "https://www.aftonbladet.se/nyheter/a/M5R8LJ/vansterpartiets-vadjan-om-debattartikeln?utm_medium=rss",
-      "published_at": "2026-11-23T06:10:35+01:00",
-      "fetched_at": "2026-11-23T06:56:01+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/3e3dac2a-580e-392d-a1e0-cbd05d92971f?format=auto&s=c9fee6b2eb30212be380de84f75f7edc3cfbc36b&w=1000",
-      "sv": {
-        "title": "V:s vrede efter debattartikeln: ”Obegripligt”",
-        "summary": "Öppet ordkrig ✓ Ville stoppa publiceringen",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Left Party's (V) anger after the debate article: “Incomprehensible”",
-        "summary": "Open war of words ✓ Wanted to stop the publication"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:30+01:00"
       }
     }
   ]

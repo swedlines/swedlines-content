@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T21:01:22+01:00",
+  "generated_at": "2026-11-24T21:16:02+01:00",
   "count": 30,
   "stories": [
     {
@@ -388,6 +388,142 @@
       ]
     },
     {
+      "id": "1a6f5899ec1b",
+      "source_count": 6,
+      "sources": [
+        "svd",
+        "sydsvenskan",
+        "aftonbladet",
+        "dn",
+        "sr",
+        "di"
+      ],
+      "first_published_at": "2026-11-24T08:08:34+01:00",
+      "last_published_at": "2026-11-24T21:01:44+01:00",
+      "lead": {
+        "id": "1a6f5899ec1b",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp",
+        "guid": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp?utm_medium=rss",
+        "published_at": "2026-11-24T08:08:34+01:00",
+        "fetched_at": "2026-11-24T08:15:45+01:00",
+        "category": "economy",
+        "image_url": "https://akamai.vgc.no/v2/images/8d9cf713-b42e-3cf8-aaf4-822fdce94642?format=auto&s=d478a3614beebfbb87d29d916402cc0a53a1615f&w=1000",
+        "sv": {
+          "title": "Huang är tillbaka, vad vill Trump ha?"
+        },
+        "en": {
+          "title": "Huang is back, what does Trump want?"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T08:15:52+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "4bc4ef89487a",
+          "source": "di",
+          "url": "https://www.di.se/live/jensen-huang-aterkomsten-inte-trumps-fortjanst",
+          "published_at": "2026-11-24T21:01:44+01:00",
+          "sv": {
+            "title": "Jensen Huang: Återkomsten inte Trumps förtjänst"
+          },
+          "en": {
+            "title": "Jensen Huang: The comeback is not Trump's merit"
+          }
+        },
+        {
+          "id": "3bc4ace0f39c",
+          "source": "di",
+          "url": "https://www.di.se/live/strategen-borsraset-hade-inget-med-nvidia-att-gora",
+          "published_at": "2026-11-24T15:15:51+01:00",
+          "sv": {
+            "title": "Strategen: Börsraset hade inget med Nvidia att göra"
+          },
+          "en": {
+            "title": "Strategist: Stock market crash had nothing to do with Nvidia"
+          }
+        },
+        {
+          "id": "6c9cfff8ec58",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9349036",
+          "published_at": "2026-11-24T13:54:00+01:00",
+          "sv": {
+            "title": "Trumps roll i Nvidia-affären: AI-maktkampen påminner om kalla kriget"
+          },
+          "en": {
+            "title": "Trump's move in the Nvidia affair: the AI power struggle recalls the Cold War"
+          }
+        },
+        {
+          "id": "cbb69abf98ae",
+          "source": "dn",
+          "url": "https://www.dn.se/ekonomi/uppgifter-sa-agerade-trump-och-vance-for-nvidia-chefens-comeback",
+          "published_at": "2026-11-24T10:06:19+01:00",
+          "sv": {
+            "title": "Uppgifter: Så agerade Trump och Vance för Nvidia-chefens comeback"
+          },
+          "en": {
+            "title": "Reports: How Trump and Vance acted for Nvidia chief's comeback"
+          }
+        },
+        {
+          "id": "3631eb517c07",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/R1R7g5/trump-bakom-jensen-huangs-comeback-som-nvidias-vd",
+          "published_at": "2026-11-24T09:35:04+01:00",
+          "sv": {
+            "title": "Spelet bakom Huangs comeback – Trumps order"
+          },
+          "en": {
+            "title": "The game behind Huang's comeback – Trump's order"
+          }
+        },
+        {
+          "id": "c9916cce5a7b",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/nvidias-vd-tillbaka-sa-mycket-tjanade-trump",
+          "published_at": "2026-11-24T09:18:45+01:00",
+          "sv": {
+            "title": "Nvidias vd tillbaka – så mycket tjänade Trump"
+          },
+          "en": {
+            "title": "Nvidia's CEO is back – this is how much Trump earned"
+          }
+        },
+        {
+          "id": "c2b31f8e58da",
+          "source": "svd",
+          "url": "https://www.svd.se/a/aGwMGE/nvidias-vd-tillbaka-sa-mycket-tjanade-trump",
+          "published_at": "2026-11-24T09:15:35+01:00",
+          "sv": {
+            "title": "Nvidias vd tillbaka – så mycket tjänade Trump"
+          },
+          "en": {
+            "title": "Nvidia's CEO is back – this is how much Trump earned"
+          }
+        },
+        {
+          "id": "1a6f5899ec1b",
+          "source": "svd",
+          "url": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp",
+          "published_at": "2026-11-24T08:08:34+01:00",
+          "sv": {
+            "title": "Huang är tillbaka, vad vill Trump ha?"
+          },
+          "en": {
+            "title": "Huang is back, what does Trump want?"
+          }
+        }
+      ]
+    },
+    {
       "id": "f7405af4e3c6",
       "source_count": 6,
       "sources": [
@@ -545,130 +681,6 @@
           },
           "en": {
             "title": "C resumes talks with M, KD and L"
-          }
-        }
-      ]
-    },
-    {
-      "id": "1a6f5899ec1b",
-      "source_count": 6,
-      "sources": [
-        "svd",
-        "sydsvenskan",
-        "aftonbladet",
-        "dn",
-        "sr",
-        "di"
-      ],
-      "first_published_at": "2026-11-24T08:08:34+01:00",
-      "last_published_at": "2026-11-24T15:15:51+01:00",
-      "lead": {
-        "id": "1a6f5899ec1b",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp",
-        "guid": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp?utm_medium=rss",
-        "published_at": "2026-11-24T08:08:34+01:00",
-        "fetched_at": "2026-11-24T08:15:45+01:00",
-        "category": "economy",
-        "image_url": "https://akamai.vgc.no/v2/images/8d9cf713-b42e-3cf8-aaf4-822fdce94642?format=auto&s=d478a3614beebfbb87d29d916402cc0a53a1615f&w=1000",
-        "sv": {
-          "title": "Huang är tillbaka, vad vill Trump ha?"
-        },
-        "en": {
-          "title": "Huang is back, what does Trump want?"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T08:15:52+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "3bc4ace0f39c",
-          "source": "di",
-          "url": "https://www.di.se/live/strategen-borsraset-hade-inget-med-nvidia-att-gora",
-          "published_at": "2026-11-24T15:15:51+01:00",
-          "sv": {
-            "title": "Strategen: Börsraset hade inget med Nvidia att göra"
-          },
-          "en": {
-            "title": "Strategist: Stock market crash had nothing to do with Nvidia"
-          }
-        },
-        {
-          "id": "6c9cfff8ec58",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9349036",
-          "published_at": "2026-11-24T13:54:00+01:00",
-          "sv": {
-            "title": "Trumps roll i Nvidia-affären: AI-maktkampen påminner om kalla kriget"
-          },
-          "en": {
-            "title": "Trump's move in the Nvidia affair: the AI power struggle recalls the Cold War"
-          }
-        },
-        {
-          "id": "cbb69abf98ae",
-          "source": "dn",
-          "url": "https://www.dn.se/ekonomi/uppgifter-sa-agerade-trump-och-vance-for-nvidia-chefens-comeback",
-          "published_at": "2026-11-24T10:06:19+01:00",
-          "sv": {
-            "title": "Uppgifter: Så agerade Trump och Vance för Nvidia-chefens comeback"
-          },
-          "en": {
-            "title": "Reports: How Trump and Vance acted for Nvidia chief's comeback"
-          }
-        },
-        {
-          "id": "3631eb517c07",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/R1R7g5/trump-bakom-jensen-huangs-comeback-som-nvidias-vd",
-          "published_at": "2026-11-24T09:35:04+01:00",
-          "sv": {
-            "title": "Spelet bakom Huangs comeback – Trumps order"
-          },
-          "en": {
-            "title": "The game behind Huang's comeback – Trump's order"
-          }
-        },
-        {
-          "id": "c9916cce5a7b",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/nvidias-vd-tillbaka-sa-mycket-tjanade-trump",
-          "published_at": "2026-11-24T09:18:45+01:00",
-          "sv": {
-            "title": "Nvidias vd tillbaka – så mycket tjänade Trump"
-          },
-          "en": {
-            "title": "Nvidia's CEO is back – this is how much Trump earned"
-          }
-        },
-        {
-          "id": "c2b31f8e58da",
-          "source": "svd",
-          "url": "https://www.svd.se/a/aGwMGE/nvidias-vd-tillbaka-sa-mycket-tjanade-trump",
-          "published_at": "2026-11-24T09:15:35+01:00",
-          "sv": {
-            "title": "Nvidias vd tillbaka – så mycket tjänade Trump"
-          },
-          "en": {
-            "title": "Nvidia's CEO is back – this is how much Trump earned"
-          }
-        },
-        {
-          "id": "1a6f5899ec1b",
-          "source": "svd",
-          "url": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp",
-          "published_at": "2026-11-24T08:08:34+01:00",
-          "sv": {
-            "title": "Huang är tillbaka, vad vill Trump ha?"
-          },
-          "en": {
-            "title": "Huang is back, what does Trump want?"
           }
         }
       ]
@@ -1201,219 +1213,6 @@
           },
           "en": {
             "title": "Turnaround: Christmas food now gets cheaper"
-          }
-        }
-      ]
-    },
-    {
-      "id": "1346dcd0e795",
-      "source_count": 4,
-      "sources": [
-        "sr",
-        "aftonbladet",
-        "svt",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-23T17:24:00+01:00",
-      "last_published_at": "2026-11-24T09:10:03+01:00",
-      "lead": {
-        "id": "1346dcd0e795",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9348509",
-        "guid": "rss:sr.se/article/9348509",
-        "published_at": "2026-11-23T17:24:00+01:00",
-        "fetched_at": "2026-11-23T17:30:57+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Vänsterpartiet gläntar på dörren för att släppa ministerkrav",
-          "summary": "Vänsterpartiet står fast vid kravet på ministerposter, men vice partiledaren Ida Gabrielsson öppnar för att släppa det vid stora sakpolitiska eftergifter.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Left Party opens door to dropping ministerial demand",
-          "summary": "The Left Party stands firm on its demand for ministerial posts, but deputy party leader Ida Gabrielsson is open to dropping it in return for major policy concessions."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T17:31:06+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "f3c1394377aa",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-om-s-lofte-haha-nej",
-          "published_at": "2026-11-24T09:10:03+01:00",
-          "sv": {
-            "title": "Ida Gabrielsson om S löfte: Haha nej"
-          },
-          "en": {
-            "title": "Ida Gabrielsson on the Social Democrats' offer: Haha no"
-          }
-        },
-        {
-          "id": "92233074b00b",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/mojlig-oppning-for-att-v-ska-slappa-ministerkraven",
-          "published_at": "2026-11-23T23:22:43+01:00",
-          "sv": {
-            "title": "Möjlig öppning för att V ska släppa ministerkraven"
-          },
-          "en": {
-            "title": "Possible opening for V to drop ministerial demands"
-          }
-        },
-        {
-          "id": "6ef826e5bc29",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/z0GKAO/ida-gabrielsson-da-kan-vansterpartiet-avsta-ministerposter",
-          "published_at": "2026-11-23T22:20:53+01:00",
-          "sv": {
-            "title": "Gabrielsson: Det kan få oss att avstå ministerposter"
-          },
-          "en": {
-            "title": "Gabrielsson: It could cause us to refrain from ministerial posts"
-          }
-        },
-        {
-          "id": "1346dcd0e795",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348509",
-          "published_at": "2026-11-23T17:24:00+01:00",
-          "sv": {
-            "title": "Vänsterpartiet gläntar på dörren för att släppa ministerkrav"
-          },
-          "en": {
-            "title": "Left Party opens door to dropping ministerial demand"
-          }
-        }
-      ]
-    },
-    {
-      "id": "306e7c415635",
-      "source_count": 4,
-      "sources": [
-        "di",
-        "svt",
-        "svd",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-23T19:48:24+01:00",
-      "last_published_at": "2026-11-24T09:03:50+01:00",
-      "lead": {
-        "id": "306e7c415635",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/wall-street-rusar-efter-huangs-aterkomst-till-nvidia",
-        "guid": "784c26c3-b0b0-47a9-a0f0-62949f395e7c",
-        "published_at": "2026-11-23T19:48:24+01:00",
-        "fetched_at": "2026-11-23T20:01:14+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/bb9aca9b-5a31-47a0-8af1-ced0cfc84084.jpeg?width=600",
-        "sv": {
-          "title": "Wall Street rusar efter Huangs återkomst till Nvidia",
-          "summary": "Huvudindexen på Wall Street lyser klargröna efter fyra timmars handel. Jensen Huangs återkomst till chipjätten Nvidia har minst sagt fått spaltmeter under måndagen och bidragit till en börsfest, inte minst för flera aktier inom AI-trejden.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Wall Street surges after Huang's return to Nvidia",
-          "summary": "The main indices on Wall Street are deep green after four hours of trading. Jensen Huang's return to chip giant Nvidia has, to say the least, attracted attention on Monday and sparked a stock party, not least for several shares in the AI trend."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T20:01:24+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "8106ee71e391",
-          "source": "di",
-          "url": "https://www.di.se/live/svenska-smasparare-dippkopte-nvidia-en-bra-affar",
-          "published_at": "2026-11-24T09:03:50+01:00",
-          "sv": {
-            "title": "Svenska småsparare dippköpte Nvidia – ”en bra affär”"
-          },
-          "en": {
-            "title": "Swedish small savers bought the dip in Nvidia – “a good deal”"
-          }
-        },
-        {
-          "id": "8692075b5b0d",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/svenskar-rusade-till-nvidia-gjorde-bra-affarer",
-          "published_at": "2026-11-24T08:59:00+01:00",
-          "sv": {
-            "title": "Svenskar rusade till Nvidia – gjorde bra affärer"
-          },
-          "en": {
-            "title": "Swedes rushed to Nvidia – made good deals"
-          }
-        },
-        {
-          "id": "1b324733cb27",
-          "source": "svd",
-          "url": "https://www.svd.se/a/xJPB4B/svenskar-rusade-till-nvidia-gjorde-bra-affarer",
-          "published_at": "2026-11-24T08:55:16+01:00",
-          "sv": {
-            "title": "Svenskar rusade till Nvidia – gjorde bra affärer"
-          },
-          "en": {
-            "title": "Swedes rushed to Nvidia – made good deals"
-          }
-        },
-        {
-          "id": "5b694a56f2bb",
-          "source": "di",
-          "url": "https://www.di.se/ditv/nyheter/morgonkoll-historiskt-rus-i-nvidia",
-          "published_at": "2026-11-24T07:43:57+01:00",
-          "sv": {
-            "title": "Morgonkoll: Historiskt rus i Nvidia"
-          },
-          "en": {
-            "title": "Morning check: Historic surge in Nvidia"
-          }
-        },
-        {
-          "id": "87806f465cc6",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/ekonomi/nvidias-vd-tillbaka-wall-street-rusade-vilt",
-          "published_at": "2026-11-23T22:23:56+01:00",
-          "sv": {
-            "title": "Nvidias vd tillbaka – Wall Street rusade vilt"
-          },
-          "en": {
-            "title": "Nvidia's CEO back – Wall Street surged wildly"
-          }
-        },
-        {
-          "id": "d6620e3ed99e",
-          "source": "di",
-          "url": "https://www.di.se/live/jensen-huang-tillbaka-pa-kontoret-ska-vara-en-battre-vd",
-          "published_at": "2026-11-23T21:51:15+01:00",
-          "sv": {
-            "title": "Jensen Huang tillbaka på kontoret: ”Ska vara en bättre vd”"
-          },
-          "en": {
-            "title": "Jensen Huang back in the office: ”Will be a better CEO”"
-          }
-        },
-        {
-          "id": "306e7c415635",
-          "source": "di",
-          "url": "https://www.di.se/live/wall-street-rusar-efter-huangs-aterkomst-till-nvidia",
-          "published_at": "2026-11-23T19:48:24+01:00",
-          "sv": {
-            "title": "Wall Street rusar efter Huangs återkomst till Nvidia"
-          },
-          "en": {
-            "title": "Wall Street surges after Huang's return to Nvidia"
           }
         }
       ]
@@ -2869,6 +2668,152 @@
           },
           "en": {
             "title": "Global AI rally – but down on the Stockholm Stock Exchange"
+          }
+        }
+      ]
+    },
+    {
+      "id": "80fffd176ee4",
+      "source_count": 2,
+      "sources": [
+        "gp",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-24T12:18:21+01:00",
+      "last_published_at": "2026-11-24T16:53:53+01:00",
+      "lead": {
+        "id": "80fffd176ee4",
+        "schema_version": 1,
+        "source": "gp",
+        "url": "https://www.gp.se/sport/fotbollsspelaren-ken-fagerberg-ar-dod-den-tidigare-ois-spelaren-blev-37-ar-gammal.4cefdcb5-d7dd-53ef-a359-549171cb52c6",
+        "guid": "4cefdcb5-d7dd-53ef-a359-549171cb52c6",
+        "published_at": "2026-11-24T12:18:21+01:00",
+        "fetched_at": "2026-11-24T12:45:49+01:00",
+        "category": "sports",
+        "feed_categories": [
+          "Sport",
+          "Tagg: breaking-GP",
+          "Tagg: Öis",
+          "Tagg: Ken Fagerberg",
+          "Tagg: Örgryte",
+          "Tagg: Örgryte IS",
+          "Tagg: Fotboll"
+        ],
+        "image_url": "https://vcdn.polarismedia.no/3a55cfec-2e10-3f6c-a924-8be37747e4eb",
+        "sv": {
+          "title": "Ken Fagerberg är död – tidigare Öis-spelaren blev 37 år",
+          "summary": "Kom fram som supertalang i Örgryte 2007 • Pappan: ”Han hade ett hjärta av guld”.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Ken Fagerberg is dead – former Öis player was 37",
+          "summary": "Emerged as a superstar talent at Örgryte in 2007 • Father: \"He had a heart of gold.\""
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T12:45:56+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "6c008d37e385",
+          "source": "gp",
+          "url": "https://www.gp.se/sport/fotboll/orgryte-is/ois-hedrar-ken-fagerberg-spelar-i-sorgband-mot-degerfors.6f092b93-334a-5159-be9a-80ed8bd7f95e",
+          "published_at": "2026-11-24T16:53:53+01:00",
+          "sv": {
+            "title": "Öis i sorg efter Ken Fagerbergs död – så hedras han"
+          },
+          "en": {
+            "title": "Öis in mourning after Ken Fagerberg's death – this is how he is honoured"
+          }
+        },
+        {
+          "id": "347c109951b4",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/forre-fotbollsspelaren-ken-fagerberg-dod",
+          "published_at": "2026-11-24T14:25:17+01:00",
+          "sv": {
+            "title": "Förre fotbollsspelaren Ken Fagerberg död"
+          },
+          "en": {
+            "title": "Former footballer Ken Fagerberg dead"
+          }
+        },
+        {
+          "id": "80fffd176ee4",
+          "source": "gp",
+          "url": "https://www.gp.se/sport/fotbollsspelaren-ken-fagerberg-ar-dod-den-tidigare-ois-spelaren-blev-37-ar-gammal.4cefdcb5-d7dd-53ef-a359-549171cb52c6",
+          "published_at": "2026-11-24T12:18:21+01:00",
+          "sv": {
+            "title": "Ken Fagerberg är död – tidigare Öis-spelaren blev 37 år"
+          },
+          "en": {
+            "title": "Ken Fagerberg is dead – former Öis player was 37"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2832cf65995c",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "di"
+      ],
+      "first_published_at": "2026-11-24T14:20:08+01:00",
+      "last_published_at": "2026-11-24T15:41:47+01:00",
+      "lead": {
+        "id": "2832cf65995c",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
+        "guid": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
+        "published_at": "2026-11-24T14:20:08+01:00",
+        "fetched_at": "2026-11-24T14:30:58+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Högsta domstolen: ”Elsparkcykelföretag måste ha polistillstånd”",
+          "summary": "Det är olagligt att ställa ut elsparkcyklar utan polistillstånd. Det här slår Högsta domstolen, HD, fast i en vägledande dom som gäller Gävle kommun och elsparkföretaget Ryde.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Supreme Court: \"E-scooter companies must have police permits\"",
+          "summary": "It is illegal to put out e-scooters without a police permit. The Supreme Court, HD, has established this in a precedent-setting ruling concerning Gävle municipality and the e-scooter company Ryde."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T14:31:07+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "7a21550eae71",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/hd-s-dom-tillstand-kravs-for-elsparkcyklar",
+          "published_at": "2026-11-24T15:41:47+01:00",
+          "sv": {
+            "title": "HD:s dom: Tillstånd krävs för elsparkcyklar"
+          },
+          "en": {
+            "title": "Supreme Court ruling: permit required for e-scooters"
+          }
+        },
+        {
+          "id": "2832cf65995c",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
+          "published_at": "2026-11-24T14:20:08+01:00",
+          "sv": {
+            "title": "Högsta domstolen: ”Elsparkcykelföretag måste ha polistillstånd”"
+          },
+          "en": {
+            "title": "Supreme Court: \"E-scooter companies must have police permits\""
           }
         }
       ]
