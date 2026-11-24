@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T16:15:58+01:00",
+  "generated_at": "2026-11-24T16:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7f6a60e2ee0d",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/kultur/piskstraffet-mot-parastoo-ahmadi-har-verkstallts",
+      "guid": "https://www.svt.se/kultur/piskstraffet-mot-parastoo-ahmadi-har-verkstallts",
+      "published_at": "2026-11-24T16:18:01+01:00",
+      "fetched_at": "2026-11-24T16:31:00+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Piskstraffet mot Parastoo Ahmadi har verkställts",
+        "summary": "När en iransk sångerska dömdes till piskstraff för att ha framträtt utan hijab väckte det starka protester. Straffet har nu utdelats.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Parastoo Ahmadi's whipping sentence has been carried out",
+        "summary": "When an Iranian singer was sentenced to whipping for performing without a hijab, it sparked strong protests. The punishment has now been carried out."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T16:31:09+01:00"
+      }
+    },
     {
       "id": "7daa7b7b9ffe",
       "schema_version": 1,
@@ -5343,32 +5369,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T17:01:21+01:00"
-      }
-    },
-    {
-      "id": "3abcdbff806b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=6da798d4-dd32-49aa-9112-64a484436525",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6da798d4-dd32-49aa-9112-64a484436525",
-      "published_at": "2026-11-22T15:14:28+01:00",
-      "fetched_at": "2026-11-22T15:29:02+01:00",
-      "category": "world",
-      "sv": {
-        "title": "19 förgiftade i kyrka i Tyskland",
-        "summary": "Flera allvarligt skadade i Tyskland",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "19 poisoned in church in Germany",
-        "summary": "Several seriously injured in Germany"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:29:12+01:00"
       }
     }
   ]
