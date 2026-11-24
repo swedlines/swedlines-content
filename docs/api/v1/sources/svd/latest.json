@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-11-24T10:16:06+01:00",
+  "generated_at": "2026-11-24T10:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2061a42d02ae",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/GPG904/venhalsans-mottagning-pa-sodersjukhuset-svarar-hanne-kjoller-om-prep",
+      "guid": "https://www.svd.se/a/GPG904/venhalsans-mottagning-pa-sodersjukhuset-svarar-hanne-kjoller-om-prep?utm_medium=rss",
+      "published_at": "2026-11-24T10:28:46+01:00",
+      "fetched_at": "2026-11-24T10:31:01+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/9fc76856-2168-32e6-8212-916e3553bcaa?format=auto&s=b55652ea4cdc02f381b284295b78ec3103a3324c&w=1000",
+      "sv": {
+        "title": "Kommentar om subvention av PrEP",
+        "summary": "Venhälsans mottagning på Södersjukhuset svarar Hanne Kjöller.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Comment on subsidy of PrEP",
+        "summary": "Venhälsan's clinic at Södersjukhuset responds to Hanne Kjöller."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T10:31:08+01:00"
+      }
+    },
+    {
+      "id": "d1981b21c099",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80243",
+      "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80243&utm_medium=rss",
+      "published_at": "2026-11-24T10:16:21+01:00",
+      "fetched_at": "2026-11-24T10:31:01+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/61267cd3-2dc3-3128-a875-f1c08b5de4d8?format=auto&s=d23b3e1aba74b9e11be8672d94fe8e1e23197fd4&w=1000",
+      "sv": {
+        "title": "Kristersson fåordig på väg in till talmannen"
+      },
+      "en": {
+        "title": "Kristersson tight-lipped on way to the Speaker"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T10:31:08+01:00"
+      }
+    },
     {
       "id": "2f3508803877",
       "schema_version": 1,
@@ -5197,60 +5248,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T06:45:50+01:00"
-      }
-    },
-    {
-      "id": "8653d964ff4a",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/8Pm13E/historisk-dom-kan-paverka-folkmordsmal-mot-israel",
-      "guid": "https://www.svd.se/a/8Pm13E/historisk-dom-kan-paverka-folkmordsmal-mot-israel?utm_medium=rss",
-      "published_at": "2026-11-21T06:00:13+01:00",
-      "fetched_at": "2026-11-21T06:15:48+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/853e4705-155e-3248-bbc8-413c197364e5?format=auto&s=59128252755245c93bfd3c81cfb852d3e4723b69&w=1000",
-      "sv": {
-        "title": "Historisk dom kan påverka folkmordsmål mot Israel",
-        "summary": "Den historiska folkmordsdomen mot Myanmar ger rohingyerna upprättelse.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Historic Ruling Could Affect Genocide Case Against Israel",
-        "summary": "The historic genocide ruling against Myanmar gives the Rohingya redress."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T06:16:04+01:00"
-      }
-    },
-    {
-      "id": "57e640ad7ef2",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/xJPdGl/aklagare-far-inte-missbruka-makten",
-      "guid": "https://www.svd.se/a/xJPdGl/aklagare-far-inte-missbruka-makten?utm_medium=rss",
-      "published_at": "2026-11-21T06:00:00+01:00",
-      "fetched_at": "2026-11-21T06:15:48+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/f52b9a3b-09c4-3443-b86c-cc741eade227?format=auto&s=1c242e2d68d56df26a9b3665155c3735cb3a0872&w=1000",
-      "sv": {
-        "title": "Åklagare får inte missbruka makten",
-        "summary": "Nu börjar rättegången som handlar om oss alla.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Prosecutors Must Not Abuse Power",
-        "summary": "Now the trial begins, which concerns us all."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T06:16:04+01:00"
       }
     }
   ]

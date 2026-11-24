@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-24T10:16:06+01:00",
+  "generated_at": "2026-11-24T10:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2061a42d02ae",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/GPG904/venhalsans-mottagning-pa-sodersjukhuset-svarar-hanne-kjoller-om-prep",
+      "guid": "https://www.svd.se/a/GPG904/venhalsans-mottagning-pa-sodersjukhuset-svarar-hanne-kjoller-om-prep?utm_medium=rss",
+      "published_at": "2026-11-24T10:28:46+01:00",
+      "fetched_at": "2026-11-24T10:31:01+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/9fc76856-2168-32e6-8212-916e3553bcaa?format=auto&s=b55652ea4cdc02f381b284295b78ec3103a3324c&w=1000",
+      "sv": {
+        "title": "Kommentar om subvention av PrEP",
+        "summary": "Venhälsans mottagning på Södersjukhuset svarar Hanne Kjöller.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Comment on subsidy of PrEP",
+        "summary": "Venhälsan's clinic at Södersjukhuset responds to Hanne Kjöller."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T10:31:08+01:00"
+      }
+    },
+    {
+      "id": "2e4318db3a71",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/OypOLl/joachim-60-ar-farfarledig-det-ar-underbart",
+      "guid": "https://www.aftonbladet.se/nyheter/a/OypOLl/joachim-60-ar-farfarledig-det-ar-underbart?utm_medium=rss",
+      "published_at": "2026-11-24T10:26:05+01:00",
+      "fetched_at": "2026-11-24T10:31:01+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/1d773f31-e198-3ef9-bc1c-e374d95125a1?format=auto&s=05ed6be3b976655740b71cd6d6c548b40bb9da90&w=1000",
+      "sv": {
+        "title": "Joachim, 60, är farfarledig: ”Det är underbart”",
+        "summary": "Vill att fler ska få upp ögonen ✓ ”Ta chansen”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Joachim, 60, takes grandfather leave: \"It's wonderful\"",
+        "summary": "Wants more people to take notice ✓ \"Seize the chance\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T10:31:08+01:00"
+      }
+    },
     {
       "id": "405805ddd7f7",
       "schema_version": 1,
@@ -5419,58 +5473,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T19:01:19+01:00"
-      }
-    },
-    {
-      "id": "27d6aa3ca503",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/en-person-dod-efter-brand-i-gnosjo",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/en-person-dod-efter-brand-i-gnosjo",
-      "published_at": "2026-11-19T18:21:32+01:00",
-      "fetched_at": "2026-11-19T18:30:59+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "En person död efter brand i Gnosjö",
-        "summary": "En person fördes till sjukhus efter en brand i ett bostadshus i Hillerstorp under torsdagseftermiddagen. Men personens liv gick inte att rädda.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "One person dead after fire in Gnosjö",
-        "summary": "One person was taken to hospital after a fire in a residential building in Hillerstorp on Thursday afternoon. But the person's life could not be saved."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:31:15+01:00"
-      }
-    },
-    {
-      "id": "150f55cf89cb",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/totalstopp-efter-krock-pa-e4-tva-bilar-inblandade",
-      "guid": "https://www.svt.se/nyheter/lokalt/ost/totalstopp-efter-krock-pa-e4-tva-bilar-inblandade",
-      "published_at": "2026-11-19T18:14:20+01:00",
-      "fetched_at": "2026-11-19T21:01:08+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Fyra personer till sjukhus efter trafikolycka utanför Norrköping",
-        "summary": "Flera trafikolyckor inträdde på torsdagen. Vid en av olyckorna fick fyra personer föras till sjukhus med oklara skador.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Four people taken to hospital after traffic accident outside Norrköping",
-        "summary": "Several traffic accidents occurred on Thursday. In one of the accidents, four people had to be taken to hospital with unclear injuries."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T21:01:17+01:00"
       }
     }
   ]
