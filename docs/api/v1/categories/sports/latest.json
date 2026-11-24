@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T14:16:14+01:00",
+  "generated_at": "2026-11-24T14:20:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e40a31841ddd",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/engelsman-tar-over-djurgarden-en-enorm-stolthet",
+      "guid": "10195460-2d95-4a90-90e3-9e6203a86962",
+      "published_at": "2026-11-24T14:16:54+01:00",
+      "fetched_at": "2026-11-24T14:20:00+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/59890f4a-9a48-4154-9e2a-efb024e5c642.jpg?width=600",
+      "sv": {
+        "title": "Engelsman tar över Djurgården: ”En enorm stolthet”",
+        "summary": "Djurgården har gjort klart med en ny tränare. Engelsmannen Sam Saunders tar över den fotbollsallsvenska klubben.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Englishman takes over Djurgården: \"A huge pride\"",
+        "summary": "Djurgården has finalised a new coach. Englishman Sam Saunders takes over the Allsvenskan club."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:20:03+01:00"
+      }
+    },
     {
       "id": "f889d42dd9be",
       "schema_version": 1,
@@ -5592,40 +5619,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T20:31:09+01:00"
-      }
-    },
-    {
-      "id": "e3ee94d7d1ed",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/ishockey/frolunda/kaxiga-utspelet-bra-med-brons-men-det-ar-inte-guld.c27c050a-6169-5096-9da6-f2a58fcf11ce",
-      "guid": "c27c050a-6169-5096-9da6-f2a58fcf11ce",
-      "published_at": "2026-11-18T19:42:22+01:00",
-      "fetched_at": "2026-11-18T19:45:46+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Frölunda",
-        "Tagg: Frölunda HC",
-        "Tagg: Pernilla Winberg",
-        "Tagg: Tre Kronor",
-        "Tagg: Damkronorna"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/9581385e-91ce-3310-a426-49416e8bf07b",
-      "sv": {
-        "title": "Kaxiga utspelet: ”Bra med brons – men det är inte guld”",
-        "summary": "Förbundskapten Erika Holst ser redan nästa steg för Tre Kronor",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kaxiga statement: \"Good with bronze – but it's not gold\"",
-        "summary": "Head coach Erika Holst is already looking at the next step for Tre Kronor"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:45:52+01:00"
       }
     }
   ]

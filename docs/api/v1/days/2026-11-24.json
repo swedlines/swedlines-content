@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-24T14:16:14+01:00",
-  "count": 383,
+  "generated_at": "2026-11-24T14:20:05+01:00",
+  "count": 387,
   "items": [
+    {
+      "id": "bd3371b8784c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/manga-skadade-i-bilbomb-i-colombia",
+      "guid": "9c31a3cd-90b1-46fa-b6ef-2d9d2be159f4",
+      "published_at": "2026-11-24T14:18:54+01:00",
+      "fetched_at": "2026-11-24T14:20:00+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/8f483527-3e57-4faf-ae74-a61efb9bd79a.jpg?width=600",
+      "sv": {
+        "title": "Många skadade i bilbomb i Colombia",
+        "summary": "Minst 25 personer har skadats i en kraftig explosion i centrala Colombia.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Many injured in car bomb in Colombia",
+        "summary": "At least 25 people have been injured in a powerful explosion in central Colombia."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:20:03+01:00"
+      }
+    },
+    {
+      "id": "81e0b6cf3b92",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/mats-larsson/sa-bakbinder-trump-ukrainas-eget-forsvar",
+      "guid": "https://www.expressen.se/kronikorer/mats-larsson/sa-bakbinder-trump-ukrainas-eget-forsvar/",
+      "published_at": "2026-11-24T14:17:29+01:00",
+      "fetched_at": "2026-11-24T14:19:59+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Så bakbinder Trump Ukrainas eget försvar",
+        "summary": "Donald Trump kallar Vladimir Putin sin vän. Och bakbinder samtidigt Ukrainas försvar. Så illa ställt är det hösten 2026.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is how Trump leaves Ukraine's own defence tied up",
+        "summary": "Donald Trump calls Vladimir Putin his friend. And at the same time ties up Ukraine's defence. This is how bad things are in the autumn of 2026."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:20:03+01:00"
+      }
+    },
+    {
+      "id": "e40a31841ddd",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/engelsman-tar-over-djurgarden-en-enorm-stolthet",
+      "guid": "10195460-2d95-4a90-90e3-9e6203a86962",
+      "published_at": "2026-11-24T14:16:54+01:00",
+      "fetched_at": "2026-11-24T14:20:00+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/59890f4a-9a48-4154-9e2a-efb024e5c642.jpg?width=600",
+      "sv": {
+        "title": "Engelsman tar över Djurgården: ”En enorm stolthet”",
+        "summary": "Djurgården har gjort klart med en ny tränare. Engelsmannen Sam Saunders tar över den fotbollsallsvenska klubben.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Englishman takes over Djurgården: \"A huge pride\"",
+        "summary": "Djurgården has finalised a new coach. Englishman Sam Saunders takes over the Allsvenskan club."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:20:03+01:00"
+      }
+    },
     {
       "id": "f87bbcbf699b",
       "schema_version": 1,
@@ -27,6 +107,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T14:16:06+01:00"
+      }
+    },
+    {
+      "id": "1677163a60eb",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0vn6g6/fel-att-doma-ut-fn-s-klimatforhandlingar-skriver-mikael-karlsson",
+      "guid": "https://www.svd.se/a/0vn6g6/fel-att-doma-ut-fn-s-klimatforhandlingar-skriver-mikael-karlsson?utm_medium=rss",
+      "published_at": "2026-11-24T14:15:00+01:00",
+      "fetched_at": "2026-11-24T14:19:58+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/72338e76-6032-39ee-818d-888413c763fa?format=auto&s=6a45af795301ceea5fd199810f116ab9800104e4&w=1000",
+      "sv": {
+        "title": "”Fel att döma ut FN:s klimatförhandlingar”",
+        "summary": "Klimatmötet är över men det kollapsade inte, som vissa har hävdat. Flera bra och viktiga beslut…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Wrong to condemn the UN climate negotiations\"",
+        "summary": "The climate meeting is over but it did not collapse, as some have claimed. Several good and important decisions…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:20:03+01:00"
       }
     },
     {

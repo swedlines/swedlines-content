@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T14:16:14+01:00",
+  "generated_at": "2026-11-24T14:20:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "81e0b6cf3b92",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/mats-larsson/sa-bakbinder-trump-ukrainas-eget-forsvar",
+      "guid": "https://www.expressen.se/kronikorer/mats-larsson/sa-bakbinder-trump-ukrainas-eget-forsvar/",
+      "published_at": "2026-11-24T14:17:29+01:00",
+      "fetched_at": "2026-11-24T14:19:59+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Så bakbinder Trump Ukrainas eget försvar",
+        "summary": "Donald Trump kallar Vladimir Putin sin vän. Och bakbinder samtidigt Ukrainas försvar. Så illa ställt är det hösten 2026.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is how Trump leaves Ukraine's own defence tied up",
+        "summary": "Donald Trump calls Vladimir Putin his friend. And at the same time ties up Ukraine's defence. This is how bad things are in the autumn of 2026."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:20:03+01:00"
+      }
+    },
     {
       "id": "8331940cdf6c",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T00:01:21+01:00"
-      }
-    },
-    {
-      "id": "be07c8f68d16",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/kommuntoppens-distansjobb-fran-spanska-solkusten",
-      "guid": "https://www.expressen.se/nyheter/sverige/kommuntoppens-distansjobb-fran-spanska-solkusten/",
-      "published_at": "2026-11-20T23:37:13+01:00",
-      "fetched_at": "2026-11-20T23:45:46+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Kommuntoppens distansjobb – från spanska solkusten",
-        "summary": "Österåkers HR-chef väljer spanska solkusten före Åkersberga. Genom ”en särskild överenskommelse” tillåts hon jobba på distans från Costa del Sol. – När jag är inne och rör mig får jag samma känsla som om jag hade varit här exakt varje dag, säger hon till Nu Österåker",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Municipal top official's remote work – from the Spanish sunny coast",
-        "summary": "Österåker's HR chief chooses the Spanish sunny coast over Åkersberga. Through \"a special agreement\" she is allowed to work remotely from the Costa del Sol. \"When I'm in and moving around, I get the same feeling as if I had been here exactly every day,\" she tells Nu Österåker"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T23:45:51+01:00"
       }
     }
   ]
