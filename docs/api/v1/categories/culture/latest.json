@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-24T21:31:08+01:00",
+  "generated_at": "2026-11-24T21:41:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3f61a9ee6e02",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/v8OeiEQAXB16Wq5sUz6fV/stjaernkockens-ilska-efter-missen-vad-fan-sysslar-ni-med",
+      "guid": "v8OeiEQAXB16Wq5sUz6fV",
+      "published_at": "2026-11-24T21:30:05+01:00",
+      "fetched_at": "2026-11-24T21:40:57+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nöje"
+      ],
+      "sv": {
+        "title": "Stjärnkockens ilska efter missen: ”Vad fan sysslar ni med?”",
+        "summary": "Restaurangen i tv-studion är fullsatt när de fyra lagen i ”100 knivar” ska servera en trerätters husmansmeny med modern twist till Björn Frantzéns inbjudna gäster, däribland hans mamma och Pernilla Wahlgren.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Star chef's anger after blunder: \"What the hell are you doing?\"",
+        "summary": "The restaurant in the TV studio is packed as the four teams in \"100 knivar\" are to serve a three-course home-style meal with a modern twist to Björn Frantzén's invited guests, including his mother and Pernilla Wahlgren."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T21:41:02+01:00"
+      }
+    },
     {
       "id": "7f3c602ca1b9",
       "schema_version": 1,
@@ -5698,41 +5727,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T06:16:04+01:00"
-      }
-    },
-    {
-      "id": "f5136c7c55ec",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/ekonomi/overdietisten-darfor-vager-jag-mig-varje-dag.e703d330-205a-57c2-abbc-c1a022611d31",
-      "guid": "e703d330-205a-57c2-abbc-c1a022611d31",
-      "published_at": "2026-11-21T06:03:43+01:00",
-      "fetched_at": "2026-11-21T06:31:03+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Ekonomi",
-        "Tagg: Vikt",
-        "Tagg: Sahlgrenska universitetssjukhuset",
-        "Tagg: Diet",
-        "Tagg: Kost",
-        "Tagg: Forskning"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/50f4a4a9-39b0-3961-90f0-14e74abc05a2",
-      "sv": {
-        "title": "Superdietisten Ingrid Larsson: Därför väger jag mig varje dag",
-        "summary": "Näringsfysiologen om vad hon aldrig skulle äta eller göra mot sin kropp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Super-dieter Ingrid Larsson: This is why I weigh myself every day",
-        "summary": "The nutrition physiologist on what she would never eat or do to her body."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T06:31:08+01:00"
       }
     }
   ]
