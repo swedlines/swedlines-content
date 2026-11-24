@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-24T15:34:12+01:00",
+  "generated_at": "2026-11-24T15:46:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8d25b65921c5",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/storgoteborg/brand-pa-gard-man-till-sjukhus-med-helikopter.86a1cc57-8185-522b-b094-e7d4d1bc3965",
+      "guid": "86a1cc57-8185-522b-b094-e7d4d1bc3965",
+      "published_at": "2026-11-24T15:26:21+01:00",
+      "fetched_at": "2026-11-24T15:45:53+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Storgöteborg",
+        "Tagg: Ucklum",
+        "Tagg: breaking-GP"
+      ],
+      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
+      "sv": {
+        "title": "Brand på gård – man till sjukhus",
+        "summary": "Brand med öppna lågor – byggnad får brinna ner.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Farm fire – man taken to hospital",
+        "summary": "Fire with open flames – building to burn down."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:45:58+01:00"
+      }
+    },
     {
       "id": "fea99e18f402",
       "schema_version": 1,
@@ -5440,32 +5472,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T04:01:19+01:00"
-      }
-    },
-    {
-      "id": "8b114ab252f9",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345085",
-      "guid": "rss:sr.se/article/9345085",
-      "published_at": "2026-11-20T03:00:00+01:00",
-      "fetched_at": "2026-11-20T03:15:43+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Kritik mot Sveaskogs planer på att avverka i ekopark",
-        "summary": "Det statliga skogsbolaget Sveaskog vill avverka gammelskog i ekoparken Jovan i Västerbotten – där tanken är att bevara höga naturvärden. Skogsstyrelsen varnar för att avverkningen av naturskogar måste upphöra om Sverige ska nå miljömålet Levande skogar.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Criticism of Sveaskog's plans to log in eco-park",
-        "summary": "The state-owned forestry company Sveaskog wants to log old-growth forest in the Jovan eco-park in Västerbotten – where the aim is to preserve high nature values. The Swedish Forest Agency warns that logging of natural forests must end if Sweden is to reach the environmental objective Living Forests."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T03:15:50+01:00"
       }
     }
   ]

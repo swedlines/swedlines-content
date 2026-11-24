@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:34:12+01:00",
+  "generated_at": "2026-11-24T15:46:03+01:00",
   "count": 30,
   "stories": [
     {
@@ -2276,6 +2276,131 @@
       ]
     },
     {
+      "id": "2832cf65995c",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "di"
+      ],
+      "first_published_at": "2026-11-24T14:20:08+01:00",
+      "last_published_at": "2026-11-24T15:41:47+01:00",
+      "lead": {
+        "id": "2832cf65995c",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
+        "guid": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
+        "published_at": "2026-11-24T14:20:08+01:00",
+        "fetched_at": "2026-11-24T14:30:58+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Högsta domstolen: ”Elsparkcykelföretag måste ha polistillstånd”",
+          "summary": "Det är olagligt att ställa ut elsparkcyklar utan polistillstånd. Det här slår Högsta domstolen, HD, fast i en vägledande dom som gäller Gävle kommun och elsparkföretaget Ryde.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Supreme Court: \"E-scooter companies must have police permits\"",
+          "summary": "It is illegal to put out e-scooters without a police permit. The Supreme Court, HD, has established this in a precedent-setting ruling concerning Gävle municipality and the e-scooter company Ryde."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T14:31:07+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "7a21550eae71",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/hd-s-dom-tillstand-kravs-for-elsparkcyklar",
+          "published_at": "2026-11-24T15:41:47+01:00",
+          "sv": {
+            "title": "HD:s dom: Tillstånd krävs för elsparkcyklar"
+          },
+          "en": {
+            "title": "Supreme Court ruling: permit required for e-scooters"
+          }
+        },
+        {
+          "id": "2832cf65995c",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
+          "published_at": "2026-11-24T14:20:08+01:00",
+          "sv": {
+            "title": "Högsta domstolen: ”Elsparkcykelföretag måste ha polistillstånd”"
+          },
+          "en": {
+            "title": "Supreme Court: \"E-scooter companies must have police permits\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "ac8d6db95ebc",
+      "source_count": 2,
+      "sources": [
+        "sydsvenskan",
+        "svd"
+      ],
+      "first_published_at": "2026-11-24T15:30:19+01:00",
+      "last_published_at": "2026-11-24T15:36:58+01:00",
+      "lead": {
+        "id": "ac8d6db95ebc",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/sport/beskedet-efter-kaosfinalen-senegal-far-titeln",
+        "guid": "9da615ad-3dac-4fad-9d6d-2e0737b5a766",
+        "published_at": "2026-11-24T15:30:19+01:00",
+        "fetched_at": "2026-11-24T15:31:05+01:00",
+        "category": "sports",
+        "image_url": "https://static.bonniernews.se/ba/cd676be6-2a9a-44be-b7f7-fbc55c7ad661.jpg?width=600",
+        "sv": {
+          "title": "Beskedet efter kaosfinalen – Senegal får titeln",
+          "summary": "Finalen slutade i kaos och förvirring – och nu, nästan ett år senare, har Idrottens skiljedomstol (Cas) kommit med sitt beslut: Senegal tilldelas segern i Afrikanska mästerskapen 2025.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Verdict after chaotic final – Senegal gets the title",
+          "summary": "The final ended in chaos and confusion – and now, almost a year later, the Court of Arbitration for Sport (Cas) has issued its ruling: Senegal is awarded victory in the 2025 Africa Cup of Nations."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T15:31:10+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "3f907a4949a1",
+          "source": "svd",
+          "url": "https://www.svd.se/a/BrRaE7/senegal-vinner-afrikanska-masterskapet-i-fotboll",
+          "published_at": "2026-11-24T15:36:58+01:00",
+          "sv": {
+            "title": "Ett år efter kaosfinalen – Senegal får titeln"
+          },
+          "en": {
+            "title": "One year after the chaotic final – Senegal gets the title"
+          }
+        },
+        {
+          "id": "ac8d6db95ebc",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/beskedet-efter-kaosfinalen-senegal-far-titeln",
+          "published_at": "2026-11-24T15:30:19+01:00",
+          "sv": {
+            "title": "Beskedet efter kaosfinalen – Senegal får titeln"
+          },
+          "en": {
+            "title": "Verdict after chaotic final – Senegal gets the title"
+          }
+        }
+      ]
+    },
+    {
       "id": "3d3ed0129ac0",
       "source_count": 2,
       "sources": [
@@ -2556,156 +2681,6 @@
           },
           "en": {
             "title": "Victory? This is an identity crisis"
-          }
-        }
-      ]
-    },
-    {
-      "id": "770c02abf4da",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T14:03:57+01:00",
-      "last_published_at": "2026-11-24T14:20:13+01:00",
-      "lead": {
-        "id": "770c02abf4da",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/r8Aa58/over-5000-varmerelaterade-dodsfall-i-england",
-        "guid": "https://www.aftonbladet.se/nyheter/a/r8Aa58/over-5000-varmerelaterade-dodsfall-i-england?utm_medium=rss",
-        "published_at": "2026-11-24T14:03:57+01:00",
-        "fetched_at": "2026-11-24T14:15:50+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/46310bbb-c336-3487-9bcb-076a24b50aeb?format=auto&s=d44062f6d45f389175c65b8a7081bb2abf521843&w=1000",
-        "sv": {
-          "title": "Över 5 000 värmerelaterade dödsfall i England",
-          "summary": "Sommarens extremhetta i England medförde 5 258 värmerelaterade dödsfall – det högsta antalet sedan…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Over 5,000 heat-related deaths in England",
-          "summary": "Summer's extreme heat in England caused 5,258 heat-related deaths – the highest number since…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T14:16:06+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "a3bd23adf93f",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/klimat/a/oMpoV0/over-5000-varmerelaterade-dodsfall-i-england",
-          "published_at": "2026-11-24T14:20:13+01:00",
-          "sv": {
-            "title": "Över 5 000 värmerelaterade dödsfall i England"
-          },
-          "en": {
-            "title": "Over 5,000 heat-related deaths in England"
-          }
-        },
-        {
-          "id": "4b48da7c9913",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1507249",
-          "published_at": "2026-11-24T14:20:13+01:00",
-          "sv": {
-            "title": "Över 5 000 värmerelaterade dödsfall i England"
-          },
-          "en": {
-            "title": "Over 5,000 heat-related deaths in England"
-          }
-        },
-        {
-          "id": "775a4ac1fd71",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/over-5-000-varmerelaterade-dodsfall-i-england",
-          "published_at": "2026-11-24T14:10:59+01:00",
-          "sv": {
-            "title": "Över 5 000 värmerelaterade dödsfall i England"
-          },
-          "en": {
-            "title": "Over 5,000 heat-related deaths in England"
-          }
-        },
-        {
-          "id": "770c02abf4da",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/r8Aa58/over-5000-varmerelaterade-dodsfall-i-england",
-          "published_at": "2026-11-24T14:03:57+01:00",
-          "sv": {
-            "title": "Över 5 000 värmerelaterade dödsfall i England"
-          },
-          "en": {
-            "title": "Over 5,000 heat-related deaths in England"
-          }
-        }
-      ]
-    },
-    {
-      "id": "6d82ec7401b7",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T13:30:37+01:00",
-      "last_published_at": "2026-11-24T14:18:54+01:00",
-      "lead": {
-        "id": "6d82ec7401b7",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/M5R0A5/manga-skadade-i-bilbomb-i-colombia",
-        "guid": "https://www.aftonbladet.se/nyheter/a/M5R0A5/manga-skadade-i-bilbomb-i-colombia?utm_medium=rss",
-        "published_at": "2026-11-24T13:30:37+01:00",
-        "fetched_at": "2026-11-24T13:45:46+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/ab586ae6-58e7-3317-b28d-23e7a640f0d7?format=auto&s=43be69445e377ea33c6faa21f735ac22ad2dfb2c&w=1000",
-        "sv": {
-          "title": "Många skadade i bilbomb i Colombia",
-          "summary": "Minst 25 personer har skadats i en kraftig explosion i centrala Colombia.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Many injured in car bomb in Colombia",
-          "summary": "At least 25 people have been injured in a powerful explosion in central Colombia."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T13:45:53+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "bd3371b8784c",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/manga-skadade-i-bilbomb-i-colombia",
-          "published_at": "2026-11-24T14:18:54+01:00",
-          "sv": {
-            "title": "Många skadade i bilbomb i Colombia"
-          },
-          "en": {
-            "title": "Many injured in car bomb in Colombia"
-          }
-        },
-        {
-          "id": "6d82ec7401b7",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/M5R0A5/manga-skadade-i-bilbomb-i-colombia",
-          "published_at": "2026-11-24T13:30:37+01:00",
-          "sv": {
-            "title": "Många skadade i bilbomb i Colombia"
-          },
-          "en": {
-            "title": "Many injured in car bomb in Colombia"
           }
         }
       ]

@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-24T15:34:12+01:00",
+  "generated_at": "2026-11-24T15:46:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8d25b65921c5",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/storgoteborg/brand-pa-gard-man-till-sjukhus-med-helikopter.86a1cc57-8185-522b-b094-e7d4d1bc3965",
+      "guid": "86a1cc57-8185-522b-b094-e7d4d1bc3965",
+      "published_at": "2026-11-24T15:26:21+01:00",
+      "fetched_at": "2026-11-24T15:45:53+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Storgöteborg",
+        "Tagg: Ucklum",
+        "Tagg: breaking-GP"
+      ],
+      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
+      "sv": {
+        "title": "Brand på gård – man till sjukhus",
+        "summary": "Brand med öppna lågor – byggnad får brinna ner.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Farm fire – man taken to hospital",
+        "summary": "Fire with open flames – building to burn down."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:45:58+01:00"
+      }
+    },
     {
       "id": "f3ae6893ad9e",
       "schema_version": 1,
@@ -6876,36 +6908,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T20:31:04+01:00"
-      }
-    },
-    {
-      "id": "fd389fc82c4e",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/kommentar/detta-ar-de-fem-konstigaste-sexscenerna-i-filmhistorien.f261fa7c-c5f8-5f53-b853-ce201d459a9e",
-      "guid": "f261fa7c-c5f8-5f53-b853-ce201d459a9e",
-      "published_at": "2026-11-19T19:48:41+01:00",
-      "fetched_at": "2026-11-19T20:01:17+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Kommentar"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/9328b61e-a621-37f5-ad31-03e470387e6f",
-      "sv": {
-        "title": "”Wicker” uppfann inte udda sexscener – här är de fem konstigaste",
-        "summary": "Från flåsig kåtma och flaxande gälar till satanistsex och obscen sex i herrgårdsmiljö.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Wicker\" did not invent odd sex scenes – here are the five strangest",
-        "summary": "From breathless lust and flapping gills to Satanist sex and obscene sex in a manor-house setting."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T20:01:24+01:00"
       }
     }
   ]

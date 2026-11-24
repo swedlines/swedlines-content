@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T15:34:12+01:00",
+  "generated_at": "2026-11-24T15:46:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7a21550eae71",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/hd-s-dom-tillstand-kravs-for-elsparkcyklar",
+      "guid": "9f019d25-30a2-423d-9831-d67b4bf799d2",
+      "published_at": "2026-11-24T15:41:47+01:00",
+      "fetched_at": "2026-11-24T15:45:52+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/b6d838f0-827b-423d-9612-794bf685b9e0.jpeg?width=600",
+      "sv": {
+        "title": "HD:s dom: Tillstånd krävs för elsparkcyklar",
+        "summary": "Högsta domstolen fäller elsparkcykelföretaget Ryde i den långvariga tvisten med Gävle kommun. Domen slår fast att det krävs tillstånd för att hyra ut elsparkcyklar på allmän mark. Nu döms företaget till böter, rapporterar Gefle Dagblad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Supreme Court ruling: permit required for e-scooters",
+        "summary": "The Supreme Court rules against the e-scooter company Ryde in the long-running dispute with Gävle Municipality. The ruling establishes that a permit is required to rent out e-scooters on public land. The company is now fined, reports Gefle Dagblad."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:45:58+01:00"
+      }
+    },
     {
       "id": "a23d89b24fc2",
       "schema_version": 1,
@@ -5292,33 +5319,6 @@
       "en": {
         "title": "SB1: This is how Mildef can raise its earnings by 15 percent",
         "summary": "Defence company Mildef may significantly raise its earnings in the coming years, SB1 Markets writes in an update."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T11:15:59+01:00"
-      }
-    },
-    {
-      "id": "7cb4d3e7bc8e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/qviberg-om-forsaljningen-lagger-mig-inte-i-vad-andra-gor",
-      "guid": "1782bf6e-bf13-421d-ae05-1f3fb21bff4f",
-      "published_at": "2026-11-23T11:06:19+01:00",
-      "fetched_at": "2026-11-23T11:15:46+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6ff3b790-b2a5-42af-9857-9cd8222e5900.jpeg?width=600",
-      "sv": {
-        "title": "Qviberg om försäljningen: ”Lägger mig inte i vad andra gör”",
-        "summary": "Scandi Standard faller tydligt på nyheten att storägaren Grupo Lusiaves sålt aktier för första gången i kycklingbolaget. ”Jag lägger mig inte i vad andra gör”, säger huvudägaren Mats Qviberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Qviberg on the sale: “I'm not getting involved in what others do”",
-        "summary": "Scandi Standard falls clearly on the news that major owner Grupo Lusiaves has sold shares in the chicken company for the first time. “I'm not getting involved in what others do,” says main owner Mats Qviberg."
       },
       "translation": {
         "status": "done",

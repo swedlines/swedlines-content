@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-24T15:34:12+01:00",
+  "generated_at": "2026-11-24T15:46:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7a21550eae71",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/hd-s-dom-tillstand-kravs-for-elsparkcyklar",
+      "guid": "9f019d25-30a2-423d-9831-d67b4bf799d2",
+      "published_at": "2026-11-24T15:41:47+01:00",
+      "fetched_at": "2026-11-24T15:45:52+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/b6d838f0-827b-423d-9612-794bf685b9e0.jpeg?width=600",
+      "sv": {
+        "title": "HD:s dom: Tillstånd krävs för elsparkcyklar",
+        "summary": "Högsta domstolen fäller elsparkcykelföretaget Ryde i den långvariga tvisten med Gävle kommun. Domen slår fast att det krävs tillstånd för att hyra ut elsparkcyklar på allmän mark. Nu döms företaget till böter, rapporterar Gefle Dagblad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Supreme Court ruling: permit required for e-scooters",
+        "summary": "The Supreme Court rules against the e-scooter company Ryde in the long-running dispute with Gävle Municipality. The ruling establishes that a permit is required to rent out e-scooters on public land. The company is now fined, reports Gefle Dagblad."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:45:58+01:00"
+      }
+    },
+    {
+      "id": "bcb096b17a1c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80264",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80264&utm_medium=rss",
+      "published_at": "2026-11-24T15:41:25+01:00",
+      "fetched_at": "2026-11-24T15:45:50+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nvidia faller på Nasdaq"
+      },
+      "en": {
+        "title": "Nvidia falls on Nasdaq"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:45:58+01:00"
+      }
+    },
+    {
+      "id": "9ce6a0063d2d",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/kMJVeQ/sa-smiddes-planerna-for-ai-kungen-jensen-huangs-aterkomst",
+      "guid": "https://www.svd.se/a/kMJVeQ/sa-smiddes-planerna-for-ai-kungen-jensen-huangs-aterkomst?utm_medium=rss",
+      "published_at": "2026-11-24T15:34:07+01:00",
+      "fetched_at": "2026-11-24T15:45:50+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/813f4277-c596-3ca7-b415-2c46768b6d73?format=auto&s=f9215e12b354261dd778dd8e9931c8cf54685ed5&w=1000",
+      "sv": {
+        "title": "Så smiddes planerna för AI-kungens återkomst",
+        "summary": "Knappt två veckor efter att Jensen Huang tvingades lämna Nvidia är han tillbaka.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How the plans for the AI king's return were made",
+        "summary": "Barely two weeks after Jensen Huang was forced to leave Nvidia, he is back."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:45:58+01:00"
+      }
+    },
     {
       "id": "a23d89b24fc2",
       "schema_version": 1,
@@ -5216,86 +5293,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T19:15:58+01:00"
-      }
-    },
-    {
-      "id": "3249305191f6",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/nattsasong-ar-arets-skonlitterara-bok",
-      "guid": "2b58d1b7-ceb5-41c7-9ce5-a7d46eafafd3",
-      "published_at": "2026-11-23T18:41:29+01:00",
-      "fetched_at": "2026-11-23T18:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b9dd767d-fbfe-4297-8592-628c615250a3.jpeg?width=600",
-      "sv": {
-        "title": "Nattsäsong är årets skönlitterära bok",
-        "summary": "Sveriges mest prestigefulla litteraturpris, Augustpriset, delades ut under måndagskvällen. Vinnarna i de tre kategorierna, årets skönlitterära bok, årets fackbok och årets barn- och ungdomsbok, tar alla hem 100.000 kronor vardera.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Nattsäsong is the year's best fiction book",
-        "summary": "Sweden's most prestigious literary prize, the August Prize, was awarded on Monday evening. The winners in the three categories, the year's fiction book, the year's non-fiction book and the year's children's and young adult book, each take home SEK 100,000."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T18:45:55+01:00"
-      }
-    },
-    {
-      "id": "ff9fa9a1b984",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/lattnad-och-kritik-efter-nvidias-tvarvandning",
-      "guid": "fa7acce0-29ef-46fe-9ea6-7aeaa6cc2885",
-      "published_at": "2026-11-23T18:28:58+01:00",
-      "fetched_at": "2026-11-23T18:33:08+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b9d119d8-3dfe-4bf0-adf1-b3cd9caba20e.jpeg?width=600",
-      "sv": {
-        "title": "Lättnad och kritik efter Nvidias tvärvändning",
-        "summary": "NEW YORK. Jensen Huangs återkomst får Nvidia att rusa på börsen. Donald Trump tar åt sig äran för beslutet, som flera analytiker ser som affärsmässigt nödvändigt. Men styrelsens tvärvändning väcker också frågor om hur AI-jätten styrs och hur riskerna ska övervakas.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Relief and criticism after Nvidia's U-turn",
-        "summary": "NEW YORK. Jensen Huang's return sends Nvidia shares rushing higher. Donald Trump takes credit for the decision, which several analysts see as commercially necessary. But the board's U-turn also raises questions about how the AI giant is governed and how risks are to be monitored."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T18:33:12+01:00"
-      }
-    },
-    {
-      "id": "0d9aa6da9a35",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/klart-carl-bennets-juvel-aker-ur-finrummet",
-      "guid": "6beb1ae3-9e95-4f08-a5bf-daa73d670dc3",
-      "published_at": "2026-11-23T18:23:18+01:00",
-      "fetched_at": "2026-11-23T18:33:08+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Klart: Carl Bennets juvel åker ur finrummet",
-        "summary": "Carl Bennets serieförvärvare Lifco åker ur OMXS30 och ersätts av ett av Investors portföljbolag. Det framgår av ett pressmeddelande från Nasdaq.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Confirmed: Carl Bennet's jewel drops out of the blue-chip index",
-        "summary": "Carl Bennet's serial acquirer Lifco is dropping out of the OMXS30 and will be replaced by one of Investor's portfolio companies. This is according to a press release from Nasdaq."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T18:33:12+01:00"
       }
     }
   ]
