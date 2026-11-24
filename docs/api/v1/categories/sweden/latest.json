@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T20:15:57+01:00",
+  "generated_at": "2026-11-24T20:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4a2aaf1541ee",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8ea6b77b-40d6-42c1-9e7b-073ba9841c15",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8ea6b77b-40d6-42c1-9e7b-073ba9841c15",
+      "published_at": "2026-11-24T20:24:37+01:00",
+      "fetched_at": "2026-11-24T20:31:00+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Död i olycka – arbetade vid hiss",
+        "summary": "Arbetsplatsolycka i Västerås",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dead in accident – worked near lift",
+        "summary": "Workplace accident in Västerås"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T20:31:05+01:00"
+      }
+    },
     {
       "id": "e81a653de60a",
       "schema_version": 1,
@@ -5416,32 +5442,6 @@
       "en": {
         "title": "Bourgeois demand: Cut speed on E22 through Lund even further",
         "summary": "Traffic on the E22 through Lund is noisy and contributes to large emissions of greenhouse gases. Now two of Lund's bourgeois parties want the Transport Administration to lower the speed limit."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:15:47+01:00"
-      }
-    },
-    {
-      "id": "63eb764311eb",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/granskning/ug/larmen-inifran-socialtjansten-krig-mot-foraldrar",
-      "guid": "https://www.svt.se/nyheter/granskning/ug/larmen-inifran-socialtjansten-krig-mot-foraldrar",
-      "published_at": "2026-11-20T06:04:02+01:00",
-      "fetched_at": "2026-11-20T06:15:38+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Larmen inifrån socialtjänsten: ”Krig mot föräldrar”",
-        "summary": "Två barn har omhändertagits av Örebros socialtjänst på felaktiga grunder. Ett av barnen är Malins son ”Leo”. Nu utreds samtliga 244 tvångsplacerade barn i kommunen, visar dokument som SVT tagit del av.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Alarm from inside social services: \"War on parents\"",
-        "summary": "Two children have been taken into care by Örebro's social services on incorrect grounds. One of the children is Malin's son \"Leo\". All 244 children compulsorily placed in the municipality are now being investigated, documents obtained by SVT show."
       },
       "translation": {
         "status": "done",

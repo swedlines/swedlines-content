@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T20:15:57+01:00",
+  "generated_at": "2026-11-24T20:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "50aaef388d53",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/WmLrzG/vi-ville-bli-smartare-vad-hande",
+      "guid": "https://www.svd.se/a/WmLrzG/vi-ville-bli-smartare-vad-hande?utm_medium=rss",
+      "published_at": "2026-11-24T20:15:00+01:00",
+      "fetched_at": "2026-11-24T20:31:00+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/e5fe750b-3416-33f1-ac6a-25f19adbe79e?format=auto&s=cd33c4fb15dc694f6573f805c0b820f8878de82b&w=1000",
+      "sv": {
+        "title": "Vi ville bli smartare – vad hände?",
+        "summary": "Kan man bli smartare av Mozart, blåbär och sudoku? Och riskerar skärmar och AI tvärtom att göra oss…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "We wanted to get smarter – what happened?",
+        "summary": "Can you get smarter from Mozart, blueberries and sudoku? And do screens and AI risk doing the opposite to us…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T20:31:05+01:00"
+      }
+    },
     {
       "id": "ec2736ec8aaf",
       "schema_version": 1,
@@ -5511,33 +5538,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "a63fcbc88ae7",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/sverige-moter-bosnien-folj-matchen-live",
-      "guid": "https://www.dn.se/sport/sverige-moter-bosnien-folj-matchen-live/",
-      "published_at": "2026-11-14T20:32:17+01:00",
-      "fetched_at": "2026-11-14T21:40:36+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/124562c2-197b-4117-8e85-6d45c9ccbf6c.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Sverige möter Bosnien – följ matchen live",
-        "summary": "Sverige kan säkra gruppsegern i fotbollens Nations League om det blir seger mot Bosnien Herzegovina i Solna, matchstart 20.45. Följ direktrapporteringen från matchen här.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sweden meet Bosnia – follow the match live",
-        "summary": "Sweden can secure the group win in the football Nations League with a victory over Bosnia-Herzegovina in Solna, kick-off 20.45. Follow the live coverage of the match here."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T21:40:46+01:00"
       }
     }
   ]

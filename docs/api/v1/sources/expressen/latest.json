@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T20:15:57+01:00",
+  "generated_at": "2026-11-24T20:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4a2aaf1541ee",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8ea6b77b-40d6-42c1-9e7b-073ba9841c15",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8ea6b77b-40d6-42c1-9e7b-073ba9841c15",
+      "published_at": "2026-11-24T20:24:37+01:00",
+      "fetched_at": "2026-11-24T20:31:00+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Död i olycka – arbetade vid hiss",
+        "summary": "Arbetsplatsolycka i Västerås",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dead in accident – worked near lift",
+        "summary": "Workplace accident in Västerås"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T20:31:05+01:00"
+      }
+    },
     {
       "id": "f370c35ca63b",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T08:01:15+01:00"
-      }
-    },
-    {
-      "id": "a124ff7052a2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/krim/sverige-oppnar-polisstation-i-irak",
-      "guid": "https://www.expressen.se/nyheter/krim/sverige-oppnar-polisstation-i-irak/",
-      "published_at": "2026-11-21T07:46:51+01:00",
-      "fetched_at": "2026-11-21T07:51:32+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Sverige öppnar polisstation i Irak",
-        "summary": "Svensk polis ska öppna en station i Irak. Syftet är att komma åt gängtoppar som beställer mord och andra dåd på svensk mark. – Ett antal svenska poliser ska jobba där, säger rikspolischef Petra Lundh i Ekots lördagsintervju.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sweden opens police station in Iraq",
-        "summary": "Swedish police are to open a station in Iraq. The aim is to reach gang leaders who order murders and other acts on Swedish soil. \"A number of Swedish police officers will work there,\" says National Police Commissioner Petra Lundh in Ekot's Saturday interview."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T07:51:37+01:00"
       }
     }
   ]

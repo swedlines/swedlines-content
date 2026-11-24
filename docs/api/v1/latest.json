@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-24T20:15:57+01:00",
+  "generated_at": "2026-11-24T20:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4a2aaf1541ee",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8ea6b77b-40d6-42c1-9e7b-073ba9841c15",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8ea6b77b-40d6-42c1-9e7b-073ba9841c15",
+      "published_at": "2026-11-24T20:24:37+01:00",
+      "fetched_at": "2026-11-24T20:31:00+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Död i olycka – arbetade vid hiss",
+        "summary": "Arbetsplatsolycka i Västerås",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dead in accident – worked near lift",
+        "summary": "Workplace accident in Västerås"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T20:31:05+01:00"
+      }
+    },
+    {
+      "id": "13569b17b970",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349424",
+      "guid": "rss:sr.se/article/9349424",
+      "published_at": "2026-11-24T20:23:00+01:00",
+      "fetched_at": "2026-11-24T20:30:58+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Över 5 000 döda efter Storbritanniens värmeböljor",
+        "summary": "I Storbritannien ledde sommarens värmeböljor till mer än 5 000 värmerelaterade dödsfall, enligt ny statistik från landets folkhälsomyndighet. Antalet dödsfall med kopplingar till hettan är det klart högsta sedan mätningarna började 2016.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Over 5,000 dead after Britain's heatwaves",
+        "summary": "In Britain, this summer's heatwaves led to more than 5,000 heat-related deaths, according to new statistics from the country's Public Health Agency. The number of deaths linked to the heat is the highest since measurements began in 2016."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T20:31:05+01:00"
+      }
+    },
+    {
+      "id": "50aaef388d53",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/WmLrzG/vi-ville-bli-smartare-vad-hande",
+      "guid": "https://www.svd.se/a/WmLrzG/vi-ville-bli-smartare-vad-hande?utm_medium=rss",
+      "published_at": "2026-11-24T20:15:00+01:00",
+      "fetched_at": "2026-11-24T20:31:00+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/e5fe750b-3416-33f1-ac6a-25f19adbe79e?format=auto&s=cd33c4fb15dc694f6573f805c0b820f8878de82b&w=1000",
+      "sv": {
+        "title": "Vi ville bli smartare – vad hände?",
+        "summary": "Kan man bli smartare av Mozart, blåbär och sudoku? Och riskerar skärmar och AI tvärtom att göra oss…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "We wanted to get smarter – what happened?",
+        "summary": "Can you get smarter from Mozart, blueberries and sudoku? And do screens and AI risk doing the opposite to us…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T20:31:05+01:00"
+      }
+    },
     {
       "id": "ec2736ec8aaf",
       "schema_version": 1,
@@ -5301,86 +5380,6 @@
       "en": {
         "title": "Over 5,000 heat-related deaths in England",
         "summary": "Summer's extreme heat in England caused 5,258 heat-related deaths – the highest number since measurements began in 2016, according to the UK's Public Health Agency."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:16:06+01:00"
-      }
-    },
-    {
-      "id": "128132127b08",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/nu-bor-magdalena-anderssons-ledarskap-ifragasattas",
-      "guid": "https://www.dn.se/insandare/nu-bor-magdalena-anderssons-ledarskap-ifragasattas/",
-      "published_at": "2026-11-24T14:09:28+01:00",
-      "fetched_at": "2026-11-24T14:15:48+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/1b4a746a-632e-444b-af8a-4708bc1d8f22.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Nu bör Magdalena Anderssons ledarskap ifrågasättas",
-        "summary": "INSÄNDARE. Vi som röstade för förändring riskerar nu ytterligare fyra år med högerstyre. Om förhandlingarna med V, MP och C kollapsar bör Magdalena Andersson och de andra ansvariga i S-ledningen fråga sig om de fortfarande är rätt personer att leda partiet, skriver den tidigare S-riksdagsledamoten…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Letter. Now Magdalena Andersson's leadership should be questioned",
-        "summary": "LETTER. We who voted for change risk another four years of right-wing rule. If negotiations with V, MP and C collapse, Magdalena Andersson and the others responsible in the S leadership should ask themselves whether they are still the right people to lead the party, writes the former S Riksdag member…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:16:06+01:00"
-      }
-    },
-    {
-      "id": "770c02abf4da",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/r8Aa58/over-5000-varmerelaterade-dodsfall-i-england",
-      "guid": "https://www.aftonbladet.se/nyheter/a/r8Aa58/over-5000-varmerelaterade-dodsfall-i-england?utm_medium=rss",
-      "published_at": "2026-11-24T14:03:57+01:00",
-      "fetched_at": "2026-11-24T14:15:50+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/46310bbb-c336-3487-9bcb-076a24b50aeb?format=auto&s=d44062f6d45f389175c65b8a7081bb2abf521843&w=1000",
-      "sv": {
-        "title": "Över 5 000 värmerelaterade dödsfall i England",
-        "summary": "Sommarens extremhetta i England medförde 5 258 värmerelaterade dödsfall – det högsta antalet sedan…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Over 5,000 heat-related deaths in England",
-        "summary": "Summer's extreme heat in England caused 5,258 heat-related deaths – the highest number since…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:16:06+01:00"
-      }
-    },
-    {
-      "id": "8331940cdf6c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/s-tappar-m-snart-ikapp",
-      "guid": "https://www.expressen.se/nyheter/politik/s-tappar-m-snart-ikapp/",
-      "published_at": "2026-11-24T14:03:57+01:00",
-      "fetched_at": "2026-11-24T14:15:50+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "S tappar – M snart ikapp",
-        "summary": "Moderaterna får sin högsta notering på åtta år i DN/Ipsos opinionsundersökning. Samtidigt fortsätter Socialdemokraterna att tappa – tillsammans med Centerpartiet. – Centerpartiet har satt sig i en väldigt svår sits, säger Nicklas Källebring vid Ipsos till DN.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "S falling – M soon catching up",
-        "summary": "The Moderates get their highest rating in eight years in the DN/Ipsos opinion poll. At the same time the Social Democrats continue to fall, together with the Centre Party. – The Centre Party has got itself into a very difficult situation, says Nicklas Källebring at Ipsos to DN."
       },
       "translation": {
         "status": "done",
