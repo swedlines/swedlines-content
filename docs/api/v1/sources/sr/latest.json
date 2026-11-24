@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T23:01:11+01:00",
+  "generated_at": "2026-11-24T23:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2296188aa725",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349492",
+      "guid": "rss:sr.se/article/9349492",
+      "published_at": "2026-11-24T23:07:00+01:00",
+      "fetched_at": "2026-11-24T23:15:43+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Backstreet Boys-stjärnan åtalas för sexualla övergrepp",
+        "summary": "Backstreet Boys-sångaren Nick Carter anklagas i en ny stämning för sexuella övergrepp 2003. Kvinnan, som då var 18 år, spelade mot honom i filmen ”The Hollow”. Enligt den amerikanska musiktidningen Rolling Stone anklagas han för övergrepp och våldtäkt i sin lägenhet i Los Angeles.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Backstreet Boys star charged with sexual abuse",
+        "summary": "Backstreet Boys singer Nick Carter is accused in a new lawsuit of sexual abuse in 2003. The woman, who was 18 at the time, appeared opposite him in the film \"The Hollow\". According to the American music magazine Rolling Stone, he is accused of abuse and rape in his apartment in Los Angeles."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T23:15:50+01:00"
+      }
+    },
     {
       "id": "13569b17b970",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T10:45:49+01:00"
-      }
-    },
-    {
-      "id": "9cc2b6dd1816",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345980",
-      "guid": "rss:sr.se/article/9345980",
-      "published_at": "2026-11-19T10:02:00+01:00",
-      "fetched_at": "2026-11-19T10:15:43+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Återstarten av Ringhals dröjer flera veckor",
-        "summary": "Återstarten av ena reaktorn i Ringhals kärnkraftverk försenas ytterligare. Ringhals 3 skulle ha återstartats den 5 december. men nu dröjer återstarten till 21 december. Den senaste tiden avstängda reaktorer har bidragit till de höga elpriserna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Restart of Ringhals delayed by several weeks",
-        "summary": "The restart of one reactor at the Ringhals nuclear power plant is further delayed. Ringhals 3 was to have restarted on 5 December, but now the restart is delayed until 21 December. Recently, shut-down reactors have contributed to high electricity prices."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T10:16:03+01:00"
       }
     }
   ]

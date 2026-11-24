@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-24T23:01:11+01:00",
+  "generated_at": "2026-11-24T23:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "288674b7ef19",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/natoangesten-om-ukraina-kanske-hade-kriget-forhindrats",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/natoangesten-om-ukraina-kanske-hade-kriget-forhindrats",
+      "published_at": "2026-11-24T23:09:03+01:00",
+      "fetched_at": "2026-11-24T23:15:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Natomissen om Ukraina",
+        "summary": "Pekar ut 18 år gammalt beslut: ”Hade kunnat förhindra kriget”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "NATO member on Ukraine",
+        "summary": "Points to 18-year-old decision: \"Could have prevented the war\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T23:15:50+01:00"
+      }
+    },
+    {
+      "id": "79b962f03459",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/radet-till-mette-marit-prata-inte-om-epstein",
+      "guid": "https://www.expressen.se/nyheter/varlden/radet-till-mette-marit-prata-inte-om-epstein/",
+      "published_at": "2026-11-24T23:07:26+01:00",
+      "fetched_at": "2026-11-24T23:15:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Rådet till Mette-Marit: Prata inte om Epstein",
+        "summary": "Norges drottning Mette-Marit kommer inte att ställa upp på ett samtal med den norska Epstein-kommissionen. Hovet har avböjt förfrågan efter en rekommendation från statsministerns kansli, rapporterar NRK.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Advice to Mette-Marit: Don't talk about Epstein",
+        "summary": "Norway's Queen Mette-Marit will not take part in a conversation with the Norwegian Epstein commission. The court has declined the request following a recommendation from the prime minister's office, NRK reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T23:15:50+01:00"
+      }
+    },
     {
       "id": "ca9d146c63dd",
       "schema_version": 1,
@@ -5328,62 +5380,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T20:01:17+01:00"
-      }
-    },
-    {
-      "id": "208f59a342c4",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/besvikelse-efter-haveriet-pa-klimatmotet-ytterligare-ett-forlorat-ar",
-      "guid": "https://www.dn.se/varlden/besvikelse-efter-haveriet-pa-klimatmotet-ytterligare-ett-forlorat-ar/",
-      "published_at": "2026-11-22T19:30:52+01:00",
-      "fetched_at": "2026-11-22T19:45:46+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/80b83d4d-87ee-4e62-99cc-db354cdef4a9.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Besvikelse efter haveriet på klimatmötet: ”Ytterligare ett förlorat år”",
-        "summary": "Det kollapsade klimatmötet i Antalya är bekymrande, uppger företrädare för svenska miljöorganisationer. – Men det är bättre att det inte blir något beslut än att det blir ett dåligt beslut, säger Anja Ipp, klimatsakkunnig på Naturskyddsföreningen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Disappointment after climate summit collapse: \"Another lost year\"",
-        "summary": "The collapsed climate summit in Antalya is alarming, representatives of Swedish environmental organisations say. – But it is better that there is no decision than that there is a bad decision, says Anja Ipp, climate expert at Naturskyddsföreningen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T19:45:54+01:00"
-      }
-    },
-    {
-      "id": "91fa8c7b97bd",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4RZh283HH6ihMshu3flgGS/trump-framhaerdar-min-vaen-putin",
-      "guid": "4RZh283HH6ihMshu3flgGS",
-      "published_at": "2026-11-22T19:15:28+01:00",
-      "fetched_at": "2026-11-22T19:31:04+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Experten om vänskapen: Nu ser Ryssland Europa som huvudfienden",
-        "summary": "På en bild publicerad på Trumps Truth Social-konto syns en leende Putin skaka hand med den amerikanske presidenten, som lutar sig fram mot Putins öra. Ovanför bilden finns texten ”min vän”.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Expert on the friendship: Now Russia sees Europe as the main enemy",
-        "summary": "A picture published on Trump's Truth Social account shows a smiling Putin shaking hands with the American president, who leans towards Putin's ear. Above the picture is the text \"my friend\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T19:31:10+01:00"
       }
     }
   ]
