@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-24T14:01:28+01:00",
+  "generated_at": "2026-11-24T14:16:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f3ae6893ad9e",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/gisele-pelicot-om-nakenbilder-i-bokkampanj-fornedrad-igen.3f3fffa2-6ece-5197-91da-67f4ecf5055c",
+      "guid": "3f3fffa2-6ece-5197-91da-67f4ecf5055c",
+      "published_at": "2026-11-24T14:12:46+01:00",
+      "fetched_at": "2026-11-24T14:15:51+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Gisèle Pelicot",
+        "Tagg: Rättegångar",
+        "Tagg: Våldtäkt",
+        "Tagg: Integritet"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/15961062-0250-3420-ac24-347607735958",
+      "sv": {
+        "title": "Pelicot förnedrad av nakenbilder i bokkampanj",
+        "summary": "Ett förlag Frankrike har använt nakenbilder på Gisèle Pelicot för att marknadsföra en bok.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pelicot humiliated by nude images in book campaign",
+        "summary": "A French publisher has used nude images of Gisèle Pelicot to market a book."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:16:06+01:00"
+      }
+    },
     {
       "id": "5d7cee164068",
       "schema_version": 1,
@@ -5677,33 +5711,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T00:31:03+01:00"
-      }
-    },
-    {
-      "id": "57596f26d4b6",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/ARd5q3/arets-biohelg-valj-och-vraka-bland-toppfilmer",
-      "guid": "https://www.svd.se/a/ARd5q3/arets-biohelg-valj-och-vraka-bland-toppfilmer?utm_medium=rss",
-      "published_at": "2026-11-20T22:00:00+01:00",
-      "fetched_at": "2026-11-20T22:01:14+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/04d9c121-b50b-31cc-838d-404221d41b09?format=auto&s=9301faa077ce1db33794c6ac83e68c0911ed6178&w=1000",
-      "sv": {
-        "title": "Årets biohelg – välj och vraka bland toppfilmer",
-        "summary": "Se Alexander Skarsgård som älskare gjord av korg i fantasydramat ”Wicker”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This year's cinema weekend – pick and choose from top films",
-        "summary": "See Alexander Skarsgård as a lover made of wicker in the fantasy drama \"Wicker\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T22:01:22+01:00"
       }
     }
   ]
