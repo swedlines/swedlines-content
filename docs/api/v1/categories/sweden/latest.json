@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-24T09:40:32+01:00",
+  "generated_at": "2026-11-24T09:46:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "405805ddd7f7",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/vastsverige/vasttrafik-byter-ut-alla-biljettlasare-klart-2028.5a3a5cb1-4f0d-5991-999d-2afb16943a50",
+      "guid": "5a3a5cb1-4f0d-5991-999d-2afb16943a50",
+      "published_at": "2026-11-24T09:36:53+01:00",
+      "fetched_at": "2026-11-24T09:45:55+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Västsverige",
+        "Tagg: breaking-GP",
+        "Tagg: Västtrafik"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/8b3fa80b-5821-33da-865f-d099cdb96e00",
+      "sv": {
+        "title": "Västtrafik byter ut alla biljettläsare",
+        "summary": "Då ska abetet vara klart • Bara appbiljetter fungerar – till en början.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Västtrafik replaces all ticket readers",
+        "summary": "The work should be complete by then • Only app tickets work – for now."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T09:46:01+01:00"
+      }
+    },
     {
       "id": "8dc734023c77",
       "schema_version": 1,
@@ -5439,32 +5471,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T21:01:17+01:00"
-      }
-    },
-    {
-      "id": "9ec3254698b2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=76b5aede-2907-4db8-bcfd-fd1415129adf",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=76b5aede-2907-4db8-bcfd-fd1415129adf",
-      "published_at": "2026-11-19T17:52:53+01:00",
-      "fetched_at": "2026-11-19T18:01:20+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "En död i radhusbrand i Gnosjö",
-        "summary": "Svart rök från bostaden",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "One dead in townhouse fire in Gnosjö",
-        "summary": "Black smoke from the home"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:01:29+01:00"
       }
     }
   ]

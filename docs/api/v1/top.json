@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:40:32+01:00",
+  "generated_at": "2026-11-24T09:46:03+01:00",
   "count": 30,
   "stories": [
     {
@@ -1742,6 +1742,69 @@
       ]
     },
     {
+      "id": "ef6c3c23db09",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "sr"
+      ],
+      "first_published_at": "2026-11-24T09:32:38+01:00",
+      "last_published_at": "2026-11-24T09:44:00+01:00",
+      "lead": {
+        "id": "ef6c3c23db09",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/riksbanken-arbetsbefriar-it-chefen-mats-eklund",
+        "guid": "0845ca29-a7f2-4305-86a6-59c730f65341",
+        "published_at": "2026-11-24T09:32:38+01:00",
+        "fetched_at": "2026-11-24T09:40:21+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/073b4124-1cd7-48e3-83bf-c475a80a5807.jpeg?width=600",
+        "sv": {
+          "title": "Riksbanken arbetsbefriar it-chefen Mats Eklund",
+          "summary": "Riksbanken har beslutat att arbetsbefria it-chefen Mats Eklund. Han ersätts av Erik Lenntorp till tillförordnad chef för avdelningen för it och digitalisering, AID, från och med i dag, enligt ett pressmeddelande.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "The Riksbank relieves IT chief Mats Eklund of his duties",
+          "summary": "The Riksbank has decided to relieve IT chief Mats Eklund of his duties. He is replaced by Erik Lenntorp as acting head of the Department for IT and Digitalisation, AID, effective today, according to a press release."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T09:40:30+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "07477f4fe0c3",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348828",
+          "published_at": "2026-11-24T09:44:00+01:00",
+          "sv": {
+            "title": "Riksbankens it-chef arbetsbefrias efter Ekots granskning"
+          },
+          "en": {
+            "title": "The Riksbank's IT chief relieved of duties after Ekot investigation"
+          }
+        },
+        {
+          "id": "ef6c3c23db09",
+          "source": "di",
+          "url": "https://www.di.se/live/riksbanken-arbetsbefriar-it-chefen-mats-eklund",
+          "published_at": "2026-11-24T09:32:38+01:00",
+          "sv": {
+            "title": "Riksbanken arbetsbefriar it-chefen Mats Eklund"
+          },
+          "en": {
+            "title": "The Riksbank relieves IT chief Mats Eklund of his duties"
+          }
+        }
+      ]
+    },
+    {
       "id": "e5cddff2c9b6",
       "source_count": 2,
       "sources": [
@@ -2376,68 +2439,6 @@
           },
           "en": {
             "title": "Reports: US considers blacklisting Megaspeed"
-          }
-        }
-      ]
-    },
-    {
-      "id": "df033810f719",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "svt"
-      ],
-      "first_published_at": "2026-11-23T22:09:52+01:00",
-      "last_published_at": "2026-11-23T22:56:36+01:00",
-      "lead": {
-        "id": "df033810f719",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
-        "guid": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering/",
-        "published_at": "2026-11-23T22:09:52+01:00",
-        "fetched_at": "2026-11-23T22:15:49+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering",
-          "summary": "Det blir ingen rödgrön regering, tror Maud Olofsson. – Jag tror att de har kommit till vägs ände. De har ju suttit hur länge som helst och diskuterat. Man har inte kommit närmare varandra, säger den tidigare C-ledaren i SVT:s ”Aktuellt”.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government",
-          "summary": "There will be no red-green government, believes Maud Olofsson. \"I think they have reached the end of the road. They have sat for ever and discussed. They have not come closer to each other,\" says the former Centre Party leader on SVT's \"Aktuellt\"."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T22:15:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "461cefe495cc",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/tidigare-c-ledaren-syna-kristersson",
-          "published_at": "2026-11-23T22:56:36+01:00",
-          "sv": {
-            "title": "Tidigare C-ledaren: ”Syna Kristersson”"
-          },
-          "en": {
-            "title": "Former C leader: \"See through Kristersson\""
-          }
-        },
-        {
-          "id": "df033810f719",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
-          "published_at": "2026-11-23T22:09:52+01:00",
-          "sv": {
-            "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering"
-          },
-          "en": {
-            "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government"
           }
         }
       ]

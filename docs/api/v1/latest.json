@@ -1,7 +1,65 @@
 {
-  "generated_at": "2026-11-24T09:40:32+01:00",
+  "generated_at": "2026-11-24T09:46:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "07477f4fe0c3",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348828",
+      "guid": "rss:sr.se/article/9348828",
+      "published_at": "2026-11-24T09:44:00+01:00",
+      "fetched_at": "2026-11-24T09:45:50+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Riksbankens it-chef arbetsbefrias efter Ekots granskning",
+        "summary": "Riksbankens it-chef Mats Eklund har arbetsbefriats tills vidare, dock som längst till årsskiftet, skriver myndigheten i ett pressmeddelande. Orsaken är att det inletts en internutredning efter Ekots rapportering om hans resor till Jaåan och Kanada.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The Riksbank's IT chief relieved of duties after Ekot investigation",
+        "summary": "The Riksbank's IT chief Mats Eklund has been relieved of duties until further notice, but for no longer than until the turn of the year, the authority says in a press release. The reason is that an internal investigation has been launched following Ekot's reporting on his trips to Jaåan and Kanada."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T09:46:01+01:00"
+      }
+    },
+    {
+      "id": "405805ddd7f7",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/vastsverige/vasttrafik-byter-ut-alla-biljettlasare-klart-2028.5a3a5cb1-4f0d-5991-999d-2afb16943a50",
+      "guid": "5a3a5cb1-4f0d-5991-999d-2afb16943a50",
+      "published_at": "2026-11-24T09:36:53+01:00",
+      "fetched_at": "2026-11-24T09:45:55+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Västsverige",
+        "Tagg: breaking-GP",
+        "Tagg: Västtrafik"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/8b3fa80b-5821-33da-865f-d099cdb96e00",
+      "sv": {
+        "title": "Västtrafik byter ut alla biljettläsare",
+        "summary": "Då ska abetet vara klart • Bara appbiljetter fungerar – till en början.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Västtrafik replaces all ticket readers",
+        "summary": "The work should be complete by then • Only app tickets work – for now."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T09:46:01+01:00"
+      }
+    },
     {
       "id": "3631eb517c07",
       "schema_version": 1,
@@ -5330,58 +5388,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T00:45:56+01:00"
-      }
-    },
-    {
-      "id": "f715b4702273",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/j3deg0/sydkorea-krankning-av-luftrum",
-      "guid": "https://www.svd.se/a/j3deg0/sydkorea-krankning-av-luftrum?utm_medium=rss",
-      "published_at": "2026-11-24T00:36:21+01:00",
-      "fetched_at": "2026-11-24T00:45:47+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Sydkorea: Kränkning av luftrum",
-        "summary": "Sydkorea uppger att ett misstänkt nordkoreanskt flygplan har tagit sig in i det sydkoreanska…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "South Korea: Airspace violation",
-        "summary": "South Korea says a suspected North Korean aircraft has entered South Korean…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T00:45:56+01:00"
-      }
-    },
-    {
-      "id": "c5a098561885",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/24-ariga-turistens-mystiska-dod-pa-semestern-i-istanbul",
-      "guid": "https://www.expressen.se/nyheter/varlden/24-ariga-turistens-mystiska-dod-pa-semestern-i-istanbul/",
-      "published_at": "2026-11-24T00:16:00+01:00",
-      "fetched_at": "2026-11-24T00:28:46+01:00",
-      "category": "world",
-      "sv": {
-        "title": "24-åriga turistens mystiska död på semestern i Istanbul",
-        "summary": "24-åriga Bérengère Deveaux-Cattino dog på semestern. Men dödsorsaken som angivits stämmer inte överens med bevisen, enligt familjen. – Jag tänkte: ”Det här är inte normalt, något är fel”, säger systern Éléonore Deveaux-Cattino till kanadensiska CBC.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mysterious death of 24-year-old tourist on holiday in Istanbul",
-        "summary": "24-year-old Bérengère Deveaux-Cattino died while on holiday. But the stated cause of death does not match the evidence, according to the family. – I thought: “This is not normal, something is wrong”, says her sister Éléonore Deveaux-Cattino to the Canadian broadcaster CBC."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T00:28:53+01:00"
       }
     }
   ]

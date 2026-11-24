@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-24T09:40:32+01:00",
+  "generated_at": "2026-11-24T09:46:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "405805ddd7f7",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/vastsverige/vasttrafik-byter-ut-alla-biljettlasare-klart-2028.5a3a5cb1-4f0d-5991-999d-2afb16943a50",
+      "guid": "5a3a5cb1-4f0d-5991-999d-2afb16943a50",
+      "published_at": "2026-11-24T09:36:53+01:00",
+      "fetched_at": "2026-11-24T09:45:55+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Västsverige",
+        "Tagg: breaking-GP",
+        "Tagg: Västtrafik"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/8b3fa80b-5821-33da-865f-d099cdb96e00",
+      "sv": {
+        "title": "Västtrafik byter ut alla biljettläsare",
+        "summary": "Då ska abetet vara klart • Bara appbiljetter fungerar – till en början.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Västtrafik replaces all ticket readers",
+        "summary": "The work should be complete by then • Only app tickets work – for now."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T09:46:01+01:00"
+      }
+    },
     {
       "id": "b3d659b3db2c",
       "schema_version": 1,
@@ -6872,43 +6904,6 @@
       "en": {
         "title": "Notorious hacker group threatens gigantic AI company Nvidia",
         "summary": "IT security specialist: \"One of the most aggressive groups\" • Could have major consequences."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T14:31:07+01:00"
-      }
-    },
-    {
-      "id": "e034ca124107",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/solen-pa-vag-tillbaka-till-goteborg.a87128f8-e20b-59fb-b324-4fbb3e81dbbf",
-      "guid": "a87128f8-e20b-59fb-b324-4fbb3e81dbbf",
-      "published_at": "2026-11-19T14:06:34+01:00",
-      "fetched_at": "2026-11-19T14:31:00+01:00",
-      "category": "weather",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: Väder",
-        "Tagg: Halka",
-        "Tagg: breaking-GP",
-        "Tagg: Västkusten",
-        "Tagg: SMHI",
-        "Tagg: Meteorologi",
-        "Tagg: Nederbörd"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/41fcbf90-d063-39b2-8261-4f00faaee6cd",
-      "sv": {
-        "title": "Snart kommer solen tillbaka",
-        "summary": "SMHI: Stabilt men kallare väder i Göteborg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The sun will soon return",
-        "summary": "SMHI: Stable but colder weather in Göteborg."
       },
       "translation": {
         "status": "done",

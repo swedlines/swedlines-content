@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T09:40:32+01:00",
+  "generated_at": "2026-11-24T09:46:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "07477f4fe0c3",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348828",
+      "guid": "rss:sr.se/article/9348828",
+      "published_at": "2026-11-24T09:44:00+01:00",
+      "fetched_at": "2026-11-24T09:45:50+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Riksbankens it-chef arbetsbefrias efter Ekots granskning",
+        "summary": "Riksbankens it-chef Mats Eklund har arbetsbefriats tills vidare, dock som längst till årsskiftet, skriver myndigheten i ett pressmeddelande. Orsaken är att det inletts en internutredning efter Ekots rapportering om hans resor till Jaåan och Kanada.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The Riksbank's IT chief relieved of duties after Ekot investigation",
+        "summary": "The Riksbank's IT chief Mats Eklund has been relieved of duties until further notice, but for no longer than until the turn of the year, the authority says in a press release. The reason is that an internal investigation has been launched following Ekot's reporting on his trips to Jaåan and Kanada."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T09:46:01+01:00"
+      }
+    },
     {
       "id": "a6fd03ceb68d",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T18:45:55+01:00"
-      }
-    },
-    {
-      "id": "693b1bfaabb2",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345282",
-      "guid": "rss:sr.se/article/9345282",
-      "published_at": "2026-11-18T17:45:00+01:00",
-      "fetched_at": "2026-11-18T17:45:47+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Över 5 000 döda i ebola – brist på mat i Kongo-Kinshasa",
-        "summary": "Antalet döda i det pågående ebolautbrottet i Kongo Kinshasa har nu passerat 5 000. Samtidigt har myndigheternas restriktioner för att förhindra spridningen av viruset fått allvarliga konsekvenser för den lokala matförsörjningen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Over 5,000 dead in Ebola – food shortages in Kongo-Kinshasa",
-        "summary": "The death toll from the ongoing Ebola outbreak in Kongo Kinshasa has now passed 5,000. Meanwhile, authorities' restrictions to prevent the spread of the virus have had serious consequences for local food supplies."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:45:57+01:00"
       }
     }
   ]
