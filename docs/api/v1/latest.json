@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-24T19:15:49+01:00",
+  "generated_at": "2026-11-24T19:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0f0838d3018d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/experter-det-sista-wall-street-ville-hora",
+      "guid": "90528207-d8a6-4f4c-b57f-28a6881afc59",
+      "published_at": "2026-11-24T19:17:06+01:00",
+      "fetched_at": "2026-11-24T19:31:01+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c107544c-ee87-45cd-97ff-adfdeba9ae68.jpeg?width=600",
+      "sv": {
+        "title": "Experter: ”Det sista Wall Street ville höra”",
+        "summary": "Mitt i rådande AI-frossa, som bland annat drivits på av hökaktiga toner från Federal Reserve, får marknaden en nygammal faktor att tänka på – USA-tullar. ”Det är ju väldigt dålig tajming att gå ut med ett sånt här tullutspel just nu”, säger SEB:s Robert Bergqvist.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Experts: \"The last thing Wall Street wanted to hear\"",
+        "summary": "Amid the ongoing AI frenzy, which has been fuelled in part by hawkish signals from the Federal Reserve, the market is getting an old factor to consider: US tariffs. \"It is very poor timing to launch a tariff announcement like this right now,\" says Robert Bergqvist of SEB."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T19:31:05+01:00"
+      }
+    },
+    {
+      "id": "ab4ac86c9598",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/tomas-ramberg-akesson-kan-bli-riksdagens-kung",
+      "guid": "https://www.dn.se/sverige/tomas-ramberg-akesson-kan-bli-riksdagens-kung/",
+      "published_at": "2026-11-24T19:15:29+01:00",
+      "fetched_at": "2026-11-24T19:30:59+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/bbd1ddc7-b241-4b58-922d-cdece1ea3cac.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Tomas Ramberg: Åkesson kan bli riksdagens kung",
+        "summary": "På valnatten framstod Sverigedemokraterna som valets stora förlorare. Nu har Jimmie Åkesson chansen att vända nederlaget till framgång. Om Centern släpper fram en Kristersson-regering blir Åkesson riksdagens kung.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tomas Ramberg: Åkesson could become king of the Riksdag",
+        "summary": "On election night the Sweden Democrats appeared to be the big losers of the election. Now Jimmie Åkesson has the chance to turn defeat into success. If the Centre Party lets a Kristersson government through, Åkesson will become king of the Riksdag."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T19:31:05+01:00"
+      }
+    },
     {
       "id": "5dbb1d29e656",
       "schema_version": 1,
@@ -5305,59 +5359,6 @@
       "en": {
         "title": "Two political scientists: Kristersson-led government looks likely",
         "summary": "A government led by Ulf Kristersson appears more likely after the Left Party's rejection of the red-greens' starter package, according to two political scientists whom Ekot has spoken to. The political scientists consider a snap election unlikely."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T13:31:19+01:00"
-      }
-    },
-    {
-      "id": "59244a867a1f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/borsmorgon-24-november-2026",
-      "guid": "5f034880-1e16-51c9-a2db-1c72482282ea",
-      "published_at": "2026-11-24T13:24:54+01:00",
-      "fetched_at": "2026-11-24T13:45:47+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Börsmorgon 24 november 2026",
-        "summary": "Under ledning av Pontus Herin och Fredrik Lennander",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Market morning 24 November 2026",
-        "summary": "Hosted by Pontus Herin and Fredrik Lennander."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T13:45:53+01:00"
-      }
-    },
-    {
-      "id": "dfac783a3ada",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/GPGA19/sprangning-av-fem-tons-explosivt-material-stoppas-i-usa",
-      "guid": "https://www.aftonbladet.se/nyheter/a/GPGA19/sprangning-av-fem-tons-explosivt-material-stoppas-i-usa?utm_medium=rss",
-      "published_at": "2026-11-24T13:23:57+01:00",
-      "fetched_at": "2026-11-24T13:31:03+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/0e0adb59-99ab-36f7-bf76-13173c7970df?format=auto&s=985923471a9a27ef2c08b2bd6cbea5367506f423&w=1000",
-      "sv": {
-        "title": "Sprängning av fem tons explosivt material stoppas",
-        "summary": "Arméns planer stoppas ✓ ”Oroade”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Blasting of five tons of explosive material stopped",
-        "summary": "The army's plans are stopped ✓ \"Worried\""
       },
       "translation": {
         "status": "done",

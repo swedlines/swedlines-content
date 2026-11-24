@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T19:15:49+01:00",
+  "generated_at": "2026-11-24T19:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0f0838d3018d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/experter-det-sista-wall-street-ville-hora",
+      "guid": "90528207-d8a6-4f4c-b57f-28a6881afc59",
+      "published_at": "2026-11-24T19:17:06+01:00",
+      "fetched_at": "2026-11-24T19:31:01+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c107544c-ee87-45cd-97ff-adfdeba9ae68.jpeg?width=600",
+      "sv": {
+        "title": "Experter: ”Det sista Wall Street ville höra”",
+        "summary": "Mitt i rådande AI-frossa, som bland annat drivits på av hökaktiga toner från Federal Reserve, får marknaden en nygammal faktor att tänka på – USA-tullar. ”Det är ju väldigt dålig tajming att gå ut med ett sånt här tullutspel just nu”, säger SEB:s Robert Bergqvist.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Experts: \"The last thing Wall Street wanted to hear\"",
+        "summary": "Amid the ongoing AI frenzy, which has been fuelled in part by hawkish signals from the Federal Reserve, the market is getting an old factor to consider: US tariffs. \"It is very poor timing to launch a tariff announcement like this right now,\" says Robert Bergqvist of SEB."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T19:31:05+01:00"
+      }
+    },
     {
       "id": "e5df733cfeba",
       "schema_version": 1,
@@ -5217,42 +5244,6 @@
       "en": {
         "title": "Ripples from the US hit Asian markets",
         "summary": "The leading indexes in Asia are following the steep gains on Wall Street and rising sharply in early Tuesday trading."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T06:16:05+01:00"
-      }
-    },
-    {
-      "id": "39c934459ca4",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/vastsverige/har-tjanar-sjukskoterskor-bast-och-samst.019709ae-ca1b-5089-a063-3c5b1e4e3089",
-      "guid": "019709ae-ca1b-5089-a063-3c5b1e4e3089",
-      "published_at": "2026-11-24T05:52:07+01:00",
-      "fetched_at": "2026-11-24T06:15:48+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Västsverige",
-        "Tagg: Vårdcentraler",
-        "Tagg: sjuksköterskor",
-        "Tagg: Lön",
-        "Tagg: Närhälsan",
-        "Tagg: Vårdförbundet",
-        "Tagg: Samhällsredaktionen"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/b77f4671-edd5-3702-91f5-137d1245e00a",
-      "sv": {
-        "title": "Här tjänar sjuksköterskor bäst – och sämst",
-        "summary": "Lista över vårdcentraler • De är anställda av Närhälsan – men lönen skiljer sig med tusentals kronor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here's where nurses earn the most – and least",
-        "summary": "List of health centres • They are employed by Närhälsan – but pay differs by thousands of SEK."
       },
       "translation": {
         "status": "done",

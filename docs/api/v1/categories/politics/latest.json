@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T19:15:49+01:00",
+  "generated_at": "2026-11-24T19:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ab4ac86c9598",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/tomas-ramberg-akesson-kan-bli-riksdagens-kung",
+      "guid": "https://www.dn.se/sverige/tomas-ramberg-akesson-kan-bli-riksdagens-kung/",
+      "published_at": "2026-11-24T19:15:29+01:00",
+      "fetched_at": "2026-11-24T19:30:59+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/bbd1ddc7-b241-4b58-922d-cdece1ea3cac.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Tomas Ramberg: Åkesson kan bli riksdagens kung",
+        "summary": "På valnatten framstod Sverigedemokraterna som valets stora förlorare. Nu har Jimmie Åkesson chansen att vända nederlaget till framgång. Om Centern släpper fram en Kristersson-regering blir Åkesson riksdagens kung.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tomas Ramberg: Åkesson could become king of the Riksdag",
+        "summary": "On election night the Sweden Democrats appeared to be the big losers of the election. Now Jimmie Åkesson has the chance to turn defeat into success. If the Centre Party lets a Kristersson government through, Åkesson will become king of the Riksdag."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T19:31:05+01:00"
+      }
+    },
     {
       "id": "5dbb1d29e656",
       "schema_version": 1,
@@ -5335,33 +5362,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T06:56:30+01:00"
-      }
-    },
-    {
-      "id": "64d566c1ffff",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ledare/ida-gabrielsson-ar-enormt-omdomeslos-det-ska-inte-c-vara",
-      "guid": "https://www.dn.se/ledare/ida-gabrielsson-ar-enormt-omdomeslos-det-ska-inte-c-vara/",
-      "published_at": "2026-11-23T05:35:45+01:00",
-      "fetched_at": "2026-11-23T06:56:00+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/8686ac6b-3529-4d8b-a40a-df90e56f84ec.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Ledare: Ida Gabrielsson är enormt omdömeslös – det ska inte C vara",
-        "summary": "Om M-ledaren hade haft ett seriöst alternativ för Centerpartiet hade det här varit läget att gå vidare med det. Saken är bara den att han inte har det.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Editorial: Ida Gabrielsson is enormously lacking in judgement – the Centre Party shouldn't be like that",
-        "summary": "If the Moderate leader had a serious alternative for the Centre Party, this would be the situation to move forward with it. The thing is, he doesn't have one."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:44+01:00"
       }
     }
   ]
