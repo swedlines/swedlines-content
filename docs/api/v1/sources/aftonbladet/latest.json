@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T18:31:10+01:00",
+  "generated_at": "2026-11-24T18:45:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "63d26c95a770",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/4Eqpqg/112-larm-fran-sigtuna-kan-handa-i-natt-igen",
+      "guid": "https://www.aftonbladet.se/nyheter/a/4Eqpqg/112-larm-fran-sigtuna-kan-handa-i-natt-igen?utm_medium=rss",
+      "published_at": "2026-11-24T18:41:03+01:00",
+      "fetched_at": "2026-11-24T18:45:06+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/1b117501-f08e-3fbb-9e3a-88896d195a52?format=auto&s=6547c79924e6bdd092f9a00e4e833d47cf00027c&w=1000",
+      "sv": {
+        "title": "112-larm från Sigtuna: ”Kan hända i natt igen”",
+        "summary": "Alla varningsklockor ringde på Sigtunaskolan när en elev berättade för kuratorn om timmar av…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "112 call from Sigtuna: \"It could happen again tonight\"",
+        "summary": "All alarm bells rang at Sigtunaskolan when a pupil told the counsellor about hours of..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T18:45:12+01:00"
+      }
+    },
     {
       "id": "cd2931ddf51d",
       "schema_version": 1,
@@ -5338,33 +5365,6 @@
       "en": {
         "title": "Reports: Police hit by taxi giant's data breach",
         "summary": "Several authorities affected in the taxi leak"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T19:01:17+01:00"
-      }
-    },
-    {
-      "id": "ce0f0e435298",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/0vn740/fortsatt-protester-i-frankrike-avtar-i-styrka",
-      "guid": "https://www.aftonbladet.se/nyheter/a/0vn740/fortsatt-protester-i-frankrike-avtar-i-styrka?utm_medium=rss",
-      "published_at": "2026-11-21T18:50:18+01:00",
-      "fetched_at": "2026-11-21T19:01:07+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/23b3ab66-2279-38e8-b5fb-c5f8619e4b58?format=auto&s=aa4e3519ef85199fb8945778bbfac9b71590c0ae&w=1000",
-      "sv": {
-        "title": "Fortsatt protester i Frankrike – avtar i styrka",
-        "summary": "Fransmännen har gett sig ut på gatorna för sjätte veckan i rad, men det är med minskad styrka som de…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Protests continue in France – losing strength",
-        "summary": "The French have taken to the streets for the sixth week in a row, but they are protesting with diminished strength…"
       },
       "translation": {
         "status": "done",

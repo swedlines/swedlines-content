@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-24T18:31:10+01:00",
+  "generated_at": "2026-11-24T18:45:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f00bb892cb95",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/varldens-gang/hojden-av-tristess-ar-att-skroll-ata.7bd981ad-eee9-599d-966d-52506ba50236",
+      "guid": "7bd981ad-eee9-599d-966d-52506ba50236",
+      "published_at": "2026-11-24T18:24:20+01:00",
+      "fetched_at": "2026-11-24T18:45:08+01:00",
+      "category": "other",
+      "feed_categories": [
+        "Världens gång",
+        "Tagg: Världens gång",
+        "Tagg: Kåseri"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/1dee8834-c717-35f5-b012-247e7cbc158f",
+      "sv": {
+        "title": "Höjden av tristess är att skroll-äta",
+        "summary": "(Men det ska stavas just så.)",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The height of boredom is doomscrolling-eating",
+        "summary": "(But it is spelled exactly like that.)"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T18:45:12+01:00"
+      }
+    },
     {
       "id": "9e1bb708b732",
       "schema_version": 1,
@@ -5507,33 +5539,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:42+01:00"
-      }
-    },
-    {
-      "id": "e6a7e05d70d3",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-13-november-4",
-      "guid": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-13-november-4/",
-      "published_at": "2026-11-13T19:30:43+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/3b7fa528-ffdf-4150-96a1-6dad9b340049.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Noterat av DN:s läsare den 13 november",
-        "summary": "INSÄNDARE. Dagens Nyheters läsare ger sin syn på läget i Sverige och världen samt DN:s innehåll fredagen den 13 november.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letters. Noted by DN's readers on 13 November",
-        "summary": "LETTERS. Dagens Nyheter's readers give their view of the situation in Sweden and the world as well as DN's content on Friday 13 November."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
       }
     }
   ]

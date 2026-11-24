@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:31:10+01:00",
+  "generated_at": "2026-11-24T18:45:14+01:00",
   "count": 30,
   "stories": [
     {
@@ -1521,6 +1521,82 @@
       ]
     },
     {
+      "id": "63d26c95a770",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-24T18:41:03+01:00",
+      "last_published_at": "2026-11-24T18:41:10+01:00",
+      "lead": {
+        "id": "63d26c95a770",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/4Eqpqg/112-larm-fran-sigtuna-kan-handa-i-natt-igen",
+        "guid": "https://www.aftonbladet.se/nyheter/a/4Eqpqg/112-larm-fran-sigtuna-kan-handa-i-natt-igen?utm_medium=rss",
+        "published_at": "2026-11-24T18:41:03+01:00",
+        "fetched_at": "2026-11-24T18:45:06+01:00",
+        "category": "crime",
+        "image_url": "https://akamai.vgc.no/v2/images/1b117501-f08e-3fbb-9e3a-88896d195a52?format=auto&s=6547c79924e6bdd092f9a00e4e833d47cf00027c&w=1000",
+        "sv": {
+          "title": "112-larm från Sigtuna: ”Kan hända i natt igen”",
+          "summary": "Alla varningsklockor ringde på Sigtunaskolan när en elev berättade för kuratorn om timmar av…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "112 call from Sigtuna: \"It could happen again tonight\"",
+          "summary": "All alarm bells rang at Sigtunaskolan when a pupil told the counsellor about hours of..."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T18:45:12+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "3974607b3919",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/112-larm-fran-sigtuna-kan-handa-i-natt-igen",
+          "published_at": "2026-11-24T18:41:10+01:00",
+          "sv": {
+            "title": "112-larm från Sigtuna: ”Kan hända i natt igen”"
+          },
+          "en": {
+            "title": "112 call from Sigtuna: \"It could happen again tonight\""
+          }
+        },
+        {
+          "id": "473391751c12",
+          "source": "svd",
+          "url": "https://www.svd.se/a/GPGWGm/112-larm-fran-sigtuna-kan-handa-i-natt-igen",
+          "published_at": "2026-11-24T18:41:04+01:00",
+          "sv": {
+            "title": "112-larm från Sigtuna: ”Kan hända i natt igen”"
+          },
+          "en": {
+            "title": "112 call from Sigtuna: \"It could happen again tonight\""
+          }
+        },
+        {
+          "id": "63d26c95a770",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/4Eqpqg/112-larm-fran-sigtuna-kan-handa-i-natt-igen",
+          "published_at": "2026-11-24T18:41:03+01:00",
+          "sv": {
+            "title": "112-larm från Sigtuna: ”Kan hända i natt igen”"
+          },
+          "en": {
+            "title": "112 call from Sigtuna: \"It could happen again tonight\""
+          }
+        }
+      ]
+    },
+    {
       "id": "7d383cb0a902",
       "source_count": 3,
       "sources": [
@@ -2830,93 +2906,6 @@
           },
           "en": {
             "title": "Five years in prison for 18-year-old who threw hand grenade with dishwashing gloves"
-          }
-        }
-      ]
-    },
-    {
-      "id": "465f820d762b",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T10:07:25+01:00",
-      "last_published_at": "2026-11-24T14:54:00+01:00",
-      "lead": {
-        "id": "465f820d762b",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/ARd1Q5/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig",
-        "guid": "https://www.aftonbladet.se/nyheter/a/ARd1Q5/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig?utm_medium=rss",
-        "published_at": "2026-11-24T10:07:25+01:00",
-        "fetched_at": "2026-11-24T10:15:46+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/2216072f-d74c-350f-baae-12b681590d78?format=auto&s=2a97a56b1cb9d597671d2678a9c65f788cdd2145&w=1000",
-        "sv": {
-          "title": "Rapport: Fem kvinnor i timmen dödas av en anhörig",
-          "summary": "2025 dödades 47 000 kvinnor av sin partner eller en nära anhörig, enligt FN-siffror.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Report: Five women an hour killed by a relative",
-          "summary": "In 2025, 47,000 women were killed by their partner or a close relative, according to UN figures."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T10:16:00+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "ce46b8255177",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/ez8p0M/600-kvinnor-i-sydafrika-mordade-pa-tre-manader",
-          "published_at": "2026-11-24T14:54:00+01:00",
-          "sv": {
-            "title": "600 kvinnor i Sydafrika mördade på tre månader"
-          },
-          "en": {
-            "title": "600 women murdered in South Africa in three months"
-          }
-        },
-        {
-          "id": "8c9e90e20231",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/BrRBe0/nastan-600-kvinnor-mordade-pa-tre-manader",
-          "published_at": "2026-11-24T14:35:16+01:00",
-          "sv": {
-            "title": "Nästan 600 kvinnor mördade på tre månader"
-          },
-          "en": {
-            "title": "Almost 600 women murdered in three months"
-          }
-        },
-        {
-          "id": "04b45845f7e5",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig",
-          "published_at": "2026-11-24T11:37:57+01:00",
-          "sv": {
-            "title": "Rapport: Fem kvinnor i timmen dödas av en anhörig"
-          },
-          "en": {
-            "title": "Report: Five women an hour killed by a relative"
-          }
-        },
-        {
-          "id": "465f820d762b",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/ARd1Q5/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig",
-          "published_at": "2026-11-24T10:07:25+01:00",
-          "sv": {
-            "title": "Rapport: Fem kvinnor i timmen dödas av en anhörig"
-          },
-          "en": {
-            "title": "Report: Five women an hour killed by a relative"
           }
         }
       ]

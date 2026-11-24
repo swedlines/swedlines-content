@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-24T18:31:10+01:00",
+  "generated_at": "2026-11-24T18:45:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f00bb892cb95",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/varldens-gang/hojden-av-tristess-ar-att-skroll-ata.7bd981ad-eee9-599d-966d-52506ba50236",
+      "guid": "7bd981ad-eee9-599d-966d-52506ba50236",
+      "published_at": "2026-11-24T18:24:20+01:00",
+      "fetched_at": "2026-11-24T18:45:08+01:00",
+      "category": "other",
+      "feed_categories": [
+        "Världens gång",
+        "Tagg: Världens gång",
+        "Tagg: Kåseri"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/1dee8834-c717-35f5-b012-247e7cbc158f",
+      "sv": {
+        "title": "Höjden av tristess är att skroll-äta",
+        "summary": "(Men det ska stavas just så.)",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The height of boredom is doomscrolling-eating",
+        "summary": "(But it is spelled exactly like that.)"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T18:45:12+01:00"
+      }
+    },
     {
       "id": "ba587e70a2ba",
       "schema_version": 1,
@@ -6867,42 +6899,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T22:31:03+01:00"
-      }
-    },
-    {
-      "id": "e1ee7056ea02",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/kulturkronika/gago-bjod-pa-sasongens-drag-redan-till-frukost.13750d10-b927-5df9-9dd4-b3dee3f42a0c",
-      "guid": "13750d10-b927-5df9-9dd4-b3dee3f42a0c",
-      "published_at": "2026-11-19T21:40:53+01:00",
-      "fetched_at": "2026-11-19T22:01:12+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Kulturkrönika",
-        "Tagg: Förrädarna (tv-program)",
-        "Tagg: TV4",
-        "Tagg: Lasse Kronér",
-        "Tagg: Kulturkrönika",
-        "Tagg: Roy Fares",
-        "Tagg: Jessica Almenäs"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/05a809e7-1cd3-34ae-82aa-fcdf4e765187",
-      "sv": {
-        "title": "Gago bjöd på säsongens drag – redan till frukost",
-        "summary": "Efter Mos sköna utträde känns ”Förrädarna” mer ovisst än någonsin.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Gago delivered the season's best move – already at breakfast",
-        "summary": "After Mo's delightful exit, \"Förrädarna\" feels more uncertain than ever."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T22:01:17+01:00"
       }
     }
   ]

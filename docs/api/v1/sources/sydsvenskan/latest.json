@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T18:31:10+01:00",
+  "generated_at": "2026-11-24T18:45:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3974607b3919",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/112-larm-fran-sigtuna-kan-handa-i-natt-igen",
+      "guid": "f89ef076-84bc-41dd-b830-dc4c76b8a33c",
+      "published_at": "2026-11-24T18:41:10+01:00",
+      "fetched_at": "2026-11-24T18:45:09+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/fbae315b-4486-4ea9-b396-e8661cf8b216.jpg?width=600",
+      "sv": {
+        "title": "112-larm från Sigtuna: ”Kan hända i natt igen”",
+        "summary": "Alla varningsklockor ringde på Sigtunaskolan när en elev berättade för kuratorn om timmar av förnedrande och våldsam behandling. ”Säkerhetschefen är rädd för att det kan hända i natt igen”, noterar polisen efter 112-samtalet från skolan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "112 call from Sigtuna: \"It could happen again tonight\"",
+        "summary": "All alarm bells rang at Sigtunaskolan when a pupil told the counsellor about hours of degrading and violent treatment. \"The security chief is afraid it could happen again tonight,\" the police note after the 112 call from the school."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T18:45:12+01:00"
+      }
+    },
     {
       "id": "4970b2dcfed3",
       "schema_version": 1,
@@ -5184,33 +5211,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T21:15:52+01:00"
-      }
-    },
-    {
-      "id": "ba486b7dc798",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/expert-dataintrang-kommer-att-bli-vanligare",
-      "guid": "b2af7b61-53bb-4977-87fd-994eb06f9e35",
-      "published_at": "2026-11-21T20:06:40+01:00",
-      "fetched_at": "2026-11-21T20:15:46+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/bfc89042-9257-463a-90a0-7f95027d9498.jpg?width=600",
-      "sv": {
-        "title": "Expert: Dataintrång kommer att bli vanligare",
-        "summary": "I takt med att AI-tjänsterna blir bättre kommer antalet dataintrång att öka, säger cybersäkerhetsexperten Marcus Murray. – Effekten av utvecklingen inom AI har lett till att sårbarhet exponeras som aldrig förr. Därför hinner inte företagen med, säger han till TT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Expert: Data breaches will become more common",
-        "summary": "As AI services get better, the number of data breaches will increase, says cybersecurity expert Marcus Murray. – The effect of developments in AI has led to vulnerabilities being exposed as never before. That is why companies cannot keep up, he tells TT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T20:15:50+01:00"
       }
     }
   ]
