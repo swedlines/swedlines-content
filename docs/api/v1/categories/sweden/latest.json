@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T17:52:06+01:00",
+  "generated_at": "2026-11-24T18:01:33+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bd84c3d91bfb",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=e537de22-7bb2-49f7-bb8e-15aeab85ad93",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e537de22-7bb2-49f7-bb8e-15aeab85ad93",
+      "published_at": "2026-11-24T17:53:32+01:00",
+      "fetched_at": "2026-11-24T18:01:15+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Man död i singelolycka",
+        "summary": "Polisen utreder olyckan utanför Skurup",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man dead in single-vehicle accident",
+        "summary": "Police are investigating the accident outside Skurup"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T18:01:28+01:00"
+      }
+    },
     {
       "id": "641209c61d09",
       "schema_version": 1,
@@ -5414,33 +5440,6 @@
       "en": {
         "title": "Fertility-impairing substance spreads to Swedish water: \"Alarming\"",
         "summary": "The substance can impair fertility and harm unborn children. In Denmark, several pesticides that break down into PFAS have been banned because they spread to groundwater. In Sweden it is taking time. – If you don't have clean water, it has serious consequences, says organic farmer Lars Silwer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T05:45:48+01:00"
-      }
-    },
-    {
-      "id": "bfef6b3a62c0",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/LoAqeR/experter-varnar-for-fagelinfluensa-i-sverige",
-      "guid": "https://www.aftonbladet.se/nyheter/a/LoAqeR/experter-varnar-for-fagelinfluensa-i-sverige?utm_medium=rss",
-      "published_at": "2026-11-20T05:40:00+01:00",
-      "fetched_at": "2026-11-20T05:45:39+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/0e5a5cf1-60eb-33bc-9cd7-31258f90df71?format=auto&s=85efeced2b174948d0162546c0cfaf521d8bf3f8&w=1000",
-      "sv": {
-        "title": "Experter varnar för fågelinfluensa i Sverige",
-        "summary": "Platserna som pekas ut ✓ ”Otroligt smittsam”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Experts warn of bird flu in Sweden",
-        "summary": "The places pointed out ✓ \"Incredibly contagious\""
       },
       "translation": {
         "status": "done",

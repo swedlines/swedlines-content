@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T17:52:06+01:00",
+  "generated_at": "2026-11-24T18:01:33+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bd84c3d91bfb",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=e537de22-7bb2-49f7-bb8e-15aeab85ad93",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e537de22-7bb2-49f7-bb8e-15aeab85ad93",
+      "published_at": "2026-11-24T17:53:32+01:00",
+      "fetched_at": "2026-11-24T18:01:15+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Man död i singelolycka",
+        "summary": "Polisen utreder olyckan utanför Skurup",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man dead in single-vehicle accident",
+        "summary": "Police are investigating the accident outside Skurup"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T18:01:28+01:00"
+      }
+    },
     {
       "id": "a12ad08b939c",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T05:45:50+01:00"
-      }
-    },
-    {
-      "id": "f3a2892bc92d",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/andy-burnhams-plan-ta-in-storbritannien-i-eu-igen",
-      "guid": "https://www.expressen.se/nyheter/varlden/andy-burnhams-plan-ta-in-storbritannien-i-eu-igen/",
-      "published_at": "2026-11-21T05:14:22+01:00",
-      "fetched_at": "2026-11-21T05:31:01+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Andy Burnhams plan: Ta in Storbritannien i EU igen",
-        "summary": "Andy Burnham planerar att ta tillbaka Storbritannien till EU. Det säger en högt uppsatt allierad till den brittiska premiärministern. Uppgifterna kommer samtidigt som landet tecknat ett nytt avtal med unionen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Andy Burnham's plan: Take the UK back into the EU",
-        "summary": "Andy Burnham plans to take the UK back into the EU. A senior ally of the British prime minister says so. The information comes as the country has signed a new agreement with the union."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T05:31:06+01:00"
       }
     }
   ]

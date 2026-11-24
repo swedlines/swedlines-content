@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T17:52:06+01:00",
+  "generated_at": "2026-11-24T18:01:33+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0f258cba44a4",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349374",
+      "guid": "rss:sr.se/article/9349374",
+      "published_at": "2026-11-24T17:53:00+01:00",
+      "fetched_at": "2026-11-24T18:01:13+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Ulf Kristersson (M) ska prövas som statsminister",
+        "summary": "Riksdagen röstar på måndag om Ulf Kristersson som statsminister, det meddelar talman Andreas Norlén. Varken Kristersson eller Magdalena Andersson har presenterat ett färdigt regeringsunderlag utan det är istället Kristerssons avslutade sonderingsuppdrag som ligger bakom talmannens val.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ulf Kristersson (M) to be tested as prime minister",
+        "summary": "The Riksdag votes on Monday on Ulf Kristersson as prime minister, Speaker Andreas Norlén announced. Neither Kristersson nor Magdalena Andersson has presented a finished government platform; instead, it is Kristersson's concluded exploratory mandate that lies behind the Speaker's choice."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T18:01:28+01:00"
+      }
+    },
     {
       "id": "850c8edec387",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T08:45:59+01:00"
-      }
-    },
-    {
-      "id": "dbd79123b3d1",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345862",
-      "guid": "rss:sr.se/article/9345862",
-      "published_at": "2026-11-19T08:01:00+01:00",
-      "fetched_at": "2026-11-19T08:04:26+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Daniel Alling: Trots alla kramar märks det spänningar",
-        "summary": "Xi Jinping, Vladminir Putin och Donald Trump har för första gången som träffas tillsammans i formella trepartsamtal. ”Trots alla kramar märks det att det finns spänningar”, säger Daniel Alling, Sveriges Radios internationella korrespondent.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Daniel Alling: Despite all the hugs, tensions are evident",
-        "summary": "Xi Jinping, Vladimir Putin and Donald Trump have for the first time met together in formal trilateral talks. \"Despite all the hugs, it is evident that there are tensions\", says Daniel Alling, Sveriges Radio's international correspondent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T08:04:35+01:00"
       }
     }
   ]
