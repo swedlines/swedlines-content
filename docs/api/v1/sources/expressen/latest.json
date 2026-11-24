@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T12:15:54+01:00",
+  "generated_at": "2026-11-24T12:31:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "366a612f3680",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/politik/partiledarna-aterrapporterar-efter-talmansrundorna",
+      "guid": "https://www.expressen.se/tv/politik/partiledarna-aterrapporterar-efter-talmansrundorna",
+      "published_at": "2026-11-24T12:26:05+01:00",
+      "fetched_at": "2026-11-24T12:30:56+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "STRAX: Busch har pressträff",
+        "summary": "KD-ledarens ord efter återrapporteringen till talmannen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "STRAX: Busch has press conference",
+        "summary": "KD leader's comments after reporting back to the Speaker"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T12:31:03+01:00"
+      }
+    },
     {
       "id": "6156a31feff4",
       "schema_version": 1,
@@ -5164,32 +5190,6 @@
       "en": {
         "title": "Huge Eurojackpot win for Swede",
         "summary": "Swedish huge win on Eurojackpot"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T21:31:05+01:00"
-      }
-    },
-    {
-      "id": "226411eccd88",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=3544d39b-e298-40b4-9138-75ed03923854",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3544d39b-e298-40b4-9138-75ed03923854",
-      "published_at": "2026-11-20T21:16:37+01:00",
-      "fetched_at": "2026-11-20T21:31:00+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Malmer Stenegard efter uppkallade ryska ambassadören",
-        "summary": "Malmer Stenergard kallar upp ambassadören",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Malmer Stenergard after summoning Russian ambassador",
-        "summary": "Malmer Stenergard summons the ambassador"
       },
       "translation": {
         "status": "done",

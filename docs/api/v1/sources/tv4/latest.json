@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-24T12:15:54+01:00",
+  "generated_at": "2026-11-24T12:31:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d37c8fb384bc",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5qvtYQzTnpeZnsIXfsWMaB/experten-slar-fast-avgangskrav-kan-vaenta-andersson",
+      "guid": "5qvtYQzTnpeZnsIXfsWMaB",
+      "published_at": "2026-11-24T12:22:05+01:00",
+      "fetched_at": "2026-11-24T12:30:57+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Experten slår fast: Avgångskrav kan vänta Andersson",
+        "summary": "Centerpartiet öppnar högerdörren • ”Mer sannolikt än att hon är kvar”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert states: Demands for resignation can wait for Andersson",
+        "summary": "The Centre Party opens the right-hand door • \"More likely than her staying on\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T12:31:03+01:00"
+      }
+    },
     {
       "id": "67e5b780b678",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T17:31:20+01:00"
-      }
-    },
-    {
-      "id": "0e2ddc8109b9",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2o7G6HoKcFWIY097qK7pon/han-blir-nya-james-bond-saekert-kort",
-      "guid": "2o7G6HoKcFWIY097qK7pon",
-      "published_at": "2026-11-16T16:46:54+01:00",
-      "fetched_at": "2026-11-16T16:54:15+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Han blir nya James Bond: ”Säkert kort”",
-        "summary": "Robert Pattinson blir nya James Bond. På måndagseftermiddagen publicerade Instagram-kontot ”007” ett inlägg med texten ”Identity confirmed”. – James Bond är en av de mest legendariska karaktärerna i filmvärlden, och att bli anförtrodd 007 är en ära för livet, säger Robert Pattinson till Variety.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "He is the new James Bond: \"A sure bet\"",
-        "summary": "Robert Pattinson is the new James Bond. On Monday afternoon, the Instagram account \"007\" posted a message with the text \"Identity confirmed\". – James Bond is one of the most legendary characters in film, and being entrusted with 007 is an honour for life, Robert Pattinson tells Variety."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:54:22+01:00"
       }
     }
   ]

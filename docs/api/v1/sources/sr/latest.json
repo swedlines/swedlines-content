@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T12:15:54+01:00",
+  "generated_at": "2026-11-24T12:31:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "23ad474928e9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349012",
+      "guid": "rss:sr.se/article/9349012",
+      "published_at": "2026-11-24T12:25:00+01:00",
+      "fetched_at": "2026-11-24T12:30:54+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Centerledaren: ”Vi måste hålla dörren öppen”",
+        "summary": "En regering med Magdalena Andersson (S) som statsminister är just nu blockerad, säger Elisabeth Thand Ringqvist (C). Hon säger även att Centerpartiet kommer att återuppta samtal med Moderaterna, Kristdemokraterna och Liberalerna men att man ännu inte fattat beslut i regeringsfrågan.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Centre leader: \"We must keep the door open\"",
+        "summary": "A government with Magdalena Andersson (S) as prime minister is currently blocked, says Elisabeth Thand Ringqvist (C). She also says the Centre Party will resume talks with the Moderates, the Christian Democrats and the Liberals, but that it has not yet made a decision on the government question."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T12:31:03+01:00"
+      }
+    },
     {
       "id": "034aa8721e64",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T05:31:11+01:00"
-      }
-    },
-    {
-      "id": "6be97ec497bc",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345810",
-      "guid": "rss:sr.se/article/9345810",
-      "published_at": "2026-11-19T02:13:00+01:00",
-      "fetched_at": "2026-11-19T02:15:41+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Krimbron attackerad igen",
-        "summary": "Den viktiga bron till Krimhalvön har återigen attackerats, enligt ryska källor. För två dagar sedan attackerade Ukraina Krimbron, vilket då orsakade stora skador på bron. På Telegram skriver Krims ryske guvernör att trafiken är stoppad medan man undersöker vilka skador nattens attack har orsakat.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Crimea Bridge attacked again",
-        "summary": "The important bridge to the Crimean Peninsula has again been attacked, according to Russian sources. Two days ago Ukraine attacked the Crimea Bridge, which then caused major damage to the bridge. On Telegram, Crimea's Russian governor writes that traffic has been halted while the damage caused by last night's attack is being assessed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T02:15:48+01:00"
       }
     }
   ]
