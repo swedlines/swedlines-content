@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T11:31:24+01:00",
+  "generated_at": "2026-11-24T11:46:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4c49c24f3300",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348953",
+      "guid": "rss:sr.se/article/9348953",
+      "published_at": "2026-11-24T11:41:00+01:00",
+      "fetched_at": "2026-11-24T11:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Zelenskyj: De första Gripen-planen anländer i januari",
+        "summary": "Minst två personer har dödats och ett 40-tal har skadats i en rysk attack mot Zaporizjzja, där ett flervåningshus träffats. Senaste dagarna har det kommit flera rapporter om ukrainska bostadshus som träffas i Ryska attacker.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Zelensky: The first Gripen jets arrive in January",
+        "summary": "At least two people have been killed and some 40 injured in a Russian attack on Zaporizhzhia, where an apartment block was hit. In recent days there have been several reports of Ukrainian residential buildings being hit in Russian attacks."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:46:03+01:00"
+      }
+    },
     {
       "id": "3210a8016145",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T01:01:15+01:00"
-      }
-    },
-    {
-      "id": "0228ea4724ef",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345805",
-      "guid": "rss:sr.se/article/9345805",
-      "published_at": "2026-11-18T23:47:00+01:00",
-      "fetched_at": "2026-11-19T00:01:11+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ryssland kan ha kapacitet för 20 miljoner drönarattacker nästa år",
-        "summary": "Ukraina uppskattar att Ryssland nästa år kan genomföra omkring 50 000 drönarattacker om dagen – cirka 20 miljoner på ett år. Militärstrategiexperten Joakim Paasikivi bedömer uppskattningen som rimlig eftersom Ryssland har industriella och tekniska förutsättningar att öka produktionen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Russia may have capacity for 20 million drone attacks next year",
-        "summary": "Ukraine estimates that Russia could carry out around 50,000 drone attacks a day next year – about 20 million in one year. Military strategy expert Joakim Paasikivi considers the estimate reasonable because Russia has the industrial and technical capacity to increase production."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T00:01:18+01:00"
       }
     }
   ]

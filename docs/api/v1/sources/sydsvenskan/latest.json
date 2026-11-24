@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-24T11:31:24+01:00",
+  "generated_at": "2026-11-24T11:46:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "04b45845f7e5",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig",
+      "guid": "5de53b5f-1c2d-44e3-b6ee-28d996339420",
+      "published_at": "2026-11-24T11:37:57+01:00",
+      "fetched_at": "2026-11-24T11:45:48+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/3f57c013-769b-48d3-9f16-a77f4ebf933c.jpg?width=600",
+      "sv": {
+        "title": "Rapport: Fem kvinnor i timmen dödas av en anhörig",
+        "summary": "2025 dödades 47 000 kvinnor av sin partner eller en nära anhörig, enligt FN-siffror.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Report: Five women an hour killed by a relative",
+        "summary": "In 2025, 47,000 women were killed by their partner or a close relative, according to UN figures."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:46:03+01:00"
+      }
+    },
+    {
+      "id": "8dcb82dcf843",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/gaza-sex-dodade-i-israeliska-bombningar",
+      "guid": "6c6b0a3d-c320-4b71-9676-05d4200a1468",
+      "published_at": "2026-11-24T11:31:21+01:00",
+      "fetched_at": "2026-11-24T11:45:48+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/f0f3addd-0114-485b-82e9-8728c2cb039a.jpg?width=600",
+      "sv": {
+        "title": "Gaza: Sex dödade i israeliska bombningar",
+        "summary": "Sex personer har dödats i israeliska flyganfall mot Gazaremsan, uppger det palestinska civilförsvaret för AFP.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gaza: Six killed in Israeli bombings",
+        "summary": "Six people have been killed in Israeli airstrikes on the Gaza Strip, the Palestinian civil defence tells AFP."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:46:03+01:00"
+      }
+    },
     {
       "id": "69c835f37739",
       "schema_version": 1,
@@ -5191,57 +5245,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T08:01:15+01:00"
-      }
-    },
-    {
-      "id": "bdff52066cb3",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/doms-for-start-av-palisadesbrand",
-      "guid": "ca8f020b-e9aa-480f-930f-2382d930879d",
-      "published_at": "2026-11-21T07:45:17+01:00",
-      "fetched_at": "2026-11-21T07:45:49+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/7839210b-d9df-44a4-84d7-adfd12f9792a.jpg?width=600",
-      "sv": {
-        "title": "Döms för start av Palisadesbrand"
-      },
-      "en": {
-        "title": "Convicted for starting the Palisades fire"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T07:45:51+01:00"
-      }
-    },
-    {
-      "id": "cb475b34551c",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/historiskt-matematiskt-problem-pastas-lost-med-ai",
-      "guid": "99e1181d-2e79-4afe-9437-cdca67138b27",
-      "published_at": "2026-11-21T07:41:26+01:00",
-      "fetched_at": "2026-11-21T07:45:49+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/876fb066-70da-4bd1-908a-39b68d109685.jpg?width=600",
-      "sv": {
-        "title": "Historiskt matematiskt problem påstås löst med AI",
-        "summary": "Riemannhypotesen har varit en gåta sedan 1800-talet. Nu hävdar en Anthropic-anställd matematiker att han hittat en lösning med hjälp av bolagets AI.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Historic mathematical problem reportedly solved with AI",
-        "summary": "The Riemann hypothesis has been a puzzle since the 1800s. Now an Anthropic-employed mathematician claims he has found a solution using the company's AI."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T07:45:51+01:00"
       }
     }
   ]

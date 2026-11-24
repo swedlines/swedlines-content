@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-24T11:31:24+01:00",
+  "generated_at": "2026-11-24T11:46:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6156a31feff4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/nooshi-dadgostar-v-haller-presstraff",
+      "guid": "https://www.expressen.se/nyheter/politik/nooshi-dadgostar-v-haller-presstraff/",
+      "published_at": "2026-11-24T11:33:49+01:00",
+      "fetched_at": "2026-11-24T11:45:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Nooshi Dadgostar (V) håller pressträff",
+        "summary": "Nooshi Dadgostar håller pressträff efter sitt möte med talmannen. Vänsterpartiet kommer rösta nej till Kristersson, inleder hon. – Vi är inte i mål, säger hon om de rödgröna förhandlingarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nooshi Dadgostar (V) holds press conference",
+        "summary": "Nooshi Dadgostar holds a press conference after her meeting with the Speaker. The Left Party will vote no to Kristersson, she begins. – We are not there yet, she says of the red-green negotiations."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:46:03+01:00"
+      }
+    },
+    {
+      "id": "f9dac660658b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/gina-tricot-ber-om-ursakt-efter-kritiken",
+      "guid": "https://www.expressen.se/nyheter/sverige/gina-tricot-ber-om-ursakt-efter-kritiken/",
+      "published_at": "2026-11-24T11:32:47+01:00",
+      "fetched_at": "2026-11-24T11:45:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Gina Tricot ber om ursäkt efter kritiken",
+        "summary": "När Elin Warn, 26, såg fotona trodde hon inte att det var sant. Bilderna som Gina Tricot använt såg ut att kunna vara hennes egna. Företaget skriver i ett mejl att de ”gick över gränsen”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gina Tricot apologises after criticism",
+        "summary": "When Elin Warn, 26, saw the photos she did not believe it was true. The images Gina Tricot used looked like they could be her own. The company writes in an email that they “went over the line”."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:46:03+01:00"
+      }
+    },
     {
       "id": "c7dec62c53d7",
       "schema_version": 1,
@@ -5145,58 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T20:31:20+01:00"
-      }
-    },
-    {
-      "id": "1231f7ae89bb",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/ryska-svaret-efter-draget-vid-gransen",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/ryska-svaret-efter-draget-vid-gransen",
-      "published_at": "2026-11-20T19:45:50+01:00",
-      "fetched_at": "2026-11-20T20:01:14+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ryska hotet efter gränsbråket",
-        "summary": "Ryssland: ”Nödvändiga åtgärder”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russian threat after border dispute",
-        "summary": "Russia: \"Necessary measures\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T20:01:22+01:00"
-      }
-    },
-    {
-      "id": "425c5a9c9476",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/sverige/pontus-25-bodde-for-800-kronor-i-manaden-",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/pontus-25-bodde-for-800-kronor-i-manaden-",
-      "published_at": "2026-11-20T19:41:37+01:00",
-      "fetched_at": "2026-11-20T19:45:47+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Här bodde Pontus för 800 kr i månaden",
-        "summary": "”Vissa tyckte det var lite konstigt”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here Pontus lived for SEK 800 a month",
-        "summary": "\"Some people thought it was a bit strange\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T19:45:51+01:00"
       }
     }
   ]

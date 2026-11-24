@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T11:31:24+01:00",
+  "generated_at": "2026-11-24T11:46:08+01:00",
   "count": 200,
   "items": [
     {
@@ -27,6 +27,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T11:31:16+01:00"
+      }
+    },
+    {
+      "id": "d2a5bd1adb42",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/r8ARXa/hammarby-darfor-kan-en-seger-vara-forodande-for-fotbollslaget-bajen",
+      "guid": "https://www.svd.se/a/r8ARXa/hammarby-darfor-kan-en-seger-vara-forodande-for-fotbollslaget-bajen?utm_medium=rss",
+      "published_at": "2026-11-24T11:30:00+01:00",
+      "fetched_at": "2026-11-24T11:45:45+01:00",
+      "category": "sports",
+      "image_url": "https://akamai.vgc.no/v2/images/a0856cea-870d-3602-81f4-c811afb16104?format=auto&s=4e3d4094a8ced640886c6d32881cc12039d719f2&w=1000",
+      "sv": {
+        "title": "Seger? Det här är en identitetskris",
+        "summary": "Hammarby har gått från uträknade till att närma sig guld. Men kan man ens kalla sig bajare om man…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Victory? This is an identity crisis",
+        "summary": "Hammarby have gone from written off to nearing gold. But can you even call yourself a bajare if you…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:46:03+01:00"
       }
     },
     {
@@ -5608,33 +5635,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T19:01:17+01:00"
-      }
-    },
-    {
-      "id": "c9be999a01bd",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/lander-vagrar-slappa-in-ryska-idrottare-sa-har-visumstopp-straffat-sig-tidigare",
-      "guid": "https://www.dn.se/sport/lander-vagrar-slappa-in-ryska-idrottare-sa-har-visumstopp-straffat-sig-tidigare/",
-      "published_at": "2026-11-18T18:10:31+01:00",
-      "fetched_at": "2026-11-18T18:15:42+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/a02f05e9-1de3-4a70-8b01-5260364b741f.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Länder vägrar släppa in ryska idrottare – så har visumstopp straffat sig tidigare",
-        "summary": "Regering efter regering säger att de inte kommer att släppa in ryska idrottare i sitt land när idrottsförbunden välkomnar ryssarna tillbaka till internationella tävlingar.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Countries refuse to admit Russian athletes – how visa bans have backfired before",
-        "summary": "Government after government says it will not admit Russian athletes into its country as sports federations welcome Russians back to international competitions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:15:50+01:00"
       }
     }
   ]
