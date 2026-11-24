@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T18:45:51+01:00",
+  "generated_at": "2026-11-24T19:01:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c5a2ce8ccc7d",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/har-ar-ms-totalpaket-till-c-hade-hogre-forvantningar",
+      "guid": "https://www.svt.se/nyheter/inrikes/har-ar-ms-totalpaket-till-c-hade-hogre-forvantningar",
+      "published_at": "2026-11-24T18:46:39+01:00",
+      "fetched_at": "2026-11-24T19:01:05+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Här är M:s totalpaket till C: ”Hade högre förväntningar”",
+        "summary": "Centerpartiet går nu in i nya regeringssamtal med Moderaterna. SVT har tagit del av M:s totalpaket som ligger till grund för samtalen. – Jag hade ärligt talat högre förväntningar, säger en C-källa.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here is the Moderates' full package to the Centre Party: \"Had higher expectations\"",
+        "summary": "The Centre Party is now entering new government talks with the Moderates. SVT has obtained the Moderates' full package that forms the basis of the talks. – Frankly, I had higher expectations, says a Centre Party source."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T19:01:15+01:00"
+      }
+    },
     {
       "id": "2b782071cb59",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T19:45:52+01:00"
-      }
-    },
-    {
-      "id": "ecf11adccdc1",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/35-fragor-har-ar-de-rodgrona-partierna-overens-och-inte",
-      "guid": "https://www.svt.se/nyheter/35-fragor-har-ar-de-rodgrona-partierna-overens-och-inte",
-      "published_at": "2026-11-18T18:43:07+01:00",
-      "fetched_at": "2026-11-18T18:45:39+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "35 frågor: Här är de rödgröna partierna överens – och inte",
-        "summary": "Regeringsförhandlingar pågår just nu mellan de rödgröna partierna. Förutom vilka partier som ska sitta i en eventuell regering behöver de komma överens om en rad sakpolitiska förslag. Se SVT:s genomgång av frågor som förenar – och skiljer dem åt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "35 questions: Here is where the red-greens agree – and where they don't",
-        "summary": "Government negotiations are currently under way between the red-green parties. In addition to which parties should sit in a possible government, they need to agree on a number of policy proposals. See SVT's overview of issues that unite them – and divide them."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:45:55+01:00"
       }
     }
   ]

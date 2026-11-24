@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:45:51+01:00",
+  "generated_at": "2026-11-24T19:01:17+01:00",
   "count": 30,
   "stories": [
     {
@@ -2492,77 +2492,63 @@
       ]
     },
     {
-      "id": "de72754e8403",
-      "source_count": 3,
+      "id": "c5a2ce8ccc7d",
+      "source_count": 2,
       "sources": [
-        "svd",
-        "sydsvenskan",
-        "di"
+        "svt",
+        "expressen"
       ],
-      "first_published_at": "2026-11-24T06:30:11+01:00",
-      "last_published_at": "2026-11-24T06:58:27+01:00",
+      "first_published_at": "2026-11-24T18:46:39+01:00",
+      "last_published_at": "2026-11-24T18:56:31+01:00",
       "lead": {
-        "id": "de72754e8403",
+        "id": "c5a2ce8ccc7d",
         "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/ARdnKE/black-friday-manga-fynd-ar-ingen-rea",
-        "guid": "https://www.svd.se/a/ARdnKE/black-friday-manga-fynd-ar-ingen-rea?utm_medium=rss",
-        "published_at": "2026-11-24T06:30:11+01:00",
-        "fetched_at": "2026-11-24T06:31:00+01:00",
-        "category": "economy",
-        "image_url": "https://akamai.vgc.no/v2/images/1d709d92-64a6-3259-97a7-5be789498854?format=auto&s=bc75b479818bd47a8766d4511051d54c73ff10c5&w=1000",
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/inrikes/har-ar-ms-totalpaket-till-c-hade-hogre-forvantningar",
+        "guid": "https://www.svt.se/nyheter/inrikes/har-ar-ms-totalpaket-till-c-hade-hogre-forvantningar",
+        "published_at": "2026-11-24T18:46:39+01:00",
+        "fetched_at": "2026-11-24T19:01:05+01:00",
+        "category": "politics",
         "sv": {
-          "title": "Black Friday: Många ”fynd” är ingen rea",
-          "summary": "Var tionde prisnedsatt ”fynd” var aldrig någon rea, visar en undersökning.",
+          "title": "Här är M:s totalpaket till C: ”Hade högre förväntningar”",
+          "summary": "Centerpartiet går nu in i nya regeringssamtal med Moderaterna. SVT har tagit del av M:s totalpaket som ligger till grund för samtalen. – Jag hade ärligt talat högre förväntningar, säger en C-källa.",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Black Friday: Many \"bargains\" are no sale",
-          "summary": "One in ten marked-down \"bargains\" was never a sale, a survey shows."
+          "title": "Here is the Moderates' full package to the Centre Party: \"Had higher expectations\"",
+          "summary": "The Centre Party is now entering new government talks with the Moderates. SVT has obtained the Moderates' full package that forms the basis of the talks. – Frankly, I had higher expectations, says a Centre Party source."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T06:31:06+01:00"
+          "translated_at": "2026-11-24T19:01:15+01:00"
         }
       },
       "items": [
         {
-          "id": "329c646c927b",
-          "source": "di",
-          "url": "https://www.di.se/live/black-friday-manga-fynd-ar-ingen-rea",
-          "published_at": "2026-11-24T06:58:27+01:00",
+          "id": "692f65f1fedc",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/uppgifter-har-ar-ms-totalpaket-till-c",
+          "published_at": "2026-11-24T18:56:31+01:00",
           "sv": {
-            "title": "Black Friday: Många ”fynd” är ingen rea"
+            "title": "Uppgifter: Här är M:s totalpaket till C"
           },
           "en": {
-            "title": "Black Friday: Many “bargains” are not sales"
+            "title": "Reports: Here is the Moderates' full package to the Centre Party"
           }
         },
         {
-          "id": "12aab309ec9a",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/black-friday-manga-fynd-ar-ingen-rea",
-          "published_at": "2026-11-24T06:32:15+01:00",
+          "id": "c5a2ce8ccc7d",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/har-ar-ms-totalpaket-till-c-hade-hogre-forvantningar",
+          "published_at": "2026-11-24T18:46:39+01:00",
           "sv": {
-            "title": "Black Friday: Många ”fynd” är ingen rea"
+            "title": "Här är M:s totalpaket till C: ”Hade högre förväntningar”"
           },
           "en": {
-            "title": "Black Friday: Many \"bargains\" are not sales"
-          }
-        },
-        {
-          "id": "de72754e8403",
-          "source": "svd",
-          "url": "https://www.svd.se/a/ARdnKE/black-friday-manga-fynd-ar-ingen-rea",
-          "published_at": "2026-11-24T06:30:11+01:00",
-          "sv": {
-            "title": "Black Friday: Många ”fynd” är ingen rea"
-          },
-          "en": {
-            "title": "Black Friday: Many \"bargains\" are no sale"
+            "title": "Here is the Moderates' full package to the Centre Party: \"Had higher expectations\""
           }
         }
       ]
