@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T10:01:24+01:00",
+  "generated_at": "2026-11-24T10:16:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "465f820d762b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/ARd1Q5/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig",
+      "guid": "https://www.aftonbladet.se/nyheter/a/ARd1Q5/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig?utm_medium=rss",
+      "published_at": "2026-11-24T10:07:25+01:00",
+      "fetched_at": "2026-11-24T10:15:46+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/2216072f-d74c-350f-baae-12b681590d78?format=auto&s=2a97a56b1cb9d597671d2678a9c65f788cdd2145&w=1000",
+      "sv": {
+        "title": "Rapport: Fem kvinnor i timmen dödas av en anhörig",
+        "summary": "2025 dödades 47 000 kvinnor av sin partner eller en nära anhörig, enligt FN-siffror.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Report: Five women an hour killed by a relative",
+        "summary": "In 2025, 47,000 women were killed by their partner or a close relative, according to UN figures."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T10:16:00+01:00"
+      }
+    },
     {
       "id": "7dd85d0f5220",
       "schema_version": 1,
@@ -5325,33 +5352,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T08:01:19+01:00"
-      }
-    },
-    {
-      "id": "172497b70237",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/oro-i-kenya-dodsfall-hos-flodhastar-utreds",
-      "guid": "73f3c301-0d88-4f60-a79b-f5a443bd2bff",
-      "published_at": "2026-11-22T07:45:00+01:00",
-      "fetched_at": "2026-11-22T07:45:42+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/666c54e1-9a2e-4cab-9277-6ef0595cf1dd.jpg?width=600",
-      "sv": {
-        "title": "Oro i Kenya – dödsfall hos flodhästar utreds",
-        "summary": "Kenya utreder flera händelser där flodhästar tros ha dött efter att ha fått i sig olämplig föda. Mängden fall på kort tid oroar landets naturvårdsmyndighet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Concern in Kenya – hippo deaths under investigation",
-        "summary": "Kenya is investigating several incidents in which hippos are believed to have died after ingesting unsuitable food. The number of cases in a short period is worrying the country's environmental protection agency."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T07:45:45+01:00"
       }
     }
   ]
