@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T20:50:16+01:00",
+  "generated_at": "2026-11-24T21:01:22+01:00",
   "count": 30,
   "stories": [
     {
@@ -2491,6 +2491,68 @@
       ]
     },
     {
+      "id": "4a2aaf1541ee",
+      "source_count": 2,
+      "sources": [
+        "expressen",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-24T20:24:37+01:00",
+      "last_published_at": "2026-11-24T20:50:53+01:00",
+      "lead": {
+        "id": "4a2aaf1541ee",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8ea6b77b-40d6-42c1-9e7b-073ba9841c15",
+        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8ea6b77b-40d6-42c1-9e7b-073ba9841c15",
+        "published_at": "2026-11-24T20:24:37+01:00",
+        "fetched_at": "2026-11-24T20:31:00+01:00",
+        "category": "sweden",
+        "sv": {
+          "title": "Död i olycka – arbetade vid hiss",
+          "summary": "Arbetsplatsolycka i Västerås",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Dead in accident – worked near lift",
+          "summary": "Workplace accident in Västerås"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T20:31:05+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "5390383938e0",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Wmbpok/man-omkom-i-arbetsplatsolycka-i-vasteras",
+          "published_at": "2026-11-24T20:50:53+01:00",
+          "sv": {
+            "title": "Man omkom i arbetsplatsolycka i Västerås"
+          },
+          "en": {
+            "title": "Man dies in workplace accident in Västerås"
+          }
+        },
+        {
+          "id": "4a2aaf1541ee",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8ea6b77b-40d6-42c1-9e7b-073ba9841c15",
+          "published_at": "2026-11-24T20:24:37+01:00",
+          "sv": {
+            "title": "Död i olycka – arbetade vid hiss"
+          },
+          "en": {
+            "title": "Dead in accident – worked near lift"
+          }
+        }
+      ]
+    },
+    {
       "id": "641209c61d09",
       "source_count": 2,
       "sources": [
@@ -2807,90 +2869,6 @@
           },
           "en": {
             "title": "Global AI rally – but down on the Stockholm Stock Exchange"
-          }
-        }
-      ]
-    },
-    {
-      "id": "80fffd176ee4",
-      "source_count": 2,
-      "sources": [
-        "gp",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T12:18:21+01:00",
-      "last_published_at": "2026-11-24T16:53:53+01:00",
-      "lead": {
-        "id": "80fffd176ee4",
-        "schema_version": 1,
-        "source": "gp",
-        "url": "https://www.gp.se/sport/fotbollsspelaren-ken-fagerberg-ar-dod-den-tidigare-ois-spelaren-blev-37-ar-gammal.4cefdcb5-d7dd-53ef-a359-549171cb52c6",
-        "guid": "4cefdcb5-d7dd-53ef-a359-549171cb52c6",
-        "published_at": "2026-11-24T12:18:21+01:00",
-        "fetched_at": "2026-11-24T12:45:49+01:00",
-        "category": "sports",
-        "feed_categories": [
-          "Sport",
-          "Tagg: breaking-GP",
-          "Tagg: Öis",
-          "Tagg: Ken Fagerberg",
-          "Tagg: Örgryte",
-          "Tagg: Örgryte IS",
-          "Tagg: Fotboll"
-        ],
-        "image_url": "https://vcdn.polarismedia.no/3a55cfec-2e10-3f6c-a924-8be37747e4eb",
-        "sv": {
-          "title": "Ken Fagerberg är död – tidigare Öis-spelaren blev 37 år",
-          "summary": "Kom fram som supertalang i Örgryte 2007 • Pappan: ”Han hade ett hjärta av guld”.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Ken Fagerberg is dead – former Öis player was 37",
-          "summary": "Emerged as a superstar talent at Örgryte in 2007 • Father: \"He had a heart of gold.\""
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T12:45:56+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "6c008d37e385",
-          "source": "gp",
-          "url": "https://www.gp.se/sport/fotboll/orgryte-is/ois-hedrar-ken-fagerberg-spelar-i-sorgband-mot-degerfors.6f092b93-334a-5159-be9a-80ed8bd7f95e",
-          "published_at": "2026-11-24T16:53:53+01:00",
-          "sv": {
-            "title": "Öis i sorg efter Ken Fagerbergs död – så hedras han"
-          },
-          "en": {
-            "title": "Öis in mourning after Ken Fagerberg's death – this is how he is honoured"
-          }
-        },
-        {
-          "id": "347c109951b4",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sport/forre-fotbollsspelaren-ken-fagerberg-dod",
-          "published_at": "2026-11-24T14:25:17+01:00",
-          "sv": {
-            "title": "Förre fotbollsspelaren Ken Fagerberg död"
-          },
-          "en": {
-            "title": "Former footballer Ken Fagerberg dead"
-          }
-        },
-        {
-          "id": "80fffd176ee4",
-          "source": "gp",
-          "url": "https://www.gp.se/sport/fotbollsspelaren-ken-fagerberg-ar-dod-den-tidigare-ois-spelaren-blev-37-ar-gammal.4cefdcb5-d7dd-53ef-a359-549171cb52c6",
-          "published_at": "2026-11-24T12:18:21+01:00",
-          "sv": {
-            "title": "Ken Fagerberg är död – tidigare Öis-spelaren blev 37 år"
-          },
-          "en": {
-            "title": "Ken Fagerberg is dead – former Öis player was 37"
           }
         }
       ]

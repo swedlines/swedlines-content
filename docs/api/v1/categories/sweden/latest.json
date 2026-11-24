@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T20:50:16+01:00",
+  "generated_at": "2026-11-24T21:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5390383938e0",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Wmbpok/man-omkom-i-arbetsplatsolycka-i-vasteras",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Wmbpok/man-omkom-i-arbetsplatsolycka-i-vasteras?utm_medium=rss",
+      "published_at": "2026-11-24T20:50:53+01:00",
+      "fetched_at": "2026-11-24T21:01:14+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/ec0ecedc-5904-3a2a-aa2c-40c85e9ce56f?format=auto&s=cb06a35f0272fa1f40a1f6f1b2b0d3578669e025&w=1000",
+      "sv": {
+        "title": "Man omkom i arbetsplatsolycka i Västerås",
+        "summary": "En man i 50-årsåldern omkom i en arbetsplatsolycka i Västerås på tisdagen, enligt polisen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man dies in workplace accident in Västerås",
+        "summary": "A man in his 50s died in a workplace accident in Västerås on Tuesday, according to police."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T21:01:19+01:00"
+      }
+    },
     {
       "id": "53da231acb8d",
       "schema_version": 1,
@@ -5421,33 +5448,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T06:45:50+01:00"
-      }
-    },
-    {
-      "id": "aca94610bb2a",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/mMRWOO/lomskt-virus-minskar-bland-barn-slar-mot-aldre",
-      "guid": "https://www.svd.se/a/mMRWOO/lomskt-virus-minskar-bland-barn-slar-mot-aldre?utm_medium=rss",
-      "published_at": "2026-11-20T06:15:12+01:00",
-      "fetched_at": "2026-11-20T06:30:57+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/2ef09406-995c-3da1-81fc-15b46e0faeab?format=auto&s=a4c0b180b1415fd8fe5e83507bfb45a79a49191d&w=1000",
-      "sv": {
-        "title": "Lömskt virus minskar bland barn – slår mot äldre",
-        "summary": "Högsäsongen för luftvägsvirus står för dörren. Ett av de mest lömska är RS-virus som kan slå hårt…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sneaky virus declines among children – hits the elderly",
-        "summary": "The high season for respiratory viruses is at the door. One of the most insidious is RS virus, which can hit hard…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:31:13+01:00"
       }
     }
   ]

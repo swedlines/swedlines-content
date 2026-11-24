@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T20:50:16+01:00",
+  "generated_at": "2026-11-24T21:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5390383938e0",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Wmbpok/man-omkom-i-arbetsplatsolycka-i-vasteras",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Wmbpok/man-omkom-i-arbetsplatsolycka-i-vasteras?utm_medium=rss",
+      "published_at": "2026-11-24T20:50:53+01:00",
+      "fetched_at": "2026-11-24T21:01:14+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/ec0ecedc-5904-3a2a-aa2c-40c85e9ce56f?format=auto&s=cb06a35f0272fa1f40a1f6f1b2b0d3578669e025&w=1000",
+      "sv": {
+        "title": "Man omkom i arbetsplatsolycka i Västerås",
+        "summary": "En man i 50-årsåldern omkom i en arbetsplatsolycka i Västerås på tisdagen, enligt polisen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man dies in workplace accident in Västerås",
+        "summary": "A man in his 50s died in a workplace accident in Västerås on Tuesday, according to police."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T21:01:19+01:00"
+      }
+    },
     {
       "id": "c5802de3ab9a",
       "schema_version": 1,
@@ -5345,33 +5372,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T19:31:08+01:00"
-      }
-    },
-    {
-      "id": "0145f8b99d8f",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/411039/cyberterrorist-gripen-slog-till-mot-sverige",
-      "guid": "https://tv.aftonbladet.se/video/411039/cyberterrorist-gripen-slog-till-mot-sverige?utm_medium=rss",
-      "published_at": "2026-11-21T19:19:55+01:00",
-      "fetched_at": "2026-11-21T23:01:09+01:00",
-      "category": "crime",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/5f5642842a0be0d5dd4a7c603304df0b.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "Cyberterrorist gripen – slog till mot Sverige",
-        "summary": "Misstänkt cyberterrorist ✓ Sverige drabbat",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Cyberterrorist arrested – struck against Sweden",
-        "summary": "Suspected cyberterrorist ✓ Sweden affected"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T23:01:14+01:00"
       }
     }
   ]

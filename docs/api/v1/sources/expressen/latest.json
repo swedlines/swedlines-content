@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T20:50:16+01:00",
+  "generated_at": "2026-11-24T21:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4abbc9eee8c9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/c-toppen-effie-kourlos-oppnar-for-en-tredje-vag-kan-tycka-gult",
+      "guid": "https://www.expressen.se/nyheter/politik/c-toppen-effie-kourlos-oppnar-for-en-tredje-vag-kan-tycka-gult/",
+      "published_at": "2026-11-24T20:53:32+01:00",
+      "fetched_at": "2026-11-24T21:01:14+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-toppen Effie Kourlos öppnar för en tredje väg: ”Kan tycka gult”",
+        "summary": "Regering åt vänster eller höger? Eller bli ett konstruktivt oppositionsparti? C-toppen Effie Kourlos öppnar för att partiet kan släppa fram en borgerlig trepartiregering. – Det tror jag har goda chanser att ena C, som en kompromiss.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Centre leader Effie Kourlos opens to a third way: \"Can see yellow\"",
+        "summary": "Government to the left or right? Or become a constructive opposition party? Centre Party leader Effie Kourlos opens to the party letting through a bourgeois three-party government. – I think that has good chances of uniting the C, as a compromise."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T21:01:19+01:00"
+      }
+    },
     {
       "id": "4a2aaf1541ee",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T09:15:50+01:00"
-      }
-    },
-    {
-      "id": "9c3d1be656c6",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7bb0fed7-bb46-4c1b-84dc-243a1c7d539e",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7bb0fed7-bb46-4c1b-84dc-243a1c7d539e",
-      "published_at": "2026-11-21T07:58:16+01:00",
-      "fetched_at": "2026-11-21T08:01:10+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Sladdade med pickup",
-        "summary": "Pojke misstänks",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Skidded with pickup truck",
-        "summary": "Boy suspected"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T08:01:15+01:00"
       }
     }
   ]
