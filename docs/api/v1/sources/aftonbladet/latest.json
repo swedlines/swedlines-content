@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T14:45:58+01:00",
+  "generated_at": "2026-11-24T15:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ce46b8255177",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/ez8p0M/600-kvinnor-i-sydafrika-mordade-pa-tre-manader",
+      "guid": "https://www.aftonbladet.se/nyheter/a/ez8p0M/600-kvinnor-i-sydafrika-mordade-pa-tre-manader?utm_medium=rss",
+      "published_at": "2026-11-24T14:54:00+01:00",
+      "fetched_at": "2026-11-24T15:01:14+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/8daeaf29-33da-3d74-97ad-a71ae19242f5?format=auto&s=0f31c3b28b107fd2b7e4f08f3e42e8e987be6ccf&w=1000",
+      "sv": {
+        "title": "600 kvinnor i Sydafrika mördade på tre månader",
+        "summary": "Nästan 600 kvinnor mördades i Sydafrika mellan juli och september, visar statistik.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "600 women murdered in South Africa in three months",
+        "summary": "Almost 600 women were murdered in South Africa between July and September, statistics show."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:01:21+01:00"
+      }
+    },
     {
       "id": "8c9e90e20231",
       "schema_version": 1,
@@ -5345,33 +5372,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T13:15:56+01:00"
-      }
-    },
-    {
-      "id": "ceceda851502",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/0vnlkB/riksdagsledamoter-kan-ha-drabbats-av-taxijattens-dataintrang",
-      "guid": "https://www.aftonbladet.se/nyheter/a/0vnlkB/riksdagsledamoter-kan-ha-drabbats-av-taxijattens-dataintrang?utm_medium=rss",
-      "published_at": "2026-11-21T12:44:33+01:00",
-      "fetched_at": "2026-11-21T12:45:52+01:00",
-      "category": "science_tech",
-      "image_url": "https://akamai.vgc.no/v2/images/487fbfc1-226b-38f7-b290-9b8974caaa24?format=auto&s=1dddb8f19dbe29af471f26fefca269bb01321e0f&w=1000",
-      "sv": {
-        "title": "Riksdagsledamöter kan ha drabbats av taxijättens dataintrång",
-        "summary": "Riksdagsledamöter kan vara påverkade av läckan",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Riksdag members may have been affected by taxi giant's data breach",
-        "summary": "Riksdag members may be affected by the leak"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T12:45:59+01:00"
       }
     }
   ]

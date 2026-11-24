@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T14:45:58+01:00",
+  "generated_at": "2026-11-24T15:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5f8898b134c6",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bfe03c77-2300-43bd-9e75-e41235edc1ad",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bfe03c77-2300-43bd-9e75-e41235edc1ad",
+      "published_at": "2026-11-24T14:54:20+01:00",
+      "fetched_at": "2026-11-24T15:01:14+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump förbereder tullar",
+        "summary": "Uppgifter om nya höjningar",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump prepares tariffs",
+        "summary": "Reports of new increases"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:01:21+01:00"
+      }
+    },
     {
       "id": "b390dd51b973",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T02:31:07+01:00"
-      }
-    },
-    {
-      "id": "eec3a4d5d248",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/glomde-foremal-i-patientens-huvud",
-      "guid": "https://www.expressen.se/nyheter/sverige/glomde-foremal-i-patientens-huvud/",
-      "published_at": "2026-11-21T00:02:58+01:00",
-      "fetched_at": "2026-11-21T00:15:50+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Glömde föremål i patientens huvud",
-        "summary": "Under en hjärnoperation i Umeå glömdes två föremål kvar i patientens huvud. De upptäcktes först efter han opererats igen. – Det här var en beklaglig och olycklig händelse, säger chefläkaren Bengt Andersson till SVT Nyheter Västerbotten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Two items left in patient's head",
-        "summary": "During brain surgery in Umeå, two items were left in the patient's head. They were only discovered after he had been operated on again. \"This was a regrettable and unfortunate incident,\" says chief physician Bengt Andersson to SVT Nyheter Västerbotten."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T00:15:55+01:00"
       }
     }
   ]

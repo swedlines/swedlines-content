@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T14:45:58+01:00",
+  "generated_at": "2026-11-24T15:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5f8898b134c6",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bfe03c77-2300-43bd-9e75-e41235edc1ad",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bfe03c77-2300-43bd-9e75-e41235edc1ad",
+      "published_at": "2026-11-24T14:54:20+01:00",
+      "fetched_at": "2026-11-24T15:01:14+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump förbereder tullar",
+        "summary": "Uppgifter om nya höjningar",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump prepares tariffs",
+        "summary": "Reports of new increases"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:01:21+01:00"
+      }
+    },
     {
       "id": "8c9e90e20231",
       "schema_version": 1,
@@ -5334,33 +5360,6 @@
       "en": {
         "title": "FSB's plan: criminals were to murder him",
         "summary": "Denmark suspects Russian intelligence tried to assassinate a Ukrainian-American artist in…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:01:22+01:00"
-      }
-    },
-    {
-      "id": "21bc88a32be3",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/yz3X1a/republikanernas-valforlust-oppnar-for-ron-desantis",
-      "guid": "https://www.svd.se/a/yz3X1a/republikanernas-valforlust-oppnar-for-ron-desantis?utm_medium=rss",
-      "published_at": "2026-11-22T14:43:37+01:00",
-      "fetched_at": "2026-11-22T15:01:10+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/493d4c55-d60b-3df6-8c82-cbf34428eff2?format=auto&s=7a0edc82cc1ec97b95f392e2a201d73ec7048123&w=1000",
-      "sv": {
-        "title": "Blir ”tråkig” plötsligt rätt?",
-        "summary": "Han beskrivs som tråkig, stel och utan karisma, men efter Donald Trump kan just det bli Ron DeSantis…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Is “boring” suddenly right?",
-        "summary": "He is described as boring, stiff and without charisma, but after Donald Trump that very quality could make Ron DeSantis…"
       },
       "translation": {
         "status": "done",
