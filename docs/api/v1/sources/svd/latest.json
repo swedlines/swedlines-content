@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T22:45:58+01:00",
+  "generated_at": "2026-11-24T23:01:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4ed1429d4fe4",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/JnomXb/carter-atalas-for-sexuella-overgrepp",
+      "guid": "https://www.svd.se/a/JnomXb/carter-atalas-for-sexuella-overgrepp?utm_medium=rss",
+      "published_at": "2026-11-24T22:45:25+01:00",
+      "fetched_at": "2026-11-24T23:01:04+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/0cfe8fb0-02a3-3ff3-b3f4-1cc0fda0df3f?format=auto&s=158e6396c37a3ac47d6a15f23bcdef86b9e0ee7e&w=1000",
+      "sv": {
+        "title": "Carter åtalas för sexuella övergrepp",
+        "summary": "Backstreet Boys-sångaren Nick Carter åtalas för sexuella övergrepp som ska ha skett 2003.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Carter charged with sexual assault",
+        "summary": "Backstreet Boys singer Nick Carter is charged with sexual assault allegedly committed in 2003."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T23:01:09+01:00"
+      }
+    },
     {
       "id": "337d2154006e",
       "schema_version": 1,
@@ -5237,33 +5264,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T16:15:53+01:00"
-      }
-    },
-    {
-      "id": "780a39a4c8e1",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0vnl62/sura-pa-trump-de-kan-vanda-presidentvalet",
-      "guid": "https://www.svd.se/a/0vnl62/sura-pa-trump-de-kan-vanda-presidentvalet?utm_medium=rss",
-      "published_at": "2026-11-21T15:52:26+01:00",
-      "fetched_at": "2026-11-21T16:01:16+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/b477e58a-eed7-3b58-b969-22ece06eb8bf?format=auto&s=bac6ec3291e548900edc4d298f195b60bf3ab519&w=1000",
-      "sv": {
-        "title": "Sura på Trump – de kan vända presidentvalet",
-        "summary": "För två år sedan vände de Demokraterna och Kamala Harris ryggen. Nu, när valrörelsen inför…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sore at Trump – they could swing the presidential election",
-        "summary": "Two years ago they turned their backs on the Democrats and Kamala Harris. Now, as the election campaign ahead of…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T16:01:25+01:00"
       }
     }
   ]
