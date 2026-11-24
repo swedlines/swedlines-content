@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-24T17:31:17+01:00",
+  "generated_at": "2026-11-24T17:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "733321a40316",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/microsoft-kod-rod",
+      "guid": "78743ccd-a1f1-44b3-aa01-7d4b48ab3674",
+      "published_at": "2026-11-24T17:39:32+01:00",
+      "fetched_at": "2026-11-24T17:45:50+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/aa27e2b9-afd7-4be7-936f-1792a147dd03.jpeg?width=600",
+      "sv": {
+        "title": "Microsoft: ”Kod röd”",
+        "summary": "Techjätten Microsoft har utlyst den högsta och mest akuta varningsnivån, kod röd, för att se över sina tekniska system och sin krishantering efter ett dygnslångt driftavbrott den 12–13 november. Det rapporterar Reuters med hänvisning till interna dokument.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Microsoft: \"Code red\"",
+        "summary": "Tech giant Microsoft has declared the highest and most urgent warning level, code red, to review its technical systems and crisis management after a day-long outage on 12–13 November. Reuters reports this, citing internal documents."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T17:45:55+01:00"
+      }
+    },
+    {
+      "id": "55eed8f40e6c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ai-frossan-atervande-till-stockholmsborsen",
+      "guid": "8f622739-b222-446c-938b-4c839fad4548",
+      "published_at": "2026-11-24T17:31:56+01:00",
+      "fetched_at": "2026-11-24T17:45:50+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/546cca5e-9008-4ea5-93d3-cd394d40cf06.jpeg?width=600",
+      "sv": {
+        "title": "AI-frossan återvände till Stockholmsbörsen",
+        "summary": "Likt handeln i USA föll Stockholmsbörsen tillbaka kraftigt på tisdagen efter måndagens rally. Bland förlorarna hittas flera AI-relaterade gruv- och verkstadsjättar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "AI jitters return to the Stockholm Stock Exchange",
+        "summary": "Following trading in the US, the Stockholm Stock Exchange fell sharply back on Tuesday after Monday's rally. Among the losers are several AI-related mining and engineering giants."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T17:45:55+01:00"
+      }
+    },
     {
       "id": "0baa309cba93",
       "schema_version": 1,
@@ -5236,55 +5290,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T23:28:35+01:00"
-      }
-    },
-    {
-      "id": "87806f465cc6",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/ekonomi/nvidias-vd-tillbaka-wall-street-rusade-vilt",
-      "guid": "https://www.svt.se/nyheter/ekonomi/nvidias-vd-tillbaka-wall-street-rusade-vilt",
-      "published_at": "2026-11-23T22:23:56+01:00",
-      "fetched_at": "2026-11-23T22:30:26+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nvidias vd tillbaka – Wall Street rusade vilt",
-        "summary": "Nasdaqs tekniktunga index rusade 6,5 procent på börsen i New York på måndagen efter beskedet om att Jensen Huang återinsätts som halvledarbjässen Nvidias vd. Nvidia steg hela 31,5 procent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nvidia's CEO back – Wall Street surged wildly",
-        "summary": "The tech-heavy Nasdaq index surged 6.5 percent on the New York stock exchange on Monday after the news that Jensen Huang is reinstated as CEO of semiconductor giant Nvidia. Nvidia rose as much as 31.5 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:30:34+01:00"
-      }
-    },
-    {
-      "id": "8080a111304c",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80232",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80232&utm_medium=rss",
-      "published_at": "2026-11-23T22:12:41+01:00",
-      "fetched_at": "2026-11-23T22:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nvidia gav tokrally på Nasdaq"
-      },
-      "en": {
-        "title": "Nvidia sends Nasdaq into a frenzied rally"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:15:55+01:00"
       }
     }
   ]

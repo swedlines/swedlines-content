@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-24T17:31:17+01:00",
+  "generated_at": "2026-11-24T17:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "733321a40316",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/microsoft-kod-rod",
+      "guid": "78743ccd-a1f1-44b3-aa01-7d4b48ab3674",
+      "published_at": "2026-11-24T17:39:32+01:00",
+      "fetched_at": "2026-11-24T17:45:50+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/aa27e2b9-afd7-4be7-936f-1792a147dd03.jpeg?width=600",
+      "sv": {
+        "title": "Microsoft: ”Kod röd”",
+        "summary": "Techjätten Microsoft har utlyst den högsta och mest akuta varningsnivån, kod röd, för att se över sina tekniska system och sin krishantering efter ett dygnslångt driftavbrott den 12–13 november. Det rapporterar Reuters med hänvisning till interna dokument.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Microsoft: \"Code red\"",
+        "summary": "Tech giant Microsoft has declared the highest and most urgent warning level, code red, to review its technical systems and crisis management after a day-long outage on 12–13 November. Reuters reports this, citing internal documents."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T17:45:55+01:00"
+      }
+    },
+    {
+      "id": "55eed8f40e6c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ai-frossan-atervande-till-stockholmsborsen",
+      "guid": "8f622739-b222-446c-938b-4c839fad4548",
+      "published_at": "2026-11-24T17:31:56+01:00",
+      "fetched_at": "2026-11-24T17:45:50+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/546cca5e-9008-4ea5-93d3-cd394d40cf06.jpeg?width=600",
+      "sv": {
+        "title": "AI-frossan återvände till Stockholmsbörsen",
+        "summary": "Likt handeln i USA föll Stockholmsbörsen tillbaka kraftigt på tisdagen efter måndagens rally. Bland förlorarna hittas flera AI-relaterade gruv- och verkstadsjättar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "AI jitters return to the Stockholm Stock Exchange",
+        "summary": "Following trading in the US, the Stockholm Stock Exchange fell sharply back on Tuesday after Monday's rally. Among the losers are several AI-related mining and engineering giants."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T17:45:55+01:00"
+      }
+    },
     {
       "id": "d13d8d91ac06",
       "schema_version": 1,
@@ -5267,59 +5321,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T13:15:59+01:00"
-      }
-    },
-    {
-      "id": "7b322fb1d901",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/sverige-maste-anvanda-sin-finansiella-styrka-battre",
-      "guid": "5e1f5991-28d7-4871-8e9b-3cf3ca03f0bf",
-      "published_at": "2026-11-23T12:59:40+01:00",
-      "fetched_at": "2026-11-23T13:15:51+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/2210fbcd-0b62-478f-a884-7eda6e21e448.jpeg?width=600",
-      "sv": {
-        "title": "Sverige måste använda sin finansiella styrka bättre",
-        "summary": "Sverige har kapitalet, företagen, entreprenörerna, kunskapen och innovationskraften. Nu behöver vi skapa bättre förutsättningar för att använda våra konkurrensfördelar, skriver Hans Lindberg, vd Svenska Bankföreningen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sweden must make better use of its financial strength",
-        "summary": "Sweden has the capital, the companies, the entrepreneurs, the knowledge and the capacity for innovation. Now we need to create better conditions for using our competitive advantages, writes Hans Lindberg, CEO of the Swedish Bankers' Association."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T13:15:59+01:00"
-      }
-    },
-    {
-      "id": "09aa1ff64e57",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/revanschlyft-pa-borsen-industribolagen-stiger",
-      "guid": "4401cd70-e3bc-4353-9adf-b703d4d216b0",
-      "published_at": "2026-11-23T12:49:20+01:00",
-      "fetched_at": "2026-11-23T13:01:18+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Revanschlyft på börsen – industribolagen stiger",
-        "summary": "Efter en blytung förra vecka vänder Stockholmsbörsen upp på måndagen. Industribolagen går starkt – medan Hemnet bryter sin mardrömssvit.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Revenge rally on the stock market – industrial companies rise",
-        "summary": "After a heavy previous week, the Stockholm Stock Exchange turns up on Monday. Industrial companies are performing strongly – while Hemnet breaks its nightmare streak."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T13:01:23+01:00"
       }
     }
   ]
