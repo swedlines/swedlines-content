@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-24T11:46:08+01:00",
+  "generated_at": "2026-11-24T11:59:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "67e5b780b678",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7DYOfUVnubSFiRjNYx1dMn/kristersson-beredd-att-proeva-en-borgerlig-mittenregering",
+      "guid": "7DYOfUVnubSFiRjNYx1dMn",
+      "published_at": "2026-11-24T11:44:30+01:00",
+      "fetched_at": "2026-11-24T11:59:06+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Valet 2026"
+      ],
+      "sv": {
+        "title": "Kristersson beredd att pröva en ”borgerlig mittenregering”",
+        "summary": "Samtalen med C kommer fortsätta • Piken: ”Kommer inte skriva artiklar”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson prepared to test a \"centre-right middle government\"",
+        "summary": "Talks with C will continue • Piken: \"Will not write articles\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:59:14+01:00"
+      }
+    },
     {
       "id": "88f96c764c26",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:54:22+01:00"
-      }
-    },
-    {
-      "id": "4854f7a8b595",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/41LUL5S2iFcp00GAVNlGgB/en-manad-sedan-svensken-greps-ud-saknar-fortfarande-besked",
-      "guid": "41LUL5S2iFcp00GAVNlGgB",
-      "published_at": "2026-11-16T15:39:02+01:00",
-      "fetched_at": "2026-11-16T15:45:43+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "En månad sedan svensken greps – UD saknar fortfarande besked",
-        "summary": "Uppgifterna om gripandet kom den 15 oktober. Enligt den ryska underrättelsetjänsten FSB greps mannen, som är i 35-årsåldern, misstänkt för att ha ”planerat terrorattacker mot militära anläggningar” i Ryssland. I en video som FSB publicerade syns mannen förhöras.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "A month since Swede was arrested – Foreign Ministry still lacks clarity",
-        "summary": "The details of the arrest emerged on 15 October. According to the Russian intelligence service FSB, the man, who is in his mid-thirties, was arrested on suspicion of having \"planned terrorist attacks against military facilities\" in Russia. In a video published by the FSB, the man can be seen being interrogated."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:45:48+01:00"
       }
     }
   ]

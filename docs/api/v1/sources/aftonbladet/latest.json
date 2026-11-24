@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T11:46:08+01:00",
+  "generated_at": "2026-11-24T11:59:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "850ae40981e2",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/0vn6m0/efter-paniken-inget-lejon-i-istanbul",
+      "guid": "https://www.aftonbladet.se/nyheter/a/0vn6m0/efter-paniken-inget-lejon-i-istanbul?utm_medium=rss",
+      "published_at": "2026-11-24T11:56:21+01:00",
+      "fetched_at": "2026-11-24T11:59:05+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/139be2f3-8eb6-3ca6-96c6-69c1cac7ed0f?format=auto&s=6991a943d4526a8dd6068fd6e55bc182d64c35a4&w=1000",
+      "sv": {
+        "title": "Efter paniken – inget lejon i Istanbul",
+        "summary": "Larm om ett kringstrykande lejon orsakade panik i en förort till Istanbul.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the panic – no lion in Istanbul",
+        "summary": "Reports of a roaming lion caused panic in a suburb of Istanbul."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:59:14+01:00"
+      }
+    },
     {
       "id": "6b4d058be6f7",
       "schema_version": 1,
@@ -161,6 +188,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T11:16:01+01:00"
+      }
+    },
+    {
+      "id": "fe552899223b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/kMJ9VQ/kristersson-beredd-att-prova",
+      "guid": "https://www.aftonbladet.se/nyheter/a/kMJ9VQ/kristersson-beredd-att-prova?utm_medium=rss",
+      "published_at": "2026-11-24T11:07:13+01:00",
+      "fetched_at": "2026-11-24T11:59:05+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/29333974-2c03-3343-b39d-8afd984e1acb?format=auto&s=207e032fafbf0113bc9d371acfb6eb26cd9a10cb&w=1000",
+      "sv": {
+        "title": "Kristersson redo för statsministeromröstning",
+        "summary": "Kristersson höll pressträff",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson ready for prime ministerial vote",
+        "summary": "Kristersson held a press conference"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:59:14+01:00"
       }
     },
     {
@@ -5316,60 +5370,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:01:26+01:00"
-      }
-    },
-    {
-      "id": "d07aa90e8dff",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/411002",
-      "guid": "https://tv.aftonbladet.se/video/411002?utm_medium=rss",
-      "published_at": "2026-11-21T09:27:04+01:00",
-      "fetched_at": "2026-11-21T11:45:45+01:00",
-      "category": "world",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/3e13ec279617231f9d6e2de0fddcf253.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "Flyr undan rysk dubbelattack",
-        "summary": "Attackerar räddningspersonalen",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Flees Russian double attack",
-        "summary": "Attacks rescue personnel"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T11:45:53+01:00"
-      }
-    },
-    {
-      "id": "5827a966ea65",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/wdPLg1/drack-fororenad-alkohol-flera-doda-i-indien",
-      "guid": "https://www.aftonbladet.se/nyheter/a/wdPLg1/drack-fororenad-alkohol-flera-doda-i-indien?utm_medium=rss",
-      "published_at": "2026-11-21T09:21:24+01:00",
-      "fetched_at": "2026-11-21T09:31:08+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/6d9a831f-4677-3a1b-a302-888a2745588d?format=auto&s=b650f5eaa88771e8e73fe682074823be368333a1&w=1000",
-      "sv": {
-        "title": "Drack förorenad alkohol – flera döda i Indien",
-        "summary": "Ett tiotal personer har dött och fler än 180 har lagts in på sjukhus i nordöstra Indien sedan de…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Drank contaminated alcohol – several dead in India",
-        "summary": "About ten people have died and more than 180 have been hospitalised in northeast India after they…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:31:15+01:00"
       }
     }
   ]

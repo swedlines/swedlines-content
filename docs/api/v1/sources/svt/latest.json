@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T11:46:08+01:00",
+  "generated_at": "2026-11-24T11:59:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "066032135d7a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/lakare-misstankt-for-valdtakt-pa-sjukhuset-i-vasteras",
+      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/lakare-misstankt-for-valdtakt-pa-sjukhuset-i-vasteras",
+      "published_at": "2026-11-24T11:44:34+01:00",
+      "fetched_at": "2026-11-24T11:59:03+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Läkare misstänkt för våldtäkt på sjukhuset i Västerås",
+        "summary": "En man häktades under tisdagen misstänkt för våldtäkt inne på sjukhuset i Västerås. – Målsägaren har fått hjälp att göra en polisanmälan, säger åklagare Jessica Wenna som i övrigt är förtegen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Doctor suspected of rape at hospital in Västerås",
+        "summary": "A man was remanded in custody on Tuesday on suspicion of rape inside the hospital in Västerås. – The complainant has been helped to file a police report, says prosecutor Jessica Wenna, who otherwise remains tight-lipped."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:59:14+01:00"
+      }
+    },
     {
       "id": "8bc705f00a40",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T11:31:06+01:00"
-      }
-    },
-    {
-      "id": "bd944ae66419",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sormland/omsorgsbolaget-forenede-care-vagrar-lamna-aldreboendena-i-nykoping",
-      "guid": "https://www.svt.se/nyheter/lokalt/sormland/omsorgsbolaget-forenede-care-vagrar-lamna-aldreboendena-i-nykoping",
-      "published_at": "2026-11-18T10:24:58+01:00",
-      "fetched_at": "2026-11-18T10:30:58+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Omsorgsbolaget Forenede care vägrar lämna äldreboendena i Nyköping",
-        "summary": "Omsorgsbolaget Forenede care som har tre särskilda boenden i Nyköping, bestrider nu kommunens hävning av avtalet för företages äldreboende, det skriver Södermanlands nyheter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Care company Forenede care refuses to leave care homes in Nyköping",
-        "summary": "The care company Forenede care, which runs three special housing units in Nyköping, now contests the municipality's termination of the contract for the company's care home, reports Södermanlands Nyheter."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T10:31:10+01:00"
       }
     }
   ]

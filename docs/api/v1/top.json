@@ -1,7 +1,156 @@
 {
-  "generated_at": "2026-11-24T11:46:08+01:00",
+  "generated_at": "2026-11-24T11:59:21+01:00",
   "count": 30,
   "stories": [
+    {
+      "id": "d1981b21c099",
+      "source_count": 7,
+      "sources": [
+        "svd",
+        "expressen",
+        "aftonbladet",
+        "sr",
+        "svt",
+        "tv4",
+        "di"
+      ],
+      "first_published_at": "2026-11-24T10:16:21+01:00",
+      "last_published_at": "2026-11-24T11:45:07+01:00",
+      "lead": {
+        "id": "d1981b21c099",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80243",
+        "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80243&utm_medium=rss",
+        "published_at": "2026-11-24T10:16:21+01:00",
+        "fetched_at": "2026-11-24T10:31:01+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/61267cd3-2dc3-3128-a875-f1c08b5de4d8?format=auto&s=d23b3e1aba74b9e11be8672d94fe8e1e23197fd4&w=1000",
+        "sv": {
+          "title": "Kristersson fåordig på väg in till talmannen"
+        },
+        "en": {
+          "title": "Kristersson tight-lipped on way to the Speaker"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T10:31:08+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "734284657df1",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/kristersson-redo-for-omrostning-kanske-inte-ar-helt-omojligt",
+          "published_at": "2026-11-24T11:45:07+01:00",
+          "sv": {
+            "title": "Kristersson redo för omröstning: ”Kanske inte är helt omöjligt”"
+          },
+          "en": {
+            "title": "Kristersson ready for vote: \"Perhaps not entirely impossible\""
+          }
+        },
+        {
+          "id": "67e5b780b678",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/7DYOfUVnubSFiRjNYx1dMn/kristersson-beredd-att-proeva-en-borgerlig-mittenregering",
+          "published_at": "2026-11-24T11:44:30+01:00",
+          "sv": {
+            "title": "Kristersson beredd att pröva en ”borgerlig mittenregering”"
+          },
+          "en": {
+            "title": "Kristersson prepared to test a \"centre-right middle government\""
+          }
+        },
+        {
+          "id": "6df2f887d9ec",
+          "source": "svd",
+          "url": "https://www.svd.se/a/oMpgWR/riktar-anklagelser-mot-v-vill-inte-forhandla",
+          "published_at": "2026-11-24T11:35:00+01:00",
+          "sv": {
+            "title": "Kristersson redo att prövas – efter C:s sidbyte"
+          },
+          "en": {
+            "title": "Kristersson ready to be tested – after C's change of sides"
+          }
+        },
+        {
+          "id": "1f766bfefd36",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/kristersson-m-beredd-att-provas-som-statsminister",
+          "published_at": "2026-11-24T11:33:34+01:00",
+          "sv": {
+            "title": "Kristersson (M): Beredd att prövas som statsminister"
+          },
+          "en": {
+            "title": "Ulf Kristersson (M): Ready to be tested as prime minister"
+          }
+        },
+        {
+          "id": "da97b47ea7ca",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348940",
+          "published_at": "2026-11-24T11:24:00+01:00",
+          "sv": {
+            "title": "Kristersson redo för omröstning: Beredd att prövas"
+          },
+          "en": {
+            "title": "Kristersson ready for vote: Prepared to be tested"
+          }
+        },
+        {
+          "id": "fe552899223b",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/kMJ9VQ/kristersson-beredd-att-prova",
+          "published_at": "2026-11-24T11:07:13+01:00",
+          "sv": {
+            "title": "Kristersson redo för statsministeromröstning"
+          },
+          "en": {
+            "title": "Kristersson ready for prime ministerial vote"
+          }
+        },
+        {
+          "id": "c7dec62c53d7",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/ulf-kristersson-efter-motet-med-talmannen",
+          "published_at": "2026-11-24T11:05:02+01:00",
+          "sv": {
+            "title": "Ulf Kristersson efter mötet med talmannen"
+          },
+          "en": {
+            "title": "Ulf Kristersson after meeting with the Speaker"
+          }
+        },
+        {
+          "id": "f978686e9172",
+          "source": "svd",
+          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80246",
+          "published_at": "2026-11-24T10:16:21+01:00",
+          "sv": {
+            "title": "Kristersson: Beredd att pröva fyrpartiregering"
+          },
+          "en": {
+            "title": "Kristersson: Prepared to test four-party government"
+          }
+        },
+        {
+          "id": "d1981b21c099",
+          "source": "svd",
+          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80243",
+          "published_at": "2026-11-24T10:16:21+01:00",
+          "sv": {
+            "title": "Kristersson fåordig på väg in till talmannen"
+          },
+          "en": {
+            "title": "Kristersson tight-lipped on way to the Speaker"
+          }
+        }
+      ]
+    },
     {
       "id": "f15341d7f968",
       "source_count": 5,
@@ -559,116 +708,6 @@
       ]
     },
     {
-      "id": "d1981b21c099",
-      "source_count": 4,
-      "sources": [
-        "svd",
-        "expressen",
-        "sr",
-        "svt"
-      ],
-      "first_published_at": "2026-11-24T10:16:21+01:00",
-      "last_published_at": "2026-11-24T11:35:00+01:00",
-      "lead": {
-        "id": "d1981b21c099",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80243",
-        "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80243&utm_medium=rss",
-        "published_at": "2026-11-24T10:16:21+01:00",
-        "fetched_at": "2026-11-24T10:31:01+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/61267cd3-2dc3-3128-a875-f1c08b5de4d8?format=auto&s=d23b3e1aba74b9e11be8672d94fe8e1e23197fd4&w=1000",
-        "sv": {
-          "title": "Kristersson fåordig på väg in till talmannen"
-        },
-        "en": {
-          "title": "Kristersson tight-lipped on way to the Speaker"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T10:31:08+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "6df2f887d9ec",
-          "source": "svd",
-          "url": "https://www.svd.se/a/oMpgWR/riktar-anklagelser-mot-v-vill-inte-forhandla",
-          "published_at": "2026-11-24T11:35:00+01:00",
-          "sv": {
-            "title": "Kristersson redo att prövas – efter C:s sidbyte"
-          },
-          "en": {
-            "title": "Kristersson ready to be tested – after C's change of sides"
-          }
-        },
-        {
-          "id": "1f766bfefd36",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/kristersson-m-beredd-att-provas-som-statsminister",
-          "published_at": "2026-11-24T11:33:34+01:00",
-          "sv": {
-            "title": "Kristersson (M): Beredd att prövas som statsminister"
-          },
-          "en": {
-            "title": "Ulf Kristersson (M): Ready to be tested as prime minister"
-          }
-        },
-        {
-          "id": "da97b47ea7ca",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348940",
-          "published_at": "2026-11-24T11:24:00+01:00",
-          "sv": {
-            "title": "Kristersson redo för omröstning: Beredd att prövas"
-          },
-          "en": {
-            "title": "Kristersson ready for vote: Prepared to be tested"
-          }
-        },
-        {
-          "id": "c7dec62c53d7",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/ulf-kristersson-efter-motet-med-talmannen",
-          "published_at": "2026-11-24T11:05:02+01:00",
-          "sv": {
-            "title": "Ulf Kristersson efter mötet med talmannen"
-          },
-          "en": {
-            "title": "Ulf Kristersson after meeting with the Speaker"
-          }
-        },
-        {
-          "id": "f978686e9172",
-          "source": "svd",
-          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80246",
-          "published_at": "2026-11-24T10:16:21+01:00",
-          "sv": {
-            "title": "Kristersson: Beredd att pröva fyrpartiregering"
-          },
-          "en": {
-            "title": "Kristersson: Prepared to test four-party government"
-          }
-        },
-        {
-          "id": "d1981b21c099",
-          "source": "svd",
-          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80243",
-          "published_at": "2026-11-24T10:16:21+01:00",
-          "sv": {
-            "title": "Kristersson fåordig på väg in till talmannen"
-          },
-          "en": {
-            "title": "Kristersson tight-lipped on way to the Speaker"
-          }
-        }
-      ]
-    },
-    {
       "id": "1a6f5899ec1b",
       "source_count": 4,
       "sources": [
@@ -1063,6 +1102,82 @@
           },
           "en": {
             "title": "V: ”We regret C's switch of sides”"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6b4d058be6f7",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svt",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-24T11:43:47+01:00",
+      "last_published_at": "2026-11-24T11:46:59+01:00",
+      "lead": {
+        "id": "6b4d058be6f7",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/GPGEdQ/lakare-haktad-misstankt-for-valdtakt",
+        "guid": "https://www.aftonbladet.se/nyheter/a/GPGEdQ/lakare-haktad-misstankt-for-valdtakt?utm_medium=rss",
+        "published_at": "2026-11-24T11:43:47+01:00",
+        "fetched_at": "2026-11-24T11:45:46+01:00",
+        "category": "crime",
+        "image_url": "https://akamai.vgc.no/v2/images/10c11994-9865-3be6-ad68-31971eb24513?format=auto&s=c9a01677934719de7ab94a28ab7a4e47c313c3a3&w=1000",
+        "sv": {
+          "title": "Läkare häktad misstänkt för våldtäkt",
+          "summary": "En läkare har häktats på sannolika skäl misstänkt för en våldtäkt som ska ha skett på sjukhuset i…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Doctor remanded in custody on suspicion of rape",
+          "summary": "A doctor has been remanded in custody on probable cause, suspected of a rape that allegedly took place at the hospital in…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T11:46:03+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "68ac545a6d72",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/lakare-haktad-misstankt-for-valdtakt",
+          "published_at": "2026-11-24T11:46:59+01:00",
+          "sv": {
+            "title": "Läkare häktad misstänkt för våldtäkt"
+          },
+          "en": {
+            "title": "Doctor remanded in custody on suspicion of rape"
+          }
+        },
+        {
+          "id": "066032135d7a",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vastmanland/lakare-misstankt-for-valdtakt-pa-sjukhuset-i-vasteras",
+          "published_at": "2026-11-24T11:44:34+01:00",
+          "sv": {
+            "title": "Läkare misstänkt för våldtäkt på sjukhuset i Västerås"
+          },
+          "en": {
+            "title": "Doctor suspected of rape at hospital in Västerås"
+          }
+        },
+        {
+          "id": "6b4d058be6f7",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/GPGEdQ/lakare-haktad-misstankt-for-valdtakt",
+          "published_at": "2026-11-24T11:43:47+01:00",
+          "sv": {
+            "title": "Läkare häktad misstänkt för våldtäkt"
+          },
+          "en": {
+            "title": "Doctor remanded in custody on suspicion of rape"
           }
         }
       ]
@@ -1829,6 +1944,69 @@
       ]
     },
     {
+      "id": "4a05d9a156e5",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-24T11:37:59+01:00",
+      "last_published_at": "2026-11-24T11:47:34+01:00",
+      "lead": {
+        "id": "4a05d9a156e5",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/0vn61B/pave-franciskus-i-sin-dagbok-sag-djavulen",
+        "guid": "https://www.aftonbladet.se/nyheter/a/0vn61B/pave-franciskus-i-sin-dagbok-sag-djavulen?utm_medium=rss",
+        "published_at": "2026-11-24T11:37:59+01:00",
+        "fetched_at": "2026-11-24T11:45:46+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/07c8c727-fa63-3116-925e-df404e1d8dc3?format=auto&s=b4e12581b066a3f0f2a8d9dd88ccfc2596f2fd5d&w=1000",
+        "sv": {
+          "title": "Påve Franciskus i sin dagbok: ”Såg djävulen”",
+          "summary": "Påve Franciskus såg djävulen vid tre tillfällen – och en gång även ”helvetets portar”.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Pope Francis in his diary: “Saw the devil”",
+          "summary": "Pope Francis saw the devil on three occasions – and once also “the gates of hell”."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T11:46:03+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "c174305652f2",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/pave-franciskus-i-sin-dagbok-sag-djavulen",
+          "published_at": "2026-11-24T11:47:34+01:00",
+          "sv": {
+            "title": "Påve Franciskus i sin dagbok: ”Såg djävulen”"
+          },
+          "en": {
+            "title": "Pope Francis in his diary: \"Saw the devil\""
+          }
+        },
+        {
+          "id": "4a05d9a156e5",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/0vn61B/pave-franciskus-i-sin-dagbok-sag-djavulen",
+          "published_at": "2026-11-24T11:37:59+01:00",
+          "sv": {
+            "title": "Påve Franciskus i sin dagbok: ”Såg djävulen”"
+          },
+          "en": {
+            "title": "Pope Francis in his diary: “Saw the devil”"
+          }
+        }
+      ]
+    },
+    {
       "id": "465f820d762b",
       "source_count": 2,
       "sources": [
@@ -2083,6 +2261,66 @@
       ]
     },
     {
+      "id": "bc9e35a4d1b8",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-24T10:16:21+01:00",
+      "last_published_at": "2026-11-24T11:05:02+01:00",
+      "lead": {
+        "id": "bc9e35a4d1b8",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80248",
+        "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80248&utm_medium=rss",
+        "published_at": "2026-11-24T10:16:21+01:00",
+        "fetched_at": "2026-11-24T11:59:05+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/1954153b-cebd-34d4-8e2e-1ee63a148ab6?format=auto&s=5a371a37903900f3a7262c79d2a1487b44ab9e16&w=1000",
+        "sv": {
+          "title": "Kristersson: Beredd att pröva fyrpartiregering"
+        },
+        "en": {
+          "title": "Kristersson: Prepared to test four-party government"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T11:59:14+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "45b9a5d70638",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/kristersson-beredd-att-provas-i-statsministeromrostning",
+          "published_at": "2026-11-24T11:05:02+01:00",
+          "sv": {
+            "title": "Ulf Kristersson efter mötet med talmannen"
+          },
+          "en": {
+            "title": "Ulf Kristersson after meeting with the Speaker"
+          }
+        },
+        {
+          "id": "bc9e35a4d1b8",
+          "source": "svd",
+          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80248",
+          "published_at": "2026-11-24T10:16:21+01:00",
+          "sv": {
+            "title": "Kristersson: Beredd att pröva fyrpartiregering"
+          },
+          "en": {
+            "title": "Kristersson: Prepared to test four-party government"
+          }
+        }
+      ]
+    },
+    {
       "id": "5e090631b62e",
       "source_count": 2,
       "sources": [
@@ -2267,194 +2505,6 @@
           },
           "en": {
             "title": "Global AI rally – but down on the Stockholm Stock Exchange"
-          }
-        }
-      ]
-    },
-    {
-      "id": "6aba51595ce2",
-      "source_count": 2,
-      "sources": [
-        "dn",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T05:12:15+01:00",
-      "last_published_at": "2026-11-24T09:00:58+01:00",
-      "lead": {
-        "id": "6aba51595ce2",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/ledare/vi-kan-inte-bara-skylla-ifran-oss-nar-klimatmotet-misslyckas",
-        "guid": "https://www.dn.se/ledare/vi-kan-inte-bara-skylla-ifran-oss-nar-klimatmotet-misslyckas/",
-        "published_at": "2026-11-24T05:12:15+01:00",
-        "fetched_at": "2026-11-24T05:15:43+01:00",
-        "category": "world",
-        "image_url": "https://static.bonniernews.se/ba/0f8ed6d5-83f8-46a2-aab6-895c9a3cabac.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Ledare: Vi kan inte bara skylla ifrån oss när klimatmötet misslyckas",
-          "summary": "USA vill inte vara med och oljeländer blockerar seriös politik. Men inte ens länderna som är bäst i klassen när det gäller omställningen imponerar.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Editorial: We cannot just blame others when the climate summit fails",
-          "summary": "The US does not want to take part and oil countries block serious policy. But not even the countries that are best in class when it comes to the transition impress."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T05:16:01+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "7dd85d0f5220",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/klimatmotet-blev-ett-fiasko-det-hander-nu",
-          "published_at": "2026-11-24T09:00:58+01:00",
-          "sv": {
-            "title": "Klimatmötet blev ett fiasko – det händer nu"
-          },
-          "en": {
-            "title": "The climate summit was a fiasco – here is what happens now"
-          }
-        },
-        {
-          "id": "6aba51595ce2",
-          "source": "dn",
-          "url": "https://www.dn.se/ledare/vi-kan-inte-bara-skylla-ifran-oss-nar-klimatmotet-misslyckas",
-          "published_at": "2026-11-24T05:12:15+01:00",
-          "sv": {
-            "title": "Ledare: Vi kan inte bara skylla ifrån oss när klimatmötet misslyckas"
-          },
-          "en": {
-            "title": "Editorial: We cannot just blame others when the climate summit fails"
-          }
-        }
-      ]
-    },
-    {
-      "id": "54f106cc1adf",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-24T08:51:48+01:00",
-      "last_published_at": "2026-11-24T08:51:48+01:00",
-      "lead": {
-        "id": "54f106cc1adf",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/dJOWmO/beraknat-ryskt-dodstal-skrivs-upp-rejalt",
-        "guid": "https://www.aftonbladet.se/nyheter/a/dJOWmO/beraknat-ryskt-dodstal-skrivs-upp-rejalt?utm_medium=rss",
-        "published_at": "2026-11-24T08:51:48+01:00",
-        "fetched_at": "2026-11-24T09:01:09+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/fdb3525e-4621-37b6-97d2-32cb8ed75e13?format=auto&s=6fcf3b8d1619974053972eb992ed2d39fab2f918&w=1000",
-        "sv": {
-          "title": "Beräknat ryskt dödstal skrivs upp rejält",
-          "summary": "Hundratusentals ryska soldater har stupat i invasionskriget i Ukraina.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Estimated Russian death toll revised sharply upward",
-          "summary": "Hundreds of thousands of Russian soldiers have been killed in the invasion of Ukraine."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T09:01:17+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "7f27d745d627",
-          "source": "svd",
-          "url": "https://www.svd.se/a/Jno9EJ/beraknat-ryskt-dodstal-skrivs-upp-rejalt",
-          "published_at": "2026-11-24T08:51:48+01:00",
-          "sv": {
-            "title": "Beräknat ryskt dödstal skrivs upp rejält"
-          },
-          "en": {
-            "title": "Estimated Russian death toll revised sharply upward"
-          }
-        },
-        {
-          "id": "54f106cc1adf",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/dJOWmO/beraknat-ryskt-dodstal-skrivs-upp-rejalt",
-          "published_at": "2026-11-24T08:51:48+01:00",
-          "sv": {
-            "title": "Beräknat ryskt dödstal skrivs upp rejält"
-          },
-          "en": {
-            "title": "Estimated Russian death toll revised sharply upward"
-          }
-        }
-      ]
-    },
-    {
-      "id": "e907d5f72cc1",
-      "source_count": 2,
-      "sources": [
-        "sr",
-        "di"
-      ],
-      "first_published_at": "2026-11-24T07:00:00+01:00",
-      "last_published_at": "2026-11-24T07:55:46+01:00",
-      "lead": {
-        "id": "e907d5f72cc1",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9348722",
-        "guid": "rss:sr.se/article/9348722",
-        "published_at": "2026-11-24T07:00:00+01:00",
-        "fetched_at": "2026-11-24T07:15:41+01:00",
-        "category": "economy",
-        "sv": {
-          "title": "Flera utredningar mot Jensen Huang på gång – Trump-koppling kan granskas",
-          "summary": "USAs kongress förbereder flera utredningar mot techföretaget Nvidias grundare Jensen Huang, efter att han tagits tillbaka som VD för bolaget trots sin affär med en misstänkt kinesisk spion. Kongressen väntas också granska president Trumps ekonomiska kopplingar till Nvidia.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Several investigations into Jensen Huang in the works – Trump connection could be examined",
-          "summary": "The US Congress is preparing several investigations into Nvidia founder Jensen Huang, after he was reinstated as CEO of the company despite his deal with a suspected Chinese spy. Congress is also expected to examine President Trump's financial ties to Nvidia."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T07:15:57+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "f4f00db987b2",
-          "source": "di",
-          "url": "https://www.di.se/live/kritiken-mot-huangs-aterkomst-styrelsen-saknar-ryggrad",
-          "published_at": "2026-11-24T07:55:46+01:00",
-          "sv": {
-            "title": "Kritiken mot Huangs återkomst: ”Styrelsen saknar ryggrad”"
-          },
-          "en": {
-            "title": "Criticism of Huang's return: \"The board totally lacks backbone\""
-          }
-        },
-        {
-          "id": "e907d5f72cc1",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348722",
-          "published_at": "2026-11-24T07:00:00+01:00",
-          "sv": {
-            "title": "Flera utredningar mot Jensen Huang på gång – Trump-koppling kan granskas"
-          },
-          "en": {
-            "title": "Several investigations into Jensen Huang in the works – Trump connection could be examined"
           }
         }
       ]

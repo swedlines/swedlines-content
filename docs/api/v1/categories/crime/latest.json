@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-24T11:46:08+01:00",
+  "generated_at": "2026-11-24T11:59:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "68ac545a6d72",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/lakare-haktad-misstankt-for-valdtakt",
+      "guid": "6a5ffb9c-c87d-4965-8dab-3c23cfa71279",
+      "published_at": "2026-11-24T11:46:59+01:00",
+      "fetched_at": "2026-11-24T11:59:07+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/db3108c0-cf6d-4fcc-ba37-f6e3de1b4183.jpg?width=600",
+      "sv": {
+        "title": "Läkare häktad misstänkt för våldtäkt",
+        "summary": "En läkare har häktats på sannolika skäl misstänkt för en våldtäkt som ska ha skett på sjukhuset i Västerås, rapporterar P4 Västmanland.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Doctor remanded in custody on suspicion of rape",
+        "summary": "A doctor has been remanded in custody on probable cause on suspicion of a rape that allegedly took place at the hospital in Västerås, reports P4 Västmanland."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:59:14+01:00"
+      }
+    },
+    {
+      "id": "066032135d7a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/lakare-misstankt-for-valdtakt-pa-sjukhuset-i-vasteras",
+      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/lakare-misstankt-for-valdtakt-pa-sjukhuset-i-vasteras",
+      "published_at": "2026-11-24T11:44:34+01:00",
+      "fetched_at": "2026-11-24T11:59:03+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Läkare misstänkt för våldtäkt på sjukhuset i Västerås",
+        "summary": "En man häktades under tisdagen misstänkt för våldtäkt inne på sjukhuset i Västerås. – Målsägaren har fått hjälp att göra en polisanmälan, säger åklagare Jessica Wenna som i övrigt är förtegen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Doctor suspected of rape at hospital in Västerås",
+        "summary": "A man was remanded in custody on Tuesday on suspicion of rape inside the hospital in Västerås. – The complainant has been helped to file a police report, says prosecutor Jessica Wenna, who otherwise remains tight-lipped."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:59:14+01:00"
+      }
+    },
     {
       "id": "6b4d058be6f7",
       "schema_version": 1,
@@ -5376,62 +5429,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "4c3bf059ce3d",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/sapo-extremt-grovt-vald-i-sociala-medier-nar-mycket-unga",
-      "guid": "https://www.dn.se/sverige/sapo-extremt-grovt-vald-i-sociala-medier-nar-mycket-unga/",
-      "published_at": "2026-11-19T15:14:49+01:00",
-      "fetched_at": "2026-11-19T15:15:41+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/4158157a-858a-4420-aba5-d34c1f1e8809.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Säpo: Extremt grovt våld i sociala medier når mycket unga",
-        "summary": "En 19-åring i Halmstad ställs inför rätta för terrorplaner efter att ha tagit del av otaliga videoklipp på avrättningar online. Extremt grovt material når allt fler unga i sociala medier, menar enligt Fredrik Hallström, operativ chef på Säkerhetspolisen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Säpo: Extremely Severe Violence on Social Media Reaches Very Young People",
-        "summary": "A 19-year-old in Halmstad is going on trial for terror plans after viewing countless online videos of executions. Extremely graphic material is reaching more and more young people on social media, according to Fredrik Hallström, operational chief at the Security Service (Säpo)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:15:49+01:00"
-      }
-    },
-    {
-      "id": "d4b3130580ff",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1SfSnaOWJlF3gNvwymh3Co/sigtunaeleverna-kraektes-av-foernedringarna-tortyrliknande",
-      "guid": "1SfSnaOWJlF3gNvwymh3Co",
-      "published_at": "2026-11-19T14:21:43+01:00",
-      "fetched_at": "2026-11-19T14:30:59+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Brott och straff"
-      ],
-      "sv": {
-        "title": "Sigtunaeleverna kräktes av förnedringarna: ”Tortyrliknande”",
-        "summary": "Sex manliga elever som går tredje året på gymnasiet på SSHL, Sigtunaskolan Humanistiska Läroverket, åtalades i dag. Två av dem ska ha varit särskilt drivande och misstänks för en rad grova brott som rubriceras som grovt sexuellt ofredande, grov misshandel och grovt olaga tvång.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sigtuna pupils vomited over the humiliations: \"Torture-like\"",
-        "summary": "Six male pupils in the third year of upper secondary school at SSHL, Sigtunaskolan Humanistiska Läroverket, were charged today. Two of them are said to have been particularly instrumental and are suspected of a series of serious crimes classified as aggravated sexual molestation, aggravated assault and aggravated unlawful coercion."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T14:31:07+01:00"
       }
     }
   ]

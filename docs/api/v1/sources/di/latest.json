@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T11:46:08+01:00",
+  "generated_at": "2026-11-24T11:59:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "734284657df1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/kristersson-redo-for-omrostning-kanske-inte-ar-helt-omojligt",
+      "guid": "f5c495f7-62c8-49b3-942d-aabaaea58451",
+      "published_at": "2026-11-24T11:45:07+01:00",
+      "fetched_at": "2026-11-24T11:59:06+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/cf45c23e-b327-4be1-90d9-bd28dc725ba5.jpeg?width=600",
+      "sv": {
+        "title": "Kristersson redo för omröstning: ”Kanske inte är helt omöjligt”",
+        "summary": "Ulf Kristersson (M) är redo för en statsministeromröstning. ”Jag är beredd att pröva om en borgerlig regering kan tolereras av riksdagen”, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson ready for vote: \"Perhaps not entirely impossible\"",
+        "summary": "Ulf Kristersson (M) is ready for a prime ministerial vote. \"I am prepared to test whether a centre-right government can be tolerated by the Riksdag,\" he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:59:14+01:00"
+      }
+    },
     {
       "id": "ca4552728ece",
       "schema_version": 1,
@@ -5290,33 +5317,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T09:31:16+01:00"
-      }
-    },
-    {
-      "id": "3f851182feb0",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/borsen-studsar-upp-efter-ai-frossan",
-      "guid": "170864bc-9562-4db9-88d2-7743a5938bb3",
-      "published_at": "2026-11-23T09:09:33+01:00",
-      "fetched_at": "2026-11-23T09:15:52+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/facd4a3c-f3fe-46e8-9948-c98fe4174e7f.jpeg?width=600",
-      "sv": {
-        "title": "Börsen studsar upp efter AI-frossan",
-        "summary": "Stockholmsbörsen studsar upp något efter fredagens branta nedgångar och fem handelsdagar på rött.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stockholm stocks bounce back after AI rout",
-        "summary": "The Stockholm stock exchange is bouncing back somewhat after Friday's steep declines and five trading days in the red."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T09:15:57+01:00"
       }
     }
   ]
