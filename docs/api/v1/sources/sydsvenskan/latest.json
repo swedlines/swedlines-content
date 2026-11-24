@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T20:31:07+01:00",
+  "generated_at": "2026-11-24T20:45:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "53da231acb8d",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/smittrisk-vid-tandvardsbesok-erbjuds-hivtest",
+      "guid": "33b1e79a-808f-479f-9dca-858ae29af6fc",
+      "published_at": "2026-11-24T20:34:00+01:00",
+      "fetched_at": "2026-11-24T20:45:47+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/166ccd6a-9159-45ca-a52a-efb57dad4c17.jpg?width=600",
+      "sv": {
+        "title": "Smittrisk vid tandvårdsbesök – erbjuds hivtest",
+        "summary": "Region Kronoberg kan inte utesluta att otillräckligt rengjorda instrument lett till smitta av hiv på en tandvårdsmottagning i Växjö. Nu erbjuds omkring 1 500 personer provtagning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Infection risk at dental visit – offered HIV test",
+        "summary": "Region Kronoberg cannot rule out that inadequately cleaned instruments led to HIV transmission at a dental clinic in Växjö. Around 1,500 people are now being offered sampling."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T20:45:50+01:00"
+      }
+    },
     {
       "id": "949514c64d07",
       "schema_version": 1,
@@ -5184,33 +5211,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T23:01:14+01:00"
-      }
-    },
-    {
-      "id": "414f247845f8",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/dygnet-runt/hemvandarkonsert-i-malmo-har-ar-bilderna-fran-timbuktudagen",
-      "guid": "78bdb68c-24af-4fa6-ae43-4e8c577d5710",
-      "published_at": "2026-11-21T22:14:52+01:00",
-      "fetched_at": "2026-11-21T22:15:52+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/4e509c8e-2fd2-4dc8-aaca-569908cf1989.jpeg?width=600",
-      "sv": {
-        "title": "Hemvändarkonsert i Malmö – här är bilderna från Timbuktudagen",
-        "summary": "Under lördagskvällen bjöd Timbuktu in till en ordentlig hemvändarkväll i sin gamla hemstad. På Malmö Arena fick publiken ta del av allt från mat och dryck från lokala producenter, dj-set och flera gästartister. Spelningen, som fått namnet ”Timbuktudagen”, är artistens största konsert någonsin.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Homecoming concert in Malmö – here are the pictures from Timbuktudagen",
-        "summary": "On Saturday evening, Timbuktu invited fans to a major homecoming night in his old hometown. At Malmö Arena, the audience got to experience everything from food and drink from local producers, a DJ set and several guest artists. The show, named \"Timbuktudagen\", is the artist's biggest concert ever."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T22:15:55+01:00"
       }
     }
   ]

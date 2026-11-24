@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T20:31:07+01:00",
+  "generated_at": "2026-11-24T20:45:52+01:00",
   "count": 30,
   "stories": [
     {
@@ -2491,76 +2491,64 @@
       ]
     },
     {
-      "id": "9c6f49c55db5",
-      "source_count": 3,
+      "id": "641209c61d09",
+      "source_count": 2,
       "sources": [
-        "sr",
-        "dn",
-        "expressen"
+        "svd",
+        "sydsvenskan"
       ],
-      "first_published_at": "2026-11-24T05:09:00+01:00",
-      "last_published_at": "2026-11-24T08:39:20+01:00",
+      "first_published_at": "2026-11-24T17:00:12+01:00",
+      "last_published_at": "2026-11-24T20:34:00+01:00",
       "lead": {
-        "id": "9c6f49c55db5",
+        "id": "641209c61d09",
         "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9348584",
-        "guid": "rss:sr.se/article/9348584",
-        "published_at": "2026-11-24T05:09:00+01:00",
-        "fetched_at": "2026-11-24T05:15:43+01:00",
-        "category": "politics",
+        "source": "svd",
+        "url": "https://www.svd.se/a/3BJap0/potentiell-smitta-pa-folktandvarden-i-vaxjo-efter-bristfalligt-rengjorda-instrument-patienter-erbjuds-hivtest",
+        "guid": "https://www.svd.se/a/3BJap0/potentiell-smitta-pa-folktandvarden-i-vaxjo-efter-bristfalligt-rengjorda-instrument-patienter-erbjuds-hivtest?utm_medium=rss",
+        "published_at": "2026-11-24T17:00:12+01:00",
+        "fetched_at": "2026-11-24T17:15:49+01:00",
+        "category": "sweden",
+        "image_url": "https://akamai.vgc.no/v2/images/27e6e383-aa92-382a-b09d-3cf6f6b6206f?format=auto&s=81ee5c805cdb08e75641c3d80502578e51c238c9&w=1000",
         "sv": {
-          "title": "Talmannens täta tisdag – här är vägen till en regering",
-          "summary": "Talman Andreas Norlén träffar på tisdagen partiledarna inför nästa steg mot en ny regering. Ulf Kristersson (M) lämnar sin slutrapport om sonderingsuppdraget.",
-          "summary_origin": "truncated"
+          "title": "Potentiell smitta spreds trots larm från personal",
+          "summary": "Trots att en anställd larmade om brister i maskinrengöringen kunde potentiellt smittförande…",
+          "summary_origin": "feed"
         },
         "en": {
-          "title": "The Speaker's busy Tuesday – here is the path to a government",
-          "summary": "Speaker Andreas Norlén meets the party leaders on Tuesday ahead of the next step towards a new government. Ulf Kristersson (M) submits his final report on the exploratory mission."
+          "title": "Potential infection spread despite alarm from staff",
+          "summary": "Although an employee raised the alarm about shortcomings in machine cleaning, potentially infectious […]"
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T05:16:01+01:00"
+          "translated_at": "2026-11-24T17:15:59+01:00"
         }
       },
       "items": [
         {
-          "id": "5184be08d491",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/talmannen-moter-partiledarna",
-          "published_at": "2026-11-24T08:39:20+01:00",
+          "id": "53da231acb8d",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/smittrisk-vid-tandvardsbesok-erbjuds-hivtest",
+          "published_at": "2026-11-24T20:34:00+01:00",
           "sv": {
-            "title": "Talmannen möter partiledarna"
+            "title": "Smittrisk vid tandvårdsbesök – erbjuds hivtest"
           },
           "en": {
-            "title": "Speaker meets party leaders"
+            "title": "Infection risk at dental visit – offered HIV test"
           }
         },
         {
-          "id": "fb5b0aafe87e",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/talmannen-moter-partiledarna-spackade-schemat",
-          "published_at": "2026-11-24T07:14:12+01:00",
+          "id": "641209c61d09",
+          "source": "svd",
+          "url": "https://www.svd.se/a/3BJap0/potentiell-smitta-pa-folktandvarden-i-vaxjo-efter-bristfalligt-rengjorda-instrument-patienter-erbjuds-hivtest",
+          "published_at": "2026-11-24T17:00:12+01:00",
           "sv": {
-            "title": "Talmannen möter partiledarna – späckade schemat"
+            "title": "Potentiell smitta spreds trots larm från personal"
           },
           "en": {
-            "title": "Party leaders meet the Speaker – packed schedule"
-          }
-        },
-        {
-          "id": "9c6f49c55db5",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348584",
-          "published_at": "2026-11-24T05:09:00+01:00",
-          "sv": {
-            "title": "Talmannens täta tisdag – här är vägen till en regering"
-          },
-          "en": {
-            "title": "The Speaker's busy Tuesday – here is the path to a government"
+            "title": "Potential infection spread despite alarm from staff"
           }
         }
       ]
