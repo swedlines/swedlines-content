@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-24T06:16:10+01:00",
+  "generated_at": "2026-11-24T06:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f600e1d4b420",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/TVspQfc8gZQ43cbrDdf8y/daerfoer-aterupptar-c-hoegersamtalen-sverige-behoever-en-regering",
+      "guid": "TVspQfc8gZQ43cbrDdf8y",
+      "published_at": "2026-11-24T06:28:25+01:00",
+      "fetched_at": "2026-11-24T06:31:00+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Därför återupptar C högersamtalen: ”Sverige behöver en regering”",
+        "summary": "C öppnar för M, KD och L • Gabrielsson: ”Beklagar C:s sidbyte”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is why the Centre Party resumes right-wing talks: \"Sweden needs a government\"",
+        "summary": "C opens to M, KD and L • Gabrielsson: \"Regrets C's switch of sides\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:31:06+01:00"
+      }
+    },
     {
       "id": "f7453a8dee9a",
       "schema_version": 1,
@@ -5329,33 +5358,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T14:31:14+01:00"
-      }
-    },
-    {
-      "id": "2ed9fb00bc45",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/aGw0AL/susanna-popova-identitetsrostande-ar-tillbaka",
-      "guid": "https://www.svd.se/a/aGw0AL/susanna-popova-identitetsrostande-ar-tillbaka?utm_medium=rss",
-      "published_at": "2026-11-21T14:00:00+01:00",
-      "fetched_at": "2026-11-21T14:01:16+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/086b746f-0daa-3196-867a-88c2c19acff6?format=auto&s=803afe599b6536af17c7bc712191b5d0fb1f039d&w=1000",
-      "sv": {
-        "title": "Identitetspolitik 2.0 är här",
-        "summary": "Nu är gruppröstandet tillbaka.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Identity politics 2.0 is here",
-        "summary": "Group voting is back."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T14:01:24+01:00"
       }
     }
   ]

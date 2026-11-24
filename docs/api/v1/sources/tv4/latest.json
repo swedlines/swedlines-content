@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-24T06:16:10+01:00",
+  "generated_at": "2026-11-24T06:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f600e1d4b420",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/TVspQfc8gZQ43cbrDdf8y/daerfoer-aterupptar-c-hoegersamtalen-sverige-behoever-en-regering",
+      "guid": "TVspQfc8gZQ43cbrDdf8y",
+      "published_at": "2026-11-24T06:28:25+01:00",
+      "fetched_at": "2026-11-24T06:31:00+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Därför återupptar C högersamtalen: ”Sverige behöver en regering”",
+        "summary": "C öppnar för M, KD och L • Gabrielsson: ”Beklagar C:s sidbyte”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is why the Centre Party resumes right-wing talks: \"Sweden needs a government\"",
+        "summary": "C opens to M, KD and L • Gabrielsson: \"Regrets C's switch of sides\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:31:06+01:00"
+      }
+    },
     {
       "id": "3b6816c64ae3",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T11:00:46+01:00"
-      }
-    },
-    {
-      "id": "940f1098041c",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3MYwZmsspOpoMR2I7LHKCo/thand-ringqvist-c-extraval-aer-hela-tiden-ett-alternativ",
-      "guid": "3MYwZmsspOpoMR2I7LHKCo",
-      "published_at": "2026-11-16T09:38:35+01:00",
-      "fetched_at": "2026-11-16T09:45:42+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Svensk politik"
-      ],
-      "sv": {
-        "title": "Thand Ringqvist (C): ”Extraval är hela tiden ett alternativ”",
-        "summary": "C-ledaren stänger inte dörren mot M",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Thand Ringqvist (C): \"Snap election is still an option at all times\"",
-        "summary": "The C leader does not shut the door on M"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:45:49+01:00"
       }
     }
   ]
