@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T19:31:07+01:00",
+  "generated_at": "2026-11-24T19:40:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f370c35ca63b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/saljer-kalsonger-for-2-000-kronor-paret",
+      "guid": "https://www.expressen.se/nyheter/sverige/saljer-kalsonger-for-2-000-kronor-paret/",
+      "published_at": "2026-11-24T19:31:59+01:00",
+      "fetched_at": "2026-11-24T19:40:08+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Säljer kalsonger för 2 000 kronor paret",
+        "summary": "Hundra rosor och mullbärssilke. Vad det blir av det? Ett par kalsonger – som kostar 2 000 kronor styck. – Det är kvinnor som är målgruppen, säger baddräktsikonen Panos Papadopoulos.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sells underpants for SEK 2,000 a pair",
+        "summary": "A hundred roses and mulberry silk. What will come of it? A pair of underpants that cost SEK 2,000 each. \"It's women who are the target group,\" says swimwear icon Panos Papadopoulos."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T19:40:12+01:00"
+      }
+    },
     {
       "id": "692f65f1fedc",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T07:51:37+01:00"
-      }
-    },
-    {
-      "id": "51eb410bdb4c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/barn-dodades-i-attacken-mot-zelenskyjs-hemstad",
-      "guid": "https://www.expressen.se/nyheter/varlden/barn-dodades-i-attacken-mot-zelenskyjs-hemstad/",
-      "published_at": "2026-11-21T07:28:18+01:00",
-      "fetched_at": "2026-11-21T07:31:03+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Barn dödades i attacken mot Zelenskyjs hemstad",
-        "summary": "Under fredagskvällen – på internationella barndagen – bombade Ryssland Zelenskyjs hemstad och en sjuårig pojke rapporteras ha dödats när han var ute och lekte, rapporterar Kiev Independent. När ambulansvårdare kom bombades även dem.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Child killed in attack on Zelenskyy's hometown",
-        "summary": "On Friday evening – on International Children's Day – Russia bombed Zelenskyy's hometown and a seven-year-old boy is reported to have been killed while playing outside, according to the Kyiv Independent. Paramedics were also bombed when they arrived."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T07:31:10+01:00"
       }
     }
   ]
