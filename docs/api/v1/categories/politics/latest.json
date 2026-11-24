@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-24T05:45:53+01:00",
+  "generated_at": "2026-11-24T06:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a2ed2153fbb2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/vellinge/hur-stor-buffert-behovs-oenigt-nar-satsningarna-klubbades",
+      "guid": "404037e6-b2a7-447c-8156-83bf5b35d701",
+      "published_at": "2026-11-24T06:00:00+01:00",
+      "fetched_at": "2026-11-24T06:01:19+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/6a65520d-1b0f-4dd0-986c-54bf20dd37b6.jpeg?width=600",
+      "sv": {
+        "title": "Hur stor buffert behövs? – oenigt när satsningarna klubbades",
+        "summary": "Det blev ingen skattesänkning i år heller. På måndagen klubbades Moderaternas budgetförslag igenom i fullmäktige. Debatten kom att kretsa kring hur stort överskott kommunen egentligen behöver göra.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How big a buffer is needed? – disagreement as the investments were approved",
+        "summary": "There was no tax cut this year either. On Monday the Moderates' budget proposal was approved by the municipal council. The debate centred on how large a surplus the municipality actually needs to build."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:01:24+01:00"
+      }
+    },
+    {
+      "id": "dd6ff326e5df",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdPGMM/demoskop-regeringskaoset-gynnar-m-rusar-framat-i-ny-matning",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdPGMM/demoskop-regeringskaoset-gynnar-m-rusar-framat-i-ny-matning?utm_medium=rss",
+      "published_at": "2026-11-24T05:59:56+01:00",
+      "fetched_at": "2026-11-24T06:01:16+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/e29aa18d-90c6-3674-9747-0cbebf1bd7ee?format=auto&s=7f8328f9ad23a74780e070f96cbc3413c8523e9b&w=1000",
+      "sv": {
+        "title": "Demoskop: Regeringskaoset gynnar M - rusar framåt",
+        "summary": "Aftonbladet/demoskop ✓ ”Kläms” från två håll",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Demoskop: Government chaos benefits the Moderates – surging ahead",
+        "summary": "Aftonbladet/Demoskop ✓ “Squeezed” from two sides"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:01:24+01:00"
+      }
+    },
     {
       "id": "9c6f49c55db5",
       "schema_version": 1,
@@ -5302,60 +5356,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T12:45:59+01:00"
-      }
-    },
-    {
-      "id": "4d7583ed85a4",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/mMRdyp/tung-c-topp-stottar-kristersson",
-      "guid": "https://www.aftonbladet.se/nyheter/a/mMRdyp/tung-c-topp-stottar-kristersson?utm_medium=rss",
-      "published_at": "2026-11-21T12:16:58+01:00",
-      "fetched_at": "2026-11-21T12:45:52+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/a6aa8541-3a42-32cc-b7b4-abd4c19d7488?format=auto&s=c5638e993c007dcedba318b198ee6690eb40e5bc&w=1000",
-      "sv": {
-        "title": "C-topp stöttar Kristersson – efter infekterade bråket",
-        "summary": "C-toppen uttalar sig om förhandlingarna",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party leadership backs Kristersson – after the bitter infighting",
-        "summary": "The Centre Party leadership comments on the negotiations"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T12:45:59+01:00"
-      }
-    },
-    {
-      "id": "6f0095c34cea",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/WmbBea/wiesner-c-v-inte-beredda-att-kompromissa",
-      "guid": "https://www.aftonbladet.se/nyheter/a/WmbBea/wiesner-c-v-inte-beredda-att-kompromissa?utm_medium=rss",
-      "published_at": "2026-11-21T12:15:37+01:00",
-      "fetched_at": "2026-11-21T12:31:06+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/ebb39e49-590a-38ab-9f24-4b88e5e9257b?format=auto&s=25168d415f46868eef40c366f54e9bbe1a002743&w=1000",
-      "sv": {
-        "title": "C-profil vill samarbeta med Kristersson – låst läge",
-        "summary": "Centerpartiets EU-parlamentariker Emma Ytterell säger att läget i regeringsförhandlingarna är…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party figure wants to work with Kristersson – deadlock",
-        "summary": "Centre Party MEP Emma Ytterell says the situation in the government negotiations is…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T12:31:12+01:00"
       }
     }
   ]

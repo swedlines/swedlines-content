@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-24T05:45:53+01:00",
+  "generated_at": "2026-11-24T06:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b08f1caa455a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/huvudledare/baksmallan-efter-brexit-slapper-sakta",
+      "guid": "4f057f60-afc3-40f7-b2ca-4cb57fbc6aaa",
+      "published_at": "2026-11-24T05:55:00+01:00",
+      "fetched_at": "2026-11-24T06:01:19+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/b57fd9c1-c8ab-4247-9c32-60e3106bb74b.jpeg?width=600",
+      "sv": {
+        "title": "Baksmällan efter brexit släpper sakta"
+      },
+      "en": {
+        "title": "The hangover after Brexit is slowly fading"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:01:24+01:00"
+      }
+    },
+    {
+      "id": "7419af76db63",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/OypOdb/ukraina-tva-doda-och-manga-skadade-i-attack",
+      "guid": "https://www.aftonbladet.se/nyheter/a/OypOdb/ukraina-tva-doda-och-manga-skadade-i-attack?utm_medium=rss",
+      "published_at": "2026-11-24T05:46:36+01:00",
+      "fetched_at": "2026-11-24T06:01:16+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ukraina: Två döda och många skadade i attack",
+        "summary": "Två personer har dödats och 22 andra skadats i en rysk attack mot Zaporizjzja, uppger Ivan Fedorov…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ukraine: Two dead and many injured in attack",
+        "summary": "Two people have been killed and 22 others injured in a Russian attack on Zaporizhzhia, according to Ivan Fedorov…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:01:24+01:00"
+      }
+    },
     {
       "id": "66a6c757f4c6",
       "schema_version": 1,
@@ -5290,60 +5340,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T03:31:05+01:00"
-      }
-    },
-    {
-      "id": "04ef8308056e",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/aGwxd5/oro-i-kenya-dodsfall-hos-flodhastar-utreds",
-      "guid": "https://www.aftonbladet.se/nyheter/a/aGwxd5/oro-i-kenya-dodsfall-hos-flodhastar-utreds?utm_medium=rss",
-      "published_at": "2026-11-22T03:15:53+01:00",
-      "fetched_at": "2026-11-22T03:31:01+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/3f6123b8-46c5-3513-83ed-1f987aa4c98c?format=auto&s=6cdb164873cd48a202aaa91ac28b30b63537c42b&w=1000",
-      "sv": {
-        "title": "Oro i Kenya – dödsfall hos flodhästar utreds",
-        "summary": "Kenya utreder flera händelser där flodhästar tros ha dött efter att ha fått i sig olämplig föda.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Concern in Kenya – hippo deaths under investigation",
-        "summary": "Kenya is investigating several incidents in which hippos are believed to have died after ingesting unsuitable food."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T03:31:05+01:00"
-      }
-    },
-    {
-      "id": "5839c86c2e8c",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/z0Gywv/klimattoppmote-drar-ut-pa-tiden",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/z0Gywv/klimattoppmote-drar-ut-pa-tiden?utm_medium=rss",
-      "published_at": "2026-11-22T02:29:26+01:00",
-      "fetched_at": "2026-11-22T11:01:11+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/efddd14c-c7c5-3e44-b87c-fc32d7e16305?format=auto&s=3bd0402886b44559a86bd0b398cc31e462230455&w=1000",
-      "sv": {
-        "title": "COP31: Tyskland säger nej till klimatutkast",
-        "summary": "COP31 Flera länder kritiska",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "COP31: Germany says no to climate draft",
-        "summary": "COP31 Several countries critical"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T11:01:18+01:00"
       }
     }
   ]
