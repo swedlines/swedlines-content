@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-24T11:01:18+01:00",
+  "generated_at": "2026-11-24T11:16:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c7dec62c53d7",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/ulf-kristersson-efter-motet-med-talmannen",
+      "guid": "https://www.expressen.se/nyheter/politik/ulf-kristersson-efter-motet-med-talmannen/",
+      "published_at": "2026-11-24T11:05:02+01:00",
+      "fetched_at": "2026-11-24T11:15:52+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Ulf Kristersson efter mötet med talmannen",
+        "summary": "Under tisdagen pågår en ny talmansrunda. Efter mötet håller Ulf Kristersson en pressträff. – Nu har jag rapporterat mitt sonderingsuppdrag, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ulf Kristersson after meeting with the Speaker",
+        "summary": "A new round of talks with the Speaker is under way on Tuesday. After the meeting, Ulf Kristersson holds a press conference. “I have now reported on my exploratory mission,” he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:16:01+01:00"
+      }
+    },
+    {
+      "id": "e544986febc3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/tydligt-att-s-har-gett-upp",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/tydligt-att-s-har-gett-upp/",
+      "published_at": "2026-11-24T11:03:44+01:00",
+      "fetched_at": "2026-11-24T11:15:52+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Tydligt att S har gett upp",
+        "summary": "Magdalena Anderssons pressträff på tisdagen lät som ett avskedstal. Kanske inte till partiledarposten, än, men väl till regeringsbildningen 2026.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Clear that the Social Democrats have given up",
+        "summary": "Magdalena Andersson's press conference on Tuesday sounded like a farewell speech. Perhaps not as party leader, not yet, but certainly as regards the government formation in 2026."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:16:01+01:00"
+      }
+    },
     {
       "id": "32c1d7f04c46",
       "schema_version": 1,
@@ -5145,58 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T19:45:51+01:00"
-      }
-    },
-    {
-      "id": "1cbf63217edd",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/kungligt/estelles-skola-hanades-i--pa-sparet-i-svt-svaret",
-      "guid": "https://www.expressen.se/nyheter/kungligt/estelles-skola-hanades-i--pa-sparet-i-svt-svaret/",
-      "published_at": "2026-11-20T19:21:08+01:00",
-      "fetched_at": "2026-11-20T19:31:07+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Estelles skola hånades i ”På spåret” i SVT – svaret",
-        "summary": "”Snobbskola” var ledtråden när ”På spåret” skulle till Filippinernas huvudstad. Nu slår Campus Manillas skolchef tillbaka. – Jag tycker att det är orättvist mot våra elever, säger Martin Malmberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estelle's school mocked on \"På spåret\" on SVT – the response",
-        "summary": "\"Snobbskola\" was the clue when \"På spåret\" was about the capital of the Philippines. Now the head of Campus Manila hits back. – I think it is unfair to our pupils, says Martin Malmberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T19:31:14+01:00"
-      }
-    },
-    {
-      "id": "b228db9995d4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trumps-tullhot-mot-amerikanska-foretag",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumps-tullhot-mot-amerikanska-foretag/",
-      "published_at": "2026-11-20T18:55:15+01:00",
-      "fetched_at": "2026-11-20T19:01:24+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Trumps tullhot – mot amerikanska företag",
-        "summary": "Donald Trump förbjuder amerikanska företag från att bygga datacenter i andra länder än USA. – Den som vinner AI vinner allt, säger Donald Trump på en pressträff på fredagen. Företag som går emot honom hotas med strafftullar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump's tariff threat – against American companies",
-        "summary": "Donald Trump bans American companies from building data centres in countries other than the USA. – The one who wins AI wins everything, says Donald Trump at a press conference on Friday. Companies that go against him are threatened with punitive tariffs."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T19:01:29+01:00"
       }
     }
   ]

@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-24T11:01:18+01:00",
+  "generated_at": "2026-11-24T11:16:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "88f96c764c26",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6ewh2pjUR5r4yusYFPAgqD/andersson-ingen-foerutsaettning-att-bilda-regering",
+      "guid": "6ewh2pjUR5r4yusYFPAgqD",
+      "published_at": "2026-11-24T11:07:29+01:00",
+      "fetched_at": "2026-11-24T11:15:53+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Andersson: Ingen förutsättning att bilda regering",
+        "summary": "Pekar ut Vänsterpartiet: ”De har inte visat samma vilja till kompromiss”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Andersson: No conditions to form a government",
+        "summary": "Points to the Left Party: “They have not shown the same willingness to compromise”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T11:16:01+01:00"
+      }
+    },
     {
       "id": "5bec90d06c17",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T13:45:57+01:00"
-      }
-    },
-    {
-      "id": "9db8b736f8cf",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/QbtglNTyWpMRLvNt60l1L/detta-vet-vi-om-lockbetena-i-totalpaketen",
-      "guid": "QbtglNTyWpMRLvNt60l1L",
-      "published_at": "2026-11-16T12:37:25+01:00",
-      "fetched_at": "2026-11-16T12:45:48+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Svensk politik"
-      ],
-      "sv": {
-        "title": "Detta vet vi om lockbetena i ”totalpaketen”",
-        "summary": "Punkterna som fick C att välja rödgröna • Då kan C rösta igenom Kristersson",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is what we know about the bait in the \"total packages\"",
-        "summary": "The points that made C choose the red-greens • Then C can vote through Kristersson"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:45:53+01:00"
       }
     }
   ]
