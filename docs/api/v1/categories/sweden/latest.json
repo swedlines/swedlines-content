@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T08:01:20+01:00",
+  "generated_at": "2026-11-24T08:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f99ff749c8a2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7035a9f3-0b2c-4121-8f27-70aad18e270f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7035a9f3-0b2c-4121-8f27-70aad18e270f",
+      "published_at": "2026-11-24T08:02:58+01:00",
+      "fetched_at": "2026-11-24T08:15:46+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Häst har frusit fast",
+        "summary": "Räddningstjänsten på plats på åker",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Horse has frozen fast",
+        "summary": "Rescue service on site at field"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T08:15:52+01:00"
+      }
+    },
     {
       "id": "de3a4cb19c1e",
       "schema_version": 1,
@@ -5439,32 +5465,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T18:01:29+01:00"
-      }
-    },
-    {
-      "id": "e7030fe04892",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/fick-hjarnskadorefter-buskorning--foll-ut-ur-takluckan",
-      "guid": "https://www.expressen.se/nyheter/varlden/fick-hjarnskadorefter-buskorning--foll-ut-ur-takluckan/",
-      "published_at": "2026-11-19T17:37:04+01:00",
-      "fetched_at": "2026-11-19T17:45:47+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Fick hjärnskador efter buskörning – föll ut ur takluckan",
-        "summary": "Platsen är känd som ett ställe där ungdomar samlas med sina bilar. Men 17-åriga Elexis familj trodde inte att hon deltog i buskörningen. – Vi håller desperat fast vid varje hopp att hon ska återhämta sig, säger mamman till lokala medier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Suffered brain injuries after reckless driving – fell out through sunroof",
-        "summary": "The location is known as a place where young people gather with their cars. But 17-year-old Elexis's family did not believe she took part in the reckless driving. – We are desperately holding on to every hope that she will recover, says her mother to local media."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:45:54+01:00"
       }
     }
   ]

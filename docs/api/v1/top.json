@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T08:01:20+01:00",
+  "generated_at": "2026-11-24T08:15:55+01:00",
   "count": 30,
   "stories": [
     {
@@ -1946,6 +1946,68 @@
       ]
     },
     {
+      "id": "e907d5f72cc1",
+      "source_count": 2,
+      "sources": [
+        "sr",
+        "di"
+      ],
+      "first_published_at": "2026-11-24T07:00:00+01:00",
+      "last_published_at": "2026-11-24T07:55:46+01:00",
+      "lead": {
+        "id": "e907d5f72cc1",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9348722",
+        "guid": "rss:sr.se/article/9348722",
+        "published_at": "2026-11-24T07:00:00+01:00",
+        "fetched_at": "2026-11-24T07:15:41+01:00",
+        "category": "economy",
+        "sv": {
+          "title": "Flera utredningar mot Jensen Huang på gång – Trump-koppling kan granskas",
+          "summary": "USAs kongress förbereder flera utredningar mot techföretaget Nvidias grundare Jensen Huang, efter att han tagits tillbaka som VD för bolaget trots sin affär med en misstänkt kinesisk spion. Kongressen väntas också granska president Trumps ekonomiska kopplingar till Nvidia.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Several investigations into Jensen Huang in the works – Trump connection could be examined",
+          "summary": "The US Congress is preparing several investigations into Nvidia founder Jensen Huang, after he was reinstated as CEO of the company despite his deal with a suspected Chinese spy. Congress is also expected to examine President Trump's financial ties to Nvidia."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T07:15:57+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "f4f00db987b2",
+          "source": "di",
+          "url": "https://www.di.se/live/kritiken-mot-huangs-aterkomst-styrelsen-saknar-ryggrad",
+          "published_at": "2026-11-24T07:55:46+01:00",
+          "sv": {
+            "title": "Kritiken mot Huangs återkomst: ”Styrelsen saknar ryggrad”"
+          },
+          "en": {
+            "title": "Criticism of Huang's return: \"The board totally lacks backbone\""
+          }
+        },
+        {
+          "id": "e907d5f72cc1",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9348722",
+          "published_at": "2026-11-24T07:00:00+01:00",
+          "sv": {
+            "title": "Flera utredningar mot Jensen Huang på gång – Trump-koppling kan granskas"
+          },
+          "en": {
+            "title": "Several investigations into Jensen Huang in the works – Trump connection could be examined"
+          }
+        }
+      ]
+    },
+    {
       "id": "306e7c415635",
       "source_count": 2,
       "sources": [
@@ -2466,68 +2528,6 @@
           },
           "en": {
             "title": "Reports: US considers blacklisting Megaspeed"
-          }
-        }
-      ]
-    },
-    {
-      "id": "df033810f719",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "svt"
-      ],
-      "first_published_at": "2026-11-23T22:09:52+01:00",
-      "last_published_at": "2026-11-23T22:56:36+01:00",
-      "lead": {
-        "id": "df033810f719",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
-        "guid": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering/",
-        "published_at": "2026-11-23T22:09:52+01:00",
-        "fetched_at": "2026-11-23T22:15:49+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering",
-          "summary": "Det blir ingen rödgrön regering, tror Maud Olofsson. – Jag tror att de har kommit till vägs ände. De har ju suttit hur länge som helst och diskuterat. Man har inte kommit närmare varandra, säger den tidigare C-ledaren i SVT:s ”Aktuellt”.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government",
-          "summary": "There will be no red-green government, believes Maud Olofsson. \"I think they have reached the end of the road. They have sat for ever and discussed. They have not come closer to each other,\" says the former Centre Party leader on SVT's \"Aktuellt\"."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T22:15:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "461cefe495cc",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/tidigare-c-ledaren-syna-kristersson",
-          "published_at": "2026-11-23T22:56:36+01:00",
-          "sv": {
-            "title": "Tidigare C-ledaren: ”Syna Kristersson”"
-          },
-          "en": {
-            "title": "Former C leader: \"See through Kristersson\""
-          }
-        },
-        {
-          "id": "df033810f719",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
-          "published_at": "2026-11-23T22:09:52+01:00",
-          "sv": {
-            "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering"
-          },
-          "en": {
-            "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government"
           }
         }
       ]

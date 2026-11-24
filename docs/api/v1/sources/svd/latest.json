@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-24T08:01:20+01:00",
+  "generated_at": "2026-11-24T08:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1a6f5899ec1b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp",
+      "guid": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp?utm_medium=rss",
+      "published_at": "2026-11-24T08:08:34+01:00",
+      "fetched_at": "2026-11-24T08:15:45+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/8d9cf713-b42e-3cf8-aaf4-822fdce94642?format=auto&s=d478a3614beebfbb87d29d916402cc0a53a1615f&w=1000",
+      "sv": {
+        "title": "Huang är tillbaka, vad vill Trump ha?"
+      },
+      "en": {
+        "title": "Huang is back, what does Trump want?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T08:15:52+01:00"
+      }
+    },
     {
       "id": "dc3f7099e626",
       "schema_version": 1,
@@ -5215,33 +5239,6 @@
       "en": {
         "title": "This year's cinema weekend – pick and choose from top films",
         "summary": "See Alexander Skarsgård as a lover made of wicker in the fantasy drama \"Wicker\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T22:01:22+01:00"
-      }
-    },
-    {
-      "id": "0abd4d44814c",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/6Pje8L/hugo-rehnberg-varlden-behover-fler-som-vagrar-vara-till-lags",
-      "guid": "https://www.svd.se/a/6Pje8L/hugo-rehnberg-varlden-behover-fler-som-vagrar-vara-till-lags?utm_medium=rss",
-      "published_at": "2026-11-20T21:57:24+01:00",
-      "fetched_at": "2026-11-20T22:01:14+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/fc900aea-14ba-3347-8858-e0cbec267d0f?format=auto&s=4fdc8e152816ddd6692614a78c7bab9bebde1863&w=1000",
-      "sv": {
-        "title": "Ge oss fler som vägrar vara till lags",
-        "summary": "Det är något förföriskt med människor som vägrar vara andra till lags.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Give us more who refuse to conform",
-        "summary": "There is something seductive about people who refuse to conform to others."
       },
       "translation": {
         "status": "done",
