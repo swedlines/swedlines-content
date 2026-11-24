@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T08:15:55+01:00",
+  "generated_at": "2026-11-24T08:21:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fc630b9fe5da",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/661aVedTlrdGYawj7xysqM/raecker-det-foer-att-oevertyga-skeptikerna-i-centern",
+      "guid": "661aVedTlrdGYawj7xysqM",
+      "published_at": "2026-11-24T08:18:38+01:00",
+      "fetched_at": "2026-11-24T08:20:55+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Valet 2026"
+      ],
+      "sv": {
+        "title": "Räcker det för att övertyga skeptikerna i Centern?"
+      },
+      "en": {
+        "title": "Is it enough to convince the sceptics in the Centre Party?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T08:21:00+01:00"
+      }
+    },
     {
       "id": "6a133141aba4",
       "schema_version": 1,
@@ -5338,33 +5364,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T16:45:50+01:00"
-      }
-    },
-    {
-      "id": "fe2729aed40c",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/7P0gr9/landerholm-vald-till-ny-ordforande-for-muf",
-      "guid": "https://www.aftonbladet.se/nyheter/a/7P0gr9/landerholm-vald-till-ny-ordforande-for-muf?utm_medium=rss",
-      "published_at": "2026-11-21T16:24:14+01:00",
-      "fetched_at": "2026-11-21T16:31:02+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/fc9ef420-21da-310d-82ca-88990ca5dc87?format=auto&s=788c54ba76c6b7315d3401e9cc091c0693867804&w=1000",
-      "sv": {
-        "title": "Landerholm vald till ny ordförande för Muf",
-        "summary": "Moderata ungdomsförbundet (Muf) har fått en ny ordförande. Alice Landerholm, 23 år, tar över posten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Landerholm elected new chair of Muf",
-        "summary": "The Moderate Youth League (Muf) has a new chair. Alice Landerholm, 23, takes over the post."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T16:31:08+01:00"
       }
     }
   ]
