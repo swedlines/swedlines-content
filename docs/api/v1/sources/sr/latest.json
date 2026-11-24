@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T04:01:18+01:00",
+  "generated_at": "2026-11-24T04:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "746c3ce424e6",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348598",
+      "guid": "rss:sr.se/article/9348598",
+      "published_at": "2026-11-24T04:07:00+01:00",
+      "fetched_at": "2026-11-24T04:15:50+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Tyskar alltmer negativa till Ukrainastöd",
+        "summary": "I Tyskland finns inte längre en majoritet i befolkningen för att stödja Ukraina militärt. Det visar Körber-stiftelsens årliga utrikespolitiska rapport som publiceras i dag. Förra året ville 59 procent av tyskarna ge militärt stöd till Ukraina. I år har det sjunkit till 46 procent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Germans increasingly negative towards Ukraine aid",
+        "summary": "In Germany there is no longer a majority of the population in favour of supporting Ukraine militarily. This is shown by the Körber Foundation's annual foreign policy report, published today. Last year 59 percent of Germans wanted to provide military aid to Ukraine. This year it has fallen to 46 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T04:15:59+01:00"
+      }
+    },
     {
       "id": "1f0ecd654234",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "EU: New loan of SEK 500 billion to Ukraine",
         "summary": "The European Commission proposes a loan to Ukraine of SEK 500 billion to help the country through 2027. The European Commission announced this today. A further sanctions package targeting Russia is to be presented next week, according to Commission President Ursula von der Leyen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:01:24+01:00"
-      }
-    },
-    {
-      "id": "92d6ccef2556",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345242",
-      "guid": "rss:sr.se/article/9345242",
-      "published_at": "2026-11-18T12:44:00+01:00",
-      "fetched_at": "2026-11-18T13:01:14+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Regeringens besked om ryska idrottare: ”Väldigt väntat”",
-        "summary": "Regeringen sa under en pressträff på onsdagen att ryska idrottare kan innebära en säkerhetsrisk för Sverige, vilket i sin tur kan möjliggöra för myndigheter att neka visum för ryska idrottare.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Government's decision on Russian athletes: \"Very expected\"",
-        "summary": "At a press conference on Wednesday, the government said Russian athletes may pose a security risk to Sweden, which in turn could enable authorities to deny visas to Russian athletes."
       },
       "translation": {
         "status": "done",

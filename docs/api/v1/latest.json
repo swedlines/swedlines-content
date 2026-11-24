@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T04:01:18+01:00",
+  "generated_at": "2026-11-24T04:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "746c3ce424e6",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348598",
+      "guid": "rss:sr.se/article/9348598",
+      "published_at": "2026-11-24T04:07:00+01:00",
+      "fetched_at": "2026-11-24T04:15:50+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Tyskar alltmer negativa till Ukrainastöd",
+        "summary": "I Tyskland finns inte längre en majoritet i befolkningen för att stödja Ukraina militärt. Det visar Körber-stiftelsens årliga utrikespolitiska rapport som publiceras i dag. Förra året ville 59 procent av tyskarna ge militärt stöd till Ukraina. I år har det sjunkit till 46 procent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Germans increasingly negative towards Ukraine aid",
+        "summary": "In Germany there is no longer a majority of the population in favour of supporting Ukraine militarily. This is shown by the Körber Foundation's annual foreign policy report, published today. Last year 59 percent of Germans wanted to provide military aid to Ukraine. This year it has fallen to 46 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T04:15:59+01:00"
+      }
+    },
     {
       "id": "7f134ff1ed74",
       "schema_version": 1,
@@ -5376,32 +5402,6 @@
       "en": {
         "title": "Social worker: Excessive rents make people dependent on benefits",
         "summary": "More people are reacting to Ekot's investigation into unreasonable rents within the Stockholm city housing foundation SHIS. Social worker Sara Korkut has tried to sound the alarm for several years. According to her, the excessive rents make it impossible for people already in a vulnerable situation to become self-sufficient."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T17:01:18+01:00"
-      }
-    },
-    {
-      "id": "6b5f8287690a",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/blixtskadad-400-aring-i-gotlunda-raddas-maffigaste-trad-jag-sett",
-      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/blixtskadad-400-aring-i-gotlunda-raddas-maffigaste-trad-jag-sett",
-      "published_at": "2026-11-23T16:53:52+01:00",
-      "fetched_at": "2026-11-23T17:01:08+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Blixtskadad 400-åring i Götlunda räddas: ”Maffigaste träd jag sett”",
-        "summary": "I över 400 år har Fårtallen stått i Götlunda som ett landmärke. Men efter ett blixtnedslag och med tiden har det börjat luta betänkligt. På måndagen gjordes en räddningsinsats för att förlänga trädets livslängd.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Lightning-damaged 400-year-old tree in Götlunda rescued: \"Most magnificent tree I've seen\"",
-        "summary": "For over 400 years, Fårtallen has stood in Götlunda as a landmark. But after a lightning strike and with time, it has begun to lean alarmingly. On Monday a rescue operation was carried out to extend the tree's lifespan."
       },
       "translation": {
         "status": "done",
