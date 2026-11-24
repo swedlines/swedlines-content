@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-11-24T09:16:03+01:00",
+  "generated_at": "2026-11-24T09:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "87d58c535165",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/malmo-straffar-den-som-satsar-pa-simidrott",
+      "guid": "859827fc-cbd0-450b-8b0c-d6df5a2e884b",
+      "published_at": "2026-11-24T09:30:00+01:00",
+      "fetched_at": "2026-11-24T09:31:04+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/33bac8fc-c990-46d1-ac9e-ce6c2d18caee.jpeg?width=600",
+      "sv": {
+        "title": "Malmö straffar den som satsar på simidrott"
+      },
+      "en": {
+        "title": "Malmö punishes those who invest in swimming and diving"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T09:31:07+01:00"
+      }
+    },
+    {
+      "id": "c9916cce5a7b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/nvidias-vd-tillbaka-sa-mycket-tjanade-trump",
+      "guid": "f8056035-c489-4084-b408-6acb96c95843",
+      "published_at": "2026-11-24T09:18:45+01:00",
+      "fetched_at": "2026-11-24T09:31:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/50cc770b-c3c9-4e5d-ac6d-8862965c82f7.jpg?width=600",
+      "sv": {
+        "title": "Nvidias vd tillbaka – så mycket tjänade Trump",
+        "summary": "Jensen Huangs återinträde som vd för Nvidia fick aktien att tokrusa under gårdagen. USA:s president ska själv ha tjänat miljoner på Huangs comeback – ett beslut Donald Trump säger att han påverkade.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia's CEO is back – this is how much Trump earned",
+        "summary": "Jensen Huang's return as CEO of Nvidia sent the stock soaring yesterday. The US president is said to have earned millions on Huang's comeback – a decision Donald Trump says he influenced."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T09:31:07+01:00"
+      }
+    },
     {
       "id": "7dd85d0f5220",
       "schema_version": 1,
@@ -5197,56 +5248,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T04:54:31+01:00"
-      }
-    },
-    {
-      "id": "15b3fb59e646",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/bilar-i-brand-i-oxie-omYsE",
-      "guid": "8ed327d8-736a-4f65-9b6b-fed713f0b9be",
-      "published_at": "2026-11-21T04:37:59+01:00",
-      "fetched_at": "2026-11-21T04:45:44+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Bilar i brand i Oxie",
-        "summary": "Två parkerade bilar fattade eld i Oxie i Malmö tidigt på lördagsmorgonen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Cars on fire in Oxie",
-        "summary": "Two parked cars caught fire in Oxie in Malmö early on Saturday morning."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T04:45:47+01:00"
-      }
-    },
-    {
-      "id": "df71af958d91",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/bayern-harry-kane-borta-i-manader",
-      "guid": "76ef7eb7-13c1-49f1-b252-3dcd21307b4e",
-      "published_at": "2026-11-21T00:18:06+01:00",
-      "fetched_at": "2026-11-21T00:31:01+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/f08f6c2b-476e-4553-a97c-9548e05a8fd2.jpg?width=600",
-      "sv": {
-        "title": "Bayern: Harry Kane borta i månader"
-      },
-      "en": {
-        "title": "Bayern: Harry Kane out for months"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T00:31:03+01:00"
       }
     }
   ]

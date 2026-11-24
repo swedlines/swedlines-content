@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:16:03+01:00",
+  "generated_at": "2026-11-24T09:31:11+01:00",
   "count": 200,
   "items": [
     {
@@ -54,6 +54,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T09:01:17+01:00"
+      }
+    },
+    {
+      "id": "80cedecc09cd",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/klimat/a/dJOEXo/efter-haveriet-vilken-nytta-gor-klimattoppmoten",
+      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/dJOEXo/efter-haveriet-vilken-nytta-gor-klimattoppmoten?utm_medium=rss",
+      "published_at": "2026-11-24T07:21:29+01:00",
+      "fetched_at": "2026-11-24T09:31:02+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/24ec6870-18ae-3428-bcbe-b3598b851edd?format=auto&s=e21f78ba88c9311adaadc9c16dd5272e21aaaa32&w=1000",
+      "sv": {
+        "title": "Efter haveriet – vilken nytta gör klimattoppmöten?",
+        "summary": "Klimattoppmötet ifrågasätts efter kollapsen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the collapse – what good do climate summits do?",
+        "summary": "The climate summit is questioned after the collapse"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T09:31:07+01:00"
       }
     },
     {
@@ -5342,33 +5369,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T04:15:52+01:00"
-      }
-    },
-    {
-      "id": "24b3678f6e70",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/r8Ayq8/uppgifter-ensam-hemma-gor-comeback",
-      "guid": "https://www.aftonbladet.se/nyheter/a/r8Ayq8/uppgifter-ensam-hemma-gor-comeback?utm_medium=rss",
-      "published_at": "2026-11-21T01:51:38+01:00",
-      "fetched_at": "2026-11-21T07:15:46+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/b0bcc821-1795-31fa-b5b4-8eb4b13d885a?format=auto&s=b038e6dda8c73b6726d81e0482b5c5f60c8471b5&w=1000",
-      "sv": {
-        "title": "Uppgifter: ”Ensam hemma” gör comeback",
-        "summary": "Macaulay Culkin med i arbetet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: \"Home Alone\" makes comeback",
-        "summary": "Macaulay Culkin joins the project"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T07:15:53+01:00"
       }
     }
   ]

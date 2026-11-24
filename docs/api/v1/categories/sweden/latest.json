@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T09:16:03+01:00",
+  "generated_at": "2026-11-24T09:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8dc734023c77",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/LoA7X1/massling-i-stockholm-smittsparning-och-geografiska-skillnader-i-vaccination",
+      "guid": "https://www.svd.se/a/LoA7X1/massling-i-stockholm-smittsparning-och-geografiska-skillnader-i-vaccination?utm_medium=rss",
+      "published_at": "2026-11-24T09:30:00+01:00",
+      "fetched_at": "2026-11-24T09:31:02+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/93f3039e-672b-38cf-a270-a3ffec29fd5f?format=auto&s=f5a7402726a787e8e18be7fcc570ffae285d290d&w=1000",
+      "sv": {
+        "title": "Mässling är en integrationsfråga",
+        "summary": "Barns vaccination skiljer sig med postnummer och ursprung.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Measles is an integration issue",
+        "summary": "Children's vaccination rates differ by postal code and background."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T09:31:07+01:00"
+      }
+    },
     {
       "id": "e892685b4afd",
       "schema_version": 1,
@@ -5431,32 +5458,6 @@
       "en": {
         "title": "One dead in townhouse fire in Gnosjö",
         "summary": "Black smoke from the home"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:01:29+01:00"
-      }
-    },
-    {
-      "id": "213fa52d55f7",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=0f44474d-0783-402a-b7e6-b096593c0ea9",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0f44474d-0783-402a-b7e6-b096593c0ea9",
-      "published_at": "2026-11-19T17:51:24+01:00",
-      "fetched_at": "2026-11-19T18:01:20+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Brandbil i diket under utryckning: \"Otroligt halt\"",
-        "summary": "”Vi har otroligt halt väglag”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fire engine in ditch during callout: \"Incredibly slippery\"",
-        "summary": "\"We have incredibly slippery road conditions\""
       },
       "translation": {
         "status": "done",

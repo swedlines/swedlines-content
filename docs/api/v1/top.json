@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:16:03+01:00",
+  "generated_at": "2026-11-24T09:31:11+01:00",
   "count": 30,
   "stories": [
     {
@@ -1744,6 +1744,78 @@
       ]
     },
     {
+      "id": "1a6f5899ec1b",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-24T08:08:34+01:00",
+      "last_published_at": "2026-11-24T09:18:45+01:00",
+      "lead": {
+        "id": "1a6f5899ec1b",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp",
+        "guid": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp?utm_medium=rss",
+        "published_at": "2026-11-24T08:08:34+01:00",
+        "fetched_at": "2026-11-24T08:15:45+01:00",
+        "category": "economy",
+        "image_url": "https://akamai.vgc.no/v2/images/8d9cf713-b42e-3cf8-aaf4-822fdce94642?format=auto&s=d478a3614beebfbb87d29d916402cc0a53a1615f&w=1000",
+        "sv": {
+          "title": "Huang är tillbaka, vad vill Trump ha?"
+        },
+        "en": {
+          "title": "Huang is back, what does Trump want?"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T08:15:52+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "c9916cce5a7b",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/nvidias-vd-tillbaka-sa-mycket-tjanade-trump",
+          "published_at": "2026-11-24T09:18:45+01:00",
+          "sv": {
+            "title": "Nvidias vd tillbaka – så mycket tjänade Trump"
+          },
+          "en": {
+            "title": "Nvidia's CEO is back – this is how much Trump earned"
+          }
+        },
+        {
+          "id": "c2b31f8e58da",
+          "source": "svd",
+          "url": "https://www.svd.se/a/aGwMGE/nvidias-vd-tillbaka-sa-mycket-tjanade-trump",
+          "published_at": "2026-11-24T09:15:35+01:00",
+          "sv": {
+            "title": "Nvidias vd tillbaka – så mycket tjänade Trump"
+          },
+          "en": {
+            "title": "Nvidia's CEO is back – this is how much Trump earned"
+          }
+        },
+        {
+          "id": "1a6f5899ec1b",
+          "source": "svd",
+          "url": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp",
+          "published_at": "2026-11-24T08:08:34+01:00",
+          "sv": {
+            "title": "Huang är tillbaka, vad vill Trump ha?"
+          },
+          "en": {
+            "title": "Huang is back, what does Trump want?"
+          }
+        }
+      ]
+    },
+    {
       "id": "e5cddff2c9b6",
       "source_count": 2,
       "sources": [
@@ -2041,6 +2113,18 @@
           },
           "en": {
             "title": "After the fiasco – what good do climate summits do?"
+          }
+        },
+        {
+          "id": "80cedecc09cd",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/klimat/a/dJOEXo/efter-haveriet-vilken-nytta-gor-klimattoppmoten",
+          "published_at": "2026-11-24T07:21:29+01:00",
+          "sv": {
+            "title": "Efter haveriet – vilken nytta gör klimattoppmöten?"
+          },
+          "en": {
+            "title": "After the collapse – what good do climate summits do?"
           }
         },
         {
@@ -2366,68 +2450,6 @@
           },
           "en": {
             "title": "Reports: US considers blacklisting Megaspeed"
-          }
-        }
-      ]
-    },
-    {
-      "id": "df033810f719",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "svt"
-      ],
-      "first_published_at": "2026-11-23T22:09:52+01:00",
-      "last_published_at": "2026-11-23T22:56:36+01:00",
-      "lead": {
-        "id": "df033810f719",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
-        "guid": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering/",
-        "published_at": "2026-11-23T22:09:52+01:00",
-        "fetched_at": "2026-11-23T22:15:49+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering",
-          "summary": "Det blir ingen rödgrön regering, tror Maud Olofsson. – Jag tror att de har kommit till vägs ände. De har ju suttit hur länge som helst och diskuterat. Man har inte kommit närmare varandra, säger den tidigare C-ledaren i SVT:s ”Aktuellt”.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government",
-          "summary": "There will be no red-green government, believes Maud Olofsson. \"I think they have reached the end of the road. They have sat for ever and discussed. They have not come closer to each other,\" says the former Centre Party leader on SVT's \"Aktuellt\"."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T22:15:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "461cefe495cc",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/tidigare-c-ledaren-syna-kristersson",
-          "published_at": "2026-11-23T22:56:36+01:00",
-          "sv": {
-            "title": "Tidigare C-ledaren: ”Syna Kristersson”"
-          },
-          "en": {
-            "title": "Former C leader: \"See through Kristersson\""
-          }
-        },
-        {
-          "id": "df033810f719",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
-          "published_at": "2026-11-23T22:09:52+01:00",
-          "sv": {
-            "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering"
-          },
-          "en": {
-            "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government"
           }
         }
       ]
