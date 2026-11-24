@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T05:31:12+01:00",
+  "generated_at": "2026-11-24T05:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "66a6c757f4c6",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348679",
+      "guid": "rss:sr.se/article/9348679",
+      "published_at": "2026-11-24T05:39:00+01:00",
+      "fetched_at": "2026-11-24T05:45:38+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Migranter strömmar till Kreta – oroar turistindustrin",
+        "summary": "Rekordmånga migranter och flyktingar kommer nu till den grekiska ön Kreta efter den riskfyllda färden över Medelhavet från Libyen. Minst 25 000 personer har anlänt hittills i år. Samtidigt är den växande migrationen förvånansvärt osynlig för många av öns invånare.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Migrants flow into Crete – worrying the tourism industry",
+        "summary": "A record number of migrants and refugees are now arriving on the Greek island of Crete after the risky crossing of the Mediterranean from Libya. At least 25,000 people have arrived so far this year. Meanwhile, the growing migration is surprisingly invisible to many of the island's residents."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T05:45:51+01:00"
+      }
+    },
     {
       "id": "9c6f49c55db5",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T13:31:06+01:00"
-      }
-    },
-    {
-      "id": "53ccec82eb6d",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345262",
-      "guid": "rss:sr.se/article/9345262",
-      "published_at": "2026-11-18T13:10:00+01:00",
-      "fetched_at": "2026-11-18T13:15:49+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Anmälning om diskriminering ökar – vanligast på jobbet",
-        "summary": "Omkring en miljon personer har upplevt sig diskriminerade det senaste året, enligt Diskrimineringsombudsmannens årliga rapport. Unga, personer med utländsk bakgrund och hbtqi-personer är särskilt utsatta. Diskriminering i arbetslivet är vanligast.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Discrimination reports rise – most common at work",
-        "summary": "Around one million people have felt discriminated against in the past year, according to the Equality Ombudsman's annual report. Young people, people with foreign backgrounds and LGBTQI people are particularly vulnerable. Discrimination in working life is most common."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:15:59+01:00"
       }
     }
   ]

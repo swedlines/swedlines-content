@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-24T05:31:12+01:00",
+  "generated_at": "2026-11-24T05:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "59a345ade093",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/humoret-battras-for-japans-naringsliv",
+      "guid": "c3287541-cb6f-462a-aedb-fa42971b1870",
+      "published_at": "2026-11-24T05:40:44+01:00",
+      "fetched_at": "2026-11-24T05:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/43b9cbdc-27a2-4837-b89e-da992dd026b3.jpeg?width=600",
+      "sv": {
+        "title": "Humöret bättras för Japans näringsliv",
+        "summary": "Inköpschefsindex för den japanska tillverkningsindustrin steg till 53,7 i november, efter 53,3 i oktober.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Japan's business mood improves",
+        "summary": "The purchasing managers' index for Japan's manufacturing industry rose to 53.7 in November, from 53.3 in October."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T05:45:51+01:00"
+      }
+    },
+    {
+      "id": "90f237d183b1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/smittrisk-vid-tandvardsbesok-erbjuds-hivtest",
+      "guid": "b1be96b5-7c5e-425c-942e-88512b1b7a5a",
+      "published_at": "2026-11-24T05:33:25+01:00",
+      "fetched_at": "2026-11-24T05:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/9785efca-2596-4a26-82e5-8e2d3736f5a9.jpg?width=600",
+      "sv": {
+        "title": "Smittrisk vid tandvårdsbesök – erbjuds hivtest",
+        "summary": "Region Kronoberg kan inte utesluta att otillräckligt rengjorda instrument lett till smitta av hiv på en tandvårdsmottagning i Växjö. Nu erbjuds omkring 1 500 personer provtagning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Infection risk at dental visits – HIV tests offered",
+        "summary": "Region Kronoberg cannot rule out that insufficiently cleaned instruments led to HIV transmission at a dental clinic in Växjö. Around 1,500 people are now being offered sampling."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T05:45:51+01:00"
+      }
+    },
     {
       "id": "c1d80221a232",
       "schema_version": 1,
@@ -5288,60 +5342,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T08:45:47+01:00"
-      }
-    },
-    {
-      "id": "7bc213c7e26a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/novos-fetmapiller-snart-i-sverige-mycket-pengar",
-      "guid": "467654c8-cd01-4247-9681-e92df4324a4f",
-      "published_at": "2026-11-22T08:27:23+01:00",
-      "fetched_at": "2026-11-22T08:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b175ddd6-bfed-4e62-b6d4-22da3dd2fa4f.jpg?width=600",
-      "sv": {
-        "title": "Novos fetmapiller snart i Sverige – ”mycket pengar”",
-        "summary": "Fetmaläkemedlet Wegovy släpps inom kort i tablettform i Sverige. Priset är inte officiellt, men väntas landa på samma nivå som de preparat som redan finns på marknaden – ett antal tusenlappar i månaden.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Novo's weight-loss pills soon in Sweden – “a lot of money”",
-        "summary": "The obesity drug Wegovy will soon be released in Sweden in tablet form. The price is not official, but is expected to land at the same level as the products already on the market – a few thousand kronor a month."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T08:31:12+01:00"
-      }
-    },
-    {
-      "id": "f41d64a7437c",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/fartygsbrand-i-finska-viken-annu-inte-slackt",
-      "guid": "30a302c1-9eca-4ae2-a830-e66561d37945",
-      "published_at": "2026-11-22T08:21:18+01:00",
-      "fetched_at": "2026-11-22T08:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d4b24729-da93-408c-b0b6-9d717dd14532.jpg?width=600",
-      "sv": {
-        "title": "Fartygsbrand i Finska viken ännu inte släckt",
-        "summary": "Släckningsarbetet fortsätter i Finska viken efter lördagens förmodat ukrainska attack mot ett ryskflaggat fartyg i Finska viken. Lasten är fortfarande höljd i dunkel.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ship fire in the Gulf of Finland not yet extinguished",
-        "summary": "Firefighting continues in the Gulf of Finland after Saturday's allegedly Ukrainian attack on a Russian-flagged ship in the Gulf of Finland. The cargo is still shrouded in mystery."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T08:31:12+01:00"
       }
     }
   ]
