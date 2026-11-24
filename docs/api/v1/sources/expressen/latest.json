@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T23:31:07+01:00",
+  "generated_at": "2026-11-24T23:43:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "528d66e1fdf8",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk",
+      "guid": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk/",
+      "published_at": "2026-11-24T23:39:38+01:00",
+      "fetched_at": "2026-11-24T23:43:19+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Thand Ringqvists ord på interna C-mötet: ”Tar stryk”",
+        "summary": "Centerpartiets ledning ser bara två vägar framåt. Antingen tar man plats i en högerregering – eller så blir det extraval där C får skulden för kaoset i regeringsbildningsprocessen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Thand Ringqvist's words at the internal Centre Party meeting: “Takes a beating”",
+        "summary": "The Centre Party leadership sees only two paths forward. Either it takes a place in a right-wing government – or there will be a snap election in which C is blamed for the chaos in the government formation process."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T23:43:24+01:00"
+      }
+    },
     {
       "id": "595ac3895796",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T12:45:59+01:00"
-      }
-    },
-    {
-      "id": "65584ffd596d",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/stokig-trafik-i-snovadret-hall-avstand",
-      "guid": "https://www.expressen.se/nyheter/sverige/stokig-trafik-i-snovadret-hall-avstand/",
-      "published_at": "2026-11-21T12:21:28+01:00",
-      "fetched_at": "2026-11-21T12:31:06+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "Stökig trafik i snövädret: ”Håll avstånd”",
-        "summary": "Gul varning gäller för snöfall i östra Svealand – och flera trafikolyckor har ägt rum i Stockholm och Uppsala. Bilister har voltat av vägen och räddningstjänsten har larmats om ett tiotal trafikolyckor.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Chaotic traffic in the snow: \"Keep your distance\"",
-        "summary": "A yellow warning is in force for snowfall in eastern Svealand, and several traffic accidents have occurred in Stockholm and Uppsala. Drivers have skidded off the road, and the rescue service has been alerted to about ten traffic accidents."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T12:31:12+01:00"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:31:07+01:00",
+  "generated_at": "2026-11-24T23:43:27+01:00",
   "count": 30,
   "stories": [
     {
@@ -2353,6 +2353,68 @@
       ]
     },
     {
+      "id": "472980abcd74",
+      "source_count": 2,
+      "sources": [
+        "expressen",
+        "svt"
+      ],
+      "first_published_at": "2026-11-24T22:21:28+01:00",
+      "last_published_at": "2026-11-24T23:31:31+01:00",
+      "lead": {
+        "id": "472980abcd74",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-rasar-mot-v-inte-rort-sig-en-millimeter",
+        "guid": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-rasar-mot-v-inte-rort-sig-en-millimeter/",
+        "published_at": "2026-11-24T22:21:28+01:00",
+        "fetched_at": "2026-11-24T22:30:59+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Magdalena Andersson (S) rasar mot V: ”Inte rört sig en millimeter”",
+          "summary": "S-ledaren Magdalena Andersson går till hård attack mot V i ”Aktuellt” på tisdagskvällen. – V har inte rört sig en millimeter under de här veckorna. MP:s språkrör har dock inte gett upp hoppet om en rödgrön regering.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Magdalena Andersson (S) lashes out at the Left Party: \"Not moved an inch\"",
+          "summary": "Social Democrat leader Magdalena Andersson launches a sharp attack on the Left Party in \"Aktuellt\" on Tuesday evening. – The Left Party has not moved an inch these past weeks. However, the Green Party's spokespersons have not given up hope of a red-green government."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T22:31:04+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "436de4a0610b",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/andersson-v-har-inte-rort-sig-en-millimeter",
+          "published_at": "2026-11-24T23:31:31+01:00",
+          "sv": {
+            "title": "Andersson: V har inte ”rört sig en millimeter”"
+          },
+          "en": {
+            "title": "Andersson: V has not “moved an inch”"
+          }
+        },
+        {
+          "id": "472980abcd74",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-rasar-mot-v-inte-rort-sig-en-millimeter",
+          "published_at": "2026-11-24T22:21:28+01:00",
+          "sv": {
+            "title": "Magdalena Andersson (S) rasar mot V: ”Inte rört sig en millimeter”"
+          },
+          "en": {
+            "title": "Magdalena Andersson (S) lashes out at the Left Party: \"Not moved an inch\""
+          }
+        }
+      ]
+    },
+    {
       "id": "9d9ba97ff1fa",
       "source_count": 2,
       "sources": [
@@ -2724,65 +2786,6 @@
           },
           "en": {
             "title": "Here is the Moderates' full package to the Centre Party: \"Had higher expectations\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "f7a948b34e4f",
-      "source_count": 2,
-      "sources": [
-        "di",
-        "svd"
-      ],
-      "first_published_at": "2026-11-24T16:26:59+01:00",
-      "last_published_at": "2026-11-24T17:39:37+01:00",
-      "lead": {
-        "id": "f7a948b34e4f",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/ditv/borsmorgon/live-presstraff-med-talman-andreas-norlen-O2d4c",
-        "guid": "a1ae8046-0f2a-5476-93ed-bdf64ad25b6d",
-        "published_at": "2026-11-24T16:26:59+01:00",
-        "fetched_at": "2026-11-24T16:40:43+01:00",
-        "category": "economy",
-        "sv": {
-          "title": "LIVE: Pressträff med talman Andreas Norlén"
-        },
-        "en": {
-          "title": "LIVE: Press conference with Speaker Andreas Norlén"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T16:40:52+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "d499f545f114",
-          "source": "svd",
-          "url": "https://www.svd.se/a/1vnaGX/norlen-vi-vet-inte-om-han-blir-godkand",
-          "published_at": "2026-11-24T17:39:37+01:00",
-          "sv": {
-            "title": "Norlén: ”Vi vet inte om han blir godkänd”"
-          },
-          "en": {
-            "title": "Norlén: \"We don't know if he will be approved\""
-          }
-        },
-        {
-          "id": "f7a948b34e4f",
-          "source": "di",
-          "url": "https://www.di.se/ditv/borsmorgon/live-presstraff-med-talman-andreas-norlen-O2d4c",
-          "published_at": "2026-11-24T16:26:59+01:00",
-          "sv": {
-            "title": "LIVE: Pressträff med talman Andreas Norlén"
-          },
-          "en": {
-            "title": "LIVE: Press conference with Speaker Andreas Norlén"
           }
         }
       ]

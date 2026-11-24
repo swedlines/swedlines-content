@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-24T23:31:07+01:00",
+  "generated_at": "2026-11-24T23:43:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "528d66e1fdf8",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk",
+      "guid": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk/",
+      "published_at": "2026-11-24T23:39:38+01:00",
+      "fetched_at": "2026-11-24T23:43:19+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Thand Ringqvists ord på interna C-mötet: ”Tar stryk”",
+        "summary": "Centerpartiets ledning ser bara två vägar framåt. Antingen tar man plats i en högerregering – eller så blir det extraval där C får skulden för kaoset i regeringsbildningsprocessen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Thand Ringqvist's words at the internal Centre Party meeting: “Takes a beating”",
+        "summary": "The Centre Party leadership sees only two paths forward. Either it takes a place in a right-wing government – or there will be a snap election in which C is blamed for the chaos in the government formation process."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T23:43:24+01:00"
+      }
+    },
+    {
+      "id": "436de4a0610b",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/andersson-v-har-inte-rort-sig-en-millimeter",
+      "guid": "https://www.svt.se/nyheter/inrikes/andersson-v-har-inte-rort-sig-en-millimeter",
+      "published_at": "2026-11-24T23:31:31+01:00",
+      "fetched_at": "2026-11-24T23:43:17+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Andersson: V har inte ”rört sig en millimeter”",
+        "summary": "Klockan tickar inför statsministeromröstningen om Ulf Kristersson (M). På den rödgröna sidan säger S-ledaren Magdalena Andersson att Vänsterpartiet inte ”rört sig en millimeter”, men Miljöpartiet har inte gett upp hoppet om en rödgrön regering.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Andersson: V has not “moved an inch”",
+        "summary": "The clock is ticking ahead of the prime minister vote on Ulf Kristersson (M). On the red-green side, Social Democrat leader Magdalena Andersson says the Left Party has not “moved an inch”, but the Green Party has not given up hope of a red-green government."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T23:43:24+01:00"
+      }
+    },
     {
       "id": "595ac3895796",
       "schema_version": 1,
@@ -5368,60 +5420,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T15:45:58+01:00"
-      }
-    },
-    {
-      "id": "b6b439a25f55",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/en-minoritetsregering-kan-starka-sveriges-langsiktighet",
-      "guid": "https://www.dn.se/insandare/en-minoritetsregering-kan-starka-sveriges-langsiktighet/",
-      "published_at": "2026-11-24T15:25:06+01:00",
-      "fetched_at": "2026-11-24T15:31:00+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/be1c5693-3047-4485-a2c8-d5f8922e2cbd.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. En minoritetsregering kan stärka Sveriges långsiktighet",
-        "summary": "INSÄNDARE. Stora samhällsfrågor inte alltid löses bäst av att ett block får makten att driva igenom sin politik på egen hand. En alliansregering i minoritet skulle sannolikt behöva söka stöd både till höger och vänster i riksdagen, skriver Leif Ekman.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letter. A minority government can strengthen Sweden's long-term stability",
-        "summary": "LETTER. Major societal issues are not always best solved by one bloc gaining the power to push through its policy on its own. An Alliance minority government would likely have to seek support both from the right and the left in the Riksdag, writes Leif Ekman."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T15:31:10+01:00"
-      }
-    },
-    {
-      "id": "180a5b2a6785",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/replik-s-styrets-budget-saknar-riktning-och-ambition",
-      "guid": "ee06f46f-835d-4ccb-91a9-17501b4b2998",
-      "published_at": "2026-11-24T15:22:28+01:00",
-      "fetched_at": "2026-11-24T15:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e7113564-f01b-4a7a-94b6-5edf253da4ce.jpeg?width=600",
-      "sv": {
-        "title": "Replik: S-styrets budget saknar riktning och ambition",
-        "summary": "När Region Stockholms S-styre presenterar en budget fylld av utredningar, urvattnade kompromisser och kostsamma sidospår framträder snarare ett styre som är nöjt med att förvalta det bestående än angeläget om att förändra det, skriver Axel Conradi (M).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Rebuttal: The Social Democrats' budget lacks direction and ambition",
-        "summary": "When the Social Democrat-led administration of Region Stockholm presents a budget full of inquiries, watered-down compromises and costly side projects, what emerges is an administration content to manage the existing order rather than eager to change it, writes Axel Conradi (M)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T15:31:10+01:00"
       }
     }
   ]
