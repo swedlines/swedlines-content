@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-24T18:01:33+01:00",
+  "generated_at": "2026-11-24T18:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "539191b56465",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3PfIkrJAD5iKReTdwyp0ce/andersson-saetter-press-pa-c-utesluta-sd-viktigaste-valloeftet",
+      "guid": "3PfIkrJAD5iKReTdwyp0ce",
+      "published_at": "2026-11-24T18:09:56+01:00",
+      "fetched_at": "2026-11-24T18:15:45+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Svensk politik"
+      ],
+      "sv": {
+        "title": "Andersson sätter press på C: ”Utesluta SD viktigaste vallöftet”",
+        "summary": "Ulf Kristersson prövas som statsminister • Kritiserar V: ”De har ju vägrat”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Andersson puts pressure on the Centre Party: ”Excluding SD is the most important campaign promise”",
+        "summary": "Ulf Kristersson tested as prime minister • Criticises the Left Party: ”They have refused”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T18:15:57+01:00"
+      }
+    },
     {
       "id": "f28dea80c8ce",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T22:31:17+01:00"
-      }
-    },
-    {
-      "id": "342d341455e6",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/36jaRcFAdtjNLVsjW2dYq5/mist-mina-barn-hade-kaents-baettre-om-jag-hade-doett-med-dem",
-      "guid": "36jaRcFAdtjNLVsjW2dYq5",
-      "published_at": "2026-11-16T21:25:35+01:00",
-      "fetched_at": "2026-11-16T21:30:59+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Nepalkatastrofen"
-      ],
-      "sv": {
-        "title": "”Jag miste mina barn – hade känts bättre om jag dött med dem”",
-        "summary": "Stora områden helt obeboeliga efter störtfloden",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"I lost my children – it would have felt better if I had died with them\"",
-        "summary": "Large areas completely uninhabitable after the flash flood"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T21:31:04+01:00"
       }
     }
   ]

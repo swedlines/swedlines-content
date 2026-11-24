@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T18:01:33+01:00",
+  "generated_at": "2026-11-24T18:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1eaf396623e3",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/ez8pl4/loparstjarnan-evy-palm-ar-dod",
+      "guid": "https://www.svd.se/a/ez8pl4/loparstjarnan-evy-palm-ar-dod?utm_medium=rss",
+      "published_at": "2026-11-24T18:11:30+01:00",
+      "fetched_at": "2026-11-24T18:15:44+01:00",
+      "category": "sports",
+      "image_url": "https://akamai.vgc.no/v2/images/0b940a35-424c-36e9-8138-3520ae669af3?format=auto&s=13710913a46b911f5c7ba688a7782b7b7522a2df&w=1000",
+      "sv": {
+        "title": "Löparstjärnan Evy Palm är död",
+        "summary": "Maraton- och långdistanslöparen Evy Palm har avlidit, det uppger Runners Worlds chefredaktör Anders…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Running star Evy Palm has died",
+        "summary": "Marathon and long-distance runner Evy Palm has died, according to Runner's World editor-in-chief Anders…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T18:15:57+01:00"
+      }
+    },
     {
       "id": "d499f545f114",
       "schema_version": 1,
@@ -5221,33 +5248,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T13:31:08+01:00"
-      }
-    },
-    {
-      "id": "e74fc21946f7",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/lMAkL7/dodsfall-skakar-italien-kopplas-till-maffiadad",
-      "guid": "https://www.svd.se/a/lMAkL7/dodsfall-skakar-italien-kopplas-till-maffiadad?utm_medium=rss",
-      "published_at": "2026-11-21T13:11:53+01:00",
-      "fetched_at": "2026-11-21T13:15:48+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/2a23eb8e-8bf8-37dd-b2d6-b83d9af0ac6d?format=auto&s=cf3fbb6e5e0d727b2dda8f85a2d22190e2da5d2c&w=1000",
-      "sv": {
-        "title": "Dödsfall skakar Italien – kopplas till maffiadåd",
-        "summary": "Italiens tidigare rikspolischef Gianni De Gennaro är död – en vecka efter att en brottsutredning mot…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Death shocks Italy – linked to Mafia attack",
-        "summary": "Italy's former national police chief Gianni De Gennaro has died – one week after a criminal investigation against..."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T13:15:56+01:00"
       }
     }
   ]

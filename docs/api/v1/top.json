@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:01:33+01:00",
+  "generated_at": "2026-11-24T18:15:59+01:00",
   "count": 30,
   "stories": [
     {
@@ -1433,6 +1433,81 @@
       ]
     },
     {
+      "id": "5457ea728a3e",
+      "source_count": 3,
+      "sources": [
+        "svt",
+        "sydsvenskan",
+        "svd"
+      ],
+      "first_published_at": "2026-11-24T17:53:05+01:00",
+      "last_published_at": "2026-11-24T18:11:30+01:00",
+      "lead": {
+        "id": "5457ea728a3e",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/sport/friidrott/evy-palm-ar-dod-loparen-blev-84-ar",
+        "guid": "https://www.svt.se/sport/friidrott/evy-palm-ar-dod-loparen-blev-84-ar",
+        "published_at": "2026-11-24T17:53:05+01:00",
+        "fetched_at": "2026-11-24T18:01:13+01:00",
+        "category": "sports",
+        "sv": {
+          "title": "Evy Palm är död – löparen blev 84 år",
+          "summary": "Evy Palm är död. Den svenska maratonlöparen blev 84 år.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Evy Palm is dead – the runner was 84 years old",
+          "summary": "Evy Palm is dead. The Swedish marathon runner was 84 years old."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T18:01:28+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "1eaf396623e3",
+          "source": "svd",
+          "url": "https://www.svd.se/a/ez8pl4/loparstjarnan-evy-palm-ar-dod",
+          "published_at": "2026-11-24T18:11:30+01:00",
+          "sv": {
+            "title": "Löparstjärnan Evy Palm är död"
+          },
+          "en": {
+            "title": "Running star Evy Palm has died"
+          }
+        },
+        {
+          "id": "66722a827333",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/loparstjarnan-evy-palm-ar-dod",
+          "published_at": "2026-11-24T18:00:23+01:00",
+          "sv": {
+            "title": "Löparstjärnan Evy Palm är död"
+          },
+          "en": {
+            "title": "Running star Evy Palm has died"
+          }
+        },
+        {
+          "id": "5457ea728a3e",
+          "source": "svt",
+          "url": "https://www.svt.se/sport/friidrott/evy-palm-ar-dod-loparen-blev-84-ar",
+          "published_at": "2026-11-24T17:53:05+01:00",
+          "sv": {
+            "title": "Evy Palm är död – löparen blev 84 år"
+          },
+          "en": {
+            "title": "Evy Palm is dead – the runner was 84 years old"
+          }
+        }
+      ]
+    },
+    {
       "id": "7d383cb0a902",
       "source_count": 3,
       "sources": [
@@ -2555,144 +2630,6 @@
       ]
     },
     {
-      "id": "f90519f2dcf1",
-      "source_count": 3,
-      "sources": [
-        "svd",
-        "di",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T05:29:56+01:00",
-      "last_published_at": "2026-11-24T06:11:41+01:00",
-      "lead": {
-        "id": "f90519f2dcf1",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/dJOE9X/svallvagor-fran-usa-bland-borserna-i-asien",
-        "guid": "https://www.svd.se/a/dJOE9X/svallvagor-fran-usa-bland-borserna-i-asien?utm_medium=rss",
-        "published_at": "2026-11-24T05:29:56+01:00",
-        "fetched_at": "2026-11-24T05:45:40+01:00",
-        "category": "economy",
-        "image_url": "https://akamai.vgc.no/v2/images/5ba1685c-bdaa-3e58-b1b9-0a5d0a033500?format=auto&s=995461ccd8d605713abe633ea483497a5e39c9f5&w=1000",
-        "sv": {
-          "title": "Svallvågor från USA bland börserna i Asien",
-          "summary": "De ledande indexen i Asien följer de branta uppgångarna på Wall Street och stiger kraftigt under den…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Wall Street rally spills over to Asian stock markets",
-          "summary": "Leading indexes in Asia follow the sharp gains on Wall Street and rise strongly during the…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T05:45:51+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "c7a882fb88fe",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/svallvagor-fran-usa-bland-borserna-i-asien-stiger-kraftigt",
-          "published_at": "2026-11-24T06:11:41+01:00",
-          "sv": {
-            "title": "Svallvågor från USA bland börserna i Asien – stiger kraftigt"
-          },
-          "en": {
-            "title": "Ripples from the US hit Asian markets – surge sharply"
-          }
-        },
-        {
-          "id": "457aabdf1916",
-          "source": "di",
-          "url": "https://www.di.se/live/svallvagor-fran-usa-bland-borserna-i-asien",
-          "published_at": "2026-11-24T05:53:22+01:00",
-          "sv": {
-            "title": "Svallvågor från USA bland börserna i Asien"
-          },
-          "en": {
-            "title": "Ripples from the US hit Asian markets"
-          }
-        },
-        {
-          "id": "f90519f2dcf1",
-          "source": "svd",
-          "url": "https://www.svd.se/a/dJOE9X/svallvagor-fran-usa-bland-borserna-i-asien",
-          "published_at": "2026-11-24T05:29:56+01:00",
-          "sv": {
-            "title": "Svallvågor från USA bland börserna i Asien"
-          },
-          "en": {
-            "title": "Wall Street rally spills over to Asian stock markets"
-          }
-        }
-      ]
-    },
-    {
-      "id": "5457ea728a3e",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T17:53:05+01:00",
-      "last_published_at": "2026-11-24T18:00:23+01:00",
-      "lead": {
-        "id": "5457ea728a3e",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/sport/friidrott/evy-palm-ar-dod-loparen-blev-84-ar",
-        "guid": "https://www.svt.se/sport/friidrott/evy-palm-ar-dod-loparen-blev-84-ar",
-        "published_at": "2026-11-24T17:53:05+01:00",
-        "fetched_at": "2026-11-24T18:01:13+01:00",
-        "category": "sports",
-        "sv": {
-          "title": "Evy Palm är död – löparen blev 84 år",
-          "summary": "Evy Palm är död. Den svenska maratonlöparen blev 84 år.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Evy Palm is dead – the runner was 84 years old",
-          "summary": "Evy Palm is dead. The Swedish marathon runner was 84 years old."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T18:01:28+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "66722a827333",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sport/loparstjarnan-evy-palm-ar-dod",
-          "published_at": "2026-11-24T18:00:23+01:00",
-          "sv": {
-            "title": "Löparstjärnan Evy Palm är död"
-          },
-          "en": {
-            "title": "Running star Evy Palm has died"
-          }
-        },
-        {
-          "id": "5457ea728a3e",
-          "source": "svt",
-          "url": "https://www.svt.se/sport/friidrott/evy-palm-ar-dod-loparen-blev-84-ar",
-          "published_at": "2026-11-24T17:53:05+01:00",
-          "sv": {
-            "title": "Evy Palm är död – löparen blev 84 år"
-          },
-          "en": {
-            "title": "Evy Palm is dead – the runner was 84 years old"
-          }
-        }
-      ]
-    },
-    {
       "id": "f7a948b34e4f",
       "source_count": 2,
       "sources": [
@@ -2906,6 +2843,68 @@
           },
           "en": {
             "title": "Ken Fagerberg is dead – former Öis player was 37"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2832cf65995c",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "di"
+      ],
+      "first_published_at": "2026-11-24T14:20:08+01:00",
+      "last_published_at": "2026-11-24T15:41:47+01:00",
+      "lead": {
+        "id": "2832cf65995c",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
+        "guid": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
+        "published_at": "2026-11-24T14:20:08+01:00",
+        "fetched_at": "2026-11-24T14:30:58+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Högsta domstolen: ”Elsparkcykelföretag måste ha polistillstånd”",
+          "summary": "Det är olagligt att ställa ut elsparkcyklar utan polistillstånd. Det här slår Högsta domstolen, HD, fast i en vägledande dom som gäller Gävle kommun och elsparkföretaget Ryde.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Supreme Court: \"E-scooter companies must have police permits\"",
+          "summary": "It is illegal to put out e-scooters without a police permit. The Supreme Court, HD, has established this in a precedent-setting ruling concerning Gävle municipality and the e-scooter company Ryde."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T14:31:07+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "7a21550eae71",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/hd-s-dom-tillstand-kravs-for-elsparkcyklar",
+          "published_at": "2026-11-24T15:41:47+01:00",
+          "sv": {
+            "title": "HD:s dom: Tillstånd krävs för elsparkcyklar"
+          },
+          "en": {
+            "title": "Supreme Court ruling: permit required for e-scooters"
+          }
+        },
+        {
+          "id": "2832cf65995c",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
+          "published_at": "2026-11-24T14:20:08+01:00",
+          "sv": {
+            "title": "Högsta domstolen: ”Elsparkcykelföretag måste ha polistillstånd”"
+          },
+          "en": {
+            "title": "Supreme Court: \"E-scooter companies must have police permits\""
           }
         }
       ]
