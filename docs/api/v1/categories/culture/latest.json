@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-11-24T05:01:17+01:00",
+  "generated_at": "2026-11-24T05:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "557d20ed1f0a",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/asikt-och-debatt/ledare/hogerpopulismens-olika-ansikten.f4691f52-799f-5825-9e41-97e1b9795b22",
+      "guid": "f4691f52-799f-5825-9e41-97e1b9795b22",
+      "published_at": "2026-11-24T05:00:00+01:00",
+      "fetched_at": "2026-11-24T05:15:47+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Ledare",
+        "Tagg: Viktor Orbán",
+        "Tagg: Roger Scruton",
+        "Tagg: Högerpopulism",
+        "Tagg: Antonio Gramsci",
+        "Tagg: Giorgia Meloni",
+        "Tagg: Marine le Pen",
+        "Tagg: Globalisering",
+        "Tagg: Tyskland"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/4eebaaa8-ae0d-37a6-9dba-d1e433a79ff4",
+      "sv": {
+        "title": "Håkan Boström: Högerpopulismens olika ansikten",
+        "summary": "En ny bok visar hur olika staters skilda historia spelar en avgörande roll för hur deras högerpopulister anpassar sig till den liberala demokratin.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Håkan Boström: The various faces of right-wing populism",
+        "summary": "A new book shows how the distinct histories of different states play a decisive role in how their right-wing populists adapt to liberal democracy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T05:16:01+01:00"
+      }
+    },
     {
       "id": "8672065c56b1",
       "schema_version": 1,
@@ -5685,32 +5723,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:01:24+01:00"
-      }
-    },
-    {
-      "id": "f61175e4ab11",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/sverige/kan-man-vara-otrogen-med-en-spelkaraktar",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/kan-man-vara-otrogen-med-en-spelkaraktar",
-      "published_at": "2026-11-20T15:26:31+01:00",
-      "fetched_at": "2026-11-20T15:31:04+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Kan man vara otrogen med en spelkaraktär?",
-        "summary": "Efter GTA 6-släppet – experten svarar",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Can you be unfaithful with a game character?",
-        "summary": "After the GTA 6 release – the expert answers"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T15:31:09+01:00"
       }
     }
   ]
