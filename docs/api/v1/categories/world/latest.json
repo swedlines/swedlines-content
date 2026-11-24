@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T22:15:56+01:00",
+  "generated_at": "2026-11-24T22:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "567c47ec106f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/extremt-langa-koerna-pa-grund-av-trump",
+      "guid": "https://www.expressen.se/nyheter/varlden/extremt-langa-koerna-pa-grund-av-trump/",
+      "published_at": "2026-11-24T22:22:23+01:00",
+      "fetched_at": "2026-11-24T22:30:59+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Extremt långa köerna – på grund av Trump",
+        "summary": "Trumps blockad ställer till extrema trafikstockningar vid gränsen till Iran. Filmklipp visar hur omkring 1 200 lastbilar sitter fast i en 42 kilometer lång kö. – Jag har kört i 15 år och har aldrig sett något liknande, säger föraren Mohammadreza Shiri till Telegraph.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Extreme queues – because of Trump",
+        "summary": "Trump's blockade is causing extreme traffic jams at the border with Iran. Video footage shows around 1,200 lorries stuck in a 42 kilometre queue. – I have been driving for 15 years and have never seen anything like it, says driver Mohammadreza Shiri to the Telegraph."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T22:31:04+01:00"
+      }
+    },
     {
       "id": "c568e62a18d7",
       "schema_version": 1,
@@ -5357,33 +5383,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T17:15:59+01:00"
-      }
-    },
-    {
-      "id": "dc0b8cfed8a6",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/bk52Wk/starka-reaktioner-efter-kollapsade-forhandlingar-pa-cop31",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/bk52Wk/starka-reaktioner-efter-kollapsade-forhandlingar-pa-cop31?utm_medium=rss",
-      "published_at": "2026-11-22T17:08:39+01:00",
-      "fetched_at": "2026-11-22T17:31:00+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/87c36dc3-10a6-3031-8517-6a61e81e1c82?format=auto&s=23dbd2126a0e2195494b5e37742aa4d5241c4484&w=1000",
-      "sv": {
-        "title": "Reaktionerna efter COP31: ”Måste ske nu”",
-        "summary": "Anklagelsen efter klimatkollapsen",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reactions after COP31: \"Must happen now\"",
-        "summary": "Accusation after the climate collapse"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T17:31:08+01:00"
       }
     }
   ]

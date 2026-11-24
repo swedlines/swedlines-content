@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T22:15:56+01:00",
+  "generated_at": "2026-11-24T22:31:08+01:00",
   "count": 30,
   "stories": [
     {
@@ -2188,6 +2188,69 @@
       ]
     },
     {
+      "id": "1cd84443b940",
+      "source_count": 2,
+      "sources": [
+        "sydsvenskan",
+        "svt"
+      ],
+      "first_published_at": "2026-11-24T22:26:56+01:00",
+      "last_published_at": "2026-11-24T22:27:52+01:00",
+      "lead": {
+        "id": "1cd84443b940",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/noje/nick-carter-atalas-for-sexuella-overgrepp",
+        "guid": "215887af-8daf-4417-beaf-609f7b19f29e",
+        "published_at": "2026-11-24T22:26:56+01:00",
+        "fetched_at": "2026-11-24T22:31:01+01:00",
+        "category": "culture",
+        "image_url": "https://static.bonniernews.se/ba/14c1b8f2-0204-4cc7-b740-111f97e0b763.jpg?width=600",
+        "sv": {
+          "title": "Nick Carter åtalas för sexuella övergrepp",
+          "summary": "Backstreet Boys-sångaren Nick Carter åtalas för sexuella övergrepp som ska ha skett 2003. Den som stämmer honom är hans motspelerska i en skräckfilm, som vid tiden var 18 år gammal.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Nick Carter charged with sexual assault",
+          "summary": "Backstreet Boys singer Nick Carter is charged with sexual offences allegedly committed in 2003. The person bringing the claim is his co-star in a horror film, who was 18 years old at the time."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T22:31:04+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "24b4e7fe079d",
+          "source": "svt",
+          "url": "https://www.svt.se/kultur/nick-carter-atalas-for-sexuella-overgrepp",
+          "published_at": "2026-11-24T22:27:52+01:00",
+          "sv": {
+            "title": "Nick Carter åtalas för sexuella övergrepp"
+          },
+          "en": {
+            "title": "Nick Carter charged with sexual assault"
+          }
+        },
+        {
+          "id": "1cd84443b940",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/noje/nick-carter-atalas-for-sexuella-overgrepp",
+          "published_at": "2026-11-24T22:26:56+01:00",
+          "sv": {
+            "title": "Nick Carter åtalas för sexuella övergrepp"
+          },
+          "en": {
+            "title": "Nick Carter charged with sexual assault"
+          }
+        }
+      ]
+    },
+    {
       "id": "dcce8c365b09",
       "source_count": 2,
       "sources": [
@@ -2715,68 +2778,6 @@
           },
           "en": {
             "title": "Ken Fagerberg is dead – former Öis player was 37"
-          }
-        }
-      ]
-    },
-    {
-      "id": "2832cf65995c",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "di"
-      ],
-      "first_published_at": "2026-11-24T14:20:08+01:00",
-      "last_published_at": "2026-11-24T15:41:47+01:00",
-      "lead": {
-        "id": "2832cf65995c",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
-        "guid": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
-        "published_at": "2026-11-24T14:20:08+01:00",
-        "fetched_at": "2026-11-24T14:30:58+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Högsta domstolen: ”Elsparkcykelföretag måste ha polistillstånd”",
-          "summary": "Det är olagligt att ställa ut elsparkcyklar utan polistillstånd. Det här slår Högsta domstolen, HD, fast i en vägledande dom som gäller Gävle kommun och elsparkföretaget Ryde.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Supreme Court: \"E-scooter companies must have police permits\"",
-          "summary": "It is illegal to put out e-scooters without a police permit. The Supreme Court, HD, has established this in a precedent-setting ruling concerning Gävle municipality and the e-scooter company Ryde."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T14:31:07+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "7a21550eae71",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/hd-s-dom-tillstand-kravs-for-elsparkcyklar",
-          "published_at": "2026-11-24T15:41:47+01:00",
-          "sv": {
-            "title": "HD:s dom: Tillstånd krävs för elsparkcyklar"
-          },
-          "en": {
-            "title": "Supreme Court ruling: permit required for e-scooters"
-          }
-        },
-        {
-          "id": "2832cf65995c",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
-          "published_at": "2026-11-24T14:20:08+01:00",
-          "sv": {
-            "title": "Högsta domstolen: ”Elsparkcykelföretag måste ha polistillstånd”"
-          },
-          "en": {
-            "title": "Supreme Court: \"E-scooter companies must have police permits\""
           }
         }
       ]

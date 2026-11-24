@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-24T22:15:56+01:00",
+  "generated_at": "2026-11-24T22:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "567c47ec106f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/extremt-langa-koerna-pa-grund-av-trump",
+      "guid": "https://www.expressen.se/nyheter/varlden/extremt-langa-koerna-pa-grund-av-trump/",
+      "published_at": "2026-11-24T22:22:23+01:00",
+      "fetched_at": "2026-11-24T22:30:59+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Extremt långa köerna – på grund av Trump",
+        "summary": "Trumps blockad ställer till extrema trafikstockningar vid gränsen till Iran. Filmklipp visar hur omkring 1 200 lastbilar sitter fast i en 42 kilometer lång kö. – Jag har kört i 15 år och har aldrig sett något liknande, säger föraren Mohammadreza Shiri till Telegraph.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Extreme queues – because of Trump",
+        "summary": "Trump's blockade is causing extreme traffic jams at the border with Iran. Video footage shows around 1,200 lorries stuck in a 42 kilometre queue. – I have been driving for 15 years and have never seen anything like it, says driver Mohammadreza Shiri to the Telegraph."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T22:31:04+01:00"
+      }
+    },
+    {
+      "id": "472980abcd74",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-rasar-mot-v-inte-rort-sig-en-millimeter",
+      "guid": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-rasar-mot-v-inte-rort-sig-en-millimeter/",
+      "published_at": "2026-11-24T22:21:28+01:00",
+      "fetched_at": "2026-11-24T22:30:59+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Magdalena Andersson (S) rasar mot V: ”Inte rört sig en millimeter”",
+        "summary": "S-ledaren Magdalena Andersson går till hård attack mot V i ”Aktuellt” på tisdagskvällen. – V har inte rört sig en millimeter under de här veckorna. MP:s språkrör har dock inte gett upp hoppet om en rödgrön regering.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Magdalena Andersson (S) lashes out at the Left Party: \"Not moved an inch\"",
+        "summary": "Social Democrat leader Magdalena Andersson launches a sharp attack on the Left Party in \"Aktuellt\" on Tuesday evening. – The Left Party has not moved an inch these past weeks. However, the Green Party's spokespersons have not given up hope of a red-green government."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T22:31:04+01:00"
+      }
+    },
     {
       "id": "1a1ff39974e2",
       "schema_version": 1,
@@ -5145,58 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T09:45:49+01:00"
-      }
-    },
-    {
-      "id": "7ce8faa68085",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/dronarlarm-i-finland-och-estland-natoflyg-i-luften",
-      "guid": "https://www.expressen.se/nyheter/varlden/dronarlarm-i-finland-och-estland-natoflyg-i-luften/",
-      "published_at": "2026-11-21T09:20:47+01:00",
-      "fetched_at": "2026-11-21T09:31:09+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Drönarlarm i Finland och Estland – Natoflyg i luften",
-        "summary": "Invånare i Estland har varnats för drönare under natten. I Finland har flyg- och sjötrafik begränsats.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Drone alarm in Finland and Estonia – NATO aircraft in the air",
-        "summary": "Residents of Estonia have been warned about drones during the night. In Finland, air and sea traffic has been restricted."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:31:15+01:00"
-      }
-    },
-    {
-      "id": "0cc715334d55",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=c3069a9d-b58a-43a3-b5d0-f2bd80338b86",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c3069a9d-b58a-43a3-b5d0-f2bd80338b86",
-      "published_at": "2026-11-21T09:12:11+01:00",
-      "fetched_at": "2026-11-21T09:15:44+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Man livshotande skadad",
-        "summary": "Olycka i Gällivare",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man critically injured",
-        "summary": "Accident in Gällivare"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:15:50+01:00"
       }
     }
   ]
