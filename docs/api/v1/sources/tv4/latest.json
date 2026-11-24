@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T22:01:22+01:00",
+  "generated_at": "2026-11-24T22:15:56+01:00",
   "count": 200,
   "items": [
     {
@@ -29,6 +29,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T21:41:02+01:00"
+      }
+    },
+    {
+      "id": "6f72d1bf0fbe",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5vwWf2k0Bh2kxwKMKoPJnP/ryssar-utgav-sig-foer-att-vara-ukrainare-bluffade-sig-till-eu-medborgarskap",
+      "guid": "5vwWf2k0Bh2kxwKMKoPJnP",
+      "published_at": "2026-11-24T21:32:45+01:00",
+      "fetched_at": "2026-11-24T22:15:48+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Ryssland"
+      ],
+      "sv": {
+        "title": "Ryssar fick EU-medborgarskap – utgav sig för att vara ukrainare",
+        "summary": "Ryska medborgare med brottsmisstankar, sanktionskopplingar och band till Kremls krigsmaskineri misstänks ha fått rumänska identitetshandlingar genom ett omfattande dokumentbedrägeri.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Russians obtained EU citizenship – posed as Ukrainians",
+        "summary": "Russian citizens suspected of crimes, sanctions links and ties to the Kremlin's war machine are suspected of having obtained Romanian identity documents through extensive document fraud."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T22:15:54+01:00"
       }
     },
     {
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T07:15:59+01:00"
-      }
-    },
-    {
-      "id": "9eebf709b818",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3Kqxi67DQHqj49zpO012Ct/revisorn-foerlorade-tillstandet-nu-aer-han-doemd-foer-brott",
-      "guid": "3Kqxi67DQHqj49zpO012Ct",
-      "published_at": "2026-11-17T06:05:00+01:00",
-      "fetched_at": "2026-11-17T06:15:43+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Revisorn förlorade tillståndet – nu är han dömd för brott",
-        "summary": "Bröd och Salt har 29 caféer och omsätter runt 300 miljoner kronor. Men bokföringen har haft stora brister. Revisorn Jan Lejonhird kunde inte se var alla Bröd och Salts intäkter kom ifrån, och han godkände därför inte årsredovisningarna under cafékedjans tre första år.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Auditor lost his license – now convicted of crime",
-        "summary": "Bröd och Salt has 29 cafés and turns over around SEK 300 million. But the bookkeeping has had major shortcomings. Auditor Jan Lejonhird could not see where all of Bröd och Salt's revenue came from, and therefore did not approve the annual accounts during the café chain's first three years."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:15:50+01:00"
       }
     }
   ]

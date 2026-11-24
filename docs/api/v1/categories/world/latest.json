@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T22:01:22+01:00",
+  "generated_at": "2026-11-24T22:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c568e62a18d7",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/OypxqO/unket-boris-johnson-om-trumps-passning-till-putin",
+      "guid": "https://www.aftonbladet.se/nyheter/a/OypxqO/unket-boris-johnson-om-trumps-passning-till-putin?utm_medium=rss",
+      "published_at": "2026-11-24T22:09:13+01:00",
+      "fetched_at": "2026-11-24T22:15:47+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/6ae4c20f-9647-3803-b7e6-1b8dfe8ef775?format=auto&s=6bb5b2bd9c027284c89dd5dc51d48c8659c2b203&w=1000",
+      "sv": {
+        "title": "”Unket” – Boris Johnson om Trumps passning till Putin",
+        "summary": "Storbritanniens tidigare premiärminister Boris Johnson kallar USA:s president Trumps…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Unket\" – Boris Johnson on Trump's stance toward Putin",
+        "summary": "Former UK prime minister Boris Johnson calls US President Trump's…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T22:15:54+01:00"
+      }
+    },
     {
       "id": "afddf1f42368",
       "schema_version": 1,
@@ -5357,33 +5384,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T17:31:08+01:00"
-      }
-    },
-    {
-      "id": "f8713ea9b76a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/bk52Wk/starka-reaktioner-efter-kollapsade-forhandlingar-pa-cop31",
-      "guid": "https://www.aftonbladet.se/nyheter/a/bk52Wk/starka-reaktioner-efter-kollapsade-forhandlingar-pa-cop31?utm_medium=rss",
-      "published_at": "2026-11-22T17:08:39+01:00",
-      "fetched_at": "2026-11-22T17:15:46+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/0b2ab23e-b19e-3ddc-819d-038e205f1afa?format=auto&s=11826941a0ad78f8c0631ea9cb791d33202bfab6&w=1000",
-      "sv": {
-        "title": "Reaktionerna efter COP31: ”Måste ske nu”",
-        "summary": "Anklagelsen efter klimatkollapsen",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reactions after COP31: “Must happen now”",
-        "summary": "The blame after the climate collapse"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T17:15:59+01:00"
       }
     }
   ]
