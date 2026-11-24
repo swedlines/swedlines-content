@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T01:01:17+01:00",
+  "generated_at": "2026-11-24T01:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "71f8dde03ba9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348700",
+      "guid": "rss:sr.se/article/9348700",
+      "published_at": "2026-11-24T01:03:00+01:00",
+      "fetched_at": "2026-11-24T01:15:41+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Högersvängen splittrar C: ”Inte alls överens”",
+        "summary": "Centerpartiet återupptar samtalen med högersidan. Det beskedet gav partiledaren Elisabeth Thand Ringqvist på måndagskvällen i en kommentar till Ekot. Men Centerpartiet är splittrat.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Right-wing shift splits the Centre Party: \"Not at all in agreement\"",
+        "summary": "The Centre Party is resuming talks with the right-wing side. Party leader Elisabeth Thand Ringqvist said so on Monday evening in a comment to Ekot. But the Centre Party is divided."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T01:15:47+01:00"
+      }
+    },
     {
       "id": "c7fc65872e01",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T12:31:14+01:00"
-      }
-    },
-    {
-      "id": "662e4b56c4be",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344733",
-      "guid": "rss:sr.se/article/9344733",
-      "published_at": "2026-11-18T11:00:00+01:00",
-      "fetched_at": "2026-11-18T11:15:43+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Indien ger sig in i fredsamtalen om Ukraina",
-        "summary": "Indien har under hösten gett sig in i frågan allt mer och har också lagt fram ett eget förslag till vapenvila. I fokus i Indiens försök att främja fredssamtal mellan Ryssland och Ukraina står de ekonomiska konsekvenser som kriget för med sig.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "India joins the peace talks on Ukraine",
-        "summary": "India has during the autumn increasingly engaged with the issue and has also put forward its own proposal for a ceasefire. The focus of India’s efforts to promote peace talks between Russia and Ukraine is the economic consequences of the war."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T11:16:04+01:00"
       }
     }
   ]
