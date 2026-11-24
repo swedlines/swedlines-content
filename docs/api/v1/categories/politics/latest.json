@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:01:25+01:00",
+  "generated_at": "2026-11-24T12:15:54+01:00",
   "count": 200,
   "items": [
     {
@@ -26,6 +26,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T12:01:21+01:00"
+      }
+    },
+    {
+      "id": "7aa9085034ef",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/ez8nj4/dadgostar-andersson-visade-inte-det-ledarskap-som-behovts",
+      "guid": "https://www.aftonbladet.se/nyheter/a/ez8nj4/dadgostar-andersson-visade-inte-det-ledarskap-som-behovts?utm_medium=rss",
+      "published_at": "2026-11-24T11:48:11+01:00",
+      "fetched_at": "2026-11-24T12:15:46+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/807eb093-000c-3da0-9fb7-d1791ccfe68f?format=auto&s=a1c903f87a2b4d9d0c7ca2e7d26028dedaeabe44&w=1000",
+      "sv": {
+        "title": "Dadgostar: Andersson visade inte ledarskap",
+        "summary": "Dadgostars smocka mot Andersson (S)",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dadgostar: Andersson did not show leadership",
+        "summary": "Dadgostar's jab at Andersson (S)"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T12:15:51+01:00"
       }
     },
     {
@@ -5337,32 +5364,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T15:15:59+01:00"
-      }
-    },
-    {
-      "id": "1b000491e231",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/gabrielssons-svar-sjalvklart-blir-c-beroende-av-sd-",
-      "guid": "https://www.expressen.se/nyheter/politik/gabrielssons-svar-sjalvklart-blir-c-beroende-av-sd-/",
-      "published_at": "2026-11-22T13:09:46+01:00",
-      "fetched_at": "2026-11-22T13:15:47+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Gabrielssons svar: Självklart blir C beroende av SD",
-        "summary": "Tidigare C-toppen Emil Källström tycker att det är dags för partiet att ”komma hem” – till Alliansen. Nu svarar Ida Gabrielsson i ett inlägg på X. ”Självklart blir ju C då beroende av sitt stödparti SD”, skriver hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Gabrielsson responds: Of course C will become dependent on the SD",
-        "summary": "Former C leader Emil Källström thinks it is time for the party to \"come home\" – to the Alliance. Now Ida Gabrielsson responds in a post on X. \"Of course C will then be dependent on its support party, the SD,\" she writes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T13:15:53+01:00"
       }
     }
   ]

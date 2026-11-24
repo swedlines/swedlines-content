@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:01:25+01:00",
+  "generated_at": "2026-11-24T12:15:54+01:00",
   "count": 30,
   "stories": [
     {
@@ -1119,6 +1119,94 @@
       ]
     },
     {
+      "id": "91c4f9c5320c",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-24T05:30:10+01:00",
+      "last_published_at": "2026-11-24T12:04:51+01:00",
+      "lead": {
+        "id": "91c4f9c5320c",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/8Pm08w/fartygsattack-spiller-over-kriget-pa-afrika",
+        "guid": "https://www.aftonbladet.se/nyheter/a/8Pm08w/fartygsattack-spiller-over-kriget-pa-afrika?utm_medium=rss",
+        "published_at": "2026-11-24T05:30:10+01:00",
+        "fetched_at": "2026-11-24T05:31:00+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/8632c997-3da6-363c-a03d-4d7021f3eba1?format=auto&s=07adf05a4a81c0bf56acb9f97b58876c2130b0a2&w=1000",
+        "sv": {
+          "title": "Fartygsattack ”spiller över kriget på Afrika”",
+          "summary": "Ukrainakriget letar sig utanför Rysslands och Ukrainas gränser. I söndags sänkte Ukraina en rysk…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Ship attack \"spills over the war to Africa\"",
+          "summary": "The war in Ukraine is spreading beyond the borders of Russia and Ukraine. On Sunday, Ukraine sank a Russian…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T05:31:09+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "79214a3d7013",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/pMLR76/zelenskyj-vi-attackerade-fartyget-i-finska-viken",
+          "published_at": "2026-11-24T12:04:51+01:00",
+          "sv": {
+            "title": "Zelenskyj: Vi angrep fartyget i Finska viken"
+          },
+          "en": {
+            "title": "Zelenskyj: We attacked the ship in the Gulf of Finland"
+          }
+        },
+        {
+          "id": "02679b241c9b",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/fartygsattack-spiller-over-kriget-pa-afrika",
+          "published_at": "2026-11-24T05:31:01+01:00",
+          "sv": {
+            "title": "Fartygsattack ”spiller över kriget på Afrika”"
+          },
+          "en": {
+            "title": "Ship attack \"spills over the war into Africa\""
+          }
+        },
+        {
+          "id": "1a069ae76c56",
+          "source": "svd",
+          "url": "https://www.svd.se/a/4Eqkeq/fartygsattack-spiller-over-kriget-pa-afrika",
+          "published_at": "2026-11-24T05:30:11+01:00",
+          "sv": {
+            "title": "Fartygsattack ”spiller över kriget på Afrika”"
+          },
+          "en": {
+            "title": "Ship attack \"spills over the war into Africa\""
+          }
+        },
+        {
+          "id": "91c4f9c5320c",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/8Pm08w/fartygsattack-spiller-over-kriget-pa-afrika",
+          "published_at": "2026-11-24T05:30:10+01:00",
+          "sv": {
+            "title": "Fartygsattack ”spiller över kriget på Afrika”"
+          },
+          "en": {
+            "title": "Ship attack \"spills over the war to Africa\""
+          }
+        }
+      ]
+    },
+    {
       "id": "6b4d058be6f7",
       "source_count": 3,
       "sources": [
@@ -1720,82 +1808,6 @@
           },
           "en": {
             "title": "Wall Street rally spills over to Asian stock markets"
-          }
-        }
-      ]
-    },
-    {
-      "id": "91c4f9c5320c",
-      "source_count": 3,
-      "sources": [
-        "aftonbladet",
-        "svd",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T05:30:10+01:00",
-      "last_published_at": "2026-11-24T05:31:01+01:00",
-      "lead": {
-        "id": "91c4f9c5320c",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/8Pm08w/fartygsattack-spiller-over-kriget-pa-afrika",
-        "guid": "https://www.aftonbladet.se/nyheter/a/8Pm08w/fartygsattack-spiller-over-kriget-pa-afrika?utm_medium=rss",
-        "published_at": "2026-11-24T05:30:10+01:00",
-        "fetched_at": "2026-11-24T05:31:00+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/8632c997-3da6-363c-a03d-4d7021f3eba1?format=auto&s=07adf05a4a81c0bf56acb9f97b58876c2130b0a2&w=1000",
-        "sv": {
-          "title": "Fartygsattack ”spiller över kriget på Afrika”",
-          "summary": "Ukrainakriget letar sig utanför Rysslands och Ukrainas gränser. I söndags sänkte Ukraina en rysk…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Ship attack \"spills over the war to Africa\"",
-          "summary": "The war in Ukraine is spreading beyond the borders of Russia and Ukraine. On Sunday, Ukraine sank a Russian…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T05:31:09+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "02679b241c9b",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/fartygsattack-spiller-over-kriget-pa-afrika",
-          "published_at": "2026-11-24T05:31:01+01:00",
-          "sv": {
-            "title": "Fartygsattack ”spiller över kriget på Afrika”"
-          },
-          "en": {
-            "title": "Ship attack \"spills over the war into Africa\""
-          }
-        },
-        {
-          "id": "1a069ae76c56",
-          "source": "svd",
-          "url": "https://www.svd.se/a/4Eqkeq/fartygsattack-spiller-over-kriget-pa-afrika",
-          "published_at": "2026-11-24T05:30:11+01:00",
-          "sv": {
-            "title": "Fartygsattack ”spiller över kriget på Afrika”"
-          },
-          "en": {
-            "title": "Ship attack \"spills over the war into Africa\""
-          }
-        },
-        {
-          "id": "91c4f9c5320c",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/8Pm08w/fartygsattack-spiller-over-kriget-pa-afrika",
-          "published_at": "2026-11-24T05:30:10+01:00",
-          "sv": {
-            "title": "Fartygsattack ”spiller över kriget på Afrika”"
-          },
-          "en": {
-            "title": "Ship attack \"spills over the war to Africa\""
           }
         }
       ]

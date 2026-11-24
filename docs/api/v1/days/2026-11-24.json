@@ -1,7 +1,114 @@
 {
-  "generated_at": "2026-11-24T12:01:25+01:00",
-  "count": 303,
+  "generated_at": "2026-11-24T12:15:54+01:00",
+  "count": 308,
   "items": [
+    {
+      "id": "e3fad566f9e4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/bibb-tar-order-vard-1-2-miljoner",
+      "guid": "b78133a0-e881-453f-8308-ca0858068599",
+      "published_at": "2026-11-24T12:05:17+01:00",
+      "fetched_at": "2026-11-24T12:15:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Bibb tar order värd 1,2 miljoner",
+        "summary": "Medicinteknikbolaget Bibb Instruments har fått en ny order från sin amerikanska distributionspartner Taewoong Medical USA till ett värde om cirka 1,2 miljoner kronor. Det framgår av ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bibb wins order worth SEK 1.2 million",
+        "summary": "Medtech company Bibb Instruments has received a new order from its American distribution partner Taewoong Medical USA worth about SEK 1.2 million. This is according to a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T12:15:51+01:00"
+      }
+    },
+    {
+      "id": "79214a3d7013",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/pMLR76/zelenskyj-vi-attackerade-fartyget-i-finska-viken",
+      "guid": "https://www.aftonbladet.se/nyheter/a/pMLR76/zelenskyj-vi-attackerade-fartyget-i-finska-viken?utm_medium=rss",
+      "published_at": "2026-11-24T12:04:51+01:00",
+      "fetched_at": "2026-11-24T12:15:46+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/a57106e0-9a31-3ed8-ad12-cd277e9cf4de?format=auto&s=7578572705f74eda9994bd9ce9615166ddc21e5c&w=1000",
+      "sv": {
+        "title": "Zelenskyj: Vi angrep fartyget i Finska viken",
+        "summary": "Ukraina tar på sig helgens attack mot ett ryskflaggat fartyg i Finska viken.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Zelenskyj: We attacked the ship in the Gulf of Finland",
+        "summary": "Ukraine claims responsibility for the weekend attack on a Russian-flagged ship in the Gulf of Finland."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T12:15:51+01:00"
+      }
+    },
+    {
+      "id": "6fdf095a8c83",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/vill-du-bli-forandrad-se-den-har-markliga-dansen",
+      "guid": "f7b9b832-98c0-437b-a389-0efc28017c4b",
+      "published_at": "2026-11-24T12:04:46+01:00",
+      "fetched_at": "2026-11-24T12:15:48+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/9ebb7db5-9193-4979-8deb-d0b4e0f67b48.jpeg?width=600",
+      "sv": {
+        "title": "Vill du bli förändrad? Se den här märkliga dansen!",
+        "summary": "Med ”Driv hunger” försvarar Hagar Malin Hellkvist Sellén sin position som en av våra främsta samtida koreografer, skriver Malena Forsare som sett detta häpnande vackra verk.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Want to be changed? Watch this strange dance!",
+        "summary": "With \"Driv hunger\", Hagar Malin Hellkvist Sellén defends her position as one of our leading contemporary choreographers, writes Malena Forsare, who has seen this breathtakingly beautiful work."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T12:15:51+01:00"
+      }
+    },
+    {
+      "id": "84c21c42cc2f",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/maria-gunther-nu-borjar-det-bli-dags-att-erkanna-maskiner-kan-tanka",
+      "guid": "https://www.dn.se/varlden/maria-gunther-nu-borjar-det-bli-dags-att-erkanna-maskiner-kan-tanka/",
+      "published_at": "2026-11-24T12:04:30+01:00",
+      "fetched_at": "2026-11-24T12:15:45+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/e52c222e-1cfc-4a5f-a875-410875dd5625.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Maria Gunther: Nu börjar det bli dags att erkänna – maskiner kan tänka",
+        "summary": "AI kan ha bevisat matematikens största olösta problem: Riemannhypotesen från 1859. Det måste vi kalla intelligens.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Maria Gunther: It's time to admit it – machines can think",
+        "summary": "AI may have proved mathematics' greatest unsolved problem: the Riemann hypothesis from 1859. We must call that intelligence."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T12:15:51+01:00"
+      }
+    },
     {
       "id": "3d3ed0129ac0",
       "schema_version": 1,
@@ -107,6 +214,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T12:01:21+01:00"
+      }
+    },
+    {
+      "id": "7aa9085034ef",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/ez8nj4/dadgostar-andersson-visade-inte-det-ledarskap-som-behovts",
+      "guid": "https://www.aftonbladet.se/nyheter/a/ez8nj4/dadgostar-andersson-visade-inte-det-ledarskap-som-behovts?utm_medium=rss",
+      "published_at": "2026-11-24T11:48:11+01:00",
+      "fetched_at": "2026-11-24T12:15:46+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/807eb093-000c-3da0-9fb7-d1791ccfe68f?format=auto&s=a1c903f87a2b4d9d0c7ca2e7d26028dedaeabe44&w=1000",
+      "sv": {
+        "title": "Dadgostar: Andersson visade inte ledarskap",
+        "summary": "Dadgostars smocka mot Andersson (S)",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dadgostar: Andersson did not show leadership",
+        "summary": "Dadgostar's jab at Andersson (S)"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T12:15:51+01:00"
       }
     },
     {
