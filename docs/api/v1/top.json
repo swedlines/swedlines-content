@@ -1,167 +1,105 @@
 {
-  "generated_at": "2026-11-24T09:46:03+01:00",
+  "generated_at": "2026-11-24T10:01:24+01:00",
   "count": 30,
   "stories": [
     {
-      "id": "eb812e908ef6",
-      "source_count": 8,
+      "id": "ef6c3c23db09",
+      "source_count": 5,
       "sources": [
-        "svt",
-        "aftonbladet",
-        "gp",
-        "sr",
+        "di",
         "svd",
+        "sr",
         "expressen",
-        "sydsvenskan",
-        "dn"
+        "sydsvenskan"
       ],
-      "first_published_at": "2026-11-23T10:41:20+01:00",
-      "last_published_at": "2026-11-23T21:56:39+01:00",
+      "first_published_at": "2026-11-24T09:32:38+01:00",
+      "last_published_at": "2026-11-24T10:00:51+01:00",
       "lead": {
-        "id": "eb812e908ef6",
+        "id": "ef6c3c23db09",
         "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
-        "guid": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
-        "published_at": "2026-11-23T10:41:20+01:00",
-        "fetched_at": "2026-11-23T10:45:46+01:00",
-        "category": "world",
+        "source": "di",
+        "url": "https://www.di.se/live/riksbanken-arbetsbefriar-it-chefen-mats-eklund",
+        "guid": "0845ca29-a7f2-4305-86a6-59c730f65341",
+        "published_at": "2026-11-24T09:32:38+01:00",
+        "fetched_at": "2026-11-24T09:40:21+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/073b4124-1cd7-48e3-83bf-c475a80a5807.jpeg?width=600",
         "sv": {
-          "title": "Larm om bombhot mot flera skolor i Danmark",
-          "summary": "Polisdistrikt i hela Danmark får just nu in anmälningar om bombhot mot ett stort antal danska skolor, skriver danska TV 2. Samtidigt uppmanar polisen till lugn och betonar att det i nuläget inte finns anledning till oro.",
+          "title": "Riksbanken arbetsbefriar it-chefen Mats Eklund",
+          "summary": "Riksbanken har beslutat att arbetsbefria it-chefen Mats Eklund. Han ersätts av Erik Lenntorp till tillförordnad chef för avdelningen för it och digitalisering, AID, från och med i dag, enligt ett pressmeddelande.",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Alarm over bomb threats against several schools in Denmark",
-          "summary": "Police districts across Denmark are currently receiving reports of bomb threats against a large number of Danish schools, Danish TV 2 writes. At the same time, police urge calm and stress that there is currently no reason for concern."
+          "title": "The Riksbank relieves IT chief Mats Eklund of his duties",
+          "summary": "The Riksbank has decided to relieve IT chief Mats Eklund of his duties. He is replaced by Erik Lenntorp as acting head of the Department for IT and Digitalisation, AID, effective today, according to a press release."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T10:45:57+01:00"
+          "translated_at": "2026-11-24T09:40:30+01:00"
         }
       },
       "items": [
         {
-          "id": "a08732e09dc4",
-          "source": "svd",
-          "url": "https://www.svd.se/a/g37l0k/nordiska-guldet-kan-hotas-efter-fler-bombhot",
-          "published_at": "2026-11-23T21:56:39+01:00",
-          "sv": {
-            "title": "”Nordiska guldet” kan hotas efter fler bombhot"
-          },
-          "en": {
-            "title": "”Nordic gold” may be threatened after more bomb threats"
-          }
-        },
-        {
-          "id": "dd66bd8281a5",
-          "source": "dn",
-          "url": "https://www.dn.se/varlden/bombot-mot-hundratals-skolor-i-tva-lander",
-          "published_at": "2026-11-23T13:39:03+01:00",
-          "sv": {
-            "title": "Bombot mot hundratals skolor i två länder"
-          },
-          "en": {
-            "title": "Bomb threats against hundreds of schools in two countries"
-          }
-        },
-        {
-          "id": "8ab1c8531764",
-          "source": "dn",
-          "url": "https://www.dn.se/varlden/bombhot-mot-hundratals-skolor-i-tva-lander",
-          "published_at": "2026-11-23T13:39:03+01:00",
-          "sv": {
-            "title": "Bombhot mot hundratals skolor i två länder"
-          },
-          "en": {
-            "title": "Bomb threats against hundreds of schools in two countries"
-          }
-        },
-        {
-          "id": "db0956531b20",
+          "id": "702303edcd3e",
           "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/danmark/bombhot-mot-hundratals-skolor-i-danmark-och-tyskland",
-          "published_at": "2026-11-23T12:05:29+01:00",
+          "url": "https://www.sydsvenskan.se/ekonomi/it-chef-pa-riksbanken-arbetsbefriad",
+          "published_at": "2026-11-24T10:00:51+01:00",
           "sv": {
-            "title": "Bombhot mot hundratals skolor i Danmark och Tyskland"
+            "title": "It-chef på Riksbanken arbetsbefriad"
           },
           "en": {
-            "title": "Bomb threats against hundreds of schools in Denmark and Germany"
+            "title": "Riksbank IT chief relieved of duties"
           }
         },
         {
-          "id": "a73ef0a853e7",
+          "id": "a4368697040c",
           "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=e889162b-1204-45a8-9026-526ded2f32a2",
-          "published_at": "2026-11-23T11:56:31+01:00",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=1fc2793c-d7b0-436a-9c37-7dce090984ee",
+          "published_at": "2026-11-24T09:50:29+01:00",
           "sv": {
-            "title": "Bombhot mot skolor i Tyskland och Danmark"
+            "title": "Riksbankens it-chef arbetsbefrias"
           },
           "en": {
-            "title": "Bomb threats against schools in Germany and Denmark"
+            "title": "Riksbank IT chief relieved of duties"
           }
         },
         {
-          "id": "5d1e43d437ad",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80215",
-          "published_at": "2026-11-23T10:53:31+01:00",
-          "sv": {
-            "title": "Bombhot mot skolor i hela Danmark"
-          },
-          "en": {
-            "title": "Bomb threat against schools across Denmark"
-          }
-        },
-        {
-          "id": "14a18f9a1ac4",
+          "id": "07477f4fe0c3",
           "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348127",
-          "published_at": "2026-11-23T10:49:00+01:00",
+          "url": "https://www.sverigesradio.se/artikel/9348828",
+          "published_at": "2026-11-24T09:44:00+01:00",
           "sv": {
-            "title": "Bombhot mot flera danska skolor"
+            "title": "Riksbankens it-chef arbetsbefrias efter Ekots granskning"
           },
           "en": {
-            "title": "Bomb threat against several Danish schools"
+            "title": "The Riksbank's IT chief relieved of duties after Ekot investigation"
           }
         },
         {
-          "id": "05354ea44495",
-          "source": "gp",
-          "url": "https://www.gp.se/nyheter/varlden/bombhot-mot-manga-skolor-i-danmark.ea4478c5-ab2d-5d30-af63-2353e18636e8",
-          "published_at": "2026-11-23T10:45:21+01:00",
+          "id": "2f3508803877",
+          "source": "svd",
+          "url": "https://www.svd.se/a/8PmdRE/it-chef-pa-riksbanken-arbetsbefriad",
+          "published_at": "2026-11-24T09:36:23+01:00",
           "sv": {
-            "title": "Bombhot mot danska skolor – polisen skickar patruller"
+            "title": "It-chef på Riksbanken arbetsbefriad"
           },
           "en": {
-            "title": "Bomb threats against Danish schools – police send patrols"
+            "title": "Riksbank IT chief relieved of duties"
           }
         },
         {
-          "id": "0aa6831c9009",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/7P0ORo/bombhot-mot-skolor-i-hela-danmark",
-          "published_at": "2026-11-23T10:44:58+01:00",
+          "id": "ef6c3c23db09",
+          "source": "di",
+          "url": "https://www.di.se/live/riksbanken-arbetsbefriar-it-chefen-mats-eklund",
+          "published_at": "2026-11-24T09:32:38+01:00",
           "sv": {
-            "title": "Bombhot mot skolor i hela Danmark"
+            "title": "Riksbanken arbetsbefriar it-chefen Mats Eklund"
           },
           "en": {
-            "title": "Bomb threats against schools across Denmark"
-          }
-        },
-        {
-          "id": "eb812e908ef6",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
-          "published_at": "2026-11-23T10:41:20+01:00",
-          "sv": {
-            "title": "Larm om bombhot mot flera skolor i Danmark"
-          },
-          "en": {
-            "title": "Alarm over bomb threats against several schools in Denmark"
+            "title": "The Riksbank relieves IT chief Mats Eklund of his duties"
           }
         }
       ]
@@ -1742,69 +1680,6 @@
       ]
     },
     {
-      "id": "ef6c3c23db09",
-      "source_count": 2,
-      "sources": [
-        "di",
-        "sr"
-      ],
-      "first_published_at": "2026-11-24T09:32:38+01:00",
-      "last_published_at": "2026-11-24T09:44:00+01:00",
-      "lead": {
-        "id": "ef6c3c23db09",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/riksbanken-arbetsbefriar-it-chefen-mats-eklund",
-        "guid": "0845ca29-a7f2-4305-86a6-59c730f65341",
-        "published_at": "2026-11-24T09:32:38+01:00",
-        "fetched_at": "2026-11-24T09:40:21+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/073b4124-1cd7-48e3-83bf-c475a80a5807.jpeg?width=600",
-        "sv": {
-          "title": "Riksbanken arbetsbefriar it-chefen Mats Eklund",
-          "summary": "Riksbanken har beslutat att arbetsbefria it-chefen Mats Eklund. Han ersätts av Erik Lenntorp till tillförordnad chef för avdelningen för it och digitalisering, AID, från och med i dag, enligt ett pressmeddelande.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "The Riksbank relieves IT chief Mats Eklund of his duties",
-          "summary": "The Riksbank has decided to relieve IT chief Mats Eklund of his duties. He is replaced by Erik Lenntorp as acting head of the Department for IT and Digitalisation, AID, effective today, according to a press release."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T09:40:30+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "07477f4fe0c3",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348828",
-          "published_at": "2026-11-24T09:44:00+01:00",
-          "sv": {
-            "title": "Riksbankens it-chef arbetsbefrias efter Ekots granskning"
-          },
-          "en": {
-            "title": "The Riksbank's IT chief relieved of duties after Ekot investigation"
-          }
-        },
-        {
-          "id": "ef6c3c23db09",
-          "source": "di",
-          "url": "https://www.di.se/live/riksbanken-arbetsbefriar-it-chefen-mats-eklund",
-          "published_at": "2026-11-24T09:32:38+01:00",
-          "sv": {
-            "title": "Riksbanken arbetsbefriar it-chefen Mats Eklund"
-          },
-          "en": {
-            "title": "The Riksbank relieves IT chief Mats Eklund of his duties"
-          }
-        }
-      ]
-    },
-    {
       "id": "e5cddff2c9b6",
       "source_count": 2,
       "sources": [
@@ -2439,6 +2314,68 @@
           },
           "en": {
             "title": "Reports: US considers blacklisting Megaspeed"
+          }
+        }
+      ]
+    },
+    {
+      "id": "df033810f719",
+      "source_count": 2,
+      "sources": [
+        "expressen",
+        "svt"
+      ],
+      "first_published_at": "2026-11-23T22:09:52+01:00",
+      "last_published_at": "2026-11-23T22:56:36+01:00",
+      "lead": {
+        "id": "df033810f719",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
+        "guid": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering/",
+        "published_at": "2026-11-23T22:09:52+01:00",
+        "fetched_at": "2026-11-23T22:15:49+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering",
+          "summary": "Det blir ingen rödgrön regering, tror Maud Olofsson. – Jag tror att de har kommit till vägs ände. De har ju suttit hur länge som helst och diskuterat. Man har inte kommit närmare varandra, säger den tidigare C-ledaren i SVT:s ”Aktuellt”.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government",
+          "summary": "There will be no red-green government, believes Maud Olofsson. \"I think they have reached the end of the road. They have sat for ever and discussed. They have not come closer to each other,\" says the former Centre Party leader on SVT's \"Aktuellt\"."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T22:15:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "461cefe495cc",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/tidigare-c-ledaren-syna-kristersson",
+          "published_at": "2026-11-23T22:56:36+01:00",
+          "sv": {
+            "title": "Tidigare C-ledaren: ”Syna Kristersson”"
+          },
+          "en": {
+            "title": "Former C leader: \"See through Kristersson\""
+          }
+        },
+        {
+          "id": "df033810f719",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
+          "published_at": "2026-11-23T22:09:52+01:00",
+          "sv": {
+            "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering"
+          },
+          "en": {
+            "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government"
           }
         }
       ]

@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-24T09:46:03+01:00",
+  "generated_at": "2026-11-24T10:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "702303edcd3e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/it-chef-pa-riksbanken-arbetsbefriad",
+      "guid": "8fba04c4-f57c-4e20-9c66-2a619e0ae8b0",
+      "published_at": "2026-11-24T10:00:51+01:00",
+      "fetched_at": "2026-11-24T10:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0c4dff0f-3f69-44dd-ac15-0d3e2fbc41e0.jpg?width=600",
+      "sv": {
+        "title": "It-chef på Riksbanken arbetsbefriad",
+        "summary": "Riksbankens it-chef Mats Eklund har arbetsbefriats tills vidare, dock som längst till årsskiftet, skriver myndigheten i ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Riksbank IT chief relieved of duties",
+        "summary": "Riksbank IT chief Mats Eklund has been relieved of his duties until further notice, though for no longer than until the end of the year, the agency writes in a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T10:01:21+01:00"
+      }
+    },
+    {
+      "id": "a0848535d777",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/dygnet-runt/klart-malmofestivalen-fortsatter-till-2030",
+      "guid": "2ca8b076-7891-4da9-a25e-cbc6b4b49b1b",
+      "published_at": "2026-11-24T10:00:00+01:00",
+      "fetched_at": "2026-11-24T10:01:17+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/901d6d11-269c-4866-ac36-4d55273df04d.jpeg?width=600",
+      "sv": {
+        "title": "Klart: Malmöfestivalen fortsätter till 2030",
+        "summary": "Malmöfestivalen fortsätter i minst fyra år till. Men den som hoppas på dyra världsartister lär bli besviken – budgeten stiger inte nämnvärt. – De stora artisternas gage springer iväg ganska rejält.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Confirmed: Malmö Festival continues until 2030",
+        "summary": "The Malmö Festival continues for at least four more years. But anyone hoping for expensive world-famous artists is likely to be disappointed – the budget is not rising significantly. – The fees for major artists are rising quite sharply."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T10:01:21+01:00"
+      }
+    },
     {
       "id": "87d58c535165",
       "schema_version": 1,
@@ -5195,59 +5249,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T06:01:22+01:00"
-      }
-    },
-    {
-      "id": "eff94eee9c7d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/malmoborna-har-sagt-sitt-badkladerna-ska-vara-av",
-      "guid": "497fa94e-d14c-40f6-befc-64405b8df72d",
-      "published_at": "2026-11-21T06:00:00+01:00",
-      "fetched_at": "2026-11-21T06:01:12+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/d3422d55-a794-413b-a586-03d98f21e990.jpeg?width=600",
-      "sv": {
-        "title": "Malmöborna har sagt sitt: Badkläderna ska vara av",
-        "summary": "Nästan 3 000 Malmöbor har tyckt till om det ska vara tillåtet med badkläder under de ”mixade dagarna” på Ribersborgs och Sibbarps kallbadhus. Beskedet: En klar majoritet är emot – åtminstone på Kallis. – Jag förstår det.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Malmö residents have spoken: swimwear must go",
-        "summary": "Nearly 3,000 Malmö residents have weighed in on whether swimwear should be allowed during the “mixed days” at the Ribersborg and Sibbarp cold-water baths. The verdict: a clear majority is against, at least at Kallis. “I understand that.”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T06:01:22+01:00"
-      }
-    },
-    {
-      "id": "159279cb298a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/eslov/grov-misshandel-i-lagenhet",
-      "guid": "acc7082b-4161-4a16-b5b3-fda8d4943e89",
-      "published_at": "2026-11-21T04:46:21+01:00",
-      "fetched_at": "2026-11-21T04:54:30+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Grov misshandel i lägenhet",
-        "summary": "Två personer greps i Eslöv under natten, misstänkta för att ha misshandlat en tredje person i en lägenhet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Aggravated assault in apartment",
-        "summary": "Two people were arrested in Eslöv during the night, suspected of having assaulted a third person in an apartment."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T04:54:31+01:00"
       }
     }
   ]
