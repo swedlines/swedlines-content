@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T09:31:11+01:00",
+  "generated_at": "2026-11-24T09:40:32+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3631eb517c07",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/R1R7g5/trump-bakom-jensen-huangs-comeback-som-nvidias-vd",
+      "guid": "https://www.aftonbladet.se/nyheter/a/R1R7g5/trump-bakom-jensen-huangs-comeback-som-nvidias-vd?utm_medium=rss",
+      "published_at": "2026-11-24T09:35:04+01:00",
+      "fetched_at": "2026-11-24T09:40:20+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/966bf62b-b47c-308b-bc0f-d3c9771701c3?format=auto&s=261d472ef44de9016230294a4b8cd5f82271fff1&w=1000",
+      "sv": {
+        "title": "Spelet bakom Huangs comeback – Trumps order",
+        "summary": "Trumps order ✓ Aktien rusar",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The game behind Huang's comeback – Trump's order",
+        "summary": "Trump's order ✓ Shares soar"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T09:40:30+01:00"
+      }
+    },
     {
       "id": "54f106cc1adf",
       "schema_version": 1,
@@ -5342,33 +5369,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T06:01:22+01:00"
-      }
-    },
-    {
-      "id": "83f0528402a7",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/aGwdm5/historiskt-matematiskt-problem-pastas-lost-med-ai",
-      "guid": "https://www.aftonbladet.se/nyheter/a/aGwdm5/historiskt-matematiskt-problem-pastas-lost-med-ai?utm_medium=rss",
-      "published_at": "2026-11-21T04:14:46+01:00",
-      "fetched_at": "2026-11-21T04:15:47+01:00",
-      "category": "science_tech",
-      "image_url": "https://akamai.vgc.no/v2/images/30aa20cf-e439-3619-a402-9c74e683a7c5?format=auto&s=8433d4928c42ff79693e57b1be1a13426cf52e17&w=1000",
-      "sv": {
-        "title": "Historiskt matematiskt problem påstås löst med AI",
-        "summary": "Riemannhypotesen har varit en gåta sedan 1800-talet. Nu hävdar en Anthropic-anställd matematiker att…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Historic math problem reportedly solved with AI",
-        "summary": "The Riemann hypothesis has been a puzzle since the 1800s. Now an Anthropic employee mathematician claims that…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T04:15:52+01:00"
       }
     }
   ]

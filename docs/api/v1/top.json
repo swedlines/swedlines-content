@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:31:11+01:00",
+  "generated_at": "2026-11-24T09:40:32+01:00",
   "count": 30,
   "stories": [
     {
@@ -896,6 +896,91 @@
       ]
     },
     {
+      "id": "1a6f5899ec1b",
+      "source_count": 3,
+      "sources": [
+        "svd",
+        "sydsvenskan",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-24T08:08:34+01:00",
+      "last_published_at": "2026-11-24T09:35:04+01:00",
+      "lead": {
+        "id": "1a6f5899ec1b",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp",
+        "guid": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp?utm_medium=rss",
+        "published_at": "2026-11-24T08:08:34+01:00",
+        "fetched_at": "2026-11-24T08:15:45+01:00",
+        "category": "economy",
+        "image_url": "https://akamai.vgc.no/v2/images/8d9cf713-b42e-3cf8-aaf4-822fdce94642?format=auto&s=d478a3614beebfbb87d29d916402cc0a53a1615f&w=1000",
+        "sv": {
+          "title": "Huang är tillbaka, vad vill Trump ha?"
+        },
+        "en": {
+          "title": "Huang is back, what does Trump want?"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T08:15:52+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "3631eb517c07",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/R1R7g5/trump-bakom-jensen-huangs-comeback-som-nvidias-vd",
+          "published_at": "2026-11-24T09:35:04+01:00",
+          "sv": {
+            "title": "Spelet bakom Huangs comeback – Trumps order"
+          },
+          "en": {
+            "title": "The game behind Huang's comeback – Trump's order"
+          }
+        },
+        {
+          "id": "c9916cce5a7b",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/nvidias-vd-tillbaka-sa-mycket-tjanade-trump",
+          "published_at": "2026-11-24T09:18:45+01:00",
+          "sv": {
+            "title": "Nvidias vd tillbaka – så mycket tjänade Trump"
+          },
+          "en": {
+            "title": "Nvidia's CEO is back – this is how much Trump earned"
+          }
+        },
+        {
+          "id": "c2b31f8e58da",
+          "source": "svd",
+          "url": "https://www.svd.se/a/aGwMGE/nvidias-vd-tillbaka-sa-mycket-tjanade-trump",
+          "published_at": "2026-11-24T09:15:35+01:00",
+          "sv": {
+            "title": "Nvidias vd tillbaka – så mycket tjänade Trump"
+          },
+          "en": {
+            "title": "Nvidia's CEO is back – this is how much Trump earned"
+          }
+        },
+        {
+          "id": "1a6f5899ec1b",
+          "source": "svd",
+          "url": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp",
+          "published_at": "2026-11-24T08:08:34+01:00",
+          "sv": {
+            "title": "Huang är tillbaka, vad vill Trump ha?"
+          },
+          "en": {
+            "title": "Huang is back, what does Trump want?"
+          }
+        }
+      ]
+    },
+    {
       "id": "9c6f49c55db5",
       "source_count": 3,
       "sources": [
@@ -1657,165 +1742,6 @@
       ]
     },
     {
-      "id": "01033de2367a",
-      "source_count": 3,
-      "sources": [
-        "expressen",
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-23T18:07:55+01:00",
-      "last_published_at": "2026-11-23T21:32:52+01:00",
-      "lead": {
-        "id": "01033de2367a",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-det-kravs-for-att-v-ska-slappa-ministerkravet",
-        "guid": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-det-kravs-for-att-v-ska-slappa-ministerkravet/",
-        "published_at": "2026-11-23T18:07:55+01:00",
-        "fetched_at": "2026-11-23T18:15:45+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Ida Gabrielsson: Det krävs för att V ska släppa ministerkravet",
-          "summary": "Vänsterpartiet står fast vid kravet på ministerposter. Men nu förklarar vice partiledaren Ida Gabrielsson vad som skulle krävas för att partiet ska överväga att backa.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Ida Gabrielsson: This is what it would take for the Left Party to drop the ministerial demand",
-          "summary": "The Left Party is holding firm on its demand for ministerial posts. But now deputy party leader Ida Gabrielsson explains what would be required for the party to consider backing down."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T18:15:53+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "beb4814b3f5b",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/vansterprofilen-leonidas-aretakis-da-kan-v-slappa-ministerkravet-",
-          "published_at": "2026-11-23T21:32:52+01:00",
-          "sv": {
-            "title": "Vänsterprofilen Leonidas Aretakis: Då kan V släppa ministerkravet"
-          },
-          "en": {
-            "title": "Left Party profile Leonidas Aretakis: Then the Left Party can drop its ministerial demand"
-          }
-        },
-        {
-          "id": "04f287503c70",
-          "source": "svd",
-          "url": "https://www.svd.se/a/dJOeqA/s-vill-satta-dit-ida-gabrielsson",
-          "published_at": "2026-11-23T19:49:35+01:00",
-          "sv": {
-            "title": "S vill sätta dit Ida Gabrielsson"
-          },
-          "en": {
-            "title": "S wants to pin down Ida Gabrielsson"
-          }
-        },
-        {
-          "id": "46805ec162be",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/g37l29/v-kan-slappa-ministerkravet-mot-enormt-stora-eftergifter",
-          "published_at": "2026-11-23T18:19:52+01:00",
-          "sv": {
-            "title": "V kan släppa ministerkravet mot \"enormt stora eftergifter\""
-          },
-          "en": {
-            "title": "V may drop ministerial demand in exchange for \"enormous concessions\""
-          }
-        },
-        {
-          "id": "01033de2367a",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-det-kravs-for-att-v-ska-slappa-ministerkravet",
-          "published_at": "2026-11-23T18:07:55+01:00",
-          "sv": {
-            "title": "Ida Gabrielsson: Det krävs för att V ska släppa ministerkravet"
-          },
-          "en": {
-            "title": "Ida Gabrielsson: This is what it would take for the Left Party to drop the ministerial demand"
-          }
-        }
-      ]
-    },
-    {
-      "id": "1a6f5899ec1b",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T08:08:34+01:00",
-      "last_published_at": "2026-11-24T09:18:45+01:00",
-      "lead": {
-        "id": "1a6f5899ec1b",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp",
-        "guid": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp?utm_medium=rss",
-        "published_at": "2026-11-24T08:08:34+01:00",
-        "fetched_at": "2026-11-24T08:15:45+01:00",
-        "category": "economy",
-        "image_url": "https://akamai.vgc.no/v2/images/8d9cf713-b42e-3cf8-aaf4-822fdce94642?format=auto&s=d478a3614beebfbb87d29d916402cc0a53a1615f&w=1000",
-        "sv": {
-          "title": "Huang är tillbaka, vad vill Trump ha?"
-        },
-        "en": {
-          "title": "Huang is back, what does Trump want?"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T08:15:52+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "c9916cce5a7b",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/nvidias-vd-tillbaka-sa-mycket-tjanade-trump",
-          "published_at": "2026-11-24T09:18:45+01:00",
-          "sv": {
-            "title": "Nvidias vd tillbaka – så mycket tjänade Trump"
-          },
-          "en": {
-            "title": "Nvidia's CEO is back – this is how much Trump earned"
-          }
-        },
-        {
-          "id": "c2b31f8e58da",
-          "source": "svd",
-          "url": "https://www.svd.se/a/aGwMGE/nvidias-vd-tillbaka-sa-mycket-tjanade-trump",
-          "published_at": "2026-11-24T09:15:35+01:00",
-          "sv": {
-            "title": "Nvidias vd tillbaka – så mycket tjänade Trump"
-          },
-          "en": {
-            "title": "Nvidia's CEO is back – this is how much Trump earned"
-          }
-        },
-        {
-          "id": "1a6f5899ec1b",
-          "source": "svd",
-          "url": "https://www.svd.se/a/ez8gpg/jensen-huang-vd-pa-nvidia-igen-med-trumps-hjalp",
-          "published_at": "2026-11-24T08:08:34+01:00",
-          "sv": {
-            "title": "Huang är tillbaka, vad vill Trump ha?"
-          },
-          "en": {
-            "title": "Huang is back, what does Trump want?"
-          }
-        }
-      ]
-    },
-    {
       "id": "e5cddff2c9b6",
       "source_count": 2,
       "sources": [
@@ -2450,6 +2376,68 @@
           },
           "en": {
             "title": "Reports: US considers blacklisting Megaspeed"
+          }
+        }
+      ]
+    },
+    {
+      "id": "df033810f719",
+      "source_count": 2,
+      "sources": [
+        "expressen",
+        "svt"
+      ],
+      "first_published_at": "2026-11-23T22:09:52+01:00",
+      "last_published_at": "2026-11-23T22:56:36+01:00",
+      "lead": {
+        "id": "df033810f719",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
+        "guid": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering/",
+        "published_at": "2026-11-23T22:09:52+01:00",
+        "fetched_at": "2026-11-23T22:15:49+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering",
+          "summary": "Det blir ingen rödgrön regering, tror Maud Olofsson. – Jag tror att de har kommit till vägs ände. De har ju suttit hur länge som helst och diskuterat. Man har inte kommit närmare varandra, säger den tidigare C-ledaren i SVT:s ”Aktuellt”.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government",
+          "summary": "There will be no red-green government, believes Maud Olofsson. \"I think they have reached the end of the road. They have sat for ever and discussed. They have not come closer to each other,\" says the former Centre Party leader on SVT's \"Aktuellt\"."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-23T22:15:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "461cefe495cc",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/tidigare-c-ledaren-syna-kristersson",
+          "published_at": "2026-11-23T22:56:36+01:00",
+          "sv": {
+            "title": "Tidigare C-ledaren: ”Syna Kristersson”"
+          },
+          "en": {
+            "title": "Former C leader: \"See through Kristersson\""
+          }
+        },
+        {
+          "id": "df033810f719",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
+          "published_at": "2026-11-23T22:09:52+01:00",
+          "sv": {
+            "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering"
+          },
+          "en": {
+            "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government"
           }
         }
       ]
