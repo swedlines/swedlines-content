@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-24T05:16:03+01:00",
+  "generated_at": "2026-11-24T05:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c1d80221a232",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/vansterpartiet-beklagar-c-s-sidbyte",
+      "guid": "a3c9f852-496b-4c99-a48b-825c6899e8d6",
+      "published_at": "2026-11-24T05:19:57+01:00",
+      "fetched_at": "2026-11-24T05:31:03+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/53eb7780-f6d9-4d9c-afa7-2fda190eaa5b.jpg?width=600",
+      "sv": {
+        "title": "Vänsterpartiet: ”Beklagar C:s sidbyte”",
+        "summary": "Centerpartiet återupptar samtalen med M, KD och L, meddelade Elisabeth Thand Ringqvist på måndagskvällen. Beskedet beklagas av Vänsterpartiet som anser att de rödgröna borde ha ”synat” Centerpartiets röda linjer innan valet, skriver Vänsterpartiets vice partiledare Ida Gabrielsson på X.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Left Party: \"Regrets the Centre Party's switch\"",
+        "summary": "The Centre Party is resuming talks with the Moderates, the Christian Democrats and the Liberals, Elisabeth Thand Ringqvist announced on Monday evening. The Left Party regrets the decision, considering that the red-greens should have \"examined\" the Centre Party's red lines before the election, writes Left Party deputy leader Ida Gabrielsson on X."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T05:31:09+01:00"
+      }
+    },
+    {
+      "id": "e2b54e7bb399",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/varnar-kan-bli-omotiverat-hoga-elnatsavgifter",
+      "guid": "333e7bf0-c471-4202-bc67-67548306291f",
+      "published_at": "2026-11-24T05:16:14+01:00",
+      "fetched_at": "2026-11-24T05:31:03+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/73b5bd5a-a5d9-4fd5-9270-1c7dcdea2dbf.jpg?width=600",
+      "sv": {
+        "title": "Varnar: Kan bli omotiverat höga elnätsavgifter",
+        "summary": "Det finns risk för att svenska hushåll och företag ”under lång tid framöver får betala omotiverat och oskäligt höga elnätsavgifter”, enligt Konkurrensverket.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Warns: Electricity grid fees could become unjustifiably high",
+        "summary": "There is a risk that Swedish households and businesses \"for a long time to come will pay unjustifiably and unreasonably high electricity grid fees\", according to the Competition Authority."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T05:31:09+01:00"
+      }
+    },
     {
       "id": "22bcba1051f9",
       "schema_version": 1,
@@ -5288,60 +5342,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T08:31:12+01:00"
-      }
-    },
-    {
-      "id": "cb644678c495",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/kopradet-som-kraschade",
-      "guid": "3735a415-73e7-42c4-bea6-2ed12d9d8a4f",
-      "published_at": "2026-11-22T08:02:01+01:00",
-      "fetched_at": "2026-11-22T08:15:46+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/4c43e283-a15e-4bd8-9e99-b30a9d8eb760.jpeg?width=600",
-      "sv": {
-        "title": "Köprådet som kraschade",
-        "summary": "Kredithanteraren Intrum har inte lyckats ta sig ur skuldkrisen. När omsättningen dessutom krymper får aktiemarknaden panik. Vårt köpråd blev ett fiasko.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The buy tip that crashed",
-        "summary": "Credit manager Intrum has failed to escape its debt crisis. When turnover also shrinks, the stock market panics. Our buy tip was a fiasco."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T08:15:50+01:00"
-      }
-    },
-    {
-      "id": "bd8afc2c0cf0",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/trumps-oljeaffar-svajar",
-      "guid": "433cd809-d265-4150-bfc2-0441b31851fd",
-      "published_at": "2026-11-21T20:45:53+01:00",
-      "fetched_at": "2026-11-21T21:01:11+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e3fc3302-c0ed-4576-b777-679c605ace9c.jpeg?width=600",
-      "sv": {
-        "title": "Trumps oljeaffär svajar",
-        "summary": "Ett amerikanskt avtal med en kontroversiell miljardär i Venezuela riskerar att åka på bakslag efter Demokraternas storseger i USA:s mellanårsval. Än så länge har landets betydelse på den globala oljemarknaden inte ökat, och den blå vågen skakar om Donald Trumps vision.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump's oil deal wobbles",
-        "summary": "An American deal with a controversial billionaire in Venezuela risks setbacks after the Democrats' landslide in the US midterm elections. So far, the country's importance in the global oil market has not increased, and the blue wave is shaking Donald Trump's vision."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T21:01:16+01:00"
       }
     }
   ]

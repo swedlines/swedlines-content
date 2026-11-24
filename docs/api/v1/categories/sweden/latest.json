@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T05:16:03+01:00",
+  "generated_at": "2026-11-24T05:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dc7563812c77",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/skaningar-har-ratt-att-forvanta-sig-en-sjukvard-som-fungerar",
+      "guid": "c24753c7-d596-4cff-b93a-3af98ab0c569",
+      "published_at": "2026-11-24T05:30:00+01:00",
+      "fetched_at": "2026-11-24T05:31:04+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/d1cd9abc-3a3b-4297-8dc4-b0ff7f732d5b.jpeg?width=600",
+      "sv": {
+        "title": "”Skåningar har rätt att förvänta sig en sjukvård som fungerar.”",
+        "summary": "De förändringar Kristdemokraterna vill driva kräver politiskt mod, skriver Anders Lundström (KD) , tillträdande ordförande i Region Skånes hälso- och sjukvårdsnämnd.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Skåningar have the right to expect health care that works.\"",
+        "summary": "The changes the Christian Democrats want to push require political courage, writes Anders Lundström (KD), incoming chair of the Region Skåne health and medical care committee."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T05:31:09+01:00"
+      }
+    },
     {
       "id": "c305ac520b5b",
       "schema_version": 1,
@@ -5429,29 +5456,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "725e5bb79613",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80093",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80093&utm_medium=rss",
-      "published_at": "2026-11-19T15:29:16+01:00",
-      "fetched_at": "2026-11-19T15:31:00+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Man död i arbetsplatsolycka"
-      },
-      "en": {
-        "title": "Man dies in workplace accident"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:31:07+01:00"
       }
     }
   ]

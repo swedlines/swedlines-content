@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T05:16:03+01:00",
+  "generated_at": "2026-11-24T05:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dc7563812c77",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/skaningar-har-ratt-att-forvanta-sig-en-sjukvard-som-fungerar",
+      "guid": "c24753c7-d596-4cff-b93a-3af98ab0c569",
+      "published_at": "2026-11-24T05:30:00+01:00",
+      "fetched_at": "2026-11-24T05:31:04+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/d1cd9abc-3a3b-4297-8dc4-b0ff7f732d5b.jpeg?width=600",
+      "sv": {
+        "title": "”Skåningar har rätt att förvänta sig en sjukvård som fungerar.”",
+        "summary": "De förändringar Kristdemokraterna vill driva kräver politiskt mod, skriver Anders Lundström (KD) , tillträdande ordförande i Region Skånes hälso- och sjukvårdsnämnd.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Skåningar have the right to expect health care that works.\"",
+        "summary": "The changes the Christian Democrats want to push require political courage, writes Anders Lundström (KD), incoming chair of the Region Skåne health and medical care committee."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T05:31:09+01:00"
+      }
+    },
     {
       "id": "90738eaa913e",
       "schema_version": 1,
@@ -5238,33 +5265,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T14:16:02+01:00"
-      }
-    },
-    {
-      "id": "da399c151c79",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/snokaos-riskerar-skjuta-upp-sirius-djurgarden",
-      "guid": "0bc27e69-de95-4ab7-9eaa-dc482fc4e9bf",
-      "published_at": "2026-11-20T13:49:06+01:00",
-      "fetched_at": "2026-11-20T14:01:22+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/c975e709-5c54-4dce-bd5b-d6c03ef37cf7.jpg?width=600",
-      "sv": {
-        "title": "Snökaos riskerar skjuta upp Sirius–Djurgården",
-        "summary": "Sirius slåss om SM-guldet i fotbollsallsvenskan. Men nu hotar ett snöoväder att skjuta upp söndagens hemmamöte med Djurgården. – Det finns absolut en risk för det, säger Stefan Wittberg, affärsområdeschef på Uppsala arenor och fastigheter, till UNT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Snow chaos risks postponing Sirius–Djurgården",
-        "summary": "Sirius are fighting for the SM gold in the Allsvenskan football league. But now a snowstorm threatens to postpone Sunday's home match against Djurgården. \"There is absolutely a risk of that,\" says Stefan Wittberg, business area manager at Uppsala arenor och fastigheter, to UNT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T14:01:29+01:00"
       }
     }
   ]
