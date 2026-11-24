@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T00:45:50+01:00",
+  "generated_at": "2026-11-25T00:51:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ad11dca35aa2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/skulle-hjalpa-sin-son-foll-150-meter",
+      "guid": "https://www.expressen.se/nyheter/varlden/skulle-hjalpa-sin-son-foll-150-meter/",
+      "published_at": "2026-11-25T00:49:22+01:00",
+      "fetched_at": "2026-11-25T00:51:28+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Skulle hjälpa sin son – föll 150 meter",
+        "summary": "Guillermo Alejandro Batres försökte hjälpa sin son. Då föll han 150 meter mot sin död. ”Detta är en otroligt svår tid”, skriver hans systerdotter Jennifer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tried to help his son – fell 150 metres",
+        "summary": "Guillermo Alejandro Batres tried to help his son. He then fell 150 metres to his death. \"This is an incredibly difficult time,\" writes his niece Jennifer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T00:51:32+01:00"
+      }
+    },
     {
       "id": "1f9896091c0a",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T13:01:30+01:00"
-      }
-    },
-    {
-      "id": "b042c1cfdbad",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bc2211e4-7d42-4716-86dc-89cb4a393906",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bc2211e4-7d42-4716-86dc-89cb4a393906",
-      "published_at": "2026-11-21T12:39:21+01:00",
-      "fetched_at": "2026-11-21T12:45:53+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ryskt fartyg brinner",
-        "summary": "Driver in på finskt vatten",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russian vessel on fire",
-        "summary": "Drifting into Finnish waters"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T12:45:59+01:00"
       }
     }
   ]

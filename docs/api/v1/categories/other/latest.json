@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T00:45:50+01:00",
+  "generated_at": "2026-11-25T00:51:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ad11dca35aa2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/skulle-hjalpa-sin-son-foll-150-meter",
+      "guid": "https://www.expressen.se/nyheter/varlden/skulle-hjalpa-sin-son-foll-150-meter/",
+      "published_at": "2026-11-25T00:49:22+01:00",
+      "fetched_at": "2026-11-25T00:51:28+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Skulle hjälpa sin son – föll 150 meter",
+        "summary": "Guillermo Alejandro Batres försökte hjälpa sin son. Då föll han 150 meter mot sin död. ”Detta är en otroligt svår tid”, skriver hans systerdotter Jennifer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tried to help his son – fell 150 metres",
+        "summary": "Guillermo Alejandro Batres tried to help his son. He then fell 150 metres to his death. \"This is an incredibly difficult time,\" writes his niece Jennifer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T00:51:32+01:00"
+      }
+    },
     {
       "id": "73713f7d989a",
       "schema_version": 1,
@@ -5511,33 +5537,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T13:31:13+01:00"
-      }
-    },
-    {
-      "id": "0f0aaaf8951d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/bk5gxe/skrackvaldet-innan-bomben-hoppas-du-dor",
-      "guid": "https://www.aftonbladet.se/nyheter/a/bk5gxe/skrackvaldet-innan-bomben-hoppas-du-dor?utm_medium=rss",
-      "published_at": "2026-11-14T23:58:08+01:00",
-      "fetched_at": "2026-11-15T01:26:19+01:00",
-      "category": "other",
-      "image_url": "https://akamai.vgc.no/v2/images/64936ba3-dd85-37e3-a479-bfe81a26b3ec?format=auto&s=e9e289f024a6ee33669629735251994dde330c17&w=1000",
-      "sv": {
-        "title": "Skräckväldet innan bomben: Hoppas du dör",
-        "summary": "Avslöjar AI-toppen ✓ ”Står du och flinar?!”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reign of terror before the bomb: Hope you die",
-        "summary": "Reveals AI top ✓ \"Are you standing there grinning?!\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T01:26:27+01:00"
       }
     }
   ]

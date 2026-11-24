@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T00:45:50+01:00",
+  "generated_at": "2026-11-25T00:51:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ad11dca35aa2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/skulle-hjalpa-sin-son-foll-150-meter",
+      "guid": "https://www.expressen.se/nyheter/varlden/skulle-hjalpa-sin-son-foll-150-meter/",
+      "published_at": "2026-11-25T00:49:22+01:00",
+      "fetched_at": "2026-11-25T00:51:28+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Skulle hjälpa sin son – föll 150 meter",
+        "summary": "Guillermo Alejandro Batres försökte hjälpa sin son. Då föll han 150 meter mot sin död. ”Detta är en otroligt svår tid”, skriver hans systerdotter Jennifer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tried to help his son – fell 150 metres",
+        "summary": "Guillermo Alejandro Batres tried to help his son. He then fell 150 metres to his death. \"This is an incredibly difficult time,\" writes his niece Jennifer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T00:51:32+01:00"
+      }
+    },
     {
       "id": "c755722b022c",
       "schema_version": 1,
@@ -5381,33 +5407,6 @@
       "en": {
         "title": "One year after the chaotic final – Senegal gets the title",
         "summary": "The final ended in chaos and confusion – and now, almost a year later, the Court of Arbitration for Sport has…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T15:45:58+01:00"
-      }
-    },
-    {
-      "id": "9ce6a0063d2d",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/kMJVeQ/sa-smiddes-planerna-for-ai-kungen-jensen-huangs-aterkomst",
-      "guid": "https://www.svd.se/a/kMJVeQ/sa-smiddes-planerna-for-ai-kungen-jensen-huangs-aterkomst?utm_medium=rss",
-      "published_at": "2026-11-24T15:34:07+01:00",
-      "fetched_at": "2026-11-24T15:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/813f4277-c596-3ca7-b415-2c46768b6d73?format=auto&s=f9215e12b354261dd778dd8e9931c8cf54685ed5&w=1000",
-      "sv": {
-        "title": "Så smiddes planerna för AI-kungens återkomst",
-        "summary": "Knappt två veckor efter att Jensen Huang tvingades lämna Nvidia är han tillbaka.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "How the plans for the AI king's return were made",
-        "summary": "Barely two weeks after Jensen Huang was forced to leave Nvidia, he is back."
       },
       "translation": {
         "status": "done",
