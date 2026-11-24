@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-11-24T15:01:24+01:00",
+  "generated_at": "2026-11-24T15:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2b02b413a1bc",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/c-kan-ocksa-gora-som-sd",
+      "guid": "ad24abcf-72d3-4adf-a52f-d12cae5b2456",
+      "published_at": "2026-11-24T15:12:28+01:00",
+      "fetched_at": "2026-11-24T15:15:51+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/13c2b3d0-6a89-4579-b9e9-323c83075e88.jpeg?width=600",
+      "sv": {
+        "title": "C kan också göra som SD"
+      },
+      "en": {
+        "title": "C can also do as SD"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:15:56+01:00"
+      }
+    },
+    {
+      "id": "b72493a56876",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/c-kommunalradet-varnar-vi-kommer-ga-samma-ode-till-motes-som-liberalerna",
+      "guid": "https://www.dn.se/sverige/c-kommunalradet-varnar-vi-kommer-ga-samma-ode-till-motes-som-liberalerna/",
+      "published_at": "2026-11-24T15:11:21+01:00",
+      "fetched_at": "2026-11-24T15:15:47+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/a0ee232c-1af4-489f-9cd3-4e575fa51e94.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "C-kommunalrådet varnar: ”Vi kommer gå samma öde till mötes som Liberalerna”",
+        "summary": "Förhandla med den rödgröna sidan. Om det inte går borde Centerpartiet förhandla om ett S-C-M-styre. Om det inte går borde Centerpartiet gå i opposition. Det säger Tomas Selin (C), kommunalråd i Huddinge.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C municipal commissioner warns: \"We will face the same fate as the Liberals\"",
+        "summary": "Negotiate with the red-green side. If that fails, the Centre Party should negotiate an S-C-M administration. If that fails, the Centre Party should go into opposition. So says Tomas Selin (C), municipal commissioner in Huddinge."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:15:56+01:00"
+      }
+    },
     {
       "id": "1123f7a2cac9",
       "schema_version": 1,
@@ -5320,62 +5371,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T19:15:49+01:00"
-      }
-    },
-    {
-      "id": "ed33c30edbce",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4PyBEQXaJ3aKKKrBkTheyU/s-nya-bud-till-v-dissades-efter-20-minuter-inte-serioest",
-      "guid": "4PyBEQXaJ3aKKKrBkTheyU",
-      "published_at": "2026-11-22T18:44:04+01:00",
-      "fetched_at": "2026-11-22T19:01:11+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "V-toppen dissade nya budet – efter 20 minuter: ”Inte seriöst”",
-        "summary": "Elva punkter – och en ursäkt från Andersson • Gabrielsson: ”Tack, men nej tack”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "V top rejected new offer – after 20 minutes: \"Not serious\"",
-        "summary": "Eleven points – and an apology from Andersson • Gabrielsson: \"Thanks, but no thanks\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T19:01:16+01:00"
-      }
-    },
-    {
-      "id": "c57530a638ad",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/oMpG20/se-s-hela-lista-till-v-11-punkter",
-      "guid": "https://www.aftonbladet.se/nyheter/a/oMpG20/se-s-hela-lista-till-v-11-punkter?utm_medium=rss",
-      "published_at": "2026-11-22T18:39:57+01:00",
-      "fetched_at": "2026-11-22T18:45:47+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/562ace6b-3001-380f-b73b-e5231a284b79?format=auto&s=ea7ab31728cda1162127ab7cfdc07306ea5ee5de&w=1000",
-      "sv": {
-        "title": "Här är Vänsterpartiets ”starterpack”",
-        "summary": "Hela listan – 11 punkter",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here is the Left Party's “starter pack”",
-        "summary": "The full list – 11 points"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T18:45:53+01:00"
       }
     }
   ]

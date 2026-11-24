@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-24T15:01:24+01:00",
+  "generated_at": "2026-11-24T15:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5f6224572f0b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/rekyl-i-korten-efter-rallyt-pa-wall-streets",
+      "guid": "e498376a-2a36-4bb7-aa16-45be0699f56d",
+      "published_at": "2026-11-24T15:10:44+01:00",
+      "fetched_at": "2026-11-24T15:15:49+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d76f8456-1aba-4f87-8d6d-e928cbd0dc00.jpeg?width=600",
+      "sv": {
+        "title": "Rekyl i korten efter rallyt på Wall Streets",
+        "summary": "Terminerna på Wall Street indikerade en öppning i rött territorium på tisdagen. Efter det börsrally som på måndagen utlöstes av Jensen Huangs återvändande till vd-posten för chipjätten Nvidia, har nu ny oro över AI-sektorns lönsamhet sakta kommit tillbaka.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stocks pull back after Wall Street rally",
+        "summary": "Wall Street futures indicated a opening in red territory on Tuesday. Following the stock rally on Monday triggered by Jensen Huang's return as CEO of chip giant Nvidia, new concern over the profitability of the AI sector has slowly returned."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:15:56+01:00"
+      }
+    },
+    {
+      "id": "933983a6e460",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/skanska-tar-miljardorder-fran-norska-forsvarsmakten",
+      "guid": "e36070d6-ac62-42d9-8e95-532e04ade5ee",
+      "published_at": "2026-11-24T15:07:26+01:00",
+      "fetched_at": "2026-11-24T15:15:49+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Skanska tar miljardorder från norska försvarsmakten",
+        "summary": "Byggbolaget Skanska tar en order värd 2,9 miljarder kronor från norska Forsvarsbygg om att bygga en ny underhålls- och administrationsanläggning vid marinbasen Haakonsvern i Bergen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Skanska wins billion-kronor order from Norwegian armed forces",
+        "summary": "Construction company Skanska wins an order worth SEK 2.9 billion from Norway's Forsvarsbygg to build a new maintenance and administration facility at the Haakonsvern naval base in Bergen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:15:56+01:00"
+      }
+    },
     {
       "id": "f6f148c2d816",
       "schema_version": 1,
@@ -5266,59 +5319,6 @@
       "en": {
         "title": "Mood sinks for British business",
         "summary": "The composite purchasing managers' index for the United Kingdom fell to 52.3 in November, compared with 52.9 the previous month. This is shown by preliminary statistics from S&P Global."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T10:45:57+01:00"
-      }
-    },
-    {
-      "id": "01f82ff09295",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/ubs-telia-utmarker-sig-i-norden",
-      "guid": "d30841ad-bfd5-4f07-a76d-5ba638d0d562",
-      "published_at": "2026-11-23T10:31:47+01:00",
-      "fetched_at": "2026-11-23T10:45:49+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "UBS: Telia utmärker sig i Norden",
-        "summary": "Teleoperatören Telia utmärker sig inom det nordiska klustret och i branschen i stort för kvaliteter som sträcker sig från aktiens defensiva egenskaper och genomförandeförmåga till utrymme för fortsatta uppgraderingar av konsensusprognoserna, skriver UBS.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "UBS: Telia stands out in the Nordics",
-        "summary": "Telecom operator Telia stands out in the Nordic cluster and in the industry as a whole for qualities ranging from the share's defensive characteristics and execution capability to room for further upgrades of consensus forecasts, UBS writes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T10:45:57+01:00"
-      }
-    },
-    {
-      "id": "96896f50c2ba",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/attacker-mot-flera-ryska-oljeanlaggningar-YXghr",
-      "guid": "850e49ac-13bc-46b2-b750-93f94694fe01",
-      "published_at": "2026-11-23T10:31:35+01:00",
-      "fetched_at": "2026-11-23T10:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0ad83695-32f7-4504-b37c-f5f49a0618c5.jpg?width=600",
-      "sv": {
-        "title": "Attacker mot flera ryska oljeanläggningar",
-        "summary": "En oljeanläggning i ryska Tatarstan har angripits av ukrainska drönare. Två ryska raffinaderier rapporteras därtill stå i brand.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Attacks on several Russian oil facilities",
-        "summary": "An oil facility in Russia's Tatarstan has been attacked by Ukrainian drones. Two Russian refineries are also reported to be on fire."
       },
       "translation": {
         "status": "done",

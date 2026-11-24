@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T15:01:24+01:00",
+  "generated_at": "2026-11-24T15:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "251000b0c435",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/2vGawx/kastade-handgranat-i-malmo-fem-ars-fangelse",
+      "guid": "https://www.aftonbladet.se/nyheter/a/2vGawx/kastade-handgranat-i-malmo-fem-ars-fangelse?utm_medium=rss",
+      "published_at": "2026-11-24T15:09:15+01:00",
+      "fetched_at": "2026-11-24T15:15:48+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/aa7d79db-90e2-3875-9ec0-6ca787766f14?format=auto&s=3e4749eba3ea11fad44279031abc8fdf6436f261&w=1000",
+      "sv": {
+        "title": "Kastade handgranat i Malmö – fem års fängelse",
+        "summary": "En 18-årig man döms till fem års fängelse för att i våras ha kastat en handgranat som exploderade…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Threw hand grenade in Malmö – five years in prison",
+        "summary": "An 18-year-old man is convicted and sentenced to five years in prison for throwing a hand grenade this spring that exploded…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T15:15:56+01:00"
+      }
+    },
     {
       "id": "ce46b8255177",
       "schema_version": 1,
@@ -5400,35 +5427,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T18:31:15+01:00"
-      }
-    },
-    {
-      "id": "8faf9f6b1d8e",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/7mly3FwVfUKx1km84NNCIH/bodendadet-psykiatrin-anmaeler-sig-sjaelv",
-      "guid": "7mly3FwVfUKx1km84NNCIH",
-      "published_at": "2026-11-19T18:07:46+01:00",
-      "fetched_at": "2026-11-19T18:15:47+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Boden"
-      ],
-      "sv": {
-        "title": "Efter brutala Bodendådet – psykiatrin medger brister",
-        "summary": "Psykiatrin i Norrbotten har gjort en händelseanalys av vården av patienten i 20-årsåldern. Fallet har fått stor uppmärksamhet och mannen sköts till döds i samband med att polisen anlände till villaområdet i Boden där gärningarna skedde.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "After brutal Boden killing – psychiatry admits shortcomings",
-        "summary": "Psychiatry in Norrbotten has carried out an incident analysis of the care of the patient in his twenties. The case has attracted great attention, and the man was shot dead in connection with police arriving at the villa area in Boden where the acts took place."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:15:54+01:00"
       }
     }
   ]
