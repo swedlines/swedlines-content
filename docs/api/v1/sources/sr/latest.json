@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T12:46:01+01:00",
+  "generated_at": "2026-11-24T13:01:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "626eaea256e2",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348829",
+      "guid": "rss:sr.se/article/9348829",
+      "published_at": "2026-11-24T12:52:00+01:00",
+      "fetched_at": "2026-11-24T13:01:07+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Här står partierna i regeringsfrågan efter talmansrundan",
+        "summary": "Efter tisdagens talmansrunda meddelade att Magdalena Andersson (S) att hon inte ser några förutsättningar att kunna bilda regering och att det beror på att Vänsterpartiet inte samarbetat i samma utsträckning som Centerpartiet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Here's where the parties stand on government formation after the speaker's round",
+        "summary": "After Tuesday's speaker's round, Magdalena Andersson (S) announced that she sees no prerequisites for forming a government, and that this is because the Left Party has not cooperated to the same extent as the Centre Party."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:01:15+01:00"
+      }
+    },
     {
       "id": "23ad474928e9",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Ruling on possible genocide in Myanmar now due",
         "summary": "Today the UN's highest court rules on whether Myanmar committed genocide against the Rohingya in 2017, when the military killed thousands of people from the Muslim group. According to UN investigators, a cautious estimate is that 10,000 people were killed. Over 700,000 fled the country."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T05:31:11+01:00"
-      }
-    },
-    {
-      "id": "9fc193c95638",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340675",
-      "guid": "rss:sr.se/article/9340675",
-      "published_at": "2026-11-19T05:25:00+01:00",
-      "fetched_at": "2026-11-19T05:30:58+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "LKAB vill frakta järnmalm till Stegras stålverk",
-        "summary": "LKAB har inlett tester för att kunna frakta järnmalm från gruvorna i Gällivare till Stegras blivande stålverk i Boden. När Stegra först ville köpa järnmalm från LKAB sa den statliga gruvjätten nej och hänvisade till att det var för trångt på järnvägen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "LKAB wants to transport iron ore to Stegra's steel plant",
-        "summary": "LKAB has started tests to transport iron ore from the mines in Gällivare to Stegra's planned steel plant in Boden. When Stegra first wanted to buy iron ore from LKAB, the state-owned mining giant said no, citing that the railway was too congested."
       },
       "translation": {
         "status": "done",

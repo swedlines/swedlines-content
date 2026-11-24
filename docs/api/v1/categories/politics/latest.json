@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-24T12:46:01+01:00",
+  "generated_at": "2026-11-24T13:01:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "39447290df58",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/m-lyfter-i-opinionen-hack-i-hal-pa-s",
+      "guid": "https://www.dn.se/sverige/m-lyfter-i-opinionen-hack-i-hal-pa-s/",
+      "published_at": "2026-11-24T13:00:25+01:00",
+      "fetched_at": "2026-11-24T13:01:08+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/f17af670-683f-4a17-b92c-1ed1d85a9b83.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "M lyfter i opinionen – hack i häl på S",
+        "summary": "Ulf Kristersson må leda en vingklippt regering men i opinionen flyger hans parti fram. Moderaterna får sin högsta notering på nästan åtta år i DN/Ipsos novembermätning. Avståndet till Socialdemokraterna är nu inom felmarginalen – samtidigt som ett extraval rycker närmare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "M rises in the polls – hot on S's heels",
+        "summary": "Ulf Kristersson may lead a clipped government, but in the polls his party is climbing. The Moderates reach their highest rating in almost eight years in the DN/Ipsos November poll. The gap to the Social Democrats is now within the margin of error – while a snap election moves closer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:01:15+01:00"
+      }
+    },
+    {
+      "id": "626eaea256e2",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348829",
+      "guid": "rss:sr.se/article/9348829",
+      "published_at": "2026-11-24T12:52:00+01:00",
+      "fetched_at": "2026-11-24T13:01:07+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Här står partierna i regeringsfrågan efter talmansrundan",
+        "summary": "Efter tisdagens talmansrunda meddelade att Magdalena Andersson (S) att hon inte ser några förutsättningar att kunna bilda regering och att det beror på att Vänsterpartiet inte samarbetat i samma utsträckning som Centerpartiet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Here's where the parties stand on government formation after the speaker's round",
+        "summary": "After Tuesday's speaker's round, Magdalena Andersson (S) announced that she sees no prerequisites for forming a government, and that this is because the Left Party has not cooperated to the same extent as the Centre Party."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:01:15+01:00"
+      }
+    },
+    {
+      "id": "c3cbadda9fc2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=54620530-d1c5-4d4a-aecc-70538e0d3851",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=54620530-d1c5-4d4a-aecc-70538e0d3851",
+      "published_at": "2026-11-24T12:49:43+01:00",
+      "fetched_at": "2026-11-24T13:01:09+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Busch: ”Dags att byta spår”",
+        "summary": "KD-ledarens C-invit efter mötet med talmannen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Busch: \"Time to change tack\"",
+        "summary": "KD leader's invitation to C after meeting with the speaker"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:01:15+01:00"
+      }
+    },
     {
       "id": "366a612f3680",
       "schema_version": 1,
@@ -5286,85 +5365,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T16:45:53+01:00"
-      }
-    },
-    {
-      "id": "704329ad11ab",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a0ea8b92-bb83-4583-b470-700748c02ff2",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a0ea8b92-bb83-4583-b470-700748c02ff2",
-      "published_at": "2026-11-22T15:54:10+01:00",
-      "fetched_at": "2026-11-22T16:01:12+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C-distriktet: ”Olyckligt”",
-        "summary": "Internt bråk blossar upp: ”Olyckligt”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Centre Party district: “Unfortunate”",
-        "summary": "Internal feud flares up: “Unfortunate”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "02a0c1a3e63e",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347880",
-      "guid": "rss:sr.se/article/9347880",
-      "published_at": "2026-11-22T15:45:00+01:00",
-      "fetched_at": "2026-11-22T16:01:09+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Centerstrid inför öppen ridå – nytt distrikt sätter ner foten",
-        "summary": "Ett offentligt bråk har blossat upp inom Centerpartiet. Centerpartiets näst största distrikt Stockholm slår nu tillbaka efter flera utspel från Centerpartister som vill se en ny alliansregering.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Centre Party infighting ahead of curtain-up – new district puts its foot down",
-        "summary": "A public row has flared up within the Centre Party. The Centre Party's second-largest district, Stockholm, is now hitting back after several statements from Centre Party members who want to see a new Alliance government."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "9c2dc9c20db9",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/karin-eriksson-pikant-att-de-borgerliga-ser-danmark-som-forebild",
-      "guid": "https://www.dn.se/sverige/karin-eriksson-pikant-att-de-borgerliga-ser-danmark-som-forebild/",
-      "published_at": "2026-11-22T15:17:34+01:00",
-      "fetched_at": "2026-11-22T15:28:59+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/a68e4d8a-b0f6-4896-8401-8d7f932b0b42.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Karin Eriksson: Pikant att de borgerliga ser Danmark som förebild",
-        "summary": "Kristersson och hans regeringskollegor drömmer om att bryta dödlägen i svensk politik utifrån en dansk modell. Det är lite pikant. Det sitter en S-ledd regering i Köpenhamn – och den har precis splittrat det blå blocket i Danmark.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Karin Eriksson: Piquant that the bourgeois parties see Denmark as a model",
-        "summary": "Kristersson and his government colleagues dream of breaking deadlocks in Swedish politics using a Danish model. That is somewhat piquant. Copenhagen has a Social Democrat-led government – and it has just split the blue bloc in Denmark."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:29:12+01:00"
       }
     }
   ]

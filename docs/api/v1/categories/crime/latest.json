@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:46:01+01:00",
+  "generated_at": "2026-11-24T13:01:18+01:00",
   "count": 200,
   "items": [
     {
@@ -27,6 +27,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T12:45:56+01:00"
+      }
+    },
+    {
+      "id": "9715ae040f2b",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/halland/hyresavtalet-med-halmstad-moske-sags-upp",
+      "guid": "https://www.svt.se/nyheter/lokalt/halland/hyresavtalet-med-halmstad-moske-sags-upp",
+      "published_at": "2026-11-24T12:28:10+01:00",
+      "fetched_at": "2026-11-24T13:01:07+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Kommunen ska säga upp hyresavtal med Halmstads moské efter avslöjande om månggifte",
+        "summary": "Efter Uppdrag gransknings avslöjande där en imam sagt ja till att ordna ett månggifte, säger nu styret i Halmstad upp hyresavtalet med moskén, som huserar i en av kommunens lokaler. – Vi säger i en enig kommunstyrelse, det här är inte ett acceptabelt beteende.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Municipality to terminate lease with Halmstad mosque after multiple-marriage revelation",
+        "summary": "After Uppdrag granskning revealed that an imam agreed to arrange a multiple marriage, the Halmstad leadership is now terminating the lease with the mosque, which occupies one of the municipality's premises. – In a unanimous municipal executive board, we are saying this is unacceptable behaviour."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:01:15+01:00"
       }
     },
     {
@@ -5403,33 +5429,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:45:52+01:00"
-      }
-    },
-    {
-      "id": "24e060f9942f",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/hermestjuvar-stal-varor-for-tva-miljoner-i-oslo",
-      "guid": "https://www.dn.se/varlden/hermestjuvar-stal-varor-for-tva-miljoner-i-oslo/",
-      "published_at": "2026-11-19T16:16:38+01:00",
-      "fetched_at": "2026-11-19T16:31:00+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/7329470c-b929-41e5-aa48-9c8132d1d3fc.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Hermèstjuvar stal varor för två miljoner i Oslo",
-        "summary": "Väskor, bälten och kläder för två miljoner norska kronor stals från Hermèsbutiken i centrala Oslo tidigare i veckan, enligt NRK. Tre personer flydde efteråt i en bil och fångades på bild av en fartkamera. Det här är tredje inbrottet på samma gata i år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hermès thieves stole goods worth two million in Oslo",
-        "summary": "Bags, belts and clothing worth two million Norwegian kroner were stolen from the Hermès shop in central Oslo earlier this week, according to NRK. Three people fled afterwards in a car and were caught on camera by a speed camera. This is the third break-in on the same street this year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:31:09+01:00"
       }
     }
   ]

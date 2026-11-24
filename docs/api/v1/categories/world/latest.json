@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-24T12:46:01+01:00",
+  "generated_at": "2026-11-24T13:01:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3d7a9e118cc8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/OypKp3/brevstrid-om-utslappshandel",
+      "guid": "https://www.aftonbladet.se/nyheter/a/OypKp3/brevstrid-om-utslappshandel?utm_medium=rss",
+      "published_at": "2026-11-24T12:48:38+01:00",
+      "fetched_at": "2026-11-24T13:01:09+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/5b7ece00-7250-3968-a343-00eeca33bdca?format=auto&s=528a20e38839ffc8959887c6d493acc48949cb24&w=1000",
+      "sv": {
+        "title": "Brevstrid om utsläppshandel",
+        "summary": "Kravbreven följer på varandra när olika EU-länder kämpar för eller emot en utökning av…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letters pile up over emissions trading",
+        "summary": "Demand letters follow one another as various EU countries fight for or against an expansion of…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:01:15+01:00"
+      }
+    },
+    {
+      "id": "0683b08b0ce1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trump-vill-ha-fred-i-ukraina-fore-januari",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-vill-ha-fred-i-ukraina-fore-januari/",
+      "published_at": "2026-11-24T12:47:57+01:00",
+      "fetched_at": "2026-11-24T13:01:09+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump vill ha fred i Ukraina – före januari",
+        "summary": "Efter mötet med Vladimir Putin i Kina sa Donald Trump att Moskva är ”redo för fred”. USA:s president vill ha ett fredsavtal klart innan den nya kongressen tillträder i januari, uppger källor för Financial Times.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump wants peace in Ukraine – before January",
+        "summary": "After meeting Vladimir Putin in China, Donald Trump said Moscow is \"ready for peace\". The US president wants a peace agreement in place before the new Congress takes office in January, sources tell the Financial Times."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:01:15+01:00"
+      }
+    },
     {
       "id": "c2a86fc35810",
       "schema_version": 1,
@@ -5300,60 +5353,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T12:16:00+01:00"
-      }
-    },
-    {
-      "id": "6a784b59d84b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/aGwoPa/sverige-lamnar-klimatmotet",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/aGwoPa/sverige-lamnar-klimatmotet?utm_medium=rss",
-      "published_at": "2026-11-22T11:53:21+01:00",
-      "fetched_at": "2026-11-22T12:30:59+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/442dfea8-54d3-34e7-b8c0-05027a612311?format=auto&s=e75ea715c925d4b686e6ff85af53bae24b7f27e2&w=1000",
-      "sv": {
-        "title": "Sverige lämnar klimatmötet",
-        "summary": "Ingen överenskommelse nådd",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sweden leaves the climate summit",
-        "summary": "No agreement reached"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T12:31:05+01:00"
-      }
-    },
-    {
-      "id": "4ce7c8da07d6",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/slutmotet-i-gang-nytt-klimatutkast-pa-bordet",
-      "guid": "ece752c7-cca9-4b20-8d24-d3d937feea6c",
-      "published_at": "2026-11-22T11:44:02+01:00",
-      "fetched_at": "2026-11-22T11:45:46+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/db7d2d12-386c-4fd2-bcd2-3864eeb7334d.jpg?width=600",
-      "sv": {
-        "title": "Slutmötet i gång – nytt klimatutkast på bordet",
-        "summary": "Klimattoppmötet COP31 är inne på övertid. Mer än 40 timmar efter att mötet egentligen skulle ha avslutats finns ingen överenskommelse, och allt fler delegater lämnar mötet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Final session under way – new climate draft on the table",
-        "summary": "The COP31 climate summit is in overtime. More than 40 hours after the meeting was due to end, there is no agreement, and a growing number of delegates are leaving the meeting."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T11:45:48+01:00"
       }
     }
   ]

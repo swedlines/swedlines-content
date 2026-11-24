@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T12:46:01+01:00",
+  "generated_at": "2026-11-24T13:01:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9715ae040f2b",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/halland/hyresavtalet-med-halmstad-moske-sags-upp",
+      "guid": "https://www.svt.se/nyheter/lokalt/halland/hyresavtalet-med-halmstad-moske-sags-upp",
+      "published_at": "2026-11-24T12:28:10+01:00",
+      "fetched_at": "2026-11-24T13:01:07+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Kommunen ska säga upp hyresavtal med Halmstads moské efter avslöjande om månggifte",
+        "summary": "Efter Uppdrag gransknings avslöjande där en imam sagt ja till att ordna ett månggifte, säger nu styret i Halmstad upp hyresavtalet med moskén, som huserar i en av kommunens lokaler. – Vi säger i en enig kommunstyrelse, det här är inte ett acceptabelt beteende.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Municipality to terminate lease with Halmstad mosque after multiple-marriage revelation",
+        "summary": "After Uppdrag granskning revealed that an imam agreed to arrange a multiple marriage, the Halmstad leadership is now terminating the lease with the mosque, which occupies one of the municipality's premises. – In a unanimous municipal executive board, we are saying this is unacceptable behaviour."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:01:15+01:00"
+      }
+    },
     {
       "id": "066032135d7a",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T10:45:55+01:00"
-      }
-    },
-    {
-      "id": "e834a5cacc99",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/langdskidor/regeringen-om-ryska-idrottare-infor-skid-vm-i-falun",
-      "guid": "https://www.svt.se/sport/langdskidor/regeringen-om-ryska-idrottare-infor-skid-vm-i-falun",
-      "published_at": "2026-11-18T10:29:38+01:00",
-      "fetched_at": "2026-11-18T11:30:56+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Regeringen vill stoppa ryska idrottare inför skid-VM i Falun",
-        "summary": "I slutet av februari inleds skid-VM i Falun. Inför det meddelade regeringen idag på en pressträff att de inte vill tillåta ryska idrottare att tävla på svensk mark.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Government wants to stop Russian athletes ahead of Falun ski world championships",
-        "summary": "At the end of February the Falun ski world championships begin. Ahead of that, the government announced at a press conference today that it does not want to allow Russian athletes to compete on Swedish soil."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T11:31:06+01:00"
       }
     }
   ]
