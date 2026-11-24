@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-24T17:01:21+01:00",
+  "generated_at": "2026-11-24T17:16:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d13d8d91ac06",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/talmannen-pataglig-risk-for-extra-val",
+      "guid": "85b1ca94-2b89-47bc-a670-3e00fa1caf76",
+      "published_at": "2026-11-24T17:06:15+01:00",
+      "fetched_at": "2026-11-24T17:15:53+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c470c221-6613-4962-b477-3c8f0d9c7931.jpeg?width=600",
+      "sv": {
+        "title": "Talmannen: ”Påtaglig risk” för extra val",
+        "summary": "Talman Andreas Norlén beskriver beslutet att låta Ulf Kristersson gå till omröstning i en tredje statsministeromröstning på måndag. ”Jag vill att den här processen ska vara avslutad före jul”, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Speaker: \"Substantial risk\" of snap election",
+        "summary": "Speaker Andreas Norlén describes the decision to put Ulf Kristersson to a vote in a third prime ministerial vote on Monday. \"I want this process to be concluded before Christmas\", he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T17:15:59+01:00"
+      }
+    },
+    {
+      "id": "d17d9e73e91d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/nyheter/talmannen-riksdagen-ska-rosta-om-ulf-kristersson",
+      "guid": "a1197b45-26e2-5d2b-a13e-d920b8471388",
+      "published_at": "2026-11-24T17:02:22+01:00",
+      "fetched_at": "2026-11-24T17:15:53+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Talmannen: Riksdagen ska rösta om Ulf Kristersson",
+        "summary": "Talman Andreas Norlén meddelade att Riksdagen ska rösta om Ulf Kristersson som statsminister.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Speaker: Riksdag to vote on Ulf Kristersson",
+        "summary": "Speaker Andreas Norlén announced that the Riksdag will vote on Ulf Kristersson as prime minister."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T17:15:59+01:00"
+      }
+    },
     {
       "id": "5b61b831614e",
       "schema_version": 1,
@@ -5233,59 +5286,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T22:15:55+01:00"
-      }
-    },
-    {
-      "id": "059a1e6837f9",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348677",
-      "guid": "rss:sr.se/article/9348677",
-      "published_at": "2026-11-23T21:54:00+01:00",
-      "fetched_at": "2026-11-23T22:01:11+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Uppgifter: Trump gav garantier om Huang till Nvidiastyrelse",
-        "summary": "Donald Trump drev på för att Jensen Huang skulle återvända som vd för chipjätten Nvidia, enligt uppgifter till New York Times. Nvidia meddelade på måndagen att Huang återtillträder. Trump har ifrågasatt misstankarna om att en kvinna som Huang haft en affär med skulle vara kinesisk spion.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Reports: Trump gave guarantees about Huang to Nvidia board",
-        "summary": "Donald Trump pushed for Jensen Huang to return as CEO of chip giant Nvidia, according to reports to the New York Times. Nvidia announced on Monday that Huang is returning. Trump has questioned the suspicions that a woman Huang had an affair with was a Chinese spy."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:01:21+01:00"
-      }
-    },
-    {
-      "id": "d6620e3ed99e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/jensen-huang-tillbaka-pa-kontoret-ska-vara-en-battre-vd",
-      "guid": "422e98ff-4bcb-479e-8e99-74c43120ef1a",
-      "published_at": "2026-11-23T21:51:15+01:00",
-      "fetched_at": "2026-11-23T22:01:15+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0ebfc0ad-cd6d-4759-a659-22622def46fe.jpeg?width=600",
-      "sv": {
-        "title": "Jensen Huang tillbaka på kontoret: ”Ska vara en bättre vd”",
-        "summary": "Efter bara elva dagar var Nvidias vd Jensen Huang tillbaka på jobbet under måndagen, mött av jubel från de anställda vid huvudkontoret i Kalifornien. ”Jag har ingen dator, så it-avdelningen ska ge mig en ny”, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jensen Huang back in the office: ”Will be a better CEO”",
-        "summary": "After just eleven days, Nvidia CEO Jensen Huang was back at work on Monday, greeted with cheers from employees at the headquarters in California. ”I don't have a computer, so the IT department will give me a new one”, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:01:21+01:00"
       }
     }
   ]

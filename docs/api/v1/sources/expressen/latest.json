@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T17:01:21+01:00",
+  "generated_at": "2026-11-24T17:16:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2f6ff5af7995",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/kristersson-provas-som-statsminister-pa-mandag",
+      "guid": "https://www.expressen.se/nyheter/politik/kristersson-provas-som-statsminister-pa-mandag/",
+      "published_at": "2026-11-24T17:13:02+01:00",
+      "fetched_at": "2026-11-24T17:15:52+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Kristersson prövas som statsminister på måndag",
+        "summary": "Talmannen Andreas Norlén föreslår Ulf Kristersson som statsminister. En omröstning om M-ledaren kommer att hållas i riksdagen på måndag nästa vecka.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson to be tested as prime minister on Monday",
+        "summary": "Speaker Andreas Norlén proposes Ulf Kristersson (M) as prime minister. A vote on the Moderates leader will be held in the Riksdag on Monday next week."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T17:15:59+01:00"
+      }
+    },
     {
       "id": "7d383cb0a902",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T05:15:55+01:00"
-      }
-    },
-    {
-      "id": "2e0a141ad377",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/kungligt/experten-saker-andrew-kommer-fly-till-mellanostern",
-      "guid": "https://www.expressen.se/nyheter/kungligt/experten-saker-andrew-kommer-fly-till-mellanostern/",
-      "published_at": "2026-11-21T04:34:37+01:00",
-      "fetched_at": "2026-11-21T04:45:42+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Experten säker – Andrew kommer fly till Mellanöstern",
-        "summary": "Den före detta prins Andrew riskerar åtal nästa år. Då kommer han sannolikt fly till Mellanöstern. Det tror kungliga experten Andrew Lownie.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Expert certain – Andrew will flee to the Middle East",
-        "summary": "The former prince Andrew risks being charged next year. He will then likely flee to the Middle East. That is what royal expert Andrew Lownie believes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T04:45:47+01:00"
       }
     }
   ]

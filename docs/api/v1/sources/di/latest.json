@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-24T17:01:21+01:00",
+  "generated_at": "2026-11-24T17:16:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d13d8d91ac06",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/talmannen-pataglig-risk-for-extra-val",
+      "guid": "85b1ca94-2b89-47bc-a670-3e00fa1caf76",
+      "published_at": "2026-11-24T17:06:15+01:00",
+      "fetched_at": "2026-11-24T17:15:53+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c470c221-6613-4962-b477-3c8f0d9c7931.jpeg?width=600",
+      "sv": {
+        "title": "Talmannen: ”Påtaglig risk” för extra val",
+        "summary": "Talman Andreas Norlén beskriver beslutet att låta Ulf Kristersson gå till omröstning i en tredje statsministeromröstning på måndag. ”Jag vill att den här processen ska vara avslutad före jul”, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Speaker: \"Substantial risk\" of snap election",
+        "summary": "Speaker Andreas Norlén describes the decision to put Ulf Kristersson to a vote in a third prime ministerial vote on Monday. \"I want this process to be concluded before Christmas\", he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T17:15:59+01:00"
+      }
+    },
+    {
+      "id": "d17d9e73e91d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/nyheter/talmannen-riksdagen-ska-rosta-om-ulf-kristersson",
+      "guid": "a1197b45-26e2-5d2b-a13e-d920b8471388",
+      "published_at": "2026-11-24T17:02:22+01:00",
+      "fetched_at": "2026-11-24T17:15:53+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Talmannen: Riksdagen ska rösta om Ulf Kristersson",
+        "summary": "Talman Andreas Norlén meddelade att Riksdagen ska rösta om Ulf Kristersson som statsminister.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Speaker: Riksdag to vote on Ulf Kristersson",
+        "summary": "Speaker Andreas Norlén announced that the Riksdag will vote on Ulf Kristersson as prime minister."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T17:15:59+01:00"
+      }
+    },
     {
       "id": "5b61b831614e",
       "schema_version": 1,
@@ -5267,60 +5320,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T13:01:23+01:00"
-      }
-    },
-    {
-      "id": "ae6f79653caa",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/eu-darfor-ar-coca-cola-sa-dyrt",
-      "guid": "762c9225-58e3-4ff9-a7d3-9f94af93cff6",
-      "published_at": "2026-11-23T12:41:23+01:00",
-      "fetched_at": "2026-11-23T12:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/4a8d039a-380f-428c-bbe6-c7389437b682.jpg?width=600",
-      "sv": {
-        "title": "EU: Därför är Coca-Cola så dyrt",
-        "summary": "En formell utredning om misstänkt konkurrensbrott av Coca-Cola Europacific Partners (CCEP) – en stor aktör i grossistledet inom läskedryckshanteringen i Europa – har inletts av EU-kommissionen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "EU: This is why Coca-Cola is so expensive",
-        "summary": "The European Commission has opened a formal investigation into suspected competition violations by Coca-Cola Europacific Partners (CCEP), a major wholesale player in the European soft drinks sector."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T12:46:02+01:00"
-      }
-    },
-    {
-      "id": "65bb22b6bef6",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/mohamsson-c-har-natt-vags-ande-ta-akesson-pa-orden",
-      "guid": "bc35fc88-92b7-4850-9003-eadd0c030178",
-      "published_at": "2026-11-23T12:36:10+01:00",
-      "fetched_at": "2026-11-23T12:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/51a0e257-06b1-40fd-8adc-1229a6bc7aad.jpeg?width=600",
-      "sv": {
-        "title": "Mohamsson: ”C har nått vägs ände – ta Åkesson på orden”",
-        "summary": "Simona Mohamsson avfärdar S, C och MP:s bud till V som ett ”förolämpningspaket” och sätter press på Centern att välja väg. En borgerlig minoritetsregering får samtidigt räkna med att SD utnyttjar sin vågmästarroll. ”Jag tror ändå man ska ta Jimmie Åkesson på orden”, säger Simona Mohamsson (L).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mohamsson: “C has reached the end of the road – take Åkesson at his word”",
-        "summary": "Simona Mohamsson dismisses the Social Democrats (S), the Centre Party (C) and the Green Party (MP) bid to V as an “insult package” and puts pressure on the Centre Party to choose a path. A centre-right minority government must also reckon with the Sweden Democrats (SD) exploiting their kingmaker role. “I still think one should take Jimmie Åkesson at his word,” says Simona Mohamsson (L)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T12:46:02+01:00"
       }
     }
   ]
