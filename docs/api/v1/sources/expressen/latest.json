@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T22:31:08+01:00",
+  "generated_at": "2026-11-24T22:41:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "86e0fb463739",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia/",
+      "published_at": "2026-11-24T22:30:48+01:00",
+      "fetched_at": "2026-11-24T22:41:51+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trumps stora vinst på Jensen Huangs comeback på Nvidia",
+        "summary": "Donald Trump såg till Jensen Huang fick tillbaka jobbet som Nvidia vd. Enligt The Guardian hade han 150 miljoner anledningar att hjälpa till. – Jag övertalade dem, säger Trump.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's big win on Jensen Huang's comeback at Nvidia",
+        "summary": "Donald Trump made sure Jensen Huang got his job back as Nvidia CEO. According to The Guardian, he had 150 million reasons to help. – I persuaded them, says Trump."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T22:41:56+01:00"
+      }
+    },
     {
       "id": "567c47ec106f",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:01:26+01:00"
-      }
-    },
-    {
-      "id": "40ed76710e5c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/fada-72-dodades-av-bosattare-de-skot-farmor",
-      "guid": "https://www.expressen.se/nyheter/varlden/fada-72-dodades-av-bosattare-de-skot-farmor/",
-      "published_at": "2026-11-21T09:40:56+01:00",
-      "fetched_at": "2026-11-21T09:45:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Fada, 72, dödades av bosättare: ”De sköt farmor”",
-        "summary": "Palestinska Fada Fheidat dödades utanför sitt hus. En israelisk bosättare sköt den 72-åriga kvinnan i huvudet i hennes hemby intill Jeriko på Västbanken. – Hennes bakhuvud var krossat, jag blev helt nedblodad, säger Achmed Fheidat som försökte bära bort sin släkting.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fada, 72, killed by settlers: \"They shot grandma\"",
-        "summary": "Palestinian Fada Fheidat was killed outside her house. An Israeli settler shot the 72-year-old woman in the head in her home village near Jericho in the West Bank. \"Her back of the head was crushed, I was completely covered in blood,\" says Achmed Fheidat, who tried to carry his relative away."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:45:49+01:00"
       }
     }
   ]

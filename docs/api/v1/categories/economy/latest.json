@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-24T22:31:08+01:00",
+  "generated_at": "2026-11-24T22:41:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "86e0fb463739",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia/",
+      "published_at": "2026-11-24T22:30:48+01:00",
+      "fetched_at": "2026-11-24T22:41:51+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trumps stora vinst på Jensen Huangs comeback på Nvidia",
+        "summary": "Donald Trump såg till Jensen Huang fick tillbaka jobbet som Nvidia vd. Enligt The Guardian hade han 150 miljoner anledningar att hjälpa till. – Jag övertalade dem, säger Trump.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's big win on Jensen Huang's comeback at Nvidia",
+        "summary": "Donald Trump made sure Jensen Huang got his job back as Nvidia CEO. According to The Guardian, he had 150 million reasons to help. – I persuaded them, says Trump."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T22:41:56+01:00"
+      }
+    },
+    {
+      "id": "5062d4a86efc",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/dell-rapportlyfter-i-efterhandeln",
+      "guid": "3863d4cd-c044-4455-97b2-343e4cbfc3b8",
+      "published_at": "2026-11-24T22:23:56+01:00",
+      "fetched_at": "2026-11-24T22:41:52+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f9a0b2f2-ebd0-484b-8a54-cb8d34bb34ac.jpeg?width=600",
+      "sv": {
+        "title": "Dell rapportlyfter i efterhandeln",
+        "summary": "Den amerikanska datortillverkaren Dell handlades upp omkring 6 procent i den amerikanska efterhandeln efter att bolaget släppt rapporten för det gångna kvartalet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dell reports in after-hours trading",
+        "summary": "The American computer manufacturer Dell rose about 6 percent in US after-hours trading after the company released its report for the past quarter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T22:41:56+01:00"
+      }
+    },
     {
       "id": "d2db629e926d",
       "schema_version": 1,
@@ -5191,60 +5244,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T06:58:36+01:00"
-      }
-    },
-    {
-      "id": "d40670ef7926",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/morgonkoll-chiprally-pa-asienborserna-qiD_E",
-      "guid": "56d0b58a-ff9d-4cef-9563-f3b2a6c60d80",
-      "published_at": "2026-11-24T06:41:12+01:00",
-      "fetched_at": "2026-11-24T06:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/06ecd2ad-4684-4d10-9f61-c882ab90f6bc.jpeg?width=600",
-      "sv": {
-        "title": "Morgonkoll: Chiprally på Asienbörserna",
-        "summary": "Börseuforin har flyttat över till Asien där chipbolagen rusar på tisdagen. De europeiska terminerna visar däremot små rörelser efter gårdagens lyft.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Morning check: Chip rally on Asian stock exchanges",
-        "summary": "Stock market euphoria has moved to Asia, where chip companies are surging on Tuesday. European futures show small movements after yesterday's gains."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T06:45:54+01:00"
-      }
-    },
-    {
-      "id": "12aab309ec9a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/black-friday-manga-fynd-ar-ingen-rea",
-      "guid": "5c8664f1-31f7-4a77-8e58-daf17cc72a2e",
-      "published_at": "2026-11-24T06:32:15+01:00",
-      "fetched_at": "2026-11-24T06:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/36fbe1f9-73cc-40a8-8aab-e546b47ceda2.jpg?width=600",
-      "sv": {
-        "title": "Black Friday: Många ”fynd” är ingen rea",
-        "summary": "Var tionde prisnedsatt ”fynd” var aldrig någon rea, visar en undersökning. Det gäller att inte bli lurad av lockpriserna när butikerna slutspurtar inför Black Friday.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Black Friday: Many \"bargains\" are not sales",
-        "summary": "One in ten price-cut \"bargains\" was never a sale, a survey shows. Shoppers need to avoid being fooled by bait prices as stores make their final push ahead of Black Friday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T06:45:54+01:00"
       }
     }
   ]
