@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T20:01:23+01:00",
+  "generated_at": "2026-11-24T20:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e08012805959",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/LoA7mQ/svensk-polis-i-irak-vill-ha-tentakler-overallt",
+      "guid": "https://www.svd.se/a/LoA7mQ/svensk-polis-i-irak-vill-ha-tentakler-overallt?utm_medium=rss",
+      "published_at": "2026-11-24T20:06:31+01:00",
+      "fetched_at": "2026-11-24T20:15:46+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/3fb32cee-54ed-3c9a-8067-f6b16bda51e3?format=auto&s=4565bb09d3204218616f09971850b01f8d123bc6&w=1000",
+      "sv": {
+        "title": "Svensk polis i Irak – vill ha ”tentakler överallt”",
+        "summary": "Sverige ska öppna sin första polisstation utomlands – i Irak. Enligt Noa-polisen Anders Wiberg är…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish police in Iraq – want \"tentacles everywhere\"",
+        "summary": "Sweden is to open its first police station abroad – in Iraq. According to Noa police officer Anders Wiberg, …"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T20:15:53+01:00"
+      }
+    },
     {
       "id": "872a7677bf58",
       "schema_version": 1,
@@ -5229,29 +5256,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T14:31:14+01:00"
-      }
-    },
-    {
-      "id": "dee4e2995a4c",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80155",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80155&utm_medium=rss",
-      "published_at": "2026-11-21T14:08:05+01:00",
-      "fetched_at": "2026-11-21T14:15:48+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Bilbrand på E18 stoppar trafik mot Stockholm"
-      },
-      "en": {
-        "title": "Car fire on E18 halts traffic towards Stockholm"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T14:15:55+01:00"
       }
     }
   ]

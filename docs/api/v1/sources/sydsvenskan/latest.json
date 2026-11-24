@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T20:01:23+01:00",
+  "generated_at": "2026-11-24T20:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "949514c64d07",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/magyars-ukrainabesok-nytt-kapitel-i-relationer",
+      "guid": "a093d181-a72d-442b-8acb-0a2e733bd057",
+      "published_at": "2026-11-24T20:05:28+01:00",
+      "fetched_at": "2026-11-24T20:15:49+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/cd7000d2-b7fd-494b-879c-261baf99a8f3.jpg?width=600",
+      "sv": {
+        "title": "Magyars Ukrainabesök ”nytt kapitel” i relationer",
+        "summary": "Péter Magyar träffade Ukrainas president Volodymyr Zelenskyj under sitt första besök i Ukraina i rollen som premiärminister. Tisdagens besök signalerar ett nytt kapitel i ländernas tidigare frostiga relationer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Magyar's Ukraine visit a \"new chapter\" in relations",
+        "summary": "Péter Magyar met Ukrainian President Volodymyr Zelenskyy during his first visit to Ukraine as prime minister. Tuesday's visit signals a new chapter in the countries' previously frosty relations."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T20:15:53+01:00"
+      }
+    },
     {
       "id": "db26a318ac7e",
       "schema_version": 1,
@@ -5184,33 +5211,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T22:15:55+01:00"
-      }
-    },
-    {
-      "id": "e97d50d3060a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/stark-tappade-mark-i-tourfinalen",
-      "guid": "0e0388a5-364c-4199-87e2-0599311c1ff4",
-      "published_at": "2026-11-21T21:47:55+01:00",
-      "fetched_at": "2026-11-21T22:01:14+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/ff23591f-ebc6-4bd4-b0c1-65f042ed578e.jpg?width=600",
-      "sv": {
-        "title": "Stark tappade mark i tourfinalen",
-        "summary": "Golfaren Maja Stark tappade mark under den tredje dagen av LPGA-tourens säsongsfinal i Florida. Via tre birdie på de fem sista hålen räddade hon upp sin runda, men svenskan har sju slag upp till ledaren inför avslutningen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stark loses ground in tour finale",
-        "summary": "Golfer Maja Stark lost ground on the third day of the LPGA Tour season finale in Florida. Through three birdies on the last five holes she salvaged her round, but the Swede is seven strokes behind the leader ahead of the final round."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T22:01:19+01:00"
       }
     }
   ]
