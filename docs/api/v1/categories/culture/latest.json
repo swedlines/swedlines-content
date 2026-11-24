@@ -1,7 +1,70 @@
 {
-  "generated_at": "2026-11-24T16:01:26+01:00",
+  "generated_at": "2026-11-24T16:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "303b51bf9b15",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/min-man-kreddades-for-mitt-forfattarskap-infor-svenska-kultureliten-pa-augustprisgalan",
+      "guid": "9a4092e8-c1e8-432b-83f3-8d51a8c27bf6",
+      "published_at": "2026-11-24T16:09:04+01:00",
+      "fetched_at": "2026-11-24T16:15:50+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/b4f3ff3a-c785-4f39-82cd-77d0324717ab.jpeg?width=600",
+      "sv": {
+        "title": "Min man kreddades för mitt författarskap inför hela kultureliten på Augustprisgalan",
+        "summary": "Det skämtades om Leffe Grimwalkers digra utgivning från scenen, trots att vi skriver våra böcker tillsammans. Vem är jag i så fall? OfLeffe?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "My husband was mocked for my authorship in front of the entire cultural elite at the August Prize gala",
+        "summary": "The stage joked about Leffe Grimwalker's prolific output, even though we write our books together. Who am I then? OfLeffe?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T16:15:55+01:00"
+      }
+    },
+    {
+      "id": "f38148e84a16",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/tv/revolutioner-replikanter-och-raffiga-romanser-pa-tv.32452108-9a0b-5aee-863a-53261987fc1b",
+      "guid": "32452108-9a0b-5aee-863a-53261987fc1b",
+      "published_at": "2026-11-24T16:02:01+01:00",
+      "fetched_at": "2026-11-24T16:15:49+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "TV",
+        "Tagg: Prime",
+        "Tagg: Netflix",
+        "Tagg: SVT Play",
+        "Tagg: HBO Max",
+        "Tagg: Sci-fi",
+        "Tagg: Tv-tips"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/6269413f-3792-33d2-b345-0e76f9692706",
+      "sv": {
+        "title": "Nytt på tv – revolutioner, replikanter och raffiga romanser",
+        "summary": "GP tipsar om nya tv-serier på Netflix, HBO Max och SVT Play",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New on TV – revolutions, replicants and steamy romances",
+        "summary": "GP recommends new TV series on Netflix, HBO Max and SVT Play"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T16:15:55+01:00"
+      }
+    },
     {
       "id": "e45ed9d3c616",
       "schema_version": 1,
@@ -5646,66 +5709,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T05:15:55+01:00"
-      }
-    },
-    {
-      "id": "24b3678f6e70",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/r8Ayq8/uppgifter-ensam-hemma-gor-comeback",
-      "guid": "https://www.aftonbladet.se/nyheter/a/r8Ayq8/uppgifter-ensam-hemma-gor-comeback?utm_medium=rss",
-      "published_at": "2026-11-21T01:51:38+01:00",
-      "fetched_at": "2026-11-21T07:15:46+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/b0bcc821-1795-31fa-b5b4-8eb4b13d885a?format=auto&s=b038e6dda8c73b6726d81e0482b5c5f60c8471b5&w=1000",
-      "sv": {
-        "title": "Uppgifter: ”Ensam hemma” gör comeback",
-        "summary": "Macaulay Culkin med i arbetet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: \"Home Alone\" makes comeback",
-        "summary": "Macaulay Culkin joins the project"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T07:15:53+01:00"
-      }
-    },
-    {
-      "id": "b6296d977c14",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/musik/konsertrecension/snyftningarna-blir-en-naturlig-del-av-kvallen.4fecb37a-f6f3-56d5-beb8-73137f593e51",
-      "guid": "4fecb37a-f6f3-56d5-beb8-73137f593e51",
-      "published_at": "2026-11-21T00:34:51+01:00",
-      "fetched_at": "2026-11-21T01:01:19+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Konsertrecension",
-        "Tagg: Moonica Mac",
-        "Tagg: Scen",
-        "Tagg: Konserthuset"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/ff297396-db2e-3aee-a528-7240b4b3ce55",
-      "sv": {
-        "title": "Moonica Macs publik på Konserthuset har inte långt till tårar",
-        "summary": "Snyftningarna blir en naturlig del av kvällen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Moonica Mac's audience at Konserthuset is not far from tears",
-        "summary": "The sobbing becomes a natural part of the evening."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T01:01:22+01:00"
       }
     }
   ]

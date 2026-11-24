@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T16:01:26+01:00",
+  "generated_at": "2026-11-24T16:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "303b51bf9b15",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/min-man-kreddades-for-mitt-forfattarskap-infor-svenska-kultureliten-pa-augustprisgalan",
+      "guid": "9a4092e8-c1e8-432b-83f3-8d51a8c27bf6",
+      "published_at": "2026-11-24T16:09:04+01:00",
+      "fetched_at": "2026-11-24T16:15:50+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/b4f3ff3a-c785-4f39-82cd-77d0324717ab.jpeg?width=600",
+      "sv": {
+        "title": "Min man kreddades för mitt författarskap inför hela kultureliten på Augustprisgalan",
+        "summary": "Det skämtades om Leffe Grimwalkers digra utgivning från scenen, trots att vi skriver våra böcker tillsammans. Vem är jag i så fall? OfLeffe?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "My husband was mocked for my authorship in front of the entire cultural elite at the August Prize gala",
+        "summary": "The stage joked about Leffe Grimwalker's prolific output, even though we write our books together. Who am I then? OfLeffe?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T16:15:55+01:00"
+      }
+    },
     {
       "id": "95864c75b65b",
       "schema_version": 1,
@@ -5202,32 +5229,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T16:45:50+01:00"
-      }
-    },
-    {
-      "id": "f77a9e40e619",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/knarkboss-gripen-i-mexiko-efterlyst-i-usa",
-      "guid": "a8600fa0-93e4-4ce6-82d4-ab1fcc448995",
-      "published_at": "2026-11-21T15:50:04+01:00",
-      "fetched_at": "2026-11-21T16:01:19+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Knarkboss gripen i Mexiko – efterlyst i USA",
-        "summary": "Mexikos militär uppger att en knarkledare känd som ”Chapo Isidro” frihetsberövats i en nattlig räd i Sinaloa. Kartelltoppen var efterlyst i USA och fanns med på FBI:s lista över de tio mest eftersökta brottslingar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Drug boss arrested in Mexico – wanted in the US",
-        "summary": "Mexico's military says a drug leader known as \"Chapo Isidro\" has been detained in a nighttime raid in Sinaloa. The cartel leader was wanted in the US and was on the FBI's list of the ten most wanted fugitives."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T16:01:25+01:00"
       }
     }
   ]

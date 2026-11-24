@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-24T16:01:26+01:00",
+  "generated_at": "2026-11-24T16:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f38148e84a16",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/tv/revolutioner-replikanter-och-raffiga-romanser-pa-tv.32452108-9a0b-5aee-863a-53261987fc1b",
+      "guid": "32452108-9a0b-5aee-863a-53261987fc1b",
+      "published_at": "2026-11-24T16:02:01+01:00",
+      "fetched_at": "2026-11-24T16:15:49+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "TV",
+        "Tagg: Prime",
+        "Tagg: Netflix",
+        "Tagg: SVT Play",
+        "Tagg: HBO Max",
+        "Tagg: Sci-fi",
+        "Tagg: Tv-tips"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/6269413f-3792-33d2-b345-0e76f9692706",
+      "sv": {
+        "title": "Nytt på tv – revolutioner, replikanter och raffiga romanser",
+        "summary": "GP tipsar om nya tv-serier på Netflix, HBO Max och SVT Play",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New on TV – revolutions, replicants and steamy romances",
+        "summary": "GP recommends new TV series on Netflix, HBO Max and SVT Play"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T16:15:55+01:00"
+      }
+    },
     {
       "id": "8d25b65921c5",
       "schema_version": 1,
@@ -6872,42 +6908,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T21:01:17+01:00"
-      }
-    },
-    {
-      "id": "d48ddc84b632",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/krim/rekordbeslag-i-bohuslan-sommarstuga-full-med-knark.ac3fd8c7-6b3d-5bac-b696-f439601bb7bd",
-      "guid": "ac3fd8c7-6b3d-5bac-b696-f439601bb7bd",
-      "published_at": "2026-11-19T19:52:49+01:00",
-      "fetched_at": "2026-11-19T20:30:59+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Krim",
-        "Tagg: Brott och straff",
-        "Tagg: Polisen",
-        "Tagg: Bohuslän",
-        "Tagg: Cannabis",
-        "Tagg: Göteborg",
-        "Tagg: Orust"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/10d42935-d944-3548-9080-7d3dee68c924",
-      "sv": {
-        "title": "Rekordbeslag i Bohuslän – stuga full med knark",
-        "summary": "147 kilo cannabis levererades till semesteridyllen på Lilla Askerön i trälåda.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Record seizure in Bohuslän – cabin full of drugs",
-        "summary": "147 kilos of cannabis were delivered to the holiday idyll on Lilla Askerön in a wooden crate."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T20:31:04+01:00"
       }
     }
   ]
