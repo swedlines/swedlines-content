@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-24T19:40:14+01:00",
+  "generated_at": "2026-11-24T19:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "abf903802c20",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/tusen-ryska-soldater-har-begatt-sjalvmord-under-kriget.0291f063-dacc-5f86-9647-f2336ff7a534",
+      "guid": "0291f063-dacc-5f86-9647-f2336ff7a534",
+      "published_at": "2026-11-24T19:28:58+01:00",
+      "fetched_at": "2026-11-24T19:45:47+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Kriget i Ukraina",
+        "Tagg: Uppdatera mig - BEHOV",
+        "Tagg: Ukraina",
+        "Tagg: The Guardian",
+        "Tagg: Der Spiegel",
+        "Tagg: Ryssland"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/920d349b-06d8-34cc-99aa-21a50aa0d459",
+      "sv": {
+        "title": "Så många ryska soldater har dött i Ukraina",
+        "summary": "Skyhöga dödssiffror för Putins armé. Över tusen ryska soldater har begått självmord under kriget",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This many Russian soldiers have died in Ukraine",
+        "summary": "Sky-high death tolls for Putin's army. Over a thousand Russian soldiers have taken their own lives during the war"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T19:45:51+01:00"
+      }
+    },
     {
       "id": "f00bb892cb95",
       "schema_version": 1,
@@ -6868,37 +6904,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T23:01:22+01:00"
-      }
-    },
-    {
-      "id": "97c4c99bae2c",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/ishockey/frolunda/frolundas-frustration-efter-farjestads-segermal.d381e4a6-fe05-5642-95b5-7fd96b7a3a71",
-      "guid": "d381e4a6-fe05-5642-95b5-7fd96b7a3a71",
-      "published_at": "2026-11-19T22:02:29+01:00",
-      "fetched_at": "2026-11-19T22:30:59+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Frölunda",
-        "Tagg: Färjestad BK"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/cf0405f4-5fba-3e95-bac1-80d5286b04c5",
-      "sv": {
-        "title": "Ilskan efter Färjestads segermål: ”Väldigt billig”",
-        "summary": "Frölunda förlorade rivalmötet – efter omdiskuterat domslut.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anger after Färjestad's winning goal: \"Very cheap\"",
-        "summary": "Frölunda lost the rivalry match – after a much-debated ruling."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T22:31:03+01:00"
       }
     }
   ]
