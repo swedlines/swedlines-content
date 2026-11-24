@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-24T23:15:55+01:00",
+  "generated_at": "2026-11-24T23:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "595ac3895796",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trebarnsmamman--dodad-av-flera-djur",
+      "guid": "https://www.expressen.se/nyheter/varlden/trebarnsmamman--dodad-av-flera-djur/",
+      "published_at": "2026-11-24T23:23:17+01:00",
+      "fetched_at": "2026-11-24T23:30:59+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trebarnsmamman dödad av flera djur",
+        "summary": "Allison Anderson skulle snart bli mormor för första gången. Då blev 36-åriga trebarnsmamman dödad av hundar, skriver NBC News. – Jag är så äcklad att ägarna till dessa hundar inte hade kontroll över dem, säger dottern Miley Garner.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Three-child mother killed by several dogs",
+        "summary": "Allison Anderson was soon to become a grandmother for the first time. Then the 36-year-old mother of three was killed by dogs, NBC News reports. \"I am so disgusted that the owners of these dogs did not have control over them,\" says daughter Miley Garner."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T23:31:05+01:00"
+      }
+    },
+    {
+      "id": "2788d60195a7",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349491",
+      "guid": "rss:sr.se/article/9349491",
+      "published_at": "2026-11-24T23:21:00+01:00",
+      "fetched_at": "2026-11-24T23:30:57+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-toppens lösning på regeringsfrågan: ”Konstruktiv opposition”",
+        "summary": "Centerpartiet är just nu splittrat i vägvalen om man ska samarbeta med höger eller vänstersidan och i sin tur i vilken mån ytterkantspartierna V eller SD ska kunna få inflytande. Kommunalrådet Thomas Selin (C) i Huddinge föreslår en bred mittenregering eller konstruktiv opposition.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The Centre Party's solution to the government question: \"Constructive opposition\"",
+        "summary": "The Centre Party is currently divided on the choice of whether to cooperate with the right or the left, and in turn to what extent the fringe parties the Left Party or the Sweden Democrats should be able to gain influence. Municipal commissioner Thomas Selin (C) in Huddinge proposes a broad centrist government or constructive opposition."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T23:31:05+01:00"
+      }
+    },
     {
       "id": "168597fa7c6d",
       "schema_version": 1,
@@ -5363,60 +5415,6 @@
       "en": {
         "title": "Rebuttal: The Social Democrats' budget lacks direction and ambition",
         "summary": "When the Social Democrat-led administration of Region Stockholm presents a budget full of inquiries, watered-down compromises and costly side projects, what emerges is an administration content to manage the existing order rather than eager to change it, writes Axel Conradi (M)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T15:31:10+01:00"
-      }
-    },
-    {
-      "id": "20770263faa5",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/z0GBVK/kriget-i-ukraina-driver-upp-priset-pa-optisk-fiber",
-      "guid": "https://www.svd.se/a/z0GBVK/kriget-i-ukraina-driver-upp-priset-pa-optisk-fiber?utm_medium=rss",
-      "published_at": "2026-11-24T15:20:44+01:00",
-      "fetched_at": "2026-11-24T15:31:01+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/613762a0-eede-383b-a898-cfd32d314de7?format=auto&s=29891ced022b0d28cfbda6cc786df7a1f9f95dc5&w=1000",
-      "sv": {
-        "title": "Kapplöpning om fiber – brist hotar",
-        "summary": "Ukrainakriget och techjättarnas datacenterbyggen har fått priset på fiberkablar att mångdubblas…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Race for fibre – shortage threatens",
-        "summary": "The war in Ukraine and the tech giants' data centre construction have caused the price of fibre cables to multiply…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T15:31:10+01:00"
-      }
-    },
-    {
-      "id": "9b043ad9e2be",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/9BvJgr/expertens-cybervarning-kan-anvandas-i-utpressningssyfte",
-      "guid": "https://www.aftonbladet.se/nyheter/a/9BvJgr/expertens-cybervarning-kan-anvandas-i-utpressningssyfte?utm_medium=rss",
-      "published_at": "2026-11-24T15:19:41+01:00",
-      "fetched_at": "2026-11-24T15:31:01+01:00",
-      "category": "science_tech",
-      "image_url": "https://akamai.vgc.no/v2/images/67aa1933-79c1-35a6-87c5-eaf7056a862d?format=auto&s=fec0995702a91f1ef1dedc0ae8df5d5bc30cfbdf&w=1000",
-      "sv": {
-        "title": "Expertens cybervarning: ”Kan användas i utpressningssyfte”",
-        "summary": "Expertens råd ✓ ”Kanske paradoxalt, men...”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Expert's cyber warning: \"Can be used for extortion\"",
-        "summary": "Expert's advice ✓ \"Perhaps paradoxically, but...\""
       },
       "translation": {
         "status": "done",

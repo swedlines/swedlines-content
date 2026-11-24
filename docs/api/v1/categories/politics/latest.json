@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T23:15:55+01:00",
+  "generated_at": "2026-11-24T23:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2788d60195a7",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349491",
+      "guid": "rss:sr.se/article/9349491",
+      "published_at": "2026-11-24T23:21:00+01:00",
+      "fetched_at": "2026-11-24T23:30:57+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-toppens lösning på regeringsfrågan: ”Konstruktiv opposition”",
+        "summary": "Centerpartiet är just nu splittrat i vägvalen om man ska samarbeta med höger eller vänstersidan och i sin tur i vilken mån ytterkantspartierna V eller SD ska kunna få inflytande. Kommunalrådet Thomas Selin (C) i Huddinge föreslår en bred mittenregering eller konstruktiv opposition.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The Centre Party's solution to the government question: \"Constructive opposition\"",
+        "summary": "The Centre Party is currently divided on the choice of whether to cooperate with the right or the left, and in turn to what extent the fringe parties the Left Party or the Sweden Democrats should be able to gain influence. Municipal commissioner Thomas Selin (C) in Huddinge proposes a broad centrist government or constructive opposition."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T23:31:05+01:00"
+      }
+    },
     {
       "id": "168597fa7c6d",
       "schema_version": 1,
@@ -5343,33 +5369,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T10:04:48+01:00"
-      }
-    },
-    {
-      "id": "5ecd18bd22ec",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/7P0Ar8/v-bad-s-att-inte-publicera-debattartikeln-med-sitt-bud-menar-att-de-blev-overkorda",
-      "guid": "https://www.svd.se/a/7P0Ar8/v-bad-s-att-inte-publicera-debattartikeln-med-sitt-bud-menar-att-de-blev-overkorda?utm_medium=rss",
-      "published_at": "2026-11-23T09:53:19+01:00",
-      "fetched_at": "2026-11-23T10:01:16+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/5da2c46f-e8a4-31e8-b00d-a0bcc0610cd4?format=auto&s=ba7eacbd430e25438622de3a8056d48b60cf6066&w=1000",
-      "sv": {
-        "title": "Ilska efter artikeln med budet: ”Obegripligt”",
-        "summary": "V bad S att inte publicera debattartikeln med sitt bud – men menar att de blev överkörda.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Outrage over article with the bid: “Incomprehensible”",
-        "summary": "V asked S not to publish the debate article with its bid – but says it was steamrolled."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T10:01:30+01:00"
       }
     }
   ]
