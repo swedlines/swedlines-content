@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-24T06:31:08+01:00",
+  "generated_at": "2026-11-24T06:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2f3159911ca9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/irans-nya-hot-mot-trump-visar-upp-hemlig-missilstad",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/irans-nya-hot-mot-trump-visar-upp-hemlig-missilstad",
+      "published_at": "2026-11-24T06:33:09+01:00",
+      "fetched_at": "2026-11-24T06:45:48+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Hotet mot Trump – ”hemlig missilstad”"
+      },
+      "en": {
+        "title": "Threat against Trump – \"secret missile city\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:45:54+01:00"
+      }
+    },
     {
       "id": "d6895cd0c5da",
       "schema_version": 1,
@@ -5330,33 +5353,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T06:15:54+01:00"
-      }
-    },
-    {
-      "id": "2ecf467c23fc",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/pMLveG/inspirerade-av-trump-nu-kan-vox-bli-vagmastare",
-      "guid": "https://www.aftonbladet.se/nyheter/a/pMLveG/inspirerade-av-trump-nu-kan-vox-bli-vagmastare?utm_medium=rss",
-      "published_at": "2026-11-22T06:00:10+01:00",
-      "fetched_at": "2026-11-22T06:01:12+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/6f8372b2-85a2-30f2-86df-b38e494b7ce3?format=auto&s=8a786b23ebfa57c52604954cb949d5e1681ce189&w=1000",
-      "sv": {
-        "title": "Inspirerade av Trump – nu kan Vox bli vågmästare",
-        "summary": "Högerradikala Vox väntas gå framåt i det spanska nyvalet om en vecka och få en vågmästarroll.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Inspired by Trump – now Vox could become kingmaker",
-        "summary": "The far-right Vox is expected to gain ground in the Spanish snap election in a week and play a kingmaker role."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T06:01:20+01:00"
       }
     }
   ]
