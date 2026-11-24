@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T14:31:14+01:00",
+  "generated_at": "2026-11-24T14:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cd51dc70acb5",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349070",
+      "guid": "rss:sr.se/article/9349070",
+      "published_at": "2026-11-24T14:43:00+01:00",
+      "fetched_at": "2026-11-24T14:45:45+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Ordkrig mellan S och V: ”Långlånglånglång rad förslag”",
+        "summary": "Efter över 70 dagar utan att regeringsfrågan är avgjord haglar anklagelserna på den rödgröna sidan om vems fel det är att förhandlingarna spruckit. ”Vänsterpartiet har inte kommit med ett enda konkret förslag”, säger Magdalena Andersson.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "War of words between S and V: \"Long, long list of proposals\"",
+        "summary": "After over 70 days without the government question being settled, accusations are flying on the red-green side over whose fault it is that the negotiations have broken down. \"The Left Party has not put forward a single concrete proposal,\" says Magdalena Andersson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:45:55+01:00"
+      }
+    },
     {
       "id": "6c9cfff8ec58",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T07:01:21+01:00"
-      }
-    },
-    {
-      "id": "6095a62ff10c",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345819",
-      "guid": "rss:sr.se/article/9345819",
-      "published_at": "2026-11-19T06:21:00+01:00",
-      "fetched_at": "2026-11-19T06:30:53+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Kärnstrand: ”Olika uppfattningar vad mötet ska handla om”",
-        "summary": "Rysslands president Vladimir Putin och USA:s president Donald Trump har påbörjat ett bilateralt möte, bara timmar innan de ska träffa sin kinesiske kollega Xi Jinping, uppger AFP.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Kärnstrand: \"Different views on what the meeting is about\"",
-        "summary": "Russian President Vladimir Putin and US President Donald Trump have begun a bilateral meeting, just hours before they are due to meet their Chinese counterpart Xi Jinping, AFP reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:31:03+01:00"
       }
     }
   ]

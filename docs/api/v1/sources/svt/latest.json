@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T14:31:14+01:00",
+  "generated_at": "2026-11-24T14:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "23786db2aa31",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/utesluter-inte-sd-samarbete-i-intervju-vet-jag-inte-annu",
+      "guid": "https://www.svt.se/nyheter/inrikes/utesluter-inte-sd-samarbete-i-intervju-vet-jag-inte-annu",
+      "published_at": "2026-11-24T14:31:27+01:00",
+      "fetched_at": "2026-11-24T14:45:44+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Utesluter inte SD-samarbete i intervju: ”Vet jag inte ännu”",
+        "summary": "I en SVT-intervju utesluter C-ledaren Elisabeth Thand Ringqvist inte ett samarbete med SD. – Det vet jag inte ännu. Vi fattar beslut inom partiet, säger hon. Kort efter intervjun hör C-ledaren av sig på nytt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Does not rule out cooperation with SD in interview: \"I don't know yet\"",
+        "summary": "In an SVT interview, Centre Party leader Elisabeth Thand Ringqvist does not rule out cooperation with the Sweden Democrats. \"I don't know that yet. We make decisions within the party,\" she says. Shortly after the interview, the Centre Party leader gets back in touch again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:45:55+01:00"
+      }
+    },
     {
       "id": "47946e1ab988",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T15:01:25+01:00"
-      }
-    },
-    {
-      "id": "c23588c79d16",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/universitetet-har-skickat-ut-47-000-kataloger-med-fel-namn",
-      "guid": "https://www.svt.se/nyheter/lokalt/ost/universitetet-har-skickat-ut-47-000-kataloger-med-fel-namn",
-      "published_at": "2026-11-18T12:55:23+01:00",
-      "fetched_at": "2026-11-18T13:01:13+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Universitetet har skickat ut 47 000 kataloger med fel namn",
-        "summary": "47 000 kataloger om programmen och studentlivet vid Linköpings universitet har skickats ut till gymnasieelever i hela landet som snart ska ta studenten. Men förnamnen har blandats ihop och alla kataloger har postats med felaktiga namn.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "University has sent out 47,000 catalogues with wrong names",
-        "summary": "47,000 catalogues about programmes and student life at Linköping University have been sent to upper secondary school students across the country who will soon take their final exams. But the first names have been mixed up and all catalogues were posted with incorrect names."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:01:24+01:00"
       }
     }
   ]

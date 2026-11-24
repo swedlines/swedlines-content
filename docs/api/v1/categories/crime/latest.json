@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:31:14+01:00",
+  "generated_at": "2026-11-24T14:45:58+01:00",
   "count": 200,
   "items": [
     {
@@ -265,6 +265,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T11:31:16+01:00"
+      }
+    },
+    {
+      "id": "c931ac923f06",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/0vn6qJ/larm-om-allvarligt-brott",
+      "guid": "https://www.aftonbladet.se/nyheter/a/0vn6qJ/larm-om-allvarligt-brott?utm_medium=rss",
+      "published_at": "2026-11-24T10:29:28+01:00",
+      "fetched_at": "2026-11-24T14:45:48+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/d4fcb891-9d41-366b-8157-837fbdf7623a?format=auto&s=0dc2c6b7e4d1544bfd8705a969adcd5db2119568&w=1000",
+      "sv": {
+        "title": "En gripen efter misstänkt allvarligt brott",
+        "summary": "En person gripen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "One arrested after suspected serious crime",
+        "summary": "One person arrested"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:45:55+01:00"
       }
     },
     {
@@ -5403,32 +5430,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T17:15:54+01:00"
-      }
-    },
-    {
-      "id": "e33691cf92cc",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/podcast/krimrummet/bonnie-och-clyde-en-svensk-mordduo",
-      "guid": "https://www.expressen.se/podcast/krimrummet/bonnie-och-clyde-en-svensk-mordduo/",
-      "published_at": "2026-11-19T16:57:57+01:00",
-      "fetched_at": "2026-11-19T17:01:17+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "“Bonnie och Clyde” – en svensk mordduo",
-        "summary": "Han skjuter ihjäl en 18-årig man, hon kör flyktbilen. I chattar jämför de sig med den mytomspunna våldsduon ”Bonnie och Clyde”. I verkligheten är de småbarnsmamman Isabell Eriksson, 34, och gymkillen Joel Engback, 30 och har tagit på sig ett morduppdrag i Södertälje.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "\"Bonnie and Clyde\" – a Swedish murder duo",
-        "summary": "He shoots an 18-year-old man dead, she drives the getaway car. In chats they compare themselves to the mythologised violent duo \"Bonnie and Clyde\". In reality they are young-children mother Isabell Eriksson, 34, and gym guy Joel Engback, 30, and have taken on a murder assignment in Södertälje."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:01:27+01:00"
       }
     }
   ]

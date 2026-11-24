@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T14:31:14+01:00",
+  "generated_at": "2026-11-24T14:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dfc9aee4b8bc",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/podd/spotlight/varfor-har-elpriserna-skjutit-i-hojden",
+      "guid": "https://www.dn.se/podd/spotlight/varfor-har-elpriserna-skjutit-i-hojden/",
+      "published_at": "2026-11-24T14:36:41+01:00",
+      "fetched_at": "2026-11-24T14:45:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/3alm53klfj3hf7c2objihyydvme4znvldplv62ap4anpazm3ccbq.png?io=1&width=1000",
+      "sv": {
+        "title": "Varför har elpriserna skjutit i höjden?",
+        "summary": "Elpriserna rusar i Sverige – och skillnaderna mellan norr och söder är stora. I Malmö kan det kosta fyra gånger så mycket att köra n tvättmaskin som i Luleå. En av förklaringarna är att vi är uppkopplade mot ett europeiskt elsystem där vi har gemensamma priser.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Why have electricity prices soared?",
+        "summary": "Electricity prices are surging in Sweden – and the differences between north and south are large. In Malmö, it can cost four times as much to run one washing machine as in Luleå. One of the explanations is that we are connected to a European electricity system where we have shared prices."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:45:55+01:00"
+      }
+    },
     {
       "id": "f87bbcbf699b",
       "schema_version": 1,
@@ -5370,33 +5397,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T21:15:54+01:00"
-      }
-    },
-    {
-      "id": "6c15baab230b",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/kallade-putin-for-van-reagan-vander-sig-i-sin-grav",
-      "guid": "https://www.dn.se/varlden/kallade-putin-for-van-reagan-vander-sig-i-sin-grav/",
-      "published_at": "2026-11-20T20:44:43+01:00",
-      "fetched_at": "2026-11-20T20:45:46+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/0aef4610-3b0f-4993-8a4a-21f7019562de.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Kallade Putin för vän: ”Reagan vänder sig i sin grav”",
-        "summary": "WASHINGTON. Donald Trump kallar Vladimir Putin för sin vän samtidigt som Ryssland fortsätter att döda civila i Ukraina. Nu höjs kritiska röster på hemmaplan. – Ronald Reagan vänder sig i sin grav, säger kongressledamoten Don Bacon, en potentiell presidentkandidat.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Calls Putin a friend: \"Reagan is turning in his grave\"",
-        "summary": "WASHINGTON. Donald Trump calls Vladimir Putin his friend while Russia continues to kill civilians in Ukraine. Now critical voices are being raised at home. – Ronald Reagan is turning in his grave, says congressman Don Bacon, a potential presidential candidate."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T20:45:55+01:00"
       }
     }
   ]

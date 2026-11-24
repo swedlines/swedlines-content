@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T14:31:14+01:00",
+  "generated_at": "2026-11-24T14:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8c9e90e20231",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/BrRBe0/nastan-600-kvinnor-mordade-pa-tre-manader",
+      "guid": "https://www.aftonbladet.se/nyheter/a/BrRBe0/nastan-600-kvinnor-mordade-pa-tre-manader?utm_medium=rss",
+      "published_at": "2026-11-24T14:35:16+01:00",
+      "fetched_at": "2026-11-24T14:45:48+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/39f9ca6d-9992-3939-84d6-656dfb50004b?format=auto&s=003d9829e2adb5448f8efc58fcd6f77006f1af6d&w=1000",
+      "sv": {
+        "title": "Nästan 600 kvinnor mördade på tre månader",
+        "summary": "Blodiga siffrorna från Sydafrika",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Almost 600 women murdered in three months",
+        "summary": "Bloody figures from South Africa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:45:55+01:00"
+      }
+    },
     {
       "id": "bd3371b8784c",
       "schema_version": 1,
@@ -5341,32 +5368,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T15:01:22+01:00"
-      }
-    },
-    {
-      "id": "5b1a3b8a0ff6",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/WmbAgK/5-punkter-om-cop31",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/WmbAgK/5-punkter-om-cop31?utm_medium=rss",
-      "published_at": "2026-11-22T14:02:00+01:00",
-      "fetched_at": "2026-11-22T15:15:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "5 punkter om COP 31 2026",
-        "summary": "5 punkter om COP31",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "5 points about COP 31 2026",
-        "summary": "5 points about COP31"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:15:59+01:00"
       }
     }
   ]
