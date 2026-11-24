@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-24T07:45:54+01:00",
-  "count": 142,
+  "generated_at": "2026-11-24T08:01:20+01:00",
+  "count": 147,
   "items": [
+    {
+      "id": "9bb24d9bf0b4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/tomra-satter-nya-mal-infor-kapitalmarknadsdag",
+      "guid": "58228ce6-8faf-4e06-a236-0b591583a38b",
+      "published_at": "2026-11-24T07:51:07+01:00",
+      "fetched_at": "2026-11-24T08:01:10+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/eb66a691-a038-4fcb-a8d1-05eef8a89a64.jpeg?width=600",
+      "sv": {
+        "title": "Tomra sätter nya mål inför kapitalmarknadsdag",
+        "summary": "Norska Tomra, med inriktning på sensorbaserad sortering och återvinning, introducerar uppdaterade mål för 2030-2032 och siktar på en ebita-marginal på 16–18 procent och en avkastning på sysselsatt kapital på över 18 procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tomra sets new targets ahead of capital markets day",
+        "summary": "Norway's Tomra, focused on sensor-based sorting and recycling, introduces updated targets for 2030-2032 and aims for an EBITA margin of 16–18 percent and a return on capital employed of over 18 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T08:01:15+01:00"
+      }
+    },
+    {
+      "id": "e5cddff2c9b6",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/globalt-ai-rally-men-nedat-pa-stockholmsborsen",
+      "guid": "6a11d5e1-1c9f-4434-9ce2-a1d341193978",
+      "published_at": "2026-11-24T07:48:44+01:00",
+      "fetched_at": "2026-11-24T08:01:10+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/130a2d45-e312-4334-855a-4774a9ca7b2c.jpg?width=600",
+      "sv": {
+        "title": "Globalt AI-rally – men nedåt på Stockholmsbörsen",
+        "summary": "AI-aktier rusar uppåt i hela världen efter Jensen Huangs återinträde som vd för den amerikanska chiptillverkaren Nvidia. Men i terminshandeln på IG Markets pekar det svagt nedåt för Stockholmsbörsen – efter kurslyften i måndags.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Global AI rally – but down on the Stockholm Stock Exchange",
+        "summary": "AI stocks are surging worldwide after Jensen Huang's return as CEO of the American chipmaker Nvidia. But in futures trading on IG Markets, the Stockholm Stock Exchange is pointing slightly down – after Monday's gains."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T08:01:15+01:00"
+      }
+    },
+    {
+      "id": "5b694a56f2bb",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/nyheter/morgonkoll-historiskt-rus-i-nvidia",
+      "guid": "822d44c5-c081-5784-a2e7-53997acca80c",
+      "published_at": "2026-11-24T07:43:57+01:00",
+      "fetched_at": "2026-11-24T08:01:10+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Morgonkoll: Historiskt rus i Nvidia",
+        "summary": "Senaste nyheterna med Noel Hermansson",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Morning check: Historic surge in Nvidia",
+        "summary": "Latest news with Noel Hermansson"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T08:01:15+01:00"
+      }
+    },
     {
       "id": "3f2107d423c8",
       "schema_version": 1,
@@ -2618,6 +2698,32 @@
       }
     },
     {
+      "id": "bcae644b86db",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/oppna-grindar-i-viltstangslet-langs-e45-oroar-trafikverket-vi-maste-hjalpas-at",
+      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/oppna-grindar-i-viltstangslet-langs-e45-oroar-trafikverket-vi-maste-hjalpas-at",
+      "published_at": "2026-11-24T05:30:09+01:00",
+      "fetched_at": "2026-11-24T08:01:07+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Öppna grindar i viltstängslet längs E45 oroar Trafikverket: ”Vi måste hjälpas åt”",
+        "summary": "I slutet av november ska viltsäkringen av E45 på sträckan mellan Brunflo och Svenstavik vara klar. Men Trafikverket har redan märkt att flera av de grindar som sitter vid små infarter och skogsbilvägar lämnas öppna långa perioder.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Open gates in wildlife fence along E45 worry Transport Administration: \"We must help each other\"",
+        "summary": "The wildlife protection fence along E45 between Brunflo and Svenstavik is due to be completed at the end of November. But the Transport Administration has already noticed that several of the gates at small access roads and forest tracks are being left open for long periods."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T08:01:15+01:00"
+      }
+    },
+    {
       "id": "f2e3ed5940f8",
       "schema_version": 1,
       "source": "svt",
@@ -3339,6 +3445,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T03:01:12+01:00"
+      }
+    },
+    {
+      "id": "963f83ee41c6",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/OypOPw/strandhall-v-har-fullstandigt-kort-sonder-detta",
+      "guid": "https://www.aftonbladet.se/nyheter/a/OypOPw/strandhall-v-har-fullstandigt-kort-sonder-detta?utm_medium=rss",
+      "published_at": "2026-11-24T02:23:02+01:00",
+      "fetched_at": "2026-11-24T08:01:09+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/b8483ab3-977e-380e-951e-eb611ace6563?format=auto&s=4c60a761e845efaeb34d0f64ad1bd8b4f4ab4d3d&w=1000",
+      "sv": {
+        "title": "S-veteranen till attack: Ni har fullständigt kört sönder detta",
+        "summary": "Veteranen rasar ✓ Kontrar: ”Bjälken i ditt öga”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Social Democrat veteran goes on the attack: You have completely wrecked this",
+        "summary": "The veteran is furious ✓ Counters: \"The beam in your own eye\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T08:01:15+01:00"
       }
     },
     {
