@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T03:31:06+01:00",
+  "generated_at": "2026-11-24T03:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c305ac520b5b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/OypO1k/smittrisk-vid-tandvardsbesok-erbjuds-hivtest",
+      "guid": "https://www.aftonbladet.se/nyheter/a/OypO1k/smittrisk-vid-tandvardsbesok-erbjuds-hivtest?utm_medium=rss",
+      "published_at": "2026-11-24T03:33:53+01:00",
+      "fetched_at": "2026-11-24T03:45:47+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/b2fa1ca6-bf50-31d1-aa21-5b1b1f6c411a?format=auto&s=cad0516e1842fc454be7e002a4d5b2f940c26f15&w=1000",
+      "sv": {
+        "title": "Smittrisk vid tandvårdsbesök – erbjuds hivtest",
+        "summary": "Region Kronoberg kan inte utesluta att otillräckligt rengjorda instrument lett till smitta av hiv…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Infection risk at dental visits – offered HIV test",
+        "summary": "Region Kronoberg cannot rule out that insufficiently cleaned instruments led to HIV transmission…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T03:45:52+01:00"
+      }
+    },
     {
       "id": "bf29c6449a3c",
       "schema_version": 1,
@@ -5382,33 +5409,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T17:01:18+01:00"
-      }
-    },
-    {
-      "id": "c186c2db2ef6",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/arets-julklapp-slutsald-i-stockholm-och-goteborg",
-      "guid": "88b4d1e4-5623-47b3-91bc-2a827b61eb39",
-      "published_at": "2026-11-23T16:39:32+01:00",
-      "fetched_at": "2026-11-23T16:45:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a17437af-05ff-489d-9ede-e5788e46458a.jpeg?width=600",
-      "sv": {
-        "title": "Årets julklapp slutsåld – i Stockholm och Göteborg",
-        "summary": "Ett startnummer till ett motionslopp utsågs i förra veckan till årets julklapp av HUI Research. För den som vill ge ett startnummer i present tvingas nu leta sig utanför de populäraste loppen i Stockholm och Göteborg efter att ännu ett blivit slutsålt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Year's Christmas present sold out – in Stockholm and Göteborg",
-        "summary": "A race bib for a fun run was named this year's Christmas present by HUI Research last week. Those wanting to give a race bib as a gift must now look outside the most popular races in Stockholm and Göteborg, after yet another one sold out."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T16:45:50+01:00"
       }
     }
   ]

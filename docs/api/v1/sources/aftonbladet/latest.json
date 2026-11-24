@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T03:31:06+01:00",
+  "generated_at": "2026-11-24T03:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c305ac520b5b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/OypO1k/smittrisk-vid-tandvardsbesok-erbjuds-hivtest",
+      "guid": "https://www.aftonbladet.se/nyheter/a/OypO1k/smittrisk-vid-tandvardsbesok-erbjuds-hivtest?utm_medium=rss",
+      "published_at": "2026-11-24T03:33:53+01:00",
+      "fetched_at": "2026-11-24T03:45:47+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/b2fa1ca6-bf50-31d1-aa21-5b1b1f6c411a?format=auto&s=cad0516e1842fc454be7e002a4d5b2f940c26f15&w=1000",
+      "sv": {
+        "title": "Smittrisk vid tandvårdsbesök – erbjuds hivtest",
+        "summary": "Region Kronoberg kan inte utesluta att otillräckligt rengjorda instrument lett till smitta av hiv…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Infection risk at dental visits – offered HIV test",
+        "summary": "Region Kronoberg cannot rule out that insufficiently cleaned instruments led to HIV transmission…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T03:45:52+01:00"
+      }
+    },
     {
       "id": "869048e07eaa",
       "schema_version": 1,
@@ -5344,33 +5371,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T19:16:01+01:00"
-      }
-    },
-    {
-      "id": "4a068574c3ee",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/410981/se-det-ryska-robotnedslaget-i-polen",
-      "guid": "https://tv.aftonbladet.se/video/410981/se-det-ryska-robotnedslaget-i-polen?utm_medium=rss",
-      "published_at": "2026-11-20T18:52:35+01:00",
-      "fetched_at": "2026-11-21T10:31:06+01:00",
-      "category": "world",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/cf2a03af202dd608482977eae40e6194.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "Se det ryska robotnedslaget i Polen",
-        "summary": "Tre nedslagsplatser i Polen",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Watch the Russian missile strike in Poland",
-        "summary": "Three impact sites in Poland"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T10:31:13+01:00"
       }
     }
   ]
