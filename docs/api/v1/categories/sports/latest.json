@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T13:45:58+01:00",
+  "generated_at": "2026-11-24T14:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f889d42dd9be",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/fotboll/tifodrommen-nara-att-bli-verklighet-for-hammarbykugge-kanslosamt",
+      "guid": "https://www.svt.se/sport/fotboll/tifodrommen-nara-att-bli-verklighet-for-hammarbykugge-kanslosamt",
+      "published_at": "2026-11-24T13:50:05+01:00",
+      "fetched_at": "2026-11-24T14:01:11+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Tifodrömmen nära att bli verklighet för Hammarbykugge: ”Känslosamt”",
+        "summary": "Den finns inramad hemma, bilden på det speciella tifot. Nu är Hammarbys mittfältskugge på väg att uppfylla drömmen om ett SM-guld. – Jag blir känslosam så fort jag kollar på den, säger Markus Karlsson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tifo dream close to becoming reality for Hammarby midfielder: \"Emotional\"",
+        "summary": "The picture of the special tifo is framed at home. Now Hammarby's midfielder is on the way to fulfilling the dream of a Swedish championship gold. – I get emotional every time I look at it, says Markus Karlsson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:01:23+01:00"
+      }
+    },
     {
       "id": "775455d40ff8",
       "schema_version": 1,
@@ -5600,45 +5626,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T19:45:52+01:00"
-      }
-    },
-    {
-      "id": "211f88a600f0",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/ministerns-skarpa-varning-efter-linus-weissbachs-khl-flytt.ca28e9a2-e990-5510-95b8-1d6c696192fe",
-      "guid": "ca28e9a2-e990-5510-95b8-1d6c696192fe",
-      "published_at": "2026-11-18T19:11:37+01:00",
-      "fetched_at": "2026-11-18T19:15:48+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Sport",
-        "Tagg: Johan Forssell",
-        "Tagg: Gazprom",
-        "Tagg: Vladimir Putin",
-        "Tagg: Tre Kronor",
-        "Tagg: KHL",
-        "Tagg: Jakob Forssmed (KD)",
-        "Tagg: Maria Malmer Stenergard",
-        "Tagg: Ryssland",
-        "Tagg: Ishockey"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/1e855af4-4f92-34e7-9fd3-d82c3f826429",
-      "sv": {
-        "title": "Linus Weissbach gick från Frölunda till KHL – ministern varnar",
-        "summary": "Jakob Forssmed om svenska KHL-spelare: ”Gör det inte”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Linus Weissbach left Frölunda for KHL – minister warns",
-        "summary": "Jakob Forssmed on Swedish KHL players: \"Don't do it\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:15:55+01:00"
       }
     }
   ]

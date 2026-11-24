@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T13:45:58+01:00",
+  "generated_at": "2026-11-24T14:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6c9cfff8ec58",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349036",
+      "guid": "rss:sr.se/article/9349036",
+      "published_at": "2026-11-24T13:54:00+01:00",
+      "fetched_at": "2026-11-24T14:01:12+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps roll i Nvidia-affären: AI-maktkampen påminner om kalla kriget",
+        "summary": "Att techbolaget Nvidias VD återanställs efter ingripande från USA:s president väcker stor uppmärksamhet och debatt i världen. Men frågan går inte bara att se rent företagspolitiskt utan måste också ses i ljuset av den stenhårda kampen mellan Kina och USA som nu pågår kring AI.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Trump's move in the Nvidia affair: the AI power struggle recalls the Cold War",
+        "summary": "The rehiring of Nvidia's CEO after intervention by the US president is drawing major attention and debate around the world. But the matter cannot be viewed purely as a business-policy issue; it must also be seen in light of the fierce struggle between China and the US now under way over AI."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:01:23+01:00"
+      }
+    },
     {
       "id": "6d82ec7401b7",
       "schema_version": 1,
@@ -5327,33 +5353,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T12:45:52+01:00"
-      }
-    },
-    {
-      "id": "514a7cf937cd",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/9BvdKq/byar-satta-i-brand-pa-vastbanken-judisk-terror",
-      "guid": "https://www.aftonbladet.se/nyheter/a/9BvdKq/byar-satta-i-brand-pa-vastbanken-judisk-terror?utm_medium=rss",
-      "published_at": "2026-11-22T12:09:56+01:00",
-      "fetched_at": "2026-11-22T12:15:46+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/b1612259-9226-3efc-994e-568f3a6ce6b9?format=auto&s=0065c5176b0bde6e0abfe2a4881ac7e4e06f23b1&w=1000",
-      "sv": {
-        "title": "Byar satta i brand på Västbanken: ”Judisk terror”",
-        "summary": "Flera samhällen på ockuperade Västbanken har utsatts för nattliga brandattacker.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Villages set on fire on the West Bank: \"Jewish terror\"",
-        "summary": "Several communities in the occupied West Bank have been hit by nighttime arson attacks."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T12:16:00+01:00"
       }
     }
   ]

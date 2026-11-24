@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T13:45:58+01:00",
+  "generated_at": "2026-11-24T14:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6c9cfff8ec58",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349036",
+      "guid": "rss:sr.se/article/9349036",
+      "published_at": "2026-11-24T13:54:00+01:00",
+      "fetched_at": "2026-11-24T14:01:12+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps roll i Nvidia-affären: AI-maktkampen påminner om kalla kriget",
+        "summary": "Att techbolaget Nvidias VD återanställs efter ingripande från USA:s president väcker stor uppmärksamhet och debatt i världen. Men frågan går inte bara att se rent företagspolitiskt utan måste också ses i ljuset av den stenhårda kampen mellan Kina och USA som nu pågår kring AI.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Trump's move in the Nvidia affair: the AI power struggle recalls the Cold War",
+        "summary": "The rehiring of Nvidia's CEO after intervention by the US president is drawing major attention and debate around the world. But the matter cannot be viewed purely as a business-policy issue; it must also be seen in light of the fierce struggle between China and the US now under way over AI."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:01:23+01:00"
+      }
+    },
     {
       "id": "300cdca2daaf",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T06:31:03+01:00"
-      }
-    },
-    {
-      "id": "5298d13ed0a9",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344282",
-      "guid": "rss:sr.se/article/9344282",
-      "published_at": "2026-11-19T06:00:00+01:00",
-      "fetched_at": "2026-11-19T06:01:12+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Reportern om säkerhetsskyddet: ”Beskrivs som ett svårt arbete”",
-        "summary": "Ekots granskning visar att det sedan januari förra året har upptäckts brister i det så kallade säkerhetsskyddet - alltså det som ska skydda viktiga svenska verksamheter mot sabotage, spionage och terrorism.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Reporter on security protection: \"Described as a difficult job\"",
-        "summary": "Ekot's investigation shows that since January last year, shortcomings have been discovered in the so-called security protection - that is, what is meant to protect important Swedish operations against sabotage, espionage and terrorism."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:01:24+01:00"
       }
     }
   ]

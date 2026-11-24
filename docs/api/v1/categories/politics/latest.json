@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-24T13:45:58+01:00",
+  "generated_at": "2026-11-24T14:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b080b3a56859",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/rodgrona-kraschen-s-c-mp-och-v-skyller-pa-varandra",
+      "guid": "https://www.expressen.se/nyheter/politik/rodgrona-kraschen-s-c-mp-och-v-skyller-pa-varandra/",
+      "published_at": "2026-11-24T13:48:26+01:00",
+      "fetched_at": "2026-11-24T14:01:14+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Rödgröna kraschen – S, C, MP och V skyller på varandra",
+        "summary": "De rödgröna förhandlingarna har kraschat. Nu skyller partierna på varandra. Vänsterpartiet ville inte förhandla, enligt S-ledaren Magdalena Andersson. – Hon visade kanske inte det ledarskap som behövs innan valet, svarar V-ledaren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Red-green collapse – the Social Democrats, the Centre Party, the Green Party and the Left Party blame each other",
+        "summary": "Negotiations among the red-greens have collapsed. Now the parties are blaming each other. The Left Party did not want to negotiate, according to S leader Magdalena Andersson. – She perhaps did not show the leadership needed before the election, responds the V leader."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:01:23+01:00"
+      }
+    },
+    {
+      "id": "b185df092309",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/bodstroms-attack-mot-gabrielsson",
+      "guid": "https://www.expressen.se/nyheter/politik/bodstroms-attack-mot-gabrielsson/",
+      "published_at": "2026-11-24T13:44:59+01:00",
+      "fetched_at": "2026-11-24T14:01:14+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Bodströms attack mot Gabrielsson",
+        "summary": "Ida Gabrielsson har gjort mer för en ny Tidöregering än Jimmie Åkesson. Det anser tidigare S-ministern Thomas Bodström. ”Var politiken inte viktigare än så?” skriver han i sociala medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bodström's attack on Gabrielsson",
+        "summary": "Ida Gabrielsson has done more for a new Tidö government than Jimmie Åkesson. That is the view of former S minister Thomas Bodström. \"Was politics not more important than that?\" he writes on social media."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T14:01:23+01:00"
+      }
+    },
     {
       "id": "9d9ba97ff1fa",
       "schema_version": 1,
@@ -5318,70 +5370,6 @@
       "en": {
         "title": "New proposal to V from S, C and MP",
         "summary": "Nooshi Dadgostar (V) now receives an offer from the Social Democrats, the Green Party and the Centre Party. She may join an “inner cabinet” in the government offices and can count on a number of political wins – but no ministerial posts."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T18:15:53+01:00"
-      }
-    },
-    {
-      "id": "6effefb846e0",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/OypAdb/andersson-har-ar-budet-till-v",
-      "guid": "https://www.aftonbladet.se/nyheter/a/OypAdb/andersson-har-ar-budet-till-v?utm_medium=rss",
-      "published_at": "2026-11-22T17:57:47+01:00",
-      "fetched_at": "2026-11-22T19:01:11+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/a30f5a7d-51e1-39d8-ab60-caa9de59c336?format=auto&s=2426a25c6d48a127f090e4549e6769abed96b93f&w=1000",
-      "sv": {
-        "title": "V-toppens svar efter Anderssons bud: ”Nej tack!”",
-        "summary": "Nya buden från S",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "V top's response to Andersson's offer: \"No thanks!\"",
-        "summary": "New offers from S"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T19:01:16+01:00"
-      }
-    },
-    {
-      "id": "24971237767f",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/politik/styret-ger-partierna-mer-pengar-s-roffar-at-sig.21b1745f-d2e1-5ea4-8eed-3a63f3a00a16",
-      "guid": "21b1745f-d2e1-5ea4-8eed-3a63f3a00a16",
-      "published_at": "2026-11-22T17:41:13+01:00",
-      "fetched_at": "2026-11-22T18:15:47+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Politik",
-        "Tagg: Politik",
-        "Tagg: Politik Göteborg",
-        "Tagg: Socialdemokraterna",
-        "Tagg: Jonas Attenius (S)",
-        "Tagg: Martin Wannholt",
-        "Tagg: Miljöpartiet",
-        "Tagg: Vänsterpartiet"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/aa00a7a5-4115-35ff-8ba6-b976d68b953d",
-      "sv": {
-        "title": "Styret ger partierna mer pengar: ”S roffar åt sig”",
-        "summary": "Sänkte de egna lönerna för att satsa på välfärden – slussar miljoner till egna organisationen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Styret gives parties more money: “S grabs for itself”",
-        "summary": "Cut their own salaries to invest in welfare – funnels millions to their own organisation."
       },
       "translation": {
         "status": "done",
