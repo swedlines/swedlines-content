@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-24T08:31:15+01:00",
+  "generated_at": "2026-11-24T08:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c495aeafc691",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/larmet-om-ostersjon-efter-finska-noddraget",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/larmet-om-ostersjon-efter-finska-noddraget",
+      "published_at": "2026-11-24T08:35:51+01:00",
+      "fetched_at": "2026-11-24T08:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Krigslarmet om Östersjön",
+        "summary": "Europa varnar Zelenskyj efter finska nöddraget: ”Får inte ...”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm over the Baltic Sea",
+        "summary": "Europe warns Zelenskyj after Finnish emergency landing: \"Must not ...\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T08:45:53+01:00"
+      }
+    },
+    {
+      "id": "db7f0b0989d9",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/tio-ar-efter-fredsavtalet-har-har-kriget-aldrig-tagit-slut",
+      "guid": "https://www.dn.se/varlden/tio-ar-efter-fredsavtalet-har-har-kriget-aldrig-tagit-slut/",
+      "published_at": "2026-11-24T08:34:52+01:00",
+      "fetched_at": "2026-11-24T08:45:42+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/f335725f-3046-4247-b32b-f08fd1cd9bbf.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Tio år efter fredsavtalet – här har kriget aldrig tagit slut",
+        "summary": "RIO DE JANEIRO. I dag är det tio år sedan fredsavtalet med Farc-gerillan undertecknades i Colombia. Men i provinsen Chocó vid Stillahavskusten har kriget aldrig tagit slut. Andra väpnade grupper har fyllt tomrummet efter Farc och fortsätter att värva ungdomssoldater.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ten years after the peace agreement – here the war has never ended",
+        "summary": "RIO DE JANEIRO. Today it is ten years since the peace agreement with the Farc guerrilla was signed in Colombia. But in the province of Chocó on the Pacific coast, the war has never ended. Other armed groups have filled the void left by Farc and continue to recruit young soldiers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T08:45:53+01:00"
+      }
+    },
     {
       "id": "f9c4a730f76e",
       "schema_version": 1,
@@ -5301,58 +5354,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T07:15:50+01:00"
-      }
-    },
-    {
-      "id": "7b455e86cf4b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/bk5bPe/femvaningshus-traffat-i-rysk-attack",
-      "guid": "https://www.aftonbladet.se/nyheter/a/bk5bPe/femvaningshus-traffat-i-rysk-attack?utm_medium=rss",
-      "published_at": "2026-11-22T06:56:40+01:00",
-      "fetched_at": "2026-11-22T07:01:11+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Femvåningshus träffat i rysk attack",
-        "summary": "Ett femvåningshus i Ukrainas huvudstad Kiev har skadats i en rysk drönarattack.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Five-storey building hit in Russian attack",
-        "summary": "A five-storey building in the Ukrainian capital Kyiv has been damaged in a Russian drone attack."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T07:01:16+01:00"
-      }
-    },
-    {
-      "id": "4c697664d2da",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/iran-i-nya-attacker-mot-bahrain-i-natt",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/iran-i-nya-attacker-mot-bahrain-i-natt",
-      "published_at": "2026-11-22T06:44:40+01:00",
-      "fetched_at": "2026-11-22T06:45:43+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Iran i nya attacker på landet",
-        "summary": "Byggnad i träffad – i lågor",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Iran in new attacks on the country",
-        "summary": "Building hit – in flames"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T06:45:55+01:00"
       }
     }
   ]

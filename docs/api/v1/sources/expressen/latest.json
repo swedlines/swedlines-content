@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-24T08:31:15+01:00",
+  "generated_at": "2026-11-24T08:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5184be08d491",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/talmannen-moter-partiledarna",
+      "guid": "https://www.expressen.se/nyheter/politik/talmannen-moter-partiledarna/",
+      "published_at": "2026-11-24T08:39:20+01:00",
+      "fetched_at": "2026-11-24T08:45:44+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Talmannen möter partiledarna",
+        "summary": "Regeringsdramatiken fortsätter. Centern vill nu förhandla högerut – efter bråken på den rödgröna sidan. Under tisdagen möter Andreas Norlén samtliga partiledare för en ny talmansrunda.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Speaker meets party leaders",
+        "summary": "The government drama continues. The Centre Party now wants to negotiate to the right, after the quarrels on the red-green side. On Tuesday, Andreas Norlén meets all party leaders for a new speaker's round."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T08:45:53+01:00"
+      }
+    },
+    {
+      "id": "c495aeafc691",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/larmet-om-ostersjon-efter-finska-noddraget",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/larmet-om-ostersjon-efter-finska-noddraget",
+      "published_at": "2026-11-24T08:35:51+01:00",
+      "fetched_at": "2026-11-24T08:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Krigslarmet om Östersjön",
+        "summary": "Europa varnar Zelenskyj efter finska nöddraget: ”Får inte ...”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm over the Baltic Sea",
+        "summary": "Europe warns Zelenskyj after Finnish emergency landing: \"Must not ...\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T08:45:53+01:00"
+      }
+    },
     {
       "id": "f99ff749c8a2",
       "schema_version": 1,
@@ -5145,58 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T18:31:09+01:00"
-      }
-    },
-    {
-      "id": "097c055221c5",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/kungligt/prinsessans-prao-i-finland",
-      "guid": "https://www.expressen.se/nyheter/kungligt/prinsessans-prao-i-finland/",
-      "published_at": "2026-11-20T18:18:15+01:00",
-      "fetched_at": "2026-11-20T18:31:01+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Prinsessans prao i Finland",
-        "summary": "Prinsessan Estelle har praoat i Finland. Hon tillbringade veckan på den svenska ambassaden och med president Alexander Stubb. ”Det har varit en intensiv men fantastisk vecka”, skriver hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The princess's work placement in Finland",
-        "summary": "Princess Estelle has done a work placement in Finland. She spent the week at the Swedish embassy and with President Alexander Stubb. \"It has been an intensive but fantastic week,\" she writes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:31:09+01:00"
-      }
-    },
-    {
-      "id": "fa505248a61e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=d5b54ba7-4681-42b0-91f2-286b53723e40",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d5b54ba7-4681-42b0-91f2-286b53723e40",
-      "published_at": "2026-11-20T18:09:49+01:00",
-      "fetched_at": "2026-11-20T18:15:46+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C-topp öppnar för Kristersson",
-        "summary": "Anders Dahlberg (C) redo att gå högerut",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party leadership opens to Kristersson",
-        "summary": "Anders Dahlberg (C) ready to move to the right"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:16:00+01:00"
       }
     }
   ]
