@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T13:01:50+01:00",
+  "generated_at": "2026-11-24T13:16:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "db2dff892272",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/yz3BPJ/centerpartiet-ger-inte-besked-om-sd",
+      "guid": "https://www.aftonbladet.se/nyheter/a/yz3BPJ/centerpartiet-ger-inte-besked-om-sd?utm_medium=rss",
+      "published_at": "2026-11-24T13:02:46+01:00",
+      "fetched_at": "2026-11-24T13:15:51+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/0f57a1a6-27c1-3a85-ad24-9dd69ebc29c3?format=auto&s=5cda747b377b977574e7d85e116f328fa7646354&w=1000",
+      "sv": {
+        "title": "C:s besked om SD: Inte fattat några beslut",
+        "summary": "Röda linjen ligger fast för C",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party (C) on SD: No decisions taken",
+        "summary": "C's red line remains firm."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:16:06+01:00"
+      }
+    },
     {
       "id": "1d89900f20f9",
       "schema_version": 1,
@@ -5343,33 +5370,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:45:53+01:00"
-      }
-    },
-    {
-      "id": "a9817cfe098a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/1vneGW/eu-kallar-flygmyndighet-till-mote-om-trotta-piloter",
-      "guid": "https://www.aftonbladet.se/nyheter/a/1vneGW/eu-kallar-flygmyndighet-till-mote-om-trotta-piloter?utm_medium=rss",
-      "published_at": "2026-11-21T10:29:48+01:00",
-      "fetched_at": "2026-11-21T10:31:06+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/943a1527-f884-3a48-99e1-84d39bd9a08d?format=auto&s=74ec801cb998d0fb075ffdab137851ea0fc1c04c&w=1000",
-      "sv": {
-        "title": "Ställer flygmyndigheten mot väggen efter larmen: ”Helt jävla oacceptabelt”",
-        "summary": "Oroväckande siffran från Europa",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Flight authority cornered after alarms: ”Totally fucking unacceptable”",
-        "summary": "Worrying figure from Europe"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T10:31:13+01:00"
       }
     }
   ]
