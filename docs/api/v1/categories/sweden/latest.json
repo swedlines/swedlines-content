@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-24T06:02:32+01:00",
+  "generated_at": "2026-11-24T06:16:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3b6816c64ae3",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1CLioCuhcFnhlXjdgUfZgZ/foerskollaerarna-larmar-vi-raecker-inte-till-barngrupperna-svaeller",
+      "guid": "1CLioCuhcFnhlXjdgUfZgZ",
+      "published_at": "2026-11-24T06:09:13+01:00",
+      "fetched_at": "2026-11-24T06:15:48+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "förskola"
+      ],
+      "sv": {
+        "title": "Förskollärarna larmar: Vi räcker inte till – barngrupperna sväller",
+        "summary": "I Sveriges Lärares rapport, titulerad ”Redan i förskolan sviker vi barnen”, svarar nio av tio lärare i förskolan att barn med olika utmaningar och behov blir allt fler. Nästan lika många, åtta av tio, upplever att verksamheten saknar förutsättningar att möta behoven.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Preschool teachers sound the alarm: We can't cope – child groups are swelling",
+        "summary": "In the Swedish Teachers' Union report, titled “Already in preschool we fail the children”, nine in ten preschool teachers say that children with different challenges and needs are becoming ever more numerous. Almost as many, eight in ten, feel the activity lacks the conditions to meet those needs."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
     {
       "id": "b6302543c62f",
       "schema_version": 1,
@@ -5424,40 +5453,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:31:09+01:00"
-      }
-    },
-    {
-      "id": "e7eb46cc4957",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/sverige/fhm-influensasasongen-ar-har.2305b55c-eb3c-55c7-a74d-2498aafda51c",
-      "guid": "2305b55c-eb3c-55c7-a74d-2498aafda51c",
-      "published_at": "2026-11-19T16:23:22+01:00",
-      "fetched_at": "2026-11-19T17:01:18+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Sverige",
-        "Tagg: breaking-GP",
-        "Tagg: Influensa",
-        "Tagg: Folkhälsomyndigheten",
-        "Tagg: Sjukdomar"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/95fea8f1-c2a0-3aeb-9a4b-371de19e4d4c",
-      "sv": {
-        "title": "Influensasäsongen är här – tidigare än vanligt",
-        "summary": "Folkhälsomyndighetens uppmaning: ”Stanna hemma vid sjukdom”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Influenza season is here – earlier than usual",
-        "summary": "The Public Health Agency's appeal: \"Stay home when sick\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:01:27+01:00"
       }
     }
   ]

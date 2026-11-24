@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T06:02:32+01:00",
+  "generated_at": "2026-11-24T06:16:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dbc5b86e4887",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347008",
+      "guid": "rss:sr.se/article/9347008",
+      "published_at": "2026-11-24T06:09:00+01:00",
+      "fetched_at": "2026-11-24T06:15:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nordirland har Storbritanniens bästa ekonomi efter Brexit",
+        "summary": "Nordirlands ekonomi har vuxit med nästan 13 procent sedan slutet av 2019, jämfört med drygt 6 procent i Storbritannien som helhet. Det beror inte minst på Nordirlands särskilda ställning efter Brexit.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Northern Ireland has Britain's best economy after Brexit",
+        "summary": "Northern Ireland's economy has grown by almost 13 percent since the end of 2019, compared with just over 6 percent in the UK as a whole. This is largely due to Northern Ireland's special status after Brexit."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
     {
       "id": "4486ae23ad80",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "5423863fbdba",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345517",
-      "guid": "rss:sr.se/article/9345517",
-      "published_at": "2026-11-18T15:58:00+01:00",
-      "fetched_at": "2026-11-18T16:01:19+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Läkaren tipsar: Så återfuktar du huden i vinter",
-        "summary": "Spruckna händer, narig och torr hud kommer som ett brev på posten när temperaturen sjunker. Så hur gör man för att återfukta huden och slippa bli torr?",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "The doctor advises: How to rehydrate your skin this winter",
-        "summary": "Cracked hands, rough and dry skin arrive like a letter in the post when temperatures drop. So how do you rehydrate the skin and avoid getting dry?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:01:35+01:00"
       }
     }
   ]

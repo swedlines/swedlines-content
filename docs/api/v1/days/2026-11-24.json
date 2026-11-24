@@ -1,7 +1,398 @@
 {
-  "generated_at": "2026-11-24T06:02:32+01:00",
-  "count": 72,
+  "generated_at": "2026-11-24T06:16:10+01:00",
+  "count": 90,
   "items": [
+    {
+      "id": "f3a554dbbdda",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/sa-byggdes-hajpen-kring-you-can-see-everything",
+      "guid": "https://www.dn.se/kultur/sa-byggdes-hajpen-kring-you-can-see-everything/",
+      "published_at": "2026-11-24T06:15:17+01:00",
+      "fetched_at": "2026-11-24T06:15:46+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/bd931b1c-ee9d-4398-ad16-9f86834aae38.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Så byggdes hajpen kring ”You can see everything”",
+        "summary": "Fomo redan innan de flesta du känner sett filmen? Väntade du i veckor på premiären? Det är precis vad produktionsbolaget A24 vill att du ska känna, enligt Mattias Lundin, marknadsföringsexpert på SF Studios. – Det blir den hetaste visning du kan komma in på, som en ”Golden ticket”, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How the hype around “You can see everything” was built",
+        "summary": "FOMO before most people you know have seen the film? Did you wait weeks for the premiere? That is exactly what production company A24 wants you to feel, according to Mattias Lundin, marketing expert at SF Studios. – It will be the hottest screening you can get into, like a “Golden ticket”, he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "ed555f350f89",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/mff-s-lanekarusell-sa-har-det-gatt-for-spelarna",
+      "guid": "ccc49746-8cb0-4857-82c7-0699202183de",
+      "published_at": "2026-11-24T06:15:00+01:00",
+      "fetched_at": "2026-11-24T06:15:49+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/d7d6818c-b088-4337-a281-f7f29a055aa9.jpeg?width=600",
+      "sv": {
+        "title": "MFF:s lånekarusell – så har det gått för spelarna",
+        "summary": "Malmö FF har skickat en uppsjö av spelare på lån under säsongen som gått. En del med gott utfall. Andra har haft det tufft i en ny miljö. Sydsvenskan har gått igenom situationen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "MFF's loan carousel – how the players have fared",
+        "summary": "Malmö FF has sent a host of players on loan during the season that is ending. Some with good results. Others have struggled in a new environment. Sydsvenskan has reviewed the situation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "c7a882fb88fe",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/svallvagor-fran-usa-bland-borserna-i-asien-stiger-kraftigt",
+      "guid": "684fbe98-04d5-4396-b1af-79822edf4ca8",
+      "published_at": "2026-11-24T06:11:41+01:00",
+      "fetched_at": "2026-11-24T06:15:49+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/3fbb9e39-5d23-42fa-9cc3-0e69b8518f2b.jpg?width=600",
+      "sv": {
+        "title": "Svallvågor från USA bland börserna i Asien – stiger kraftigt",
+        "summary": "De ledande indexen i Asien följer de branta uppgångarna på Wall Street och stiger kraftigt under den inledande tisdagshandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ripples from the US hit Asian markets – surge sharply",
+        "summary": "The leading indexes in Asia are following the steep gains on Wall Street and rising sharply in early Tuesday trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "08cf75f8e9fc",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/utdelningen-dubblad-i-di-s-portfolj",
+      "guid": "dd36d686-4631-4a27-a39e-4ad2f55d4081",
+      "published_at": "2026-11-24T06:10:16+01:00",
+      "fetched_at": "2026-11-24T06:15:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/48792df1-7bbd-46db-89dc-785b6418d62a.jpeg?width=600",
+      "sv": {
+        "title": "Utdelningen dubblad i Di:s portfölj",
+        "summary": "Di:s utdelningsportfölj har förvandlats till en kassamaskin. De tio aktierna har i snitt dubblat sin utdelning på tio år och vissa har höjt den betydligt mer än så. Nu slänger vi ut en högutdelare och plockar i stället in en riktig börsstjärna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dividends doubled in Di's portfolio",
+        "summary": "Di's dividend portfolio has turned into a cash machine. The ten shares have on average doubled their dividend over ten years, and some have raised it considerably more than that. Now we sell a high-yielder and instead pick up a real stock star."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "3b6816c64ae3",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1CLioCuhcFnhlXjdgUfZgZ/foerskollaerarna-larmar-vi-raecker-inte-till-barngrupperna-svaeller",
+      "guid": "1CLioCuhcFnhlXjdgUfZgZ",
+      "published_at": "2026-11-24T06:09:13+01:00",
+      "fetched_at": "2026-11-24T06:15:48+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "förskola"
+      ],
+      "sv": {
+        "title": "Förskollärarna larmar: Vi räcker inte till – barngrupperna sväller",
+        "summary": "I Sveriges Lärares rapport, titulerad ”Redan i förskolan sviker vi barnen”, svarar nio av tio lärare i förskolan att barn med olika utmaningar och behov blir allt fler. Nästan lika många, åtta av tio, upplever att verksamheten saknar förutsättningar att möta behoven.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Preschool teachers sound the alarm: We can't cope – child groups are swelling",
+        "summary": "In the Swedish Teachers' Union report, titled “Already in preschool we fail the children”, nine in ten preschool teachers say that children with different challenges and needs are becoming ever more numerous. Almost as many, eight in ten, feel the activity lacks the conditions to meet those needs."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "dbc5b86e4887",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347008",
+      "guid": "rss:sr.se/article/9347008",
+      "published_at": "2026-11-24T06:09:00+01:00",
+      "fetched_at": "2026-11-24T06:15:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nordirland har Storbritanniens bästa ekonomi efter Brexit",
+        "summary": "Nordirlands ekonomi har vuxit med nästan 13 procent sedan slutet av 2019, jämfört med drygt 6 procent i Storbritannien som helhet. Det beror inte minst på Nordirlands särskilda ställning efter Brexit.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Northern Ireland has Britain's best economy after Brexit",
+        "summary": "Northern Ireland's economy has grown by almost 13 percent since the end of 2019, compared with just over 6 percent in the UK as a whole. This is largely due to Northern Ireland's special status after Brexit."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "d6895cd0c5da",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/premiarministerns-drag-hanet-mot-trump",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/premiarministerns-drag-hanet-mot-trump",
+      "published_at": "2026-11-24T06:06:32+01:00",
+      "fetched_at": "2026-11-24T06:15:48+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Hånet mot Trump",
+        "summary": "Kanadas vågade drag mitt i handelsbråket: ”Förlåt ...”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The mockery of Trump",
+        "summary": "Canada's daring move in the middle of the trade row: “Sorry ...”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "a6745ec94bbc",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/fem-punkter-efter-ifk-goteborgs-forlust-mot-hammarby.4f4a399f-dbe9-5b0d-90e3-1ebe558e28c3",
+      "guid": "4f4a399f-dbe9-5b0d-90e3-1ebe558e28c3",
+      "published_at": "2026-11-24T06:05:49+01:00",
+      "fetched_at": "2026-11-24T06:15:48+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "IFK Göteborg",
+        "Tagg: IFK Göteborg",
+        "Tagg: Fem punkter"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/b2e014fa-cfb0-3b7e-89f0-b095a92696e3",
+      "sv": {
+        "title": "”Man fattar ju om Blåvitt har fått nog”",
+        "summary": "”Man fattar ju om Blåvitt fått nog”, skriver GP:s Sanna Sundberg efter IFK Göteborgs förlust mot guldjagande Hammarby.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“You can tell if Blåvitt has had enough”",
+        "summary": "“You can tell if Blåvitt has had enough”, writes GP's Sanna Sundberg after IFK Göteborg's loss to title-chasing Hammarby."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "4c861944d256",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/batmobilen-floppade-pa-auktion-forblir-osald",
+      "guid": "326f5a89-0a41-4098-8d15-0f7acd7cd3dd",
+      "published_at": "2026-11-24T06:05:24+01:00",
+      "fetched_at": "2026-11-24T06:15:49+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/c566d17d-9e27-4b5a-9dc3-fc347d552441.jpg?width=600",
+      "sv": {
+        "title": "“Batmobilen” floppade på auktion – förblir osåld",
+        "summary": "Superhjälten Batmans bil – ”batmobilen” – har misslyckats med att slå försäljningsrekord. Budgivningen nådde inte upp till säljarens reservationspris och förblir osåld.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Batmobile” flops at auction – remains unsold",
+        "summary": "Superhero Batman's car – the “batmobile” – has failed to set a sales record. Bidding did not reach the seller's reserve price and it remains unsold."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "c9e7c70c8484",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/7pQXvo/mindfulness-ikon-jon-kabat-zinn-man-kan-leva-hela-sitt-liv-och-missa-det",
+      "guid": "https://www.svd.se/a/7pQXvo/mindfulness-ikon-jon-kabat-zinn-man-kan-leva-hela-sitt-liv-och-missa-det?utm_medium=rss",
+      "published_at": "2026-11-24T06:04:59+01:00",
+      "fetched_at": "2026-11-24T06:15:47+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/f6d5b878-dad7-30c1-9dab-319d93d6b8e1?format=auto&s=318b48bec398ffb6f028a7cdf1e0cf8c8de45ed4&w=1000",
+      "sv": {
+        "title": "”Man kan leva hela sitt liv och missa det”",
+        "summary": "Han har lärt världen mindfulness och skapat en global rörelse. Nu vill Jon Kabat-Zinn påminna oss om…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“You can live your whole life and miss it”",
+        "summary": "He taught the world mindfulness and created a global movement. Now Jon Kabat-Zinn wants to remind us of…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "804f03c46b90",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ivo-olampliga-aktorer-stoppas-fran-att-driva-omsorg",
+      "guid": "06197fc0-7c6b-4b04-bdf9-9d4975c804e4",
+      "published_at": "2026-11-24T06:04:19+01:00",
+      "fetched_at": "2026-11-24T06:15:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f712b209-88e4-4988-95e9-54c55146bcd2.jpg?width=600",
+      "sv": {
+        "title": "Ivo: Olämpliga aktörer stoppas från att driva omsorg",
+        "summary": "Nästan en tredjedel av ansökningarna om nya tillstånd inom omsorgen avslås av Inspektionen för vård och omsorg (Ivo). Skälen är bland annat bristande kunskaper och ekonomisk misskötsamhet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "IVO: Unsuitable operators blocked from running care",
+        "summary": "Almost a third of applications for new permits in care are rejected by the Health and Social Care Inspectorate (IVO). The reasons include, among others, lack of knowledge and financial mismanagement."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "d7240683698f",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/fakta-i-fragan-skulle-elen-bli-billigare-om-sverige-klippte-kablarna-till-europa",
+      "guid": "https://www.dn.se/sverige/fakta-i-fragan-skulle-elen-bli-billigare-om-sverige-klippte-kablarna-till-europa/",
+      "published_at": "2026-11-24T06:03:18+01:00",
+      "fetched_at": "2026-11-24T06:15:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5e7a06e8-2f47-49f7-a6b9-d6403e679b6e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Fakta i frågan: Skulle elen bli billigare om Sverige klippte kablarna till Europa?",
+        "summary": "Sverige har ett stort elöverskott. Trots det tvingas även svenska hushåll och företag betala mer när priserna stiger på kontinenten. Hur kan det komma sig – och skulle vi tjäna på att klippa kablarna? DN:s Kristoffer Örstadius fortsätter att undersöka viktiga samhällsfrågor i Fakta i frågan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Facts in question: Would electricity get cheaper if Sweden cut the cables to Europe?",
+        "summary": "Sweden has a large electricity surplus. Even so, Swedish households and businesses are forced to pay more when prices rise on the continent. How can that be – and would we benefit from cutting the cables? DN's Kristoffer Örstadius continues to investigate important societal issues in Facts in question."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "6015c83868f9",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/R1RaMW/ericsson-sandvik-och-autoliv-kopplas-till-tennskandal-i-indonesien",
+      "guid": "https://www.svd.se/a/R1RaMW/ericsson-sandvik-och-autoliv-kopplas-till-tennskandal-i-indonesien?utm_medium=rss",
+      "published_at": "2026-11-24T06:03:02+01:00",
+      "fetched_at": "2026-11-24T06:15:47+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/b24a9b42-6c15-3534-ad5e-7f5f708255aa?format=auto&s=f5e95061b2c823b2bb48869408838ad363267467&w=1000",
+      "sv": {
+        "title": "Barn arbetar i gruvorna – svenska jättar pekas ut",
+        "summary": "Barnarbete, förstörda fiskevatten och öar som förvandlats till månlandskap.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Children work in the mines – Swedish giants named",
+        "summary": "Child labour, destroyed fishing waters and islands turned into moonscapes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "21cf5987c6a2",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/orgryte-is/mjallby-flyger-900-mil-sen-ska-de-hjalpa-ois.d43cb53d-ea6c-5173-a446-4a1af033ad80",
+      "guid": "d43cb53d-ea6c-5173-a446-4a1af033ad80",
+      "published_at": "2026-11-24T06:01:40+01:00",
+      "fetched_at": "2026-11-24T06:15:48+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Örgryte IS",
+        "Tagg: Öis",
+        "Tagg: Mjällby",
+        "Tagg: Mikael Dyrestam",
+        "Tagg: Ali Youssef",
+        "Tagg: Andreas Holmberg"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/a1ffe5fc-b5f0-30ec-8119-eceb6089e412",
+      "sv": {
+        "title": "Flyger 900 mil – sen ska Mjällby ”hjälpa” Öis",
+        "summary": "Så är läget runt strecket inför sista omgången i allsvenskan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Flies 900 mil – then Mjällby is to “help” Öis",
+        "summary": "This is the situation around the line ahead of the final round of the Allsvenskan."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
     {
       "id": "f7453a8dee9a",
       "schema_version": 1,
@@ -400,6 +791,101 @@
       }
     },
     {
+      "id": "17d49f3c7421",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/ekonomi/ostbutik-oppnar-i-nordstan-nara-vastlankens-uppgang.a3c40911-e6ed-5eeb-b128-dde59cfc2fdb",
+      "guid": "a3c40911-e6ed-5eeb-b128-dde59cfc2fdb",
+      "published_at": "2026-11-24T05:53:57+01:00",
+      "fetched_at": "2026-11-24T06:15:48+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi",
+        "Tagg: Nordstan",
+        "Tagg: Butiker"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/cd9062a5-02dd-3ced-b0f9-f1d94ba2d292",
+      "sv": {
+        "title": "Omtvistad butik öppnar i Nordstan",
+        "summary": "Part i uppmärksammad ostkonflikt i Lund.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Controversial shop opens in Nordstan",
+        "summary": "Party to a high-profile cheese dispute in Lund."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "457aabdf1916",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/svallvagor-fran-usa-bland-borserna-i-asien",
+      "guid": "e3d8e8c0-0339-4b43-b50d-94748ce599ef",
+      "published_at": "2026-11-24T05:53:22+01:00",
+      "fetched_at": "2026-11-24T06:15:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/9875f458-99dc-46b6-9d7c-bcb7f2d41a30.jpg?width=600",
+      "sv": {
+        "title": "Svallvågor från USA bland börserna i Asien",
+        "summary": "De ledande indexen i Asien följer de branta uppgångarna på Wall Street och stiger kraftigt under den inledande tisdagshandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ripples from the US hit Asian markets",
+        "summary": "The leading indexes in Asia are following the steep gains on Wall Street and rising sharply in early Tuesday trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
+      "id": "39c934459ca4",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/vastsverige/har-tjanar-sjukskoterskor-bast-och-samst.019709ae-ca1b-5089-a063-3c5b1e4e3089",
+      "guid": "019709ae-ca1b-5089-a063-3c5b1e4e3089",
+      "published_at": "2026-11-24T05:52:07+01:00",
+      "fetched_at": "2026-11-24T06:15:48+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Västsverige",
+        "Tagg: Vårdcentraler",
+        "Tagg: sjuksköterskor",
+        "Tagg: Lön",
+        "Tagg: Närhälsan",
+        "Tagg: Vårdförbundet",
+        "Tagg: Samhällsredaktionen"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/b77f4671-edd5-3702-91f5-137d1245e00a",
+      "sv": {
+        "title": "Här tjänar sjuksköterskor bäst – och sämst",
+        "summary": "Lista över vårdcentraler • De är anställda av Närhälsan – men lönen skiljer sig med tusentals kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here's where nurses earn the most – and least",
+        "summary": "List of health centres • They are employed by Närhälsan – but pay differs by thousands of SEK."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
+    {
       "id": "7419af76db63",
       "schema_version": 1,
       "source": "aftonbladet",
@@ -423,6 +909,50 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T06:01:24+01:00"
+      }
+    },
+    {
+      "id": "818927b5fb69",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/skracken-i-ostersjon-hot-fran-ryska-skuggflottan.7a0a2da0-9575-5e7c-810f-3fc94f86f93b",
+      "guid": "7a0a2da0-9575-5e7c-810f-3fc94f86f93b",
+      "published_at": "2026-11-24T05:45:56+01:00",
+      "fetched_at": "2026-11-24T06:15:48+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Åland",
+        "Tagg: Finland",
+        "Tagg: Fartyg",
+        "Tagg: Östersjön",
+        "Tagg: Beredskap",
+        "Tagg: Olycka",
+        "Tagg: Sanering",
+        "Tagg: Katastrofer",
+        "Tagg: Färjor",
+        "Tagg: Miljö",
+        "Tagg: Turism",
+        "Tagg: Ryssland",
+        "Tagg: Olyckor",
+        "Tagg: Samhällsredaktionen"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/bf490059-67d3-3e80-9a23-25abb361524a",
+      "sv": {
+        "title": "Skräcken i Östersjön: Hot från ryska skuggflottan",
+        "summary": "Regeringschefen om situationen i Östersjön.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fear in the Baltic Sea: Threat from Russia's shadow fleet",
+        "summary": "The head of government on the situation in the Baltic Sea."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
       }
     },
     {

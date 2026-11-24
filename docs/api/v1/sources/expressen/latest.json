@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T06:02:32+01:00",
+  "generated_at": "2026-11-24T06:16:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d6895cd0c5da",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/premiarministerns-drag-hanet-mot-trump",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/premiarministerns-drag-hanet-mot-trump",
+      "published_at": "2026-11-24T06:06:32+01:00",
+      "fetched_at": "2026-11-24T06:15:48+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Hånet mot Trump",
+        "summary": "Kanadas vågade drag mitt i handelsbråket: ”Förlåt ...”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The mockery of Trump",
+        "summary": "Canada's daring move in the middle of the trade row: “Sorry ...”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:16:05+01:00"
+      }
+    },
     {
       "id": "fbc00bf833e7",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T15:45:52+01:00"
-      }
-    },
-    {
-      "id": "f61175e4ab11",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/sverige/kan-man-vara-otrogen-med-en-spelkaraktar",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/kan-man-vara-otrogen-med-en-spelkaraktar",
-      "published_at": "2026-11-20T15:26:31+01:00",
-      "fetched_at": "2026-11-20T15:31:04+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Kan man vara otrogen med en spelkaraktär?",
-        "summary": "Efter GTA 6-släppet – experten svarar",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Can you be unfaithful with a game character?",
-        "summary": "After the GTA 6 release – the expert answers"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T15:31:09+01:00"
       }
     }
   ]
