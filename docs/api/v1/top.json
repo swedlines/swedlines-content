@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:31:05+01:00",
+  "generated_at": "2026-11-24T12:46:01+01:00",
   "count": 30,
   "stories": [
     {
@@ -153,16 +153,17 @@
     },
     {
       "id": "f15341d7f968",
-      "source_count": 5,
+      "source_count": 6,
       "sources": [
         "aftonbladet",
         "dn",
         "gp",
         "tv4",
-        "sr"
+        "sr",
+        "di"
       ],
       "first_published_at": "2026-11-23T23:05:54+01:00",
-      "last_published_at": "2026-11-24T11:56:00+01:00",
+      "last_published_at": "2026-11-24T12:40:32+01:00",
       "lead": {
         "id": "f15341d7f968",
         "schema_version": 1,
@@ -191,6 +192,18 @@
         }
       },
       "items": [
+        {
+          "id": "abf9f4fcd596",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/dadgostar-c-kan-ha-planerat-hogersvangen",
+          "published_at": "2026-11-24T12:40:32+01:00",
+          "sv": {
+            "title": "Dadgostar: C kan ha planerat högersvängen"
+          },
+          "en": {
+            "title": "Dadgostar: C may have planned the right-wing turn"
+          }
+        },
         {
           "id": "034aa8721e64",
           "source": "sr",
@@ -602,119 +615,6 @@
           },
           "en": {
             "title": "Demoskop: Government chaos benefits the Moderates – surging ahead"
-          }
-        }
-      ]
-    },
-    {
-      "id": "ea15ee9d0fc4",
-      "source_count": 5,
-      "sources": [
-        "expressen",
-        "sr",
-        "gp",
-        "dn",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-23T11:10:25+01:00",
-      "last_published_at": "2026-11-24T00:38:22+01:00",
-      "lead": {
-        "id": "ea15ee9d0fc4",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
-        "guid": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
-        "published_at": "2026-11-23T11:10:25+01:00",
-        "fetched_at": "2026-11-23T11:15:46+01:00",
-        "category": "other",
-        "sv": {
-          "title": "JUST NU: Startbud, slutbud, skambud?",
-          "summary": "Expressens ”Politikrummet” live om regeringskaoset",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "JUST NOW: Starting bid, final bid, shame bid?",
-          "summary": "Expressen's live “Politikrummet” on the government chaos"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T11:15:59+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "793a1bb367c6",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/1vn4WX/sa-blev-totalpaketet-ett-startpaket-som-blev-slutbud",
-          "published_at": "2026-11-24T00:38:22+01:00",
-          "sv": {
-            "title": "Så blev totalpaketet ett startpaket som blev slutbud"
-          },
-          "en": {
-            "title": "How the total package became a starter package that became the final offer"
-          }
-        },
-        {
-          "id": "75c1e3938cfa",
-          "source": "dn",
-          "url": "https://www.dn.se/podd/alskade-politik/pangbud-eller-skambud-har-ar-dadgostars-dilemma",
-          "published_at": "2026-11-23T16:24:21+01:00",
-          "sv": {
-            "title": "Pangbud eller skambud – här är Dadgostars dilemma"
-          },
-          "en": {
-            "title": "Pang offer or insult offer – here is Dadgostar's dilemma"
-          }
-        },
-        {
-          "id": "91156070176b",
-          "source": "gp",
-          "url": "https://www.gp.se/politik/trots-v-nej-till-startpaket-s-har-inte-gett-upp.b87029d1-2c3e-507e-904f-1997ff8817a6",
-          "published_at": "2026-11-23T16:21:18+01:00",
-          "sv": {
-            "title": "Trots V nej till startpaket – S har inte gett upp"
-          },
-          "en": {
-            "title": "Despite V no to starter package – S has not given up"
-          }
-        },
-        {
-          "id": "41749b70d161",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348271",
-          "published_at": "2026-11-23T13:18:00+01:00",
-          "sv": {
-            "title": "Vänsterpartister sluter upp bakom ledningens nej till startpaketet"
-          },
-          "en": {
-            "title": "Left Party members back leadership's no to starter package"
-          }
-        },
-        {
-          "id": "0b80efc311f8",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/har-ar-startpaketet-till-v-fran-s-c-och-mp",
-          "published_at": "2026-11-23T11:48:28+01:00",
-          "sv": {
-            "title": "Här är ”startpaketet” till V – från S, C och MP"
-          },
-          "en": {
-            "title": "Here is the \"starter package\" for the Left Party – from the Social Democrats, the Centre Party and the Green Party"
-          }
-        },
-        {
-          "id": "ea15ee9d0fc4",
-          "source": "expressen",
-          "url": "https://www.expressen.se/tv/politik/just-nu-politikrummet-live-om-senaste-utvecklingen",
-          "published_at": "2026-11-23T11:10:25+01:00",
-          "sv": {
-            "title": "JUST NU: Startbud, slutbud, skambud?"
-          },
-          "en": {
-            "title": "JUST NOW: Starting bid, final bid, shame bid?"
           }
         }
       ]
@@ -2542,6 +2442,69 @@
           },
           "en": {
             "title": "Global AI rally – but down on the Stockholm Stock Exchange"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6aba51595ce2",
+      "source_count": 2,
+      "sources": [
+        "dn",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-24T05:12:15+01:00",
+      "last_published_at": "2026-11-24T09:00:58+01:00",
+      "lead": {
+        "id": "6aba51595ce2",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/ledare/vi-kan-inte-bara-skylla-ifran-oss-nar-klimatmotet-misslyckas",
+        "guid": "https://www.dn.se/ledare/vi-kan-inte-bara-skylla-ifran-oss-nar-klimatmotet-misslyckas/",
+        "published_at": "2026-11-24T05:12:15+01:00",
+        "fetched_at": "2026-11-24T05:15:43+01:00",
+        "category": "world",
+        "image_url": "https://static.bonniernews.se/ba/0f8ed6d5-83f8-46a2-aab6-895c9a3cabac.jpeg?io=1&width=1000",
+        "sv": {
+          "title": "Ledare: Vi kan inte bara skylla ifrån oss när klimatmötet misslyckas",
+          "summary": "USA vill inte vara med och oljeländer blockerar seriös politik. Men inte ens länderna som är bäst i klassen när det gäller omställningen imponerar.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Editorial: We cannot just blame others when the climate summit fails",
+          "summary": "The US does not want to take part and oil countries block serious policy. But not even the countries that are best in class when it comes to the transition impress."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T05:16:01+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "7dd85d0f5220",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/klimatmotet-blev-ett-fiasko-det-hander-nu",
+          "published_at": "2026-11-24T09:00:58+01:00",
+          "sv": {
+            "title": "Klimatmötet blev ett fiasko – det händer nu"
+          },
+          "en": {
+            "title": "The climate summit was a fiasco – here is what happens now"
+          }
+        },
+        {
+          "id": "6aba51595ce2",
+          "source": "dn",
+          "url": "https://www.dn.se/ledare/vi-kan-inte-bara-skylla-ifran-oss-nar-klimatmotet-misslyckas",
+          "published_at": "2026-11-24T05:12:15+01:00",
+          "sv": {
+            "title": "Ledare: Vi kan inte bara skylla ifrån oss när klimatmötet misslyckas"
+          },
+          "en": {
+            "title": "Editorial: We cannot just blame others when the climate summit fails"
           }
         }
       ]

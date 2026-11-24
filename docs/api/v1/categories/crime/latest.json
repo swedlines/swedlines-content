@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T12:31:05+01:00",
+  "generated_at": "2026-11-24T12:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "13fee977bf8f",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/VxbnlJ/larm-om-grovt-brott-pa-aldreboende-en-gripen",
+      "guid": "https://www.aftonbladet.se/nyheter/a/VxbnlJ/larm-om-grovt-brott-pa-aldreboende-en-gripen?utm_medium=rss",
+      "published_at": "2026-11-24T12:37:55+01:00",
+      "fetched_at": "2026-11-24T12:45:48+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/a328fd19-99c0-3a6d-966a-8b6c1b1fac28?format=auto&s=8eeb69089a76da5f890a09f9bb8b498e254c3e44&w=1000",
+      "sv": {
+        "title": "Larm om grovt brott på äldreboende – en gripen",
+        "summary": "En person har gripits efter en polisinsats på ett äldreboende på Lidingö, rapporterar P4 Stockholm.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm over serious crime at care home – one arrested",
+        "summary": "One person has been arrested following a police operation at a care home in Lidingö, reports P4 Stockholm."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T12:45:56+01:00"
+      }
+    },
     {
       "id": "3d3ed0129ac0",
       "schema_version": 1,
@@ -5403,33 +5430,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:31:09+01:00"
-      }
-    },
-    {
-      "id": "fe8749fdf3c4",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/clavicular-atalas-for-valdtakt",
-      "guid": "13a99344-f7cf-4455-ba11-15bee0428075",
-      "published_at": "2026-11-19T16:06:15+01:00",
-      "fetched_at": "2026-11-19T16:15:49+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/3e691f8a-deac-4ad4-abb2-76902e6d5c63.jpg?width=600",
-      "sv": {
-        "title": "Clavicular åtalas för våldtäkt",
-        "summary": "Influeraren Clavicular åtalas för två fall av våldtäkt, rapporterar TMZ.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Clavicular charged with rape",
-        "summary": "Influencer Clavicular is charged with two counts of rape, TMZ reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:16:01+01:00"
       }
     }
   ]

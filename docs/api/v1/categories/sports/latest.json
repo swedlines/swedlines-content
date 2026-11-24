@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-24T12:31:05+01:00",
+  "generated_at": "2026-11-24T12:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "80fffd176ee4",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotbollsspelaren-ken-fagerberg-ar-dod-den-tidigare-ois-spelaren-blev-37-ar-gammal.4cefdcb5-d7dd-53ef-a359-549171cb52c6",
+      "guid": "4cefdcb5-d7dd-53ef-a359-549171cb52c6",
+      "published_at": "2026-11-24T12:18:21+01:00",
+      "fetched_at": "2026-11-24T12:45:49+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Sport",
+        "Tagg: breaking-GP",
+        "Tagg: Öis",
+        "Tagg: Ken Fagerberg",
+        "Tagg: Örgryte",
+        "Tagg: Örgryte IS",
+        "Tagg: Fotboll"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/3a55cfec-2e10-3f6c-a924-8be37747e4eb",
+      "sv": {
+        "title": "Ken Fagerberg är död – tidigare Öis-spelaren blev 37 år",
+        "summary": "Kom fram som supertalang i Örgryte 2007 • Pappan: ”Han hade ett hjärta av guld”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ken Fagerberg is dead – former Öis player was 37",
+        "summary": "Emerged as a superstar talent at Örgryte in 2007 • Father: \"He had a heart of gold.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T12:45:56+01:00"
+      }
+    },
     {
       "id": "c219e7dd75dd",
       "schema_version": 1,
@@ -5606,35 +5642,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T18:45:55+01:00"
-      }
-    },
-    {
-      "id": "631718780051",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4H15TtUY7rgERqJGWL9TK/migrationsministern-vill-inte-se-ryska-idrottare-pa-startlinjen",
-      "guid": "4H15TtUY7rgERqJGWL9TK",
-      "published_at": "2026-11-18T18:18:39+01:00",
-      "fetched_at": "2026-11-18T19:01:11+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Efter fem"
-      ],
-      "sv": {
-        "title": "Forssell om rysstoppet: ”Jag vill inte se dem på startlinjen”",
-        "summary": "Frågan om ryska idrottares deltagande i internationella tävlingar har diskuterats sedan invasionen av Ukraina 2022. På senare tid har ryska idrottare stegvis börjat återvända till tävlingsarenorna, något som väckt starka reaktioner.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Forssell on the Russia ban: \"I don't want to see them on the starting line\"",
-        "summary": "The question of Russian athletes' participation in international competitions has been debated since the invasion of Ukraine in 2022. Recently, Russian athletes have gradually begun returning to competition venues, something that has provoked strong reactions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:01:17+01:00"
       }
     }
   ]
