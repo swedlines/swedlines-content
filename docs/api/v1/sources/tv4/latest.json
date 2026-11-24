@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-24T08:45:55+01:00",
+  "generated_at": "2026-11-24T09:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6584706d4e8a",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4Uw8w3fyzOw18pjx7iHW0O/keema-aloo-koettfaersgryta-med-potatis",
+      "guid": "4Uw8w3fyzOw18pjx7iHW0O",
+      "published_at": "2026-11-24T08:59:42+01:00",
+      "fetched_at": "2026-11-24T09:01:09+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Mat"
+      ],
+      "sv": {
+        "title": "Keema aloo – köttfärsgryta med potatis",
+        "summary": "Dagens middagstips bjuder på en klassisk vardagsrätt från Pakistan och norra Indien. Keema betyder köttfärs och aloo är potatis. Potatisen får koka direkt i den kryddiga färssåsen, suger åt sig smak och gör grytan både matig och prisvärd. Se Zeina Mourtadas recept",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Keema aloo – minced meat stew with potatoes",
+        "summary": "Today's dinner tip is a classic everyday dish from Pakistan and northern India. Keema means minced meat and aloo is potato. The potatoes are cooked directly in the spiced mince sauce, absorb the flavour and make the stew both hearty and affordable. See Zeina Mourtada's recipe"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T09:01:17+01:00"
+      }
+    },
     {
       "id": "fc630b9fe5da",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T13:15:58+01:00"
-      }
-    },
-    {
-      "id": "a24ffa9104a7",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4OOl9te0qWiKjrnPZG6XY0/putins-nya-mal-uppges-vara-maten-experten-inte-oevertygad",
-      "guid": "4OOl9te0qWiKjrnPZG6XY0",
-      "published_at": "2026-11-16T11:51:40+01:00",
-      "fetched_at": "2026-11-16T12:01:15+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Putins nya mål uppges vara maten – experten: ”Inte övertygad”",
-        "summary": "Ryssland förbereder attacker mot livsmedelsindustrins anläggningar över hela Ukraina, inklusive ukrainska och utländska företag, rapporterar Kyiv Post med hänvisning till en källa inom Ukrainas militära underrättelsetjänst (HUR).",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Putin's new target reportedly food – expert: \"Not convinced\"",
-        "summary": "Russia is preparing attacks on food industry facilities across Ukraine, including Ukrainian and foreign companies, Kyiv Post reports, citing a source in Ukraine's military intelligence service (HUR)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:01:23+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T08:45:55+01:00",
+  "generated_at": "2026-11-24T09:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "658ffe5faecf",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/M5Rr2o/utpekade-764-ledaren-chai-forhandling-i-hovratten",
+      "guid": "https://www.aftonbladet.se/nyheter/a/M5Rr2o/utpekade-764-ledaren-chai-forhandling-i-hovratten?utm_medium=rss",
+      "published_at": "2026-11-24T08:49:49+01:00",
+      "fetched_at": "2026-11-24T09:01:09+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/12bb2e63-ceab-3bfb-b042-6b6947bba54d?format=auto&s=1cdfa26d47df92f7d91dc14cc603737ec0592dd4&w=1000",
+      "sv": {
+        "title": "Utpekade sektledaren fördes ut ur rätten: ”Mäktar inte att vara med”",
+        "summary": "Pekas ut som ledare för sadistiskt nätverk",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alleged cult leader removed from court: \"I can't take it\"",
+        "summary": "Named as leader of a sadistic network"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T09:01:17+01:00"
+      }
+    },
     {
       "id": "dc3f7099e626",
       "schema_version": 1,
@@ -5404,33 +5431,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T13:16:05+01:00"
-      }
-    },
-    {
-      "id": "2f3d990e81d7",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/har-soker-polisen-efter-misstankt-pistolman-i-hyllie",
-      "guid": "c2aa1cf9-efcf-45e0-81a1-b2691b5d935d",
-      "published_at": "2026-11-19T13:00:42+01:00",
-      "fetched_at": "2026-11-19T13:01:14+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/8a7407de-660e-496c-a07b-b03177a0ea2e.jpeg?width=600",
-      "sv": {
-        "title": "Här söker polisen efter misstänkt pistolman i Hyllie",
-        "summary": "Polisen larmades till Emporia på torsdagen efter larm om att en person setts med en pistol i byxlinningen. Polisen genomsökte tåg, restauranger och butiker – utan att någon hittades.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police search for suspected gunman in Hyllie",
-        "summary": "Police were alerted to Emporia on Thursday after reports that a person had been seen with a pistol in their waistband. Police searched trains, restaurants and shops – without finding anyone."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T13:01:19+01:00"
       }
     }
   ]
