@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T21:45:56+01:00",
+  "generated_at": "2026-11-24T22:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "18a1047b370d",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/dygnet-runt/eva-rydberg-och-cantin-prisade-pa-skansk-gala",
+      "guid": "7a2f1a82-0745-4849-b809-1810cff02094",
+      "published_at": "2026-11-24T22:00:00+01:00",
+      "fetched_at": "2026-11-24T22:01:15+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/6c9880cb-8905-4bbe-a316-5d7898e12b1a.jpeg?width=600",
+      "sv": {
+        "title": "Eva Rydberg och Cantin prisade på skånsk gala",
+        "summary": "Den 83-åriga komikerlegendaren Eva Rydberg är årets bästa skåning. Det står klart efter att Magasinet Skåne på tisdagskvällen delade ut sina årliga priser. Bland de tolv andra vinnarna fanns streetfoodmarknaden Cantin och restaurangen Saltarv.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Eva Rydberg and Cantin honoured at Skåne gala",
+        "summary": "The 83-year-old comedy legend Eva Rydberg is the best Skåne resident of the year. That is clear after Magasinet Skåne handed out its annual awards on Tuesday evening. Among the twelve other winners were the street food market Cantin and the restaurant Saltarv."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T22:01:19+01:00"
+      }
+    },
     {
       "id": "3f61a9ee6e02",
       "schema_version": 1,
@@ -5698,43 +5725,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T06:45:50+01:00"
-      }
-    },
-    {
-      "id": "7b7ed9c552c4",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/kulturkronika/har-din-kille-kopt-nya-gta-grattis.d7516b03-12bb-5241-bfc5-347b47ba7bfc",
-      "guid": "d7516b03-12bb-5241-bfc5-347b47ba7bfc",
-      "published_at": "2026-11-21T06:23:04+01:00",
-      "fetched_at": "2026-11-21T06:31:03+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Kulturkrönika",
-        "Tagg: GTA 6",
-        "Tagg: Spel",
-        "Tagg: Call of duty",
-        "Tagg: Counter-Strike",
-        "Tagg: Fortnite",
-        "Tagg: Datorspel",
-        "Tagg: Tv-spel"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/e1a893ad-a5ef-303e-9b0e-b6f500655529",
-      "sv": {
-        "title": "Har din kille köpt nya GTA? Grattis!",
-        "summary": "Hänger din kille på strippklubbarna i Vice City? Oroa dig inte. Mycket tyder på att han är ett kap",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Has your boyfriend bought the new GTA? Congratulations!",
-        "summary": "Is your boyfriend hanging out at the strip clubs in Vice City? Don't worry. A lot suggests that he is a catch"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T06:31:08+01:00"
       }
     }
   ]
