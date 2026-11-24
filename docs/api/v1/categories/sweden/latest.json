@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T18:15:59+01:00",
+  "generated_at": "2026-11-24T18:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "358975db97b9",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdPzJ4/jody-drunknade-trodde-algtacket-var-mark",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdPzJ4/jody-drunknade-trodde-algtacket-var-mark?utm_medium=rss",
+      "published_at": "2026-11-24T18:18:07+01:00",
+      "fetched_at": "2026-11-24T18:31:01+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/ada5e065-6ab1-3f1e-9c32-7c40623ce793?format=auto&s=1d72537828ee95de3721a8989bd1e78ac760d290&w=1000",
+      "sv": {
+        "title": "Jody, 38, dog av synvilla",
+        "summary": "Nu kräver dödsfallsutredaren åtgärder",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jody, 38, died of a visual impairment",
+        "summary": "The death investigator now demands action"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T18:31:07+01:00"
+      }
+    },
     {
       "id": "73a6626dbc74",
       "schema_version": 1,
@@ -5414,32 +5441,6 @@
       "en": {
         "title": "Electricity company receives largest sanction fee so far for security protection shortcomings",
         "summary": "Several operations important to Sweden's security have had shortcomings in their security protection against, for example, espionage and sabotage, judged serious enough that they have had to pay millions in so-called sanction fees, according to an Ekot investigation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:01:34+01:00"
-      }
-    },
-    {
-      "id": "cda7b4e063e7",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345954",
-      "guid": "rss:sr.se/article/9345954",
-      "published_at": "2026-11-20T06:00:00+01:00",
-      "fetched_at": "2026-11-20T06:01:13+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Flera beslut om sanktionsavgift har överklagats",
-        "summary": "Flera verksamheter som har fått så kallad sanktionsavgift för brister i säkerhetsskyddsarbetet mot sabotage, spionage och terrorism - har överklagat besluten, det framgår i Ekots granskning. Ett exempel är Göteborgs universitet som tyckte att summan på åtta miljoner var för hög.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Several sanction fee decisions have been appealed",
-        "summary": "Several operations that have received so-called sanction fees for shortcomings in security protection work against sabotage, espionage and terrorism have appealed the decisions, according to an Ekot investigation. One example is the University of Gothenburg, which considered the sum of eight million to be too high."
       },
       "translation": {
         "status": "done",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:15:59+01:00",
+  "generated_at": "2026-11-24T18:31:10+01:00",
   "count": 30,
   "stories": [
     {
@@ -1131,6 +1131,94 @@
       ]
     },
     {
+      "id": "5457ea728a3e",
+      "source_count": 4,
+      "sources": [
+        "svt",
+        "sydsvenskan",
+        "svd",
+        "dn"
+      ],
+      "first_published_at": "2026-11-24T17:53:05+01:00",
+      "last_published_at": "2026-11-24T18:20:48+01:00",
+      "lead": {
+        "id": "5457ea728a3e",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/sport/friidrott/evy-palm-ar-dod-loparen-blev-84-ar",
+        "guid": "https://www.svt.se/sport/friidrott/evy-palm-ar-dod-loparen-blev-84-ar",
+        "published_at": "2026-11-24T17:53:05+01:00",
+        "fetched_at": "2026-11-24T18:01:13+01:00",
+        "category": "sports",
+        "sv": {
+          "title": "Evy Palm är död – löparen blev 84 år",
+          "summary": "Evy Palm är död. Den svenska maratonlöparen blev 84 år.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Evy Palm is dead – the runner was 84 years old",
+          "summary": "Evy Palm is dead. The Swedish marathon runner was 84 years old."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T18:01:28+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "c1a70cb4b386",
+          "source": "dn",
+          "url": "https://www.dn.se/sport/loparstjarnan-evy-palm-ar-dod",
+          "published_at": "2026-11-24T18:20:48+01:00",
+          "sv": {
+            "title": "Löparstjärnan Evy Palm är död"
+          },
+          "en": {
+            "title": "Running star Evy Palm is dead"
+          }
+        },
+        {
+          "id": "1eaf396623e3",
+          "source": "svd",
+          "url": "https://www.svd.se/a/ez8pl4/loparstjarnan-evy-palm-ar-dod",
+          "published_at": "2026-11-24T18:11:30+01:00",
+          "sv": {
+            "title": "Löparstjärnan Evy Palm är död"
+          },
+          "en": {
+            "title": "Running star Evy Palm has died"
+          }
+        },
+        {
+          "id": "66722a827333",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/loparstjarnan-evy-palm-ar-dod",
+          "published_at": "2026-11-24T18:00:23+01:00",
+          "sv": {
+            "title": "Löparstjärnan Evy Palm är död"
+          },
+          "en": {
+            "title": "Running star Evy Palm has died"
+          }
+        },
+        {
+          "id": "5457ea728a3e",
+          "source": "svt",
+          "url": "https://www.svt.se/sport/friidrott/evy-palm-ar-dod-loparen-blev-84-ar",
+          "published_at": "2026-11-24T17:53:05+01:00",
+          "sv": {
+            "title": "Evy Palm är död – löparen blev 84 år"
+          },
+          "en": {
+            "title": "Evy Palm is dead – the runner was 84 years old"
+          }
+        }
+      ]
+    },
+    {
       "id": "984605979a46",
       "source_count": 4,
       "sources": [
@@ -1428,81 +1516,6 @@
           },
           "en": {
             "title": "Wall Street surges after Huang's return to Nvidia"
-          }
-        }
-      ]
-    },
-    {
-      "id": "5457ea728a3e",
-      "source_count": 3,
-      "sources": [
-        "svt",
-        "sydsvenskan",
-        "svd"
-      ],
-      "first_published_at": "2026-11-24T17:53:05+01:00",
-      "last_published_at": "2026-11-24T18:11:30+01:00",
-      "lead": {
-        "id": "5457ea728a3e",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/sport/friidrott/evy-palm-ar-dod-loparen-blev-84-ar",
-        "guid": "https://www.svt.se/sport/friidrott/evy-palm-ar-dod-loparen-blev-84-ar",
-        "published_at": "2026-11-24T17:53:05+01:00",
-        "fetched_at": "2026-11-24T18:01:13+01:00",
-        "category": "sports",
-        "sv": {
-          "title": "Evy Palm är död – löparen blev 84 år",
-          "summary": "Evy Palm är död. Den svenska maratonlöparen blev 84 år.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Evy Palm is dead – the runner was 84 years old",
-          "summary": "Evy Palm is dead. The Swedish marathon runner was 84 years old."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T18:01:28+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "1eaf396623e3",
-          "source": "svd",
-          "url": "https://www.svd.se/a/ez8pl4/loparstjarnan-evy-palm-ar-dod",
-          "published_at": "2026-11-24T18:11:30+01:00",
-          "sv": {
-            "title": "Löparstjärnan Evy Palm är död"
-          },
-          "en": {
-            "title": "Running star Evy Palm has died"
-          }
-        },
-        {
-          "id": "66722a827333",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sport/loparstjarnan-evy-palm-ar-dod",
-          "published_at": "2026-11-24T18:00:23+01:00",
-          "sv": {
-            "title": "Löparstjärnan Evy Palm är död"
-          },
-          "en": {
-            "title": "Running star Evy Palm has died"
-          }
-        },
-        {
-          "id": "5457ea728a3e",
-          "source": "svt",
-          "url": "https://www.svt.se/sport/friidrott/evy-palm-ar-dod-loparen-blev-84-ar",
-          "published_at": "2026-11-24T17:53:05+01:00",
-          "sv": {
-            "title": "Evy Palm är död – löparen blev 84 år"
-          },
-          "en": {
-            "title": "Evy Palm is dead – the runner was 84 years old"
           }
         }
       ]
@@ -2479,157 +2492,6 @@
       ]
     },
     {
-      "id": "7719072a3882",
-      "source_count": 3,
-      "sources": [
-        "expressen",
-        "sr",
-        "di"
-      ],
-      "first_published_at": "2026-11-23T21:22:45+01:00",
-      "last_published_at": "2026-11-24T06:30:55+01:00",
-      "lead": {
-        "id": "7719072a3882",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/varlden/rasar-mot-trumps-inblandning-i-huangs-comeback",
-        "guid": "https://www.expressen.se/nyheter/varlden/rasar-mot-trumps-inblandning-i-huangs-comeback/",
-        "published_at": "2026-11-23T21:22:45+01:00",
-        "fetched_at": "2026-11-23T21:31:02+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Rasar mot Trumps inblandning i Huangs comeback",
-          "summary": "Donald Trump tryckte personligen på för att Jensen Huang skulle återvända som vd för Nvidia. Nu möter beslutet hård kritik från både republikaner och demokrater i kongressen. ”Ingen risk för nationell säkerhet? Baserat på vad?”, frågar den republikanske senatorn John Cornyn.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Outrage over Trump's involvement in Huang's comeback",
-          "summary": "Donald Trump personally pushed for Jensen Huang to return as CEO of Nvidia. The decision now meets harsh criticism from both Republicans and Democrats in Congress. \"No risk to national security? Based on what?\" asks Republican senator John Cornyn."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-23T21:31:09+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "708ce2ec8fe5",
-          "source": "di",
-          "url": "https://www.di.se/live/usa-hanas-i-kina-efter-huang-farsen",
-          "published_at": "2026-11-24T06:30:55+01:00",
-          "sv": {
-            "title": "USA hånas i Kina efter ”Huang-farsen”"
-          },
-          "en": {
-            "title": "USA mocked in China after \"Huang farce\""
-          }
-        },
-        {
-          "id": "059a1e6837f9",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9348677",
-          "published_at": "2026-11-23T21:54:00+01:00",
-          "sv": {
-            "title": "Uppgifter: Trump gav garantier om Huang till Nvidiastyrelse"
-          },
-          "en": {
-            "title": "Reports: Trump gave guarantees about Huang to Nvidia board"
-          }
-        },
-        {
-          "id": "7719072a3882",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/rasar-mot-trumps-inblandning-i-huangs-comeback",
-          "published_at": "2026-11-23T21:22:45+01:00",
-          "sv": {
-            "title": "Rasar mot Trumps inblandning i Huangs comeback"
-          },
-          "en": {
-            "title": "Outrage over Trump's involvement in Huang's comeback"
-          }
-        }
-      ]
-    },
-    {
-      "id": "c305ac520b5b",
-      "source_count": 3,
-      "sources": [
-        "aftonbladet",
-        "di",
-        "svd"
-      ],
-      "first_published_at": "2026-11-24T03:33:53+01:00",
-      "last_published_at": "2026-11-24T06:29:45+01:00",
-      "lead": {
-        "id": "c305ac520b5b",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/OypO1k/smittrisk-vid-tandvardsbesok-erbjuds-hivtest",
-        "guid": "https://www.aftonbladet.se/nyheter/a/OypO1k/smittrisk-vid-tandvardsbesok-erbjuds-hivtest?utm_medium=rss",
-        "published_at": "2026-11-24T03:33:53+01:00",
-        "fetched_at": "2026-11-24T03:45:47+01:00",
-        "category": "sweden",
-        "image_url": "https://akamai.vgc.no/v2/images/b2fa1ca6-bf50-31d1-aa21-5b1b1f6c411a?format=auto&s=cad0516e1842fc454be7e002a4d5b2f940c26f15&w=1000",
-        "sv": {
-          "title": "Smittrisk vid tandvårdsbesök – erbjuds hivtest",
-          "summary": "Region Kronoberg kan inte utesluta att otillräckligt rengjorda instrument lett till smitta av hiv…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Infection risk at dental visits – offered HIV test",
-          "summary": "Region Kronoberg cannot rule out that insufficiently cleaned instruments led to HIV transmission…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T03:45:52+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "3096827818a0",
-          "source": "svd",
-          "url": "https://www.svd.se/a/8Pm0LG/smittrisk-vid-tandvardsbesok-erbjuds-hivtest",
-          "published_at": "2026-11-24T06:29:45+01:00",
-          "sv": {
-            "title": "Smittrisk vid tandvårdsbesök – erbjuds hivtest"
-          },
-          "en": {
-            "title": "Risk of infection at dental visit – offered HIV test"
-          }
-        },
-        {
-          "id": "90f237d183b1",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/smittrisk-vid-tandvardsbesok-erbjuds-hivtest",
-          "published_at": "2026-11-24T05:33:25+01:00",
-          "sv": {
-            "title": "Smittrisk vid tandvårdsbesök – erbjuds hivtest"
-          },
-          "en": {
-            "title": "Infection risk at dental visits – HIV tests offered"
-          }
-        },
-        {
-          "id": "c305ac520b5b",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/OypO1k/smittrisk-vid-tandvardsbesok-erbjuds-hivtest",
-          "published_at": "2026-11-24T03:33:53+01:00",
-          "sv": {
-            "title": "Smittrisk vid tandvårdsbesök – erbjuds hivtest"
-          },
-          "en": {
-            "title": "Infection risk at dental visits – offered HIV test"
-          }
-        }
-      ]
-    },
-    {
       "id": "f7a948b34e4f",
       "source_count": 2,
       "sources": [
@@ -2905,6 +2767,156 @@
           },
           "en": {
             "title": "Supreme Court: \"E-scooter companies must have police permits\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "3d3ed0129ac0",
+      "source_count": 2,
+      "sources": [
+        "sydsvenskan",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-24T12:00:00+01:00",
+      "last_published_at": "2026-11-24T15:09:15+01:00",
+      "lead": {
+        "id": "3d3ed0129ac0",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/malmo/fem-ars-fangelse-for-18-aring-kastade-handgranat-med-diskhandskar-pa",
+        "guid": "1a3de48b-13c7-46bc-8532-73df0c764766",
+        "published_at": "2026-11-24T12:00:00+01:00",
+        "fetched_at": "2026-11-24T12:01:18+01:00",
+        "category": "crime",
+        "image_url": "https://static.bonniernews.se/ba/b345f17f-9bf9-4147-8f8d-7d9632bee6f1.png?width=600",
+        "sv": {
+          "title": "Fem års fängelse för 18-åring – kastade handgranat med diskhandskar på",
+          "summary": "En förbipasserande bil fick rutorna krossade av tryckvågen när en handgranat exploderade på Sofielund en kväll i våras. Ett par slängda gula diskhandskar i en buske binder en 18-åring till dådet. Nu döms han till fem års fängelse.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Five years in prison for 18-year-old who threw hand grenade with dishwashing gloves",
+          "summary": "A passing car had its windows smashed by the blast wave when a hand grenade exploded in Sofielund one evening this spring. A pair of discarded yellow dishwashing gloves in a bush links an 18-year-old to the attack. He has now been sentenced to five years in prison."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T12:01:21+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "251000b0c435",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/2vGawx/kastade-handgranat-i-malmo-fem-ars-fangelse",
+          "published_at": "2026-11-24T15:09:15+01:00",
+          "sv": {
+            "title": "Kastade handgranat i Malmö – fem års fängelse"
+          },
+          "en": {
+            "title": "Threw hand grenade in Malmö – five years in prison"
+          }
+        },
+        {
+          "id": "3d3ed0129ac0",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/malmo/fem-ars-fangelse-for-18-aring-kastade-handgranat-med-diskhandskar-pa",
+          "published_at": "2026-11-24T12:00:00+01:00",
+          "sv": {
+            "title": "Fem års fängelse för 18-åring – kastade handgranat med diskhandskar på"
+          },
+          "en": {
+            "title": "Five years in prison for 18-year-old who threw hand grenade with dishwashing gloves"
+          }
+        }
+      ]
+    },
+    {
+      "id": "465f820d762b",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-24T10:07:25+01:00",
+      "last_published_at": "2026-11-24T14:54:00+01:00",
+      "lead": {
+        "id": "465f820d762b",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/ARd1Q5/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig",
+        "guid": "https://www.aftonbladet.se/nyheter/a/ARd1Q5/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig?utm_medium=rss",
+        "published_at": "2026-11-24T10:07:25+01:00",
+        "fetched_at": "2026-11-24T10:15:46+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/2216072f-d74c-350f-baae-12b681590d78?format=auto&s=2a97a56b1cb9d597671d2678a9c65f788cdd2145&w=1000",
+        "sv": {
+          "title": "Rapport: Fem kvinnor i timmen dödas av en anhörig",
+          "summary": "2025 dödades 47 000 kvinnor av sin partner eller en nära anhörig, enligt FN-siffror.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Report: Five women an hour killed by a relative",
+          "summary": "In 2025, 47,000 women were killed by their partner or a close relative, according to UN figures."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T10:16:00+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "ce46b8255177",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/ez8p0M/600-kvinnor-i-sydafrika-mordade-pa-tre-manader",
+          "published_at": "2026-11-24T14:54:00+01:00",
+          "sv": {
+            "title": "600 kvinnor i Sydafrika mördade på tre månader"
+          },
+          "en": {
+            "title": "600 women murdered in South Africa in three months"
+          }
+        },
+        {
+          "id": "8c9e90e20231",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/BrRBe0/nastan-600-kvinnor-mordade-pa-tre-manader",
+          "published_at": "2026-11-24T14:35:16+01:00",
+          "sv": {
+            "title": "Nästan 600 kvinnor mördade på tre månader"
+          },
+          "en": {
+            "title": "Almost 600 women murdered in three months"
+          }
+        },
+        {
+          "id": "04b45845f7e5",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig",
+          "published_at": "2026-11-24T11:37:57+01:00",
+          "sv": {
+            "title": "Rapport: Fem kvinnor i timmen dödas av en anhörig"
+          },
+          "en": {
+            "title": "Report: Five women an hour killed by a relative"
+          }
+        },
+        {
+          "id": "465f820d762b",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/ARd1Q5/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig",
+          "published_at": "2026-11-24T10:07:25+01:00",
+          "sv": {
+            "title": "Rapport: Fem kvinnor i timmen dödas av en anhörig"
+          },
+          "en": {
+            "title": "Report: Five women an hour killed by a relative"
           }
         }
       ]

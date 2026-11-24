@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T18:15:59+01:00",
+  "generated_at": "2026-11-24T18:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ba8b4c0eeabe",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/upprorda-kanslor-i-c-efter-svangen-ledsna-och-arga",
+      "guid": "https://www.expressen.se/nyheter/politik/upprorda-kanslor-i-c-efter-svangen-ledsna-och-arga/",
+      "published_at": "2026-11-24T18:13:39+01:00",
+      "fetched_at": "2026-11-24T18:31:02+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Upprörda känslor i C efter svängen: ”Ledsna och arga”",
+        "summary": "Sent på måndagen meddelade Elisabeth Thand Ringqvist att C återupptar samtalen med de borgerliga partierna. Men partiet är djupt splittrat i vägvalet och många är mycket upprörda, erfar Expressen. – Folk är ledsna, uppgivna, arga och känner sig maktlösa, säger en C-källa.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Strong feelings in the Centre Party after the U-turn: \"Sad and angry\"",
+        "summary": "Late on Monday, Elisabeth Thand Ringqvist announced that the Centre Party is resuming talks with the centre-right parties. But the party is deeply split over the path forward, and many are very upset, Expressen learns. \"People are sad, resigned, angry and feel powerless,\" says a Centre Party source."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T18:31:07+01:00"
+      }
+    },
     {
       "id": "9cc16d9a80f7",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T07:15:53+01:00"
-      }
-    },
-    {
-      "id": "5ecbe9990124",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=d8229590-d3ea-499e-a609-78853a080bf6",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d8229590-d3ea-499e-a609-78853a080bf6",
-      "published_at": "2026-11-21T06:44:03+01:00",
-      "fetched_at": "2026-11-21T06:45:45+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Landet får svensk polis",
-        "summary": "Öppnar station för att gripa fler",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Country gets Swedish police",
-        "summary": "Opens station to arrest more people"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T06:45:50+01:00"
       }
     }
   ]
