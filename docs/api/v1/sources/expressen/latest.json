@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T13:16:10+01:00",
+  "generated_at": "2026-11-24T13:31:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f598aaf449c9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=cfab0e62-e224-4936-a97a-6ec9dcd05416",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cfab0e62-e224-4936-a97a-6ec9dcd05416",
+      "published_at": "2026-11-24T13:16:32+01:00",
+      "fetched_at": "2026-11-24T13:31:03+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "MP vill pröva Kristersson",
+        "summary": "Vill rösta om M-ledaren som statsminister, säger språkrören",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Green Party (MP) wants to put Kristersson to the test",
+        "summary": "Wants to vote on the Moderates' leader (M) as prime minister, say the party spokespersons"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:31:19+01:00"
+      }
+    },
     {
       "id": "c3cbadda9fc2",
       "schema_version": 1,
@@ -5164,32 +5190,6 @@
       "en": {
         "title": "Huge Swedish win on Eurojackpot",
         "summary": "Empty wallet the week before payday? Not for one unaware Swede right now. On Friday they became 113 million richer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T22:01:22+01:00"
-      }
-    },
-    {
-      "id": "358a4342190c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=72f206ec-c6df-4a60-8cf6-d47a479219cd",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=72f206ec-c6df-4a60-8cf6-d47a479219cd",
-      "published_at": "2026-11-20T21:46:08+01:00",
-      "fetched_at": "2026-11-20T22:01:15+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "SMHI förkortar varning – med två dygn",
-        "summary": "Förkortar snövarningen rejält",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "SMHI shortens warning by two days",
-        "summary": "Significantly shortens the snow warning"
       },
       "translation": {
         "status": "done",

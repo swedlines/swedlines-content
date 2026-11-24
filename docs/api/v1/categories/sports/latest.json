@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-24T13:16:10+01:00",
+  "generated_at": "2026-11-24T13:31:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "775455d40ff8",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/LoA92J/viktor-gyokeres-skot-sverige-till-vm-racker-det-till-bragdguldet",
+      "guid": "https://www.svd.se/a/LoA92J/viktor-gyokeres-skot-sverige-till-vm-racker-det-till-bragdguldet?utm_medium=rss",
+      "published_at": "2026-11-24T13:19:02+01:00",
+      "fetched_at": "2026-11-24T13:31:02+01:00",
+      "category": "sports",
+      "image_url": "https://akamai.vgc.no/v2/images/a63116d9-2b47-3fc3-bcc0-856c3302420d?format=auto&s=82594f635ff5e48f77511ef24121b7932dff51b2&w=1000",
+      "sv": {
+        "title": "Gyökeres magiska mål gav svensk VM-sommar"
+      },
+      "en": {
+        "title": "Gyökeres' magical goal gave Sweden a World Cup summer"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:31:19+01:00"
+      }
+    },
     {
       "id": "80fffd176ee4",
       "schema_version": 1,
@@ -5615,33 +5639,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "9fbe85c49892",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/svahn-kanns-fel-att-tavla-mot-en-rysk-drakt",
-      "guid": "72e6068f-7d24-48d8-9475-061a7c280a8b",
-      "published_at": "2026-11-18T18:41:36+01:00",
-      "fetched_at": "2026-11-18T18:45:43+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/b22e009b-4328-4b41-86ea-2c69d12728ae.jpg?width=600",
-      "sv": {
-        "title": "Svahn: Känns fel att tävla mot en rysk dräkt",
-        "summary": "Regeringen vill stoppa ryska åkare från att starta i skid-VM i Falun. Något som välkomnas av stjärnan Linn Svahn.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Svahn: Feels wrong to compete against a Russian suit",
-        "summary": "The government wants to stop Russian skiers from starting in the ski World Championships in Falun. Something that is welcomed by star Linn Svahn."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:45:55+01:00"
       }
     }
   ]

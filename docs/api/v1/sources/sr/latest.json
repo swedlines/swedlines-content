@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-24T13:16:10+01:00",
+  "generated_at": "2026-11-24T13:31:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "300cdca2daaf",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349018",
+      "guid": "rss:sr.se/article/9349018",
+      "published_at": "2026-11-24T13:28:00+01:00",
+      "fetched_at": "2026-11-24T13:31:01+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Två statsvetare: Det lutar åt Kristersson-regering",
+        "summary": "En regering ledd av Ulf Kristersson framstår som mer sannolik efter Vänsterpartiets nej till det rödgröna startpaketet, enligt två statsvetare som Ekot talat med. Statsvetarna bedömer ett extraval som osannolikt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Two political scientists: Kristersson-led government looks likely",
+        "summary": "A government led by Ulf Kristersson appears more likely after the Left Party's rejection of the red-greens' starter package, according to two political scientists whom Ekot has spoken to. The political scientists consider a snap election unlikely."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:31:19+01:00"
+      }
+    },
+    {
+      "id": "298904f30b5e",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349060",
+      "guid": "rss:sr.se/article/9349060",
+      "published_at": "2026-11-24T13:23:00+01:00",
+      "fetched_at": "2026-11-24T13:31:01+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Furtenbach: Ser mörkt ut för de rödgröna",
+        "summary": "Magdalena Andersson visade inte upp någon optimistisk fasad, utan lät både irriterad och pessimistisk, när hon träffade pressen efter sitt samtal med talman Andreas Norlén. ”Hon kritiserade Centerpartiet men framförallt Vänsterpartiet, och V tar heder och ära av C.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Furtenbach: Things look dark for the red-greens",
+        "summary": "Magdalena Andersson showed no optimistic facade, instead sounding both irritated and pessimistic, when she met the press after her talks with Speaker Andreas Norlén. \"She criticised the Centre Party but mainly the Left Party, and the Left Party (V) takes all the credit from the Centre Party (C)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:31:19+01:00"
+      }
+    },
     {
       "id": "49407b70e618",
       "schema_version": 1,
@@ -5141,58 +5193,6 @@
       "en": {
         "title": "Reporter on security protection: \"Described as a difficult job\"",
         "summary": "Ekot's investigation shows that since January last year, shortcomings have been discovered in the so-called security protection - that is, what is meant to protect important Swedish operations against sabotage, espionage and terrorism."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:01:24+01:00"
-      }
-    },
-    {
-      "id": "be3fcb0de848",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9337166",
-      "guid": "rss:sr.se/article/9337166",
-      "published_at": "2026-11-19T06:00:00+01:00",
-      "fetched_at": "2026-11-19T06:01:12+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Runt 100 krav på åtgärder efter brister i skydd mot spionage, sabotage och terrorism",
-        "summary": "En granskning Ekot gjort av åtgärdskrav från tillsynsmyndigheter visar att de upptäckt brister i det så kallade säkerhetsskyddet – alltså skyddet mot sabotage, spionage och terrorism – i en lång rad verksamheter som är viktiga för Sveriges säkerhet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Around 100 demands for action after shortcomings in protection against espionage, sabotage and terrorism",
-        "summary": "An Ekot investigation of action demands from supervisory authorities shows they have found shortcomings in the so-called security protection - that is, protection against sabotage, espionage and terrorism - in a long list of operations that are important for Sweden's security."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:01:24+01:00"
-      }
-    },
-    {
-      "id": "e40e66f040ca",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9337168",
-      "guid": "rss:sr.se/article/9337168",
-      "published_at": "2026-11-19T06:00:00+01:00",
-      "fetched_at": "2026-11-19T06:01:12+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Brister i säkerhetsskyddet upptäcktes i energi- och transportsektorn",
-        "summary": "Flera bolag i energi- och transportsektorn har fått krav från tillsynsmyndigheter på att vidta åtgärder efter att det upptäckts brister i det så kallade säkerhetsskyddet mot exempelvis sabotage och spionage, visar Ekots granskning.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Shortcomings in security protection found in the energy and transport sectors",
-        "summary": "Several companies in the energy and transport sectors have received demands from supervisory authorities to take action after shortcomings were discovered in the so-called security protection against, for example, sabotage and espionage, Ekot's investigation shows."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-11-24T13:16:10+01:00",
+  "generated_at": "2026-11-24T13:31:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "300cdca2daaf",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349018",
+      "guid": "rss:sr.se/article/9349018",
+      "published_at": "2026-11-24T13:28:00+01:00",
+      "fetched_at": "2026-11-24T13:31:01+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Två statsvetare: Det lutar åt Kristersson-regering",
+        "summary": "En regering ledd av Ulf Kristersson framstår som mer sannolik efter Vänsterpartiets nej till det rödgröna startpaketet, enligt två statsvetare som Ekot talat med. Statsvetarna bedömer ett extraval som osannolikt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Two political scientists: Kristersson-led government looks likely",
+        "summary": "A government led by Ulf Kristersson appears more likely after the Left Party's rejection of the red-greens' starter package, according to two political scientists whom Ekot has spoken to. The political scientists consider a snap election unlikely."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:31:19+01:00"
+      }
+    },
+    {
+      "id": "298904f30b5e",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349060",
+      "guid": "rss:sr.se/article/9349060",
+      "published_at": "2026-11-24T13:23:00+01:00",
+      "fetched_at": "2026-11-24T13:31:01+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Furtenbach: Ser mörkt ut för de rödgröna",
+        "summary": "Magdalena Andersson visade inte upp någon optimistisk fasad, utan lät både irriterad och pessimistisk, när hon träffade pressen efter sitt samtal med talman Andreas Norlén. ”Hon kritiserade Centerpartiet men framförallt Vänsterpartiet, och V tar heder och ära av C.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Furtenbach: Things look dark for the red-greens",
+        "summary": "Magdalena Andersson showed no optimistic facade, instead sounding both irritated and pessimistic, when she met the press after her talks with Speaker Andreas Norlén. \"She criticised the Centre Party but mainly the Left Party, and the Left Party (V) takes all the credit from the Centre Party (C)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:31:19+01:00"
+      }
+    },
+    {
+      "id": "f598aaf449c9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=cfab0e62-e224-4936-a97a-6ec9dcd05416",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cfab0e62-e224-4936-a97a-6ec9dcd05416",
+      "published_at": "2026-11-24T13:16:32+01:00",
+      "fetched_at": "2026-11-24T13:31:03+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "MP vill pröva Kristersson",
+        "summary": "Vill rösta om M-ledaren som statsminister, säger språkrören",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Green Party (MP) wants to put Kristersson to the test",
+        "summary": "Wants to vote on the Moderates' leader (M) as prime minister, say the party spokespersons"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T13:31:19+01:00"
+      }
+    },
     {
       "id": "5a354cc4e7db",
       "schema_version": 1,
@@ -5307,87 +5385,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T17:31:08+01:00"
-      }
-    },
-    {
-      "id": "3849d6a940a1",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/vaxande-spricka-i-c-om-regeringsval",
-      "guid": "3421df54-683e-440b-a33c-fd5122d05b44",
-      "published_at": "2026-11-22T17:13:58+01:00",
-      "fetched_at": "2026-11-22T17:15:48+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/961b042a-0f13-464b-9c2c-35b37a4f70cd.jpg?width=600",
-      "sv": {
-        "title": "Växande spricka i C om regeringsval",
-        "summary": "Sprickan i Centerpartiet om regeringsfrågan växer och skapar oro. – Det är olyckligt att vi nu har den här diskussionen externt, säger Patrik Buddgård, distriktsordförande i Stockholms län, till Ekot.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Growing rift in C over government question",
-        "summary": "The rift in the Centre Party over the government question is growing and causing concern. – It is unfortunate that we now have this discussion externally, says Patrik Buddgård, district chair in Stockholm County, to Ekot."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T17:15:59+01:00"
-      }
-    },
-    {
-      "id": "a8ff4f7914b0",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/oMpGQ7/vaxande-spricka-i-c-om-regeringsval",
-      "guid": "https://www.svd.se/a/oMpGQ7/vaxande-spricka-i-c-om-regeringsval?utm_medium=rss",
-      "published_at": "2026-11-22T17:13:33+01:00",
-      "fetched_at": "2026-11-22T17:15:44+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/e771a023-648d-3446-b16e-28f50214b424?format=auto&s=69c7f44644eab0fe05ee8d43995299cac364f716&w=1000",
-      "sv": {
-        "title": "Växande spricka i C om regeringsval",
-        "summary": "Sprickan i Centerpartiet om regeringsfrågan växer och skapar oro. – Det är olyckligt att vi nu har…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Growing rift in C over government question",
-        "summary": "The rift in the Centre Party over the government question is growing and causing concern. – It is unfortunate that we now have…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T17:15:59+01:00"
-      }
-    },
-    {
-      "id": "7972dbd19e4d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/XogALo/vaxande-spricka-i-c-om-regeringsval",
-      "guid": "https://www.aftonbladet.se/nyheter/a/XogALo/vaxande-spricka-i-c-om-regeringsval?utm_medium=rss",
-      "published_at": "2026-11-22T17:13:32+01:00",
-      "fetched_at": "2026-11-22T17:15:46+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/e771a023-648d-3446-b16e-28f50214b424?format=auto&s=69c7f44644eab0fe05ee8d43995299cac364f716&w=1000",
-      "sv": {
-        "title": "Växande spricka i C om regeringsval",
-        "summary": "Sprickan i Centerpartiet om regeringsfrågan växer och skapar oro. – Det är olyckligt att vi nu har…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Growing rift in C over government question",
-        "summary": "The rift in the Centre Party over the government question is growing and causing concern. – It is unfortunate that we now have…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T17:15:59+01:00"
       }
     }
   ]
