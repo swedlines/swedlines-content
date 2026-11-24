@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T17:46:01+01:00",
+  "generated_at": "2026-11-24T17:52:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a57e9b3a410d",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/glaciarerna-smalter-skicrossen-flyttar-hem-till-sverige",
+      "guid": "https://www.dn.se/sport/glaciarerna-smalter-skicrossen-flyttar-hem-till-sverige/",
+      "published_at": "2026-11-24T17:49:17+01:00",
+      "fetched_at": "2026-11-24T17:51:58+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/80d8476f-4ff4-40a3-a29d-313c4d252819.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Glaciärerna smälter – skicrossen flyttar hem till Sverige",
+        "summary": "Glaciärerna i Europa smälter. Träningsmöjligheterna blir sämre och sämre. Då har skicrosslandslaget flyttat hem för att etablera ett försäsongscenter i Idre. – Våra två första läger på kontinenten var ganska dåliga.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Glaciers melt – ski cross moves home to Sweden",
+        "summary": "Glaciers in Europe are melting. Training opportunities are getting worse and worse. The ski cross national team has therefore moved home to set up a pre-season centre in Idre. – Our first two camps on the continent were quite bad."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T17:52:05+01:00"
+      }
+    },
     {
       "id": "6c008d37e385",
       "schema_version": 1,
@@ -5593,33 +5620,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T06:31:03+01:00"
-      }
-    },
-    {
-      "id": "680148802a6b",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/snobrist-drabbar-landslaget-sjukt-stor-skillnad",
-      "guid": "273d19e1-d159-4d5d-aef7-4e086f8cd221",
-      "published_at": "2026-11-19T05:40:16+01:00",
-      "fetched_at": "2026-11-19T05:45:48+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/ec764a12-d90c-4af3-8be3-b13bf250764f.jpg?width=600",
-      "sv": {
-        "title": "Snöbrist drabbar landslaget: ”Sjukt stor skillnad”",
-        "summary": "Klimatförändringarna märks i skidbackarna. För svenska landslaget har det blivit tuffare att få till försäsongsträningen. – Det har varit jättesvårt. Vi pratar mycket om hur sjukt det faktiskt är, säger storslalomåkaren Hilma Lövblom.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lack of snow hits the national team: \"Insanely big difference\"",
-        "summary": "Climate change is evident on the ski slopes. For the Swedish national team, it has become harder to get pre-season training done. \"It has been incredibly difficult. We talk a lot about how insane it actually is,\" says giant slalom skier Hilma Lövblom."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T05:45:51+01:00"
       }
     }
   ]
