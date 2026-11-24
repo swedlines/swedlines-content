@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T01:15:49+01:00",
+  "generated_at": "2026-11-24T01:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1508726ffccf",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/strandhall-till-v-fullstandigt-kort-sonder-detta",
+      "guid": "https://www.expressen.se/nyheter/politik/strandhall-till-v-fullstandigt-kort-sonder-detta/",
+      "published_at": "2026-11-24T01:28:50+01:00",
+      "fetched_at": "2026-11-24T01:30:57+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Strandhäll till V: ”Fullständigt kört sönder detta”",
+        "summary": "S-toppen Annika Strandhäll riktar sig till V-veteranen Ulla Andersson efter Centerpartiets beslut att återuppta högersamtalen. ”Ni har fullständigt kört sönder detta, Ulla. Det är sanningen”, skriver Strandhäll på X.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Strandhäll to V: \"Completely messed this up\"",
+        "summary": "Social Democrat leader Annika Strandhäll addresses Left Party veteran Ulla Andersson after the Centre Party's decision to resume the right-wing talks. \"You have completely messed this up, Ulla. That is the truth\", Strandhäll writes on X."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T01:31:01+01:00"
+      }
+    },
     {
       "id": "71f8dde03ba9",
       "schema_version": 1,
@@ -5331,33 +5357,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T12:31:12+01:00"
-      }
-    },
-    {
-      "id": "b490816a2eed",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/svart-for-de-rodgrona-att-hinna-bygga-tillit-i-forhandlingarna",
-      "guid": "https://www.dn.se/sverige/svart-for-de-rodgrona-att-hinna-bygga-tillit-i-forhandlingarna/",
-      "published_at": "2026-11-21T10:57:55+01:00",
-      "fetched_at": "2026-11-21T11:01:11+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/bca0185c-5371-4b2d-ada3-8bb97a8cad76.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Svårt för de rödgröna att hinna bygga tillit i förhandlingarna",
-        "summary": "På en okänd plats har partierna på den rödgröna sidan låst in sig för att förhandla. Tiden är knapp, positionerna låsta. Men i förhandlingar är det enligt experten tillit som gäller. Så hur är tilliten mellan nyckelpersonerna i S, V, C och MP?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hard for the red-greens to build trust in the negotiations in time",
-        "summary": "At an undisclosed location, the parties on the red-green side have locked themselves in to negotiate. Time is short, positions are locked. But in negotiations, according to the expert, it is trust that counts. So how is the trust between the key figures in the S, V, C and MP?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T11:01:21+01:00"
       }
     }
   ]

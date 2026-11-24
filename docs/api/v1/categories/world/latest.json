@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T01:15:49+01:00",
+  "generated_at": "2026-11-24T01:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8fd42a41f126",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/satellitbilderna--pekar-ut-putins--skrackvapen",
+      "guid": "https://www.expressen.se/nyheter/varlden/satellitbilderna--pekar-ut-putins--skrackvapen/",
+      "published_at": "2026-11-24T01:16:08+01:00",
+      "fetched_at": "2026-11-24T01:30:57+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Satellitbilderna pekar ut Putins skräckvapen",
+        "summary": "Putins skräckvapen Satan II kan ha tagits i bruk. Det visar en ny analys från tankesmedjan IISS som granskat satellitbilder av ryska militära anläggningar, skriver Newsweek.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Satellite images point to Putin's dreaded weapon",
+        "summary": "Putin's dreaded weapon Satan II may have been put into use. This is shown by a new analysis from the think tank IISS, which has examined satellite images of Russian military facilities, Newsweek writes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T01:31:01+01:00"
+      }
+    },
     {
       "id": "e519522b88b1",
       "schema_version": 1,
@@ -5321,32 +5347,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T22:45:53+01:00"
-      }
-    },
-    {
-      "id": "89f1239a8de4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/brittisk-by-rostar-for-att-lamna-storbritannien",
-      "guid": "https://www.expressen.se/nyheter/varlden/brittisk-by-rostar-for-att-lamna-storbritannien/",
-      "published_at": "2026-11-21T22:04:19+01:00",
-      "fetched_at": "2026-11-21T22:15:50+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Brittisk by röstar för att lämna Storbritannien",
-        "summary": "Den lilla byn har fått nog. I dag röstade Barnham för att lämna Storbritannien och bli självständigt. – Jag är verkligen tacksam för allas stöd, säger Helen Bock, ordföranden i boendeföreningen till BBC.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "British village votes to leave the United Kingdom",
-        "summary": "The small village has had enough. Today Barnham voted to leave the United Kingdom and become independent. – I am really grateful for everyone's support, says Helen Bock, chair of the residents' association, to the BBC."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T22:15:55+01:00"
       }
     }
   ]
