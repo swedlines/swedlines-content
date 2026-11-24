@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T01:45:54+01:00",
+  "generated_at": "2026-11-24T02:01:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1f0ecd654234",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348701",
+      "guid": "rss:sr.se/article/9348701",
+      "published_at": "2026-11-24T01:52:00+01:00",
+      "fetched_at": "2026-11-24T02:01:09+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Israeliskt flyganfall mot Gaza – minst tre dödade",
+        "summary": "I södra Gazaremsan har minst tre palestinier dödats i ett israeliskt flyganfall, enligt lokal sjukvårdspersonal, rapporterar Reuters. Ytterligare fem personer ska ha skadats i attacken, som skedde i närheten av en polisstation i staden Khan Yunis.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Israeli airstrike on Gaza – at least three killed",
+        "summary": "At least three Palestinians have been killed in an Israeli airstrike in the southern Gaza Strip, according to local health care workers, Reuters reports. Another five people are reported to have been injured in the attack, which took place near a police station in the city of Khan Yunis."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T02:01:15+01:00"
+      }
+    },
     {
       "id": "71f8dde03ba9",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T13:01:24+01:00"
-      }
-    },
-    {
-      "id": "6de4299aa620",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345218",
-      "guid": "rss:sr.se/article/9345218",
-      "published_at": "2026-11-18T12:19:00+01:00",
-      "fetched_at": "2026-11-18T12:30:54+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Analytiker inför Anthropics notering: ”Hisnande belopp”",
-        "summary": "Under torsdagen väntas AI-jätten Anthropic, som ligger bakom tjänsten Claude, noteras på Nasdaqbörsen. Noteringen kan bli en av de största hittills, sett till börsvärde. ”Det spekuleras i att värderingen kan komma upp till 1 400 miljarder dollar.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Analyst ahead of Anthropic's listing: “Staggering sum”",
-        "summary": "On Thursday, AI giant Anthropic, behind the service Claude, is expected to be listed on the Nasdaq exchange. The listing could be one of the largest so far, in terms of market value. “There is speculation that the valuation could reach USD 1,400 billion."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T12:31:14+01:00"
       }
     }
   ]
