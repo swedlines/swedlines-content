@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T06:01:29+01:00",
+  "generated_at": "2026-11-24T06:02:32+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6b173f5bf066",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/2vGVyr/skims-julkalender-skandal-ar-ett-sundhetstecken",
+      "guid": "https://www.svd.se/a/2vGVyr/skims-julkalender-skandal-ar-ett-sundhetstecken?utm_medium=rss",
+      "published_at": "2026-11-24T06:00:00+01:00",
+      "fetched_at": "2026-11-24T06:02:21+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/9ea65ad2-5090-3eb9-b53a-843f51b30ef7?format=auto&s=1cdd8ea2889f1c17b1009a6cfb042ff8a9acc395&w=1000",
+      "sv": {
+        "title": "Hatten av för cancelkulturen",
+        "summary": "Vreden mot Kim Kardashian och Bianca Ingrossos julkalendrar är ett sundhets­tecken.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hats off to cancel culture",
+        "summary": "The anger toward Kim Kardashian and Bianca Ingrosso's advent calendars is a sign of health."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T06:02:27+01:00"
+      }
+    },
     {
       "id": "557d20ed1f0a",
       "schema_version": 1,
@@ -5686,43 +5713,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "ab28e5c3a5db",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/restaurang/recension-gp-testar-dorsia-pa-tradgardsgatan.638a2823-99a4-5354-aeb1-baa71331dc4c",
-      "guid": "638a2823-99a4-5354-aeb1-baa71331dc4c",
-      "published_at": "2026-11-20T15:51:59+01:00",
-      "fetched_at": "2026-11-20T16:01:17+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Restaurang",
-        "Tagg: Restauranger",
-        "Tagg: Krogar",
-        "Tagg: Hotell",
-        "Tagg: Barer",
-        "Tagg: Uteätarna",
-        "Tagg: Två Dagar",
-        "Tagg: Foodflow"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/8b1a6e7f-ed46-386b-beaa-a90c3e1cc618",
-      "sv": {
-        "title": "Lyxkrogen i Göteborg förtrollar – men något saknas på tallriken",
-        "summary": "På stans mest överdådiga hotellrestaurang är inte alla smaker lika storslagna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Luxury restaurant in Göteborg enchants – but something is missing on the plate",
-        "summary": "At the city's most lavish hotel restaurant, not all flavours are equally magnificent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:01:24+01:00"
       }
     }
   ]
