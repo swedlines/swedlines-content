@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-24T07:16:06+01:00",
+  "generated_at": "2026-11-24T07:31:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e5866f1d6397",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/dJOEXo/efter-haveriet-vilken-nytta-gor-klimattoppmoten",
+      "guid": "https://www.aftonbladet.se/nyheter/a/dJOEXo/efter-haveriet-vilken-nytta-gor-klimattoppmoten?utm_medium=rss",
+      "published_at": "2026-11-24T07:21:29+01:00",
+      "fetched_at": "2026-11-24T07:31:06+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/c0e2c721-a029-3f39-9447-7e6629b587b1?format=auto&s=8e69c7a3dc2dc2f122195e10f6789701c79f60a7&w=1000",
+      "sv": {
+        "title": "Efter haveriet – vilken nytta gör klimattoppmöten?",
+        "summary": "Förräderi, svek och skam. Civilorganisationer tog till hårda ord efter haveriet vid COP31 i turkiska…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the fiasco – what good do climate summits do?",
+        "summary": "Betrayal, treachery and shame. Civil society organisations used harsh words after the fiasco at COP31 in Turkish…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-24T07:31:15+01:00"
+      }
+    },
     {
       "id": "27a3288dc083",
       "schema_version": 1,
@@ -5341,33 +5368,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T00:01:21+01:00"
-      }
-    },
-    {
-      "id": "b84891ead0f3",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/410997",
-      "guid": "https://tv.aftonbladet.se/video/410997?utm_medium=rss",
-      "published_at": "2026-11-20T23:19:59+01:00",
-      "fetched_at": "2026-11-21T09:45:44+01:00",
-      "category": "other",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/fbcbd79a7d88ebf71a36bb8e855cf020.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "Zigi skulle tända grillen – ingen bra idé",
-        "summary": "”Skit”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Zigi was going to light the grill – not a good idea",
-        "summary": "\"Shit\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:45:49+01:00"
       }
     }
   ]
