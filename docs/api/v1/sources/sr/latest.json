@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T11:45:53+01:00",
+  "generated_at": "2026-11-25T12:00:36+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c410391823c1",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349782",
+      "guid": "rss:sr.se/article/9349782",
+      "published_at": "2026-11-25T11:50:00+01:00",
+      "fetched_at": "2026-11-25T12:00:21+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ungerns premiärminister besökte Ukraina – för första gången på 11 år",
+        "summary": "Ungerns premiärminister Peter Magyar har varit på besök Ukraina. Det är första gången sedan 2015 som en ungersk premiärminister besöker det krigsdrabbade grannlandet. Peter Magyar sa vid besöket bland annat att det ungerska folket fördömer den ryska aggressionen mot Ukraina.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Hungary’s prime minister visits Ukraine – for the first time in 11 years",
+        "summary": "Hungarian Prime Minister Peter Magyar has visited Ukraine. It is the first time since 2015 that a Hungarian prime minister has visited the war-stricken neighbouring country. During the visit, Peter Magyar said, among other things, that the Hungarian people condemn Russia’s aggression against Ukraine."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T12:00:33+01:00"
+      }
+    },
     {
       "id": "36a816584fe9",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:45:52+01:00"
-      }
-    },
-    {
-      "id": "6e0f2068d229",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346113",
-      "guid": "rss:sr.se/article/9346113",
-      "published_at": "2026-11-19T15:56:00+01:00",
-      "fetched_at": "2026-11-19T16:01:25+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Édouard Philippe vill skapa ordning i Frankrike inför presidentvalet",
-        "summary": "Frankrikes tidigare premiärminister Édouard Philippe lanserar sin presidentkampanj med budskapet ”ordning och allvar” – och varnar för en akut ekonomisk kris om budgetunderskottet inte hanteras.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Édouard Philippe wants to bring order to France ahead of the presidential election",
-        "summary": "Former French prime minister Édouard Philippe launches his presidential campaign with the message \"order and seriousness\" – and warns of an acute economic crisis if the budget deficit is not addressed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:01:34+01:00"
       }
     }
   ]

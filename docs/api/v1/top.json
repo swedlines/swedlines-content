@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:45:53+01:00",
+  "generated_at": "2026-11-25T12:00:36+01:00",
   "count": 30,
   "stories": [
     {
@@ -1012,6 +1012,94 @@
       ]
     },
     {
+      "id": "735cd0faa70d",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "expressen",
+        "gp"
+      ],
+      "first_published_at": "2026-11-25T10:54:08+01:00",
+      "last_published_at": "2026-11-25T11:30:37+01:00",
+      "lead": {
+        "id": "735cd0faa70d",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/QroVQA/man-atalas-for-valdtakt-i-tjorns-kommun",
+        "guid": "https://www.aftonbladet.se/nyheter/a/QroVQA/man-atalas-for-valdtakt-i-tjorns-kommun?utm_medium=rss",
+        "published_at": "2026-11-25T10:54:08+01:00",
+        "fetched_at": "2026-11-25T11:15:45+01:00",
+        "category": "crime",
+        "image_url": "https://akamai.vgc.no/v2/images/dddb9cf5-bf49-36df-bdf4-ef1d221dabc4?format=auto&s=e793f50c7fc4142ef84f76dcf0d8ba06bd02c884&w=1000",
+        "sv": {
+          "title": "Finansman åtalas för grov våldtäkt på skärgårdsö",
+          "summary": "Svensk finansman greps i afrikansk önation",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Financier charged with aggravated rape on archipelago island",
+          "summary": "Swedish financier arrested in African island nation"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T11:15:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "7152e1b96fce",
+          "source": "gp",
+          "url": "https://www.gp.se/krim/finansman-atalas-far-valdtakt-pa-vastkusts-o.49329d08-4385-54b3-82a9-40c2546fcf67",
+          "published_at": "2026-11-25T11:30:37+01:00",
+          "sv": {
+            "title": "Finansman från Göteborg åtalas får våldtäkt på Västkusts-ö"
+          },
+          "en": {
+            "title": "Financier from Göteborg charged with rape on West Coast island"
+          }
+        },
+        {
+          "id": "aa88ed0c89b9",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/WmbV4L/man-atalas-for-grov-valdtakt-pa-vastkusto",
+          "published_at": "2026-11-25T11:04:10+01:00",
+          "sv": {
+            "title": "Man åtalas för grov våldtäkt på västkustö"
+          },
+          "en": {
+            "title": "Man charged with aggravated rape on west coast island"
+          }
+        },
+        {
+          "id": "488c0ef6ff9a",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/krim/finansman-atalas-for-grov-valdtakt",
+          "published_at": "2026-11-25T11:00:39+01:00",
+          "sv": {
+            "title": "Finansman åtalas för grov våldtäkt"
+          },
+          "en": {
+            "title": "Financier charged with aggravated rape"
+          }
+        },
+        {
+          "id": "735cd0faa70d",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/QroVQA/man-atalas-for-valdtakt-i-tjorns-kommun",
+          "published_at": "2026-11-25T10:54:08+01:00",
+          "sv": {
+            "title": "Finansman åtalas för grov våldtäkt på skärgårdsö"
+          },
+          "en": {
+            "title": "Financier charged with aggravated rape on archipelago island"
+          }
+        }
+      ]
+    },
+    {
       "id": "64e38a9ad9d2",
       "source_count": 3,
       "sources": [
@@ -1476,6 +1564,132 @@
       ]
     },
     {
+      "id": "934624d92122",
+      "source_count": 2,
+      "sources": [
+        "dn",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-25T08:29:38+01:00",
+      "last_published_at": "2026-11-25T12:00:00+01:00",
+      "lead": {
+        "id": "934624d92122",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/kultur/andrev-walden-gor-det-inte-latt-for-sig-i-sin-andra-roman",
+        "guid": "https://www.dn.se/kultur/andrev-walden-gor-det-inte-latt-for-sig-i-sin-andra-roman/",
+        "published_at": "2026-11-25T08:29:38+01:00",
+        "fetched_at": "2026-11-25T08:30:58+01:00",
+        "category": "culture",
+        "image_url": "https://static.bonniernews.se/ba/316d503f-ed9e-4edd-bb07-052592353099.jpeg?io=1&width=1000",
+        "sv": {
+          "title": "Andrev Walden gör det inte lätt för sig i sin andra roman",
+          "summary": "”Jävla karlar” gick segertåg över Sverige. När Andrev Walden nu kommer med sin andra roman byter han genre – men språket bär fortfarande, konstaterar Valerie Kyeyune Backström.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Andrev Walden doesn't make it easy for himself with his second novel",
+          "summary": "\"Jävla karlar\" swept across Sweden. Now that Andrev Walden is coming out with his second novel, he changes genre – but the language still carries, notes Valerie Kyeyune Backström."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T08:31:03+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "2a2c2180f679",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/kultur/fran-javla-karlar-till-spoken-sa-bra-ar-succeforfattarens-nya-roman",
+          "published_at": "2026-11-25T12:00:00+01:00",
+          "sv": {
+            "title": "Från ”Jävla karlar” till spöken – så bra är succéförfattarens nya roman"
+          },
+          "en": {
+            "title": "From “Jävla karlar” to ghosts – how good is the bestselling author’s new novel"
+          }
+        },
+        {
+          "id": "934624d92122",
+          "source": "dn",
+          "url": "https://www.dn.se/kultur/andrev-walden-gor-det-inte-latt-for-sig-i-sin-andra-roman",
+          "published_at": "2026-11-25T08:29:38+01:00",
+          "sv": {
+            "title": "Andrev Walden gör det inte lätt för sig i sin andra roman"
+          },
+          "en": {
+            "title": "Andrev Walden doesn't make it easy for himself with his second novel"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4880c5c90efa",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-25T11:58:08+01:00",
+      "last_published_at": "2026-11-25T11:58:08+01:00",
+      "lead": {
+        "id": "4880c5c90efa",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/kMJkwL/ny-eu-kritik-mot-svensk-vargpolitik",
+        "guid": "https://www.aftonbladet.se/nyheter/a/kMJkwL/ny-eu-kritik-mot-svensk-vargpolitik?utm_medium=rss",
+        "published_at": "2026-11-25T11:58:08+01:00",
+        "fetched_at": "2026-11-25T12:00:22+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/06fbfb7d-114b-3196-8cde-3cc499045a1c?format=auto&s=9f099405200185d06f83546a7f28c8edde067682&w=1000",
+        "sv": {
+          "title": "Ny EU-kritik mot svensk vargpolitik",
+          "summary": "EU-kommissionen ger Sverige bakläxa på vargpolitiken. I ett brev från EU-kommissionen till…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "New EU criticism of Swedish wolf policy",
+          "summary": "The EU Commission gives Sweden a reprimand over its wolf policy. In a letter from the EU Commission to…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T12:00:33+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "57e14489bd8d",
+          "source": "svd",
+          "url": "https://www.svd.se/a/dJO3RB/ny-eu-kritik-mot-svensk-vargpolitik",
+          "published_at": "2026-11-25T11:58:08+01:00",
+          "sv": {
+            "title": "Ny EU-kritik mot svensk vargpolitik"
+          },
+          "en": {
+            "title": "New EU criticism of Swedish wolf policy"
+          }
+        },
+        {
+          "id": "4880c5c90efa",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/kMJkwL/ny-eu-kritik-mot-svensk-vargpolitik",
+          "published_at": "2026-11-25T11:58:08+01:00",
+          "sv": {
+            "title": "Ny EU-kritik mot svensk vargpolitik"
+          },
+          "en": {
+            "title": "New EU criticism of Swedish wolf policy"
+          }
+        }
+      ]
+    },
+    {
       "id": "2db785a4a631",
       "source_count": 2,
       "sources": [
@@ -1657,81 +1871,6 @@
           },
           "en": {
             "title": "Orrefors Kosta Boda ends negotiations – 38 to leave the company"
-          }
-        }
-      ]
-    },
-    {
-      "id": "735cd0faa70d",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-25T10:54:08+01:00",
-      "last_published_at": "2026-11-25T11:04:10+01:00",
-      "lead": {
-        "id": "735cd0faa70d",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/QroVQA/man-atalas-for-valdtakt-i-tjorns-kommun",
-        "guid": "https://www.aftonbladet.se/nyheter/a/QroVQA/man-atalas-for-valdtakt-i-tjorns-kommun?utm_medium=rss",
-        "published_at": "2026-11-25T10:54:08+01:00",
-        "fetched_at": "2026-11-25T11:15:45+01:00",
-        "category": "crime",
-        "image_url": "https://akamai.vgc.no/v2/images/dddb9cf5-bf49-36df-bdf4-ef1d221dabc4?format=auto&s=e793f50c7fc4142ef84f76dcf0d8ba06bd02c884&w=1000",
-        "sv": {
-          "title": "Finansman åtalas för grov våldtäkt på skärgårdsö",
-          "summary": "Svensk finansman greps i afrikansk önation",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Financier charged with aggravated rape on archipelago island",
-          "summary": "Swedish financier arrested in African island nation"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T11:15:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "aa88ed0c89b9",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/WmbV4L/man-atalas-for-grov-valdtakt-pa-vastkusto",
-          "published_at": "2026-11-25T11:04:10+01:00",
-          "sv": {
-            "title": "Man åtalas för grov våldtäkt på västkustö"
-          },
-          "en": {
-            "title": "Man charged with aggravated rape on west coast island"
-          }
-        },
-        {
-          "id": "488c0ef6ff9a",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/krim/finansman-atalas-for-grov-valdtakt",
-          "published_at": "2026-11-25T11:00:39+01:00",
-          "sv": {
-            "title": "Finansman åtalas för grov våldtäkt"
-          },
-          "en": {
-            "title": "Financier charged with aggravated rape"
-          }
-        },
-        {
-          "id": "735cd0faa70d",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/QroVQA/man-atalas-for-valdtakt-i-tjorns-kommun",
-          "published_at": "2026-11-25T10:54:08+01:00",
-          "sv": {
-            "title": "Finansman åtalas för grov våldtäkt på skärgårdsö"
-          },
-          "en": {
-            "title": "Financier charged with aggravated rape on archipelago island"
           }
         }
       ]
@@ -2309,131 +2448,6 @@
           },
           "en": {
             "title": "How women in Gaza are affected: Forced to leave baby behind"
-          }
-        }
-      ]
-    },
-    {
-      "id": "c568e62a18d7",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "di"
-      ],
-      "first_published_at": "2026-11-24T22:09:13+01:00",
-      "last_published_at": "2026-11-25T05:26:53+01:00",
-      "lead": {
-        "id": "c568e62a18d7",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/OypxqO/unket-boris-johnson-om-trumps-passning-till-putin",
-        "guid": "https://www.aftonbladet.se/nyheter/a/OypxqO/unket-boris-johnson-om-trumps-passning-till-putin?utm_medium=rss",
-        "published_at": "2026-11-24T22:09:13+01:00",
-        "fetched_at": "2026-11-24T22:15:47+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/6ae4c20f-9647-3803-b7e6-1b8dfe8ef775?format=auto&s=6bb5b2bd9c027284c89dd5dc51d48c8659c2b203&w=1000",
-        "sv": {
-          "title": "”Unket” – Boris Johnson om Trumps passning till Putin",
-          "summary": "Storbritanniens tidigare premiärminister Boris Johnson kallar USA:s president Trumps…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "\"Unket\" – Boris Johnson on Trump's stance toward Putin",
-          "summary": "Former UK prime minister Boris Johnson calls US President Trump's…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T22:15:54+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "d596c3d71c32",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/unket-boris-johnson-om-trumps-passning-till-putin",
-          "published_at": "2026-11-25T05:26:53+01:00",
-          "sv": {
-            "title": "”Unket” – Boris Johnson om Trumps passning till Putin"
-          },
-          "en": {
-            "title": "“Rotten” – Boris Johnson on Trump's courting of Putin"
-          }
-        },
-        {
-          "id": "c568e62a18d7",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/OypxqO/unket-boris-johnson-om-trumps-passning-till-putin",
-          "published_at": "2026-11-24T22:09:13+01:00",
-          "sv": {
-            "title": "”Unket” – Boris Johnson om Trumps passning till Putin"
-          },
-          "en": {
-            "title": "\"Unket\" – Boris Johnson on Trump's stance toward Putin"
-          }
-        }
-      ]
-    },
-    {
-      "id": "2586ba487ac4",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-25T01:38:56+01:00",
-      "last_published_at": "2026-11-25T01:38:56+01:00",
-      "lead": {
-        "id": "2586ba487ac4",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/aGwzQM/dodliga-attacker-i-ukraina",
-        "guid": "https://www.svd.se/a/aGwzQM/dodliga-attacker-i-ukraina?utm_medium=rss",
-        "published_at": "2026-11-25T01:38:56+01:00",
-        "fetched_at": "2026-11-25T01:45:43+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Dödliga attacker i Ukraina",
-          "summary": "Minst två personer har dödats i ryska attacker mot Ukraina sent på tisdagen, rapporterar The Kyiv…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Deadly attacks in Ukraine",
-          "summary": "At least two people have been killed in Russian attacks on Ukraine late on Tuesday, reports The Kyiv…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T01:45:48+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "feb12ab5c54f",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/VxbA8J/dodliga-attacker-i-ukraina",
-          "published_at": "2026-11-25T01:38:56+01:00",
-          "sv": {
-            "title": "Dödliga attacker i Ukraina"
-          },
-          "en": {
-            "title": "Deadly attacks in Ukraine"
-          }
-        },
-        {
-          "id": "2586ba487ac4",
-          "source": "svd",
-          "url": "https://www.svd.se/a/aGwzQM/dodliga-attacker-i-ukraina",
-          "published_at": "2026-11-25T01:38:56+01:00",
-          "sv": {
-            "title": "Dödliga attacker i Ukraina"
-          },
-          "en": {
-            "title": "Deadly attacks in Ukraine"
           }
         }
       ]

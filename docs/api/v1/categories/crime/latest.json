@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T11:45:53+01:00",
+  "generated_at": "2026-11-25T12:00:36+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b25bd2b30e66",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/chef-for-lagligt-hampaforetag-doms-for-knarksmuggling",
+      "guid": "db183304-35af-4bac-bf2f-8265a9f673f9",
+      "published_at": "2026-11-25T12:00:00+01:00",
+      "fetched_at": "2026-11-25T12:00:24+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/8ba3ac81-2169-4feb-96b3-afa85f001f5a.png?width=600",
+      "sv": {
+        "title": "Chef för lagligt hampaföretag döms för knarksmuggling",
+        "summary": "På nätet sålde företaget lagliga cannabisprodukter till en mogen kundkrets. Men när tullen stoppade en last i Malmö innehöll hampan olaglig THC. Nu döms vd:n till nära fem års fängelse.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Head of legal hemp company convicted of drug smuggling",
+        "summary": "On the internet the company sold legal cannabis products to a mature customer base. But when customs stopped a shipment in Malmö, the hemp contained illegal THC. Now the CEO is sentenced to nearly five years in prison."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T12:00:33+01:00"
+      }
+    },
     {
       "id": "9c3307114a99",
       "schema_version": 1,
@@ -56,6 +83,37 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T11:45:51+01:00"
+      }
+    },
+    {
+      "id": "7152e1b96fce",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/finansman-atalas-far-valdtakt-pa-vastkusts-o.49329d08-4385-54b3-82a9-40c2546fcf67",
+      "guid": "49329d08-4385-54b3-82a9-40c2546fcf67",
+      "published_at": "2026-11-25T11:30:37+01:00",
+      "fetched_at": "2026-11-25T12:00:23+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Krim",
+        "Tagg: Brott och straff",
+        "Tagg: Polisen",
+        "Tagg: Uppdatera mig - BEHOV",
+        "Tagg: Våldtäkt"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/67514392-24e1-3d30-91e3-e5e28c9d62b9",
+      "sv": {
+        "title": "Finansman från Göteborg åtalas får våldtäkt på Västkusts-ö"
+      },
+      "en": {
+        "title": "Financier from Göteborg charged with rape on West Coast island"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T12:00:33+01:00"
       }
     },
     {
@@ -5359,61 +5417,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "574064982db8",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/dJOQxJ/polisen-utreder-misstankt-dataintrang-hos-taxibolag",
-      "guid": "https://www.aftonbladet.se/nyheter/a/dJOQxJ/polisen-utreder-misstankt-dataintrang-hos-taxibolag?utm_medium=rss",
-      "published_at": "2026-11-20T16:20:45+01:00",
-      "fetched_at": "2026-11-20T16:31:05+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisen utreder misstänkt dataintrång hos taxibolag",
-        "summary": "Polisen utreder ett misstänkt dataintrång mot taxibolag. Enligt uppgifter till TT rör intrånget…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police investigate suspected data breach at taxi company",
-        "summary": "Police are investigating a suspected data breach at a taxi company. According to information to TT, the breach concerns…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "e21a1ce33443",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3cmoQxshZxoUj8C0eCK8sT/rapparen-1-cuz-doems-till-faengelse-foer-grovt-skattebrott",
-      "guid": "3cmoQxshZxoUj8C0eCK8sT",
-      "published_at": "2026-11-20T16:08:14+01:00",
-      "fetched_at": "2026-11-20T16:15:54+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Inrikes"
-      ],
-      "sv": {
-        "title": "Rapparen 1.Cuz döms till fängelse för grovt skattebrott",
-        "summary": "Rapparen 1.Cuz är en av Sveriges mest kända rappare och har omkring en halv miljon månatliga lyssnare på Spotify. Nu döms han till sex månaders fängelse för grovt skattebrott. I hans inkomstdeklaration för 2022 angavs inkomsten av tjänst till 1 724 001 kronor för lågt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Rapper 1.Cuz sentenced to prison for gross tax crime",
-        "summary": "Rapper 1.Cuz is one of Sweden's best-known rappers and has around half a million monthly listeners on Spotify. He has now been sentenced to six months in prison for gross tax crime. In his 2022 tax return, his income from employment was understated by SEK 1,724,001."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:16:03+01:00"
       }
     }
   ]
