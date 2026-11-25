@@ -1,7 +1,65 @@
 {
-  "generated_at": "2026-11-25T16:15:57+01:00",
+  "generated_at": "2026-11-25T16:31:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9a3453da2e51",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/sekunder-senare-borjar-alla-skrika",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/sekunder-senare-borjar-alla-skrika",
+      "published_at": "2026-11-25T16:19:03+01:00",
+      "fetched_at": "2026-11-25T16:31:10+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Sekunder senare börjar alla skrika",
+        "summary": "Kör igenom buskarna – sedan utbryter kaos",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Seconds later everyone starts screaming",
+        "summary": "Drive through the bushes – then chaos breaks out"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T16:31:17+01:00"
+      }
+    },
+    {
+      "id": "37c17e96614b",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/varldens-gang/jag-far-panik-nar-jag-ser-andra-manniskors-lunchlador.9866068c-4719-54a6-a4fc-8d1081d38c7e",
+      "guid": "9866068c-4719-54a6-a4fc-8d1081d38c7e",
+      "published_at": "2026-11-25T16:14:03+01:00",
+      "fetched_at": "2026-11-25T16:31:11+01:00",
+      "category": "other",
+      "feed_categories": [
+        "Världens gång",
+        "Tagg: Världens gång",
+        "Tagg: Kåseri"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/737a4018-9368-384e-ae66-b3d49d9cef3f",
+      "sv": {
+        "title": "Jag får panik när jag ser andra människors lunchlådor",
+        "summary": "Att få en inblick i kollegornas matvanor känns ungefär som att klä av sig och gå på spa med dem",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "I panic when I see other people's lunch boxes",
+        "summary": "Getting a glimpse into colleagues' eating habits feels roughly like undressing and going to a spa with them"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T16:31:17+01:00"
+      }
+    },
     {
       "id": "34af4f308e4a",
       "schema_version": 1,
@@ -5467,64 +5525,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T09:15:48+01:00"
-      }
-    },
-    {
-      "id": "61607617899a",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/fria-ord/det-har-blivit-omojligt-att-hitta-parkering-trots-att-vi-betalar-dyrt.54127b63-2cf3-5085-822c-6b0404c61819",
-      "guid": "54127b63-2cf3-5085-822c-6b0404c61819",
-      "published_at": "2026-11-16T07:00:00+01:00",
-      "fetched_at": "2026-11-16T07:45:42+01:00",
-      "category": "other",
-      "feed_categories": [
-        "Fria ord",
-        "Tagg: Parkering",
-        "Tagg: Barn",
-        "Tagg: Göteborg",
-        "Tagg: Kollektivtrafik"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/4c8ceb63-d073-38d7-80f7-e768692f8d35",
-      "sv": {
-        "title": "Det har blivit omöjligt att hitta parkering trots att vi betalar dyrt",
-        "summary": "Hur är det egentligen tänkt att en vanlig barnfamilj ska få vardagen att fungera? skriver insändarskribenterna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "It has become impossible to find parking even though we pay a lot",
-        "summary": "How is an ordinary family with children supposed to make everyday life work? the letter writers ask."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T07:45:47+01:00"
-      }
-    },
-    {
-      "id": "c4608968dd63",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/kolumnen/tank-om-det-ar-samhallet-det-ar-fel-pa-inte-vara-hjarnor",
-      "guid": "71dffca0-9048-47a0-a10a-8200594bab52",
-      "published_at": "2026-11-16T06:23:00+01:00",
-      "fetched_at": "2026-11-16T06:30:56+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/f0847de5-ad06-44bd-b6e2-176695fa2398.jpeg?width=600",
-      "sv": {
-        "title": "Tänk om det är samhället det är fel på, inte våra hjärnor?"
-      },
-      "en": {
-        "title": "What if it's society that's wrong, not our brains?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:31:00+01:00"
       }
     }
   ]

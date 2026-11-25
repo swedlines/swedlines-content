@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:15:57+01:00",
+  "generated_at": "2026-11-25T16:31:19+01:00",
   "count": 30,
   "stories": [
     {
@@ -1905,6 +1905,68 @@
       ]
     },
     {
+      "id": "dc217622888a",
+      "source_count": 2,
+      "sources": [
+        "expressen",
+        "svd"
+      ],
+      "first_published_at": "2026-11-25T15:40:53+01:00",
+      "last_published_at": "2026-11-25T16:18:29+01:00",
+      "lead": {
+        "id": "dc217622888a",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/okat-stod-for-hogersvang-i-centerpartiet",
+        "guid": "https://www.expressen.se/nyheter/politik/okat-stod-for-hogersvang-i-centerpartiet/",
+        "published_at": "2026-11-25T15:40:53+01:00",
+        "fetched_at": "2026-11-25T15:45:47+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Ökat stöd för högersväng i Centerpartiet",
+          "summary": "Centern står inför ett uppslitande vägval – där allt fler börjar luta högerut. Många drar paralleller till tidigare jobbiga processer som partiet tagit sig genom. – Jag tror att fler i Centerpartiet vill vara med och ta ansvar i knepiga lägen än de som inte vill det, säger en C-källa.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Increased support for a rightward turn in the Centre Party",
+          "summary": "The Centre Party faces an agonising choice, with more and more members leaning to the right. Many draw parallels to earlier difficult processes the party has been through. – I think more people in the Centre Party want to take responsibility in tricky situations than those who don't, says a C source."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T15:46:04+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "d422c2fdbc7d",
+          "source": "svd",
+          "url": "https://www.svd.se/a/0vn1mo/intern-spricka-i-centerpartiet-nytt-forslag-i-regeringsfragan-lanseras",
+          "published_at": "2026-11-25T16:18:29+01:00",
+          "sv": {
+            "title": "Interna C-sprickan – vill stoppa högersväng"
+          },
+          "en": {
+            "title": "Internal Centre Party rift – wants to stop the rightward turn"
+          }
+        },
+        {
+          "id": "dc217622888a",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/okat-stod-for-hogersvang-i-centerpartiet",
+          "published_at": "2026-11-25T15:40:53+01:00",
+          "sv": {
+            "title": "Ökat stöd för högersväng i Centerpartiet"
+          },
+          "en": {
+            "title": "Increased support for a rightward turn in the Centre Party"
+          }
+        }
+      ]
+    },
+    {
       "id": "077c41666583",
       "source_count": 2,
       "sources": [
@@ -2538,68 +2600,6 @@
           },
           "en": {
             "title": "Puigdemont returns to Catalonia"
-          }
-        }
-      ]
-    },
-    {
-      "id": "25eb71ff90ab",
-      "source_count": 2,
-      "sources": [
-        "sydsvenskan",
-        "svd"
-      ],
-      "first_published_at": "2026-11-25T11:14:51+01:00",
-      "last_published_at": "2026-11-25T11:20:23+01:00",
-      "lead": {
-        "id": "25eb71ff90ab",
-        "schema_version": 1,
-        "source": "sydsvenskan",
-        "url": "https://www.sydsvenskan.se/sport/iihf-overklagar-cas-rysslandsbeslut",
-        "guid": "039f0176-f381-40f7-9c57-4cd772ce4408",
-        "published_at": "2026-11-25T11:14:51+01:00",
-        "fetched_at": "2026-11-25T11:15:48+01:00",
-        "category": "sports",
-        "sv": {
-          "title": "IIHF överklagar Cas Rysslandsbeslut",
-          "summary": "Internationella ishockeyförbundet (IIHF) överklagar Idrottens skiljedomstols (Cas) beslut att tillåta ryskt deltagande i kommande VM till högsta domstolen i Schweiz. Det skriver IIHF på X.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "IIHF appeals CAS ruling on Russia",
-          "summary": "The International Ice Hockey Federation (IIHF) is appealing the Court of Arbitration for Sport (CAS) decision to allow Russian participation in the upcoming World Championship to the Swiss Supreme Court. The IIHF writes on X."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T11:15:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "b204c2e5a16d",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80298",
-          "published_at": "2026-11-25T11:20:23+01:00",
-          "sv": {
-            "title": "Hockeyförbundet överklagar Rysslandsbeslut"
-          },
-          "en": {
-            "title": "Ice Hockey Federation appeals decision on Russia"
-          }
-        },
-        {
-          "id": "25eb71ff90ab",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sport/iihf-overklagar-cas-rysslandsbeslut",
-          "published_at": "2026-11-25T11:14:51+01:00",
-          "sv": {
-            "title": "IIHF överklagar Cas Rysslandsbeslut"
-          },
-          "en": {
-            "title": "IIHF appeals CAS ruling on Russia"
           }
         }
       ]

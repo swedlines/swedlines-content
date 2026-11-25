@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:15:57+01:00",
+  "generated_at": "2026-11-25T16:31:19+01:00",
   "count": 200,
   "items": [
     {
@@ -29,6 +29,37 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T16:15:54+01:00"
+      }
+    },
+    {
+      "id": "4eebd181f0c8",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/vastsverige/ny-rattegang-drojer-trakigt-for-familjen.95d7a742-8fea-529e-a1a1-97e94dc0400a",
+      "guid": "95d7a742-8fea-529e-a1a1-97e94dc0400a",
+      "published_at": "2026-11-25T16:06:45+01:00",
+      "fetched_at": "2026-11-25T16:31:11+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Västsverige",
+        "Tagg: Samhällsredaktionen"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/7b23f871-e3a4-3005-abe3-ae29a740a187",
+      "sv": {
+        "title": "Ny rättegång dröjer: ”Tråkigt för familjen”",
+        "summary": "Hovrätten vill invänta Haverikommissionens slutrapport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New trial delayed: \"Sad for the family\"",
+        "summary": "The Court of Appeal wants to await the Accident Investigation Authority's final report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T16:31:17+01:00"
       }
     },
     {
@@ -5389,33 +5420,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T22:01:22+01:00"
-      }
-    },
-    {
-      "id": "0c964289a9e5",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/1vnzVW/dataintrang-hos-taxijatten-cabonline-kunduppgifter-stulna",
-      "guid": "https://www.aftonbladet.se/nyheter/a/1vnzVW/dataintrang-hos-taxijatten-cabonline-kunduppgifter-stulna?utm_medium=rss",
-      "published_at": "2026-11-20T20:49:48+01:00",
-      "fetched_at": "2026-11-20T21:01:13+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/18c6ca9f-5c0b-37b5-bbdb-0c1dfb782557?format=auto&s=adfedb8034986b00b138d915834d0ea2f1753ec9&w=1000",
-      "sv": {
-        "title": "Dataintrång hos taxijätte – kunduppgifter stulna",
-        "summary": "Personuppgifter stulna från taxijättten",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Data breach at taxi giant – customer data stolen",
-        "summary": "Personal data stolen from the taxi giant"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T21:01:22+01:00"
       }
     }
   ]

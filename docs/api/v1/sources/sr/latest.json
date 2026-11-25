@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T16:15:57+01:00",
+  "generated_at": "2026-11-25T16:31:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9e49cc85b0d2",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350038",
+      "guid": "rss:sr.se/article/9350038",
+      "published_at": "2026-11-25T16:26:00+01:00",
+      "fetched_at": "2026-11-25T16:31:08+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Uppror växer inom C – mobiliserar för ny väg",
+        "summary": "Inom Centerpartiet gror missnöjet och ilskan gentemot partiledningen efter gårdagens stormöte. Flera källor som Ekot pratat med beskriver det som att ledningen nu vill få partiet att välja mellan extraval eller en högerregering.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Rebellion grows within the Centre Party – mobilises for a new course",
+        "summary": "Discontent and anger toward the party leadership are growing within the Centre Party after yesterday's stormy meeting. Several sources who have spoken to Ekot describe the leadership's aim as forcing the party to choose between a snap election or a right-wing government."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T16:31:17+01:00"
+      }
+    },
     {
       "id": "c7507f5f3c9e",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T21:45:52+01:00"
-      }
-    },
-    {
-      "id": "ece3f2270184",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346498",
-      "guid": "rss:sr.se/article/9346498",
-      "published_at": "2026-11-19T20:17:00+01:00",
-      "fetched_at": "2026-11-19T20:30:56+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Julia flydde Ukrainakriget – fick betala oskäligt hög hyra",
-        "summary": "Stockholms stads bostadsstiftelse SHIS tvingas nu i åtta fall återbetala och sänka hyror, som Hyresnämnden bedömt som oskäliga. Överhyrorna har drabbat socialt utsatta hyresgäster och flyktingar, flera från krigets Ukraina.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Julia fled the Ukraine war – was forced to pay unreasonably high rent",
-        "summary": "Stockholm city's housing foundation SHIS is now being forced to repay and lower rents in eight cases that the Rent Tribunal has judged to be unreasonable. The excessive rents have hit socially vulnerable tenants and refugees, several from war-torn Ukraine."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T20:31:04+01:00"
       }
     }
   ]
