@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T06:05:23+01:00",
+  "generated_at": "2026-11-25T06:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a76a53a212aa",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/z0GpR1/nya-bevis-i-brattasfallet-starker-hans-berattelse",
+      "guid": "https://www.aftonbladet.se/nyheter/a/z0GpR1/nya-bevis-i-brattasfallet-starker-hans-berattelse?utm_medium=rss",
+      "published_at": "2026-11-25T06:15:11+01:00",
+      "fetched_at": "2026-11-25T06:15:45+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/006aa0fa-0de5-3065-927d-ed1783c1ac75?format=auto&s=f8e388fd777ac4fc3c2736e554ba012a0011a56c&w=1000",
+      "sv": {
+        "title": "Nya bevis i Brattåsfallet: \"Stärker hans berättelse\"",
+        "summary": "Det tog över 20 år innan dubbelmordet i Brattås ledde till åtal. I dag börjar fallet i hovrätten…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New evidence in the Brattås case: \"Strengthens his account\"",
+        "summary": "It took over 20 years before the double murder in Brattås led to charges. Today the case begins in the court of appeal…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T06:15:53+01:00"
+      }
+    },
     {
       "id": "b60521972973",
       "schema_version": 1,
@@ -5396,37 +5423,6 @@
       "en": {
         "title": "Charges after Östermalm accident",
         "summary": "Man suspected • Lotta Hellstrand, 57, died"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T09:31:07+01:00"
-      }
-    },
-    {
-      "id": "b0717ea5157b",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/varlden/svensk-kvinna-ihjalskjuten-pa-filippinerna.8b603261-f31a-5020-bedb-f3c9389aa3fc",
-      "guid": "8b603261-f31a-5020-bedb-f3c9389aa3fc",
-      "published_at": "2026-11-20T09:01:55+01:00",
-      "fetched_at": "2026-11-20T09:31:01+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Världen",
-        "Tagg: Filippinerna"
-      ],
-      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
-      "sv": {
-        "title": "Svensk kvinna ihjälskjuten i Filippinerna",
-        "summary": "Två personer gripna misstänkta för mord, rapporterar lokala medier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish woman shot dead in the Philippines",
-        "summary": "Two people detained on suspicion of murder, local media report."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T06:05:23+01:00",
+  "generated_at": "2026-11-25T06:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a4ab1a0b2f58",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349485",
+      "guid": "rss:sr.se/article/9349485",
+      "published_at": "2026-11-25T06:13:00+01:00",
+      "fetched_at": "2026-11-25T06:15:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Regimen skärper sitt förtryck mot befolkningen",
+        "summary": "Idag hängs två unga demonstranter i Teheran. Sångerskan Parastou Ahmadi har fått 74 piskrapp efter en konsert utan hijab. Hör vår korrespondent om utvecklingen i Iran.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The regime tightens its repression of the population",
+        "summary": "Today two young demonstrators are being hanged in Tehran. Singer Parastou Ahmadi has been given 74 lashes after a concert without a hijab. Hear our correspondent on developments in Iran."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T06:15:53+01:00"
+      }
+    },
     {
       "id": "3df827caa588",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T13:45:54+01:00"
-      }
-    },
-    {
-      "id": "14687a62fc75",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346219",
-      "guid": "rss:sr.se/article/9346219",
-      "published_at": "2026-11-19T13:17:00+01:00",
-      "fetched_at": "2026-11-19T13:31:01+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Naila Saleem: ”Många befinner sig i en slags limbo”",
-        "summary": "Myanmar har dömts för sin behandling av den muslimska minoriteten rohingyer. Det är första gången FN:s internationella domstol ICJ dömt en stat skyldigt till folkmord. 2017 flydde 700 000 rohingyer över gränsen till Bangladesh. Därefter har ytterligare hundratusen flytt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Naila Saleem: “Many are in a kind of limbo”",
-        "summary": "Myanmar has been convicted for its treatment of the Muslim Rohingya minority. It is the first time the UN's International Court of Justice, ICJ, has found a state guilty of genocide. In 2017, 700,000 Rohingya fled across the border to Bangladesh. Since then, another hundred thousand have fled."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T13:31:19+01:00"
       }
     }
   ]

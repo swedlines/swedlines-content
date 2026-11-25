@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T06:05:23+01:00",
+  "generated_at": "2026-11-25T06:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "74dcf54bc2df",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/barometer-rekordar-for-e-handeln",
+      "guid": "ff8785c9-4dbd-4f3b-a25f-32035360d934",
+      "published_at": "2026-11-25T06:07:27+01:00",
+      "fetched_at": "2026-11-25T06:15:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/4d75066c-d884-4d4a-a201-48785ccb04ef.jpg?width=600",
+      "sv": {
+        "title": "Barometer: Rekordår för e-handeln",
+        "summary": "Det blir återigen rekord för e-handeln i år, enligt paketleverantören Postnords E-barometer. Tillväxten under tredje kvartalet ligger på 7 procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Barometer: Record year for e-commerce",
+        "summary": "E-commerce is set for another record this year, according to parcel carrier Postnord's E-barometer. Growth in the third quarter stands at 7 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T06:15:53+01:00"
+      }
+    },
     {
       "id": "3fa004e06458",
       "schema_version": 1,
@@ -5177,33 +5204,6 @@
       "en": {
         "title": "Concern in Kenya – hippo deaths under investigation",
         "summary": "Kenya is investigating several incidents in which hippos are believed to have died after ingesting unsuitable food. The number of cases in a short period is worrying the country's environmental protection agency."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T07:45:45+01:00"
-      }
-    },
-    {
-      "id": "e56727efa545",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/dalig-manad-for-persontagens-punktlighet",
-      "guid": "7afc54ae-095d-424d-a408-f7512af8f2c3",
-      "published_at": "2026-11-22T07:32:59+01:00",
-      "fetched_at": "2026-11-22T07:45:42+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/f945c44a-6dbe-40f8-8547-c9a1de601b77.jpg?width=600",
-      "sv": {
-        "title": "Dålig månad för persontågens punktlighet",
-        "summary": "I oktober föll persontågens punktlighet till 86,5 procent. Nedsatt hastighet och obehöriga personer i spårområden anges som delorsaker till försämringen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Poor month for passenger train punctuality",
-        "summary": "In October, passenger train punctuality fell to 86.5 percent. Reduced speed and unauthorised persons in track areas are cited as contributing causes of the decline."
       },
       "translation": {
         "status": "done",

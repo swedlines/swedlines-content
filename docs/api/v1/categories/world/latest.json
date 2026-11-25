@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-25T06:05:23+01:00",
+  "generated_at": "2026-11-25T06:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a4ab1a0b2f58",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349485",
+      "guid": "rss:sr.se/article/9349485",
+      "published_at": "2026-11-25T06:13:00+01:00",
+      "fetched_at": "2026-11-25T06:15:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Regimen skärper sitt förtryck mot befolkningen",
+        "summary": "Idag hängs två unga demonstranter i Teheran. Sångerskan Parastou Ahmadi har fått 74 piskrapp efter en konsert utan hijab. Hör vår korrespondent om utvecklingen i Iran.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The regime tightens its repression of the population",
+        "summary": "Today two young demonstrators are being hanged in Tehran. Singer Parastou Ahmadi has been given 74 lashes after a concert without a hijab. Hear our correspondent on developments in Iran."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T06:15:53+01:00"
+      }
+    },
+    {
+      "id": "d265c9d76e21",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-krigsdrag-efter-putins-hamndord",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-krigsdrag-efter-putins-hamndord",
+      "published_at": "2026-11-25T06:10:24+01:00",
+      "fetched_at": "2026-11-25T06:15:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Krigsdraget mot Putin",
+        "summary": "Zelenskyjs dubbelslag i natt – timmar efter ryska hämndlöftet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The war gambit against Putin",
+        "summary": "Zelenskyy's double blow overnight – hours after the Russian revenge pledge"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T06:15:53+01:00"
+      }
+    },
     {
       "id": "132f5551f1ea",
       "schema_version": 1,
@@ -5320,58 +5372,6 @@
       "en": {
         "title": "Kim Jong-Un avoids Donald Trump – dodges all calls",
         "summary": "Donald Trump has tried in every possible and impossible way to get in contact with Kim Jong-Un. The North Korean dictator responds with silence. Meanwhile, he is expanding his nuclear arsenal."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T04:41:25+01:00"
-      }
-    },
-    {
-      "id": "75be5c543e23",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/ministern-skulle-fa-sparken-da-donerade-han-250-miljoner",
-      "guid": "https://www.expressen.se/nyheter/varlden/ministern-skulle-fa-sparken-da-donerade-han-250-miljoner/",
-      "published_at": "2026-11-23T03:14:20+01:00",
-      "fetched_at": "2026-11-23T04:41:19+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ministern skulle få sparken – då ”donerade” han 250 miljoner",
-        "summary": "USA:s handelsminister Howard Lutnick var på väg att få sparken av Donald Trump. Då donerade han 250 miljoner kronor till Trumps presidentbibliotek. Han fick behålla jobbet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Minister was about to be fired – then \"donated\" 250 million",
-        "summary": "US Commerce Secretary Howard Lutnick was about to be fired by Donald Trump. He then donated SEK 250 million to Trump's presidential library. He kept his job."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T04:41:25+01:00"
-      }
-    },
-    {
-      "id": "d655deb42a93",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347975",
-      "guid": "rss:sr.se/article/9347975",
-      "published_at": "2026-11-23T02:52:00+01:00",
-      "fetched_at": "2026-11-23T04:41:17+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Dödssiffran efter ryska attacken stiger till tolv",
-        "summary": "Dödssiffran efter de ryska attackerna mot Kyjivregionen natten till söndag har nu stigit till tolv personer, enligt ukrainska myndigheter. Ett femvåningshus kollapsade delvis och minst nio personer har hittats döda i rasmassorna. Räddningspersonal söker fortfarande efter överlevande.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Death toll from Russian attack rises to twelve",
-        "summary": "The death toll from the Russian attacks on the Kyiv region overnight Sunday has now risen to twelve people, according to Ukrainian authorities. A five-storey building partially collapsed and at least nine people have been found dead in the rubble. Rescue workers are still searching for survivors."
       },
       "translation": {
         "status": "done",

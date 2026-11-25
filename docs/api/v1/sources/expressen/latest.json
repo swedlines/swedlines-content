@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T06:05:23+01:00",
+  "generated_at": "2026-11-25T06:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d265c9d76e21",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-krigsdrag-efter-putins-hamndord",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-krigsdrag-efter-putins-hamndord",
+      "published_at": "2026-11-25T06:10:24+01:00",
+      "fetched_at": "2026-11-25T06:15:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Krigsdraget mot Putin",
+        "summary": "Zelenskyjs dubbelslag i natt – timmar efter ryska hämndlöftet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The war gambit against Putin",
+        "summary": "Zelenskyy's double blow overnight – hours after the Russian revenge pledge"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T06:15:53+01:00"
+      }
+    },
     {
       "id": "132f5551f1ea",
       "schema_version": 1,
@@ -5164,32 +5190,6 @@
       "en": {
         "title": "\"Babyface\" back – 15 years after the terror",
         "summary": "The serial rapist \"Babyface\", 33, has been remanded in custody for a new rape. Just over 15 years ago he spread terror in Göteborg after a wave of attacks on women in their homes. His childlike appearance stood out and gave him his nickname."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T14:45:52+01:00"
-      }
-    },
-    {
-      "id": "82d8d369a217",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2ccabb23-35b7-43ab-bb0c-1c28b5aeae25",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2ccabb23-35b7-43ab-bb0c-1c28b5aeae25",
-      "published_at": "2026-11-21T14:33:17+01:00",
-      "fetched_at": "2026-11-21T14:45:47+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "Färjor ställs in",
-        "summary": "Orsaken: Hårt väder",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ferries cancelled",
-        "summary": "Reason: Severe weather"
       },
       "translation": {
         "status": "done",
