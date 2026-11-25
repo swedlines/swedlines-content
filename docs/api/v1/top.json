@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:31:19+01:00",
+  "generated_at": "2026-11-25T16:46:01+01:00",
   "count": 30,
   "stories": [
     {
@@ -1905,6 +1905,77 @@
       ]
     },
     {
+      "id": "fb7e85ab927f",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-25T16:06:53+01:00",
+      "last_published_at": "2026-11-25T16:42:44+01:00",
+      "lead": {
+        "id": "fb7e85ab927f",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80307",
+        "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80307&utm_medium=rss",
+        "published_at": "2026-11-25T16:06:53+01:00",
+        "fetched_at": "2026-11-25T16:15:47+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Kristersson: M, KD, L och C förhandlar"
+        },
+        "en": {
+          "title": "Kristersson: M, KD, L and C are negotiating"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T16:15:54+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "db6c39d76e97",
+          "source": "svd",
+          "url": "https://www.svd.se/a/530xBz/kristersson-sker-forhandlingar-absolut",
+          "published_at": "2026-11-25T16:42:44+01:00",
+          "sv": {
+            "title": "Kristersson: Sker förhandlingar - absolut"
+          },
+          "en": {
+            "title": "Kristersson: Negotiations are happening - absolutely"
+          }
+        },
+        {
+          "id": "ba8fc288a8ff",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/qOL01w/kristersson-sker-forhandlingar-absolut",
+          "published_at": "2026-11-25T16:42:43+01:00",
+          "sv": {
+            "title": "Kristersson: Sker förhandlingar - absolut"
+          },
+          "en": {
+            "title": "Kristersson: Negotiations are happening - absolutely"
+          }
+        },
+        {
+          "id": "fb7e85ab927f",
+          "source": "svd",
+          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80307",
+          "published_at": "2026-11-25T16:06:53+01:00",
+          "sv": {
+            "title": "Kristersson: M, KD, L och C förhandlar"
+          },
+          "en": {
+            "title": "Kristersson: M, KD, L and C are negotiating"
+          }
+        }
+      ]
+    },
+    {
       "id": "dc217622888a",
       "source_count": 2,
       "sources": [
@@ -2538,68 +2609,6 @@
           },
           "en": {
             "title": "New EU criticism of Swedish wolf policy"
-          }
-        }
-      ]
-    },
-    {
-      "id": "2db785a4a631",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svt"
-      ],
-      "first_published_at": "2026-11-25T11:27:27+01:00",
-      "last_published_at": "2026-11-25T11:42:41+01:00",
-      "lead": {
-        "id": "2db785a4a631",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/Jno0J7/puigdemont-atervander-till-katalonien",
-        "guid": "https://www.aftonbladet.se/nyheter/a/Jno0J7/puigdemont-atervander-till-katalonien?utm_medium=rss",
-        "published_at": "2026-11-25T11:27:27+01:00",
-        "fetched_at": "2026-11-25T11:31:08+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Puigdemont återvänder till Katalonien",
-          "summary": "Den katalanske separatistledaren Carles Puigdemont meddelar att han kommer att återvända till…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Puigdemont returns to Catalonia",
-          "summary": "Catalan separatist leader Carles Puigdemont announces that he will return to…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T11:31:23+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "13039b2744a6",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/utrikes/puigdemont-atervander-till-katalonien",
-          "published_at": "2026-11-25T11:42:41+01:00",
-          "sv": {
-            "title": "Puigdemont återvänder till Katalonien"
-          },
-          "en": {
-            "title": "Puigdemont returns to Catalonia"
-          }
-        },
-        {
-          "id": "2db785a4a631",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Jno0J7/puigdemont-atervander-till-katalonien",
-          "published_at": "2026-11-25T11:27:27+01:00",
-          "sv": {
-            "title": "Puigdemont återvänder till Katalonien"
-          },
-          "en": {
-            "title": "Puigdemont returns to Catalonia"
           }
         }
       ]

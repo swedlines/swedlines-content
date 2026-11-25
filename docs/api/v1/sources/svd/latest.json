@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T16:31:19+01:00",
+  "generated_at": "2026-11-25T16:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "db6c39d76e97",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/530xBz/kristersson-sker-forhandlingar-absolut",
+      "guid": "https://www.svd.se/a/530xBz/kristersson-sker-forhandlingar-absolut?utm_medium=rss",
+      "published_at": "2026-11-25T16:42:44+01:00",
+      "fetched_at": "2026-11-25T16:45:48+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/0a08a2d8-61c7-3e35-9bd0-4a22bf101cdd?format=auto&s=19c4a3e1183056b530c2300ed30f55fead694dcd&w=1000",
+      "sv": {
+        "title": "Kristersson: Sker förhandlingar - absolut",
+        "summary": "Moderatledaren Ulf Kristersson har några dagar på sig att övertyga Centerpartiet om att gå högerut.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson: Negotiations are happening - absolutely",
+        "summary": "Moderate leader Ulf Kristersson (M) has a few days to convince the Centre Party (C) to move to the right."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T16:45:57+01:00"
+      }
+    },
     {
       "id": "d422c2fdbc7d",
       "schema_version": 1,
@@ -5235,29 +5262,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T18:01:21+01:00"
-      }
-    },
-    {
-      "id": "8c160dd620c5",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80184",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80184&utm_medium=rss",
-      "published_at": "2026-11-22T15:27:48+01:00",
-      "fetched_at": "2026-11-22T15:31:05+01:00",
-      "category": "world",
-      "sv": {
-        "title": "FN-basen om klimatfloppen: ”Djupt besviken”"
-      },
-      "en": {
-        "title": "UN base on climate flops: \"Deeply disappointed\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:31:11+01:00"
       }
     }
   ]

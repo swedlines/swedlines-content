@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-25T16:31:19+01:00",
+  "generated_at": "2026-11-25T16:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4c2934b1fa5c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/usa-s-tullhot-kan-bli-20-procent-for-eu",
+      "guid": "1c1f1002-d99b-4934-b8eb-6ac903da0e0d",
+      "published_at": "2026-11-25T16:41:33+01:00",
+      "fetched_at": "2026-11-25T16:45:52+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/bf2d6822-d666-49b8-8c54-567c6f56aa7a.jpeg?width=600",
+      "sv": {
+        "title": "USA:s tullhot: Kan bli 20 procent för EU",
+        "summary": "De flesta varor från EU får en tull på 15 procent, i det nya förslaget från USA:s handelsrepresentant. Men administrationen hotar samtidigt med 20-procentiga tullar, om EU:s åtgärder inte lever upp till USA:s förväntningar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "US tariff threat: Could rise to 20 percent for the EU",
+        "summary": "Most goods from the EU would face a 15 percent tariff under the new proposal from the US trade representative. But the administration is also threatening 20 percent tariffs if the EU's measures do not meet US expectations."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T16:45:57+01:00"
+      }
+    },
+    {
+      "id": "9bb613d8da7d",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/experten-om-borsnedgangen-marknaden-mar-inte-bra",
+      "guid": "https://www.dn.se/ekonomi/experten-om-borsnedgangen-marknaden-mar-inte-bra/",
+      "published_at": "2026-11-25T16:37:28+01:00",
+      "fetched_at": "2026-11-25T16:45:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f81d17bf-39a2-448b-812b-298361d3edea.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Experten om börsnedgången: ”Marknaden mår inte bra”",
+        "summary": "USA-börserna faller tungt i onsdagshandeln. Inflationen fortsätter att stiga samtidigt som Donald Trump vill införa nya tullar mot omvärlden igen och AI-sektorn fortsätter att pressas.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Expert on the stock market decline: \"The market is not doing well\"",
+        "summary": "US stock exchanges are falling sharply in Wednesday trading. Inflation continues to rise while Donald Trump again wants to introduce new tariffs against the rest of the world and the AI sector continues to be pressured."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T16:45:57+01:00"
+      }
+    },
     {
       "id": "0563de0aad4d",
       "schema_version": 1,
@@ -5251,60 +5305,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T18:15:57+01:00"
-      }
-    },
-    {
-      "id": "2cf1b7885541",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/nya-arctic-chefens-kanga-mot-dnb-carnegie",
-      "guid": "95dcc6fc-7be3-4c33-819b-440a70450a22",
-      "published_at": "2026-11-24T17:57:43+01:00",
-      "fetched_at": "2026-11-24T18:15:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/f70707d9-7d03-496b-9db6-59e15774e741.png?width=600",
-      "sv": {
-        "title": "Nya Arctic-chefens känga mot DNB Carnegie",
-        "summary": "Den norska finansfirman Arctic fortsätter satsa i Sverige och nu har den nya landschefen från konkurrenten DNB Carnegie börjat, med höga rekryteringsambitioner.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "New Arctic chief's jab at DNB Carnegie",
-        "summary": "The Norwegian financial firm Arctic continues to invest in Sweden, and now its new country head, who came from rival DNB Carnegie, has started with high recruitment ambitions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T18:15:57+01:00"
-      }
-    },
-    {
-      "id": "0342affb4212",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/xi-rensar-ut-potentiell-eftertradare-utreds",
-      "guid": "ea463d1b-2f79-4463-8312-8d8e8135bd80",
-      "published_at": "2026-11-24T17:47:21+01:00",
-      "fetched_at": "2026-11-24T18:01:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3958fa48-ba8b-4148-8381-31fcf064ed91.jpeg?width=600",
-      "sv": {
-        "title": "Xi rensar ut – potentiell efterträdare utreds",
-        "summary": "Kinas ledare Xi Jinping har slagit till mot en fjärde medlem av kommunistpartiets politbyrå på mindre än två år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Xi purges – potential successor under investigation",
-        "summary": "China's leader Xi Jinping has moved against a fourth member of the Communist Party's Politburo in less than two years."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T18:01:28+01:00"
       }
     }
   ]

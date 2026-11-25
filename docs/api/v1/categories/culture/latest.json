@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T16:31:19+01:00",
+  "generated_at": "2026-11-25T16:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "883ac2239d43",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/mycket-skickligt-om-en-forsupen-bohem-och-romantiker",
+      "guid": "https://www.dn.se/kultur/mycket-skickligt-om-en-forsupen-bohem-och-romantiker/",
+      "published_at": "2026-11-25T16:39:03+01:00",
+      "fetched_at": "2026-11-25T16:45:48+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/c1be1674-be09-4fcf-989f-3d309299fe2d.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Mycket skickligt om en försupen bohem och romantiker",
+        "summary": "Tomas Espedals ”Lust” är en tvådelad skildring av liv och läsande. Rebecka Kärde har läst en bohemisk existensestetiker.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Very skilful about a drunken bohemian and romantic",
+        "summary": "Tomas Espedal's \"Lust\" is a two-part portrayal of life and reading. Rebecka Kärde has read a bohemian existential aesthetics."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T16:45:57+01:00"
+      }
+    },
     {
       "id": "f56a7b681827",
       "schema_version": 1,
@@ -5690,32 +5717,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T20:31:10+01:00"
-      }
-    },
-    {
-      "id": "a85e23cdb9c8",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/saljer-tom-playstation-kartong-for-tusentals-kronor",
-      "guid": "https://www.expressen.se/nyheter/sverige/saljer-tom-playstation-kartong-for-tusentals-kronor/",
-      "published_at": "2026-11-21T20:05:39+01:00",
-      "fetched_at": "2026-11-21T20:15:45+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Säljer tom Playstation-kartong – för tusentals kronor",
-        "summary": "Efterfrågan på Playstation 5-konsoler är enorm. På Tradera säljs nu en tom kartong för minst 3 800 kronor. ”Obs bara kartong ingår ej PS5 konsolen bara lådan”, står det i annonsen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Empty Playstation box sold for thousands of kronor",
-        "summary": "Demand for Playstation 5 consoles is enormous. An empty box is now being sold on Tradera for at least SEK 3,800. \"Note only the box is included, not the PS5 console, just the box\", the advert says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T20:15:50+01:00"
       }
     }
   ]
