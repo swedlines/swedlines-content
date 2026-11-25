@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T12:31:16+01:00",
+  "generated_at": "2026-11-25T12:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2b6f70b17fbe",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/8Pm2EE/domare-mygelatal-mot-netanyahu-bor-stoppas",
+      "guid": "https://www.aftonbladet.se/nyheter/a/8Pm2EE/domare-mygelatal-mot-netanyahu-bor-stoppas?utm_medium=rss",
+      "published_at": "2026-11-25T12:35:57+01:00",
+      "fetched_at": "2026-11-25T12:45:50+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/f9eabfc5-7a02-3553-ba5a-13182740d79e?format=auto&s=35ccba9e5b2a31a6c7c2b7c1abbfca513850da00&w=1000",
+      "sv": {
+        "title": "Domare: Mygelåtal mot Netanyahu bör stoppas",
+        "summary": "Det största korruptionsfallet mot Israels premiärminister Benjamin Netanyahu bör läggas ned.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Judge: Charges against Netanyahu over bribery should be stopped",
+        "summary": "The largest corruption case against Israeli Prime Minister Benjamin Netanyahu should be dropped."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T12:45:58+01:00"
+      }
+    },
     {
       "id": "9a82b026d1eb",
       "schema_version": 1,
@@ -5344,33 +5371,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T17:15:59+01:00"
-      }
-    },
-    {
-      "id": "dc0b8cfed8a6",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/bk52Wk/starka-reaktioner-efter-kollapsade-forhandlingar-pa-cop31",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/bk52Wk/starka-reaktioner-efter-kollapsade-forhandlingar-pa-cop31?utm_medium=rss",
-      "published_at": "2026-11-22T17:08:39+01:00",
-      "fetched_at": "2026-11-22T17:31:00+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/87c36dc3-10a6-3031-8517-6a61e81e1c82?format=auto&s=23dbd2126a0e2195494b5e37742aa4d5241c4484&w=1000",
-      "sv": {
-        "title": "Reaktionerna efter COP31: ”Måste ske nu”",
-        "summary": "Anklagelsen efter klimatkollapsen",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reactions after COP31: \"Must happen now\"",
-        "summary": "Accusation after the climate collapse"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T17:31:08+01:00"
       }
     }
   ]
