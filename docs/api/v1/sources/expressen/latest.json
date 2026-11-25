@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T20:37:11+01:00",
+  "generated_at": "2026-11-25T20:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bdb3cf6fd03d",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7ce70074-ea49-4782-b256-c5b424a4d76b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7ce70074-ea49-4782-b256-c5b424a4d76b",
+      "published_at": "2026-11-25T20:41:35+01:00",
+      "fetched_at": "2026-11-25T20:45:48+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "V-toppens vädjan till C",
+        "summary": "Gabrielsson: ”Finns inga andra lösningar”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Left Party leadership's appeal to C",
+        "summary": "Gabrielsson: \"There are no other solutions\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:45:52+01:00"
+      }
+    },
     {
       "id": "a2c43b24702e",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T15:29:12+01:00"
-      }
-    },
-    {
-      "id": "f62b8ef1db42",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=6f761836-7d21-4ba3-974d-a5b79bd6bdc3",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6f761836-7d21-4ba3-974d-a5b79bd6bdc3",
-      "published_at": "2026-11-22T15:06:52+01:00",
-      "fetched_at": "2026-11-22T15:15:44+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "SMHI utökar varning för snö",
-        "summary": "Kraftiga snöbyar drar in",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "SMHI expands snow warning",
-        "summary": "Heavy snow showers are moving in"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:15:59+01:00"
       }
     }
   ]

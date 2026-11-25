@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T20:37:11+01:00",
+  "generated_at": "2026-11-25T20:45:55+01:00",
   "count": 30,
   "stories": [
     {
@@ -1187,6 +1187,93 @@
       ]
     },
     {
+      "id": "dc217622888a",
+      "source_count": 3,
+      "sources": [
+        "expressen",
+        "svd",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-25T15:40:53+01:00",
+      "last_published_at": "2026-11-25T20:43:01+01:00",
+      "lead": {
+        "id": "dc217622888a",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/okat-stod-for-hogersvang-i-centerpartiet",
+        "guid": "https://www.expressen.se/nyheter/politik/okat-stod-for-hogersvang-i-centerpartiet/",
+        "published_at": "2026-11-25T15:40:53+01:00",
+        "fetched_at": "2026-11-25T15:45:47+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Ökat stöd för högersväng i Centerpartiet",
+          "summary": "Centern står inför ett uppslitande vägval – där allt fler börjar luta högerut. Många drar paralleller till tidigare jobbiga processer som partiet tagit sig genom. – Jag tror att fler i Centerpartiet vill vara med och ta ansvar i knepiga lägen än de som inte vill det, säger en C-källa.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Increased support for a rightward turn in the Centre Party",
+          "summary": "The Centre Party faces an agonising choice, with more and more members leaning to the right. Many draw parallels to earlier difficult processes the party has been through. – I think more people in the Centre Party want to take responsibility in tricky situations than those who don't, says a C source."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T15:46:04+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "77d9a191f387",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/ARdoV3/41-centerpartister-prova-kristerssons-paket",
+          "published_at": "2026-11-25T20:43:01+01:00",
+          "sv": {
+            "title": "41 centerpartister: Pröva Kristerssons paket"
+          },
+          "en": {
+            "title": "41 Centre Party members: Try Kristersson's package"
+          }
+        },
+        {
+          "id": "a2c43b24702e",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/41-centerpartister-oppnar-for-kristersson",
+          "published_at": "2026-11-25T20:33:20+01:00",
+          "sv": {
+            "title": "41 centerpartister öppnar för Kristersson"
+          },
+          "en": {
+            "title": "41 Centre Party members open the door to Kristersson"
+          }
+        },
+        {
+          "id": "d422c2fdbc7d",
+          "source": "svd",
+          "url": "https://www.svd.se/a/0vn1mo/intern-spricka-i-centerpartiet-nytt-forslag-i-regeringsfragan-lanseras",
+          "published_at": "2026-11-25T16:18:29+01:00",
+          "sv": {
+            "title": "Interna C-sprickan – vill stoppa högersväng"
+          },
+          "en": {
+            "title": "Internal Centre Party rift – wants to stop the rightward turn"
+          }
+        },
+        {
+          "id": "dc217622888a",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/okat-stod-for-hogersvang-i-centerpartiet",
+          "published_at": "2026-11-25T15:40:53+01:00",
+          "sv": {
+            "title": "Ökat stöd för högersväng i Centerpartiet"
+          },
+          "en": {
+            "title": "Increased support for a rightward turn in the Centre Party"
+          }
+        }
+      ]
+    },
+    {
       "id": "77d6c7ab480d",
       "source_count": 3,
       "sources": [
@@ -1830,80 +1917,6 @@
           },
           "en": {
             "title": "Tidal bans AI-generated music"
-          }
-        }
-      ]
-    },
-    {
-      "id": "dc217622888a",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "svd"
-      ],
-      "first_published_at": "2026-11-25T15:40:53+01:00",
-      "last_published_at": "2026-11-25T20:33:20+01:00",
-      "lead": {
-        "id": "dc217622888a",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/okat-stod-for-hogersvang-i-centerpartiet",
-        "guid": "https://www.expressen.se/nyheter/politik/okat-stod-for-hogersvang-i-centerpartiet/",
-        "published_at": "2026-11-25T15:40:53+01:00",
-        "fetched_at": "2026-11-25T15:45:47+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Ökat stöd för högersväng i Centerpartiet",
-          "summary": "Centern står inför ett uppslitande vägval – där allt fler börjar luta högerut. Många drar paralleller till tidigare jobbiga processer som partiet tagit sig genom. – Jag tror att fler i Centerpartiet vill vara med och ta ansvar i knepiga lägen än de som inte vill det, säger en C-källa.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Increased support for a rightward turn in the Centre Party",
-          "summary": "The Centre Party faces an agonising choice, with more and more members leaning to the right. Many draw parallels to earlier difficult processes the party has been through. – I think more people in the Centre Party want to take responsibility in tricky situations than those who don't, says a C source."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T15:46:04+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "a2c43b24702e",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/41-centerpartister-oppnar-for-kristersson",
-          "published_at": "2026-11-25T20:33:20+01:00",
-          "sv": {
-            "title": "41 centerpartister öppnar för Kristersson"
-          },
-          "en": {
-            "title": "41 Centre Party members open the door to Kristersson"
-          }
-        },
-        {
-          "id": "d422c2fdbc7d",
-          "source": "svd",
-          "url": "https://www.svd.se/a/0vn1mo/intern-spricka-i-centerpartiet-nytt-forslag-i-regeringsfragan-lanseras",
-          "published_at": "2026-11-25T16:18:29+01:00",
-          "sv": {
-            "title": "Interna C-sprickan – vill stoppa högersväng"
-          },
-          "en": {
-            "title": "Internal Centre Party rift – wants to stop the rightward turn"
-          }
-        },
-        {
-          "id": "dc217622888a",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/okat-stod-for-hogersvang-i-centerpartiet",
-          "published_at": "2026-11-25T15:40:53+01:00",
-          "sv": {
-            "title": "Ökat stöd för högersväng i Centerpartiet"
-          },
-          "en": {
-            "title": "Increased support for a rightward turn in the Centre Party"
           }
         }
       ]
