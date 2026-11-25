@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T12:46:01+01:00",
+  "generated_at": "2026-11-25T13:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fa6216f43021",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/anteckningsbok-avslojade-hemliga-straffmetoderna-pa-skolan-i-sigtuna",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/anteckningsbok-avslojade-hemliga-straffmetoderna-pa-skolan-i-sigtuna",
+      "published_at": "2026-11-25T12:51:01+01:00",
+      "fetched_at": "2026-11-25T13:01:12+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Anteckningsbok avslöjade hemliga straffmetoderna på skolan i Sigtuna",
+        "summary": "En natt med ”tortyrliknande” övergrepp får en elev på internatet i Sigtuna att gå till skolledningen. Polisutredningen som följer avslöjar till synes hemliga straffmetoder och en nedärvd våldskultur.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Notebook revealed secret punishment methods at school in Sigtuna",
+        "summary": "A night of \"torture-like\" abuse leads a pupil at the boarding school in Sigtuna to go to the school management. The police investigation that follows reveals seemingly secret punishment methods and an inherited culture of violence."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T13:01:21+01:00"
+      }
+    },
     {
       "id": "b25bd2b30e66",
       "schema_version": 1,
@@ -5391,32 +5417,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T17:01:35+01:00"
-      }
-    },
-    {
-      "id": "6cf398bae0fb",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/JnowV6/polisen-utreder-misstankt-dataintrang-hos-taxibolag",
-      "guid": "https://www.svd.se/a/JnowV6/polisen-utreder-misstankt-dataintrang-hos-taxibolag?utm_medium=rss",
-      "published_at": "2026-11-20T16:20:46+01:00",
-      "fetched_at": "2026-11-20T16:31:04+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisen utreder misstänkt dataintrång hos taxibolag",
-        "summary": "Polisen utreder ett misstänkt dataintrång mot taxibolag. Enligt uppgifter till TT rör intrånget…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police investigate suspected data breach at taxi company",
-        "summary": "Police are investigating a suspected data breach at a taxi company. According to information to TT, the breach concerns…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:31:12+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T12:46:01+01:00",
+  "generated_at": "2026-11-25T13:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "77d6c7ab480d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdPW9o/migranter-overvaldigar-lilla-kanarieon",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdPW9o/migranter-overvaldigar-lilla-kanarieon?utm_medium=rss",
+      "published_at": "2026-11-25T12:58:23+01:00",
+      "fetched_at": "2026-11-25T13:01:14+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/f2f883fd-c9d5-3d55-a32a-043c70928ed5?format=auto&s=aeb77c8b1f1900cc23edd4aa2e65f61ee3871c83&w=1000",
+      "sv": {
+        "title": "Migranter överväldigar lilla kanarieön",
+        "summary": "En glesbefolkad liten kanarieö har tagit emot tusentals migrerande människor på kort tid.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Migrants overwhelm small Canary island",
+        "summary": "A sparsely populated small Canary island has received thousands of migrants in a short time."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T13:01:21+01:00"
+      }
+    },
     {
       "id": "2b6f70b17fbe",
       "schema_version": 1,
@@ -5344,33 +5371,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T17:31:08+01:00"
-      }
-    },
-    {
-      "id": "7972dbd19e4d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/XogALo/vaxande-spricka-i-c-om-regeringsval",
-      "guid": "https://www.aftonbladet.se/nyheter/a/XogALo/vaxande-spricka-i-c-om-regeringsval?utm_medium=rss",
-      "published_at": "2026-11-22T17:13:32+01:00",
-      "fetched_at": "2026-11-22T17:15:46+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/e771a023-648d-3446-b16e-28f50214b424?format=auto&s=69c7f44644eab0fe05ee8d43995299cac364f716&w=1000",
-      "sv": {
-        "title": "Växande spricka i C om regeringsval",
-        "summary": "Sprickan i Centerpartiet om regeringsfrågan växer och skapar oro. – Det är olyckligt att vi nu har…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Growing rift in C over government question",
-        "summary": "The rift in the Centre Party over the government question is growing and causing concern. – It is unfortunate that we now have…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T17:15:59+01:00"
       }
     }
   ]

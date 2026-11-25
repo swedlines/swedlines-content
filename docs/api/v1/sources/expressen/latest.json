@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T12:46:01+01:00",
+  "generated_at": "2026-11-25T13:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1269a8be2aec",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/sabunis-rad-till-c-det-slet-sonder-oss",
+      "guid": "https://www.expressen.se/nyheter/politik/sabunis-rad-till-c-det-slet-sonder-oss/",
+      "published_at": "2026-11-25T12:44:05+01:00",
+      "fetched_at": "2026-11-25T13:01:15+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Sabunis råd till C: Det slet sönder oss",
+        "summary": "Liberalernas tidigare partiledare Nyamko Sabuni varnar C för en uppslitande intern process i regeringsfrågan. ”Det blev en av de mest plågsamma erfarenheterna under mitt politiska liv”, skriver hon på Expressen debatt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sabuni's advice to C: It tore us apart",
+        "summary": "Former Liberals leader Nyamko Sabuni warns the Centre Party of a draining internal process over the government question. \"It became one of the most painful experiences of my political life,\" she writes in an Expressen debate article."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T13:01:21+01:00"
+      }
+    },
     {
       "id": "0ce526ee4caf",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T23:31:02+01:00"
-      }
-    },
-    {
-      "id": "81bac667c218",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/pappan-fick-nog-sonen-ska-vrakas",
-      "guid": "https://www.expressen.se/nyheter/sverige/pappan-fick-nog-sonen-ska-vrakas/",
-      "published_at": "2026-11-21T22:36:14+01:00",
-      "fetched_at": "2026-11-21T22:45:49+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Pappan fick nog – sonen ska vräkas",
-        "summary": "En Uppsalapappa tröttnade på sin son – och drog honom till domstol. Nu ska sonen vräkas, skriver Hem & Hyra.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dad had enough – son to be evicted",
-        "summary": "An Uppsala father grew tired of his son – and took him to court. Now the son is to be evicted, Hem & Hyra writes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T22:45:53+01:00"
       }
     }
   ]
