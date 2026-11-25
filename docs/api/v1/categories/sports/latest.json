@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T21:16:09+01:00",
+  "generated_at": "2026-11-25T21:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "641401af237a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/fotboll/alexander-isak-slar-till-i-champions-league",
+      "guid": "https://www.svt.se/sport/fotboll/alexander-isak-slar-till-i-champions-league",
+      "published_at": "2026-11-25T21:15:29+01:00",
+      "fetched_at": "2026-11-25T21:31:03+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Alexander Isak slår till i Champions League",
+        "summary": "Alexander Isak, 27, är stekhet. Anfallsstjärnan gav Liverpool ledningen borta mot Club Brügge i Champions League.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alexander Isak strikes in Champions League",
+        "summary": "Alexander Isak, 27, is on fire. The striker gave Liverpool the lead away to Club Brügge in the Champions League."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:31:12+01:00"
+      }
+    },
     {
       "id": "5fc8aa7edbac",
       "schema_version": 1,
@@ -5556,33 +5582,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T23:01:22+01:00"
-      }
-    },
-    {
-      "id": "a4e383cada34",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/finsk-tango-sa-dansade-redhawks-hem-derbyt",
-      "guid": "40320185-a207-40fa-8b33-06895d0d43fc",
-      "published_at": "2026-11-19T22:03:22+01:00",
-      "fetched_at": "2026-11-19T22:15:51+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/26a602d6-35dd-4c8f-9dfa-fb634507934e.jpeg?width=600",
-      "sv": {
-        "title": "Finsk tango – så dansade Redhawks hem derbyt",
-        "summary": "Lekstuga av Janne Kuokkanen och ett dunderskott av Oliwer Kaski i förlängningen. Det var avslutningen på ett rivigt Skånederby mot Rögle, 3–2.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Finnish tango – how Redhawks danced home the derby",
-        "summary": "A playground goal by Janne Kuokkanen and a thundering shot by Oliwer Kaski in overtime. It was the finish of a fierce Skåne derby against Rögle, 3–2."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T22:15:56+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T21:16:09+01:00",
+  "generated_at": "2026-11-25T21:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "641401af237a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/fotboll/alexander-isak-slar-till-i-champions-league",
+      "guid": "https://www.svt.se/sport/fotboll/alexander-isak-slar-till-i-champions-league",
+      "published_at": "2026-11-25T21:15:29+01:00",
+      "fetched_at": "2026-11-25T21:31:03+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Alexander Isak slår till i Champions League",
+        "summary": "Alexander Isak, 27, är stekhet. Anfallsstjärnan gav Liverpool ledningen borta mot Club Brügge i Champions League.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alexander Isak strikes in Champions League",
+        "summary": "Alexander Isak, 27, is on fire. The striker gave Liverpool the lead away to Club Brügge in the Champions League."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:31:12+01:00"
+      }
+    },
     {
       "id": "a0263da2d383",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T05:45:48+01:00"
-      }
-    },
-    {
-      "id": "e8ec22e4b21e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/ishockey/farjestad-tog-15e-raka-segern-efter-kaxiga-draget",
-      "guid": "https://www.svt.se/sport/ishockey/farjestad-tog-15e-raka-segern-efter-kaxiga-draget",
-      "published_at": "2026-11-19T21:39:51+01:00",
-      "fetched_at": "2026-11-19T22:15:43+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Färjestad tog 15:e raka segern – efter kaxiga draget mot Frölunda",
-        "summary": "Färjestad ångar på. I och med segern mot Frölunda tangerade de ett 51 år gammalt rekord. Efter ett kaxigt drag i förlängningen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Färjestad take 15th straight win – after bold move against Frölunda",
-        "summary": "Färjestad keep rolling. With the win over Frölunda they equalled a 51-year-old record. After a bold move in overtime."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T22:15:56+01:00"
       }
     }
   ]
