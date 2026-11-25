@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-25T22:15:53+01:00",
+  "generated_at": "2026-11-25T22:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "74b17f2df6e4",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/ljusmanifestation-mot-kvinnovald-jag-ar-har-for-dem-som-inte-kan.a60a2522-3ca0-5e3a-b281-c89cc9205896",
+      "guid": "a60a2522-3ca0-5e3a-b281-c89cc9205896",
+      "published_at": "2026-11-25T21:55:42+01:00",
+      "fetched_at": "2026-11-25T22:31:07+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Göteborg",
+        "Tagg: Våldet mot kvinnor",
+        "Tagg: FN"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/4596c8db-e469-3d2b-96b4-403a6be4a374",
+      "sv": {
+        "title": "Manifestation mot våld mot kvinnor i Göteborg",
+        "summary": "På onsdagskvällen lyste Gustaf Adolfs torg upp av facklor för att uppmärksamma Orange Day och våldet mot kvinnor och flickor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Demonstration against violence against women in Göteborg",
+        "summary": "On Wednesday evening Gustaf Adolfs torg was lit up by torches to draw attention to Orange Day and violence against women and girls."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T22:31:14+01:00"
+      }
+    },
     {
       "id": "a0263da2d383",
       "schema_version": 1,
@@ -5428,33 +5462,6 @@
       "source": "aftonbladet",
       "url": "https://www.aftonbladet.se/nyheter/a/BrRBrQ/professorn-otydlig-skola-tvingar-fram-diagnoser",
       "guid": "https://www.aftonbladet.se/nyheter/a/BrRBrQ/professorn-otydlig-skola-tvingar-fram-diagnoser?utm_medium=rss",
-      "published_at": "2026-11-21T10:00:16+01:00",
-      "fetched_at": "2026-11-21T10:01:12+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/afc6e1f8-12f5-39e1-9f30-9468b0c258df?format=auto&s=ee8809410ab43c0ed4c77dfff1560fbbe2547e78&w=1000",
-      "sv": {
-        "title": "Professorn: Otydlig skola tvingar fram diagnoser",
-        "summary": "Det talas om en adhd-epidemi. Professor Sven Bölte ser en förändrad skola som ett av flera svar…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The professor: Unclear school forces diagnoses",
-        "summary": "There is talk of an ADHD epidemic. Professor Sven Bölte sees a changed school as one of several answers…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T10:01:26+01:00"
-      }
-    },
-    {
-      "id": "83eedc5752ed",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/VxbBxV/professorn-otydlig-skola-tvingar-fram-diagnoser",
-      "guid": "https://www.svd.se/a/VxbBxV/professorn-otydlig-skola-tvingar-fram-diagnoser?utm_medium=rss",
       "published_at": "2026-11-21T10:00:16+01:00",
       "fetched_at": "2026-11-21T10:01:12+01:00",
       "category": "sweden",

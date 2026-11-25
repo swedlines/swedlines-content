@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:15:53+01:00",
+  "generated_at": "2026-11-25T22:31:17+01:00",
   "count": 30,
   "stories": [
     {
@@ -1845,6 +1845,69 @@
       ]
     },
     {
+      "id": "7217c5420673",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "sr"
+      ],
+      "first_published_at": "2026-11-25T21:09:20+01:00",
+      "last_published_at": "2026-11-25T22:15:00+01:00",
+      "lead": {
+        "id": "7217c5420673",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/space-x-far-skjuta-upp-en-miljon-satelliter",
+        "guid": "ae43ec8e-38bb-45f5-8b56-4929f391f154",
+        "published_at": "2026-11-25T21:09:20+01:00",
+        "fetched_at": "2026-11-25T21:15:50+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/9ee108eb-67c7-42d3-b4e1-d009ed85fada.jpeg?width=600",
+        "sv": {
+          "title": "Space X får skjuta upp en miljon satelliter",
+          "summary": "Space X har fått tillstånd att skjuta upp en miljon satelliter för datacenter i omloppsbana runt jorden.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Space X gets to launch one million satellites",
+          "summary": "Space X has received permission to launch one million satellites for data centres in orbit around the Earth."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T21:16:02+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "429e54e0ce12",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9350317",
+          "published_at": "2026-11-25T22:15:00+01:00",
+          "sv": {
+            "title": "Elon Musks Space X får skjuta upp en miljon satelliter"
+          },
+          "en": {
+            "title": "Elon Musk's Space X allowed to launch one million satellites"
+          }
+        },
+        {
+          "id": "7217c5420673",
+          "source": "di",
+          "url": "https://www.di.se/live/space-x-far-skjuta-upp-en-miljon-satelliter",
+          "published_at": "2026-11-25T21:09:20+01:00",
+          "sv": {
+            "title": "Space X får skjuta upp en miljon satelliter"
+          },
+          "en": {
+            "title": "Space X gets to launch one million satellites"
+          }
+        }
+      ]
+    },
+    {
       "id": "75c4841be7db",
       "source_count": 2,
       "sources": [
@@ -2575,69 +2638,6 @@
           },
           "en": {
             "title": "Elgiganten stops electric shaver with hidden camera"
-          }
-        }
-      ]
-    },
-    {
-      "id": "62c6d15ed740",
-      "source_count": 2,
-      "sources": [
-        "dn",
-        "sr"
-      ],
-      "first_published_at": "2026-11-25T17:22:51+01:00",
-      "last_published_at": "2026-11-25T18:18:00+01:00",
-      "lead": {
-        "id": "62c6d15ed740",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/sverige/kristersson-samtal-fors-med-allianspartierna",
-        "guid": "https://www.dn.se/sverige/kristersson-samtal-fors-med-allianspartierna/",
-        "published_at": "2026-11-25T17:22:51+01:00",
-        "fetched_at": "2026-11-25T17:31:04+01:00",
-        "category": "politics",
-        "image_url": "https://static.bonniernews.se/ba/31816008-a9dd-4da5-b9e3-961a06e958a9.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Kristersson: Samtal förs med Allianspartierna",
-          "summary": "C, KD, L och M samtalar igen för att hitta gemensamma mål. Men enligt Ulf Kristersson (M) görs inga försök att locka Centern till att rösta grönt. – Jag tycker att alla partier ska ha en saklig grund för sitt ställningstagande, säger M-ledaren.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Kristersson: Talks held with the Alliance parties",
-          "summary": "C, KD, L and M are talking again to find common goals. But according to Ulf Kristersson (M), no attempts are being made to lure the Centre into voting green. – I think all parties should have a factual basis for their position, says the M leader."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T17:31:19+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "cee57301370e",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9349950",
-          "published_at": "2026-11-25T18:18:00+01:00",
-          "sv": {
-            "title": "Kristersson: Samtal pågår mellan gamla allianspartierna"
-          },
-          "en": {
-            "title": "Kristersson: Talks underway between former Alliance parties"
-          }
-        },
-        {
-          "id": "62c6d15ed740",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/kristersson-samtal-fors-med-allianspartierna",
-          "published_at": "2026-11-25T17:22:51+01:00",
-          "sv": {
-            "title": "Kristersson: Samtal förs med Allianspartierna"
-          },
-          "en": {
-            "title": "Kristersson: Talks held with the Alliance parties"
           }
         }
       ]

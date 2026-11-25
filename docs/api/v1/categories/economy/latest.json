@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T22:15:53+01:00",
+  "generated_at": "2026-11-25T22:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "38ddfab71722",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350144",
+      "guid": "rss:sr.se/article/9350144",
+      "published_at": "2026-11-25T22:27:00+01:00",
+      "fetched_at": "2026-11-25T22:31:03+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Tidal förbjuder AI-genererad musik – miljoner låtar tas bort",
+        "summary": "Norsk-amerikanska streamingtjänsten Tidal förbjuder helt AI-genererad musik från den 9 december. Enligt musikbranschforskaren Daniel Johansson vill bolaget stå på artisternas sida.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Tidal bans AI-generated music – millions of songs to be removed",
+        "summary": "The Norwegian-American streaming service Tidal completely bans AI-generated music from 9 December. According to music industry researcher Daniel Johansson, the company wants to stand on the side of artists."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T22:31:14+01:00"
+      }
+    },
     {
       "id": "f3816c420cb5",
       "schema_version": 1,
@@ -5272,33 +5298,6 @@
       },
       "en": {
         "title": "This is how much higher the ISK tax becomes",
-        "summary": "Next year the ISK tax is expected to reach a record high. For someone with savings of SEK 1 million, it means just over SEK 900 more than the previous year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T06:01:19+01:00"
-      }
-    },
-    {
-      "id": "ec13e73a9c6d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/klart-sa-mycket-hogre-blir-isk-skatten",
-      "guid": "ae20686f-1d23-44e5-ae56-6edd7dcc463e",
-      "published_at": "2026-11-25T05:53:17+01:00",
-      "fetched_at": "2026-11-25T06:01:12+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c921126e-4257-42cb-8c59-dd5802987a14.jpg?width=600",
-      "sv": {
-        "title": "Klart: Så mycket högre blir ISK-skatten",
-        "summary": "Nästa år väntas ISK-skatten bli rekordhög. För den med ett sparbelopp på 1 miljon kronor handlar det om drygt 900 kronor mer än föregående år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Confirmed: This is how much higher the ISK tax becomes",
         "summary": "Next year the ISK tax is expected to reach a record high. For someone with savings of SEK 1 million, it means just over SEK 900 more than the previous year."
       },
       "translation": {
