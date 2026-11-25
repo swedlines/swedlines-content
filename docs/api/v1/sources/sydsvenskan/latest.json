@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T13:06:23+01:00",
+  "generated_at": "2026-11-25T13:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4e4515ae86fd",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/migranter-overvaldigar-lilla-kanarieon",
+      "guid": "af3cd11c-fc9d-44ec-ab2a-2a404f6b1be5",
+      "published_at": "2026-11-25T13:14:40+01:00",
+      "fetched_at": "2026-11-25T13:15:49+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/c47a6cfc-6b28-46d3-bf3e-3980fc622ebd.jpg?width=600",
+      "sv": {
+        "title": "Migranter överväldigar lilla kanarieön",
+        "summary": "En glesbefolkad liten kanarieö har tagit emot tusentals migrerande människor på kort tid. Bara under tisdagen kom nästan 2 000 med båt till den spanska ögruppen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Migrants overwhelm small Canary Island",
+        "summary": "A sparsely populated small Canary island has received thousands of migrants in a short time. On Tuesday alone, nearly 2,000 arrived by boat to the Spanish archipelago."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T13:15:54+01:00"
+      }
+    },
     {
       "id": "27a675aec316",
       "schema_version": 1,
@@ -5160,33 +5187,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T06:56:30+01:00"
-      }
-    },
-    {
-      "id": "1a762263ff83",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/mysteriet-i-malmo-var-har-den-gamla-jesusstenen-tagit-vagen",
-      "guid": "06f53fb4-b582-4b44-8a46-16e61bcdfc20",
-      "published_at": "2026-11-23T06:00:00+01:00",
-      "fetched_at": "2026-11-23T06:56:03+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/7379b51d-86f2-4417-aa12-b086153d040d.png?width=600",
-      "sv": {
-        "title": "Mysteriet i Malmö: Vart har den gamla Jesusstenen tagit vägen?",
-        "summary": "Det känns som den alltid har legat där. Den har beskrivits som ”en naturlig del av stadsbilden”, ”självklar” och ”rätt så fin”. Nu är den spårlöst försvunnen och där den en gång vilade står en ny sten. Vad hände egentligen med den gamla Jesusstenen?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mystery in Malmö: Where has the old Jesus stone gone?",
-        "summary": "It feels as if it has always been there. It has been described as “a natural part of the cityscape”, “self-evident” and “quite nice”. Now it has vanished without a trace, and where it once rested stands a new stone. What actually happened to the old Jesus stone?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:44+01:00"
       }
     }
   ]

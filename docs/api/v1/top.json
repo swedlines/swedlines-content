@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:06:23+01:00",
+  "generated_at": "2026-11-25T13:15:56+01:00",
   "count": 30,
   "stories": [
     {
@@ -1653,6 +1653,69 @@
       ]
     },
     {
+      "id": "77d6c7ab480d",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-25T12:58:23+01:00",
+      "last_published_at": "2026-11-25T13:14:40+01:00",
+      "lead": {
+        "id": "77d6c7ab480d",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/wdPW9o/migranter-overvaldigar-lilla-kanarieon",
+        "guid": "https://www.aftonbladet.se/nyheter/a/wdPW9o/migranter-overvaldigar-lilla-kanarieon?utm_medium=rss",
+        "published_at": "2026-11-25T12:58:23+01:00",
+        "fetched_at": "2026-11-25T13:01:14+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/f2f883fd-c9d5-3d55-a32a-043c70928ed5?format=auto&s=aeb77c8b1f1900cc23edd4aa2e65f61ee3871c83&w=1000",
+        "sv": {
+          "title": "Migranter överväldigar lilla kanarieön",
+          "summary": "En glesbefolkad liten kanarieö har tagit emot tusentals migrerande människor på kort tid.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Migrants overwhelm small Canary island",
+          "summary": "A sparsely populated small Canary island has received thousands of migrants in a short time."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T13:01:21+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "4e4515ae86fd",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/migranter-overvaldigar-lilla-kanarieon",
+          "published_at": "2026-11-25T13:14:40+01:00",
+          "sv": {
+            "title": "Migranter överväldigar lilla kanarieön"
+          },
+          "en": {
+            "title": "Migrants overwhelm small Canary Island"
+          }
+        },
+        {
+          "id": "77d6c7ab480d",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/wdPW9o/migranter-overvaldigar-lilla-kanarieon",
+          "published_at": "2026-11-25T12:58:23+01:00",
+          "sv": {
+            "title": "Migranter överväldigar lilla kanarieön"
+          },
+          "en": {
+            "title": "Migrants overwhelm small Canary island"
+          }
+        }
+      ]
+    },
+    {
       "id": "f567947b823b",
       "source_count": 2,
       "sources": [
@@ -2422,69 +2485,6 @@
           },
           "en": {
             "title": "Magdalena Andersson (S) lashes out at the Left Party: \"Not moved an inch\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "e3c45bdb146d",
-      "source_count": 2,
-      "sources": [
-        "sydsvenskan",
-        "svt"
-      ],
-      "first_published_at": "2026-11-25T06:47:41+01:00",
-      "last_published_at": "2026-11-25T07:42:47+01:00",
-      "lead": {
-        "id": "e3c45bdb146d",
-        "schema_version": 1,
-        "source": "sydsvenskan",
-        "url": "https://www.sydsvenskan.se/noje/har-ar-artisterna-i-musikhjalpen",
-        "guid": "b7b6ccaf-4539-4f9d-8cac-d697cb8a8802",
-        "published_at": "2026-11-25T06:47:41+01:00",
-        "fetched_at": "2026-11-25T07:01:06+01:00",
-        "category": "culture",
-        "image_url": "https://static.bonniernews.se/ba/9df7f2db-2a37-466e-83d4-e600b91d3db6.jpg?width=600",
-        "sv": {
-          "title": "Här är artisterna i Musikhjälpen",
-          "summary": "Lars Winnerbäck, Bolaget och Miss Li. På måndag inleds Musikhjälpen i P3 och på SVT Play. Nu är det klart vilka artister som är med.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Here are the artists for Musikhjälpen",
-          "summary": "Lars Winnerbäck, Bolaget and Miss Li. On Monday Musikhjälpen starts on P3 and on SVT Play. Now it is confirmed which artists are taking part."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T07:01:10+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "2bad391903e3",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/ost/har-ar-artisterna-i-musikhjalpen-winnerback-bolaget-och-europe",
-          "published_at": "2026-11-25T07:42:47+01:00",
-          "sv": {
-            "title": "Här är artisterna i Musikhjälpen – Winnerbäck, Bolaget och Europe"
-          },
-          "en": {
-            "title": "Here are the artists at Musikhjälpen – Winnerbäck, Bolaget and Europe"
-          }
-        },
-        {
-          "id": "e3c45bdb146d",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/noje/har-ar-artisterna-i-musikhjalpen",
-          "published_at": "2026-11-25T06:47:41+01:00",
-          "sv": {
-            "title": "Här är artisterna i Musikhjälpen"
-          },
-          "en": {
-            "title": "Here are the artists for Musikhjälpen"
           }
         }
       ]
