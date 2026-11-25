@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T05:31:08+01:00",
+  "generated_at": "2026-11-25T05:46:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "004c3e5a8b4e",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349515",
+      "guid": "rss:sr.se/article/9349515",
+      "published_at": "2026-11-25T05:40:00+01:00",
+      "fetched_at": "2026-11-25T05:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Partierna slåss om unga väljare i avgörande Katalonien",
+        "summary": "Socialistpartiet och högernationella Vox slåss om unga väljare i Katalonien inför söndagens val i Spanien. Regionen har avgjort många val till socialisternas fördel. Vid ett möte i Barcelona hoppas Pedro Sánchez på högt valdeltagande.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Parties fight for young voters in decisive Catalonia",
+        "summary": "The Socialist Party and the far-right nationalist Vox are fighting for young voters in Catalonia ahead of Sunday's election in Spain. The region has decided many elections in the Socialists' favour. At a rally in Barcelona, Pedro Sánchez hopes for high turnout."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T05:46:04+01:00"
+      }
+    },
     {
       "id": "c22c8f3f2563",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T13:16:05+01:00"
-      }
-    },
-    {
-      "id": "f667ffc4e655",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346081",
-      "guid": "rss:sr.se/article/9346081",
-      "published_at": "2026-11-19T12:54:00+01:00",
-      "fetched_at": "2026-11-19T13:01:10+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Kärnstrand: Får Xi Jinping att framstå som en stor ledare",
-        "summary": "Mötet mellan Donald Trump, Vladimir Putin och Xi Jinping har avslutats. Moa Kärnstrand, vår Kinakorrespondent är på plats i Shenzhen där mötet genomförts.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kärnstrand: Makes Xi Jinping look like a great leader",
-        "summary": "The meeting between Donald Trump, Vladimir Putin and Xi Jinping has ended. Moa Kärnstrand, our China correspondent, is on site in Shenzhen where the meeting took place."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T13:01:19+01:00"
       }
     }
   ]

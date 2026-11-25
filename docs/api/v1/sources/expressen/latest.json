@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T05:31:08+01:00",
+  "generated_at": "2026-11-25T05:46:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c64c57cec7d2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/ny-matning-centerpartiet-backar-nara-sparren",
+      "guid": "https://www.expressen.se/nyheter/politik/ny-matning-centerpartiet-backar-nara-sparren/",
+      "published_at": "2026-11-25T05:32:55+01:00",
+      "fetched_at": "2026-11-25T05:45:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Ny mätning: Centerpartiet backar – nära spärren",
+        "summary": "Centerpartiet fortsätter backa och närmar sig riksdagsspärren. Stödet för partiet ligger nu på 4,8 procent, enligt en ny mätning från Indikator Opinion för Sveriges Radio Ekot. Samtidigt ökar Moderaterna med över fem procentenheter jämfört med valresultatet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New poll: Centre Party slips – close to the threshold",
+        "summary": "The Centre Party (C) continues to slip and is approaching the Riksdag threshold. Support for the party now stands at 4.8 percent, according to a new poll from Indikator Opinion for Sveriges Radio Ekot. Meanwhile, the Moderates are up by over five percentage points compared with the election result."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T05:46:04+01:00"
+      }
+    },
     {
       "id": "6fcf8295a92f",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T14:45:52+01:00"
-      }
-    },
-    {
-      "id": "8174077f8a45",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f759ba6e-acc8-4b11-8e6c-2da3a82fbe1f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f759ba6e-acc8-4b11-8e6c-2da3a82fbe1f",
-      "published_at": "2026-11-21T14:27:11+01:00",
-      "fetched_at": "2026-11-21T14:31:03+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Ida Gabrielsson slår tillbaka efter C-utspel: ”Finns många viljor”",
-        "summary": "Gabrielsson: ”Finns olika viljor i C”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ida Gabrielsson hits back at C statement: ”Many wills exist”",
-        "summary": "Gabrielsson: ”There are different wills in the Centre Party”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T14:31:14+01:00"
       }
     }
   ]

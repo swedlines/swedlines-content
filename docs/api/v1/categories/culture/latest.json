@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T05:31:08+01:00",
+  "generated_at": "2026-11-25T05:46:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f2c1a09f62e9",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/OypKA3/nathan-fielders-you-can-see-everything-lever-inte-upp-till-loftet",
+      "guid": "https://www.svd.se/a/OypKA3/nathan-fielders-you-can-see-everything-lever-inte-upp-till-loftet?utm_medium=rss",
+      "published_at": "2026-11-25T05:38:41+01:00",
+      "fetched_at": "2026-11-25T05:45:45+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/df987fe4-d79a-3ecc-a24d-f4f2ecb1673f?format=auto&s=abfe138b6137636d32ac2bd02801464b1d1e73a2&w=1000",
+      "sv": {
+        "title": "Hyllningskören har fel om Fielder",
+        "summary": "”You can see everything” har flera problem. Relationen till sanningen är inte ett av dem.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The choir of praise is wrong about Fielder",
+        "summary": "“You can see everything” has several problems. Its relationship to the truth is not one of them."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T05:46:04+01:00"
+      }
+    },
     {
       "id": "8871191d2ab1",
       "schema_version": 1,
@@ -5694,33 +5721,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T09:01:22+01:00"
-      }
-    },
-    {
-      "id": "2392e1979d7d",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/darfor-hyllas-alexander-skarsgards-stil-pa-roda-mattan",
-      "guid": "https://www.dn.se/kultur/darfor-hyllas-alexander-skarsgards-stil-pa-roda-mattan/",
-      "published_at": "2026-11-21T08:11:26+01:00",
-      "fetched_at": "2026-11-21T08:15:41+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/7de99418-0834-4311-9711-cc91cff1b770.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Därför hyllas Alexander Skarsgårds stil på röda mattan",
-        "summary": "Kilt, transparenta skor och glittrig Dior-topp. Med sina sprakande outfits har bioaktuella Alexander Skarsgård blivit ett självklart blickfång på röda mattan. I pressen och i sociala medier hyllas den svenska filmstjärnan, men vad är det som ligger bakom hans looks? DN:s Tara Moshizi reder ut.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Why Alexander Skarsgård's style is being praised on the red carpet",
-        "summary": "Kilt, transparent shoes and a sparkly Dior top. With his sparkling outfits, currently box-office-active Alexander Skarsgård has become an obvious eye-catcher on the red carpet. In the press and on social media the Swedish film star is being praised, but what lies behind his looks? DN's Tara Moshizi explains."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T08:15:48+01:00"
       }
     }
   ]
