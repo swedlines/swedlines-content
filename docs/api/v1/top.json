@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:15:56+01:00",
+  "generated_at": "2026-11-26T00:29:14+01:00",
   "count": 30,
   "stories": [
     {
@@ -771,6 +771,94 @@
       ]
     },
     {
+      "id": "708d2cc028e2",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svt",
+        "sr"
+      ],
+      "first_published_at": "2026-11-25T20:26:20+01:00",
+      "last_published_at": "2026-11-26T00:23:00+01:00",
+      "lead": {
+        "id": "708d2cc028e2",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/4Eq9Jo/minst-30-doda-nar-tankbil-valte-i-kairo",
+        "guid": "https://www.aftonbladet.se/nyheter/a/4Eq9Jo/minst-30-doda-nar-tankbil-valte-i-kairo?utm_medium=rss",
+        "published_at": "2026-11-25T20:26:20+01:00",
+        "fetched_at": "2026-11-25T20:31:06+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/7dc62c85-48d6-30be-bb8a-76da0860894a?format=auto&s=adcddbcc9fc72492f2936b1d9f8d74e30fbd756c&w=1000",
+        "sv": {
+          "title": "Minst 30 döda när tankbil välte i Kairo",
+          "summary": "Minst 30 personer har dött i en stor trafikolycka utanför Kairo, rapporterar nyhetsbyrån Reuters.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "At least 30 dead as tanker truck overturns in Cairo",
+          "summary": "At least 30 people have died in a major traffic accident outside Cairo, reports the news agency Reuters."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T20:31:22+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "6b6ba7e64c86",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9350339",
+          "published_at": "2026-11-26T00:23:00+01:00",
+          "sv": {
+            "title": "Minst 31 döda efter olycka i Egypten"
+          },
+          "en": {
+            "title": "At least 31 dead after accident in Egypt"
+          }
+        },
+        {
+          "id": "f494778bb5ac",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/utrikes/minst-31-doda-efter-olycka-i-egypten",
+          "published_at": "2026-11-26T00:03:56+01:00",
+          "sv": {
+            "title": "Minst 31 döda efter olycka i Egypten"
+          },
+          "en": {
+            "title": "At least 31 dead after accident in Egypt"
+          }
+        },
+        {
+          "id": "aa5123298bf8",
+          "source": "aftonbladet",
+          "url": "https://tv.aftonbladet.se/video/411270",
+          "published_at": "2026-11-25T21:05:28+01:00",
+          "sv": {
+            "title": "Brandkaos i Kairo — minst 30 döda"
+          },
+          "en": {
+            "title": "Fire chaos in Cairo — at least 30 dead"
+          }
+        },
+        {
+          "id": "708d2cc028e2",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/4Eq9Jo/minst-30-doda-nar-tankbil-valte-i-kairo",
+          "published_at": "2026-11-25T20:26:20+01:00",
+          "sv": {
+            "title": "Minst 30 döda när tankbil välte i Kairo"
+          },
+          "en": {
+            "title": "At least 30 dead as tanker truck overturns in Cairo"
+          }
+        }
+      ]
+    },
+    {
       "id": "f6aba9583b40",
       "source_count": 3,
       "sources": [
@@ -1335,81 +1423,6 @@
           },
           "en": {
             "title": "Sabuni's advice to C: It tore us apart"
-          }
-        }
-      ]
-    },
-    {
-      "id": "708d2cc028e2",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svt"
-      ],
-      "first_published_at": "2026-11-25T20:26:20+01:00",
-      "last_published_at": "2026-11-26T00:03:56+01:00",
-      "lead": {
-        "id": "708d2cc028e2",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/4Eq9Jo/minst-30-doda-nar-tankbil-valte-i-kairo",
-        "guid": "https://www.aftonbladet.se/nyheter/a/4Eq9Jo/minst-30-doda-nar-tankbil-valte-i-kairo?utm_medium=rss",
-        "published_at": "2026-11-25T20:26:20+01:00",
-        "fetched_at": "2026-11-25T20:31:06+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/7dc62c85-48d6-30be-bb8a-76da0860894a?format=auto&s=adcddbcc9fc72492f2936b1d9f8d74e30fbd756c&w=1000",
-        "sv": {
-          "title": "Minst 30 döda när tankbil välte i Kairo",
-          "summary": "Minst 30 personer har dött i en stor trafikolycka utanför Kairo, rapporterar nyhetsbyrån Reuters.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "At least 30 dead as tanker truck overturns in Cairo",
-          "summary": "At least 30 people have died in a major traffic accident outside Cairo, reports the news agency Reuters."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T20:31:22+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "f494778bb5ac",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/utrikes/minst-31-doda-efter-olycka-i-egypten",
-          "published_at": "2026-11-26T00:03:56+01:00",
-          "sv": {
-            "title": "Minst 31 döda efter olycka i Egypten"
-          },
-          "en": {
-            "title": "At least 31 dead after accident in Egypt"
-          }
-        },
-        {
-          "id": "aa5123298bf8",
-          "source": "aftonbladet",
-          "url": "https://tv.aftonbladet.se/video/411270",
-          "published_at": "2026-11-25T21:05:28+01:00",
-          "sv": {
-            "title": "Brandkaos i Kairo — minst 30 döda"
-          },
-          "en": {
-            "title": "Fire chaos in Cairo — at least 30 dead"
-          }
-        },
-        {
-          "id": "708d2cc028e2",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/4Eq9Jo/minst-30-doda-nar-tankbil-valte-i-kairo",
-          "published_at": "2026-11-25T20:26:20+01:00",
-          "sv": {
-            "title": "Minst 30 döda när tankbil välte i Kairo"
-          },
-          "en": {
-            "title": "At least 30 dead as tanker truck overturns in Cairo"
           }
         }
       ]

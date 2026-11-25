@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T00:15:56+01:00",
+  "generated_at": "2026-11-26T00:29:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6b6ba7e64c86",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350339",
+      "guid": "rss:sr.se/article/9350339",
+      "published_at": "2026-11-26T00:23:00+01:00",
+      "fetched_at": "2026-11-26T00:29:08+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Minst 31 döda efter olycka i Egypten",
+        "summary": "I Egypten har minst 31 personer dött och 15 skadats efter att en tankbil som transporterade bränsle fattade eld, rapporterar AFP. Händelsen inträffade på en motorväg i Kairo, där fordonet välte och exploderade, enligt det egyptiska hälsoministeriet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "At least 31 dead after accident in Egypt",
+        "summary": "At least 31 people have died and 15 have been injured in Egypt after a fuel tanker caught fire, AFP reports. The incident occurred on a motorway in Cairo, where the vehicle overturned and exploded, according to the Egyptian health ministry."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T00:29:12+01:00"
+      }
+    },
     {
       "id": "d06bf72359b5",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T11:15:54+01:00"
-      }
-    },
-    {
-      "id": "953d9dda003c",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346828",
-      "guid": "rss:sr.se/article/9346828",
-      "published_at": "2026-11-20T09:57:00+01:00",
-      "fetched_at": "2026-11-20T10:01:09+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "Gul varning för snö i östra Svealand",
-        "summary": "En gul varning om snöfall i kombination med vind har utfärdats i delar av östra Svealand, där fem till 15 centimeter snö väntas falla. Varningen gäller från 18 på fredagskvällen och ligger kvar fram till 23 på lördagen, där störst mängd snö väntas falla i norra Uppland.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Yellow warning for snow in eastern Svealand",
-        "summary": "A yellow warning for snowfall combined with wind has been issued for parts of eastern Svealand, where five to 15 centimetres of snow are expected to fall. The warning applies from 18:00 on Friday evening until 23:00 on Saturday, with the largest amounts of snow expected in northern Uppland."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T10:01:18+01:00"
       }
     }
   ]

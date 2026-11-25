@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T00:15:56+01:00",
+  "generated_at": "2026-11-26T00:29:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6b6ba7e64c86",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350339",
+      "guid": "rss:sr.se/article/9350339",
+      "published_at": "2026-11-26T00:23:00+01:00",
+      "fetched_at": "2026-11-26T00:29:08+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Minst 31 döda efter olycka i Egypten",
+        "summary": "I Egypten har minst 31 personer dött och 15 skadats efter att en tankbil som transporterade bränsle fattade eld, rapporterar AFP. Händelsen inträffade på en motorväg i Kairo, där fordonet välte och exploderade, enligt det egyptiska hälsoministeriet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "At least 31 dead after accident in Egypt",
+        "summary": "At least 31 people have died and 15 have been injured in Egypt after a fuel tanker caught fire, AFP reports. The incident occurred on a motorway in Cairo, where the vehicle overturned and exploded, according to the Egyptian health ministry."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T00:29:12+01:00"
+      }
+    },
     {
       "id": "f494778bb5ac",
       "schema_version": 1,
@@ -5330,35 +5356,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T18:45:55+01:00"
-      }
-    },
-    {
-      "id": "293cc1331fc7",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4LVwXwxmzBeFVlIy0lvCpy/ovanliga-moetet-haer-vaelkomnas-svenska-ambassadoeren-av-kim-jong-un",
-      "guid": "4LVwXwxmzBeFVlIy0lvCpy",
-      "published_at": "2026-11-23T18:11:04+01:00",
-      "fetched_at": "2026-11-23T18:15:45+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Ovanliga mötet: Sveriges ambassadör välkomnas av Kim Jong Un",
-        "summary": "Nordkoreas statliga tv-sändning innehåller inget ljud, men bilderna visar hur Sveriges ambassadör Josef Ahlberg tillsammans med nio andra utländska diplomater i spikraka rader sitter i varsin röd fåtölj på huvudkontoret för Arbetarpartiets centralkommitté.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Unusual meeting: Sweden's ambassador welcomed by Kim Jong Un",
-        "summary": "North Korea's state television broadcast has no sound, but the images show how Sweden's ambassador Josef Ahlberg, together with nine other foreign diplomats, sits in neat rows in individual red armchairs at the headquarters of the Workers' Party of Korea's Central Committee."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T18:15:53+01:00"
       }
     }
   ]
