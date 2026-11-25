@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-25T13:45:52+01:00",
+  "generated_at": "2026-11-25T14:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "054ca7cc8330",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6YnmdVjekNZy8XYAvkEvZ6/migrationsverkets-rad-du-far-helt-enkelt-kontakta-talibanerna",
+      "guid": "6YnmdVjekNZy8XYAvkEvZ6",
+      "published_at": "2026-11-25T13:55:18+01:00",
+      "fetched_at": "2026-11-25T14:01:16+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Migrationsverkets råd: ”Du får helt enkelt kontakta talibanerna”",
+        "summary": "En person i Malmö med ett utvisningsbeslut kontaktade Migrationsverket för fråga om resehandlingar. Svaret från en handläggare har nu lett till kritik från Justitieombudsmannen, JO.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Migration Agency advice: \"You simply contact the Taliban\"",
+        "summary": "A person in Malmö with a deportation order contacted the Migration Agency to ask about travel documents. The reply from a case officer has now led to criticism from the Parliamentary Ombudsman, JO."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:01:22+01:00"
+      }
+    },
     {
       "id": "7b5259ea6089",
       "schema_version": 1,
@@ -5430,33 +5459,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T17:15:55+01:00"
-      }
-    },
-    {
-      "id": "a02c43039979",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/sodra-forstadsgatan-har-oppnat-igen-det-ar-amazing",
-      "guid": "0337e2fb-18b7-46a8-929d-ab49c0362fd4",
-      "published_at": "2026-11-20T16:55:02+01:00",
-      "fetched_at": "2026-11-20T17:01:26+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/dfb84a18-18d9-4147-ada6-789a455d5336.jpeg?width=600",
-      "sv": {
-        "title": "Södra Förstadsgatan har öppnat igen: ”Det är amazing”",
-        "summary": "Det sista markteglet är på plats. På fredagseftermiddagen öppnades sträckan mellan Spångatan och Föreningsgatan för både cykel och bil. Men de får anpassa sig till fotgängarna. – Det ser lite komplicerat ut, tyckte bilisten Maria Nunes.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Södra Förstadsgatan has reopened: \"It's amazing\"",
-        "summary": "The last ground slab is in place. On Friday afternoon, the stretch between Spångatan and Föreningsgatan was opened for both bicycles and cars. But they have to adapt to pedestrians. \"It looks a bit complicated,\" said motorist Maria Nunes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T17:01:35+01:00"
       }
     }
   ]

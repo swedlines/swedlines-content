@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T13:45:52+01:00",
+  "generated_at": "2026-11-25T14:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c7cc6ff51190",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/sa-drabbas-kvinnor-i-gaza-tvingades-lamna-bebis",
+      "guid": "1069d56e-1088-4b2e-bd42-0748c38e756d",
+      "published_at": "2026-11-25T13:54:54+01:00",
+      "fetched_at": "2026-11-25T14:01:17+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/03e26523-0fc5-4363-a344-8dbf307e4fc5.jpg?width=600",
+      "sv": {
+        "title": "Så drabbas kvinnor i Gaza: Tvingades lämna bebis",
+        "summary": "Först dödades Sondos al-Kurds treåriga barn i ett israeliskt anfall mot Gaza, sedan skildes hon från sin nyfödda dotter i kuvös. – Hennes fall fångar verkligen de lager på lager av lidande, svårigheter och människorättskränkningar som kvinnor i Gaza utsätts för, säger Katarina Bergehed på Amnesty…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "This is how women in Gaza are affected: Forced to leave baby",
+        "summary": "First Sondos al-Kurd's three-year-old child was killed in an Israeli attack on Gaza, then she was separated from her newborn daughter in an incubator. – Her case really captures the layers upon layers of suffering, hardship and human rights violations that women in Gaza are subjected to, says Katarina Bergehed at Amnesty…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:01:22+01:00"
+      }
+    },
     {
       "id": "1c8399db09fb",
       "schema_version": 1,
@@ -5328,32 +5355,6 @@
       "en": {
         "title": "Convicted Danish spy demands compensation",
         "summary": "A Danish man was convicted as an IS terrorist but, after several years in prison, turned out to have spied for Denmark. He is now demanding financial compensation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T10:45:57+01:00"
-      }
-    },
-    {
-      "id": "eb812e908ef6",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
-      "guid": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
-      "published_at": "2026-11-23T10:41:20+01:00",
-      "fetched_at": "2026-11-23T10:45:46+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Larm om bombhot mot flera skolor i Danmark",
-        "summary": "Polisdistrikt i hela Danmark får just nu in anmälningar om bombhot mot ett stort antal danska skolor, skriver danska TV 2. Samtidigt uppmanar polisen till lugn och betonar att det i nuläget inte finns anledning till oro.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Alarm over bomb threats against several schools in Denmark",
-        "summary": "Police districts across Denmark are currently receiving reports of bomb threats against a large number of Danish schools, Danish TV 2 writes. At the same time, police urge calm and stress that there is currently no reason for concern."
       },
       "translation": {
         "status": "done",

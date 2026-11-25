@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T13:45:52+01:00",
+  "generated_at": "2026-11-25T14:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "02214fb9da55",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/lakaren-stellan-74--knivhoggs-pa-jobbet",
+      "guid": "https://www.expressen.se/nyheter/sverige/lakaren-stellan-74--knivhoggs-pa-jobbet/",
+      "published_at": "2026-11-25T13:53:48+01:00",
+      "fetched_at": "2026-11-25T14:01:16+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Läkaren Stellan, 74, knivhöggs på jobbet",
+        "summary": "Läkaren Stellan Båtsman, 74, blev knivhuggen i magen av en patient på Kalix hälsocentral. – Om han hade tryckt in kniven någon centimeter till, då kunde det ha varit godnatt, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Doctor Stellan, 74, stabbed at work",
+        "summary": "Doctor Stellan Båtsman, 74, was stabbed in the stomach by a patient at Kalix health centre. – If he had pushed the knife in a centimetre further, it could have been goodnight, he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:01:22+01:00"
+      }
+    },
     {
       "id": "1fb66b2eaf99",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T23:45:50+01:00"
-      }
-    },
-    {
-      "id": "bc1851d4c797",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/sport/fotboll/huliganbrak-i-stockholm-minst-tva-till-sjukhus",
-      "guid": "https://www.expressen.se/sport/fotboll/huliganbrak-i-stockholm-minst-tva-till-sjukhus/",
-      "published_at": "2026-11-21T23:36:49+01:00",
-      "fetched_at": "2026-11-22T12:31:00+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Huliganbråk i Stockholm – minst två till sjukhus",
-        "summary": "Minst två personer har förts till sjukhus efter ett bråk mellan fotbollssupportrar. Skadeläget på minst en av dem bedöms vara allvarlig. Bråket uppstod när AIK:are tagit sig till en fest med Djurgårdssupportrar. – Fruktansvärt tråkigt, säger Järnkaminernas styrelse.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hooligan clash in Stockholm – at least two taken to hospital",
-        "summary": "At least two people have been taken to hospital after a clash between football supporters. The injuries to at least one of them are assessed as serious. The clash broke out when AIK fans went to a party with Djurgården supporters. – Terribly sad, says the board of Järnkaminerna."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T12:31:05+01:00"
       }
     }
   ]

@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-25T13:45:52+01:00",
+  "generated_at": "2026-11-25T14:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "054ca7cc8330",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6YnmdVjekNZy8XYAvkEvZ6/migrationsverkets-rad-du-far-helt-enkelt-kontakta-talibanerna",
+      "guid": "6YnmdVjekNZy8XYAvkEvZ6",
+      "published_at": "2026-11-25T13:55:18+01:00",
+      "fetched_at": "2026-11-25T14:01:16+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Migrationsverkets råd: ”Du får helt enkelt kontakta talibanerna”",
+        "summary": "En person i Malmö med ett utvisningsbeslut kontaktade Migrationsverket för fråga om resehandlingar. Svaret från en handläggare har nu lett till kritik från Justitieombudsmannen, JO.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Migration Agency advice: \"You simply contact the Taliban\"",
+        "summary": "A person in Malmö with a deportation order contacted the Migration Agency to ask about travel documents. The reply from a case officer has now led to criticism from the Parliamentary Ombudsman, JO."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:01:22+01:00"
+      }
+    },
     {
       "id": "55f67573615d",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T14:15:55+01:00"
-      }
-    },
-    {
-      "id": "2f15ca25abd4",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/tt-261117-ukrainabroanalys1-25b7d6ef/attacken-pa-krimbron-otroligt-genant-for-putin",
-      "guid": "tt-261117-ukrainabroanalys1-25b7d6ef",
-      "published_at": "2026-11-17T11:51:11+01:00",
-      "fetched_at": "2026-11-17T13:31:05+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Experten: Attacken på Krimbron ”otroligt genant” för Putin",
-        "summary": "Krimbron är det ryska prestigebygge som förbinder den annekterade halvön med Ryssland. Ukraina har flera gånger tidigare försökt att slå ut bron, med syftet att isolera Krim. Den strategiska vinsten är inte längre lika stor, eftersom man också når halvön landvägen över ockuperad mark i Donbass.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Expert: Attack on Crimea bridge 'incredibly embarrassing' for Putin",
-        "summary": "The Crimea bridge is the Russian prestige project that connects the annexed peninsula with Russia. Ukraine has several times previously tried to knock out the bridge, with the aim of isolating Crimea. The strategic gain is no longer as large, since the peninsula can also be reached by land across occupied territory in Donbas."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:31:17+01:00"
       }
     }
   ]
