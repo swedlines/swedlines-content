@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T12:01:21+01:00",
+  "generated_at": "2026-11-25T12:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1006eb73a5ad",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349498",
+      "guid": "rss:sr.se/article/9349498",
+      "published_at": "2026-11-25T12:02:00+01:00",
+      "fetched_at": "2026-11-25T12:15:42+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Så fick Centern en vågmästarroll i regeringsbildningen",
+        "summary": "Centerpartiet gick till val på att hålla Sverigedemokraterna och Vänsterpartiet borta från regeringsmakten. Löftet har gett Centerpartiet en nyckelroll i regeringskampen. Efter över 70 dagar är det fortfarande osäkert vilken väg partiet kommer välja.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How the Centre Party became the kingmaker in government formation",
+        "summary": "The Centre Party went to the election promising to keep the Sweden Democrats and the Left Party out of government power. That promise has given the Centre Party a key role in the struggle over government. After more than 70 days, it is still uncertain which way the party will choose."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T12:15:50+01:00"
+      }
+    },
     {
       "id": "c410391823c1",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T17:01:27+01:00"
-      }
-    },
-    {
-      "id": "bd77fb8557e8",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346506",
-      "guid": "rss:sr.se/article/9346506",
-      "published_at": "2026-11-19T16:43:00+01:00",
-      "fetched_at": "2026-11-19T16:45:41+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Tågstopp efter misstänkt hot – 120 passagerare saknades",
-        "summary": "Ett tåg mellan Stockholm och Göteborg stoppades av polisen under torsdagsmorgonen, efter uppgifter om ett misstänkt grovt olaga hot. Tåget stoppades i Katrineholm, tömdes på passagerare och söktes igenom av Nationella bombskyddet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Train stopped after suspected threat – 120 passengers unaccounted for",
-        "summary": "A train between Stockholm and Göteborg was stopped by police on Thursday morning, following reports of a suspected aggravated unlawful threat. The train was halted in Katrineholm, emptied of passengers and searched by the National Bomb Protection unit."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:45:52+01:00"
       }
     }
   ]

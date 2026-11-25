@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:01:21+01:00",
+  "generated_at": "2026-11-25T12:15:52+01:00",
   "count": 30,
   "stories": [
     {
@@ -1564,6 +1564,80 @@
       ]
     },
     {
+      "id": "f567947b823b",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "sr"
+      ],
+      "first_published_at": "2026-11-25T10:05:31+01:00",
+      "last_published_at": "2026-11-25T12:02:00+01:00",
+      "lead": {
+        "id": "f567947b823b",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/ditv/borsmorgon/kindberg-batra-drygt-50-procents-chans-for-en-regering-pa-mandag",
+        "guid": "e9c325b2-a41d-5293-9fd4-61c4b8f13e55",
+        "published_at": "2026-11-25T10:05:31+01:00",
+        "fetched_at": "2026-11-25T10:15:42+01:00",
+        "category": "economy",
+        "sv": {
+          "title": "Kindberg Batra: ”Drygt 50 procents chans för en regering på måndag”",
+          "summary": "Moderaternas tidigare partiledare Anna Kindberg Batra om det pressade läget i regeringsbildningen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Kindberg Batra: \"Just over 50 percent chance of a government on Monday\"",
+          "summary": "Former Moderate leader Anna Kindberg Batra on the pressured situation in the government formation."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T10:15:50+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "1006eb73a5ad",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9349498",
+          "published_at": "2026-11-25T12:02:00+01:00",
+          "sv": {
+            "title": "Så fick Centern en vågmästarroll i regeringsbildningen"
+          },
+          "en": {
+            "title": "How the Centre Party became the kingmaker in government formation"
+          }
+        },
+        {
+          "id": "bd7fefa07701",
+          "source": "di",
+          "url": "https://www.di.se/ditv/borsmorgon/kinberg-batra-drygt-50-procents-chans-for-en-regering-pa-mandag",
+          "published_at": "2026-11-25T10:22:56+01:00",
+          "sv": {
+            "title": "Kinberg Batra: ”Drygt 50 procents chans för en regering på måndag”"
+          },
+          "en": {
+            "title": "Kinberg Batra: \"Just over 50 percent chance of a government on Monday\""
+          }
+        },
+        {
+          "id": "f567947b823b",
+          "source": "di",
+          "url": "https://www.di.se/ditv/borsmorgon/kindberg-batra-drygt-50-procents-chans-for-en-regering-pa-mandag",
+          "published_at": "2026-11-25T10:05:31+01:00",
+          "sv": {
+            "title": "Kindberg Batra: ”Drygt 50 procents chans för en regering på måndag”"
+          },
+          "en": {
+            "title": "Kindberg Batra: \"Just over 50 percent chance of a government on Monday\""
+          }
+        }
+      ]
+    },
+    {
       "id": "934624d92122",
       "source_count": 2,
       "sources": [
@@ -2385,69 +2459,6 @@
           },
           "en": {
             "title": "Armed men hold hostages in shop"
-          }
-        }
-      ]
-    },
-    {
-      "id": "4e02ddab02b8",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-25T05:30:11+01:00",
-      "last_published_at": "2026-11-25T05:30:12+01:00",
-      "lead": {
-        "id": "4e02ddab02b8",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/XogXK7/sa-drabbas-kvinnor-i-gaza-tvingades-lamna-bebis",
-        "guid": "https://www.aftonbladet.se/nyheter/a/XogXK7/sa-drabbas-kvinnor-i-gaza-tvingades-lamna-bebis?utm_medium=rss",
-        "published_at": "2026-11-25T05:30:11+01:00",
-        "fetched_at": "2026-11-25T05:30:57+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/8f810187-a3bc-35a8-90ca-a9b146643bc0?format=auto&s=85a41aa6cd2f5191607f1b437ff002b8c2b02054&w=1000",
-        "sv": {
-          "title": "Så drabbas kvinnor i Gaza: Tvingades lämna bebis",
-          "summary": "Först dödades Sondos al-Kurds treåriga barn i ett israeliskt anfall mot Gaza, sedan skildes hon från…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "How women in Gaza are affected: Forced to leave baby behind",
-          "summary": "First Sondos al-Kurd's three-year-old child was killed in an Israeli attack on Gaza, then she was separated from…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T05:31:05+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "3c9d94021631",
-          "source": "svd",
-          "url": "https://www.svd.se/a/3BJAv0/sa-drabbas-kvinnor-i-gaza-tvingades-lamna-bebis",
-          "published_at": "2026-11-25T05:30:12+01:00",
-          "sv": {
-            "title": "Så drabbas kvinnor i Gaza: Tvingades lämna bebis"
-          },
-          "en": {
-            "title": "This is how women in Gaza are affected: forced to leave baby"
-          }
-        },
-        {
-          "id": "4e02ddab02b8",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/XogXK7/sa-drabbas-kvinnor-i-gaza-tvingades-lamna-bebis",
-          "published_at": "2026-11-25T05:30:11+01:00",
-          "sv": {
-            "title": "Så drabbas kvinnor i Gaza: Tvingades lämna bebis"
-          },
-          "en": {
-            "title": "How women in Gaza are affected: Forced to leave baby behind"
           }
         }
       ]
