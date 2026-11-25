@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T06:45:56+01:00",
-  "count": 24,
+  "generated_at": "2026-11-25T07:01:15+01:00",
+  "count": 23,
   "stories": [
     {
       "id": "bc9e35a4d1b8",
@@ -214,6 +214,132 @@
       ]
     },
     {
+      "id": "d533c9df740e",
+      "source_count": 6,
+      "sources": [
+        "sr",
+        "aftonbladet",
+        "expressen",
+        "di",
+        "svd",
+        "tv4"
+      ],
+      "first_published_at": "2026-11-25T04:00:00+01:00",
+      "last_published_at": "2026-11-25T06:54:16+01:00",
+      "lead": {
+        "id": "d533c9df740e",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9349048",
+        "guid": "rss:sr.se/article/9349048",
+        "published_at": "2026-11-25T04:00:00+01:00",
+        "fetched_at": "2026-11-25T04:15:41+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Centern tappar i ny mätning: ”Inte förvånande”",
+          "summary": "Stödet för Centern minskar i en ny mätning. Partiet får 4,8 procent, alltså strax över spärren till riksdagen. Socialdemokraterna får sin sämsta siffra sedan 2023. De långdragna regeringsförhandlingarna är förklaringen, enligt Per Oleskog Tryggvason på Indikator Opinion som gjort undersökningen.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Centre Party drops in new poll: \"Not surprising\"",
+          "summary": "Support for the Centre Party is falling in a new poll. The party gets 4.8 percent, just above the threshold for entering the Riksdag. The Social Democrats get their worst figure since 2023. The protracted government negotiations are the explanation, according to Per Oleskog Tryggvason at Indikator Opinion, who conducted the survey."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T04:15:49+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "6647b7fcc951",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/6fJJ6hFOyjn2yOHji3I049/c-rasar-mot-spaerren-i-ny-maetning",
+          "published_at": "2026-11-25T06:54:16+01:00",
+          "sv": {
+            "title": "C rasar mot spärren i ny mätning"
+          },
+          "en": {
+            "title": "C plunges towards the threshold in new poll"
+          }
+        },
+        {
+          "id": "aa9393ad8d46",
+          "source": "svd",
+          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80283",
+          "published_at": "2026-11-25T05:36:49+01:00",
+          "sv": {
+            "title": "C backar i mätning – strax ovanför spärren"
+          },
+          "en": {
+            "title": "C slips in poll – just above the threshold"
+          }
+        },
+        {
+          "id": "c64c57cec7d2",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/ny-matning-centerpartiet-backar-nara-sparren",
+          "published_at": "2026-11-25T05:32:55+01:00",
+          "sv": {
+            "title": "Ny mätning: Centerpartiet backar – nära spärren"
+          },
+          "en": {
+            "title": "New poll: Centre Party slips – close to the threshold"
+          }
+        },
+        {
+          "id": "20f1a8510b86",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/centerpartiet-backar-i-matning-nara-sparren",
+          "published_at": "2026-11-25T05:16:19+01:00",
+          "sv": {
+            "title": "Centerpartiet backar i mätning – nära spärren"
+          },
+          "en": {
+            "title": "Centre Party slips in poll – close to the threshold"
+          }
+        },
+        {
+          "id": "390524b485a9",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=242f93dd-9597-4741-bb91-b2d40b93d7c7",
+          "published_at": "2026-11-25T04:51:01+01:00",
+          "sv": {
+            "title": "Centerpartiet backar i ny mätning – nära spärren"
+          },
+          "en": {
+            "title": "Centre Party slips in new poll – close to the threshold"
+          }
+        },
+        {
+          "id": "c095c73a9425",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/ARdKOx/centerpartiet-backar-i-matning-nara-sparren",
+          "published_at": "2026-11-25T04:45:27+01:00",
+          "sv": {
+            "title": "Centerpartiet backar i mätning – nära spärren"
+          },
+          "en": {
+            "title": "Centre Party slips in poll – close to the threshold"
+          }
+        },
+        {
+          "id": "d533c9df740e",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9349048",
+          "published_at": "2026-11-25T04:00:00+01:00",
+          "sv": {
+            "title": "Centern tappar i ny mätning: ”Inte förvånande”"
+          },
+          "en": {
+            "title": "Centre Party drops in new poll: \"Not surprising\""
+          }
+        }
+      ]
+    },
+    {
       "id": "1a6f5899ec1b",
       "source_count": 6,
       "sources": [
@@ -360,7 +486,7 @@
         "expressen"
       ],
       "first_published_at": "2026-11-24T21:21:01+01:00",
-      "last_published_at": "2026-11-25T06:31:45+01:00",
+      "last_published_at": "2026-11-25T06:57:10+01:00",
       "lead": {
         "id": "2a04dac68bee",
         "schema_version": 1,
@@ -389,6 +515,18 @@
         }
       },
       "items": [
+        {
+          "id": "4fb731b5419c",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ace2b927-90e3-4cc6-becd-853c2a124592",
+          "published_at": "2026-11-25T06:57:10+01:00",
+          "sv": {
+            "title": "Trump öppnar för att benåda Huang"
+          },
+          "en": {
+            "title": "Trump opens to pardoning Huang"
+          }
+        },
         {
           "id": "a28dfe47fbd2",
           "source": "expressen",
@@ -452,114 +590,101 @@
       ]
     },
     {
-      "id": "d533c9df740e",
-      "source_count": 5,
+      "id": "b60521972973",
+      "source_count": 4,
       "sources": [
-        "sr",
+        "svt",
         "aftonbladet",
-        "expressen",
-        "di",
-        "svd"
+        "svd",
+        "dn"
       ],
-      "first_published_at": "2026-11-25T04:00:00+01:00",
-      "last_published_at": "2026-11-25T05:36:49+01:00",
+      "first_published_at": "2026-11-25T05:30:03+01:00",
+      "last_published_at": "2026-11-25T06:56:39+01:00",
       "lead": {
-        "id": "d533c9df740e",
+        "id": "b60521972973",
         "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9349048",
-        "guid": "rss:sr.se/article/9349048",
-        "published_at": "2026-11-25T04:00:00+01:00",
-        "fetched_at": "2026-11-25T04:15:41+01:00",
-        "category": "politics",
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-professor-varnar-for-fallande-domar-utifran-kontakt-dna",
+        "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-professor-varnar-for-fallande-domar-utifran-kontakt-dna",
+        "published_at": "2026-11-25T05:30:03+01:00",
+        "fetched_at": "2026-11-25T05:45:42+01:00",
+        "category": "crime",
         "sv": {
-          "title": "Centern tappar i ny mätning: ”Inte förvånande”",
-          "summary": "Stödet för Centern minskar i en ny mätning. Partiet får 4,8 procent, alltså strax över spärren till riksdagen. Socialdemokraterna får sin sämsta siffra sedan 2023. De långdragna regeringsförhandlingarna är förklaringen, enligt Per Oleskog Tryggvason på Indikator Opinion som gjort undersökningen.",
+          "title": "Brattåsmålet: Professor varnar för fällande domar från kontakt-dna",
+          "summary": "Den tyngsta bevisningen mot den man i 45-årsåldern som tidigare i år dömdes för medhjälp i dubbelmordet i Brattås i Härnösand är två spår av kontakt-dna. Men att använda den här typen av dna som bindande bevisning är omtvistat.",
           "summary_origin": "truncated"
         },
         "en": {
-          "title": "Centre Party drops in new poll: \"Not surprising\"",
-          "summary": "Support for the Centre Party is falling in a new poll. The party gets 4.8 percent, just above the threshold for entering the Riksdag. The Social Democrats get their worst figure since 2023. The protracted government negotiations are the explanation, according to Per Oleskog Tryggvason at Indikator Opinion, who conducted the survey."
+          "title": "The Brattås case: Professor warns of convictions based on contact DNA",
+          "summary": "The heaviest evidence against the man in his mid-40s who earlier this year was convicted of complicity in the double murder in Brattås in Härnösand is two traces of contact DNA. However, using this type of DNA as binding evidence is disputed."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T04:15:49+01:00"
+          "translated_at": "2026-11-25T05:46:04+01:00"
         }
       },
       "items": [
         {
-          "id": "aa9393ad8d46",
+          "id": "05ab1f6ffb0e",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/nya-bevis-i-brattasfallet-starker-den-redan-domdes-berattelse",
+          "published_at": "2026-11-25T06:56:39+01:00",
+          "sv": {
+            "title": "Nya bevis i Brattåsfallet: \"Stärker den redan dömdes berättelse\""
+          },
+          "en": {
+            "title": "New evidence in the Brattås case: \"Strengthens the story of the already convicted\""
+          }
+        },
+        {
+          "id": "76127bf69742",
           "source": "svd",
-          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80283",
-          "published_at": "2026-11-25T05:36:49+01:00",
+          "url": "https://www.svd.se/a/wdPlyG/nya-bevis-i-brattasfallet-starker-hans-berattelse",
+          "published_at": "2026-11-25T06:15:12+01:00",
           "sv": {
-            "title": "C backar i mätning – strax ovanför spärren"
+            "title": "Nya bevis i Brattåsfallet: \"Stärker hans berättelse\""
           },
           "en": {
-            "title": "C slips in poll – just above the threshold"
+            "title": "New evidence in the Brattås case: \"Strengthens his account\""
           }
         },
         {
-          "id": "c64c57cec7d2",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/ny-matning-centerpartiet-backar-nara-sparren",
-          "published_at": "2026-11-25T05:32:55+01:00",
-          "sv": {
-            "title": "Ny mätning: Centerpartiet backar – nära spärren"
-          },
-          "en": {
-            "title": "New poll: Centre Party slips – close to the threshold"
-          }
-        },
-        {
-          "id": "20f1a8510b86",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/centerpartiet-backar-i-matning-nara-sparren",
-          "published_at": "2026-11-25T05:16:19+01:00",
-          "sv": {
-            "title": "Centerpartiet backar i mätning – nära spärren"
-          },
-          "en": {
-            "title": "Centre Party slips in poll – close to the threshold"
-          }
-        },
-        {
-          "id": "390524b485a9",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=242f93dd-9597-4741-bb91-b2d40b93d7c7",
-          "published_at": "2026-11-25T04:51:01+01:00",
-          "sv": {
-            "title": "Centerpartiet backar i ny mätning – nära spärren"
-          },
-          "en": {
-            "title": "Centre Party slips in new poll – close to the threshold"
-          }
-        },
-        {
-          "id": "c095c73a9425",
+          "id": "a76a53a212aa",
           "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/ARdKOx/centerpartiet-backar-i-matning-nara-sparren",
-          "published_at": "2026-11-25T04:45:27+01:00",
+          "url": "https://www.aftonbladet.se/nyheter/a/z0GpR1/nya-bevis-i-brattasfallet-starker-hans-berattelse",
+          "published_at": "2026-11-25T06:15:11+01:00",
           "sv": {
-            "title": "Centerpartiet backar i mätning – nära spärren"
+            "title": "Nya bevis i Brattåsfallet: \"Stärker hans berättelse\""
           },
           "en": {
-            "title": "Centre Party slips in poll – close to the threshold"
+            "title": "New evidence in the Brattås case: \"Strengthens his account\""
           }
         },
         {
-          "id": "d533c9df740e",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9349048",
-          "published_at": "2026-11-25T04:00:00+01:00",
+          "id": "d08aea61b87d",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasfallet-tas-upp-i-hovratten-folj-var-direktrapport",
+          "published_at": "2026-11-25T05:30:03+01:00",
           "sv": {
-            "title": "Centern tappar i ny mätning: ”Inte förvånande”"
+            "title": "Brattåsfallet tas upp i hovrätten – följ vår direktrapport"
           },
           "en": {
-            "title": "Centre Party drops in new poll: \"Not surprising\""
+            "title": "The Brattås case goes to the court of appeal – follow our live report"
+          }
+        },
+        {
+          "id": "b60521972973",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-professor-varnar-for-fallande-domar-utifran-kontakt-dna",
+          "published_at": "2026-11-25T05:30:03+01:00",
+          "sv": {
+            "title": "Brattåsmålet: Professor varnar för fällande domar från kontakt-dna"
+          },
+          "en": {
+            "title": "The Brattås case: Professor warns of convictions based on contact DNA"
           }
         }
       ]
@@ -649,93 +774,6 @@
           },
           "en": {
             "title": "Nick Carter charged with sexual assault"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b60521972973",
-      "source_count": 3,
-      "sources": [
-        "svt",
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-25T05:30:03+01:00",
-      "last_published_at": "2026-11-25T06:15:12+01:00",
-      "lead": {
-        "id": "b60521972973",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-professor-varnar-for-fallande-domar-utifran-kontakt-dna",
-        "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-professor-varnar-for-fallande-domar-utifran-kontakt-dna",
-        "published_at": "2026-11-25T05:30:03+01:00",
-        "fetched_at": "2026-11-25T05:45:42+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Brattåsmålet: Professor varnar för fällande domar från kontakt-dna",
-          "summary": "Den tyngsta bevisningen mot den man i 45-årsåldern som tidigare i år dömdes för medhjälp i dubbelmordet i Brattås i Härnösand är två spår av kontakt-dna. Men att använda den här typen av dna som bindande bevisning är omtvistat.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "The Brattås case: Professor warns of convictions based on contact DNA",
-          "summary": "The heaviest evidence against the man in his mid-40s who earlier this year was convicted of complicity in the double murder in Brattås in Härnösand is two traces of contact DNA. However, using this type of DNA as binding evidence is disputed."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T05:46:04+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "76127bf69742",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wdPlyG/nya-bevis-i-brattasfallet-starker-hans-berattelse",
-          "published_at": "2026-11-25T06:15:12+01:00",
-          "sv": {
-            "title": "Nya bevis i Brattåsfallet: \"Stärker hans berättelse\""
-          },
-          "en": {
-            "title": "New evidence in the Brattås case: \"Strengthens his account\""
-          }
-        },
-        {
-          "id": "a76a53a212aa",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/z0GpR1/nya-bevis-i-brattasfallet-starker-hans-berattelse",
-          "published_at": "2026-11-25T06:15:11+01:00",
-          "sv": {
-            "title": "Nya bevis i Brattåsfallet: \"Stärker hans berättelse\""
-          },
-          "en": {
-            "title": "New evidence in the Brattås case: \"Strengthens his account\""
-          }
-        },
-        {
-          "id": "d08aea61b87d",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasfallet-tas-upp-i-hovratten-folj-var-direktrapport",
-          "published_at": "2026-11-25T05:30:03+01:00",
-          "sv": {
-            "title": "Brattåsfallet tas upp i hovrätten – följ vår direktrapport"
-          },
-          "en": {
-            "title": "The Brattås case goes to the court of appeal – follow our live report"
-          }
-        },
-        {
-          "id": "b60521972973",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-professor-varnar-for-fallande-domar-utifran-kontakt-dna",
-          "published_at": "2026-11-25T05:30:03+01:00",
-          "sv": {
-            "title": "Brattåsmålet: Professor varnar för fällande domar från kontakt-dna"
-          },
-          "en": {
-            "title": "The Brattås case: Professor warns of convictions based on contact DNA"
           }
         }
       ]
@@ -1917,68 +1955,6 @@
           },
           "en": {
             "title": "Sources to SVT: New DNA trace in Brattås from convicted criminal"
-          }
-        }
-      ]
-    },
-    {
-      "id": "c5a2ce8ccc7d",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-24T18:46:39+01:00",
-      "last_published_at": "2026-11-24T18:56:31+01:00",
-      "lead": {
-        "id": "c5a2ce8ccc7d",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/inrikes/har-ar-ms-totalpaket-till-c-hade-hogre-forvantningar",
-        "guid": "https://www.svt.se/nyheter/inrikes/har-ar-ms-totalpaket-till-c-hade-hogre-forvantningar",
-        "published_at": "2026-11-24T18:46:39+01:00",
-        "fetched_at": "2026-11-24T19:01:05+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Här är M:s totalpaket till C: ”Hade högre förväntningar”",
-          "summary": "Centerpartiet går nu in i nya regeringssamtal med Moderaterna. SVT har tagit del av M:s totalpaket som ligger till grund för samtalen. – Jag hade ärligt talat högre förväntningar, säger en C-källa.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Here is the Moderates' full package to the Centre Party: \"Had higher expectations\"",
-          "summary": "The Centre Party is now entering new government talks with the Moderates. SVT has obtained the Moderates' full package that forms the basis of the talks. – Frankly, I had higher expectations, says a Centre Party source."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T19:01:15+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "692f65f1fedc",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/sverige/uppgifter-har-ar-ms-totalpaket-till-c",
-          "published_at": "2026-11-24T18:56:31+01:00",
-          "sv": {
-            "title": "Uppgifter: Här är M:s totalpaket till C"
-          },
-          "en": {
-            "title": "Reports: Here is the Moderates' full package to the Centre Party"
-          }
-        },
-        {
-          "id": "c5a2ce8ccc7d",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/har-ar-ms-totalpaket-till-c-hade-hogre-forvantningar",
-          "published_at": "2026-11-24T18:46:39+01:00",
-          "sv": {
-            "title": "Här är M:s totalpaket till C: ”Hade högre förväntningar”"
-          },
-          "en": {
-            "title": "Here is the Moderates' full package to the Centre Party: \"Had higher expectations\""
           }
         }
       ]

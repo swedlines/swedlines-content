@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T06:45:56+01:00",
+  "generated_at": "2026-11-25T07:01:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4fb731b5419c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ace2b927-90e3-4cc6-becd-853c2a124592",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ace2b927-90e3-4cc6-becd-853c2a124592",
+      "published_at": "2026-11-25T06:57:10+01:00",
+      "fetched_at": "2026-11-25T07:01:04+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trump öppnar för att benåda Huang",
+        "summary": "Öppnar för att benåda Nvidia-vd:n",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump opens to pardoning Huang",
+        "summary": "Opens to pardoning the Nvidia CEO"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T07:01:10+01:00"
+      }
+    },
     {
       "id": "a28dfe47fbd2",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T15:31:08+01:00"
-      }
-    },
-    {
-      "id": "0f294a1b8b6a",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bae9cf29-4c91-436e-b621-a3f35e7af7bd",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bae9cf29-4c91-436e-b621-a3f35e7af7bd",
-      "published_at": "2026-11-21T15:10:30+01:00",
-      "fetched_at": "2026-11-21T15:15:43+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Rysk helikopter har kränkt finskt luftrum",
-        "summary": "Kränkt luftrummet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russian helicopter has violated Finnish airspace",
-        "summary": "Violated airspace"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T15:15:47+01:00"
       }
     }
   ]
