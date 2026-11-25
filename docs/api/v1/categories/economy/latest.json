@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T18:42:23+01:00",
+  "generated_at": "2026-11-25T18:45:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "01b42fd4d25e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/trump-borsfallet-ar-demokraternas-fel",
+      "guid": "2eaafccf-107a-4112-a3df-b76175d97c2f",
+      "published_at": "2026-11-25T18:35:55+01:00",
+      "fetched_at": "2026-11-25T18:45:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/384e1827-0c87-4edb-86e2-1e836fd116df.jpeg?width=600",
+      "sv": {
+        "title": "Trump: Börsfallet är Demokraternas fel",
+        "summary": "Den amerikanske presidenten Donald Trump skriver på Truth Social att börsnedgångarna i USA beror på utgången av mellanårsvalet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump: stock market drop is the Democrats' fault",
+        "summary": "US President Donald Trump writes on Truth Social that the stock market declines in the US are due to the outcome of the midterm elections."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T18:45:49+01:00"
+      }
+    },
     {
       "id": "1f67f94a85dc",
       "schema_version": 1,
@@ -5283,33 +5310,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T21:31:06+01:00"
-      }
-    },
-    {
-      "id": "6c2ac56b4a22",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/vd-n-om-miljardforlusten-blickar-framat",
-      "guid": "9c5f26ca-6acd-431d-b252-99b0beda55e7",
-      "published_at": "2026-11-24T21:11:37+01:00",
-      "fetched_at": "2026-11-24T21:15:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/1d1ab8d1-6416-47e0-883d-bd6773903179.jpeg?width=600",
-      "sv": {
-        "title": "Vd:n om miljardförlusten: ”Blickar framåt”",
-        "summary": "Ratos drar av plåstret och tar en miljardförlust när investeringsbolaget säljer den pressade trädgårdskedjan Plantagen. ”Jag väljer att blicka framåt”, säger vd Gustaf Salford och avslöjar vad det frigjorda kapitalet ska gå till.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "CEO on the billion loss: ”Looking ahead”",
-        "summary": "Ratos bites the bullet and takes a billion loss as the investment company sells the struggling garden chain Plantagen. ”I choose to look ahead,” says CEO Gustaf Salford, revealing where the freed-up capital will go."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T21:15:59+01:00"
       }
     }
   ]
