@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T05:46:10+01:00",
+  "generated_at": "2026-11-25T06:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f1ed6596b58e",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/6Pjado/wille-26-dog-i-elsparksolycka-en-otrolig-saknad",
+      "guid": "https://www.aftonbladet.se/nyheter/a/6Pjado/wille-26-dog-i-elsparksolycka-en-otrolig-saknad?utm_medium=rss",
+      "published_at": "2026-11-25T05:50:38+01:00",
+      "fetched_at": "2026-11-25T06:01:10+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/702def6d-d69a-334d-be37-c2dcfbca3b0a?format=auto&s=ce7079ed36a62fd5667eea6ae2ce53e844a84dc2&w=1000",
+      "sv": {
+        "title": "Wille, 26, dog i elsparksolycka: ”En otrolig saknad”",
+        "summary": "Wilhelm, 26, dog när elsparken slutade fungera",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wille, 26, died in e-scooter accident: \"An incredible loss\"",
+        "summary": "Wilhelm, 26, died when the e-scooter stopped working"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T06:01:19+01:00"
+      }
+    },
     {
       "id": "4e02ddab02b8",
       "schema_version": 1,
@@ -5345,33 +5372,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T07:01:16+01:00"
-      }
-    },
-    {
-      "id": "2ecf467c23fc",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/pMLveG/inspirerade-av-trump-nu-kan-vox-bli-vagmastare",
-      "guid": "https://www.aftonbladet.se/nyheter/a/pMLveG/inspirerade-av-trump-nu-kan-vox-bli-vagmastare?utm_medium=rss",
-      "published_at": "2026-11-22T06:00:10+01:00",
-      "fetched_at": "2026-11-22T06:01:12+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/6f8372b2-85a2-30f2-86df-b38e494b7ce3?format=auto&s=8a786b23ebfa57c52604954cb949d5e1681ce189&w=1000",
-      "sv": {
-        "title": "Inspirerade av Trump – nu kan Vox bli vågmästare",
-        "summary": "Högerradikala Vox väntas gå framåt i det spanska nyvalet om en vecka och få en vågmästarroll.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Inspired by Trump – now Vox could become kingmaker",
-        "summary": "The far-right Vox is expected to gain ground in the Spanish snap election in a week and play a kingmaker role."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T06:01:20+01:00"
       }
     }
   ]
