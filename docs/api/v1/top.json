@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:37:25+01:00",
+  "generated_at": "2026-11-25T22:45:57+01:00",
   "count": 30,
   "stories": [
     {
@@ -1770,76 +1770,63 @@
       ]
     },
     {
-      "id": "99deffafb00b",
-      "source_count": 3,
+      "id": "4e99c4e9ddf1",
+      "source_count": 2,
       "sources": [
-        "expressen",
-        "sydsvenskan",
-        "di"
+        "svt",
+        "tv4"
       ],
-      "first_published_at": "2026-11-25T08:21:53+01:00",
-      "last_published_at": "2026-11-25T10:44:13+01:00",
+      "first_published_at": "2026-11-25T20:19:00+01:00",
+      "last_published_at": "2026-11-25T22:37:01+01:00",
       "lead": {
-        "id": "99deffafb00b",
+        "id": "4e99c4e9ddf1",
         "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/ekonomi/tech/tidal-forbjuder-ai-genererad-musik",
-        "guid": "https://www.expressen.se/ekonomi/tech/tidal-forbjuder-ai-genererad-musik/",
-        "published_at": "2026-11-25T08:21:53+01:00",
-        "fetched_at": "2026-11-25T08:30:59+01:00",
-        "category": "culture",
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri",
+        "guid": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri",
+        "published_at": "2026-11-25T20:19:00+01:00",
+        "fetched_at": "2026-11-25T20:31:03+01:00",
+        "category": "politics",
         "sv": {
-          "title": "Tidal förbjuder AI-genererad musik",
-          "summary": "Från den 9 december kommer all helt AI-genererad musik att plockas bort från streamingtjänsten Tidal, som därmed blir först bland streamingtjänsterna att införa ett förbud mot AI-musik.",
+          "title": "Spricka mellan C-topparna inför vägvalet: ”Slöseri”",
+          "summary": "Inom C pågår interna strider om vägvalet i regeringsfrågan. Motståndare till en Kristersson-lösning mobiliserar för ett annat alternativ – och källor varnar för en framtid med partisplittring och avhopp.",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Tidal bans AI-generated music",
-          "summary": "From 9 December, all fully AI-generated music will be removed from the streaming service Tidal, which thereby becomes the first among streaming services to introduce a ban on AI music."
+          "title": "Rift between Centre Party top figures ahead of route choice: ”Waste”",
+          "summary": "Within the Centre Party, internal battles are under way over the route choice in the government question. Opponents of a Kristersson solution are mobilising for another alternative – and sources warn of a future with party splits and defections."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T08:31:03+01:00"
+          "translated_at": "2026-11-25T20:31:22+01:00"
         }
       },
       "items": [
         {
-          "id": "874326f96797",
-          "source": "di",
-          "url": "https://www.di.se/live/spotify-konkurrent-forbjuder-ai-musik",
-          "published_at": "2026-11-25T10:44:13+01:00",
+          "id": "eaf004f284fd",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/1NdcZxhVKDU0gevNpEBmvN/sprickan-inom-centerpartiet-kunde-inte-varit-djupare",
+          "published_at": "2026-11-25T22:37:01+01:00",
           "sv": {
-            "title": "Spotify-konkurrent förbjuder AI-musik"
+            "title": "Sprickan i C kunde inte varit djupare"
           },
           "en": {
-            "title": "Spotify rival bans AI music"
+            "title": "The rift in C could not have been deeper"
           }
         },
         {
-          "id": "55cb76c4e5c8",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/noje/musiktjansten-forbjuder-ai-musik",
-          "published_at": "2026-11-25T10:28:39+01:00",
+          "id": "4e99c4e9ddf1",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri",
+          "published_at": "2026-11-25T20:19:00+01:00",
           "sv": {
-            "title": "Musiktjänsten förbjuder AI-musik"
+            "title": "Spricka mellan C-topparna inför vägvalet: ”Slöseri”"
           },
           "en": {
-            "title": "Music streaming service bans AI music"
-          }
-        },
-        {
-          "id": "99deffafb00b",
-          "source": "expressen",
-          "url": "https://www.expressen.se/ekonomi/tech/tidal-forbjuder-ai-genererad-musik",
-          "published_at": "2026-11-25T08:21:53+01:00",
-          "sv": {
-            "title": "Tidal förbjuder AI-genererad musik"
-          },
-          "en": {
-            "title": "Tidal bans AI-generated music"
+            "title": "Rift between Centre Party top figures ahead of route choice: ”Waste”"
           }
         }
       ]

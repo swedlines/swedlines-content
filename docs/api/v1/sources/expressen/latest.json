@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T22:37:25+01:00",
+  "generated_at": "2026-11-25T22:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "db7d0136e8d7",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/noje/storstjarnan-sofia-vergara-hyllas-vacker-reaktioner",
+      "guid": "https://www.expressen.se/noje/storstjarnan-sofia-vergara-hyllas-vacker-reaktioner/",
+      "published_at": "2026-11-25T22:16:20+01:00",
+      "fetched_at": "2026-11-25T22:45:48+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Storstjärnan Sofia Vergara hyllas – väcker reaktioner",
+        "summary": "Sofia Vergara har återvänt till sitt hemland Colombia för att se den drygt sju meter höga bronsstatyn av henne. Men reaktionerna om den ”massiva” statyn går isär, enligt Page Six.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Star Sofia Vergara celebrated – sparks reactions",
+        "summary": "Sofia Vergara has returned to her home country Colombia to see the just over seven-metre-tall bronze statue of her. But reactions to the \"massive\" statue are divided, according to Page Six."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T22:45:55+01:00"
+      }
+    },
     {
       "id": "f5f54b7efd33",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T20:01:17+01:00"
-      }
-    },
-    {
-      "id": "142fa25aad50",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/bakslag-lussebullar-stoppas-pa-forskolor",
-      "guid": "https://www.expressen.se/nyheter/sverige/bakslag-lussebullar-stoppas-pa-forskolor/",
-      "published_at": "2026-11-22T19:32:01+01:00",
-      "fetched_at": "2026-11-22T19:45:47+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Bakslag: Lussebullar stoppas på förskolor",
-        "summary": "Några förskolor i Majorna i Göteborg har satt stopp för årets lussebak. En av rektorerna tycker att barnen ska baka saltdeg eller playdoh i stället. – Det är tråkigt om man landar i att det inte blir något lussebak alls, säger Blerta Hoti Singh (S), kommunalråd med ansvar för förskolefrågor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Setback: Lucia buns banned at preschools",
-        "summary": "Several preschools in Majorna in Göteborg have stopped this year's Lucia baking. One of the principals thinks the children should bake salt dough or Play-Doh instead. – It would be sad if it ends with no Lucia baking at all, says Blerta Hoti Singh (S), municipal commissioner responsible for preschool matters."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T19:45:54+01:00"
       }
     }
   ]

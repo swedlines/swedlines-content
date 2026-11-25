@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T22:37:25+01:00",
+  "generated_at": "2026-11-25T22:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eaf004f284fd",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1NdcZxhVKDU0gevNpEBmvN/sprickan-inom-centerpartiet-kunde-inte-varit-djupare",
+      "guid": "1NdcZxhVKDU0gevNpEBmvN",
+      "published_at": "2026-11-25T22:37:01+01:00",
+      "fetched_at": "2026-11-25T22:45:49+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Sprickan i C kunde inte varit djupare"
+      },
+      "en": {
+        "title": "The rift in C could not have been deeper"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T22:45:55+01:00"
+      }
+    },
     {
       "id": "01988918d7e1",
       "schema_version": 1,
@@ -136,6 +162,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T22:31:14+01:00"
+      }
+    },
+    {
+      "id": "db7d0136e8d7",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/noje/storstjarnan-sofia-vergara-hyllas-vacker-reaktioner",
+      "guid": "https://www.expressen.se/noje/storstjarnan-sofia-vergara-hyllas-vacker-reaktioner/",
+      "published_at": "2026-11-25T22:16:20+01:00",
+      "fetched_at": "2026-11-25T22:45:48+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Storstjärnan Sofia Vergara hyllas – väcker reaktioner",
+        "summary": "Sofia Vergara har återvänt till sitt hemland Colombia för att se den drygt sju meter höga bronsstatyn av henne. Men reaktionerna om den ”massiva” statyn går isär, enligt Page Six.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Star Sofia Vergara celebrated – sparks reactions",
+        "summary": "Sofia Vergara has returned to her home country Colombia to see the just over seven-metre-tall bronze statue of her. But reactions to the \"massive\" statue are divided, according to Page Six."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T22:45:55+01:00"
       }
     },
     {
@@ -5384,57 +5436,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T16:15:54+01:00"
-      }
-    },
-    {
-      "id": "40681d85a0d3",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/utvisningar-vid-vags-ande",
-      "guid": "a40344e8-f298-4b84-acd6-802ae1f81bc5",
-      "published_at": "2026-11-25T15:55:20+01:00",
-      "fetched_at": "2026-11-25T16:01:20+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/7cf818b6-fd4a-4d70-bc1e-589784dcbe0c.jpeg?width=600",
-      "sv": {
-        "title": "Utvisningar vid vägs ände"
-      },
-      "en": {
-        "title": "Deportations at the end of the road"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T16:01:29+01:00"
-      }
-    },
-    {
-      "id": "cc30ecc1caea",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/6PjbwO/kristersson-och-thand-ringqvist-i-nytt-mote-forhandlingar-i-alliansen",
-      "guid": "https://www.aftonbladet.se/nyheter/a/6PjbwO/kristersson-och-thand-ringqvist-i-nytt-mote-forhandlingar-i-alliansen?utm_medium=rss",
-      "published_at": "2026-11-25T15:54:49+01:00",
-      "fetched_at": "2026-11-25T19:34:43+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/b2ecab12-7457-3204-924e-09c5b03dd462?format=auto&s=f29d394dcc7c16f7dec7a10a1f85d28171e9a3f4&w=1000",
-      "sv": {
-        "title": "Kristersson och Thand Ringqvist i nytt möte – förhandlingar i Alliansen",
-        "summary": "”Den gemensamma viljan”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kristersson and Thand Ringqvist in new meeting – negotiations in the Alliance",
-        "summary": "“The common will”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T19:34:52+01:00"
       }
     }
   ]
