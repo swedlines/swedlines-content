@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T07:45:57+01:00",
+  "generated_at": "2026-11-25T08:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6bb748b049f1",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349551",
+      "guid": "rss:sr.se/article/9349551",
+      "published_at": "2026-11-25T07:58:00+01:00",
+      "fetched_at": "2026-11-25T08:01:10+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Huawei dömd i USA",
+        "summary": "Huawei har bland annat dömts för att ha haft upplägg för att stjäla handelshemligheter, rapporterar flera medier. Bolaget döms på tio av tolv åtalspunkter, däribland upplägg för att bryta mot USA:s sanktioner.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Huawei convicted in USA",
+        "summary": "Huawei has been convicted, among other things, of having schemes to steal trade secrets, multiple media outlets report. The company is convicted on ten of twelve counts of charges, including schemes to violate US sanctions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T08:01:20+01:00"
+      }
+    },
     {
       "id": "adfcf6526c82",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T15:15:49+01:00"
-      }
-    },
-    {
-      "id": "92f971f1aee1",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346307",
-      "guid": "rss:sr.se/article/9346307",
-      "published_at": "2026-11-19T14:25:00+01:00",
-      "fetched_at": "2026-11-19T14:30:56+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Klamberg: Myanmardomen kan bli vägledande",
-        "summary": "Myanmar blev det första landet att dömas för folkmord när ICJ dömde staten för folkmord mot rohingyerna. Folkrättsexperten tror nu att det kan bli vägledande, exempelvis i fallet där Israel anklagas för folkmord mot palestinier i Gaza, även om det finns skillnader.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Klamberg: The Myanmar ruling could become precedent-setting",
-        "summary": "Myanmar became the first country convicted of genocide when the ICJ found the state guilty of genocide against the Rohingya. The international law expert now believes it could become precedent-setting, for example in the case where Israel is accused of genocide against Palestinians in Gaza, although there are differences."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T14:31:07+01:00"
       }
     }
   ]

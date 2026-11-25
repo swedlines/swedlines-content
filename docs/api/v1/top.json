@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T07:45:57+01:00",
+  "generated_at": "2026-11-25T08:01:23+01:00",
   "count": 24,
   "stories": [
     {
@@ -16,7 +16,7 @@
         "di"
       ],
       "first_published_at": "2026-11-25T07:00:00+01:00",
-      "last_published_at": "2026-11-25T07:10:24+01:00",
+      "last_published_at": "2026-11-25T07:45:32+01:00",
       "lead": {
         "id": "adfcf6526c82",
         "schema_version": 1,
@@ -44,6 +44,18 @@
         }
       },
       "items": [
+        {
+          "id": "641aeb81f7fe",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80288",
+          "published_at": "2026-11-25T07:45:32+01:00",
+          "sv": {
+            "title": "Pausar utvisningar av unga vuxna tillfälligt"
+          },
+          "en": {
+            "title": "Temporarily pauses deportations of young adults"
+          }
+        },
         {
           "id": "b2dbf3d8d4bb",
           "source": "di",
@@ -252,6 +264,18 @@
           },
           "en": {
             "title": "Centre Party slips in new poll – close to the threshold"
+          }
+        },
+        {
+          "id": "8511ac46161b",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/3BJA2X/centerpartiet-backar-i-matning-nara-sparren",
+          "published_at": "2026-11-25T04:46:18+01:00",
+          "sv": {
+            "title": "C och S backar i mätning: ”Det är väl klart?”"
+          },
+          "en": {
+            "title": "C and S fall in poll: \"Well, isn't that obvious?\""
           }
         },
         {
@@ -531,6 +555,95 @@
       ]
     },
     {
+      "id": "b3577a1c2104",
+      "source_count": 4,
+      "sources": [
+        "svd",
+        "svt",
+        "di",
+        "sr"
+      ],
+      "first_published_at": "2026-11-25T01:04:33+01:00",
+      "last_published_at": "2026-11-25T07:58:00+01:00",
+      "lead": {
+        "id": "b3577a1c2104",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/KL35A5/huawei-doms-i-usa",
+        "guid": "https://www.svd.se/a/KL35A5/huawei-doms-i-usa?utm_medium=rss",
+        "published_at": "2026-11-25T01:04:33+01:00",
+        "fetched_at": "2026-11-25T01:15:45+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/b3b498f1-7590-3446-956d-e89baab5eaf4?format=auto&s=89ca3c91d4d2bdc341f9d7021b1de8d41fc8f83d&w=1000",
+        "sv": {
+          "title": "Huawei döms i USA",
+          "summary": "Huawei har bland annat dömts för att ha haft upplägg för att stjäla handelshemligheter, rapporterar…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Huawei convicted in the US",
+          "summary": "Huawei has, among other things, been convicted of having schemes to steal trade secrets, reports…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T01:15:49+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "6bb748b049f1",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9349551",
+          "published_at": "2026-11-25T07:58:00+01:00",
+          "sv": {
+            "title": "Huawei dömd i USA"
+          },
+          "en": {
+            "title": "Huawei convicted in USA"
+          }
+        },
+        {
+          "id": "ac4bb8f18917",
+          "source": "di",
+          "url": "https://www.di.se/live/huawei-doms-i-usa",
+          "published_at": "2026-11-25T05:12:13+01:00",
+          "sv": {
+            "title": "Huawei döms i USA"
+          },
+          "en": {
+            "title": "Huawei convicted in US"
+          }
+        },
+        {
+          "id": "a108e6b3cea8",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/utrikes/huawei-doms-i-usa",
+          "published_at": "2026-11-25T01:06:16+01:00",
+          "sv": {
+            "title": "Huawei döms i USA"
+          },
+          "en": {
+            "title": "Huawei convicted in the US"
+          }
+        },
+        {
+          "id": "b3577a1c2104",
+          "source": "svd",
+          "url": "https://www.svd.se/a/KL35A5/huawei-doms-i-usa",
+          "published_at": "2026-11-25T01:04:33+01:00",
+          "sv": {
+            "title": "Huawei döms i USA"
+          },
+          "en": {
+            "title": "Huawei convicted in the US"
+          }
+        }
+      ]
+    },
+    {
       "id": "b60521972973",
       "source_count": 4,
       "sources": [
@@ -791,82 +904,6 @@
           },
           "en": {
             "title": "This is how much higher the ISK tax becomes"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b3577a1c2104",
-      "source_count": 3,
-      "sources": [
-        "svd",
-        "svt",
-        "di"
-      ],
-      "first_published_at": "2026-11-25T01:04:33+01:00",
-      "last_published_at": "2026-11-25T05:12:13+01:00",
-      "lead": {
-        "id": "b3577a1c2104",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/KL35A5/huawei-doms-i-usa",
-        "guid": "https://www.svd.se/a/KL35A5/huawei-doms-i-usa?utm_medium=rss",
-        "published_at": "2026-11-25T01:04:33+01:00",
-        "fetched_at": "2026-11-25T01:15:45+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/b3b498f1-7590-3446-956d-e89baab5eaf4?format=auto&s=89ca3c91d4d2bdc341f9d7021b1de8d41fc8f83d&w=1000",
-        "sv": {
-          "title": "Huawei döms i USA",
-          "summary": "Huawei har bland annat dömts för att ha haft upplägg för att stjäla handelshemligheter, rapporterar…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Huawei convicted in the US",
-          "summary": "Huawei has, among other things, been convicted of having schemes to steal trade secrets, reports…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T01:15:49+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "ac4bb8f18917",
-          "source": "di",
-          "url": "https://www.di.se/live/huawei-doms-i-usa",
-          "published_at": "2026-11-25T05:12:13+01:00",
-          "sv": {
-            "title": "Huawei döms i USA"
-          },
-          "en": {
-            "title": "Huawei convicted in US"
-          }
-        },
-        {
-          "id": "a108e6b3cea8",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/utrikes/huawei-doms-i-usa",
-          "published_at": "2026-11-25T01:06:16+01:00",
-          "sv": {
-            "title": "Huawei döms i USA"
-          },
-          "en": {
-            "title": "Huawei convicted in the US"
-          }
-        },
-        {
-          "id": "b3577a1c2104",
-          "source": "svd",
-          "url": "https://www.svd.se/a/KL35A5/huawei-doms-i-usa",
-          "published_at": "2026-11-25T01:04:33+01:00",
-          "sv": {
-            "title": "Huawei döms i USA"
-          },
-          "en": {
-            "title": "Huawei convicted in the US"
           }
         }
       ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T07:45:57+01:00",
+  "generated_at": "2026-11-25T08:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9981255aa310",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/se-gyokeres-kanonmal-hyllas-absolut-varldsklass",
+      "guid": "e00170fa-e2c5-445b-ba87-85127d963b62",
+      "published_at": "2026-11-25T07:58:29+01:00",
+      "fetched_at": "2026-11-25T08:01:15+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/2dd519cc-de29-4a9e-8b11-629e04976af1.jpg?width=600",
+      "sv": {
+        "title": "Se Gyökeres kanonmål – hyllas: ”Absolut världsklass”",
+        "summary": "Viktor Gyökeres hyllas efter sitt drömmål hemma mot Dortmund i Champions League.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Watch Gyökeres's stunning goal – praised: \"Absolutely world class\"",
+        "summary": "Viktor Gyökeres is being praised after his dream goal at home against Dortmund in the Champions League."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T08:01:20+01:00"
+      }
+    },
     {
       "id": "cdfe63646824",
       "schema_version": 1,
@@ -5574,33 +5601,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T15:31:07+01:00"
-      }
-    },
-    {
-      "id": "1cf1e004d7c9",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/mff-maste-spara-lagger-ner-reservlaget-inte-en-forening-for-alla",
-      "guid": "90f99943-688a-4dc5-8b66-1f878cc6b6ef",
-      "published_at": "2026-11-19T14:12:43+01:00",
-      "fetched_at": "2026-11-19T14:15:48+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/593b7f0c-8457-41d2-aaa7-73d670502332.jpeg?width=600",
-      "sv": {
-        "title": "MFF måste spara – lägger ner reservlaget: ”Inte en förening för alla”",
-        "summary": "Förra veckan kom beskedet att FC Rosengård 1917 lägger ner sitt damlag. Nu gör MFF samma sak med Malmö FF akademi. Anledningen är att Malmö FF måste spara. – Ja, men det finns fler orsaker till att vi gör så här, säger Maxim Khalil, sportchef för damerna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "MFF must save – shuts down reserve team: “Not a club for everyone”",
-        "summary": "Last week came the news that FC Rosengård 1917 is shutting down its women's team. Now MFF is doing the same with the Malmö FF academy. The reason is that Malmö FF has to save. – Yes, but there are more reasons why we are doing this, says Maxim Khalil, sporting director for the women's team."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T14:16:07+01:00"
       }
     }
   ]

@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-25T07:45:57+01:00",
+  "generated_at": "2026-11-25T08:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "641aeb81f7fe",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80288",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80288&utm_medium=rss",
+      "published_at": "2026-11-25T07:45:32+01:00",
+      "fetched_at": "2026-11-25T08:01:12+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/03a89f5f-1966-393e-8622-b44bce2b2814?format=auto&s=6d9ff577be8369046141127721bfccd97b345475&w=1000",
+      "sv": {
+        "title": "Pausar utvisningar av unga vuxna tillfälligt"
+      },
+      "en": {
+        "title": "Temporarily pauses deportations of young adults"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T08:01:20+01:00"
+      }
+    },
     {
       "id": "8195b3e4c821",
       "schema_version": 1,
@@ -609,6 +633,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T04:59:42+01:00"
+      }
+    },
+    {
+      "id": "8511ac46161b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/3BJA2X/centerpartiet-backar-i-matning-nara-sparren",
+      "guid": "https://www.aftonbladet.se/nyheter/a/3BJA2X/centerpartiet-backar-i-matning-nara-sparren?utm_medium=rss",
+      "published_at": "2026-11-25T04:46:18+01:00",
+      "fetched_at": "2026-11-25T08:01:12+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/3b8f98c0-08ee-3ea9-a4b0-09cc182699e8?format=auto&s=4fe7f42abaa247455ad5ab75558dbf3427b1c973&w=1000",
+      "sv": {
+        "title": "C och S backar i mätning: ”Det är väl klart?”",
+        "summary": "Ny mätning",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C and S fall in poll: \"Well, isn't that obvious?\"",
+        "summary": "New poll"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T08:01:20+01:00"
       }
     },
     {
@@ -5337,60 +5388,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T14:45:56+01:00"
-      }
-    },
-    {
-      "id": "fea311e8353b",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/bred-uppslutning-bakom-vansterns-ledning",
-      "guid": "0e4d8148-54b6-444b-a5f3-d5998c91f056",
-      "published_at": "2026-11-23T14:09:00+01:00",
-      "fetched_at": "2026-11-23T14:15:53+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/97fbfcff-3a1e-42db-bd47-ec970e019f8f.jpg?width=600",
-      "sv": {
-        "title": "Bred uppslutning bakom Vänsterns ledning",
-        "summary": "Flera av Vänsterpartiets distrikt sluter upp bakom partiledningens besked att inte backa från kravet på ministerposter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Broad support behind the Left Party leadership",
-        "summary": "Several of the Left Party's districts are rallying behind the party leadership's decision not to back down from the demand for ministerial posts."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T14:16:05+01:00"
-      }
-    },
-    {
-      "id": "f9ac482cf1af",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/KL343X/bred-uppslutning-bakom-vansterns-ledning",
-      "guid": "https://www.svd.se/a/KL343X/bred-uppslutning-bakom-vansterns-ledning?utm_medium=rss",
-      "published_at": "2026-11-23T14:05:08+01:00",
-      "fetched_at": "2026-11-23T14:15:49+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/bc1d8208-6357-337d-b8c0-903bca1b9727?format=auto&s=68645983c52d50972bc52d67d901de64c9333bf0&w=1000",
-      "sv": {
-        "title": "Bred uppslutning bakom Vänsterns ledning",
-        "summary": "Flera av Vänsterpartiets distrikt sluter upp bakom partiledningens besked att inte backa från kravet…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Broad support behind the Left Party leadership",
-        "summary": "Several of the Left Party's districts are rallying behind the party leadership's decision not to back down from the demand…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T14:16:05+01:00"
       }
     }
   ]
