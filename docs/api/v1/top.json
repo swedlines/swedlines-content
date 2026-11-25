@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:28:47+01:00",
+  "generated_at": "2026-11-25T14:31:17+01:00",
   "count": 30,
   "stories": [
     {
@@ -647,6 +647,106 @@
       ]
     },
     {
+      "id": "5d16a595b683",
+      "source_count": 4,
+      "sources": [
+        "di",
+        "svd",
+        "expressen",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-25T14:13:53+01:00",
+      "last_published_at": "2026-11-25T14:30:09+01:00",
+      "lead": {
+        "id": "5d16a595b683",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/usa-foreslar-nya-tullar-mot-14-marknader",
+        "guid": "994f90ca-1268-4dfd-9302-57006f564320",
+        "published_at": "2026-11-25T14:13:53+01:00",
+        "fetched_at": "2026-11-25T14:15:50+01:00",
+        "category": "economy",
+        "sv": {
+          "title": "USA föreslår nya tullar mot 14 marknader",
+          "summary": "USA föreslår nya tullar mot 14 marknader, däribland Kina, EU, Japan och Indien, skriver CNBC.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "USA proposes new tariffs on 14 markets",
+          "summary": "The USA proposes new tariffs on 14 markets, including China, the EU, Japan and India, CNBC reports."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T14:15:57+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "d8baa4994129",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/trump-lanserar-nya-tullar",
+          "published_at": "2026-11-25T14:30:09+01:00",
+          "sv": {
+            "title": "Trump lanserar nya tullar"
+          },
+          "en": {
+            "title": "Trump launches new tariffs"
+          }
+        },
+        {
+          "id": "54e8a4c5a05b",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80306",
+          "published_at": "2026-11-25T14:26:57+01:00",
+          "sv": {
+            "title": "Trump planerar nya tullar mot EU"
+          },
+          "en": {
+            "title": "Trump plans new tariffs against the EU"
+          }
+        },
+        {
+          "id": "a030326d00a3",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=5069231f-e66f-495a-ad7f-6689e5d6354e",
+          "published_at": "2026-11-25T14:23:32+01:00",
+          "sv": {
+            "title": "Trump planerar nya tullar"
+          },
+          "en": {
+            "title": "Trump plans new tariffs"
+          }
+        },
+        {
+          "id": "274e611cf8c2",
+          "source": "svd",
+          "url": "https://www.svd.se/a/g378eq/trump-lanserar-nya-tullar",
+          "published_at": "2026-11-25T14:19:24+01:00",
+          "sv": {
+            "title": "Trump lanserar nya tullar"
+          },
+          "en": {
+            "title": "Trump launches new tariffs"
+          }
+        },
+        {
+          "id": "5d16a595b683",
+          "source": "di",
+          "url": "https://www.di.se/live/usa-foreslar-nya-tullar-mot-14-marknader",
+          "published_at": "2026-11-25T14:13:53+01:00",
+          "sv": {
+            "title": "USA föreslår nya tullar mot 14 marknader"
+          },
+          "en": {
+            "title": "USA proposes new tariffs on 14 markets"
+          }
+        }
+      ]
+    },
+    {
       "id": "c9a509e41e6f",
       "source_count": 4,
       "sources": [
@@ -1109,81 +1209,6 @@
           },
           "en": {
             "title": "This is how much higher the ISK tax becomes"
-          }
-        }
-      ]
-    },
-    {
-      "id": "5d16a595b683",
-      "source_count": 3,
-      "sources": [
-        "di",
-        "svd",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-25T14:13:53+01:00",
-      "last_published_at": "2026-11-25T14:23:32+01:00",
-      "lead": {
-        "id": "5d16a595b683",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/usa-foreslar-nya-tullar-mot-14-marknader",
-        "guid": "994f90ca-1268-4dfd-9302-57006f564320",
-        "published_at": "2026-11-25T14:13:53+01:00",
-        "fetched_at": "2026-11-25T14:15:50+01:00",
-        "category": "economy",
-        "sv": {
-          "title": "USA föreslår nya tullar mot 14 marknader",
-          "summary": "USA föreslår nya tullar mot 14 marknader, däribland Kina, EU, Japan och Indien, skriver CNBC.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "USA proposes new tariffs on 14 markets",
-          "summary": "The USA proposes new tariffs on 14 markets, including China, the EU, Japan and India, CNBC reports."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T14:15:57+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "a030326d00a3",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=5069231f-e66f-495a-ad7f-6689e5d6354e",
-          "published_at": "2026-11-25T14:23:32+01:00",
-          "sv": {
-            "title": "Trump planerar nya tullar"
-          },
-          "en": {
-            "title": "Trump plans new tariffs"
-          }
-        },
-        {
-          "id": "274e611cf8c2",
-          "source": "svd",
-          "url": "https://www.svd.se/a/g378eq/trump-lanserar-nya-tullar",
-          "published_at": "2026-11-25T14:19:24+01:00",
-          "sv": {
-            "title": "Trump lanserar nya tullar"
-          },
-          "en": {
-            "title": "Trump launches new tariffs"
-          }
-        },
-        {
-          "id": "5d16a595b683",
-          "source": "di",
-          "url": "https://www.di.se/live/usa-foreslar-nya-tullar-mot-14-marknader",
-          "published_at": "2026-11-25T14:13:53+01:00",
-          "sv": {
-            "title": "USA föreslår nya tullar mot 14 marknader"
-          },
-          "en": {
-            "title": "USA proposes new tariffs on 14 markets"
           }
         }
       ]

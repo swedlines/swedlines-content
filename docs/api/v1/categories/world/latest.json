@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-11-25T14:28:47+01:00",
+  "generated_at": "2026-11-25T14:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d8baa4994129",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/trump-lanserar-nya-tullar",
+      "guid": "02d649f3-11cf-4ac2-8d03-a2d919bf04f0",
+      "published_at": "2026-11-25T14:30:09+01:00",
+      "fetched_at": "2026-11-25T14:31:09+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump lanserar nya tullar",
+        "summary": "USA kommer att lansera tullar på upp till 20 procent mot EU. Mot Kina kan det bli upp till 40 procents tullar, enligt Bloomberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump launches new tariffs",
+        "summary": "The US will launch tariffs of up to 20 percent against the EU. Against China, there could be tariffs of up to 40 percent, according to Bloomberg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:31:14+01:00"
+      }
+    },
+    {
+      "id": "54e8a4c5a05b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80306",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80306&utm_medium=rss",
+      "published_at": "2026-11-25T14:26:57+01:00",
+      "fetched_at": "2026-11-25T14:31:06+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump planerar nya tullar mot EU"
+      },
+      "en": {
+        "title": "Trump plans new tariffs against the EU"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:31:14+01:00"
+      }
+    },
     {
       "id": "a030326d00a3",
       "schema_version": 1,
@@ -5306,55 +5355,6 @@
       "en": {
         "title": "Military expert: Sinking of the ship a hard blow to Russia",
         "summary": "The Russian Merkurij missile corvette was sunk in an attack with Ukrainian naval drones. Ukrainian President Volodymyr Zelenskyj confirms this on Monday. – It is a major loss for Russia, says military expert Johan Huovinen. The attack can be seen as part of the economic war between the countries."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T11:01:15+01:00"
-      }
-    },
-    {
-      "id": "5d1e43d437ad",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80215",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80215&utm_medium=rss",
-      "published_at": "2026-11-23T10:53:31+01:00",
-      "fetched_at": "2026-11-23T11:01:07+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Bombhot mot skolor i hela Danmark"
-      },
-      "en": {
-        "title": "Bomb threat against schools across Denmark"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T11:01:15+01:00"
-      }
-    },
-    {
-      "id": "14a18f9a1ac4",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348127",
-      "guid": "rss:sr.se/article/9348127",
-      "published_at": "2026-11-23T10:49:00+01:00",
-      "fetched_at": "2026-11-23T11:01:06+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Bombhot mot flera danska skolor",
-        "summary": "Flera skolor runt om i Danmark har fått ta emot bombhot nu under morgonen, det skriver dansk polis på sin sajt. Polisen kommer undersöka hoten mot varje skola, men skriver samtidigt att det för tillfället inte finns anledning till oro.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bomb threat against several Danish schools",
-        "summary": "Several schools across Denmark received bomb threats this morning, Danish police write on their website. The police will investigate the threats against each school, but state at the same time that there is currently no reason for concern."
       },
       "translation": {
         "status": "done",
