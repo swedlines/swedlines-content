@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T14:01:28+01:00",
+  "generated_at": "2026-11-25T14:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c236fc7d7083",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/r8AQKe/baver-har-byggt-bo-vag-svammar-over",
+      "guid": "https://www.aftonbladet.se/nyheter/a/r8AQKe/baver-har-byggt-bo-vag-svammar-over?utm_medium=rss",
+      "published_at": "2026-11-25T14:01:19+01:00",
+      "fetched_at": "2026-11-25T14:15:48+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/cc05fe82-e3f2-33e7-9a72-f06fad611c8f?format=auto&s=05b93dd47b57485ec4d0f929332cb71435e1f6d1&w=1000",
+      "sv": {
+        "title": "Bäver har byggt bo – väg svämmar över",
+        "summary": "En bäver har byggt bo i en vägtrumma – och stängt av en väg på kuppen, rapporterar Mitti.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Beaver has built a den – road floods over",
+        "summary": "A beaver has built a den in a road culvert – and closed off a road in the process, Mitti reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:15:57+01:00"
+      }
+    },
     {
       "id": "b3db755689d7",
       "schema_version": 1,
@@ -5344,33 +5371,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T18:45:53+01:00"
-      }
-    },
-    {
-      "id": "afffb4086018",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/yz3M2J/andersson-startpaket-till-v",
-      "guid": "https://www.aftonbladet.se/nyheter/a/yz3M2J/andersson-startpaket-till-v?utm_medium=rss",
-      "published_at": "2026-11-22T18:03:01+01:00",
-      "fetched_at": "2026-11-22T18:15:46+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/8841042f-75b1-3d27-a4cb-48c4f1b20ca7?format=auto&s=73c27659afdb0703c3918c7719c035f3ab1d5f5f&w=1000",
-      "sv": {
-        "title": "Andersson: ”Startpaket” till V klart",
-        "summary": "S, C och MP är överens om att erbjuda ett ”startpaket” till V för att lösa blockeringen i…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Andersson: “Starter package” for V done",
-        "summary": "The Social Democrats, the Centre Party and the Green Party agree to offer the Left Party a “starter package” to resolve the deadlock over the government…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T18:15:53+01:00"
       }
     }
   ]

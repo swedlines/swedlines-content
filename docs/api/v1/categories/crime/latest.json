@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:01:28+01:00",
+  "generated_at": "2026-11-25T14:15:59+01:00",
   "count": 200,
   "items": [
     {
@@ -26,6 +26,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T14:01:22+01:00"
+      }
+    },
+    {
+      "id": "44874de825fb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/massageterapeut-doms-for-valdtakt",
+      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/massageterapeut-doms-for-valdtakt",
+      "published_at": "2026-11-25T13:52:27+01:00",
+      "fetched_at": "2026-11-25T14:15:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Massageterapeut döms för våldtäkt",
+        "summary": "En manlig massageterapeut har dömts till fängelse för våldtäkt och sexuellt övergrepp. Brotten ska ha begåtts i Västerås kommun.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Massage therapist sentenced for rape",
+        "summary": "A male massage therapist has been sentenced to prison for rape and sexual abuse. The crimes are said to have been committed in Västerås Municipality."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:15:57+01:00"
       }
     },
     {
@@ -5391,32 +5417,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T19:01:29+01:00"
-      }
-    },
-    {
-      "id": "50c7134abc16",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347487",
-      "guid": "rss:sr.se/article/9347487",
-      "published_at": "2026-11-20T18:07:00+01:00",
-      "fetched_at": "2026-11-20T18:15:44+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisens varning: Ett bedrägeriförsök i minuten",
-        "summary": "Det nu görs just nu i snitt ett bedrägeriförsök i minuten, enligt polisens lägesbild. Polisen varnar för att falska annonser och erbjudanden på nätet väntas öka inför Black Friday.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Police warning: One fraud attempt every minute",
-        "summary": "There is currently an average of one fraud attempt per minute, according to the police situation report. Police warn that fake ads and offers online are expected to increase ahead of Black Friday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:16:00+01:00"
       }
     }
   ]
