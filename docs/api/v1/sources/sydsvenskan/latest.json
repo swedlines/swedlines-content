@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T11:15:59+01:00",
+  "generated_at": "2026-11-25T11:31:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "523ba3018025",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/c-kvinnor-satter-ned-foten-om-sd",
+      "guid": "3cd7f9f3-772e-4473-89e7-6a50d66d729d",
+      "published_at": "2026-11-25T11:22:56+01:00",
+      "fetched_at": "2026-11-25T11:31:10+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/ab6714e6-fd3e-4031-a5f9-21257d6ccbab.jpg?width=600",
+      "sv": {
+        "title": "C-kvinnor sätter ned foten om SD",
+        "summary": "Om de rödgröna partierna inte kan enas bör Centerpartiet gå i opposition. Det anser partiets kvinnoförbund som nu har fattat beslut i frågan, rapporterar Ekot.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party women put their foot down over the Sweden Democrats",
+        "summary": "If the red-greens cannot agree, the Centre Party should go into opposition. That is the view of the party's women's league, which has now made a decision on the matter, reports Ekot."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:31:23+01:00"
+      }
+    },
     {
       "id": "600e4404ee63",
       "schema_version": 1,
@@ -5160,33 +5187,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T21:01:15+01:00"
-      }
-    },
-    {
-      "id": "ae5a8bb6d572",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/tar-forsta-finalsegern-tjanar-53-miljoner",
-      "guid": "9c22ae33-5973-49a7-8016-2bf629566d15",
-      "published_at": "2026-11-22T20:44:17+01:00",
-      "fetched_at": "2026-11-22T20:45:49+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/68ae2c5b-7ecd-4490-9969-968fbd06e45b.jpg?width=600",
-      "sv": {
-        "title": "Tar första finalsegern – tjänar 53 miljoner",
-        "summary": "Världstrean Carlos Alcaraz vinner för första gången ATP-tourens slutspel. Spanjoren slog världsettan Alexander Zverev i finalen med 2–0 i set och inkasserar motsvarande 53 miljoner kronor i prispengar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Takes first final win – earns SEK 53 million",
-        "summary": "World No. 3 Carlos Alcaraz wins the ATP Tour finals for the first time. The Spaniard beat world No. 1 Alexander Zverev 2–0 in sets in the final and collects the equivalent of SEK 53 million in prize money."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T20:45:53+01:00"
       }
     }
   ]

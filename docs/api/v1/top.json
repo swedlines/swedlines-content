@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T11:15:59+01:00",
-  "count": 26,
+  "generated_at": "2026-11-25T11:31:30+01:00",
+  "count": 29,
   "stories": [
     {
       "id": "adfcf6526c82",
@@ -545,6 +545,94 @@
       ]
     },
     {
+      "id": "c9a509e41e6f",
+      "source_count": 4,
+      "sources": [
+        "sr",
+        "aftonbladet",
+        "svd",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-25T10:56:00+01:00",
+      "last_published_at": "2026-11-25T11:22:56+01:00",
+      "lead": {
+        "id": "c9a509e41e6f",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9349693",
+        "guid": "rss:sr.se/article/9349693",
+        "published_at": "2026-11-25T10:56:00+01:00",
+        "fetched_at": "2026-11-25T10:57:40+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "C kvinnoförbund har valt sida – vill inte vara ”i klorna på SD”",
+          "summary": "Nu har Centerpartiets kvinnoförbund fattat beslut i den omstridda regeringsfrågan Om de rödgröna partierna inte kan enas, så bör Centerpartiet gå i opposition, är beskedet. Centerkvinnorna säger också nej till att ingå i en borgerlig regering, som behöver stöd av Sverigedemokraterna.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Centre Party women's league takes a side – does not want to be \"in the claws of the SD\"",
+          "summary": "The Centre Party's women's league has made a decision on the contentious government question. If the red-greens cannot agree, the Centre Party should go into opposition, is the message. The Centre women also say no to joining a centre-right government that would need the support of the Sweden Democrats."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T10:57:48+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "523ba3018025",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/c-kvinnor-satter-ned-foten-om-sd",
+          "published_at": "2026-11-25T11:22:56+01:00",
+          "sv": {
+            "title": "C-kvinnor sätter ned foten om SD"
+          },
+          "en": {
+            "title": "Centre Party women put their foot down over the Sweden Democrats"
+          }
+        },
+        {
+          "id": "ea0d87e6c773",
+          "source": "svd",
+          "url": "https://www.svd.se/a/xJPnPX/c-kvinnor-satter-ned-foten-om-sd",
+          "published_at": "2026-11-25T11:21:51+01:00",
+          "sv": {
+            "title": "C-kvinnor sätter ned foten om SD"
+          },
+          "en": {
+            "title": "Centre Party women put their foot down over the Sweden Democrats"
+          }
+        },
+        {
+          "id": "fb0003c3bb38",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/yz3P3K/c-kvinnor-satter-ned-foten-om-sd",
+          "published_at": "2026-11-25T11:21:50+01:00",
+          "sv": {
+            "title": "C-kvinnor sätter ned foten om SD"
+          },
+          "en": {
+            "title": "Centre Party women put their foot down over the Sweden Democrats"
+          }
+        },
+        {
+          "id": "c9a509e41e6f",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9349693",
+          "published_at": "2026-11-25T10:56:00+01:00",
+          "sv": {
+            "title": "C kvinnoförbund har valt sida – vill inte vara ”i klorna på SD”"
+          },
+          "en": {
+            "title": "Centre Party women's league takes a side – does not want to be \"in the claws of the SD\""
+          }
+        }
+      ]
+    },
+    {
       "id": "b60521972973",
       "source_count": 4,
       "sources": [
@@ -924,6 +1012,157 @@
       ]
     },
     {
+      "id": "64e38a9ad9d2",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-25T11:23:54+01:00",
+      "last_published_at": "2026-11-25T11:26:52+01:00",
+      "lead": {
+        "id": "64e38a9ad9d2",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/530201/sd-vill-sanka-skatten-pa-bensin-och-diesel",
+        "guid": "https://www.aftonbladet.se/nyheter/a/530201/sd-vill-sanka-skatten-pa-bensin-och-diesel?utm_medium=rss",
+        "published_at": "2026-11-25T11:23:54+01:00",
+        "fetched_at": "2026-11-25T11:31:08+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/449e09ad-d031-35fb-a1ff-fd8255254582?format=auto&s=ed6371670aab6d179a6c7c81baa097772d25d786&w=1000",
+        "sv": {
+          "title": "SD vill sänka skatten på bensin och diesel",
+          "summary": "Sverigedemokraterna vill sänka skatten på bensin och diesel under första halvåret 2027.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "The Sweden Democrats want to cut the tax on petrol and diesel",
+          "summary": "The Sweden Democrats want to cut the tax on petrol and diesel during the first half of 2027."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T11:31:23+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "be13ba336896",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/sd-vill-sanka-skatten-pa-bensin-och-diesel",
+          "published_at": "2026-11-25T11:26:52+01:00",
+          "sv": {
+            "title": "SD vill sänka skatten på bensin och diesel"
+          },
+          "en": {
+            "title": "The Sweden Democrats want to cut the tax on petrol and diesel"
+          }
+        },
+        {
+          "id": "dea7438cad5f",
+          "source": "svd",
+          "url": "https://www.svd.se/a/OypMpw/sd-vill-sanka-skatten-pa-bensin-och-diesel",
+          "published_at": "2026-11-25T11:23:54+01:00",
+          "sv": {
+            "title": "SD vill sänka skatten på bensin och diesel"
+          },
+          "en": {
+            "title": "The Sweden Democrats want to cut the tax on petrol and diesel"
+          }
+        },
+        {
+          "id": "64e38a9ad9d2",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/530201/sd-vill-sanka-skatten-pa-bensin-och-diesel",
+          "published_at": "2026-11-25T11:23:54+01:00",
+          "sv": {
+            "title": "SD vill sänka skatten på bensin och diesel"
+          },
+          "en": {
+            "title": "The Sweden Democrats want to cut the tax on petrol and diesel"
+          }
+        }
+      ]
+    },
+    {
+      "id": "528d66e1fdf8",
+      "source_count": 3,
+      "sources": [
+        "expressen",
+        "svt",
+        "dn"
+      ],
+      "first_published_at": "2026-11-24T23:39:38+01:00",
+      "last_published_at": "2026-11-25T11:17:21+01:00",
+      "lead": {
+        "id": "528d66e1fdf8",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk",
+        "guid": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk/",
+        "published_at": "2026-11-24T23:39:38+01:00",
+        "fetched_at": "2026-11-24T23:43:19+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Thand Ringqvists ord på interna C-mötet: ”Tar stryk”",
+          "summary": "Centerpartiets ledning ser bara två vägar framåt. Antingen tar man plats i en högerregering – eller så blir det extraval där C får skulden för kaoset i regeringsbildningsprocessen.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Thand Ringqvist's words at the internal Centre Party meeting: “Takes a beating”",
+          "summary": "The Centre Party leadership sees only two paths forward. Either it takes a place in a right-wing government – or there will be a snap election in which C is blamed for the chaos in the government formation process."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T23:43:24+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "e112f74e2efe",
+          "source": "dn",
+          "url": "https://www.dn.se/debatt/min-partiledare-thand-ringqvist-valjer-fel-vag",
+          "published_at": "2026-11-25T11:17:21+01:00",
+          "sv": {
+            "title": "DN Debatt. ”Min partiledare Thand Ringqvist väljer fel väg”"
+          },
+          "en": {
+            "title": "DN Debatt. “My party leader Thand Ringqvist is choosing the wrong path”"
+          }
+        },
+        {
+          "id": "d2b6a3a0eaed",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/uppgifter-c-ledaren-pekar-ut-tva-mojliga-losningar-pa-internt-mote",
+          "published_at": "2026-11-24T23:42:38+01:00",
+          "sv": {
+            "title": "Uppgifter: C-ledaren pekar ut två möjliga lösningar – på internt möte"
+          },
+          "en": {
+            "title": "Reports: C leader points to two possible solutions – at internal meeting"
+          }
+        },
+        {
+          "id": "528d66e1fdf8",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk",
+          "published_at": "2026-11-24T23:39:38+01:00",
+          "sv": {
+            "title": "Thand Ringqvists ord på interna C-mötet: ”Tar stryk”"
+          },
+          "en": {
+            "title": "Thand Ringqvist's words at the internal Centre Party meeting: “Takes a beating”"
+          }
+        }
+      ]
+    },
+    {
       "id": "99deffafb00b",
       "source_count": 3,
       "sources": [
@@ -1232,6 +1471,68 @@
           },
           "en": {
             "title": "Pakistani on board Chinese rocket"
+          }
+        }
+      ]
+    },
+    {
+      "id": "25eb71ff90ab",
+      "source_count": 2,
+      "sources": [
+        "sydsvenskan",
+        "svd"
+      ],
+      "first_published_at": "2026-11-25T11:14:51+01:00",
+      "last_published_at": "2026-11-25T11:20:23+01:00",
+      "lead": {
+        "id": "25eb71ff90ab",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/sport/iihf-overklagar-cas-rysslandsbeslut",
+        "guid": "039f0176-f381-40f7-9c57-4cd772ce4408",
+        "published_at": "2026-11-25T11:14:51+01:00",
+        "fetched_at": "2026-11-25T11:15:48+01:00",
+        "category": "sports",
+        "sv": {
+          "title": "IIHF överklagar Cas Rysslandsbeslut",
+          "summary": "Internationella ishockeyförbundet (IIHF) överklagar Idrottens skiljedomstols (Cas) beslut att tillåta ryskt deltagande i kommande VM till högsta domstolen i Schweiz. Det skriver IIHF på X.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "IIHF appeals CAS ruling on Russia",
+          "summary": "The International Ice Hockey Federation (IIHF) is appealing the Court of Arbitration for Sport (CAS) decision to allow Russian participation in the upcoming World Championship to the Swiss Supreme Court. The IIHF writes on X."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T11:15:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "b204c2e5a16d",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80298",
+          "published_at": "2026-11-25T11:20:23+01:00",
+          "sv": {
+            "title": "Hockeyförbundet överklagar Rysslandsbeslut"
+          },
+          "en": {
+            "title": "Ice Hockey Federation appeals decision on Russia"
+          }
+        },
+        {
+          "id": "25eb71ff90ab",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/iihf-overklagar-cas-rysslandsbeslut",
+          "published_at": "2026-11-25T11:14:51+01:00",
+          "sv": {
+            "title": "IIHF överklagar Cas Rysslandsbeslut"
+          },
+          "en": {
+            "title": "IIHF appeals CAS ruling on Russia"
           }
         }
       ]
@@ -2071,68 +2372,6 @@
           },
           "en": {
             "title": "Deadly attacks in Ukraine"
-          }
-        }
-      ]
-    },
-    {
-      "id": "528d66e1fdf8",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "svt"
-      ],
-      "first_published_at": "2026-11-24T23:39:38+01:00",
-      "last_published_at": "2026-11-24T23:42:38+01:00",
-      "lead": {
-        "id": "528d66e1fdf8",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk",
-        "guid": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk/",
-        "published_at": "2026-11-24T23:39:38+01:00",
-        "fetched_at": "2026-11-24T23:43:19+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Thand Ringqvists ord på interna C-mötet: ”Tar stryk”",
-          "summary": "Centerpartiets ledning ser bara två vägar framåt. Antingen tar man plats i en högerregering – eller så blir det extraval där C får skulden för kaoset i regeringsbildningsprocessen.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Thand Ringqvist's words at the internal Centre Party meeting: “Takes a beating”",
-          "summary": "The Centre Party leadership sees only two paths forward. Either it takes a place in a right-wing government – or there will be a snap election in which C is blamed for the chaos in the government formation process."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T23:43:24+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "d2b6a3a0eaed",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/uppgifter-c-ledaren-pekar-ut-tva-mojliga-losningar-pa-internt-mote",
-          "published_at": "2026-11-24T23:42:38+01:00",
-          "sv": {
-            "title": "Uppgifter: C-ledaren pekar ut två möjliga lösningar – på internt möte"
-          },
-          "en": {
-            "title": "Reports: C leader points to two possible solutions – at internal meeting"
-          }
-        },
-        {
-          "id": "528d66e1fdf8",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk",
-          "published_at": "2026-11-24T23:39:38+01:00",
-          "sv": {
-            "title": "Thand Ringqvists ord på interna C-mötet: ”Tar stryk”"
-          },
-          "en": {
-            "title": "Thand Ringqvist's words at the internal Centre Party meeting: “Takes a beating”"
           }
         }
       ]

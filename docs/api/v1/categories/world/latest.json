@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T11:15:59+01:00",
+  "generated_at": "2026-11-25T11:31:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2db785a4a631",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Jno0J7/puigdemont-atervander-till-katalonien",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Jno0J7/puigdemont-atervander-till-katalonien?utm_medium=rss",
+      "published_at": "2026-11-25T11:27:27+01:00",
+      "fetched_at": "2026-11-25T11:31:08+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Puigdemont återvänder till Katalonien",
+        "summary": "Den katalanske separatistledaren Carles Puigdemont meddelar att han kommer att återvända till…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Puigdemont returns to Catalonia",
+        "summary": "Catalan separatist leader Carles Puigdemont announces that he will return to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:31:23+01:00"
+      }
+    },
     {
       "id": "e0b6f9706d29",
       "schema_version": 1,
@@ -5337,32 +5363,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T08:31:18+01:00"
-      }
-    },
-    {
-      "id": "b87d1d4e659e",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347982",
-      "guid": "rss:sr.se/article/9347982",
-      "published_at": "2026-11-23T07:32:00+01:00",
-      "fetched_at": "2026-11-23T07:45:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Då väntas Venezuela tidigast hålla val: ”De måste förstå”",
-        "summary": "Venezuelas regering tvingas förhandla under amerikansk press efter USA:s gripande av president Nicolas Maduro. Ramon Lopez, en av oppositionens fem representanter i förhandlingarna, menar att presen ger resultat i form av den nya högsta domstolen som snart är snart på plats och näst på tur en ny…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Venezuela expected to hold elections at the earliest: “They must understand”",
-        "summary": "Venezuela's government is being forced to negotiate under American pressure following the US arrest of President Nicolas Maduro. Ramon Lopez, one of the opposition's five representatives in the negotiations, argues that pressure is producing results in the form of the new Supreme Court, which will soon be in place, and next in line a new…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T07:45:54+01:00"
       }
     }
   ]

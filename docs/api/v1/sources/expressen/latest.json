@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T11:15:59+01:00",
+  "generated_at": "2026-11-25T11:31:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "be13ba336896",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/sd-vill-sanka-skatten-pa-bensin-och-diesel",
+      "guid": "https://www.expressen.se/nyheter/politik/sd-vill-sanka-skatten-pa-bensin-och-diesel/",
+      "published_at": "2026-11-25T11:26:52+01:00",
+      "fetched_at": "2026-11-25T11:31:08+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "SD vill sänka skatten på bensin och diesel",
+        "summary": "Sverigedemokraterna vill sänka skatten på bensin och diesel under första halvåret 2027. Det framgår av partiets budgetmotion, som bland annat finansieras genom minskat bistånd.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Sweden Democrats want to cut the tax on petrol and diesel",
+        "summary": "The Sweden Democrats want to cut the tax on petrol and diesel during the first half of 2027. This is stated in the party's budget motion, which is partly financed through reduced aid."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:31:23+01:00"
+      }
+    },
     {
       "id": "49a4fbc47083",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T22:31:05+01:00"
-      }
-    },
-    {
-      "id": "89f1239a8de4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/brittisk-by-rostar-for-att-lamna-storbritannien",
-      "guid": "https://www.expressen.se/nyheter/varlden/brittisk-by-rostar-for-att-lamna-storbritannien/",
-      "published_at": "2026-11-21T22:04:19+01:00",
-      "fetched_at": "2026-11-21T22:15:50+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Brittisk by röstar för att lämna Storbritannien",
-        "summary": "Den lilla byn har fått nog. I dag röstade Barnham för att lämna Storbritannien och bli självständigt. – Jag är verkligen tacksam för allas stöd, säger Helen Bock, ordföranden i boendeföreningen till BBC.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "British village votes to leave the United Kingdom",
-        "summary": "The small village has had enough. Today Barnham voted to leave the United Kingdom and become independent. – I am really grateful for everyone's support, says Helen Bock, chair of the residents' association, to the BBC."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T22:15:55+01:00"
       }
     }
   ]
