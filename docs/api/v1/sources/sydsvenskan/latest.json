@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-25T09:15:51+01:00",
+  "generated_at": "2026-11-25T09:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b4805faacd09",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/upp-till-bevis-for-partierna-som-lovat-att-satsa-pa-malmos-unga",
+      "guid": "2b87d870-5b55-4c8c-9cc6-8616ea213d25",
+      "published_at": "2026-11-25T09:30:00+01:00",
+      "fetched_at": "2026-11-25T09:31:04+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/86710256-c98b-429d-bd87-6186f0037a32.jpeg?width=600",
+      "sv": {
+        "title": "Upp till bevis för partierna som lovat att satsa på Malmös unga"
+      },
+      "en": {
+        "title": "Proof needed for the parties that promised to invest in Malmö's young people"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:31:10+01:00"
+      }
+    },
     {
       "id": "90f03107c62a",
       "schema_version": 1,
@@ -5170,33 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T15:15:59+01:00"
-      }
-    },
-    {
-      "id": "47ffca2f5b86",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/august-tippade-karolina-ramqvist-har-ett-neurotiskt-forhallande-till-priser",
-      "guid": "9bae770b-81e4-47a3-9bd5-443b35bcb3bd",
-      "published_at": "2026-11-22T15:00:00+01:00",
-      "fetched_at": "2026-11-22T15:01:13+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/b66b0db2-0f4a-4695-b2fc-90a29ef95ac1.jpeg?width=600",
-      "sv": {
-        "title": "August-tippade Karolina Ramqvist har ett neurotiskt förhållande till priser",
-        "summary": "Förr kände Karolina Ramqvist att hon förstörde en bok om hon pratade om den. Idag är hon mer bekväm, men fortfarande på sin vakt. Det är lätt att säga saker för att bli omtyckt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "August Prize-tipped Karolina Ramqvist has a neurotic relationship with prices",
-        "summary": "Earlier, Karolina Ramqvist felt she ruined a book if she talked about it. Today she is more comfortable, but still on her guard. It is easy to say things to be liked."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:01:22+01:00"
       }
     }
   ]

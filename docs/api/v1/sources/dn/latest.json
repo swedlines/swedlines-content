@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T09:15:51+01:00",
+  "generated_at": "2026-11-25T09:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d22c2f612325",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/susanne-nystrom-nooshi-dadgostars-hoga-spel-kan-sluta-i-fiasko",
+      "guid": "https://www.dn.se/ledare/susanne-nystrom-nooshi-dadgostars-hoga-spel-kan-sluta-i-fiasko/",
+      "published_at": "2026-11-25T09:17:20+01:00",
+      "fetched_at": "2026-11-25T09:31:01+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/7b3ba15f-3235-4db8-aa64-e77eab16e778.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Susanne Nyström: Nooshi Dadgostars höga spel kan sluta i fiasko",
+        "summary": "Vid det här laget kunde Vänsterpartiet redan ha haft mer inflytande än det någonsin haft. Det hade varit ett hyggligt sätt att behandla de egna väljarna på. Nu riskerar de i stället att hamna i opposition.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Susanne Nyström: Nooshi Dadgostar's high-stakes game could end in fiasco",
+        "summary": "By now the Left Party could already have had more influence than it ever has. That would have been a decent way to treat its own voters. Now it instead risks ending up in opposition."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:31:10+01:00"
+      }
+    },
     {
       "id": "934624d92122",
       "schema_version": 1,
@@ -5370,33 +5397,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T17:31:09+01:00"
-      }
-    },
-    {
-      "id": "a50ab8ad9d2a",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/fortsatt-vantan-pa-toppmote-vi-forhandlar",
-      "guid": "https://www.dn.se/varlden/fortsatt-vantan-pa-toppmote-vi-forhandlar/",
-      "published_at": "2026-11-21T16:42:25+01:00",
-      "fetched_at": "2026-11-21T16:45:42+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/c0d05300-8341-4829-bd62-75ea956519d5.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Fortsatt väntan på toppmöte: ”Vi förhandlar”",
-        "summary": "FN:s klimattoppmöte skulle ha avslutats på fredagskvällen. Ett dygn senare finns fortfarande ingen lösning i sikte. – Vi förhandlar fortfarande, säger Norges klimatminister Sigrun Aasland till TT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Still waiting for summit: “We are negotiating”",
-        "summary": "The UN climate summit was due to end on Friday evening. A day later there is still no solution in sight. – We are still negotiating, says Norwegian Climate Minister Sigrun Aasland to TT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T16:45:50+01:00"
       }
     }
   ]
