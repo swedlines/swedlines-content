@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-11-25T20:45:55+01:00",
+  "generated_at": "2026-11-25T21:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c9569f352a63",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/grona-rehab-tvingas-lamna-anggarden-men-forst-om-ett-ar.d8c80d7e-14d6-55b7-a96c-3a675f63070e",
+      "guid": "d8c80d7e-14d6-55b7-a96c-3a675f63070e",
+      "published_at": "2026-11-25T20:26:29+01:00",
+      "fetched_at": "2026-11-25T21:01:18+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: Samhällsredaktionen",
+        "Tagg: Änggården",
+        "Tagg: Göteborgs stad",
+        "Tagg: Kulturförvaltningen",
+        "Tagg: Rehabilitering",
+        "Tagg: Botaniska trädgården",
+        "Tagg: Träd"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/804d4f3c-e3cf-373d-a869-f86526051f91",
+      "sv": {
+        "title": "Hyllad verksamhet tvingas lämna Änggården",
+        "summary": "Då måste Gröna rehab ha flyttat ut.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Acclaimed operation forced to leave Änggården",
+        "summary": "Then Gröna rehab will have to move out."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:01:22+01:00"
+      }
+    },
     {
       "id": "02403e8217c7",
       "schema_version": 1,
@@ -6852,43 +6889,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "ab28e5c3a5db",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/restaurang/recension-gp-testar-dorsia-pa-tradgardsgatan.638a2823-99a4-5354-aeb1-baa71331dc4c",
-      "guid": "638a2823-99a4-5354-aeb1-baa71331dc4c",
-      "published_at": "2026-11-20T15:51:59+01:00",
-      "fetched_at": "2026-11-20T16:01:17+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Restaurang",
-        "Tagg: Restauranger",
-        "Tagg: Krogar",
-        "Tagg: Hotell",
-        "Tagg: Barer",
-        "Tagg: Uteätarna",
-        "Tagg: Två Dagar",
-        "Tagg: Foodflow"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/8b1a6e7f-ed46-386b-beaa-a90c3e1cc618",
-      "sv": {
-        "title": "Lyxkrogen i Göteborg förtrollar – men något saknas på tallriken",
-        "summary": "På stans mest överdådiga hotellrestaurang är inte alla smaker lika storslagna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Luxury restaurant in Göteborg enchants – but something is missing on the plate",
-        "summary": "At the city's most lavish hotel restaurant, not all flavours are equally magnificent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:01:24+01:00"
       }
     }
   ]

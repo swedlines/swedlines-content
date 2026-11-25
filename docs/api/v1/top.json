@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T20:45:55+01:00",
+  "generated_at": "2026-11-25T21:01:25+01:00",
   "count": 30,
   "stories": [
     {
@@ -1922,6 +1922,68 @@
       ]
     },
     {
+      "id": "9339b43eb9ef",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "dn"
+      ],
+      "first_published_at": "2026-11-25T18:30:46+01:00",
+      "last_published_at": "2026-11-25T20:55:09+01:00",
+      "lead": {
+        "id": "9339b43eb9ef",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/inrikes/s-profilerna-varnar-djup-kris-om-andersson-misslyckas",
+        "guid": "https://www.svt.se/nyheter/inrikes/s-profilerna-varnar-djup-kris-om-andersson-misslyckas",
+        "published_at": "2026-11-25T18:30:46+01:00",
+        "fetched_at": "2026-11-25T18:31:01+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "S-profilerna varnar: Djup kris om Andersson misslyckas",
+          "summary": "Om Magdalena Andersson misslyckas med att bilda regering riskerar Socialdemokraterna att kastas in i en djup kris. Det menar S-profilerna Daniel Suhonen och Lars Stjernkvist. – Att vinna ett val och sen tappa det. Det är ju nästan häpnadsväckande, säger Suhonen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "S figures warn: Deep crisis if Andersson fails",
+          "summary": "If Magdalena Andersson fails to form a government, the Social Democrats risk being plunged into a deep crisis. That is the view of S figures Daniel Suhonen and Lars Stjernkvist. – To win an election and then lose it. That is almost astonishing, says Suhonen."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T18:31:20+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "b5104785fe50",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/s-veteraner-andersson-kan-fa-avga-om-rodgrona-misslyckas",
+          "published_at": "2026-11-25T20:55:09+01:00",
+          "sv": {
+            "title": "S-veteraner: Andersson kan få avgå om rödgröna misslyckas"
+          },
+          "en": {
+            "title": "S veterans: Andersson could be forced to step down if the red-greens fail"
+          }
+        },
+        {
+          "id": "9339b43eb9ef",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/s-profilerna-varnar-djup-kris-om-andersson-misslyckas",
+          "published_at": "2026-11-25T18:30:46+01:00",
+          "sv": {
+            "title": "S-profilerna varnar: Djup kris om Andersson misslyckas"
+          },
+          "en": {
+            "title": "S figures warn: Deep crisis if Andersson fails"
+          }
+        }
+      ]
+    },
+    {
       "id": "75c4841be7db",
       "source_count": 2,
       "sources": [
@@ -2581,77 +2643,6 @@
           },
           "en": {
             "title": "Alarm over explosion in Landala in Göteborg"
-          }
-        }
-      ]
-    },
-    {
-      "id": "fb7e85ab927f",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-25T16:06:53+01:00",
-      "last_published_at": "2026-11-25T16:42:44+01:00",
-      "lead": {
-        "id": "fb7e85ab927f",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80307",
-        "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80307&utm_medium=rss",
-        "published_at": "2026-11-25T16:06:53+01:00",
-        "fetched_at": "2026-11-25T16:15:47+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Kristersson: M, KD, L och C förhandlar"
-        },
-        "en": {
-          "title": "Kristersson: M, KD, L and C are negotiating"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T16:15:54+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "db6c39d76e97",
-          "source": "svd",
-          "url": "https://www.svd.se/a/530xBz/kristersson-sker-forhandlingar-absolut",
-          "published_at": "2026-11-25T16:42:44+01:00",
-          "sv": {
-            "title": "Kristersson: Sker förhandlingar - absolut"
-          },
-          "en": {
-            "title": "Kristersson: Negotiations are happening - absolutely"
-          }
-        },
-        {
-          "id": "ba8fc288a8ff",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/qOL01w/kristersson-sker-forhandlingar-absolut",
-          "published_at": "2026-11-25T16:42:43+01:00",
-          "sv": {
-            "title": "Kristersson: Sker förhandlingar - absolut"
-          },
-          "en": {
-            "title": "Kristersson: Negotiations are happening - absolutely"
-          }
-        },
-        {
-          "id": "fb7e85ab927f",
-          "source": "svd",
-          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80307",
-          "published_at": "2026-11-25T16:06:53+01:00",
-          "sv": {
-            "title": "Kristersson: M, KD, L och C förhandlar"
-          },
-          "en": {
-            "title": "Kristersson: M, KD, L and C are negotiating"
           }
         }
       ]
