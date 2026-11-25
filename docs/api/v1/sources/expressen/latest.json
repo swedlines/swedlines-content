@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-25T15:31:22+01:00",
+  "generated_at": "2026-11-25T15:46:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dc217622888a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/okat-stod-for-hogersvang-i-centerpartiet",
+      "guid": "https://www.expressen.se/nyheter/politik/okat-stod-for-hogersvang-i-centerpartiet/",
+      "published_at": "2026-11-25T15:40:53+01:00",
+      "fetched_at": "2026-11-25T15:45:47+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Ökat stöd för högersväng i Centerpartiet",
+        "summary": "Centern står inför ett uppslitande vägval – där allt fler börjar luta högerut. Många drar paralleller till tidigare jobbiga processer som partiet tagit sig genom. – Jag tror att fler i Centerpartiet vill vara med och ta ansvar i knepiga lägen än de som inte vill det, säger en C-källa.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Increased support for a rightward turn in the Centre Party",
+        "summary": "The Centre Party faces an agonising choice, with more and more members leaning to the right. Many draw parallels to earlier difficult processes the party has been through. – I think more people in the Centre Party want to take responsibility in tricky situations than those who don't, says a C source."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:46:04+01:00"
+      }
+    },
+    {
+      "id": "31d30d62659c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/expressens-inredningsexpert-svarar-pa-dina-fragor",
+      "guid": "https://www.expressen.se/nyheter/sverige/expressens-inredningsexpert-svarar-pa-dina-fragor/",
+      "published_at": "2026-11-25T15:30:00+01:00",
+      "fetched_at": "2026-11-25T15:45:47+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Expressens inredningsexpert svarar på dina frågor",
+        "summary": "Black week är i full gång. Expressens och Leva & Bos inredningsexpert Susanne Ellingsworth chattar med start klockan 16 om vilka inredningstrender och köp du ska titta efter. Har du frågor till Susanne? Du kan ställa dem redan nu.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expressen's interiors expert answers your questions",
+        "summary": "Black Week is in full swing. Expressen's and Leva & Bo's interiors expert Susanne Ellingsworth chats from 4 pm about interior trends and purchases to look out for. Do you have questions for Susanne? You can ask them now."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:46:04+01:00"
+      }
+    },
     {
       "id": "118d49bcae67",
       "schema_version": 1,
@@ -5145,58 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T07:31:11+01:00"
-      }
-    },
-    {
-      "id": "db13e6ead9c8",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a6333862-d90a-4413-adcb-a21db48577a1",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a6333862-d90a-4413-adcb-a21db48577a1",
-      "published_at": "2026-11-22T07:17:01+01:00",
-      "fetched_at": "2026-11-22T07:24:36+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Femvåningshus träffat",
-        "summary": "Rysk drönarattack",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Five-storey building hit",
-        "summary": "Russian drone attack"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T07:24:41+01:00"
-      }
-    },
-    {
-      "id": "8fe1103c3fd2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/varning-pa-bali-pa-vag--att-bli-en-dodszon",
-      "guid": "https://www.expressen.se/nyheter/varlden/varning-pa-bali-pa-vag--att-bli-en-dodszon/",
-      "published_at": "2026-11-22T06:49:16+01:00",
-      "fetched_at": "2026-11-22T07:01:12+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Varning på Bali: På väg att bli en ”dödszon”",
-        "summary": "Bali är en av Indonesiens mest populära semesteröar. Nu pekas ryska kriminella nätverk ut som ett växande problem, skriver The Sun. Bland annat har ett avhugget huvud spolats upp på en strand.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Warning on Bali: On its way to becoming a \"death zone\"",
-        "summary": "Bali is one of Indonesia's most popular holiday islands. Now Russian criminal networks are singled out as a growing problem, according to The Sun. Among other things, a severed head has been washed up on a beach."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T07:01:16+01:00"
       }
     }
   ]

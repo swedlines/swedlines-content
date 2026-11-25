@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T15:31:22+01:00",
+  "generated_at": "2026-11-25T15:46:08+01:00",
   "count": 30,
   "stories": [
     {
@@ -1804,6 +1804,68 @@
       ]
     },
     {
+      "id": "a495caf9aa8c",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "sr"
+      ],
+      "first_published_at": "2026-11-25T14:37:00+01:00",
+      "last_published_at": "2026-11-25T15:39:00+01:00",
+      "lead": {
+        "id": "a495caf9aa8c",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/ekonomi/nya-tullar-fran-usa-vantas-upp-till-40-procent-mot-kina",
+        "guid": "https://www.svt.se/nyheter/ekonomi/nya-tullar-fran-usa-vantas-upp-till-40-procent-mot-kina",
+        "published_at": "2026-11-25T14:37:00+01:00",
+        "fetched_at": "2026-11-25T14:45:44+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Nya tullar från USA väntas – upp till 40 procent mot Kina",
+          "summary": "USA väntas införa nya tullar på upp till 20 procent mot EU och 40 procent mot Kina, enligt Bloomberg. Ett officiellt besked väntas under onsdagen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "New US tariffs expected – up to 40 percent on China",
+          "summary": "The US is expected to impose new tariffs of up to 20 percent on the EU and 40 percent on China, according to Bloomberg. An official announcement is expected on Wednesday."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T14:45:52+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "ef5f832f2f36",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9350020",
+          "published_at": "2026-11-25T15:39:00+01:00",
+          "sv": {
+            "title": "Uppgifter: Trump inför nya tullar"
+          },
+          "en": {
+            "title": "Reports: Trump to introduce new tariffs"
+          }
+        },
+        {
+          "id": "a495caf9aa8c",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/ekonomi/nya-tullar-fran-usa-vantas-upp-till-40-procent-mot-kina",
+          "published_at": "2026-11-25T14:37:00+01:00",
+          "sv": {
+            "title": "Nya tullar från USA väntas – upp till 40 procent mot Kina"
+          },
+          "en": {
+            "title": "New US tariffs expected – up to 40 percent on China"
+          }
+        }
+      ]
+    },
+    {
       "id": "402c7c39594f",
       "source_count": 2,
       "sources": [
@@ -2499,69 +2561,6 @@
           },
           "en": {
             "title": "Financier charged with aggravated rape in Bohuslän"
-          }
-        }
-      ]
-    },
-    {
-      "id": "232f9f90a01c",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-25T10:11:26+01:00",
-      "last_published_at": "2026-11-25T10:37:28+01:00",
-      "lead": {
-        "id": "232f9f90a01c",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/vkQqJp/bra-farre-doms-for-upprepade-brott",
-        "guid": "https://www.aftonbladet.se/nyheter/a/vkQqJp/bra-farre-doms-for-upprepade-brott?utm_medium=rss",
-        "published_at": "2026-11-25T10:11:26+01:00",
-        "fetched_at": "2026-11-25T10:15:40+01:00",
-        "category": "crime",
-        "image_url": "https://akamai.vgc.no/v2/images/2874134f-10c4-3005-b8bc-1319a7adc9d4?format=auto&s=d325ae62c85631f6f0c5d8d8f6025b0a6c2f3851&w=1000",
-        "sv": {
-          "title": "Brå: Färre döms för upprepade brott",
-          "summary": "Gruppen som upprepade gånger döms för brott har blivit mindre sedan 2012, enligt Brottsförebyggande…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Brå: Fewer people convicted of repeat offences",
-          "summary": "The group repeatedly convicted of crimes has shrunk since 2012, according to the Swedish National Council for Crime Prevention…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T10:15:50+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "a7d2d34d9a6a",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/bra-farre-doms-for-upprepade-brott",
-          "published_at": "2026-11-25T10:37:28+01:00",
-          "sv": {
-            "title": "Brå: Färre döms för upprepade brott"
-          },
-          "en": {
-            "title": "Brå: Fewer convicted of repeat offences"
-          }
-        },
-        {
-          "id": "232f9f90a01c",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/vkQqJp/bra-farre-doms-for-upprepade-brott",
-          "published_at": "2026-11-25T10:11:26+01:00",
-          "sv": {
-            "title": "Brå: Färre döms för upprepade brott"
-          },
-          "en": {
-            "title": "Brå: Fewer people convicted of repeat offences"
           }
         }
       ]
