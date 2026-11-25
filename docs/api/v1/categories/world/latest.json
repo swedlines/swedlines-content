@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T15:15:55+01:00",
+  "generated_at": "2026-11-25T15:31:22+01:00",
   "count": 200,
   "items": [
     {
@@ -27,6 +27,39 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T15:15:52+01:00"
+      }
+    },
+    {
+      "id": "447b6975b30e",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/bly-kan-spridas-nar-armen-spranger-farligt-amne.5faf9463-c2ee-5411-b612-57ae916dcac1",
+      "guid": "5faf9463-c2ee-5411-b612-57ae916dcac1",
+      "published_at": "2026-11-25T14:58:35+01:00",
+      "fetched_at": "2026-11-25T15:31:09+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Iowa",
+        "Tagg: Uppdatera mig - BEHOV",
+        "Tagg: Bly"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/623eb29c-f95e-3669-8a36-beb4013111d3",
+      "sv": {
+        "title": "Bly kan spridas när USA:s armé spränger farligt ämne",
+        "summary": "Flera ton av det explosiva ämnet blyazid har blivit instabilt i Iowa. Nu ska armén spränag hela rasket i luften, trots att det kan innebära att bly sprids i området.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lead may spread when US army blows up hazardous substance",
+        "summary": "Several tons of the explosive substance lead azide have become unstable in Iowa. Now the army will blow up the entire batch in the air, even though this may mean lead spreads in the area."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
       }
     },
     {
@@ -5329,32 +5362,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T12:15:54+01:00"
-      }
-    },
-    {
-      "id": "a73ef0a853e7",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=e889162b-1204-45a8-9026-526ded2f32a2",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e889162b-1204-45a8-9026-526ded2f32a2",
-      "published_at": "2026-11-23T11:56:31+01:00",
-      "fetched_at": "2026-11-23T12:01:16+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Bombhot mot skolor i Tyskland och Danmark",
-        "summary": "Tyska och danska skolor utsatta för hot",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bomb threats against schools in Germany and Denmark",
-        "summary": "German and Danish schools targeted by threats"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T12:01:24+01:00"
       }
     }
   ]

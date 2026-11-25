@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-25T15:15:55+01:00",
+  "generated_at": "2026-11-25T15:31:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3f5fd02e1c04",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Pv91Az/linnea-claesons-det-kommer-alltid-en-var-vacker-manga-fragor",
+      "guid": "https://www.svd.se/a/Pv91Az/linnea-claesons-det-kommer-alltid-en-var-vacker-manga-fragor?utm_medium=rss",
+      "published_at": "2026-11-25T15:29:42+01:00",
+      "fetched_at": "2026-11-25T15:31:07+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/6b184251-8d20-3582-94e4-28322004c242?format=auto&s=750c57f32a1da326f659fa3019469a1d0745e953&w=1000",
+      "sv": {
+        "title": "Varför granskas inte Linnéa Claeson?"
+      },
+      "en": {
+        "title": "Why isn’t Linnéa Claeson being scrutinised?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
+      }
+    },
     {
       "id": "54e8a4c5a05b",
       "schema_version": 1,
@@ -5238,33 +5262,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T15:15:59+01:00"
-      }
-    },
-    {
-      "id": "6f2da379ed16",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/530zLW/fsb-s-plan-kriminella-skulle-morda-honom",
-      "guid": "https://www.svd.se/a/530zLW/fsb-s-plan-kriminella-skulle-morda-honom?utm_medium=rss",
-      "published_at": "2026-11-22T14:54:31+01:00",
-      "fetched_at": "2026-11-22T15:01:10+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/5d2509cb-54a4-3102-b346-49039585cafc?format=auto&s=60121adcb65995a44dc61d86de45cd41bc88d06f&w=1000",
-      "sv": {
-        "title": "FSB:s plan: Kriminella skulle mörda honom",
-        "summary": "Danmark misstänker att rysk underrättelsetjänst försökte lönnmörda en ukrainsk-amerikansk artist i…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "FSB's plan: criminals were to murder him",
-        "summary": "Denmark suspects Russian intelligence tried to assassinate a Ukrainian-American artist in…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:01:22+01:00"
       }
     }
   ]

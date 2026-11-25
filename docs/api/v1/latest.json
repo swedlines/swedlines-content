@@ -1,7 +1,110 @@
 {
-  "generated_at": "2026-11-25T15:15:55+01:00",
+  "generated_at": "2026-11-25T15:31:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3f5fd02e1c04",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Pv91Az/linnea-claesons-det-kommer-alltid-en-var-vacker-manga-fragor",
+      "guid": "https://www.svd.se/a/Pv91Az/linnea-claesons-det-kommer-alltid-en-var-vacker-manga-fragor?utm_medium=rss",
+      "published_at": "2026-11-25T15:29:42+01:00",
+      "fetched_at": "2026-11-25T15:31:07+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/6b184251-8d20-3582-94e4-28322004c242?format=auto&s=750c57f32a1da326f659fa3019469a1d0745e953&w=1000",
+      "sv": {
+        "title": "Varför granskas inte Linnéa Claeson?"
+      },
+      "en": {
+        "title": "Why isn’t Linnéa Claeson being scrutinised?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
+      }
+    },
+    {
+      "id": "95136aec6545",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/skorpsmulor-och-pengahogar-i-stadshallen",
+      "guid": "b7132eb7-5e7f-4145-ab21-78de2f56795d",
+      "published_at": "2026-11-25T15:29:33+01:00",
+      "fetched_at": "2026-11-25T15:31:10+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/07b8c146-c48d-4099-9e5e-cdb18b236ec7.jpeg?width=600",
+      "sv": {
+        "title": "Skorpsmulor till barnen eller pengar på hög – så lät miljard-debatten i Stadshallen",
+        "summary": "Ska Lundabarnen äta skorpor till frukost? Kommer det att finnas några regionbussar kvar alls? Och samlar Lunds kommun pengar på hög? I Stadshallen blandas smått och stort när nästan tio miljarder kronor ska delas ut.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Rusks for the children or money piled up – how the billion debate sounded in the Stadshallen",
+        "summary": "Should Lund’s children eat rusks for breakfast? Will there be any regional buses left at all? And is Lund municipality hoarding money? In the Stadshallen, the small and the big mix as almost SEK 10 billion is to be handed out."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
+      }
+    },
+    {
+      "id": "667eb4eb76a8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350002",
+      "guid": "rss:sr.se/article/9350002",
+      "published_at": "2026-11-25T15:28:00+01:00",
+      "fetched_at": "2026-11-25T15:31:06+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-toppen varnar för högersväng: ”Det är naivt”",
+        "summary": "Även Centerpartiets EU-parlamentariker Abir Al-Sahlani ger sig nu in i Centerns infekterade diskussion om vilket håll partiets ska gå i regeringsfrågan. Hon varnar för en lösning där Centerpartiet ingår i en fyrparti-regering ledd av Ulf Kristersson.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "C leadership warns against right turn: “It’s naive”",
+        "summary": "Centre Party EU MP Abir Al-Sahlani now also joins the Centre’s heated discussion about which direction the party should take on the government question. She warns against a solution where the Centre Party is part of a four-party government led by Ulf Kristersson (M)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
+      }
+    },
+    {
+      "id": "ff0c45673011",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vast/hovratten-vantar-med-att-ta-upp-batolyckan-vid-tjorn-invantar-haveriutredning",
+      "guid": "https://www.svt.se/nyheter/lokalt/vast/hovratten-vantar-med-att-ta-upp-batolyckan-vid-tjorn-invantar-haveriutredning",
+      "published_at": "2026-11-25T15:16:34+01:00",
+      "fetched_at": "2026-11-25T15:31:05+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Hovrätten väntar med att ta upp båtolyckan vid Tjörn – inväntar haveriutredning",
+        "summary": "Hovrätten kommer avvakta med att ta upp målet om båtolyckan utanför Tjörn. Först ska Haverikommissionens utredning av olyckan bli färdig.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Court of appeal waits to take up Tjörn boat accident – awaiting accident investigation",
+        "summary": "The court of appeal will wait to take up the case concerning the boat accident off Tjörn. First, the Haverikommissionen investigation of the accident must be completed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
+      }
+    },
     {
       "id": "1c9a8e4b311b",
       "schema_version": 1,
@@ -54,6 +157,37 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T15:15:52+01:00"
+      }
+    },
+    {
+      "id": "eefb24918a7c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/halsofarligt-konstverk-forsvunnet-vager-75-kilo.8c32e909-0d55-5725-8c2a-24a1f888a4d1",
+      "guid": "8c32e909-0d55-5725-8c2a-24a1f888a4d1",
+      "published_at": "2026-11-25T15:09:01+01:00",
+      "fetched_at": "2026-11-25T15:31:09+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: breaking-GP"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e4662b45-c606-3944-aeac-aff9f9527f43",
+      "sv": {
+        "title": "”Hälsofarligt” konstverk försvunnet",
+        "summary": "Konstnären går ut med efterlysning • ”Ingen vet var den är”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Health-hazardous” artwork missing",
+        "summary": "The artist issues an appeal • “No one knows where it is”."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
       }
     },
     {
@@ -161,6 +295,71 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T15:01:30+01:00"
+      }
+    },
+    {
+      "id": "e6ac28bb6ef0",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/rik-s-tidigare-ordforande-tommy-skoog-ar-dod.6d22b178-c3ac-5f32-8bd7-092f9e358f1c",
+      "guid": "6d22b178-c3ac-5f32-8bd7-092f9e358f1c",
+      "published_at": "2026-11-25T14:59:34+01:00",
+      "fetched_at": "2026-11-25T15:31:09+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Sport",
+        "Tagg: Redbergslid",
+        "Tagg: Handboll"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/89d4e974-7744-31d8-a831-49b80d57397e",
+      "sv": {
+        "title": "Handbollsprofilen Tommy Skoog är död",
+        "summary": "RIK vann åtta SM-guld under hans ledning – nu sörjer klubben sin hedersordförande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Handball profile Tommy Skoog has died",
+        "summary": "RIK won eight Swedish championship golds under his leadership – now the club mourns its honorary chair."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
+      }
+    },
+    {
+      "id": "447b6975b30e",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/bly-kan-spridas-nar-armen-spranger-farligt-amne.5faf9463-c2ee-5411-b612-57ae916dcac1",
+      "guid": "5faf9463-c2ee-5411-b612-57ae916dcac1",
+      "published_at": "2026-11-25T14:58:35+01:00",
+      "fetched_at": "2026-11-25T15:31:09+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Iowa",
+        "Tagg: Uppdatera mig - BEHOV",
+        "Tagg: Bly"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/623eb29c-f95e-3669-8a36-beb4013111d3",
+      "sv": {
+        "title": "Bly kan spridas när USA:s armé spränger farligt ämne",
+        "summary": "Flera ton av det explosiva ämnet blyazid har blivit instabilt i Iowa. Nu ska armén spränag hela rasket i luften, trots att det kan innebära att bly sprids i området.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lead may spread when US army blows up hazardous substance",
+        "summary": "Several tons of the explosive substance lead azide have become unstable in Iowa. Now the army will blow up the entire batch in the air, even though this may mean lead spreads in the area."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
       }
     },
     {
@@ -5173,193 +5372,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T10:15:50+01:00"
-      }
-    },
-    {
-      "id": "4033d19ea45f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/familj/minnesord-om-peter-ingwersen",
-      "guid": "03a0fe89-b0cf-4300-8803-612c696fa294",
-      "published_at": "2026-11-25T10:00:00+01:00",
-      "fetched_at": "2026-11-25T10:01:13+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/c9288517-83b1-4f35-84cb-c6f3d69326f0.jpeg?width=600",
-      "sv": {
-        "title": "Minnesord om Peter Ingwersen",
-        "summary": "Professor Peter Ingwersen, Malmö, har avlidit i en ålder av 79 år. Han sörjes närmast av hustrun Iren Wormell, och av oss, hans vänner i Malmö.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Obituary for Peter Ingwersen",
-        "summary": "Professor Peter Ingwersen, Malmö, has died at the age of 79. He is survived by his wife Iren Wormell, and by us, his friends in Malmö."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:01:19+01:00"
-      }
-    },
-    {
-      "id": "95b2f2c8a028",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/unik-zombiesvamp-hittad-utanfor-lund",
-      "guid": "e8a9644c-9503-40ba-a617-f7094765313e",
-      "published_at": "2026-11-25T10:00:00+01:00",
-      "fetched_at": "2026-11-25T10:01:13+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/f76949f0-45b2-4e7b-9294-12a8d0de1b93.jpeg?width=600",
-      "sv": {
-        "title": "Unik zombiesvamp hittad utanför Lund",
-        "summary": "Benjamin Hasselberg skulle fotografera slemsvampar, men hittade något ännu mer exotiskt – en extremt ovanlig zombiesvamp. För första gången någonsin har den märkliga arten nu fångats på bild i Sverige. – Det här är ett once-in-a-lifetime-fynd, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unique zombie fungus found outside Lund",
-        "summary": "Benjamin Hasselberg was going to photograph slime molds, but found something even more exotic – an extremely rare zombie fungus. For the first time ever, the peculiar species has now been captured on camera in Sweden. – It's a once-in-a-lifetime find, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:01:19+01:00"
-      }
-    },
-    {
-      "id": "7b8cd20eadee",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/larmet-storbritanniens-forsvarssatsningar-dyrare-an-vantat",
-      "guid": "4c057488-09be-443c-9dc6-8d9f888b26d2",
-      "published_at": "2026-11-25T09:59:28+01:00",
-      "fetched_at": "2026-11-25T10:15:42+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Larmet: Storbritanniens försvarssatsningar dyrare än väntat",
-        "summary": "Storbritanniens planerade försvarsinvesteringar riskerar att inte kunna genomföras fullt ut på grund av osäker finansiering. Planen har redan försenats till följd av högre kostnader än beräknat. Det varnar revisionsmyndigheten National Audit Office (NAO) för i en rapport, enligt Reuters.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Alarm: UK defence spending more expensive than expected",
-        "summary": "The UK's planned defence investments risk not being fully implemented due to uncertain financing. The plan has already been delayed due to higher costs than estimated. The National Audit Office (NAO) warns of this in a report, according to Reuters."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:15:50+01:00"
-      }
-    },
-    {
-      "id": "787fa41efd2e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/tidigare-eu-toppar-anvand-rysslands-frysta-pengar-nu",
-      "guid": "ac3c95be-acde-4274-9241-7209bb66f3ae",
-      "published_at": "2026-11-25T09:58:59+01:00",
-      "fetched_at": "2026-11-25T10:15:42+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a99e19ff-bf40-485d-b808-95cc7143b92a.jpg?width=600",
-      "sv": {
-        "title": "Tidigare EU-toppar: Använd Rysslands frysta pengar nu",
-        "summary": "Använd Rysslands frysta statstillgångar i EU till stöd för Ukraina, uppmanar EU-kommissionens förre ordförande José Manuel Barroso och en lång rad andra tidigare ledare.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Former EU leaders: Use Russia's frozen money now",
-        "summary": "Use Russia's frozen state assets in the EU to support Ukraine, urges former European Commission president José Manuel Barroso and a long list of other former leaders."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:15:50+01:00"
-      }
-    },
-    {
-      "id": "05e9d9c1d7eb",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kina-avfardar-usa-s-tullplaner-falsk-forestallning",
-      "guid": "3774d80d-5a60-4a46-8616-3f5154fd1897",
-      "published_at": "2026-11-25T09:55:35+01:00",
-      "fetched_at": "2026-11-25T10:15:42+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/dd22fded-f45f-45ee-8096-999f9cbf8350.jpeg?width=600",
-      "sv": {
-        "title": "Kina avfärdar USA:s tullplaner: ”Falsk föreställning”",
-        "summary": "Kina avfärdar uppgifterna om nya amerikanska tullar på kinesiska varor som politiskt spel och uppmanar USA att värna den rådande vapenvilan i handelskonflikten. Det skriver Bloomberg News.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "China dismisses US tariff plans: \"False notion\"",
-        "summary": "China dismisses reports of new American tariffs on Chinese goods as political game and urges the US to uphold the prevailing ceasefire in the trade conflict, writes Bloomberg News."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:15:50+01:00"
-      }
-    },
-    {
-      "id": "d55f28a0b512",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/medituner-pa-vag-att-noteras-pa-ngm",
-      "guid": "83f2e9d4-204f-45dd-a208-5e8bef4fb931",
-      "published_at": "2026-11-25T09:54:07+01:00",
-      "fetched_at": "2026-11-25T10:01:12+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Medituner på väg att noteras på NGM",
-        "summary": "Medicinteknikbolaget Medituner, som har utvecklat plattformen Asthmatuner, har fått villkorat godkännande för notering av företagets aktie på handelsplattformen NGM Growth Market. Första handelsdag är beräknad till den 22 december 2026.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Medituner set to list on NGM",
-        "summary": "Medical technology company Medituner, which has developed the Asthmatuner platform, has received conditional approval to list the company's shares on the NGM Growth Market trading platform. The first trading day is expected to be 22 December 2026."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:01:19+01:00"
-      }
-    },
-    {
-      "id": "54c79b82d664",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/thomas-markle-atalas-kan-fa-40-ar",
-      "guid": "f3378694-bcc9-4edc-b18c-a6cce2352c48",
-      "published_at": "2026-11-25T09:53:45+01:00",
-      "fetched_at": "2026-11-25T10:01:13+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/080844bc-85c5-4bbc-bba6-629e9a755ef7.jpg?width=600",
-      "sv": {
-        "title": "Thomas Markle åtalas – kan få 40 år",
-        "summary": "Meghan Markles pappa Thomas Markle åtalas i Kalifornien för innehav av bilder som visar sexuella övergrepp mot barn.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Thomas Markle charged – could get 40 years",
-        "summary": "Meghan Markle's father Thomas Markle is being charged in California for possessing images showing sexual abuse of children."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:01:19+01:00"
       }
     }
   ]

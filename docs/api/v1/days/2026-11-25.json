@@ -1,7 +1,110 @@
 {
-  "generated_at": "2026-11-25T15:15:55+01:00",
-  "count": 407,
+  "generated_at": "2026-11-25T15:31:22+01:00",
+  "count": 414,
   "items": [
+    {
+      "id": "3f5fd02e1c04",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Pv91Az/linnea-claesons-det-kommer-alltid-en-var-vacker-manga-fragor",
+      "guid": "https://www.svd.se/a/Pv91Az/linnea-claesons-det-kommer-alltid-en-var-vacker-manga-fragor?utm_medium=rss",
+      "published_at": "2026-11-25T15:29:42+01:00",
+      "fetched_at": "2026-11-25T15:31:07+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/6b184251-8d20-3582-94e4-28322004c242?format=auto&s=750c57f32a1da326f659fa3019469a1d0745e953&w=1000",
+      "sv": {
+        "title": "Varför granskas inte Linnéa Claeson?"
+      },
+      "en": {
+        "title": "Why isn’t Linnéa Claeson being scrutinised?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
+      }
+    },
+    {
+      "id": "95136aec6545",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/skorpsmulor-och-pengahogar-i-stadshallen",
+      "guid": "b7132eb7-5e7f-4145-ab21-78de2f56795d",
+      "published_at": "2026-11-25T15:29:33+01:00",
+      "fetched_at": "2026-11-25T15:31:10+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/07b8c146-c48d-4099-9e5e-cdb18b236ec7.jpeg?width=600",
+      "sv": {
+        "title": "Skorpsmulor till barnen eller pengar på hög – så lät miljard-debatten i Stadshallen",
+        "summary": "Ska Lundabarnen äta skorpor till frukost? Kommer det att finnas några regionbussar kvar alls? Och samlar Lunds kommun pengar på hög? I Stadshallen blandas smått och stort när nästan tio miljarder kronor ska delas ut.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Rusks for the children or money piled up – how the billion debate sounded in the Stadshallen",
+        "summary": "Should Lund’s children eat rusks for breakfast? Will there be any regional buses left at all? And is Lund municipality hoarding money? In the Stadshallen, the small and the big mix as almost SEK 10 billion is to be handed out."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
+      }
+    },
+    {
+      "id": "667eb4eb76a8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350002",
+      "guid": "rss:sr.se/article/9350002",
+      "published_at": "2026-11-25T15:28:00+01:00",
+      "fetched_at": "2026-11-25T15:31:06+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-toppen varnar för högersväng: ”Det är naivt”",
+        "summary": "Även Centerpartiets EU-parlamentariker Abir Al-Sahlani ger sig nu in i Centerns infekterade diskussion om vilket håll partiets ska gå i regeringsfrågan. Hon varnar för en lösning där Centerpartiet ingår i en fyrparti-regering ledd av Ulf Kristersson.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "C leadership warns against right turn: “It’s naive”",
+        "summary": "Centre Party EU MP Abir Al-Sahlani now also joins the Centre’s heated discussion about which direction the party should take on the government question. She warns against a solution where the Centre Party is part of a four-party government led by Ulf Kristersson (M)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
+      }
+    },
+    {
+      "id": "ff0c45673011",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vast/hovratten-vantar-med-att-ta-upp-batolyckan-vid-tjorn-invantar-haveriutredning",
+      "guid": "https://www.svt.se/nyheter/lokalt/vast/hovratten-vantar-med-att-ta-upp-batolyckan-vid-tjorn-invantar-haveriutredning",
+      "published_at": "2026-11-25T15:16:34+01:00",
+      "fetched_at": "2026-11-25T15:31:05+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Hovrätten väntar med att ta upp båtolyckan vid Tjörn – inväntar haveriutredning",
+        "summary": "Hovrätten kommer avvakta med att ta upp målet om båtolyckan utanför Tjörn. Först ska Haverikommissionens utredning av olyckan bli färdig.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Court of appeal waits to take up Tjörn boat accident – awaiting accident investigation",
+        "summary": "The court of appeal will wait to take up the case concerning the boat accident off Tjörn. First, the Haverikommissionen investigation of the accident must be completed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
+      }
+    },
     {
       "id": "1c9a8e4b311b",
       "schema_version": 1,
@@ -54,6 +157,37 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T15:15:52+01:00"
+      }
+    },
+    {
+      "id": "eefb24918a7c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/halsofarligt-konstverk-forsvunnet-vager-75-kilo.8c32e909-0d55-5725-8c2a-24a1f888a4d1",
+      "guid": "8c32e909-0d55-5725-8c2a-24a1f888a4d1",
+      "published_at": "2026-11-25T15:09:01+01:00",
+      "fetched_at": "2026-11-25T15:31:09+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: breaking-GP"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e4662b45-c606-3944-aeac-aff9f9527f43",
+      "sv": {
+        "title": "”Hälsofarligt” konstverk försvunnet",
+        "summary": "Konstnären går ut med efterlysning • ”Ingen vet var den är”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Health-hazardous” artwork missing",
+        "summary": "The artist issues an appeal • “No one knows where it is”."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
       }
     },
     {
@@ -161,6 +295,71 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T15:01:30+01:00"
+      }
+    },
+    {
+      "id": "e6ac28bb6ef0",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/rik-s-tidigare-ordforande-tommy-skoog-ar-dod.6d22b178-c3ac-5f32-8bd7-092f9e358f1c",
+      "guid": "6d22b178-c3ac-5f32-8bd7-092f9e358f1c",
+      "published_at": "2026-11-25T14:59:34+01:00",
+      "fetched_at": "2026-11-25T15:31:09+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Sport",
+        "Tagg: Redbergslid",
+        "Tagg: Handboll"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/89d4e974-7744-31d8-a831-49b80d57397e",
+      "sv": {
+        "title": "Handbollsprofilen Tommy Skoog är död",
+        "summary": "RIK vann åtta SM-guld under hans ledning – nu sörjer klubben sin hedersordförande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Handball profile Tommy Skoog has died",
+        "summary": "RIK won eight Swedish championship golds under his leadership – now the club mourns its honorary chair."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
+      }
+    },
+    {
+      "id": "447b6975b30e",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/bly-kan-spridas-nar-armen-spranger-farligt-amne.5faf9463-c2ee-5411-b612-57ae916dcac1",
+      "guid": "5faf9463-c2ee-5411-b612-57ae916dcac1",
+      "published_at": "2026-11-25T14:58:35+01:00",
+      "fetched_at": "2026-11-25T15:31:09+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Iowa",
+        "Tagg: Uppdatera mig - BEHOV",
+        "Tagg: Bly"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/623eb29c-f95e-3669-8a36-beb4013111d3",
+      "sv": {
+        "title": "Bly kan spridas när USA:s armé spränger farligt ämne",
+        "summary": "Flera ton av det explosiva ämnet blyazid har blivit instabilt i Iowa. Nu ska armén spränag hela rasket i luften, trots att det kan innebära att bly sprids i området.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lead may spread when US army blows up hazardous substance",
+        "summary": "Several tons of the explosive substance lead azide have become unstable in Iowa. Now the army will blow up the entire batch in the air, even though this may mean lead spreads in the area."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
       }
     },
     {

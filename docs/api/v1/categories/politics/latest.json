@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-25T15:15:55+01:00",
+  "generated_at": "2026-11-25T15:31:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "95136aec6545",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/skorpsmulor-och-pengahogar-i-stadshallen",
+      "guid": "b7132eb7-5e7f-4145-ab21-78de2f56795d",
+      "published_at": "2026-11-25T15:29:33+01:00",
+      "fetched_at": "2026-11-25T15:31:10+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/07b8c146-c48d-4099-9e5e-cdb18b236ec7.jpeg?width=600",
+      "sv": {
+        "title": "Skorpsmulor till barnen eller pengar på hög – så lät miljard-debatten i Stadshallen",
+        "summary": "Ska Lundabarnen äta skorpor till frukost? Kommer det att finnas några regionbussar kvar alls? Och samlar Lunds kommun pengar på hög? I Stadshallen blandas smått och stort när nästan tio miljarder kronor ska delas ut.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Rusks for the children or money piled up – how the billion debate sounded in the Stadshallen",
+        "summary": "Should Lund’s children eat rusks for breakfast? Will there be any regional buses left at all? And is Lund municipality hoarding money? In the Stadshallen, the small and the big mix as almost SEK 10 billion is to be handed out."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
+      }
+    },
+    {
+      "id": "667eb4eb76a8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350002",
+      "guid": "rss:sr.se/article/9350002",
+      "published_at": "2026-11-25T15:28:00+01:00",
+      "fetched_at": "2026-11-25T15:31:06+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-toppen varnar för högersväng: ”Det är naivt”",
+        "summary": "Även Centerpartiets EU-parlamentariker Abir Al-Sahlani ger sig nu in i Centerns infekterade diskussion om vilket håll partiets ska gå i regeringsfrågan. Hon varnar för en lösning där Centerpartiet ingår i en fyrparti-regering ledd av Ulf Kristersson.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "C leadership warns against right turn: “It’s naive”",
+        "summary": "Centre Party EU MP Abir Al-Sahlani now also joins the Centre’s heated discussion about which direction the party should take on the government question. She warns against a solution where the Centre Party is part of a four-party government led by Ulf Kristersson (M)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:31:19+01:00"
+      }
+    },
     {
       "id": "dd50b33da00a",
       "schema_version": 1,
@@ -5313,62 +5366,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T22:45:50+01:00"
-      }
-    },
-    {
-      "id": "b72eb944da0d",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6c0QA0CLTxNzYMd72DHfJA/c-politikern-totalvaegrar-att-samarbeta-med-sd",
-      "guid": "6c0QA0CLTxNzYMd72DHfJA",
-      "published_at": "2026-11-23T22:27:05+01:00",
-      "fetched_at": "2026-11-23T22:30:28+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Valet 2026"
-      ],
-      "sv": {
-        "title": "C-politikern totalvägrar att samarbeta med SD",
-        "summary": "”Människovärdet är viktigast” • Vill inte bli som L",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "C politician flatly refuses to cooperate with SD",
-        "summary": "”Human dignity is most important” • Does not want to end up like L"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:30:34+01:00"
-      }
-    },
-    {
-      "id": "6ef826e5bc29",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/z0GKAO/ida-gabrielsson-da-kan-vansterpartiet-avsta-ministerposter",
-      "guid": "https://www.aftonbladet.se/nyheter/a/z0GKAO/ida-gabrielsson-da-kan-vansterpartiet-avsta-ministerposter?utm_medium=rss",
-      "published_at": "2026-11-23T22:20:53+01:00",
-      "fetched_at": "2026-11-23T22:30:27+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/f82fe066-ff6a-34ad-b536-5e22117f622c?format=auto&s=48c202bb8f2d0692be19a3336a0b114a014c7fa5&w=1000",
-      "sv": {
-        "title": "Gabrielsson: Det kan få oss att avstå ministerposter",
-        "summary": "Nya beskedet från Ida Gabrielsson",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Gabrielsson: It could cause us to refrain from ministerial posts",
-        "summary": "New message from Ida Gabrielsson"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:30:34+01:00"
       }
     }
   ]
