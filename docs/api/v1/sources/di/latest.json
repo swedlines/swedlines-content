@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-25T23:01:18+01:00",
+  "generated_at": "2026-11-25T23:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "14a76218af06",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ex-chef-stammer-palo-alto",
+      "guid": "fb7fcc56-637a-4dd8-bc7c-ff015c7edcb5",
+      "published_at": "2026-11-25T22:57:47+01:00",
+      "fetched_at": "2026-11-25T23:15:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Ex-chef stämmer Palo Alto",
+        "summary": "Cybersäkerhetsbolaget Palo Alto, som förra veckan tillkännagav ett AI-förvärv värt 4,5 miljarder dollar, har stämts av en den tidigare regionala vice vd:n Dan McGill, som hävdar att han fick sparken efter att ha larmat om misstänkt bokföringsbedrägeri.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Former executive sues Palo Alto",
+        "summary": "Cybersecurity company Palo Alto, which last week announced an AI acquisition worth USD 4.5 billion, has been sued by former regional vice president Dan McGill, who claims he was fired after raising the alarm about suspected accounting fraud."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T23:15:50+01:00"
+      }
+    },
+    {
+      "id": "cca4dd41e4a4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/megaavgiften-ater-upp-spararnas-kapital",
+      "guid": "1afdb156-1d44-4bb3-bbe0-43aeeae77c01",
+      "published_at": "2026-11-25T22:55:17+01:00",
+      "fetched_at": "2026-11-25T23:15:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/120c096c-d708-4a13-8338-6360fbf4f1a3.jpeg?width=600",
+      "sv": {
+        "title": "Megaavgiften äter upp spararnas kapital",
+        "summary": "Skenet kan bedra när det gäller fondavgifter. Di skalar bort branschens avgiftslager och visar hur slutnotan för spararna rusar till över 8 procent per år i en av marknadens värstingar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mega fee eats up savers' capital",
+        "summary": "Appearances can be deceptive when it comes to fund fees. They strip away the industry's fee layers and show how the final bill for savers soars to over 8 percent per year in one of the market's worst cases."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T23:15:50+01:00"
+      }
+    },
     {
       "id": "f3816c420cb5",
       "schema_version": 1,
@@ -5270,60 +5323,6 @@
       "en": {
         "title": "Anthropic plunges – Jensen Huang haunts",
         "summary": "Jensen Huang's comeback has triggered a stock market euphoria. But for newly listed Anthropic, the event is a sell signal. On Tuesday, Dario Amodei's AI creation falls below the subscription price of 83 dollars for the first time."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "167f0b62ad91",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ledare/andersson-kraschar-se-upp-for-s-spinn",
-      "guid": "f8eaccfb-fd6a-4629-8f28-6bd4569a712a",
-      "published_at": "2026-11-24T15:45:15+01:00",
-      "fetched_at": "2026-11-24T16:01:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/584c0f1b-ac4e-4fd6-9112-8602d3fea048.jpeg?width=600",
-      "sv": {
-        "title": "Andersson kraschar – se upp för S-spinn",
-        "summary": "S-ledaren talar om ”Tidö 2”, enbart för att höja priset för centerpartisternas vägval högerut. Man ska vara medveten om att detta bara är ett sätt för S att blanda bort korten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Andersson crashes – watch out for S-spin",
-        "summary": "The S leader talks about ”Tidö 2” merely to raise the price of the Centre Party's rightward choice. One should be aware that this is only a way for S to muddy the waters."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "d6fae26e5b07",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/investeringschefen-borsoron-storre-an-nvidia",
-      "guid": "8e906d6c-1e0c-43dd-890e-a582876c0865",
-      "published_at": "2026-11-24T15:44:56+01:00",
-      "fetched_at": "2026-11-24T16:01:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/93c462d5-c89c-4899-b5cf-02ca136a3410.png?width=600",
-      "sv": {
-        "title": "Investeringschefen: Börsoron större än Nvidia",
-        "summary": "Donald Trump får för stort utrymme i Nvidia-dramatiken och vill ta åt sig äran för Jensen Huangs comeback. Det hävdar Erik Lundkvist, investeringschef på fondbolaget Coeli. Bakom börsoron ligger något större: Räntor, vinsttopp och stormaktskampen om AI, hävdar han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Investment chief: stock market turmoil bigger than Nvidia",
-        "summary": "Donald Trump gets too much space in the Nvidia drama and wants to take credit for Jensen Huang's comeback. That is the claim of Erik Lundkvist, investment chief at the fund company Coeli. Behind the market turmoil lies something bigger: interest rates, peak profits and the great-power struggle over AI, he argues."
       },
       "translation": {
         "status": "done",

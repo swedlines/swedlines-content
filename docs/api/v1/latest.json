@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-25T23:01:18+01:00",
+  "generated_at": "2026-11-25T23:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "afb09069b564",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/elon-musk-far-gront-ljus-for-datacenter-i-rymden",
+      "guid": "99da20f9-0c8a-4328-acc2-50f913e5dbde",
+      "published_at": "2026-11-25T23:14:07+01:00",
+      "fetched_at": "2026-11-25T23:15:47+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/d466c154-32f4-4401-bd9f-782452bdd8c1.jpg?width=600",
+      "sv": {
+        "title": "Elon Musk får grönt ljus för datacenter i rymden",
+        "summary": "Rymdbolaget SpaceX har kommit ett steg närmare att skjuta upp datacenter i rymden, rapporterar flera medier. Projektet har fått grönt ljus från USA:s kommunikationsmyndighet, FCC.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elon Musk gets green light for data centres in space",
+        "summary": "The space company SpaceX has moved a step closer to launching data centres into space, according to several media outlets. The project has received the green light from the US Federal Communications Commission, the FCC."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T23:15:50+01:00"
+      }
+    },
+    {
+      "id": "14a76218af06",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ex-chef-stammer-palo-alto",
+      "guid": "fb7fcc56-637a-4dd8-bc7c-ff015c7edcb5",
+      "published_at": "2026-11-25T22:57:47+01:00",
+      "fetched_at": "2026-11-25T23:15:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Ex-chef stämmer Palo Alto",
+        "summary": "Cybersäkerhetsbolaget Palo Alto, som förra veckan tillkännagav ett AI-förvärv värt 4,5 miljarder dollar, har stämts av en den tidigare regionala vice vd:n Dan McGill, som hävdar att han fick sparken efter att ha larmat om misstänkt bokföringsbedrägeri.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Former executive sues Palo Alto",
+        "summary": "Cybersecurity company Palo Alto, which last week announced an AI acquisition worth USD 4.5 billion, has been sued by former regional vice president Dan McGill, who claims he was fired after raising the alarm about suspected accounting fraud."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T23:15:50+01:00"
+      }
+    },
+    {
+      "id": "cca4dd41e4a4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/megaavgiften-ater-upp-spararnas-kapital",
+      "guid": "1afdb156-1d44-4bb3-bbe0-43aeeae77c01",
+      "published_at": "2026-11-25T22:55:17+01:00",
+      "fetched_at": "2026-11-25T23:15:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/120c096c-d708-4a13-8338-6360fbf4f1a3.jpeg?width=600",
+      "sv": {
+        "title": "Megaavgiften äter upp spararnas kapital",
+        "summary": "Skenet kan bedra när det gäller fondavgifter. Di skalar bort branschens avgiftslager och visar hur slutnotan för spararna rusar till över 8 procent per år i en av marknadens värstingar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mega fee eats up savers' capital",
+        "summary": "Appearances can be deceptive when it comes to fund fees. They strip away the industry's fee layers and show how the final bill for savers soars to over 8 percent per year in one of the market's worst cases."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T23:15:50+01:00"
+      }
+    },
     {
       "id": "4f3ec5c566b3",
       "schema_version": 1,
@@ -5341,87 +5421,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T16:15:54+01:00"
-      }
-    },
-    {
-      "id": "0ad99656aa63",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/claes-dinkelspiel-investerar-i-astmabolag-pa-ngm",
-      "guid": "692aeb1b-a1d1-4a73-a1de-53fba525faa2",
-      "published_at": "2026-11-25T16:07:28+01:00",
-      "fetched_at": "2026-11-25T16:15:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/32a65f2d-e32a-4510-a73d-ba30c88221a2.jpeg?width=600",
-      "sv": {
-        "title": "Claes Dinkelspiel investerar i astmabolag på NGM",
-        "summary": "Medicinteknikbolaget Medituner har fått klartecken att noteras på handelsplattformen NGM Growth Market. ”Vi vill både bredda ägarbasen och öka kännedomen om bolaget”, säger vd:n och medgrundaren Eric Alhanko om motivet till noteringen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Claes Dinkelspiel invests in asthma company on NGM",
-        "summary": "Medical technology company Medituner has been given the go-ahead to list on the NGM Growth Market trading platform. \"We want both to broaden the ownership base and to increase awareness of the company\", says CEO and co-founder Eric Alhanko about the motive for the listing."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T16:15:54+01:00"
-      }
-    },
-    {
-      "id": "fb7e85ab927f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80307",
-      "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80307&utm_medium=rss",
-      "published_at": "2026-11-25T16:06:53+01:00",
-      "fetched_at": "2026-11-25T16:15:47+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Kristersson: M, KD, L och C förhandlar"
-      },
-      "en": {
-        "title": "Kristersson: M, KD, L and C are negotiating"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T16:15:54+01:00"
-      }
-    },
-    {
-      "id": "4eebd181f0c8",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/vastsverige/ny-rattegang-drojer-trakigt-for-familjen.95d7a742-8fea-529e-a1a1-97e94dc0400a",
-      "guid": "95d7a742-8fea-529e-a1a1-97e94dc0400a",
-      "published_at": "2026-11-25T16:06:45+01:00",
-      "fetched_at": "2026-11-25T16:31:11+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Västsverige",
-        "Tagg: Samhällsredaktionen"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/7b23f871-e3a4-3005-abe3-ae29a740a187",
-      "sv": {
-        "title": "Ny rättegång dröjer: ”Tråkigt för familjen”",
-        "summary": "Hovrätten vill invänta Haverikommissionens slutrapport.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New trial delayed: \"Sad for the family\"",
-        "summary": "The Court of Appeal wants to await the Accident Investigation Authority's final report."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T16:31:17+01:00"
       }
     }
   ]

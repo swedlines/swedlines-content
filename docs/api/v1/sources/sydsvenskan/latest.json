@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T23:01:18+01:00",
+  "generated_at": "2026-11-25T23:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "afb09069b564",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/elon-musk-far-gront-ljus-for-datacenter-i-rymden",
+      "guid": "99da20f9-0c8a-4328-acc2-50f913e5dbde",
+      "published_at": "2026-11-25T23:14:07+01:00",
+      "fetched_at": "2026-11-25T23:15:47+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/d466c154-32f4-4401-bd9f-782452bdd8c1.jpg?width=600",
+      "sv": {
+        "title": "Elon Musk får grönt ljus för datacenter i rymden",
+        "summary": "Rymdbolaget SpaceX har kommit ett steg närmare att skjuta upp datacenter i rymden, rapporterar flera medier. Projektet har fått grönt ljus från USA:s kommunikationsmyndighet, FCC.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elon Musk gets green light for data centres in space",
+        "summary": "The space company SpaceX has moved a step closer to launching data centres into space, according to several media outlets. The project has received the green light from the US Federal Communications Commission, the FCC."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T23:15:50+01:00"
+      }
+    },
     {
       "id": "a4a6361bce54",
       "schema_version": 1,
@@ -5175,32 +5202,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T11:01:15+01:00"
-      }
-    },
-    {
-      "id": "0b4e24c35f36",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/terrordomd-dansk-spion-kraver-ersattning",
-      "guid": "e500ad5e-7ce4-4138-b7ab-12d519b7631e",
-      "published_at": "2026-11-23T10:43:47+01:00",
-      "fetched_at": "2026-11-23T10:45:50+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Terrordömd dansk spion kräver ersättning",
-        "summary": "En dansk man dömdes som IS-terrorist, men visade sig efter flera år i fängelse ha spionerat för Danmarks räkning. Nu kräver han ekonomisk ersättning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Convicted Danish spy demands compensation",
-        "summary": "A Danish man was convicted as an IS terrorist but, after several years in prison, turned out to have spied for Denmark. He is now demanding financial compensation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T10:45:57+01:00"
       }
     }
   ]
