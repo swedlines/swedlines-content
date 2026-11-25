@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T07:01:41+01:00",
+  "generated_at": "2026-11-25T07:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cdfe63646824",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/ella-halvarsson-berattar-om-os-sorgen-och-stodet-ser-varandra",
+      "guid": "https://www.dn.se/sport/ella-halvarsson-berattar-om-os-sorgen-och-stodet-ser-varandra/",
+      "published_at": "2026-11-25T07:14:12+01:00",
+      "fetched_at": "2026-11-25T07:15:41+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/09fd54b1-e33e-4247-af1a-0319fc7a68dc.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Ella Halvarsson berättar om OS-sorgen – och stödet: ”Ser varandra”",
+        "summary": "Hon stormade in i världseliten, skrällde med VM-silver och längtade efter sin första OS-start. Sedan gick allt fel för skidskytten Ella Halvarsson. – Jag kände att ”det här rinner mig ur händerna”. Det blev en sorg, säger hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ella Halvarsson on Olympic grief – and the support: “They look out for each other”",
+        "summary": "She stormed into the world elite, upset with World Championship silver, and longed for her first Olympic start. Then everything went wrong for biathlete Ella Halvarsson. – I felt that “this is slipping through my fingers”. It became a sorrow, she says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T07:15:56+01:00"
+      }
+    },
     {
       "id": "3fa004e06458",
       "schema_version": 1,
@@ -5574,33 +5601,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T14:16:07+01:00"
-      }
-    },
-    {
-      "id": "949d969f4732",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/forst-provspel-i-ifk-goteborg-sedan-kval-storsta-matchen-i-min-karriar",
-      "guid": "7c69dc29-4a07-4ffb-b105-98acdae41db3",
-      "published_at": "2026-11-19T14:00:00+01:00",
-      "fetched_at": "2026-11-19T14:01:19+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/1ba71db4-d4c8-412e-97ad-fcd828fcb662.jpeg?width=600",
-      "sv": {
-        "title": "Först provspel i IFK Göteborg – sedan kval: ”Största matchen i min karriär”",
-        "summary": "Ena veckan provspel med allsvenska storklubben IFK Göteborg. Nästa vecka: ett avgörande kval för att skjuta Lunds BK till Superettan. För den 19-åriga anfallstalangen Aleandro Wihlborg Costa är det intensiva dagar. – Det är en dröm och jag är extremt taggad, säger han inför matcherna mot Norrby.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trial at IFK Göteborg – then play-off: \"Biggest match of my career\"",
-        "summary": "One week a trial with allsvenskan giants IFK Göteborg. Next week: a decisive play-off to take Lunds BK up to the Superettan. For the 19-year-old striker talent Aleandro Wihlborg Costa, these are intense days. \"It's a dream and I'm extremely fired up,\" he says ahead of the matches against Norrby."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T14:01:25+01:00"
       }
     }
   ]

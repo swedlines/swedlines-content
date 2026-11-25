@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-25T07:01:41+01:00",
+  "generated_at": "2026-11-25T07:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "db705abfab3a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/polisens-ilska-efter-strandbilderna",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/polisens-ilska-efter-strandbilderna",
+      "published_at": "2026-11-25T07:05:32+01:00",
+      "fetched_at": "2026-11-25T07:15:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Polisens ilska efter strandbilderna",
+        "summary": "Varnar efter skräcksekunderna i USA: Håll er borta!",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police anger after the beach footage",
+        "summary": "Warns after horror seconds in the USA: Stay away!"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T07:15:56+01:00"
+      }
+    },
+    {
+      "id": "231e50a44145",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/migrationsverket-pausar-utvisningar-av-unga-vuxna",
+      "guid": "https://www.expressen.se/nyheter/sverige/migrationsverket-pausar-utvisningar-av-unga-vuxna/",
+      "published_at": "2026-11-25T07:05:30+01:00",
+      "fetched_at": "2026-11-25T07:15:42+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Migrationsverket pausar utvisningar av unga vuxna",
+        "summary": "Migrationsverket pausar tills vidare utvisningar av unga vuxna, så kallade tonårsutvisningar. Beslutet kommer efter att riksdagspartierna aviserat ny lagstiftning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Migration Agency pauses deportations of young adults",
+        "summary": "The Migration Agency is pausing deportations of young adults, so-called teen deportations, until further notice. The decision comes after the Riksdag parties announced new legislation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T07:15:56+01:00"
+      }
+    },
     {
       "id": "4fb731b5419c",
       "schema_version": 1,
@@ -5145,58 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T16:01:25+01:00"
-      }
-    },
-    {
-      "id": "61d85e07a9c8",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=4c94b8a8-17a8-4ddd-a06a-35871ec49377",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4c94b8a8-17a8-4ddd-a06a-35871ec49377",
-      "published_at": "2026-11-21T15:37:27+01:00",
-      "fetched_at": "2026-11-21T15:45:45+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisen söker försvunnen pojke",
-        "summary": "Är i åttaårsåldern • Polisens signalement",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police search for missing boy",
-        "summary": "Is around eight years old • Police description"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T15:45:49+01:00"
-      }
-    },
-    {
-      "id": "6adc3f725aeb",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8b1b71d4-b526-4b98-a933-2dba69d70b92",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8b1b71d4-b526-4b98-a933-2dba69d70b92",
-      "published_at": "2026-11-21T15:26:54+01:00",
-      "fetched_at": "2026-11-21T15:31:02+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Journalisten Disa Håstad död",
-        "summary": "Journalisten blev 86 år gammal",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Journalist Disa Håstad dead",
-        "summary": "The journalist was 86 years old"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T15:31:08+01:00"
       }
     }
   ]

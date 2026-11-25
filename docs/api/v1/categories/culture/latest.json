@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T07:01:41+01:00",
+  "generated_at": "2026-11-25T07:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b168a75c6319",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/sa-bra-ar-arets-julkalender-i-svt-4",
+      "guid": "https://www.dn.se/kultur/sa-bra-ar-arets-julkalender-i-svt-4/",
+      "published_at": "2026-11-25T07:11:52+01:00",
+      "fetched_at": "2026-11-25T07:15:41+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/3b02469f-c118-4cd2-a068-bfb80e36c48f.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Så bra är årets julkalender i SVT",
+        "summary": "”Den ofrivillige tomten” har ungefär allt man kan önska sig av en julkalender: saga, stämning och en sexig alv. I fokus står en stressad advokat och hans 9-åriga dotter, men det är en oväntad figur som stjäl hela showen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This year's Christmas calendar on SVT is this good",
+        "summary": "“The Unwilling Elf” has roughly everything you could wish for from a Christmas calendar: a fairy tale, atmosphere and a sexy elf. The focus is on a stressed lawyer and his 9-year-old daughter, but an unexpected figure steals the whole show."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T07:15:56+01:00"
+      }
+    },
     {
       "id": "665d1c0697ab",
       "schema_version": 1,
@@ -5711,33 +5738,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T12:31:12+01:00"
-      }
-    },
-    {
-      "id": "2ef36c87145a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/dygnet-runt/det-ska-bli-en-minisaluhall-ny-satsning-pa-grand-deli-i-lund",
-      "guid": "bbca0e2a-68cf-419d-9b98-a608ac1069bb",
-      "published_at": "2026-11-21T12:00:00+01:00",
-      "fetched_at": "2026-11-21T12:01:19+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/27df7a4e-b331-488c-85a5-d7ef0c5da737.jpeg?width=600",
-      "sv": {
-        "title": "”Det ska bli en minisaluhall” – ny satsning på Grand Deli i Lund",
-        "summary": "Efter femton år på stjärnkrogar i Stockholm tar Carolina Molin över Grand Deli i Lund – men det ska inte bli snofsigt för det. – Jag har jättemycket planer, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "”It's going to be a mini food hall” – new venture at Grand Deli in Lund",
-        "summary": "After fifteen years at star restaurants in Stockholm, Carolina Molin takes over Grand Deli in Lund – but it's not going to be fancy about it. – I have a lot of plans, she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T12:01:23+01:00"
       }
     }
   ]

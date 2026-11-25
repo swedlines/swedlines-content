@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T07:01:41+01:00",
+  "generated_at": "2026-11-25T07:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "361200f99c3c",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/6PjEz8/migrationsverket-pausar-utvisningar-av-unga-vuxna",
+      "guid": "https://www.aftonbladet.se/nyheter/a/6PjEz8/migrationsverket-pausar-utvisningar-av-unga-vuxna?utm_medium=rss",
+      "published_at": "2026-11-25T07:01:47+01:00",
+      "fetched_at": "2026-11-25T07:15:41+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/bd4dde83-d9a0-30c1-bd75-91bb27bb453c?format=auto&s=10212b766fa9931978c66c215b4ce01c5a682f2b&w=1000",
+      "sv": {
+        "title": "Migrationsverket pausar utvisningar av unga vuxna",
+        "summary": "Tonårsutvisningarna pausas",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Migration Agency pauses deportations of young adults",
+        "summary": "Teen deportations are being paused"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T07:15:56+01:00"
+      }
+    },
     {
       "id": "a76a53a212aa",
       "schema_version": 1,
@@ -5346,33 +5373,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T07:31:11+01:00"
-      }
-    },
-    {
-      "id": "80322de52369",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/yz3rBx/orange-varning-for-sno-och-vind",
-      "guid": "https://www.aftonbladet.se/nyheter/a/yz3rBx/orange-varning-for-sno-och-vind?utm_medium=rss",
-      "published_at": "2026-11-22T07:17:28+01:00",
-      "fetched_at": "2026-11-22T07:45:40+01:00",
-      "category": "weather",
-      "image_url": "https://akamai.vgc.no/v2/images/8c94e3ca-5d54-3b30-847a-8d313c7eebc2?format=auto&s=167091c8ad5241b5afc6f6a2b77abb47ff24b599&w=1000",
-      "sv": {
-        "title": "Orange varning för snö och vind",
-        "summary": "Snö och vind på väg",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Orange warning for snow and wind",
-        "summary": "Snow and wind on the way"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T07:45:45+01:00"
       }
     }
   ]

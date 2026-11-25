@@ -1,214 +1,155 @@
 {
-  "generated_at": "2026-11-25T07:01:41+01:00",
+  "generated_at": "2026-11-25T07:16:01+01:00",
   "count": 23,
   "stories": [
     {
-      "id": "bc9e35a4d1b8",
-      "source_count": 9,
+      "id": "adfcf6526c82",
+      "source_count": 8,
       "sources": [
-        "svd",
-        "expressen",
-        "aftonbladet",
-        "tv4",
         "sr",
-        "sydsvenskan",
+        "aftonbladet",
+        "svd",
         "svt",
-        "di",
-        "dn"
+        "expressen",
+        "dn",
+        "sydsvenskan",
+        "di"
       ],
-      "first_published_at": "2026-11-24T10:16:21+01:00",
-      "last_published_at": "2026-11-24T19:15:29+01:00",
+      "first_published_at": "2026-11-25T07:00:00+01:00",
+      "last_published_at": "2026-11-25T07:10:24+01:00",
       "lead": {
-        "id": "bc9e35a4d1b8",
+        "id": "adfcf6526c82",
         "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80248",
-        "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80248&utm_medium=rss",
-        "published_at": "2026-11-24T10:16:21+01:00",
-        "fetched_at": "2026-11-24T11:59:05+01:00",
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9349490",
+        "guid": "rss:sr.se/article/9349490",
+        "published_at": "2026-11-25T07:00:00+01:00",
+        "fetched_at": "2026-11-25T07:01:35+01:00",
         "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/1954153b-cebd-34d4-8e2e-1ee63a148ab6?format=auto&s=5a371a37903900f3a7262c79d2a1487b44ab9e16&w=1000",
         "sv": {
-          "title": "Kristersson: Beredd att pröva fyrpartiregering"
+          "title": "Migrationsverket pausar vissa tonårsutvisningar",
+          "summary": "Migrationsverket pausar tills vidare vissa så kallade tonårsutvisningar. Det handlar om utvisningar av unga vuxna vars föräldrar och minderåriga syskon har rätt att stanna i Sverige. Bakgrunden är aviserade lagändringar som kan ge fler i gruppen rätt att stanna.",
+          "summary_origin": "truncated"
         },
         "en": {
-          "title": "Kristersson: Prepared to test four-party government"
+          "title": "Migration Agency pauses certain teen deportations",
+          "summary": "The Migration Agency is temporarily pausing certain so-called teen deportations. This concerns deportations of young adults whose parents and underage siblings have the right to remain in Sweden. The background is announced legislative changes that could give more people in this group the right to stay."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T11:59:14+01:00"
+          "translated_at": "2026-11-25T07:01:40+01:00"
         }
       },
       "items": [
         {
-          "id": "ab4ac86c9598",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/tomas-ramberg-akesson-kan-bli-riksdagens-kung",
-          "published_at": "2026-11-24T19:15:29+01:00",
-          "sv": {
-            "title": "Tomas Ramberg: Åkesson kan bli riksdagens kung"
-          },
-          "en": {
-            "title": "Tomas Ramberg: Åkesson could become king of the Riksdag"
-          }
-        },
-        {
-          "id": "0f258cba44a4",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9349374",
-          "published_at": "2026-11-24T17:53:00+01:00",
-          "sv": {
-            "title": "Ulf Kristersson (M) ska prövas som statsminister"
-          },
-          "en": {
-            "title": "Ulf Kristersson (M) to be tested as prime minister"
-          }
-        },
-        {
-          "id": "9f42c36d4bae",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/kristersson-provas-som-statsminister-nasta-vecka",
-          "published_at": "2026-11-24T17:16:00+01:00",
-          "sv": {
-            "title": "Kristersson prövas som statsminister nästa vecka"
-          },
-          "en": {
-            "title": "Kristersson to be put to a prime ministerial vote next week"
-          }
-        },
-        {
-          "id": "2f6ff5af7995",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/kristersson-provas-som-statsminister-pa-mandag",
-          "published_at": "2026-11-24T17:13:02+01:00",
-          "sv": {
-            "title": "Kristersson prövas som statsminister på måndag"
-          },
-          "en": {
-            "title": "Kristersson to be tested as prime minister on Monday"
-          }
-        },
-        {
-          "id": "d13d8d91ac06",
+          "id": "b2dbf3d8d4bb",
           "source": "di",
-          "url": "https://www.di.se/nyheter/talmannen-pataglig-risk-for-extra-val",
-          "published_at": "2026-11-24T17:06:15+01:00",
+          "url": "https://www.di.se/nyheter/migrationsverket-pausar-utvisningar-av-unga-vuxna",
+          "published_at": "2026-11-25T07:10:24+01:00",
           "sv": {
-            "title": "Talmannen: ”Påtaglig risk” för extra val"
+            "title": "Migrationsverket pausar utvisningar av unga vuxna"
           },
           "en": {
-            "title": "Speaker: \"Substantial risk\" of snap election"
+            "title": "The Migration Agency pauses deportations of young adults"
           }
         },
         {
-          "id": "d17d9e73e91d",
-          "source": "di",
-          "url": "https://www.di.se/ditv/nyheter/talmannen-riksdagen-ska-rosta-om-ulf-kristersson",
-          "published_at": "2026-11-24T17:02:22+01:00",
-          "sv": {
-            "title": "Talmannen: Riksdagen ska rösta om Ulf Kristersson"
-          },
-          "en": {
-            "title": "Speaker: Riksdag to vote on Ulf Kristersson"
-          }
-        },
-        {
-          "id": "90e94a3e65ac",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/talmannen-kristersson-provas-som-statsminister-pa-mandag",
-          "published_at": "2026-11-24T16:59:56+01:00",
-          "sv": {
-            "title": "Talmannen: Kristersson prövas som statsminister på måndag"
-          },
-          "en": {
-            "title": "Speaker: Kristersson to be tested as prime minister on Monday"
-          }
-        },
-        {
-          "id": "5b068991be07",
+          "id": "be4b7708d2a1",
           "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/kristersson-provas-som-statsminister-pa-mandag",
-          "published_at": "2026-11-24T16:56:09+01:00",
+          "url": "https://www.sydsvenskan.se/sverige/migrationsverket-pausar-utvisningar-av-unga-vuxna",
+          "published_at": "2026-11-25T07:09:43+01:00",
           "sv": {
-            "title": "Kristersson prövas som statsminister på måndag"
+            "title": "Migrationsverket pausar utvisningar av unga vuxna"
           },
           "en": {
-            "title": "Kristersson to be put to vote as prime minister on Monday"
+            "title": "The Migration Agency pauses deportations of young adults"
           }
         },
         {
-          "id": "977737ce5ce8",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9349349",
-          "published_at": "2026-11-24T16:56:00+01:00",
+          "id": "efd6ac936fa2",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/migrationsverket-pausar-utvisningar-av-unga-vuxna",
+          "published_at": "2026-11-25T07:09:12+01:00",
           "sv": {
-            "title": "Talmannen: Ulf Kristersson (M) ska prövas"
+            "title": "Migrationsverket pausar utvisningar av unga vuxna"
           },
           "en": {
-            "title": "Speaker: Ulf Kristersson (M) to be put to vote"
+            "title": "The Migration Agency pauses deportations of young adults"
           }
         },
         {
-          "id": "f28dea80c8ce",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/4rilU7jFkYGdrd5PbBtbgN/kristersson-m-proevas-som-statsminister-pa-mandag",
-          "published_at": "2026-11-24T16:54:08+01:00",
-          "sv": {
-            "title": "Kristersson (M) prövas som statsminister på måndag"
-          },
-          "en": {
-            "title": "Kristersson (M) to be put to vote as prime minister on Monday"
-          }
-        },
-        {
-          "id": "a1a8084b87b9",
-          "source": "svd",
-          "url": "https://www.svd.se/a/GPG7VB/kristersson-provas-som-statsminister-pa-mandag",
-          "published_at": "2026-11-24T16:46:05+01:00",
-          "sv": {
-            "title": "Kristersson prövas som statsminister på måndag"
-          },
-          "en": {
-            "title": "Kristersson to be put to vote as prime minister on Monday"
-          }
-        },
-        {
-          "id": "61e14a2fcf8f",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/4EqaPE/kristersson-provas-som-statsminister-pa-mandag",
-          "published_at": "2026-11-24T16:46:04+01:00",
-          "sv": {
-            "title": "Kristersson prövas som statsminister på måndag"
-          },
-          "en": {
-            "title": "Kristersson to be put to vote as prime minister on Monday"
-          }
-        },
-        {
-          "id": "45b9a5d70638",
+          "id": "231e50a44145",
           "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/kristersson-beredd-att-provas-i-statsministeromrostning",
-          "published_at": "2026-11-24T11:05:02+01:00",
+          "url": "https://www.expressen.se/nyheter/sverige/migrationsverket-pausar-utvisningar-av-unga-vuxna",
+          "published_at": "2026-11-25T07:05:30+01:00",
           "sv": {
-            "title": "Ulf Kristersson efter mötet med talmannen"
+            "title": "Migrationsverket pausar utvisningar av unga vuxna"
           },
           "en": {
-            "title": "Ulf Kristersson after meeting with the Speaker"
+            "title": "The Migration Agency pauses deportations of young adults"
           }
         },
         {
-          "id": "bc9e35a4d1b8",
+          "id": "62236709c79d",
           "source": "svd",
-          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80248",
-          "published_at": "2026-11-24T10:16:21+01:00",
+          "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80287",
+          "published_at": "2026-11-25T07:03:00+01:00",
           "sv": {
-            "title": "Kristersson: Beredd att pröva fyrpartiregering"
+            "title": "Migrationsverket pausar tonårsutvisningar"
           },
           "en": {
-            "title": "Kristersson: Prepared to test four-party government"
+            "title": "The Migration Agency pauses teen deportations"
+          }
+        },
+        {
+          "id": "ddd2f0e44e48",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/migrationsverket-pausar-utvisningar-av-unga-vuxna",
+          "published_at": "2026-11-25T07:02:03+01:00",
+          "sv": {
+            "title": "Migrationsverket pausar utvisningar av unga vuxna"
+          },
+          "en": {
+            "title": "The Migration Agency pauses deportations of young adults"
+          }
+        },
+        {
+          "id": "471452761117",
+          "source": "svd",
+          "url": "https://www.svd.se/a/ARdAlq/migrationsverket-pausar-utvisningar-av-unga-vuxna",
+          "published_at": "2026-11-25T07:01:47+01:00",
+          "sv": {
+            "title": "Migrationsverket pausar utvisningar av unga vuxna"
+          },
+          "en": {
+            "title": "The Migration Agency pauses deportations of young adults"
+          }
+        },
+        {
+          "id": "361200f99c3c",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/6PjEz8/migrationsverket-pausar-utvisningar-av-unga-vuxna",
+          "published_at": "2026-11-25T07:01:47+01:00",
+          "sv": {
+            "title": "Migrationsverket pausar utvisningar av unga vuxna"
+          },
+          "en": {
+            "title": "The Migration Agency pauses deportations of young adults"
+          }
+        },
+        {
+          "id": "adfcf6526c82",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9349490",
+          "published_at": "2026-11-25T07:00:00+01:00",
+          "sv": {
+            "title": "Migrationsverket pausar vissa tonårsutvisningar"
+          },
+          "en": {
+            "title": "Migration Agency pauses certain teen deportations"
           }
         }
       ]
