@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-25T06:31:08+01:00",
+  "generated_at": "2026-11-25T06:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "74380ebcbcd2",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/tt-261125-isksparande1-3624bafd/sa-mycket-hogre-blir-isk-skatten",
+      "guid": "tt-261125-isksparande1-3624bafd",
+      "published_at": "2026-11-25T05:50:08+01:00",
+      "fetched_at": "2026-11-25T06:45:47+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Liberalerna"
+      ],
+      "sv": {
+        "title": "Så mycket högre blir ISK-skatten",
+        "summary": "Sparande i form av ett investeringssparkonto, ISK, har blivit mycket populärt – numera är det drygt fyra miljoner svenskar som har ett sådant konto. Förutom en förenklad process när det gäller bland annat försäljning av tillgångar har skattesatsen varit förhållandevis låg och dessutom –…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "This is how much higher the ISK tax will be",
+        "summary": "Savings in the form of an investment savings account, ISK, have become very popular – today just over four million Swedes have such an account. Besides a simplified process for, among other things, selling assets, the tax rate has been relatively low and moreover –…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T06:45:52+01:00"
+      }
+    },
     {
       "id": "ce06b3289f4e",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T08:01:26+01:00"
-      }
-    },
-    {
-      "id": "3052f68850ac",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/eBleqU1uFRin9KA4JyOXu/uppgift-delar-av-krimbron-bortspraengd",
-      "guid": "eBleqU1uFRin9KA4JyOXu",
-      "published_at": "2026-11-17T07:12:13+01:00",
-      "fetched_at": "2026-11-17T07:15:51+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Uppgift: Delar av Krimbron bortsprängd",
-        "summary": "Uppgifterna från Kievs borgmästare Vitalij Klytjko kommer sent på måndagskvällen, efter det att han varnat för inkommande robotattacker. Tidigare under kvällen har även public servicebolaget Suspilne rapporterat om explosioner på många håll i Ukraina, däribland Zaporizjzja och Charkiv.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Report: Parts of the Crimea Bridge blown up",
-        "summary": "The information from Kyiv mayor Vitali Klitschko comes late on Monday evening, after he warned of incoming robot attacks. Earlier in the evening, the public service broadcaster Suspilne also reported explosions in many places in Ukraine, including Zaporizhzhia and Kharkiv."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:15:59+01:00"
       }
     }
   ]

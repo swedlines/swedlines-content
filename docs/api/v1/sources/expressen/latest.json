@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T06:31:08+01:00",
+  "generated_at": "2026-11-25T06:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a28dfe47fbd2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trump-oppnar-for-att-benada-huang",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-oppnar-for-att-benada-huang/",
+      "published_at": "2026-11-25T06:31:45+01:00",
+      "fetched_at": "2026-11-25T06:45:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump öppnar för att benåda Huang",
+        "summary": "Öppnar för att benåda Nvidia-vd:n",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump opens to pardoning Huang",
+        "summary": "Opens to pardoning the Nvidia CEO"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T06:45:52+01:00"
+      }
+    },
     {
       "id": "d265c9d76e21",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T15:15:47+01:00"
-      }
-    },
-    {
-      "id": "1d5324008395",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/krim/babyface-tillbaka-15-ar-efter-skracken",
-      "guid": "https://www.expressen.se/nyheter/krim/babyface-tillbaka-15-ar-efter-skracken/",
-      "published_at": "2026-11-21T14:37:28+01:00",
-      "fetched_at": "2026-11-21T14:45:47+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "”Babyface” tillbaka – 15 år efter skräcken",
-        "summary": "Serievåldtäktsmannen ”Babyface”, 33, har häktats för en ny våldtäkt. För drygt 15 år sedan satte han skräck i Göteborg efter en våg av överfall mot kvinnor i deras hem. Hans barnsliga utseende stack ut och gav honom öknamnet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Babyface\" back – 15 years after the terror",
-        "summary": "The serial rapist \"Babyface\", 33, has been remanded in custody for a new rape. Just over 15 years ago he spread terror in Göteborg after a wave of attacks on women in their homes. His childlike appearance stood out and gave him his nickname."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T14:45:52+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T06:31:08+01:00",
+  "generated_at": "2026-11-25T06:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a28dfe47fbd2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trump-oppnar-for-att-benada-huang",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-oppnar-for-att-benada-huang/",
+      "published_at": "2026-11-25T06:31:45+01:00",
+      "fetched_at": "2026-11-25T06:45:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump öppnar för att benåda Huang",
+        "summary": "Öppnar för att benåda Nvidia-vd:n",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump opens to pardoning Huang",
+        "summary": "Opens to pardoning the Nvidia CEO"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T06:45:52+01:00"
+      }
+    },
     {
       "id": "a4ab1a0b2f58",
       "schema_version": 1,
@@ -5346,32 +5372,6 @@
       "en": {
         "title": "More than 20 killed in South Sudan",
         "summary": "24 civilians were killed in an attack by opposition forces in South Sudan over the weekend, according to local…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T04:41:25+01:00"
-      }
-    },
-    {
-      "id": "eb7e4f74f411",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/kim-jong-un-undviker-donald-trump-duckar-alla-samtal",
-      "guid": "https://www.expressen.se/nyheter/varlden/kim-jong-un-undviker-donald-trump-duckar-alla-samtal/",
-      "published_at": "2026-11-23T03:26:48+01:00",
-      "fetched_at": "2026-11-23T04:41:19+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Kim Jong-Un undviker Donald Trump – duckar alla samtal",
-        "summary": "Donald Trump har försökt på alla möjliga och omöjliga sätt att få kontakt med Kim Jong-Un. Den nordkoreanska diktatorn svarar med tystnad. Samtidigt bygger han ut sin kärnvapenarsenal.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kim Jong-Un avoids Donald Trump – dodges all calls",
-        "summary": "Donald Trump has tried in every possible and impossible way to get in contact with Kim Jong-Un. The North Korean dictator responds with silence. Meanwhile, he is expanding his nuclear arsenal."
       },
       "translation": {
         "status": "done",

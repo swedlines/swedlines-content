@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T06:31:08+01:00",
-  "count": 25,
+  "generated_at": "2026-11-25T06:45:56+01:00",
+  "count": 24,
   "stories": [
     {
       "id": "bc9e35a4d1b8",
@@ -350,6 +350,108 @@
       ]
     },
     {
+      "id": "2a04dac68bee",
+      "source_count": 5,
+      "sources": [
+        "dn",
+        "svt",
+        "di",
+        "svd",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-24T21:21:01+01:00",
+      "last_published_at": "2026-11-25T06:31:45+01:00",
+      "lead": {
+        "id": "2a04dac68bee",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/varlden/ingmar-neveus-huang-skandalen-sager-allt-om-trumps-varldsbild",
+        "guid": "https://www.dn.se/varlden/ingmar-neveus-huang-skandalen-sager-allt-om-trumps-varldsbild/",
+        "published_at": "2026-11-24T21:21:01+01:00",
+        "fetched_at": "2026-11-24T21:30:58+01:00",
+        "category": "world",
+        "image_url": "https://static.bonniernews.se/ba/db410789-ca4d-42de-9b81-9a55579d9f97.jpeg?io=1&width=1000",
+        "sv": {
+          "title": "Ingmar Nevéus: Huang-skandalen säger allt om Trumps världsbild",
+          "summary": "NEW YORK. Donald Trumps agerande kring Nvidia sänder signalen att rika och mäktiga män får göra vad de vill ostraffat. När presidenten personligen ingrep för att återinsätta Jensen Huang som vd lade han sin egen framtid, och kanske USA:s, i en enda mans händer. Det är en mycket riskabel strategi.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Ingmar Nevéus: The Huang scandal says it all about Trump's worldview",
+          "summary": "NEW YORK. Donald Trump's conduct regarding Nvidia signals that rich and powerful men can do as they please without punishment. When the president personally intervened to reinstate Jensen Huang as CEO, he placed his own future, and perhaps that of the USA, in one man's hands. It is a very risky strategy."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T21:31:06+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "a28dfe47fbd2",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/trump-oppnar-for-att-benada-huang",
+          "published_at": "2026-11-25T06:31:45+01:00",
+          "sv": {
+            "title": "Trump öppnar för att benåda Huang"
+          },
+          "en": {
+            "title": "Trump opens to pardoning Huang"
+          }
+        },
+        {
+          "id": "ee2156b4d4f4",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80286",
+          "published_at": "2026-11-25T05:47:49+01:00",
+          "sv": {
+            "title": "Trump: Kan benåda Jensen Huang"
+          },
+          "en": {
+            "title": "Trump: Can pardon Jensen Huang"
+          }
+        },
+        {
+          "id": "7144ef931cfd",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/trump-alltid-mojligt-att-benada-huang",
+          "published_at": "2026-11-25T05:12:30+01:00",
+          "sv": {
+            "title": "Trump: Alltid möjligt att benåda Huang"
+          },
+          "en": {
+            "title": "Trump: Pardoning Huang always possible"
+          }
+        },
+        {
+          "id": "5fe612f29c7e",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/utrikes/trump-alltid-mojligt-att-benada-huang",
+          "published_at": "2026-11-25T03:57:44+01:00",
+          "sv": {
+            "title": "Trump: Alltid möjligt att benåda Huang"
+          },
+          "en": {
+            "title": "Trump: Pardoning Huang always possible"
+          }
+        },
+        {
+          "id": "2a04dac68bee",
+          "source": "dn",
+          "url": "https://www.dn.se/varlden/ingmar-neveus-huang-skandalen-sager-allt-om-trumps-varldsbild",
+          "published_at": "2026-11-24T21:21:01+01:00",
+          "sv": {
+            "title": "Ingmar Nevéus: Huang-skandalen säger allt om Trumps världsbild"
+          },
+          "en": {
+            "title": "Ingmar Nevéus: The Huang scandal says it all about Trump's worldview"
+          }
+        }
+      ]
+    },
+    {
       "id": "d533c9df740e",
       "source_count": 5,
       "sources": [
@@ -458,95 +560,6 @@
           },
           "en": {
             "title": "Centre Party drops in new poll: \"Not surprising\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "2a04dac68bee",
-      "source_count": 4,
-      "sources": [
-        "dn",
-        "svt",
-        "di",
-        "svd"
-      ],
-      "first_published_at": "2026-11-24T21:21:01+01:00",
-      "last_published_at": "2026-11-25T05:47:49+01:00",
-      "lead": {
-        "id": "2a04dac68bee",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/varlden/ingmar-neveus-huang-skandalen-sager-allt-om-trumps-varldsbild",
-        "guid": "https://www.dn.se/varlden/ingmar-neveus-huang-skandalen-sager-allt-om-trumps-varldsbild/",
-        "published_at": "2026-11-24T21:21:01+01:00",
-        "fetched_at": "2026-11-24T21:30:58+01:00",
-        "category": "world",
-        "image_url": "https://static.bonniernews.se/ba/db410789-ca4d-42de-9b81-9a55579d9f97.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Ingmar Nevéus: Huang-skandalen säger allt om Trumps världsbild",
-          "summary": "NEW YORK. Donald Trumps agerande kring Nvidia sänder signalen att rika och mäktiga män får göra vad de vill ostraffat. När presidenten personligen ingrep för att återinsätta Jensen Huang som vd lade han sin egen framtid, och kanske USA:s, i en enda mans händer. Det är en mycket riskabel strategi.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Ingmar Nevéus: The Huang scandal says it all about Trump's worldview",
-          "summary": "NEW YORK. Donald Trump's conduct regarding Nvidia signals that rich and powerful men can do as they please without punishment. When the president personally intervened to reinstate Jensen Huang as CEO, he placed his own future, and perhaps that of the USA, in one man's hands. It is a very risky strategy."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T21:31:06+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "ee2156b4d4f4",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80286",
-          "published_at": "2026-11-25T05:47:49+01:00",
-          "sv": {
-            "title": "Trump: Kan benåda Jensen Huang"
-          },
-          "en": {
-            "title": "Trump: Can pardon Jensen Huang"
-          }
-        },
-        {
-          "id": "7144ef931cfd",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/trump-alltid-mojligt-att-benada-huang",
-          "published_at": "2026-11-25T05:12:30+01:00",
-          "sv": {
-            "title": "Trump: Alltid möjligt att benåda Huang"
-          },
-          "en": {
-            "title": "Trump: Pardoning Huang always possible"
-          }
-        },
-        {
-          "id": "5fe612f29c7e",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/utrikes/trump-alltid-mojligt-att-benada-huang",
-          "published_at": "2026-11-25T03:57:44+01:00",
-          "sv": {
-            "title": "Trump: Alltid möjligt att benåda Huang"
-          },
-          "en": {
-            "title": "Trump: Pardoning Huang always possible"
-          }
-        },
-        {
-          "id": "2a04dac68bee",
-          "source": "dn",
-          "url": "https://www.dn.se/varlden/ingmar-neveus-huang-skandalen-sager-allt-om-trumps-varldsbild",
-          "published_at": "2026-11-24T21:21:01+01:00",
-          "sv": {
-            "title": "Ingmar Nevéus: Huang-skandalen säger allt om Trumps världsbild"
-          },
-          "en": {
-            "title": "Ingmar Nevéus: The Huang scandal says it all about Trump's worldview"
           }
         }
       ]
@@ -1278,82 +1291,6 @@
           },
           "en": {
             "title": "Magyar’s Ukraine visit a ”new chapter” in relations"
-          }
-        }
-      ]
-    },
-    {
-      "id": "63d26c95a770",
-      "source_count": 3,
-      "sources": [
-        "aftonbladet",
-        "svd",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T18:41:03+01:00",
-      "last_published_at": "2026-11-24T18:41:10+01:00",
-      "lead": {
-        "id": "63d26c95a770",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/4Eqpqg/112-larm-fran-sigtuna-kan-handa-i-natt-igen",
-        "guid": "https://www.aftonbladet.se/nyheter/a/4Eqpqg/112-larm-fran-sigtuna-kan-handa-i-natt-igen?utm_medium=rss",
-        "published_at": "2026-11-24T18:41:03+01:00",
-        "fetched_at": "2026-11-24T18:45:06+01:00",
-        "category": "crime",
-        "image_url": "https://akamai.vgc.no/v2/images/1b117501-f08e-3fbb-9e3a-88896d195a52?format=auto&s=6547c79924e6bdd092f9a00e4e833d47cf00027c&w=1000",
-        "sv": {
-          "title": "112-larm från Sigtuna: ”Kan hända i natt igen”",
-          "summary": "Alla varningsklockor ringde på Sigtunaskolan när en elev berättade för kuratorn om timmar av…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "112 call from Sigtuna: \"It could happen again tonight\"",
-          "summary": "All alarm bells rang at Sigtunaskolan when a pupil told the counsellor about hours of..."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T18:45:12+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "3974607b3919",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/112-larm-fran-sigtuna-kan-handa-i-natt-igen",
-          "published_at": "2026-11-24T18:41:10+01:00",
-          "sv": {
-            "title": "112-larm från Sigtuna: ”Kan hända i natt igen”"
-          },
-          "en": {
-            "title": "112 call from Sigtuna: \"It could happen again tonight\""
-          }
-        },
-        {
-          "id": "473391751c12",
-          "source": "svd",
-          "url": "https://www.svd.se/a/GPGWGm/112-larm-fran-sigtuna-kan-handa-i-natt-igen",
-          "published_at": "2026-11-24T18:41:04+01:00",
-          "sv": {
-            "title": "112-larm från Sigtuna: ”Kan hända i natt igen”"
-          },
-          "en": {
-            "title": "112 call from Sigtuna: \"It could happen again tonight\""
-          }
-        },
-        {
-          "id": "63d26c95a770",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/4Eqpqg/112-larm-fran-sigtuna-kan-handa-i-natt-igen",
-          "published_at": "2026-11-24T18:41:03+01:00",
-          "sv": {
-            "title": "112-larm från Sigtuna: ”Kan hända i natt igen”"
-          },
-          "en": {
-            "title": "112 call from Sigtuna: \"It could happen again tonight\""
           }
         }
       ]
