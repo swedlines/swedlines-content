@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T18:45:52+01:00",
+  "generated_at": "2026-11-25T19:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "577b0e6c5ffa",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/baverblockad-i-osteraker-gar-inte-att-passera",
+      "guid": "https://www.expressen.se/nyheter/sverige/baverblockad-i-osteraker-gar-inte-att-passera/",
+      "published_at": "2026-11-25T18:57:21+01:00",
+      "fetched_at": "2026-11-25T19:01:18+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Bäverblockad i Österåker: ”Går inte att passera”",
+        "summary": "Väg 1 012 i Österåker är avstängd. Anledningen är att en bäver byggt sitt bo under vägen – och orsakat översvämning. – Det går inte att passera, säger Katarina Wolffram, presstalesperson på Trafikverket till Mitti.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Beaver blockade in Österåker: \"Impossible to pass\"",
+        "summary": "Road 1 012 in Österåker is closed. The reason is that a beaver built its lodge under the road and caused flooding. \"It is impossible to pass,\" says Katarina Wolffram, press spokesperson at the Transport Administration, to Mitti."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T19:01:24+01:00"
+      }
+    },
     {
       "id": "a52497f6d7cd",
       "schema_version": 1,
@@ -5437,33 +5463,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T06:31:08+01:00"
-      }
-    },
-    {
-      "id": "eff94eee9c7d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/malmoborna-har-sagt-sitt-badkladerna-ska-vara-av",
-      "guid": "497fa94e-d14c-40f6-befc-64405b8df72d",
-      "published_at": "2026-11-21T06:00:00+01:00",
-      "fetched_at": "2026-11-21T06:01:12+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/d3422d55-a794-413b-a586-03d98f21e990.jpeg?width=600",
-      "sv": {
-        "title": "Malmöborna har sagt sitt: Badkläderna ska vara av",
-        "summary": "Nästan 3 000 Malmöbor har tyckt till om det ska vara tillåtet med badkläder under de ”mixade dagarna” på Ribersborgs och Sibbarps kallbadhus. Beskedet: En klar majoritet är emot – åtminstone på Kallis. – Jag förstår det.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Malmö residents have spoken: swimwear must go",
-        "summary": "Nearly 3,000 Malmö residents have weighed in on whether swimwear should be allowed during the “mixed days” at the Ribersborg and Sibbarp cold-water baths. The verdict: a clear majority is against, at least at Kallis. “I understand that.”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T06:01:22+01:00"
       }
     }
   ]
