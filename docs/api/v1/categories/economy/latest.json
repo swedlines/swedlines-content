@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T02:45:55+01:00",
+  "generated_at": "2026-11-25T03:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "60535d6b73ae",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9336397",
+      "guid": "rss:sr.se/article/9336397",
+      "published_at": "2026-11-25T03:00:00+01:00",
+      "fetched_at": "2026-11-25T03:01:11+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "AI-botar intervjuar jobbsökande: ”Inte helt rättvist”",
+        "summary": "Allt fler arbetsgivare låter AI hålla jobbintervjuer, men utvecklingen väcker frågor om rättvisa i rekryteringen. Enligt Andreas Wallo, professor vid Linköpings universitet, kan det bli oklart vad som egentligen bedöms när både kandidater och arbetsgivare använder AI, samtidigt som branschen…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "AI bots interview job seekers: \"Not entirely fair\"",
+        "summary": "More and more employers are letting AI conduct job interviews, but the development raises questions about fairness in recruitment. According to Andreas Wallo, professor at Linköping University, it may become unclear what is actually being assessed when both candidates and employers use AI, while the industry…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T03:01:19+01:00"
+      }
+    },
     {
       "id": "dcfdb84a77d7",
       "schema_version": 1,
@@ -5218,32 +5244,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T07:01:16+01:00"
-      }
-    },
-    {
-      "id": "e907d5f72cc1",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348722",
-      "guid": "rss:sr.se/article/9348722",
-      "published_at": "2026-11-24T07:00:00+01:00",
-      "fetched_at": "2026-11-24T07:15:41+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Flera utredningar mot Jensen Huang på gång – Trump-koppling kan granskas",
-        "summary": "USAs kongress förbereder flera utredningar mot techföretaget Nvidias grundare Jensen Huang, efter att han tagits tillbaka som VD för bolaget trots sin affär med en misstänkt kinesisk spion. Kongressen väntas också granska president Trumps ekonomiska kopplingar till Nvidia.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Several investigations into Jensen Huang in the works – Trump connection could be examined",
-        "summary": "The US Congress is preparing several investigations into Nvidia founder Jensen Huang, after he was reinstated as CEO of the company despite his deal with a suspected Chinese spy. Congress is also expected to examine President Trump's financial ties to Nvidia."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T07:15:57+01:00"
       }
     }
   ]
