@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T09:46:01+01:00",
+  "generated_at": "2026-11-25T09:50:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d8fff86e5501",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/kungligt/darfor-var-chris-och-madeleine-inte-pa-plats",
+      "guid": "https://www.expressen.se/nyheter/kungligt/darfor-var-chris-och-madeleine-inte-pa-plats/",
+      "published_at": "2026-11-25T09:47:33+01:00",
+      "fetched_at": "2026-11-25T09:50:22+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Därför var Chris och Madeleine inte på plats",
+        "summary": "Kungafamiljen bjöd in till fest på Slottet på tisdagskvällen. Med Madeleine och Chris saknades när Sverigemiddagen gick av stapeln. ”I dessa tider är många förkylda”, skriver hovets informationschef Margareta Thorgren i ett sms till Expressen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is why Chris and Madeleine were not present",
+        "summary": "The royal family invited guests to a party at the Palace on Tuesday evening. Madeleine and Chris were absent when the Swedish Dinner took place. \"In these times many people have colds,\" writes the court's information chief Margareta Thorgren in a text message to Expressen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:50:28+01:00"
+      }
+    },
     {
       "id": "60ffe1044508",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "1c6e317c054b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trumps-iranlofte-om-vi-har-en-inkompetent-president",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumps-iranlofte-om-vi-har-en-inkompetent-president/",
-      "published_at": "2026-11-21T17:57:58+01:00",
-      "fetched_at": "2026-11-21T18:01:13+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trumps Iranlöfte: ”Om vi har en inkompetent president”",
-        "summary": "Donald Trump vill få till ett ”permanent” avtal med Iran. Det säger han till Fox News. – Ifall vi har en inkompetent president om 4 år eller 15 år eller 20 år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump's Iran pledge: \"If we have an incompetent president\"",
-        "summary": "Donald Trump wants to reach a \"permanent\" agreement with Iran. He says so to Fox News. – If we have an incompetent president in 4 years or 15 years or 20 years."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T18:01:17+01:00"
       }
     }
   ]
