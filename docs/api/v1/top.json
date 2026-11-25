@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T04:01:18+01:00",
-  "count": 27,
+  "generated_at": "2026-11-25T04:15:51+01:00",
+  "count": 28,
   "stories": [
     {
       "id": "bc9e35a4d1b8",
@@ -1437,6 +1437,69 @@
           },
           "en": {
             "title": "Sources: US preparing higher tariffs"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2a04dac68bee",
+      "source_count": 2,
+      "sources": [
+        "dn",
+        "svt"
+      ],
+      "first_published_at": "2026-11-24T21:21:01+01:00",
+      "last_published_at": "2026-11-25T03:57:44+01:00",
+      "lead": {
+        "id": "2a04dac68bee",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/varlden/ingmar-neveus-huang-skandalen-sager-allt-om-trumps-varldsbild",
+        "guid": "https://www.dn.se/varlden/ingmar-neveus-huang-skandalen-sager-allt-om-trumps-varldsbild/",
+        "published_at": "2026-11-24T21:21:01+01:00",
+        "fetched_at": "2026-11-24T21:30:58+01:00",
+        "category": "world",
+        "image_url": "https://static.bonniernews.se/ba/db410789-ca4d-42de-9b81-9a55579d9f97.jpeg?io=1&width=1000",
+        "sv": {
+          "title": "Ingmar Nevéus: Huang-skandalen säger allt om Trumps världsbild",
+          "summary": "NEW YORK. Donald Trumps agerande kring Nvidia sänder signalen att rika och mäktiga män får göra vad de vill ostraffat. När presidenten personligen ingrep för att återinsätta Jensen Huang som vd lade han sin egen framtid, och kanske USA:s, i en enda mans händer. Det är en mycket riskabel strategi.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Ingmar Nevéus: The Huang scandal says it all about Trump's worldview",
+          "summary": "NEW YORK. Donald Trump's conduct regarding Nvidia signals that rich and powerful men can do as they please without punishment. When the president personally intervened to reinstate Jensen Huang as CEO, he placed his own future, and perhaps that of the USA, in one man's hands. It is a very risky strategy."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T21:31:06+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "5fe612f29c7e",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/utrikes/trump-alltid-mojligt-att-benada-huang",
+          "published_at": "2026-11-25T03:57:44+01:00",
+          "sv": {
+            "title": "Trump: Alltid möjligt att benåda Huang"
+          },
+          "en": {
+            "title": "Trump: Pardoning Huang always possible"
+          }
+        },
+        {
+          "id": "2a04dac68bee",
+          "source": "dn",
+          "url": "https://www.dn.se/varlden/ingmar-neveus-huang-skandalen-sager-allt-om-trumps-varldsbild",
+          "published_at": "2026-11-24T21:21:01+01:00",
+          "sv": {
+            "title": "Ingmar Nevéus: Huang-skandalen säger allt om Trumps världsbild"
+          },
+          "en": {
+            "title": "Ingmar Nevéus: The Huang scandal says it all about Trump's worldview"
           }
         }
       ]

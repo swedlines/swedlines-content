@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T04:01:18+01:00",
+  "generated_at": "2026-11-25T04:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d533c9df740e",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349048",
+      "guid": "rss:sr.se/article/9349048",
+      "published_at": "2026-11-25T04:00:00+01:00",
+      "fetched_at": "2026-11-25T04:15:41+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Centern tappar i ny mätning: ”Inte förvånande”",
+        "summary": "Stödet för Centern minskar i en ny mätning. Partiet får 4,8 procent, alltså strax över spärren till riksdagen. Socialdemokraterna får sin sämsta siffra sedan 2023. De långdragna regeringsförhandlingarna är förklaringen, enligt Per Oleskog Tryggvason på Indikator Opinion som gjort undersökningen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Centre Party drops in new poll: \"Not surprising\"",
+        "summary": "Support for the Centre Party is falling in a new poll. The party gets 4.8 percent, just above the threshold for entering the Riksdag. The Social Democrats get their worst figure since 2023. The protracted government negotiations are the explanation, according to Per Oleskog Tryggvason at Indikator Opinion, who conducted the survey."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T04:15:49+01:00"
+      }
+    },
     {
       "id": "60535d6b73ae",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T12:31:18+01:00"
-      }
-    },
-    {
-      "id": "884783c4111a",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346105",
-      "guid": "rss:sr.se/article/9346105",
-      "published_at": "2026-11-19T11:51:00+01:00",
-      "fetched_at": "2026-11-19T12:01:12+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Historiska mötet avslutat: ”Banbrytande betydelse”",
-        "summary": "Det historiska mötet mellan Xi Jinping, Donald Trump och Vladimir Putin har nu avslutats. Kinas president betonade att mötet var historiskt och av ”banbrytande betydelse”, rapporterar BBC.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Historic meeting ends: “Pioneering significance”",
-        "summary": "The historic meeting between Xi Jinping, Donald Trump and Vladimir Putin has now ended. The Chinese president stressed that the meeting was historic and of “pioneering significance”, reports BBC."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T12:01:23+01:00"
       }
     }
   ]

@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-25T04:01:18+01:00",
+  "generated_at": "2026-11-25T04:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "77e3e0d885fe",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/1vnllJ/tva-uppges-doda-efter-helgens-libyen-attack",
+      "guid": "https://www.aftonbladet.se/nyheter/a/1vnllJ/tva-uppges-doda-efter-helgens-libyen-attack?utm_medium=rss",
+      "published_at": "2026-11-25T04:05:32+01:00",
+      "fetched_at": "2026-11-25T04:15:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/67f75d42-10a8-3b10-b14f-68c8a756fe17?format=auto&s=140dc181ac52961c710138d4f6ebf22d76cbb77c&w=1000",
+      "sv": {
+        "title": "Två uppges döda efter helgens Libyen-attack",
+        "summary": "I helgen sänkte Ukraina ett ryskt örlogsfartyg i en hamn i Libyen. Nu uppger det regionala styret…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two reportedly dead after weekend Libya attack",
+        "summary": "Over the weekend, Ukraine sank a Russian warship in a port in Libya. Now the regional authority reports that"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T04:15:49+01:00"
+      }
+    },
+    {
+      "id": "5fe612f29c7e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/trump-alltid-mojligt-att-benada-huang",
+      "guid": "https://www.svt.se/nyheter/utrikes/trump-alltid-mojligt-att-benada-huang",
+      "published_at": "2026-11-25T03:57:44+01:00",
+      "fetched_at": "2026-11-25T04:15:40+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump: Alltid möjligt att benåda Huang",
+        "summary": "USA:s president Donald Trump öppnar för att benåda Nvidias vd Jensen Huang för eventuella brott. – Det är alltid en möjlighet antar jag, men jag tror inte att det kommer att bli nödvändigt, säger presidenten till New York Post.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump: Pardoning Huang always possible",
+        "summary": "US President Donald Trump is open to pardoning Nvidia CEO Jensen Huang for possible crimes. \"It's always a possibility, I suppose, but I don't think it will be necessary,\" the president tells the New York Post."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T04:15:49+01:00"
+      }
+    },
     {
       "id": "eb878296b4bb",
       "schema_version": 1,
@@ -5323,59 +5376,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T23:15:47+01:00"
-      }
-    },
-    {
-      "id": "d22a20152df3",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/ukraina-ryssland-saknar-kapacitet-att-laga-krimbron",
-      "guid": "https://www.dn.se/varlden/ukraina-ryssland-saknar-kapacitet-att-laga-krimbron/",
-      "published_at": "2026-11-22T22:38:38+01:00",
-      "fetched_at": "2026-11-22T22:45:42+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/f341732b-4427-40d7-84c2-cc75ddb2b3d1.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Ukraina: Ryssland saknar kapacitet att laga Krimbron",
-        "summary": "Krimbron kan enligt experter ta två år att reparera, men Ukraina hävdar att Ryssland numera saknar kapacitet att reparera den. Ryssland uppger att landet utreder olika alternativ och säger att tågtrafiken nu har återställts till fullo efter veckans attacker.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ukraine: Russia lacks capacity to repair the Crimean Bridge",
-        "summary": "According to experts, the Crimean Bridge could take two years to repair, but Ukraine claims Russia now lacks the capacity to repair it. Russia says it is investigating various options and that rail traffic has now been fully restored after this week's attacks."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T22:45:52+01:00"
-      }
-    },
-    {
-      "id": "9ea097fcf1fc",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/stewart-rhodes-ledde-stormning-fordomer-nu-trump",
-      "guid": "https://www.expressen.se/nyheter/varlden/stewart-rhodes-ledde-stormning-fordomer-nu-trump/",
-      "published_at": "2026-11-22T21:57:23+01:00",
-      "fetched_at": "2026-11-22T22:01:09+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Stewart Rhodes ledde stormning – fördömer nu Trump",
-        "summary": "Han grundade högerextrema milisgruppen ”Oath Keepers”, ledde stormningen av Kapitolium 2021 och tatuerade ett porträtt av Donald Trump under sitt fängelsestraff. Nu dömer Stewart Rhodes, 60, ut presidenten som en korrumperad förrädare.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Stewart Rhodes led storming – now condemns Trump",
-        "summary": "He founded the far-right militia group \"Oath Keepers\", led the storming of the Capitol in 2021 and had a portrait of Donald Trump tattooed during his prison sentence. Now Stewart Rhodes, 60, denounces the president as a corrupt traitor."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T22:01:15+01:00"
       }
     }
   ]
