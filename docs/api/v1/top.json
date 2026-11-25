@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T10:31:08+01:00",
-  "count": 25,
+  "generated_at": "2026-11-25T10:45:53+01:00",
+  "count": 26,
   "stories": [
     {
       "id": "adfcf6526c82",
@@ -888,6 +888,81 @@
       ]
     },
     {
+      "id": "99deffafb00b",
+      "source_count": 3,
+      "sources": [
+        "expressen",
+        "sydsvenskan",
+        "di"
+      ],
+      "first_published_at": "2026-11-25T08:21:53+01:00",
+      "last_published_at": "2026-11-25T10:44:13+01:00",
+      "lead": {
+        "id": "99deffafb00b",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/ekonomi/tech/tidal-forbjuder-ai-genererad-musik",
+        "guid": "https://www.expressen.se/ekonomi/tech/tidal-forbjuder-ai-genererad-musik/",
+        "published_at": "2026-11-25T08:21:53+01:00",
+        "fetched_at": "2026-11-25T08:30:59+01:00",
+        "category": "culture",
+        "sv": {
+          "title": "Tidal förbjuder AI-genererad musik",
+          "summary": "Från den 9 december kommer all helt AI-genererad musik att plockas bort från streamingtjänsten Tidal, som därmed blir först bland streamingtjänsterna att införa ett förbud mot AI-musik.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Tidal bans AI-generated music",
+          "summary": "From 9 December, all fully AI-generated music will be removed from the streaming service Tidal, which thereby becomes the first among streaming services to introduce a ban on AI music."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T08:31:03+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "874326f96797",
+          "source": "di",
+          "url": "https://www.di.se/live/spotify-konkurrent-forbjuder-ai-musik",
+          "published_at": "2026-11-25T10:44:13+01:00",
+          "sv": {
+            "title": "Spotify-konkurrent förbjuder AI-musik"
+          },
+          "en": {
+            "title": "Spotify rival bans AI music"
+          }
+        },
+        {
+          "id": "55cb76c4e5c8",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/noje/musiktjansten-forbjuder-ai-musik",
+          "published_at": "2026-11-25T10:28:39+01:00",
+          "sv": {
+            "title": "Musiktjänsten förbjuder AI-musik"
+          },
+          "en": {
+            "title": "Music streaming service bans AI music"
+          }
+        },
+        {
+          "id": "99deffafb00b",
+          "source": "expressen",
+          "url": "https://www.expressen.se/ekonomi/tech/tidal-forbjuder-ai-genererad-musik",
+          "published_at": "2026-11-25T08:21:53+01:00",
+          "sv": {
+            "title": "Tidal förbjuder AI-genererad musik"
+          },
+          "en": {
+            "title": "Tidal bans AI-generated music"
+          }
+        }
+      ]
+    },
+    {
       "id": "d1309c1cf2cf",
       "source_count": 3,
       "sources": [
@@ -1278,63 +1353,64 @@
       ]
     },
     {
-      "id": "99deffafb00b",
+      "id": "232f9f90a01c",
       "source_count": 2,
       "sources": [
-        "expressen",
+        "aftonbladet",
         "sydsvenskan"
       ],
-      "first_published_at": "2026-11-25T08:21:53+01:00",
-      "last_published_at": "2026-11-25T10:28:39+01:00",
+      "first_published_at": "2026-11-25T10:11:26+01:00",
+      "last_published_at": "2026-11-25T10:37:28+01:00",
       "lead": {
-        "id": "99deffafb00b",
+        "id": "232f9f90a01c",
         "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/ekonomi/tech/tidal-forbjuder-ai-genererad-musik",
-        "guid": "https://www.expressen.se/ekonomi/tech/tidal-forbjuder-ai-genererad-musik/",
-        "published_at": "2026-11-25T08:21:53+01:00",
-        "fetched_at": "2026-11-25T08:30:59+01:00",
-        "category": "culture",
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/vkQqJp/bra-farre-doms-for-upprepade-brott",
+        "guid": "https://www.aftonbladet.se/nyheter/a/vkQqJp/bra-farre-doms-for-upprepade-brott?utm_medium=rss",
+        "published_at": "2026-11-25T10:11:26+01:00",
+        "fetched_at": "2026-11-25T10:15:40+01:00",
+        "category": "crime",
+        "image_url": "https://akamai.vgc.no/v2/images/2874134f-10c4-3005-b8bc-1319a7adc9d4?format=auto&s=d325ae62c85631f6f0c5d8d8f6025b0a6c2f3851&w=1000",
         "sv": {
-          "title": "Tidal förbjuder AI-genererad musik",
-          "summary": "Från den 9 december kommer all helt AI-genererad musik att plockas bort från streamingtjänsten Tidal, som därmed blir först bland streamingtjänsterna att införa ett förbud mot AI-musik.",
+          "title": "Brå: Färre döms för upprepade brott",
+          "summary": "Gruppen som upprepade gånger döms för brott har blivit mindre sedan 2012, enligt Brottsförebyggande…",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Tidal bans AI-generated music",
-          "summary": "From 9 December, all fully AI-generated music will be removed from the streaming service Tidal, which thereby becomes the first among streaming services to introduce a ban on AI music."
+          "title": "Brå: Fewer people convicted of repeat offences",
+          "summary": "The group repeatedly convicted of crimes has shrunk since 2012, according to the Swedish National Council for Crime Prevention…"
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T08:31:03+01:00"
+          "translated_at": "2026-11-25T10:15:50+01:00"
         }
       },
       "items": [
         {
-          "id": "55cb76c4e5c8",
+          "id": "a7d2d34d9a6a",
           "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/noje/musiktjansten-forbjuder-ai-musik",
-          "published_at": "2026-11-25T10:28:39+01:00",
+          "url": "https://www.sydsvenskan.se/sverige/bra-farre-doms-for-upprepade-brott",
+          "published_at": "2026-11-25T10:37:28+01:00",
           "sv": {
-            "title": "Musiktjänsten förbjuder AI-musik"
+            "title": "Brå: Färre döms för upprepade brott"
           },
           "en": {
-            "title": "Music streaming service bans AI music"
+            "title": "Brå: Fewer convicted of repeat offences"
           }
         },
         {
-          "id": "99deffafb00b",
-          "source": "expressen",
-          "url": "https://www.expressen.se/ekonomi/tech/tidal-forbjuder-ai-genererad-musik",
-          "published_at": "2026-11-25T08:21:53+01:00",
+          "id": "232f9f90a01c",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/vkQqJp/bra-farre-doms-for-upprepade-brott",
+          "published_at": "2026-11-25T10:11:26+01:00",
           "sv": {
-            "title": "Tidal förbjuder AI-genererad musik"
+            "title": "Brå: Färre döms för upprepade brott"
           },
           "en": {
-            "title": "Tidal bans AI-generated music"
+            "title": "Brå: Fewer people convicted of repeat offences"
           }
         }
       ]
