@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:31:06+01:00",
+  "generated_at": "2026-11-25T08:45:53+01:00",
   "count": 22,
   "stories": [
     {
@@ -1224,6 +1224,69 @@
       ]
     },
     {
+      "id": "4ee2b20ad9b8",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-25T08:34:02+01:00",
+      "last_published_at": "2026-11-25T08:34:02+01:00",
+      "lead": {
+        "id": "4ee2b20ad9b8",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/kMJ5Qv/andersson-borde-varnat-om-vansterpartiet",
+        "guid": "https://www.aftonbladet.se/nyheter/a/kMJ5Qv/andersson-borde-varnat-om-vansterpartiet?utm_medium=rss",
+        "published_at": "2026-11-25T08:34:02+01:00",
+        "fetched_at": "2026-11-25T08:45:44+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/bd85054d-f00e-33f3-a1f6-df8721189ec5?format=auto&s=159a124995282192b344c5efe31d043529b94024&w=1000",
+        "sv": {
+          "title": "Andersson: Borde varnat om Vänsterpartiet",
+          "summary": "S-ledaren Magdalena Andersson övervägde att varna väljarna för att rösta på Vänsterpartiet i…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Andersson: Should have warned about the Left Party",
+          "summary": "S leader Magdalena Andersson considered warning voters against voting for the Left Party in…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T08:45:49+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "d91cb4234569",
+          "source": "svd",
+          "url": "https://www.svd.se/a/dJOVkJ/andersson-borde-varnat-om-vansterpartiet",
+          "published_at": "2026-11-25T08:34:02+01:00",
+          "sv": {
+            "title": "Andersson: Borde varnat om Vänsterpartiet"
+          },
+          "en": {
+            "title": "Andersson: Should have warned about the Left Party"
+          }
+        },
+        {
+          "id": "4ee2b20ad9b8",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/kMJ5Qv/andersson-borde-varnat-om-vansterpartiet",
+          "published_at": "2026-11-25T08:34:02+01:00",
+          "sv": {
+            "title": "Andersson: Borde varnat om Vänsterpartiet"
+          },
+          "en": {
+            "title": "Andersson: Should have warned about the Left Party"
+          }
+        }
+      ]
+    },
+    {
       "id": "472980abcd74",
       "source_count": 2,
       "sources": [
@@ -1795,69 +1858,6 @@
           },
           "en": {
             "title": "Dead in accident – worked near lift"
-          }
-        }
-      ]
-    },
-    {
-      "id": "641209c61d09",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T17:00:12+01:00",
-      "last_published_at": "2026-11-24T20:34:00+01:00",
-      "lead": {
-        "id": "641209c61d09",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/3BJap0/potentiell-smitta-pa-folktandvarden-i-vaxjo-efter-bristfalligt-rengjorda-instrument-patienter-erbjuds-hivtest",
-        "guid": "https://www.svd.se/a/3BJap0/potentiell-smitta-pa-folktandvarden-i-vaxjo-efter-bristfalligt-rengjorda-instrument-patienter-erbjuds-hivtest?utm_medium=rss",
-        "published_at": "2026-11-24T17:00:12+01:00",
-        "fetched_at": "2026-11-24T17:15:49+01:00",
-        "category": "sweden",
-        "image_url": "https://akamai.vgc.no/v2/images/27e6e383-aa92-382a-b09d-3cf6f6b6206f?format=auto&s=81ee5c805cdb08e75641c3d80502578e51c238c9&w=1000",
-        "sv": {
-          "title": "Potentiell smitta spreds trots larm från personal",
-          "summary": "Trots att en anställd larmade om brister i maskinrengöringen kunde potentiellt smittförande…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Potential infection spread despite alarm from staff",
-          "summary": "Although an employee raised the alarm about shortcomings in machine cleaning, potentially infectious […]"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T17:15:59+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "53da231acb8d",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/smittrisk-vid-tandvardsbesok-erbjuds-hivtest",
-          "published_at": "2026-11-24T20:34:00+01:00",
-          "sv": {
-            "title": "Smittrisk vid tandvårdsbesök – erbjuds hivtest"
-          },
-          "en": {
-            "title": "Infection risk at dental visit – offered HIV test"
-          }
-        },
-        {
-          "id": "641209c61d09",
-          "source": "svd",
-          "url": "https://www.svd.se/a/3BJap0/potentiell-smitta-pa-folktandvarden-i-vaxjo-efter-bristfalligt-rengjorda-instrument-patienter-erbjuds-hivtest",
-          "published_at": "2026-11-24T17:00:12+01:00",
-          "sv": {
-            "title": "Potentiell smitta spreds trots larm från personal"
-          },
-          "en": {
-            "title": "Potential infection spread despite alarm from staff"
           }
         }
       ]

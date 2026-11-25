@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T08:31:06+01:00",
+  "generated_at": "2026-11-25T08:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5a9acce0d487",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/mi5-varnar-for-ryssland-kan-vara-en-maltavla",
+      "guid": "https://www.expressen.se/nyheter/varlden/mi5-varnar-for-ryssland-kan-vara-en-maltavla/",
+      "published_at": "2026-11-25T08:38:48+01:00",
+      "fetched_at": "2026-11-25T08:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "MI5 varnar för Ryssland: ”Kan vara en måltavla”",
+        "summary": "Den brittiska säkerhetstjänsten MI5 har skickat en varning till brittiska företag. ”Ni kan vara en måltavla”, skriver den underrättelsetjänsten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "MI5 warns of Russia: “You may be a target”",
+        "summary": "The British security service MI5 has sent a warning to British companies. “You may be a target,” the intelligence service writes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T08:45:49+01:00"
+      }
+    },
     {
       "id": "d32276d69f5f",
       "schema_version": 1,
@@ -5349,32 +5375,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T06:56:44+01:00"
-      }
-    },
-    {
-      "id": "01e469789fba",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347985",
-      "guid": "rss:sr.se/article/9347985",
-      "published_at": "2026-11-23T05:07:00+01:00",
-      "fetched_at": "2026-11-23T06:55:59+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ryskt krigsfartyg sänkt av havsdrönare i Libyen",
-        "summary": "FN kräver en utredning och fördömer drönarattackerna utanför Benghazi i östra Libyen under söndagskvällen, rapporterar AFP. En av attackerna orsakade en explosion på ett ryskt krigsfartyg och tio personer skadades lindrigt, enligt lokala myndigheter.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Russian warship sunk by sea drone in Libya",
-        "summary": "The UN demands an investigation and condemns the drone attacks outside Benghazi in eastern Libya on Sunday evening, reports AFP. One of the attacks caused an explosion on a Russian warship and ten people were lightly injured, according to local authorities."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:48+01:00"
       }
     }
   ]

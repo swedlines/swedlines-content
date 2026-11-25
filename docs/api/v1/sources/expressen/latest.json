@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T08:31:06+01:00",
+  "generated_at": "2026-11-25T08:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5a9acce0d487",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/mi5-varnar-for-ryssland-kan-vara-en-maltavla",
+      "guid": "https://www.expressen.se/nyheter/varlden/mi5-varnar-for-ryssland-kan-vara-en-maltavla/",
+      "published_at": "2026-11-25T08:38:48+01:00",
+      "fetched_at": "2026-11-25T08:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "MI5 varnar för Ryssland: ”Kan vara en måltavla”",
+        "summary": "Den brittiska säkerhetstjänsten MI5 har skickat en varning till brittiska företag. ”Ni kan vara en måltavla”, skriver den underrättelsetjänsten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "MI5 warns of Russia: “You may be a target”",
+        "summary": "The British security service MI5 has sent a warning to British companies. “You may be a target,” the intelligence service writes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T08:45:49+01:00"
+      }
+    },
     {
       "id": "99deffafb00b",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T17:31:09+01:00"
-      }
-    },
-    {
-      "id": "3278bf813be2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/christoffer-ar-cyklande-skraddare-under-black-week",
-      "guid": "https://www.expressen.se/nyheter/sverige/christoffer-ar-cyklande-skraddare-under-black-week/",
-      "published_at": "2026-11-21T16:30:05+01:00",
-      "fetched_at": "2026-11-21T16:45:43+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Christoffer är cyklande skräddare under black week",
-        "summary": "Mitt under Black Weeks köphets ska Göteborgs skräddare vara en motvikt. Med symaskiner på cyklarna åker de hem till folk och lagar kläder gratis. – Vi har så otroligt mycket kläder i vårt land, säger cykelskräddaren Christoffer Gissy.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Christoffer is a cycling tailor during Black Week",
-        "summary": "In the middle of Black Week's shopping frenzy, Göteborg's tailors are meant to be a counterweight. With sewing machines on their bicycles, they travel to people's homes and mend clothes for free. – We have so incredibly much clothing in our country, says bicycle tailor Christoffer Gissy."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T16:45:50+01:00"
       }
     }
   ]

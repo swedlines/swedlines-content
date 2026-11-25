@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-25T08:31:06+01:00",
+  "generated_at": "2026-11-25T08:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c756faf7b496",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/vkQqnV/huang-jag-gar-i-terapi-varje-dag",
+      "guid": "https://www.svd.se/a/vkQqnV/huang-jag-gar-i-terapi-varje-dag?utm_medium=rss",
+      "published_at": "2026-11-25T08:42:23+01:00",
+      "fetched_at": "2026-11-25T08:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/7386dd19-2d47-3383-b215-74955635577c?format=auto&s=a8bc2487f1b596d07957fb693fb7ecb819500037&w=1000",
+      "sv": {
+        "title": "Huang: Jag går i terapi varje dag",
+        "summary": "Inför sina medarbetare har nu Nvidias vd Jensen Huang återigen bett om ursäkt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Huang: I go to therapy every day",
+        "summary": "In front of his employees, Nvidia CEO Jensen Huang has once again apologised."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T08:45:49+01:00"
+      }
+    },
+    {
+      "id": "9f8c4a894092",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/morgonsammanfattning-usa-terminerna-backar-och-fall-i-asien",
+      "guid": "8598876f-2077-52e9-a2e6-49572c72d847",
+      "published_at": "2026-11-25T08:39:45+01:00",
+      "fetched_at": "2026-11-25T08:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Morgonsammanfattning: USA-terminerna backar och fall i Asien",
+        "summary": "Noel Hermansson om natten och gårdagens viktigaste marknadshändelser.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Morning summary: US futures fall and Asian markets drop",
+        "summary": "Noel Hermansson on the night and yesterday's most important market developments."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T08:45:49+01:00"
+      }
+    },
     {
       "id": "3cc9502f5dd0",
       "schema_version": 1,
@@ -5221,59 +5274,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T09:40:30+01:00"
-      }
-    },
-    {
-      "id": "c9916cce5a7b",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/nvidias-vd-tillbaka-sa-mycket-tjanade-trump",
-      "guid": "f8056035-c489-4084-b408-6acb96c95843",
-      "published_at": "2026-11-24T09:18:45+01:00",
-      "fetched_at": "2026-11-24T09:31:04+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/50cc770b-c3c9-4e5d-ac6d-8862965c82f7.jpg?width=600",
-      "sv": {
-        "title": "Nvidias vd tillbaka – så mycket tjänade Trump",
-        "summary": "Jensen Huangs återinträde som vd för Nvidia fick aktien att tokrusa under gårdagen. USA:s president ska själv ha tjänat miljoner på Huangs comeback – ett beslut Donald Trump säger att han påverkade.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nvidia's CEO is back – this is how much Trump earned",
-        "summary": "Jensen Huang's return as CEO of Nvidia sent the stock soaring yesterday. The US president is said to have earned millions on Huang's comeback – a decision Donald Trump says he influenced."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T09:31:07+01:00"
-      }
-    },
-    {
-      "id": "259b8d550304",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/nyheter/borsen-oppnar-kring-nollan-sbb-bland-vinnarna",
-      "guid": "57999122-3361-58cf-bb34-23cd7690de81",
-      "published_at": "2026-11-24T09:16:34+01:00",
-      "fetched_at": "2026-11-24T09:31:03+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Börsen öppnar kring nollan – SBB bland vinnarna",
-        "summary": "Noel Hermansson går igenom börsöppningen på tisdagsmorgonen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stock market opens around zero – SBB among the winners",
-        "summary": "Noel Hermansson walks through the market opening on Tuesday morning."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T09:31:07+01:00"
       }
     }
   ]
