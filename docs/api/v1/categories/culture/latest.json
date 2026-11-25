@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-11-25T14:15:59+01:00",
+  "generated_at": "2026-11-25T14:28:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9dc069948fb0",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kommentar/serbiens-andra-ansikte-trader-fram.ffc44ba4-fd5f-59f4-a9ec-8b9069551144",
+      "guid": "ffc44ba4-fd5f-59f4-a9ec-8b9069551144",
+      "published_at": "2026-11-25T14:08:42+01:00",
+      "fetched_at": "2026-11-25T14:28:34+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kommentar",
+        "Tagg: Serbien",
+        "Tagg: Studenter",
+        "Tagg: Filmfestivalen i Venedig",
+        "Tagg: Val",
+        "Tagg: Korruption",
+        "Tagg: Slobodan Milosevic",
+        "Tagg: Aleksandar Vucic"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/403a4451-0734-3839-892f-6535448cc964",
+      "sv": {
+        "title": "Serbiens andra ansikte träder fram",
+        "summary": "I filmerna om motståndet ser jag miljontals människors strävan efter ett värdigt liv, skriver Sanjin Pejković.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Serbia's second face emerges",
+        "summary": "In the films about the resistance I see millions of people's striving for a dignified life, writes Sanjin Pejković."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:28:40+01:00"
+      }
+    },
     {
       "id": "6405d3972534",
       "schema_version": 1,
@@ -5691,33 +5728,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T17:31:09+01:00"
-      }
-    },
-    {
-      "id": "78b14f92f996",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/ez8vvR/hilma-af-klint-sa-blev-hon-en-konstikon",
-      "guid": "https://www.svd.se/a/ez8vvR/hilma-af-klint-sa-blev-hon-en-konstikon?utm_medium=rss",
-      "published_at": "2026-11-21T17:11:17+01:00",
-      "fetched_at": "2026-11-21T17:15:43+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/40a71d21-401d-3aa3-b31b-8050ee475b2f?format=auto&s=e8c6df755a993c825ef34c1d083bf4e7418b63fc&w=1000",
-      "sv": {
-        "title": "Så blev Hilma af Klint en internationell ikon",
-        "summary": "Hennes affischer pryder svenska vardagsrum. Nu säljs målningarna för över 100 miljoner kronor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "How Hilma af Klint became an international icon",
-        "summary": "Her posters adorn Swedish living rooms. Now the paintings are being sold for over SEK 100 million."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T17:15:50+01:00"
       }
     }
   ]

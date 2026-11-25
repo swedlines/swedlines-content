@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T14:15:59+01:00",
+  "generated_at": "2026-11-25T14:28:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1820364abc9a",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/7P0aWo/bjorn-hedensjo-rika-manniskor-behover-nejsagare",
+      "guid": "https://www.svd.se/a/7P0aWo/bjorn-hedensjo-rika-manniskor-behover-nejsagare?utm_medium=rss",
+      "published_at": "2026-11-25T14:21:30+01:00",
+      "fetched_at": "2026-11-25T14:28:33+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/c1e6d458-f4d1-3d0a-87c9-827b43eb5d9d?format=auto&s=d4297aaeb8aba332b8934d534ffd6e48c080a180&w=1000",
+      "sv": {
+        "title": "De som har allt behöver nejsägare",
+        "summary": "Det är ett problem att rika och inflytelserika människor inte får samma raka återkoppling på sina…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Those who have everything need people who say no",
+        "summary": "It is a problem that rich and influential people do not receive the same direct feedback on their…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:28:40+01:00"
+      }
+    },
     {
       "id": "97c459e60b82",
       "schema_version": 1,
@@ -5504,33 +5531,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T14:31:04+01:00"
-      }
-    },
-    {
-      "id": "9959b4ab0ecd",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/vecka-46-i-bilder-se-varlden-genom-dn-fotografernas-ogon-7",
-      "guid": "https://www.dn.se/kultur/vecka-46-i-bilder-se-varlden-genom-dn-fotografernas-ogon-7/",
-      "published_at": "2026-11-15T13:48:05+01:00",
-      "fetched_at": "2026-11-15T14:01:09+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/533b06ba-5e76-46a7-bb96-fc878e4c1ef3.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Vecka 46 i bilder – se världen genom DN-fotografernas ögon",
-        "summary": "Hur ser tiden ut? Varje vecka väljer DN:s bildredaktör Pi Frisk ut fem fotografier som speglar Sverige och världen just nu. Här är bilder från vecka 46, 2026.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Week 46 in pictures – see the world through DN's photographers' eyes",
-        "summary": "What does the time look like? Every week DN's picture editor Pi Frisk selects five photographs that reflect Sweden and the world right now. Here are pictures from week 46, 2026."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:01:16+01:00"
       }
     }
   ]

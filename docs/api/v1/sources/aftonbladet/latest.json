@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T14:15:59+01:00",
+  "generated_at": "2026-11-25T14:28:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "248a3fcff93a",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/r8AQjR/anhallen-misstankt-for-grov-valdtakt-pa-aldreboende",
+      "guid": "https://www.aftonbladet.se/nyheter/a/r8AQjR/anhallen-misstankt-for-grov-valdtakt-pa-aldreboende?utm_medium=rss",
+      "published_at": "2026-11-25T14:19:19+01:00",
+      "fetched_at": "2026-11-25T14:28:33+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/9eed2499-efdd-3809-b319-a08e35a51201?format=auto&s=878e1998cc18a31c54639d7c5a0815f1f39e73a1&w=1000",
+      "sv": {
+        "title": "Anhållen misstänkt för grov våldtäkt på äldreboende",
+        "summary": "En person har anhållits misstänkt för grov våldtäkt på ett äldreboende, rapporterar Mitti.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Detained on suspicion of aggravated rape at care home",
+        "summary": "A person has been detained on suspicion of aggravated rape at a care home, Mitti reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:28:40+01:00"
+      }
+    },
     {
       "id": "c236fc7d7083",
       "schema_version": 1,
@@ -5344,33 +5371,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T20:01:17+01:00"
-      }
-    },
-    {
-      "id": "c57530a638ad",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/oMpG20/se-s-hela-lista-till-v-11-punkter",
-      "guid": "https://www.aftonbladet.se/nyheter/a/oMpG20/se-s-hela-lista-till-v-11-punkter?utm_medium=rss",
-      "published_at": "2026-11-22T18:39:57+01:00",
-      "fetched_at": "2026-11-22T18:45:47+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/562ace6b-3001-380f-b73b-e5231a284b79?format=auto&s=ea7ab31728cda1162127ab7cfdc07306ea5ee5de&w=1000",
-      "sv": {
-        "title": "Här är Vänsterpartiets ”starterpack”",
-        "summary": "Hela listan – 11 punkter",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here is the Left Party's “starter pack”",
-        "summary": "The full list – 11 points"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T18:45:53+01:00"
       }
     }
   ]

@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-25T14:15:59+01:00",
+  "generated_at": "2026-11-25T14:28:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f5f90b45fd6a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/122-kvadratmeter-stort-hus-for-6-5-miljoner",
+      "guid": "65a0c4d0-9128-40c2-a921-c6488fe9b0c7",
+      "published_at": "2026-11-25T14:21:49+01:00",
+      "fetched_at": "2026-11-25T14:28:35+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "122 kvadratmeter stort hus för 6,5 miljoner"
+      },
+      "en": {
+        "title": "122 square metre house for 6.5 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:28:40+01:00"
+      }
+    },
+    {
+      "id": "351ebc9bf8b8",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/sd-vill-sanka-skatten-pa-bensin-och-diesel",
+      "guid": "7b213656-d733-4515-b4a3-6999a3a52854",
+      "published_at": "2026-11-25T14:16:28+01:00",
+      "fetched_at": "2026-11-25T14:28:35+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/e6da5e91-fe74-46d8-8310-e357b90e1ea2.jpg?width=600",
+      "sv": {
+        "title": "SD vill sänka skatten på bensin och diesel",
+        "summary": "Sverigedemokraterna vill sänka skatten på bensin och diesel under första halvåret 2027. Däremot väntar partiet med den stora tandvårdsreform som man gick till val på.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SD wants to cut the tax on petrol and diesel",
+        "summary": "The Sweden Democrats want to cut the tax on petrol and diesel during the first half of 2027. However, the party is holding off on the major dental care reform it went to the polls on."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:28:40+01:00"
+      }
+    },
     {
       "id": "c7cc6ff51190",
       "schema_version": 1,
@@ -5126,60 +5176,6 @@
       "en": {
         "title": "12,000 evacuated from concert – suspected tear gas",
         "summary": "Thousands of visitors had to be evacuated during rapper Don Toliver's concert in Manchester. According to police, someone is suspected of having released tear gas into the crowd, BBC reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:30+01:00"
-      }
-    },
-    {
-      "id": "8e8c02604d3c",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/naringsliv/black-fridays-utmanare-foddes-i-malmo-idag-ar-det-dags",
-      "guid": "b84d014c-f018-44ad-91f0-622d93760757",
-      "published_at": "2026-11-23T06:44:53+01:00",
-      "fetched_at": "2026-11-23T06:56:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/01e9a049-2434-4931-833a-db97796a9349.jpeg?width=600",
-      "sv": {
-        "title": "Black Fridays utmanare föddes i Malmö – idag är det dags",
-        "summary": "Att laga, återbruka och dela istället för att köpa nytt. Det var grundidén när Malmöinitiativet Circular Monday startade för nästan tio år sedan som en motreaktion mot Black Friday. Idag är det åter dags för kampanjen som växer över hela världen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Black Friday's challenger was born in Malmö – today is the day",
-        "summary": "To repair, reuse and share instead of buying new. That was the basic idea when the Malmö initiative Circular Monday started almost ten years ago as a counter-reaction to Black Friday. Today the campaign is back, growing across the world."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:30+01:00"
-      }
-    },
-    {
-      "id": "614b4edc316f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/efter-skolan-tar-eleverna-over-och-300-barn-vill-vara-med-roligt-att-se-gladjen-hos-alla",
-      "guid": "2914dad7-55fc-4060-a5ce-18bd0d4bd3b0",
-      "published_at": "2026-11-23T06:42:42+01:00",
-      "fetched_at": "2026-11-23T06:56:03+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/b677fe4d-0e52-438f-88cc-be723dfc5e95.jpeg?width=600",
-      "sv": {
-        "title": "Eleverna tar över – och 300 barn vill vara med: ”Roligt att se glädjen”",
-        "summary": "Kirsebergsskolans IF drivs av eleverna själva och har blivit en succé. Trettio unga ledare ordnar varje dag aktiviteter för cirka 300 barn – och allt är gratis. – Det är jättekul, jag lär mig så mycket av att göra detta, säger 12-åriga Andrea Boric-Persson som är ledare i föreningen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The pupils take over – and 300 children want to join: “Fun to see the joy”",
-        "summary": "Kirsebergsskolans IF is run by the pupils themselves and has become a hit. Thirty young leaders organise activities every day for around 300 children – and everything is free. – It's great fun, I learn so much from doing this, says 12-year-old Andrea Boric-Persson, who is a leader in the club."
       },
       "translation": {
         "status": "done",
