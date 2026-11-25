@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T19:31:11+01:00",
+  "generated_at": "2026-11-25T19:34:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b9cf5db0e91a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/inga-toadorrar-pa-haktet-jo-kritiserar",
+      "guid": "715b1c44-1c6c-4736-aee1-eb5a78c6f6ec",
+      "published_at": "2026-11-25T19:34:08+01:00",
+      "fetched_at": "2026-11-25T19:34:45+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/b59a411d-ddce-47af-9170-378b003d5676.jpg?width=600",
+      "sv": {
+        "title": "Inga toadörrar på häktet – JO kritiserar",
+        "summary": "Intagna på det nya häktet i Kristianstad kan inte stänga om sig när de ska gå på toaletten i cellen, rapporterar P4 Kristianstad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "No toilet doors at remand centre – Parliamentary Ombudsman criticises",
+        "summary": "Inmates at the new remand centre in Kristianstad cannot close themselves in when they go to the toilet in their cell, P4 Kristianstad reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T19:34:52+01:00"
+      }
+    },
     {
       "id": "44888cf168f8",
       "schema_version": 1,
@@ -5170,33 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T10:45:57+01:00"
-      }
-    },
-    {
-      "id": "e4e74a621538",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/kraftringen-sanker-natavgiften-igen",
-      "guid": "4f4ad1fe-9d59-4be8-b51c-9295a6e6b749",
-      "published_at": "2026-11-23T10:00:00+01:00",
-      "fetched_at": "2026-11-23T10:01:19+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3ff1d2b7-57d8-4360-8bfc-88b6e4665e06.jpeg?width=600",
-      "sv": {
-        "title": "Kraftringen sänker nätavgiften igen",
-        "summary": "Lundaborna betalar en mycket hög nätavgift för sin el, även efter Kraftringens sänkning i somras. Men nu lovar bolaget ytterligare en sänkning vid årsskiftet. – Nu har vi möjlighet att komma ner på mer normala nivåer, säger Henrik Esbjörnson, vd på Kraftringen nät.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kraftringen cuts grid fee again",
-        "summary": "Lund residents pay a very high grid fee for their electricity, even after Kraftringen's cut last summer. But now the company promises a further cut at the turn of the year. – Now we have the opportunity to come down to more normal levels, says Henrik Esbjörnson, CEO of Kraftringen nät."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T10:01:30+01:00"
       }
     }
   ]
