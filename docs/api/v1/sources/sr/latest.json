@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T15:01:32+01:00",
+  "generated_at": "2026-11-25T15:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dd50b33da00a",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349984",
+      "guid": "rss:sr.se/article/9349984",
+      "published_at": "2026-11-25T15:04:00+01:00",
+      "fetched_at": "2026-11-25T15:15:45+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Indikator Opinion: Därför ökar stödet för MP och V",
+        "summary": "De utdragna regeringsförhandlingarna har kostat Socialdemokraterna och Centerpartiet väljarstöd samtidigt som Vänsterpartiet och Miljöpartiet ökar, enligt en mätning från Indikator Opinion.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Indikator Opinion: Why support for the Green Party and the Left Party is rising",
+        "summary": "The protracted government negotiations have cost the Social Democrats and the Centre Party voter support while the Left Party and the Green Party gain, according to a survey from Indikator Opinion."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:15:52+01:00"
+      }
+    },
     {
       "id": "1c882cba66a3",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T19:01:19+01:00"
-      }
-    },
-    {
-      "id": "8514101c5f4d",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346435",
-      "guid": "rss:sr.se/article/9346435",
-      "published_at": "2026-11-19T17:53:00+01:00",
-      "fetched_at": "2026-11-19T18:01:16+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "AI-jätten Anthropic rusar över 30 procent",
-        "summary": "Anthropic-aktien stiger kraftigt i börspremiären på Nasdaq. Anthropicaktien öppnade på 111:50 dollar när handeln inleddes. Det är mer än 30 procent över teckningskursen i bolagets börsintroduktion. Handeln med Anthropics aktier inleddes på torsdagen under kortnamnet ANT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "AI giant Anthropic soars over 30 percent",
-        "summary": "The Anthropic share rises sharply in its market debut on Nasdaq. The Anthropic share opened at 111:50 dollars when trading began. That is more than 30 percent above the subscription price in the company's initial public offering. Trading in Anthropic's shares began on Thursday under the ticker ANT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:01:29+01:00"
       }
     }
   ]

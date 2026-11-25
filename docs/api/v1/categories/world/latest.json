@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T15:01:32+01:00",
+  "generated_at": "2026-11-25T15:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d837bccf5af2",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/usa-foreslar-nya-tullar",
+      "guid": "https://www.dn.se/ekonomi/usa-foreslar-nya-tullar/",
+      "published_at": "2026-11-25T15:05:39+01:00",
+      "fetched_at": "2026-11-25T15:15:46+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/3c8a4fce-6370-4ac5-9049-7e35753408c5.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "USA lanserar nya tullar",
+        "summary": "USA vill införa nya tullar mot 14 marknader – inklusive Kina, Japan och EU, rapporterar flera amerikanska medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "USA rolls out new tariffs",
+        "summary": "The USA wants to impose new tariffs on 14 markets – including China, Japan and the EU, according to several American media outlets."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:15:52+01:00"
+      }
+    },
     {
       "id": "077c41666583",
       "schema_version": 1,
@@ -5328,33 +5355,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T12:01:24+01:00"
-      }
-    },
-    {
-      "id": "7e49096fa09e",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/411109/ukraina-attackerar-i-medelhavet",
-      "guid": "https://tv.aftonbladet.se/video/411109/ukraina-attackerar-i-medelhavet?utm_medium=rss",
-      "published_at": "2026-11-23T11:54:56+01:00",
-      "fetched_at": "2026-11-23T14:15:50+01:00",
-      "category": "world",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/c88177f92374a567187c5186bd62ce0d.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "Ukraina attackerar – i Medelhavet",
-        "summary": "Flera fartyg attackerade",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ukraine attacks – in the Mediterranean",
-        "summary": "Several vessels attacked"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T14:16:05+01:00"
       }
     }
   ]

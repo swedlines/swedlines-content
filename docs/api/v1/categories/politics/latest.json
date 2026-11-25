@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T15:01:32+01:00",
+  "generated_at": "2026-11-25T15:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dd50b33da00a",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349984",
+      "guid": "rss:sr.se/article/9349984",
+      "published_at": "2026-11-25T15:04:00+01:00",
+      "fetched_at": "2026-11-25T15:15:45+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Indikator Opinion: Därför ökar stödet för MP och V",
+        "summary": "De utdragna regeringsförhandlingarna har kostat Socialdemokraterna och Centerpartiet väljarstöd samtidigt som Vänsterpartiet och Miljöpartiet ökar, enligt en mätning från Indikator Opinion.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Indikator Opinion: Why support for the Green Party and the Left Party is rising",
+        "summary": "The protracted government negotiations have cost the Social Democrats and the Centre Party voter support while the Left Party and the Green Party gain, according to a survey from Indikator Opinion."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:15:52+01:00"
+      }
+    },
     {
       "id": "a9c31ba4a0c8",
       "schema_version": 1,
@@ -5343,32 +5369,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T22:30:34+01:00"
-      }
-    },
-    {
-      "id": "df033810f719",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
-      "guid": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering/",
-      "published_at": "2026-11-23T22:09:52+01:00",
-      "fetched_at": "2026-11-23T22:15:49+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering",
-        "summary": "Det blir ingen rödgrön regering, tror Maud Olofsson. – Jag tror att de har kommit till vägs ände. De har ju suttit hur länge som helst och diskuterat. Man har inte kommit närmare varandra, säger den tidigare C-ledaren i SVT:s ”Aktuellt”.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government",
-        "summary": "There will be no red-green government, believes Maud Olofsson. \"I think they have reached the end of the road. They have sat for ever and discussed. They have not come closer to each other,\" says the former Centre Party leader on SVT's \"Aktuellt\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:15:55+01:00"
       }
     }
   ]
