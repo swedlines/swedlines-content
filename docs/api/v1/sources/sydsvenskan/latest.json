@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T08:45:53+01:00",
+  "generated_at": "2026-11-25T09:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "90f03107c62a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/olyckorna-med-elsparkcyklar-fortsatter-oka",
+      "guid": "92d0ef8c-8f07-42a3-a5f5-8be918ac336a",
+      "published_at": "2026-11-25T08:56:20+01:00",
+      "fetched_at": "2026-11-25T09:01:15+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/9aac4795-cf40-4da0-9ec1-e03f02d30a7e.jpg?width=600",
+      "sv": {
+        "title": "Olyckorna med elsparkcyklar fortsätter öka",
+        "summary": "Nära 3 000 skadades i elsparkcykelolyckor första halvåret 2026 – en ökning med 16 procent jämfört med samma period i fjol, visar nya siffror från Transportstyrelsen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Accidents involving e-scooters continue to rise",
+        "summary": "Nearly 3,000 were injured in e-scooter accidents in the first half of 2026 – an increase of 16 percent compared with the same period last year, according to new figures from the Transport Agency."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:01:18+01:00"
+      }
+    },
     {
       "id": "251b750d2c8d",
       "schema_version": 1,
@@ -5170,30 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T15:01:22+01:00"
-      }
-    },
-    {
-      "id": "16c7e02945b1",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/svahn-visar-storform-tog-andra-raka-segern",
-      "guid": "856541eb-35bb-42b1-b1dc-dc1fd22677d1",
-      "published_at": "2026-11-22T13:16:29+01:00",
-      "fetched_at": "2026-11-22T13:31:07+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/9e02e43a-c270-4a75-b6a5-e6dee9a62b3d.jpg?width=600",
-      "sv": {
-        "title": "Svahn visar storform – tog andra raka segern"
-      },
-      "en": {
-        "title": "Svahn shows top form – takes second straight win"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T13:31:15+01:00"
       }
     }
   ]

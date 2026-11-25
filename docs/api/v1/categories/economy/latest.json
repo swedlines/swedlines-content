@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-25T08:45:53+01:00",
+  "generated_at": "2026-11-25T09:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5f8d4c00295a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/analytiker-spar-rapportlyft-for-elekta",
+      "guid": "5d4a4453-60a6-448c-989a-196e257a6505",
+      "published_at": "2026-11-25T08:53:29+01:00",
+      "fetched_at": "2026-11-25T09:01:14+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5a9a9d7d-8b83-4db8-b484-daa05349873b.jpeg?width=600",
+      "sv": {
+        "title": "Analytiker spår rapportlyft för Elekta",
+        "summary": "Pareto spår att Elektas aktie kommer att stiga minst 5 procent efter den bättre än väntade rapporten på onsdagen, trots en stark aktieutveckling före rapporten. Det framgår av en kommentar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Analyst expects earnings boost for Elekta",
+        "summary": "Pareto expects Elekta's share to rise at least 5 percent after the better-than-expected report on Wednesday, despite strong share performance ahead of the report. This is according to a comment."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:01:18+01:00"
+      }
+    },
+    {
+      "id": "9930838de26c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/vd-intervjuer/elektas-vd-vi-presterar-inte-i-niva-med-var-fulla-potential",
+      "guid": "e9af6075-1f1e-5999-a5f4-818774796f6e",
+      "published_at": "2026-11-25T08:53:18+01:00",
+      "fetched_at": "2026-11-25T09:01:14+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Elektas vd: ”Vi presterar inte i nivå med vår fulla potential”",
+        "summary": "Intervju med medicinteknikbolagets vd Jakob Just-Bomholt efter de släppta kvartalssiffrorna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elekta CEO: \"We are not performing at the level of our full potential\"",
+        "summary": "Interview with medtech company CEO Jakob Just-Bomholt following the released quarterly figures."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:01:18+01:00"
+      }
+    },
     {
       "id": "c756faf7b496",
       "schema_version": 1,
@@ -687,6 +740,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T07:31:10+01:00"
+      }
+    },
+    {
+      "id": "f5f622c28e74",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/M5RVLE/sa-mycket-hogre-blir-isk-skatten",
+      "guid": "https://www.aftonbladet.se/nyheter/a/M5RVLE/sa-mycket-hogre-blir-isk-skatten?utm_medium=rss",
+      "published_at": "2026-11-25T07:20:17+01:00",
+      "fetched_at": "2026-11-25T09:01:12+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/d907606d-0812-30db-ba53-6f9cc010e718?format=auto&s=94548246350840d8d5264a06d1dddc19fa3362bf&w=640",
+      "sv": {
+        "title": "Så mycket högre blir ISK-skatten",
+        "summary": "Väntas bli rekordhög",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is how much higher the ISK tax will be",
+        "summary": "Expected to be record high"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:01:18+01:00"
       }
     },
     {
@@ -5187,86 +5267,6 @@
       "en": {
         "title": "The game behind Huang's comeback – Trump's order",
         "summary": "Trump's order ✓ Shares soar"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T09:40:30+01:00"
-      }
-    },
-    {
-      "id": "a354e2503060",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/efter-rattstvisterna-lakemedelsjatten-ska-investera-mer",
-      "guid": "f5cb4a0f-e6f0-4815-990a-8090e6aaf774",
-      "published_at": "2026-11-24T09:32:47+01:00",
-      "fetched_at": "2026-11-24T09:40:21+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Efter rättstvisterna: Läkemedelsjätten ska investera mer",
-        "summary": "Tyska kemi- och läkemedelsbolaget Bayer planerar att öka sina investeringar i läkemedelsaffärer i ett tidigt skede i takt med att konsekvenserna av bolagets rättstvister kring ogräsmedlet Roundup i USA börjar avta.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the lawsuits: Pharma giant to invest more",
-        "summary": "German chemicals and pharmaceuticals company Bayer plans to increase its investments in pharmaceutical deals at an early stage, as the consequences of the company's lawsuits over the weedkiller Roundup in the US begin to fade."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T09:40:30+01:00"
-      }
-    },
-    {
-      "id": "ef6c3c23db09",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/riksbanken-arbetsbefriar-it-chefen-mats-eklund",
-      "guid": "0845ca29-a7f2-4305-86a6-59c730f65341",
-      "published_at": "2026-11-24T09:32:38+01:00",
-      "fetched_at": "2026-11-24T09:40:21+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/073b4124-1cd7-48e3-83bf-c475a80a5807.jpeg?width=600",
-      "sv": {
-        "title": "Riksbanken arbetsbefriar it-chefen Mats Eklund",
-        "summary": "Riksbanken har beslutat att arbetsbefria it-chefen Mats Eklund. Han ersätts av Erik Lenntorp till tillförordnad chef för avdelningen för it och digitalisering, AID, från och med i dag, enligt ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Riksbank relieves IT chief Mats Eklund of his duties",
-        "summary": "The Riksbank has decided to relieve IT chief Mats Eklund of his duties. He is replaced by Erik Lenntorp as acting head of the Department for IT and Digitalisation, AID, effective today, according to a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T09:40:30+01:00"
-      }
-    },
-    {
-      "id": "4cc6807254fa",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/upp-till-bevis-for-ola-kallenius-ska-radda-biljatten",
-      "guid": "466912ae-49a2-4e23-9474-781dbd5813d9",
-      "published_at": "2026-11-24T09:25:26+01:00",
-      "fetched_at": "2026-11-24T09:40:21+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/af0a84f3-14ac-4c04-99a7-6c3a048a5224.jpeg?width=600",
-      "sv": {
-        "title": "Upp till bevis för Ola Källenius – ska rädda biljätten",
-        "summary": "Mercedes-Benz svenska vd Ola Källenius står mitt i stormen för tysk bilindustri. Kina har slutat fungera som vinstmotor och det är för dyrt att tillverka bilar i Tyskland. Han möter protester på vägen mot en ny global strategi.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Up to the test for Ola Källenius – must save the car giant",
-        "summary": "Mercedes-Benz's Swedish CEO Ola Källenius is at the centre of the storm for the German car industry. China has stopped working as a profit engine, and it is too expensive to make cars in Germany. He faces protests on the way to a new global strategy."
       },
       "translation": {
         "status": "done",

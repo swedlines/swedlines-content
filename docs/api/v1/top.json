@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:45:53+01:00",
+  "generated_at": "2026-11-25T09:01:24+01:00",
   "count": 22,
   "stories": [
     {
@@ -657,6 +657,95 @@
       ]
     },
     {
+      "id": "19ab030b4a5f",
+      "source_count": 4,
+      "sources": [
+        "svd",
+        "di",
+        "sydsvenskan",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-25T05:50:12+01:00",
+      "last_published_at": "2026-11-25T07:20:17+01:00",
+      "lead": {
+        "id": "19ab030b4a5f",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/JnomVJ/sa-mycket-hogre-blir-isk-skatten",
+        "guid": "https://www.svd.se/a/JnomVJ/sa-mycket-hogre-blir-isk-skatten?utm_medium=rss",
+        "published_at": "2026-11-25T05:50:12+01:00",
+        "fetched_at": "2026-11-25T06:01:10+01:00",
+        "category": "economy",
+        "image_url": "https://akamai.vgc.no/v2/images/3305fbc5-b7cd-3b80-b0cc-d284623e2b53?format=auto&s=5338ccb946f7dd6b42f1918327325c7b07fe5283&w=1000",
+        "sv": {
+          "title": "Så mycket högre blir ISK-skatten",
+          "summary": "Nästa år väntas ISK-skatten bli rekordhög. För den med ett sparbelopp på 1 miljon kronor handlar det…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "This is how much higher the ISK tax becomes",
+          "summary": "Next year the ISK tax is expected to reach a record high. For someone with savings of SEK 1 million, it means just over…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T06:01:19+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "f5f622c28e74",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/M5RVLE/sa-mycket-hogre-blir-isk-skatten",
+          "published_at": "2026-11-25T07:20:17+01:00",
+          "sv": {
+            "title": "Så mycket högre blir ISK-skatten"
+          },
+          "en": {
+            "title": "This is how much higher the ISK tax will be"
+          }
+        },
+        {
+          "id": "736431bf4d18",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/sa-mycket-hogre-blir-isk-skatten",
+          "published_at": "2026-11-25T05:56:01+01:00",
+          "sv": {
+            "title": "Så mycket högre blir ISK-skatten"
+          },
+          "en": {
+            "title": "This is how much higher the ISK tax becomes"
+          }
+        },
+        {
+          "id": "ec13e73a9c6d",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/klart-sa-mycket-hogre-blir-isk-skatten",
+          "published_at": "2026-11-25T05:53:17+01:00",
+          "sv": {
+            "title": "Klart: Så mycket högre blir ISK-skatten"
+          },
+          "en": {
+            "title": "Confirmed: This is how much higher the ISK tax becomes"
+          }
+        },
+        {
+          "id": "19ab030b4a5f",
+          "source": "svd",
+          "url": "https://www.svd.se/a/JnomVJ/sa-mycket-hogre-blir-isk-skatten",
+          "published_at": "2026-11-25T05:50:12+01:00",
+          "sv": {
+            "title": "Så mycket högre blir ISK-skatten"
+          },
+          "en": {
+            "title": "This is how much higher the ISK tax becomes"
+          }
+        }
+      ]
+    },
+    {
       "id": "b60521972973",
       "source_count": 4,
       "sources": [
@@ -921,82 +1010,6 @@
       ]
     },
     {
-      "id": "19ab030b4a5f",
-      "source_count": 3,
-      "sources": [
-        "svd",
-        "di",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-25T05:50:12+01:00",
-      "last_published_at": "2026-11-25T05:56:01+01:00",
-      "lead": {
-        "id": "19ab030b4a5f",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/JnomVJ/sa-mycket-hogre-blir-isk-skatten",
-        "guid": "https://www.svd.se/a/JnomVJ/sa-mycket-hogre-blir-isk-skatten?utm_medium=rss",
-        "published_at": "2026-11-25T05:50:12+01:00",
-        "fetched_at": "2026-11-25T06:01:10+01:00",
-        "category": "economy",
-        "image_url": "https://akamai.vgc.no/v2/images/3305fbc5-b7cd-3b80-b0cc-d284623e2b53?format=auto&s=5338ccb946f7dd6b42f1918327325c7b07fe5283&w=1000",
-        "sv": {
-          "title": "Så mycket högre blir ISK-skatten",
-          "summary": "Nästa år väntas ISK-skatten bli rekordhög. För den med ett sparbelopp på 1 miljon kronor handlar det…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "This is how much higher the ISK tax becomes",
-          "summary": "Next year the ISK tax is expected to reach a record high. For someone with savings of SEK 1 million, it means just over…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T06:01:19+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "736431bf4d18",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/sa-mycket-hogre-blir-isk-skatten",
-          "published_at": "2026-11-25T05:56:01+01:00",
-          "sv": {
-            "title": "Så mycket högre blir ISK-skatten"
-          },
-          "en": {
-            "title": "This is how much higher the ISK tax becomes"
-          }
-        },
-        {
-          "id": "ec13e73a9c6d",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/klart-sa-mycket-hogre-blir-isk-skatten",
-          "published_at": "2026-11-25T05:53:17+01:00",
-          "sv": {
-            "title": "Klart: Så mycket högre blir ISK-skatten"
-          },
-          "en": {
-            "title": "Confirmed: This is how much higher the ISK tax becomes"
-          }
-        },
-        {
-          "id": "19ab030b4a5f",
-          "source": "svd",
-          "url": "https://www.svd.se/a/JnomVJ/sa-mycket-hogre-blir-isk-skatten",
-          "published_at": "2026-11-25T05:50:12+01:00",
-          "sv": {
-            "title": "Så mycket högre blir ISK-skatten"
-          },
-          "en": {
-            "title": "This is how much higher the ISK tax becomes"
-          }
-        }
-      ]
-    },
-    {
       "id": "8554f9f6a160",
       "source_count": 3,
       "sources": [
@@ -1219,6 +1232,69 @@
           },
           "en": {
             "title": "Frederiksen worried about ‘population replacement’ – criticised"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1309c1cf2cf",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-25T08:00:11+01:00",
+      "last_published_at": "2026-11-25T08:56:20+01:00",
+      "lead": {
+        "id": "d1309c1cf2cf",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/QroVJV/olyckorna-med-elsparkcyklar-fortsatter-oka",
+        "guid": "https://www.aftonbladet.se/nyheter/a/QroVJV/olyckorna-med-elsparkcyklar-fortsatter-oka?utm_medium=rss",
+        "published_at": "2026-11-25T08:00:11+01:00",
+        "fetched_at": "2026-11-25T08:01:12+01:00",
+        "category": "sweden",
+        "image_url": "https://akamai.vgc.no/v2/images/f927653e-e409-31f0-9b02-bc2fdf15331f?format=auto&s=49aa08747b5c9a161a679a590ef3983d2ca9be4b&w=1000",
+        "sv": {
+          "title": "Olyckorna med elsparkcyklar fortsätter öka",
+          "summary": "Nära 3 000 skadades i elsparkcykelolyckor första halvåret 2026 – en ökning med 16 procent jämfört…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Accidents with e-scooters continue to rise",
+          "summary": "Nearly 3,000 were injured in e-scooter accidents in the first half of 2026 – an increase of 16 percent compared with…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T08:01:20+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "90f03107c62a",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/olyckorna-med-elsparkcyklar-fortsatter-oka",
+          "published_at": "2026-11-25T08:56:20+01:00",
+          "sv": {
+            "title": "Olyckorna med elsparkcyklar fortsätter öka"
+          },
+          "en": {
+            "title": "Accidents involving e-scooters continue to rise"
+          }
+        },
+        {
+          "id": "d1309c1cf2cf",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/QroVJV/olyckorna-med-elsparkcyklar-fortsatter-oka",
+          "published_at": "2026-11-25T08:00:11+01:00",
+          "sv": {
+            "title": "Olyckorna med elsparkcyklar fortsätter öka"
+          },
+          "en": {
+            "title": "Accidents with e-scooters continue to rise"
           }
         }
       ]
@@ -1796,68 +1872,6 @@
           },
           "en": {
             "title": "Emilia has been \"buy-free\" for ten years – saved almost a million"
-          }
-        }
-      ]
-    },
-    {
-      "id": "4a2aaf1541ee",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-24T20:24:37+01:00",
-      "last_published_at": "2026-11-24T20:50:53+01:00",
-      "lead": {
-        "id": "4a2aaf1541ee",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8ea6b77b-40d6-42c1-9e7b-073ba9841c15",
-        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8ea6b77b-40d6-42c1-9e7b-073ba9841c15",
-        "published_at": "2026-11-24T20:24:37+01:00",
-        "fetched_at": "2026-11-24T20:31:00+01:00",
-        "category": "sweden",
-        "sv": {
-          "title": "Död i olycka – arbetade vid hiss",
-          "summary": "Arbetsplatsolycka i Västerås",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Dead in accident – worked near lift",
-          "summary": "Workplace accident in Västerås"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T20:31:05+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "5390383938e0",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Wmbpok/man-omkom-i-arbetsplatsolycka-i-vasteras",
-          "published_at": "2026-11-24T20:50:53+01:00",
-          "sv": {
-            "title": "Man omkom i arbetsplatsolycka i Västerås"
-          },
-          "en": {
-            "title": "Man dies in workplace accident in Västerås"
-          }
-        },
-        {
-          "id": "4a2aaf1541ee",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8ea6b77b-40d6-42c1-9e7b-073ba9841c15",
-          "published_at": "2026-11-24T20:24:37+01:00",
-          "sv": {
-            "title": "Död i olycka – arbetade vid hiss"
-          },
-          "en": {
-            "title": "Dead in accident – worked near lift"
           }
         }
       ]

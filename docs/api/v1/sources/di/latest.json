@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-25T08:45:53+01:00",
+  "generated_at": "2026-11-25T09:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5f8d4c00295a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/analytiker-spar-rapportlyft-for-elekta",
+      "guid": "5d4a4453-60a6-448c-989a-196e257a6505",
+      "published_at": "2026-11-25T08:53:29+01:00",
+      "fetched_at": "2026-11-25T09:01:14+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5a9a9d7d-8b83-4db8-b484-daa05349873b.jpeg?width=600",
+      "sv": {
+        "title": "Analytiker spår rapportlyft för Elekta",
+        "summary": "Pareto spår att Elektas aktie kommer att stiga minst 5 procent efter den bättre än väntade rapporten på onsdagen, trots en stark aktieutveckling före rapporten. Det framgår av en kommentar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Analyst expects earnings boost for Elekta",
+        "summary": "Pareto expects Elekta's share to rise at least 5 percent after the better-than-expected report on Wednesday, despite strong share performance ahead of the report. This is according to a comment."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:01:18+01:00"
+      }
+    },
+    {
+      "id": "9930838de26c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/vd-intervjuer/elektas-vd-vi-presterar-inte-i-niva-med-var-fulla-potential",
+      "guid": "e9af6075-1f1e-5999-a5f4-818774796f6e",
+      "published_at": "2026-11-25T08:53:18+01:00",
+      "fetched_at": "2026-11-25T09:01:14+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Elektas vd: ”Vi presterar inte i nivå med vår fulla potential”",
+        "summary": "Intervju med medicinteknikbolagets vd Jakob Just-Bomholt efter de släppta kvartalssiffrorna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elekta CEO: \"We are not performing at the level of our full potential\"",
+        "summary": "Interview with medtech company CEO Jakob Just-Bomholt following the released quarterly figures."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:01:18+01:00"
+      }
+    },
     {
       "id": "9f8c4a894092",
       "schema_version": 1,
@@ -5267,60 +5320,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T21:15:56+01:00"
-      }
-    },
-    {
-      "id": "e1cd1f36902d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nya-bolag-tar-plats-i-benchmark-indexet-sex-aker-ut",
-      "guid": "cbbd2f02-e418-439f-aceb-f147daf1f6d3",
-      "published_at": "2026-11-23T20:44:33+01:00",
-      "fetched_at": "2026-11-23T21:01:09+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/5d495f9d-0f76-4150-abc4-f2c1eb75b4d1.jpeg?width=600",
-      "sv": {
-        "title": "Nya bolag tar plats i Benchmark-indexet – sex åker ut",
-        "summary": "Från den 1 december kommer tio nya bolag att adderas till OMX Stockholm Benchmark Index medan sex bolag lämnar indexet efter den halvårsvisa översynen av indexen. Det framgår av ett pressmeddelande från börsoperatören Nasdaq.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New Companies Enter Benchmark Index – Six Drop Out",
-        "summary": "From 1 December, ten new companies will be added to the OMX Stockholm Benchmark Index while six companies leave the index after the half-yearly review of the indices. This is according to a press release from exchange operator Nasdaq."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T21:01:14+01:00"
-      }
-    },
-    {
-      "id": "6840e4850928",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/experter-detta-vantar-nvidia-och-borsen",
-      "guid": "43507a39-6d67-4c53-9b5d-99e907151d84",
-      "published_at": "2026-11-23T20:03:01+01:00",
-      "fetched_at": "2026-11-23T20:15:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6a5596c4-8611-4288-ab1a-53409f1e2979.jpeg?width=600",
-      "sv": {
-        "title": "Experter: Detta väntar Nvidia och börsen",
-        "summary": "Wall Streets närmast historiska reaktion på Jensen Huangs återkomst till Nvidia förklaras delvis av att AI-bolagen var extremt översålda, enligt bedömare. Men hur ser framtiden ut nu för Nvidia och i förlängningen börsen?",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Experts: This Awaits Nvidia and the Stock Market",
-        "summary": "Wall Street's near-historic reaction to Jensen Huang's return to Nvidia is partly explained by AI companies being extremely oversold, according to analysts. But what does the future now hold for Nvidia and, by extension, the stock market?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T20:15:50+01:00"
       }
     }
   ]
