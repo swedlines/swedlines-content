@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-25T14:45:56+01:00",
+  "generated_at": "2026-11-25T15:01:32+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c7e39efd62b3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/wallenberg-om-stegras-miljardaptit-jobbar-pa-det",
+      "guid": "864c3f83-c8ce-4fb2-8eac-143fedd1f446",
+      "published_at": "2026-11-25T14:54:06+01:00",
+      "fetched_at": "2026-11-25T15:01:23+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/928be191-b4b1-48a3-9e0c-59df0b4d1f1c.jpeg?width=600",
+      "sv": {
+        "title": "Wallenberg om Stegras miljardaptit: Jobbar på det",
+        "summary": "Stålprojektet Stegra behöver minst 20 miljarder kronor i ytterligare finansiering, avslöjade Bloomberg på tisdagen. ”Vi håller på att jobba med den frågan just nu”, säger Marcus Wallenberg till Dagens Nyheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wallenberg on Stegra's billion appetite: We're working on it",
+        "summary": "The steel project Stegra needs at least SEK 20 billion in additional financing, Bloomberg revealed on Tuesday. ”We are working on that issue right now”, says Marcus Wallenberg to Dagens Nyheter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:01:30+01:00"
+      }
+    },
+    {
+      "id": "a321e1c879aa",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ai-bjassar-faller-i-forhandeln",
+      "guid": "1e8ff4bd-24a6-49c8-98fb-48d1d7d0ba2b",
+      "published_at": "2026-11-25T14:52:05+01:00",
+      "fetched_at": "2026-11-25T15:01:23+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "AI-bjässar faller i förhandeln",
+        "summary": "USA-börserna väntas inleda nedåt på onsdagen när USA flaggat för nya tullar samtidigt som sentimentet för AI-relaterade aktier var fortsatt dämpat.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "AI giants fall in pre-market trading",
+        "summary": "US stock exchanges are expected to open lower on Wednesday after the US flagged new tariffs, while sentiment for AI-related shares remained subdued."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:01:30+01:00"
+      }
+    },
     {
       "id": "fb0dd6747cc8",
       "schema_version": 1,
@@ -5245,60 +5298,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T16:15:55+01:00"
-      }
-    },
-    {
-      "id": "5bd5c00ae4d2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/naringsliv/kraftverk-for-tre-miljarder-ska-byggas-i-malmo-kan-fa-ner-elpriset",
-      "guid": "fe7f07dd-65a9-402a-9dbe-af18d5b34c26",
-      "published_at": "2026-11-24T15:54:34+01:00",
-      "fetched_at": "2026-11-24T16:01:17+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0376c2f0-47e0-419e-8b46-c133c1c8bf90.jpeg?width=600",
-      "sv": {
-        "title": "Kraftverk för tre miljarder ska byggas i Malmö – kan få ner elpriset",
-        "summary": "Eon får 320 miljoner i statligt stöd för att bygga ett nytt kraftvärmeverk i Oljehamnen i Malmö. Tremiljardersbygget ska kunna producera el för uppemot 10 000 villor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Power plant worth three billion to be built in Malmö – could lower electricity prices",
-        "summary": "Eon receives SEK 320 million in state aid to build a new combined heat and power plant at Oljehamnen in Malmö. The multi-billion project is expected to produce electricity for up to 10,000 villas."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "a5016b7c5508",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/anthropic-rasar-jensen-huang-spokar",
-      "guid": "ede3ce8d-bd7f-4122-855d-7d9fc2bf0540",
-      "published_at": "2026-11-24T15:52:15+01:00",
-      "fetched_at": "2026-11-24T16:01:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e0d527a1-277b-4be2-bb87-c3ba7aed3b6b.jpeg?width=600",
-      "sv": {
-        "title": "Anthropic rasar – Jensen Huang spökar",
-        "summary": "Jensen Huangs comeback har utlöst ett glädjerus på börsen. Men för börsnykomlingen Anthropic är händelsen en säljsignal. Under tisdagen rasar Dario Amodeis AI-skapelse för första gången under teckningskursen på 83 dollar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anthropic plunges – Jensen Huang haunts",
-        "summary": "Jensen Huang's comeback has triggered a stock market euphoria. But for newly listed Anthropic, the event is a sell signal. On Tuesday, Dario Amodei's AI creation falls below the subscription price of 83 dollars for the first time."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:01:23+01:00"
       }
     }
   ]

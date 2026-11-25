@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-25T14:45:56+01:00",
+  "generated_at": "2026-11-25T15:01:32+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "296c95517035",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/brand-i-bil-inne-i-parkeringshus.028a9aff-8eed-5922-91a7-5fee875b1497",
+      "guid": "028a9aff-8eed-5922-91a7-5fee875b1497",
+      "published_at": "2026-11-25T14:36:35+01:00",
+      "fetched_at": "2026-11-25T15:01:23+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Brand"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/16829da3-a74b-3325-b944-43918e0b0e56",
+      "sv": {
+        "title": "Bil brinner i parkeringshus i Gårda i Göteborg",
+        "summary": "Bilbrand i garage i Gårda.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Car burns in parking garage in Gårda in Göteborg",
+        "summary": "Car fire in a garage in Gårda."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:01:30+01:00"
+      }
+    },
     {
       "id": "9dc069948fb0",
       "schema_version": 1,
@@ -6855,39 +6887,6 @@
       "en": {
         "title": "News show 20 November: Hippo icon Fiona is dead",
         "summary": "The flu is here, a mysterious train stop, and assault over parents not brushing their children's teeth."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:31:22+01:00"
-      }
-    },
-    {
-      "id": "e56d77dc4344",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/debatt/brynolfsson-v-undviker-att-svara-pa-fragan-vem-som-ska-betala.7446ec97-69ec-5afa-9af6-64f2ee8734ba",
-      "guid": "7446ec97-69ec-5afa-9af6-64f2ee8734ba",
-      "published_at": "2026-11-20T10:56:18+01:00",
-      "fetched_at": "2026-11-20T11:31:03+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Debatt",
-        "Tagg: Arbetstid–",
-        "Tagg: Äldreomsorg",
-        "Tagg: Arbetsgivare"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/11b0146f-441c-35c5-b0c2-3f26a63b3d72",
-      "sv": {
-        "title": "Brynolfsson (V) undviker att svara på frågan vem som ska betala",
-        "summary": "Om en generell arbetstidsförkortning är lösningen, varför införs den bara i begränsad skala i Göteborg? skriver företrädare för Almega.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Brynolfsson (V) avoids answering who is to pay",
-        "summary": "If a general reduction in working hours is the solution, why is it only being introduced on a limited scale in Göteborg? writes representatives of Almega."
       },
       "translation": {
         "status": "done",

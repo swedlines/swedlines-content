@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-25T14:45:56+01:00",
+  "generated_at": "2026-11-25T15:01:32+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c7e39efd62b3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/wallenberg-om-stegras-miljardaptit-jobbar-pa-det",
+      "guid": "864c3f83-c8ce-4fb2-8eac-143fedd1f446",
+      "published_at": "2026-11-25T14:54:06+01:00",
+      "fetched_at": "2026-11-25T15:01:23+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/928be191-b4b1-48a3-9e0c-59df0b4d1f1c.jpeg?width=600",
+      "sv": {
+        "title": "Wallenberg om Stegras miljardaptit: Jobbar på det",
+        "summary": "Stålprojektet Stegra behöver minst 20 miljarder kronor i ytterligare finansiering, avslöjade Bloomberg på tisdagen. ”Vi håller på att jobba med den frågan just nu”, säger Marcus Wallenberg till Dagens Nyheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wallenberg on Stegra's billion appetite: We're working on it",
+        "summary": "The steel project Stegra needs at least SEK 20 billion in additional financing, Bloomberg revealed on Tuesday. ”We are working on that issue right now”, says Marcus Wallenberg to Dagens Nyheter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:01:30+01:00"
+      }
+    },
+    {
+      "id": "a321e1c879aa",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ai-bjassar-faller-i-forhandeln",
+      "guid": "1e8ff4bd-24a6-49c8-98fb-48d1d7d0ba2b",
+      "published_at": "2026-11-25T14:52:05+01:00",
+      "fetched_at": "2026-11-25T15:01:23+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "AI-bjässar faller i förhandeln",
+        "summary": "USA-börserna väntas inleda nedåt på onsdagen när USA flaggat för nya tullar samtidigt som sentimentet för AI-relaterade aktier var fortsatt dämpat.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "AI giants fall in pre-market trading",
+        "summary": "US stock exchanges are expected to open lower on Wednesday after the US flagged new tariffs, while sentiment for AI-related shares remained subdued."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T15:01:30+01:00"
+      }
+    },
     {
       "id": "fb0dd6747cc8",
       "schema_version": 1,
@@ -5268,59 +5321,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T10:45:55+01:00"
-      }
-    },
-    {
-      "id": "e7e14f387fd8",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nvidia-faller-tillbaka-i-forhandeln",
-      "guid": "1cf10d00-869d-4ec1-adfd-2c0b6cbc8e5c",
-      "published_at": "2026-11-24T10:19:58+01:00",
-      "fetched_at": "2026-11-24T10:31:02+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nvidia faller tillbaka i förhandeln",
-        "summary": "Nvidias aktie faller tillbaka i den amerikanska förhandeln efter måndagens jätterusning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nvidia falls back in trading",
-        "summary": "Nvidia's share is falling back in American trading after Monday's huge rush."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T10:31:08+01:00"
-      }
-    },
-    {
-      "id": "7faa6e40adfd",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/abg-graa-moln-over-kursvinnaren-salj",
-      "guid": "caadafed-f646-48bb-a834-9fad6bf26db6",
-      "published_at": "2026-11-24T10:18:24+01:00",
-      "fetched_at": "2026-11-24T10:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/184b488c-08e8-43a2-a447-c68370f9c70a.jpeg?width=600",
-      "sv": {
-        "title": "ABG: Gråa moln över kursvinnaren – sälj",
-        "summary": "Gråa moln börjar samlas vid detaljhandelsföretaget Clas Ohlsons horisont. Det skriver ABG Sundal Collier i en inledande analys, vilken får aktien att backa på tisdagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "ABG: Grey clouds over top performer – sell",
-        "summary": "Grey clouds are gathering over the horizon of retailer Clas Ohlson. This is according to ABG Sundal Collier in an initial analysis, which causes the share to fall on Tuesday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T10:31:08+01:00"
       }
     }
   ]

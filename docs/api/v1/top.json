@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:45:56+01:00",
+  "generated_at": "2026-11-25T15:01:32+01:00",
   "count": 30,
   "stories": [
     {
@@ -656,7 +656,7 @@
         "sydsvenskan"
       ],
       "first_published_at": "2026-11-25T14:13:53+01:00",
-      "last_published_at": "2026-11-25T14:30:09+01:00",
+      "last_published_at": "2026-11-25T14:49:28+01:00",
       "lead": {
         "id": "5d16a595b683",
         "schema_version": 1,
@@ -684,6 +684,18 @@
         }
       },
       "items": [
+        {
+          "id": "118d49bcae67",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/trumps-nya-eu-tullar-norge-kan-slippa",
+          "published_at": "2026-11-25T14:49:28+01:00",
+          "sv": {
+            "title": "Trumps nya EU-tullar – Norge kan slippa"
+          },
+          "en": {
+            "title": "Trump's new EU tariffs – Norway may escape"
+          }
+        },
         {
           "id": "d8baa4994129",
           "source": "sydsvenskan",
@@ -1779,76 +1791,64 @@
       ]
     },
     {
-      "id": "8554f9f6a160",
-      "source_count": 3,
+      "id": "402c7c39594f",
+      "source_count": 2,
       "sources": [
-        "svd",
-        "aftonbladet",
-        "svt"
+        "dn",
+        "di"
       ],
-      "first_published_at": "2026-11-25T02:39:14+01:00",
-      "last_published_at": "2026-11-25T02:57:59+01:00",
+      "first_published_at": "2026-11-25T14:06:59+01:00",
+      "last_published_at": "2026-11-25T14:54:06+01:00",
       "lead": {
-        "id": "8554f9f6a160",
+        "id": "402c7c39594f",
         "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/2vG67R/pakistanier-ombord-pa-kinesisk-raket",
-        "guid": "https://www.svd.se/a/2vG67R/pakistanier-ombord-pa-kinesisk-raket?utm_medium=rss",
-        "published_at": "2026-11-25T02:39:14+01:00",
-        "fetched_at": "2026-11-25T02:45:48+01:00",
-        "category": "science_tech",
+        "source": "dn",
+        "url": "https://www.dn.se/ekonomi/wallenberg-utesluter-inte-mer-pengar-i-stegra-jobbar-med-fragan",
+        "guid": "https://www.dn.se/ekonomi/wallenberg-utesluter-inte-mer-pengar-i-stegra-jobbar-med-fragan/",
+        "published_at": "2026-11-25T14:06:59+01:00",
+        "fetched_at": "2026-11-25T14:15:47+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/ac375fc3-38c7-4d6a-8093-22104c9117fc.jpeg?io=1&width=1000",
         "sv": {
-          "title": "Pakistanier ombord på kinesisk raket",
-          "summary": "Kina har för första gången skjutit upp en raket med en utländsk astronaut ombord.",
-          "summary_origin": "feed"
+          "title": "Wallenberg utesluter inte mer pengar i Stegra – ”jobbar med frågan”",
+          "summary": "Det gröna stålbolaget Stegra befinner sig i ekonomisk kris och uppges behöva 20 miljarder i kapitaltillskott. I april räddades bolaget av familjen Wallenberg, som tillsammans med andra investerare gick in med 15 miljarder – nu utesluter inte Marcus Wallenberg ytterligare tillskott.",
+          "summary_origin": "truncated"
         },
         "en": {
-          "title": "Pakistani on board Chinese rocket",
-          "summary": "China has for the first time launched a rocket with a foreign astronaut on board."
+          "title": "Wallenberg does not rule out more money for Stegra – \"we are working on the issue\"",
+          "summary": "The green steel company Stegra is in a financial crisis and is reportedly in need of SEK 20 billion in capital injections. In April, the company was rescued by the Wallenberg family, which together with other investors put in SEK 15 billion – now Marcus Wallenberg does not rule out further injections."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T02:45:53+01:00"
+          "translated_at": "2026-11-25T14:15:57+01:00"
         }
       },
       "items": [
         {
-          "id": "efa379979b90",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/utrikes/pakistanier-ombord-pa-kinesisk-raket",
-          "published_at": "2026-11-25T02:57:59+01:00",
+          "id": "c7e39efd62b3",
+          "source": "di",
+          "url": "https://www.di.se/live/wallenberg-om-stegras-miljardaptit-jobbar-pa-det",
+          "published_at": "2026-11-25T14:54:06+01:00",
           "sv": {
-            "title": "Pakistanier ombord på kinesisk raket"
+            "title": "Wallenberg om Stegras miljardaptit: Jobbar på det"
           },
           "en": {
-            "title": "Pakistani on board Chinese rocket"
+            "title": "Wallenberg on Stegra's billion appetite: We're working on it"
           }
         },
         {
-          "id": "8fdfb3d8681d",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/oMprOj/pakistanier-ombord-pa-kinesisk-raket",
-          "published_at": "2026-11-25T02:39:14+01:00",
+          "id": "402c7c39594f",
+          "source": "dn",
+          "url": "https://www.dn.se/ekonomi/wallenberg-utesluter-inte-mer-pengar-i-stegra-jobbar-med-fragan",
+          "published_at": "2026-11-25T14:06:59+01:00",
           "sv": {
-            "title": "Pakistanier ombord på kinesisk raket"
+            "title": "Wallenberg utesluter inte mer pengar i Stegra – ”jobbar med frågan”"
           },
           "en": {
-            "title": "Pakistani on board Chinese rocket"
-          }
-        },
-        {
-          "id": "8554f9f6a160",
-          "source": "svd",
-          "url": "https://www.svd.se/a/2vG67R/pakistanier-ombord-pa-kinesisk-raket",
-          "published_at": "2026-11-25T02:39:14+01:00",
-          "sv": {
-            "title": "Pakistanier ombord på kinesisk raket"
-          },
-          "en": {
-            "title": "Pakistani on board Chinese rocket"
+            "title": "Wallenberg does not rule out more money for Stegra – \"we are working on the issue\""
           }
         }
       ]
