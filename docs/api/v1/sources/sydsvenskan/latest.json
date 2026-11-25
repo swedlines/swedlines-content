@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-25T11:01:21+01:00",
+  "generated_at": "2026-11-25T11:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "600e4404ee63",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/tva-man-atalas-for-mord-vid-badplats",
+      "guid": "861def3c-9c68-478f-8e95-e09c0632506e",
+      "published_at": "2026-11-25T11:15:14+01:00",
+      "fetched_at": "2026-11-25T11:15:48+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/14a52c52-279b-42c9-b0ea-ab037d376285.jpg?width=600",
+      "sv": {
+        "title": "Två män åtalas för mord vid badplats",
+        "summary": "Två unga män åtalas för mord efter dödsmisshandeln av en man i 45-årsåldern på en badplats i Mölnlycke utanför Göteborg i juli, rapporterar lokala medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two men charged with murder at bathing spot",
+        "summary": "Two young men are charged with murder following the fatal assault of a man in his 45s at a bathing spot in Mölnlycke outside Göteborg in July, local media report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:15:55+01:00"
+      }
+    },
+    {
+      "id": "25eb71ff90ab",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/iihf-overklagar-cas-rysslandsbeslut",
+      "guid": "039f0176-f381-40f7-9c57-4cd772ce4408",
+      "published_at": "2026-11-25T11:14:51+01:00",
+      "fetched_at": "2026-11-25T11:15:48+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "IIHF överklagar Cas Rysslandsbeslut",
+        "summary": "Internationella ishockeyförbundet (IIHF) överklagar Idrottens skiljedomstols (Cas) beslut att tillåta ryskt deltagande i kommande VM till högsta domstolen i Schweiz. Det skriver IIHF på X.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "IIHF appeals CAS ruling on Russia",
+        "summary": "The International Ice Hockey Federation (IIHF) is appealing the Court of Arbitration for Sport (CAS) decision to allow Russian participation in the upcoming World Championship to the Swiss Supreme Court. The IIHF writes on X."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:15:55+01:00"
+      }
+    },
     {
       "id": "802f451b0bb6",
       "schema_version": 1,
@@ -5134,60 +5187,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T20:45:53+01:00"
-      }
-    },
-    {
-      "id": "eeb24ae1f54f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/andersson-startpaket-till-v",
-      "guid": "0a163614-08b1-4b1d-b2ac-625f98db0751",
-      "published_at": "2026-11-22T18:10:35+01:00",
-      "fetched_at": "2026-11-22T18:15:48+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/9afef199-4c12-4014-9ea3-2a66fd326d51.jpg?width=600",
-      "sv": {
-        "title": "Andersson: ”Startpaket” till V klart",
-        "summary": "S, C och MP är överens om att erbjuda ett ”startpaket” till V för att lösa blockeringen i regeringsfrågan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Andersson: “Starter package” for V done",
-        "summary": "The Social Democrats, the Centre Party and the Green Party agree to offer the Left Party a “starter package” to resolve the deadlock over the government."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T18:15:53+01:00"
-      }
-    },
-    {
-      "id": "35f16b4a25ff",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/nya-sjukhuset-i-helsingborg-blir-flera-miljarder-dyrare-an-uppskattat",
-      "guid": "a11b0048-668f-4a5c-854f-2ddfdec50452",
-      "published_at": "2026-11-22T18:00:00+01:00",
-      "fetched_at": "2026-11-22T18:01:18+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/40bb8563-3538-40b8-bfac-22f417589bc3.jpeg?width=600",
-      "sv": {
-        "title": "Nya sjukhuset i Helsingborg blir flera miljarder dyrare än uppskattat",
-        "summary": "Har du också kört förbi Östra Ramlösa, blickat ut över åkermarkerna och undrat: Hur går det med Helsingborgs nya sjukhus som ska byggas här? Sydsvenskan ger idag senaste nytt om tidsplanen, kostnad, storlek och innehåll.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New Helsingborg hospital set to cost several billion more than estimated",
-        "summary": "Have you also driven past Östra Ramlösa, looked out over the farmland and wondered: how is Helsingborg's new hospital going to be built here? Sydsvenskan brings the latest news on timeline, cost, size and content."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T18:01:21+01:00"
       }
     }
   ]

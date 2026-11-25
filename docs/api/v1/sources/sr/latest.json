@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T11:01:21+01:00",
+  "generated_at": "2026-11-25T11:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "36a816584fe9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349713",
+      "guid": "rss:sr.se/article/9349713",
+      "published_at": "2026-11-25T11:05:00+01:00",
+      "fetched_at": "2026-11-25T11:15:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "EU riktar ny kritik mot Sveriges hantering av vargen",
+        "summary": "Efter tidigare kritik höjde regeringen i somras referensvärdet på varg, alltså hur många som minst behövs för den långsiktiga överlevnaden, från 170 till 220 individer.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "EU issues new criticism of Sweden's handling of wolves",
+        "summary": "Following earlier criticism, the government in the summer raised the reference value for wolves, meaning the minimum number needed for long-term survival, from 170 to 220 individuals."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:15:55+01:00"
+      }
+    },
     {
       "id": "c9a509e41e6f",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:01:34+01:00"
-      }
-    },
-    {
-      "id": "e434b434d1f9",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346444",
-      "guid": "rss:sr.se/article/9346444",
-      "published_at": "2026-11-19T15:45:00+01:00",
-      "fetched_at": "2026-11-19T15:45:48+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "Snövarning för Stockholm",
-        "summary": "SMHI har utfärdat en gul varning för snöfall i Uppsala och Stockholms län under fredag och lördag. Det väntas komma mellan 5 och 15 centimeter nysnö, med de största mängderna i Uppland.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Snow warning for Stockholm",
-        "summary": "SMHI has issued a yellow warning for snowfall in Uppsala and Stockholm counties on Friday and Saturday. Between 5 and 15 centimetres of fresh snow is expected, with the largest amounts in Uppland."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
       }
     }
   ]

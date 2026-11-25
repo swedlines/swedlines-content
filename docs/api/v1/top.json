@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:01:21+01:00",
+  "generated_at": "2026-11-25T11:15:59+01:00",
   "count": 26,
   "stories": [
     {
@@ -328,7 +328,7 @@
         "expressen"
       ],
       "first_published_at": "2026-11-24T21:21:01+01:00",
-      "last_published_at": "2026-11-25T06:57:10+01:00",
+      "last_published_at": "2026-11-25T11:15:15+01:00",
       "lead": {
         "id": "2a04dac68bee",
         "schema_version": 1,
@@ -357,6 +357,18 @@
         }
       },
       "items": [
+        {
+          "id": "e0b6f9706d29",
+          "source": "dn",
+          "url": "https://www.dn.se/varlden/kinesiska-medier-jensen-huang-en-bricka-i-ett-mycket-storre-spel",
+          "published_at": "2026-11-25T11:15:15+01:00",
+          "sv": {
+            "title": "Kinesiska medier: ”Jensen Huang en bricka i ett mycket större spel”"
+          },
+          "en": {
+            "title": "Chinese media: \"Jensen Huang a pawn in a much bigger game\""
+          }
+        },
         {
           "id": "4fb731b5419c",
           "source": "expressen",
@@ -433,15 +445,16 @@
     },
     {
       "id": "1206ee6a5b06",
-      "source_count": 4,
+      "source_count": 5,
       "sources": [
         "svt",
         "gp",
         "aftonbladet",
-        "dn"
+        "dn",
+        "sydsvenskan"
       ],
       "first_published_at": "2026-11-25T10:42:54+01:00",
-      "last_published_at": "2026-11-25T10:57:45+01:00",
+      "last_published_at": "2026-11-25T11:15:14+01:00",
       "lead": {
         "id": "1206ee6a5b06",
         "schema_version": 1,
@@ -469,6 +482,18 @@
         }
       },
       "items": [
+        {
+          "id": "600e4404ee63",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/tva-man-atalas-for-mord-vid-badplats",
+          "published_at": "2026-11-25T11:15:14+01:00",
+          "sv": {
+            "title": "Två män åtalas för mord vid badplats"
+          },
+          "en": {
+            "title": "Two men charged with murder at bathing spot"
+          }
+        },
         {
           "id": "666b27bd08e0",
           "source": "dn",
@@ -899,95 +924,6 @@
       ]
     },
     {
-      "id": "1cd84443b940",
-      "source_count": 4,
-      "sources": [
-        "sydsvenskan",
-        "svt",
-        "svd",
-        "sr"
-      ],
-      "first_published_at": "2026-11-24T22:26:56+01:00",
-      "last_published_at": "2026-11-24T23:07:00+01:00",
-      "lead": {
-        "id": "1cd84443b940",
-        "schema_version": 1,
-        "source": "sydsvenskan",
-        "url": "https://www.sydsvenskan.se/noje/nick-carter-atalas-for-sexuella-overgrepp",
-        "guid": "215887af-8daf-4417-beaf-609f7b19f29e",
-        "published_at": "2026-11-24T22:26:56+01:00",
-        "fetched_at": "2026-11-24T22:31:01+01:00",
-        "category": "culture",
-        "image_url": "https://static.bonniernews.se/ba/14c1b8f2-0204-4cc7-b740-111f97e0b763.jpg?width=600",
-        "sv": {
-          "title": "Nick Carter åtalas för sexuella övergrepp",
-          "summary": "Backstreet Boys-sångaren Nick Carter åtalas för sexuella övergrepp som ska ha skett 2003. Den som stämmer honom är hans motspelerska i en skräckfilm, som vid tiden var 18 år gammal.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Nick Carter charged with sexual assault",
-          "summary": "Backstreet Boys singer Nick Carter is charged with sexual offences allegedly committed in 2003. The person bringing the claim is his co-star in a horror film, who was 18 years old at the time."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T22:31:04+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "2296188aa725",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9349492",
-          "published_at": "2026-11-24T23:07:00+01:00",
-          "sv": {
-            "title": "Backstreet Boys-stjärnan åtalas för sexualla övergrepp"
-          },
-          "en": {
-            "title": "Backstreet Boys star charged with sexual abuse"
-          }
-        },
-        {
-          "id": "4ed1429d4fe4",
-          "source": "svd",
-          "url": "https://www.svd.se/a/JnomXb/carter-atalas-for-sexuella-overgrepp",
-          "published_at": "2026-11-24T22:45:25+01:00",
-          "sv": {
-            "title": "Carter åtalas för sexuella övergrepp"
-          },
-          "en": {
-            "title": "Carter charged with sexual assault"
-          }
-        },
-        {
-          "id": "24b4e7fe079d",
-          "source": "svt",
-          "url": "https://www.svt.se/kultur/nick-carter-atalas-for-sexuella-overgrepp",
-          "published_at": "2026-11-24T22:27:52+01:00",
-          "sv": {
-            "title": "Nick Carter åtalas för sexuella övergrepp"
-          },
-          "en": {
-            "title": "Nick Carter charged with sexual assault"
-          }
-        },
-        {
-          "id": "1cd84443b940",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/noje/nick-carter-atalas-for-sexuella-overgrepp",
-          "published_at": "2026-11-24T22:26:56+01:00",
-          "sv": {
-            "title": "Nick Carter åtalas för sexuella övergrepp"
-          },
-          "en": {
-            "title": "Nick Carter charged with sexual assault"
-          }
-        }
-      ]
-    },
-    {
       "id": "99deffafb00b",
       "source_count": 3,
       "sources": [
@@ -1301,77 +1237,138 @@
       ]
     },
     {
-      "id": "08529b80e19a",
-      "source_count": 3,
+      "id": "1d8df1f3a91b",
+      "source_count": 2,
       "sources": [
-        "aftonbladet",
-        "svd",
-        "sydsvenskan"
+        "svt",
+        "di"
       ],
-      "first_published_at": "2026-11-24T23:08:59+01:00",
-      "last_published_at": "2026-11-24T23:10:35+01:00",
+      "first_published_at": "2026-11-25T10:40:52+01:00",
+      "last_published_at": "2026-11-25T11:13:18+01:00",
       "lead": {
-        "id": "08529b80e19a",
+        "id": "1d8df1f3a91b",
         "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/GPGW26/motesdeltagare-information-fran-c-ledning",
-        "guid": "https://www.aftonbladet.se/nyheter/a/GPGW26/motesdeltagare-information-fran-c-ledning?utm_medium=rss",
-        "published_at": "2026-11-24T23:08:59+01:00",
-        "fetched_at": "2026-11-24T23:15:44+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/38112073-2ac6-3696-addc-e4371ba7f628?format=auto&s=39f86659e5803d7ca8a314bb1f2804fb9491d0b8&w=1000",
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/smaland/orrefors-kosta-boda-avslutar-forhandlingarna-38-far-lamna-bolaget",
+        "guid": "https://www.svt.se/nyheter/lokalt/smaland/orrefors-kosta-boda-avslutar-forhandlingarna-38-far-lamna-bolaget",
+        "published_at": "2026-11-25T10:40:52+01:00",
+        "fetched_at": "2026-11-25T11:15:43+01:00",
+        "category": "economy",
         "sv": {
-          "title": "Mötesdeltagare: Information från C-ledning",
-          "summary": "Ett par av deltagarna vid tisdagskvällens stora möte för ledande företrädare för Centerpartiet säger…",
+          "title": "Orrefors Kosta Boda avslutar förhandlingarna – 38 får lämna bolaget",
+          "summary": "Orrefors Kosta Boda har avslutat förhandlingarna efter det varsel som lades i slutet av september och omfattade 15 tjänstemän och 40 arbetare vid huvudkontoret och glasbruket i Kosta. 38 medarbetare lämnar bolaget, enligt VD Isabella Jansson.",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Meeting participants: Information from C leadership",
-          "summary": "A few of the participants at Tuesday evening's large meeting for senior Centre Party officials tell…"
+          "title": "Orrefors Kosta Boda ends negotiations – 38 to leave the company",
+          "summary": "Orrefors Kosta Boda has ended negotiations following the notice of redundancy issued at the end of September, which covered 15 office staff and 40 workers at the head office and the Kosta glassworks. 38 employees are leaving the company, according to CEO Isabella Jansson."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T23:15:50+01:00"
+          "translated_at": "2026-11-25T11:15:55+01:00"
         }
       },
       "items": [
         {
-          "id": "168597fa7c6d",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/motesdeltagare-information-fran-c-ledning",
-          "published_at": "2026-11-24T23:10:35+01:00",
+          "id": "2a5432158bc7",
+          "source": "di",
+          "url": "https://www.di.se/live/orrefors-slutfor-uppsagningar-av-38-personer",
+          "published_at": "2026-11-25T11:13:18+01:00",
           "sv": {
-            "title": "Mötesdeltagare: Information från C-ledning"
+            "title": "Orrefors slutför uppsägningar av 38 personer"
           },
           "en": {
-            "title": "Meeting participants: Information from C leadership"
+            "title": "Orrefors completes redundancies of 38 people"
           }
         },
         {
-          "id": "600ad8b3f559",
-          "source": "svd",
-          "url": "https://www.svd.se/a/kMJnLB/motesdeltagare-information-fran-c-ledning",
-          "published_at": "2026-11-24T23:09:00+01:00",
+          "id": "1d8df1f3a91b",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/smaland/orrefors-kosta-boda-avslutar-forhandlingarna-38-far-lamna-bolaget",
+          "published_at": "2026-11-25T10:40:52+01:00",
           "sv": {
-            "title": "Mötesdeltagare: Information från C-ledning"
+            "title": "Orrefors Kosta Boda avslutar förhandlingarna – 38 får lämna bolaget"
           },
           "en": {
-            "title": "Meeting participants: Information from C leadership"
+            "title": "Orrefors Kosta Boda ends negotiations – 38 to leave the company"
           }
+        }
+      ]
+    },
+    {
+      "id": "735cd0faa70d",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-25T10:54:08+01:00",
+      "last_published_at": "2026-11-25T11:04:10+01:00",
+      "lead": {
+        "id": "735cd0faa70d",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/QroVQA/man-atalas-for-valdtakt-i-tjorns-kommun",
+        "guid": "https://www.aftonbladet.se/nyheter/a/QroVQA/man-atalas-for-valdtakt-i-tjorns-kommun?utm_medium=rss",
+        "published_at": "2026-11-25T10:54:08+01:00",
+        "fetched_at": "2026-11-25T11:15:45+01:00",
+        "category": "crime",
+        "image_url": "https://akamai.vgc.no/v2/images/dddb9cf5-bf49-36df-bdf4-ef1d221dabc4?format=auto&s=e793f50c7fc4142ef84f76dcf0d8ba06bd02c884&w=1000",
+        "sv": {
+          "title": "Finansman åtalas för grov våldtäkt på skärgårdsö",
+          "summary": "Svensk finansman greps i afrikansk önation",
+          "summary_origin": "feed"
         },
+        "en": {
+          "title": "Financier charged with aggravated rape on archipelago island",
+          "summary": "Swedish financier arrested in African island nation"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T11:15:55+01:00"
+        }
+      },
+      "items": [
         {
-          "id": "08529b80e19a",
+          "id": "aa88ed0c89b9",
           "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/GPGW26/motesdeltagare-information-fran-c-ledning",
-          "published_at": "2026-11-24T23:08:59+01:00",
+          "url": "https://www.aftonbladet.se/nyheter/a/WmbV4L/man-atalas-for-grov-valdtakt-pa-vastkusto",
+          "published_at": "2026-11-25T11:04:10+01:00",
           "sv": {
-            "title": "Mötesdeltagare: Information från C-ledning"
+            "title": "Man åtalas för grov våldtäkt på västkustö"
           },
           "en": {
-            "title": "Meeting participants: Information from C leadership"
+            "title": "Man charged with aggravated rape on west coast island"
+          }
+        },
+        {
+          "id": "488c0ef6ff9a",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/krim/finansman-atalas-for-grov-valdtakt",
+          "published_at": "2026-11-25T11:00:39+01:00",
+          "sv": {
+            "title": "Finansman åtalas för grov våldtäkt"
+          },
+          "en": {
+            "title": "Financier charged with aggravated rape"
+          }
+        },
+        {
+          "id": "735cd0faa70d",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/QroVQA/man-atalas-for-valdtakt-i-tjorns-kommun",
+          "published_at": "2026-11-25T10:54:08+01:00",
+          "sv": {
+            "title": "Finansman åtalas för grov våldtäkt på skärgårdsö"
+          },
+          "en": {
+            "title": "Financier charged with aggravated rape on archipelago island"
           }
         }
       ]
