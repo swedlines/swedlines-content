@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T18:31:26+01:00",
+  "generated_at": "2026-11-25T18:42:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "00c85b3df140",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/ovantade-gasten-dyker-upp-i-parlamentet-",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/ovantade-gasten-dyker-upp-i-parlamentet-",
+      "published_at": "2026-11-25T18:36:20+01:00",
+      "fetched_at": "2026-11-25T18:42:12+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Oväntade gästen mitt i parlamentet",
+        "summary": "Dyker upp med senatorn • Bilderna väcker uppmärksamhet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Unexpected guest in the middle of parliament",
+        "summary": "Shows up with the senator • The pictures attract attention"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T18:42:20+01:00"
+      }
+    },
     {
       "id": "f3c5be28e5ef",
       "schema_version": 1,
@@ -5164,32 +5190,6 @@
       "en": {
         "title": "\"Extremely slippery\"",
         "summary": "Four cars in collision on E18"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T12:16:00+01:00"
-      }
-    },
-    {
-      "id": "c499cb9629f8",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/skracken-norr-om-kiev-14-saknas-efter-attacken",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/skracken-norr-om-kiev-14-saknas-efter-attacken",
-      "published_at": "2026-11-22T12:04:04+01:00",
-      "fetched_at": "2026-11-22T12:15:47+01:00",
-      "category": "world",
-      "sv": {
-        "title": "14 saknas efter Putins anfall",
-        "summary": "Rysk robot slog ner • Desperata kampen för liv",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "14 missing after Putin's attack",
-        "summary": "Russian missile struck • Desperate struggle for life"
       },
       "translation": {
         "status": "done",

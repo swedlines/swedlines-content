@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-25T18:31:26+01:00",
+  "generated_at": "2026-11-25T18:42:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "00c85b3df140",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/ovantade-gasten-dyker-upp-i-parlamentet-",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/ovantade-gasten-dyker-upp-i-parlamentet-",
+      "published_at": "2026-11-25T18:36:20+01:00",
+      "fetched_at": "2026-11-25T18:42:12+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Oväntade gästen mitt i parlamentet",
+        "summary": "Dyker upp med senatorn • Bilderna väcker uppmärksamhet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Unexpected guest in the middle of parliament",
+        "summary": "Shows up with the senator • The pictures attract attention"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T18:42:20+01:00"
+      }
+    },
+    {
+      "id": "3cea4ff2c169",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-25-november-4",
+      "guid": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-25-november-4/",
+      "published_at": "2026-11-25T18:34:28+01:00",
+      "fetched_at": "2026-11-25T18:42:11+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/c72c929f-c074-40ee-9132-ef63d393855e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Noterat av DN:s läsare den 25 november",
+        "summary": "INSÄNDARE. Dagens Nyheters läsare ger sin syn på läget i Sverige och världen samt DN:s innehåll onsdagen den 25 november.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letter. Noted by DN's readers on 25 November",
+        "summary": "LETTER. Dagens Nyheter's readers give their view of the situation in Sweden and the world, and of DN's content, on Wednesday 25 November."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T18:42:20+01:00"
+      }
+    },
     {
       "id": "9a3453da2e51",
       "schema_version": 1,
@@ -5472,59 +5525,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T11:00:46+01:00"
-      }
-    },
-    {
-      "id": "570e35b1e1cf",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/familj/minnesord-om-christina-lindeman-da-silva",
-      "guid": "f5512cef-de16-4561-a477-8e801843fa60",
-      "published_at": "2026-11-16T09:39:25+01:00",
-      "fetched_at": "2026-11-16T09:45:44+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/93aee05b-4ca3-4472-bb3c-05f1a2200798.jpeg?width=600",
-      "sv": {
-        "title": "Minnesord om Christina Lindeman Da Silva",
-        "summary": "Christina Lindeman Da Silva, Malmö, gick bort den 17 september, 86 år gammal.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Obituary for Christina Lindeman Da Silva",
-        "summary": "Christina Lindeman Da Silva, Malmö, passed away on 17 September, aged 86."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:45:49+01:00"
-      }
-    },
-    {
-      "id": "a95c1968319c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/chockscenerna-vid-turistparlan-plotsligt-valler-de-upp-ur-havet",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/chockscenerna-vid-turistparlan-plotsligt-valler-de-upp-ur-havet",
-      "published_at": "2026-11-16T09:04:23+01:00",
-      "fetched_at": "2026-11-16T09:15:40+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Bibliska chocken från solkusten",
-        "summary": "Bilderna som förbryllar på Costa del Sol",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Biblical shock from the Costa del Sol",
-        "summary": "The pictures that puzzle on the Costa del Sol"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:15:48+01:00"
       }
     }
   ]
