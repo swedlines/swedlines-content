@@ -1,7 +1,90 @@
 {
-  "generated_at": "2026-11-25T21:34:00+01:00",
-  "count": 613,
+  "generated_at": "2026-11-25T21:45:51+01:00",
+  "count": 617,
   "items": [
+    {
+      "id": "a4a6361bce54",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/isak-ger-liverpool-ledningen-i-champions-league",
+      "guid": "08e9f868-b977-4806-acfa-596712160ed1",
+      "published_at": "2026-11-25T21:39:54+01:00",
+      "fetched_at": "2026-11-25T21:45:45+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/cb8aaa10-b9b1-4041-8e2e-d9d1489171f3.jpg?width=600",
+      "sv": {
+        "title": "Isak ger Liverpool ledningen i Champions League",
+        "summary": "Ett misstag kan bli dyrköpt om Alexander Isak spelar för motståndarlaget. Det fick belgiska Club Brügge erfara när svensken gav sitt Liverpool ledningen på bortaplan i Champions Leagues gruppspel.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Isak gives Liverpool the lead in the Champions League",
+        "summary": "A mistake can prove costly if Alexander Isak plays for the opposing team. That is what Belgian club Club Brügge experienced when the Swede gave his Liverpool the lead away in the Champions League group stage."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:45:49+01:00"
+      }
+    },
+    {
+      "id": "2db7e3744377",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/3BJyG0/kvinnor-i-turkiet-vill-se-slut-pa-dodligt-vald",
+      "guid": "https://www.aftonbladet.se/nyheter/a/3BJyG0/kvinnor-i-turkiet-vill-se-slut-pa-dodligt-vald?utm_medium=rss",
+      "published_at": "2026-11-25T21:34:11+01:00",
+      "fetched_at": "2026-11-25T21:45:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/dcba07f7-9e76-3c17-9b77-177d5969cf7d?format=auto&s=d8703125ceed30a79581a6aac912aa174adde671&w=1000",
+      "sv": {
+        "title": "Kvinnor i Turkiet vill se slut på dödligt våld",
+        "summary": "Tusentals har samlats runtom i Turkiet för att demonstrera mot våld riktat mot kvinnor – trots…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Women in Turkey want an end to deadly violence",
+        "summary": "Thousands have gathered across Turkey to demonstrate against violence aimed at women – despite…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:45:49+01:00"
+      }
+    },
+    {
+      "id": "6a0048e068a6",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3tuJ0JgjMjAyPD8bAA4zhK/thand-ringqvist-varnar-foer-extraval-i-laeckt-inspelning",
+      "guid": "3tuJ0JgjMjAyPD8bAA4zhK",
+      "published_at": "2026-11-25T21:32:29+01:00",
+      "fetched_at": "2026-11-25T21:45:44+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Thand Ringqvist varnar för extraval i läckt inspelning",
+        "summary": "Hermanrud: ”Argumenterar för högersväng” • Hör C-ledarens ord",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Thand Ringqvist warns of snap election in leaked recording",
+        "summary": "Hermanrud: “Argues for a shift to the right” • Listen to the Centre Party leader's words"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:45:49+01:00"
+      }
+    },
     {
       "id": "59e167a91314",
       "schema_version": 1,
@@ -53,6 +136,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T21:33:58+01:00"
+      }
+    },
+    {
+      "id": "b2a1928431fa",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1wm8PRVx4iwVGcBemGxjIH/bonden-sover-varannan-natt-med-tjejerna-tyst-oeverenskommelse",
+      "guid": "1wm8PRVx4iwVGcBemGxjIH",
+      "published_at": "2026-11-25T21:30:13+01:00",
+      "fetched_at": "2026-11-25T21:45:44+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nöje"
+      ],
+      "sv": {
+        "title": "Bonden sover varannan natt med tjejerna: ”Tyst överenskommelse”",
+        "summary": "När Patrik Bergquist har bjudit in vänner och familj till fest på gården i ”Bonde söker fru” avslöjar brevskrivaren Sandra Svensson för en av hans kompisar att hon och Caroline von Horn sover varannan natt i samma säng som bonden. – Ska man säga det? Vi turas om honom, säger hon och skrattar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The farmer sleeps with the women every other night: “Silent agreement”",
+        "summary": "When Patrik Bergquist has invited friends and family to a party at the farm on “Bonde söker fru”, letter writer Sandra Svensson reveals to one of his friends that she and Caroline von Horn sleep in the same bed as the farmer every other night. – Should we say that? We take turns with him, she says, laughing."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:45:49+01:00"
       }
     },
     {

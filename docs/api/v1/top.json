@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:34:00+01:00",
+  "generated_at": "2026-11-25T21:45:51+01:00",
   "count": 30,
   "stories": [
     {
@@ -1934,6 +1934,131 @@
       ]
     },
     {
+      "id": "641401af237a",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-25T21:15:29+01:00",
+      "last_published_at": "2026-11-25T21:39:54+01:00",
+      "lead": {
+        "id": "641401af237a",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/sport/fotboll/alexander-isak-slar-till-i-champions-league",
+        "guid": "https://www.svt.se/sport/fotboll/alexander-isak-slar-till-i-champions-league",
+        "published_at": "2026-11-25T21:15:29+01:00",
+        "fetched_at": "2026-11-25T21:31:03+01:00",
+        "category": "sports",
+        "sv": {
+          "title": "Alexander Isak slår till i Champions League",
+          "summary": "Alexander Isak, 27, är stekhet. Anfallsstjärnan gav Liverpool ledningen borta mot Club Brügge i Champions League.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Alexander Isak strikes in Champions League",
+          "summary": "Alexander Isak, 27, is on fire. The striker gave Liverpool the lead away to Club Brügge in the Champions League."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T21:31:12+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "a4a6361bce54",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/isak-ger-liverpool-ledningen-i-champions-league",
+          "published_at": "2026-11-25T21:39:54+01:00",
+          "sv": {
+            "title": "Isak ger Liverpool ledningen i Champions League"
+          },
+          "en": {
+            "title": "Isak gives Liverpool the lead in the Champions League"
+          }
+        },
+        {
+          "id": "641401af237a",
+          "source": "svt",
+          "url": "https://www.svt.se/sport/fotboll/alexander-isak-slar-till-i-champions-league",
+          "published_at": "2026-11-25T21:15:29+01:00",
+          "sv": {
+            "title": "Alexander Isak slår till i Champions League"
+          },
+          "en": {
+            "title": "Alexander Isak strikes in Champions League"
+          }
+        }
+      ]
+    },
+    {
+      "id": "443346030b60",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "tv4"
+      ],
+      "first_published_at": "2026-11-25T11:52:27+01:00",
+      "last_published_at": "2026-11-25T21:32:29+01:00",
+      "lead": {
+        "id": "443346030b60",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/EbWGQ3/c-ledaren-varnar-for-extraval-i-lackt-inspelning",
+        "guid": "https://www.aftonbladet.se/nyheter/a/EbWGQ3/c-ledaren-varnar-for-extraval-i-lackt-inspelning?utm_medium=rss",
+        "published_at": "2026-11-25T11:52:27+01:00",
+        "fetched_at": "2026-11-25T12:31:02+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/dcde2e4a-dfc0-34e0-b0df-7a5291b4f50b?format=auto&s=f08842a26c31c32da11cdf6f4c46f07a3fd0bc68&w=1000",
+        "sv": {
+          "title": "C-ledaren varnar för extraval i läckt inspelning",
+          "summary": "Spreds från internt stormöte",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "The C leader warns of snap election in leaked recording",
+          "summary": "Leaked from internal stormy meeting"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T12:31:13+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "6a0048e068a6",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/3tuJ0JgjMjAyPD8bAA4zhK/thand-ringqvist-varnar-foer-extraval-i-laeckt-inspelning",
+          "published_at": "2026-11-25T21:32:29+01:00",
+          "sv": {
+            "title": "Thand Ringqvist varnar för extraval i läckt inspelning"
+          },
+          "en": {
+            "title": "Thand Ringqvist warns of snap election in leaked recording"
+          }
+        },
+        {
+          "id": "443346030b60",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/EbWGQ3/c-ledaren-varnar-for-extraval-i-lackt-inspelning",
+          "published_at": "2026-11-25T11:52:27+01:00",
+          "sv": {
+            "title": "C-ledaren varnar för extraval i läckt inspelning"
+          },
+          "en": {
+            "title": "The C leader warns of snap election in leaked recording"
+          }
+        }
+      ]
+    },
+    {
       "id": "2f733edc5ddc",
       "source_count": 2,
       "sources": [
@@ -2531,131 +2656,6 @@
           },
           "en": {
             "title": "Kristersson: Talks held with the Alliance parties"
-          }
-        }
-      ]
-    },
-    {
-      "id": "51acf7c28c5b",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-25T17:23:48+01:00",
-      "last_published_at": "2026-11-25T17:37:07+01:00",
-      "lead": {
-        "id": "51acf7c28c5b",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/3BJyBL/undersokning-c-har-skott-regeringsbildningen-samst",
-        "guid": "https://www.aftonbladet.se/nyheter/a/3BJyBL/undersokning-c-har-skott-regeringsbildningen-samst?utm_medium=rss",
-        "published_at": "2026-11-25T17:23:48+01:00",
-        "fetched_at": "2026-11-25T17:31:05+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/12aef6c2-6d1b-3896-a91d-fbc0ac541349?format=auto&s=0fd1102e5ca891314f45f24aad3b892327d61982&w=1000",
-        "sv": {
-          "title": "Undersökning: C har skött regeringsbildningen sämst",
-          "summary": "Centerpartiet är det parti som har agerat sämst under regeringsbildningen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Survey: C has handled the government formation worst",
-          "summary": "The Centre Party is the party that has performed worst during the government formation."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T17:31:19+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "da25db592873",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/undersokning-c-har-skott-regeringsbildningen-samst",
-          "published_at": "2026-11-25T17:37:07+01:00",
-          "sv": {
-            "title": "Undersökning: C har skött regeringsbildningen sämst"
-          },
-          "en": {
-            "title": "Poll: C has handled the government formation worst"
-          }
-        },
-        {
-          "id": "51acf7c28c5b",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/3BJyBL/undersokning-c-har-skott-regeringsbildningen-samst",
-          "published_at": "2026-11-25T17:23:48+01:00",
-          "sv": {
-            "title": "Undersökning: C har skött regeringsbildningen sämst"
-          },
-          "en": {
-            "title": "Survey: C has handled the government formation worst"
-          }
-        }
-      ]
-    },
-    {
-      "id": "dcf5b94527de",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-25T16:09:02+01:00",
-      "last_published_at": "2026-11-25T17:16:25+01:00",
-      "lead": {
-        "id": "dcf5b94527de",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/sverige/dadgostars-brev-till-v-medlemmarna-hade-verkligen-hoppats",
-        "guid": "https://www.expressen.se/nyheter/sverige/dadgostars-brev-till-v-medlemmarna-hade-verkligen-hoppats/",
-        "published_at": "2026-11-25T16:09:02+01:00",
-        "fetched_at": "2026-11-25T16:15:48+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Dadgostars brev till V-medlemmarna: ”Hade verkligen hoppats”",
-          "summary": "De rödgröna regeringsförhandlingarna brakade samman – i stället för C samtal om en borgerlig regering. Nu vädjar V-ledaren Nooshi Dadgostar i ett brev till partimedlemmarna att hålla huvudet högt.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Dadgostar's letter to Left Party members: \"Had really hoped\"",
-          "summary": "The red-green government negotiations collapsed – instead of C, talks about a bourgeois government. Now Left Party leader Nooshi Dadgostar urges party members in a letter to keep their heads held high."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T16:15:54+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "e156f60ce36d",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/j3d4lb/dadgostar-v-till-medlemmarna-hall-huvudet-hogt",
-          "published_at": "2026-11-25T17:16:25+01:00",
-          "sv": {
-            "title": "Dadgostar (V) till medlemmarna: ”Håll huvudet högt”"
-          },
-          "en": {
-            "title": "Dadgostar (V) to members: ”Keep your head held high”"
-          }
-        },
-        {
-          "id": "dcf5b94527de",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/sverige/dadgostars-brev-till-v-medlemmarna-hade-verkligen-hoppats",
-          "published_at": "2026-11-25T16:09:02+01:00",
-          "sv": {
-            "title": "Dadgostars brev till V-medlemmarna: ”Hade verkligen hoppats”"
-          },
-          "en": {
-            "title": "Dadgostar's letter to Left Party members: \"Had really hoped\""
           }
         }
       ]

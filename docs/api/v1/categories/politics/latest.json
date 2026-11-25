@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-25T21:34:00+01:00",
+  "generated_at": "2026-11-25T21:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6a0048e068a6",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3tuJ0JgjMjAyPD8bAA4zhK/thand-ringqvist-varnar-foer-extraval-i-laeckt-inspelning",
+      "guid": "3tuJ0JgjMjAyPD8bAA4zhK",
+      "published_at": "2026-11-25T21:32:29+01:00",
+      "fetched_at": "2026-11-25T21:45:44+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Thand Ringqvist varnar för extraval i läckt inspelning",
+        "summary": "Hermanrud: ”Argumenterar för högersväng” • Hör C-ledarens ord",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Thand Ringqvist warns of snap election in leaked recording",
+        "summary": "Hermanrud: “Argues for a shift to the right” • Listen to the Centre Party leader's words"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:45:49+01:00"
+      }
+    },
     {
       "id": "4c59bc64942e",
       "schema_version": 1,
@@ -5373,33 +5402,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T11:16:01+01:00"
-      }
-    },
-    {
-      "id": "eef8cbeb0314",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Qro6xq/ilska-bland-centerpartister-efter-vandningen-svek",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Qro6xq/ilska-bland-centerpartister-efter-vandningen-svek?utm_medium=rss",
-      "published_at": "2026-11-24T10:55:29+01:00",
-      "fetched_at": "2026-11-24T11:01:08+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/1c2a80b3-c7f1-3513-8aa1-e46725cc4c32?format=auto&s=5c681a09e5c9125daad75e5536820c562e3ae6e3&w=1000",
-      "sv": {
-        "title": "Ilska bland centerpartister efter vändningen: ”Svek”",
-        "summary": "Ska samtala högerut ✓ Centerpartister rasar",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anger among Centre Party members after the turnaround: \"Betrayal\"",
-        "summary": "Will talk to the right ✓ Centre Party members rage"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T11:01:13+01:00"
       }
     }
   ]

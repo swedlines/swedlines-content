@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T21:34:00+01:00",
+  "generated_at": "2026-11-25T21:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2db7e3744377",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/3BJyG0/kvinnor-i-turkiet-vill-se-slut-pa-dodligt-vald",
+      "guid": "https://www.aftonbladet.se/nyheter/a/3BJyG0/kvinnor-i-turkiet-vill-se-slut-pa-dodligt-vald?utm_medium=rss",
+      "published_at": "2026-11-25T21:34:11+01:00",
+      "fetched_at": "2026-11-25T21:45:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/dcba07f7-9e76-3c17-9b77-177d5969cf7d?format=auto&s=d8703125ceed30a79581a6aac912aa174adde671&w=1000",
+      "sv": {
+        "title": "Kvinnor i Turkiet vill se slut på dödligt våld",
+        "summary": "Tusentals har samlats runtom i Turkiet för att demonstrera mot våld riktat mot kvinnor – trots…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Women in Turkey want an end to deadly violence",
+        "summary": "Thousands have gathered across Turkey to demonstrate against violence aimed at women – despite…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:45:49+01:00"
+      }
+    },
     {
       "id": "87c4e44af855",
       "schema_version": 1,
@@ -5331,32 +5358,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T17:01:18+01:00"
-      }
-    },
-    {
-      "id": "a06986e7a683",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348200",
-      "guid": "rss:sr.se/article/9348200",
-      "published_at": "2026-11-23T16:32:00+01:00",
-      "fetched_at": "2026-11-23T16:45:43+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Nya uppgifter om Nvidia-skandalen: Spionkontakt i över ett år",
-        "summary": "Den kvinna som står i centrum för spionskandalen kring chipföretaget Nvidias vd Jensen Huang, ska ha haft kontakt med en kinesisk agent under över ett års tid. Det uppger underrättelsekällor för New York Times.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "New details on the Nvidia scandal: Spy contact for over a year",
-        "summary": "The woman at the centre of the spy scandal surrounding chip company Nvidia's CEO Jensen Huang reportedly had contact with a Chinese agent for over a year. This is according to intelligence sources speaking to The New York Times."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T16:45:50+01:00"
       }
     }
   ]
