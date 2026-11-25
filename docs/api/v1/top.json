@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T03:15:52+01:00",
-  "count": 29,
+  "generated_at": "2026-11-25T03:31:04+01:00",
+  "count": 30,
   "stories": [
     {
       "id": "bc9e35a4d1b8",
@@ -778,6 +778,81 @@
       ]
     },
     {
+      "id": "8554f9f6a160",
+      "source_count": 3,
+      "sources": [
+        "svd",
+        "aftonbladet",
+        "svt"
+      ],
+      "first_published_at": "2026-11-25T02:39:14+01:00",
+      "last_published_at": "2026-11-25T02:57:59+01:00",
+      "lead": {
+        "id": "8554f9f6a160",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/2vG67R/pakistanier-ombord-pa-kinesisk-raket",
+        "guid": "https://www.svd.se/a/2vG67R/pakistanier-ombord-pa-kinesisk-raket?utm_medium=rss",
+        "published_at": "2026-11-25T02:39:14+01:00",
+        "fetched_at": "2026-11-25T02:45:48+01:00",
+        "category": "science_tech",
+        "sv": {
+          "title": "Pakistanier ombord på kinesisk raket",
+          "summary": "Kina har för första gången skjutit upp en raket med en utländsk astronaut ombord.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Pakistani on board Chinese rocket",
+          "summary": "China has for the first time launched a rocket with a foreign astronaut on board."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T02:45:53+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "efa379979b90",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/utrikes/pakistanier-ombord-pa-kinesisk-raket",
+          "published_at": "2026-11-25T02:57:59+01:00",
+          "sv": {
+            "title": "Pakistanier ombord på kinesisk raket"
+          },
+          "en": {
+            "title": "Pakistani on board Chinese rocket"
+          }
+        },
+        {
+          "id": "8fdfb3d8681d",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/oMprOj/pakistanier-ombord-pa-kinesisk-raket",
+          "published_at": "2026-11-25T02:39:14+01:00",
+          "sv": {
+            "title": "Pakistanier ombord på kinesisk raket"
+          },
+          "en": {
+            "title": "Pakistani on board Chinese rocket"
+          }
+        },
+        {
+          "id": "8554f9f6a160",
+          "source": "svd",
+          "url": "https://www.svd.se/a/2vG67R/pakistanier-ombord-pa-kinesisk-raket",
+          "published_at": "2026-11-25T02:39:14+01:00",
+          "sv": {
+            "title": "Pakistanier ombord på kinesisk raket"
+          },
+          "en": {
+            "title": "Pakistani on board Chinese rocket"
+          }
+        }
+      ]
+    },
+    {
       "id": "08529b80e19a",
       "source_count": 3,
       "sources": [
@@ -1532,68 +1607,6 @@
       ]
     },
     {
-      "id": "8554f9f6a160",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-25T02:39:14+01:00",
-      "last_published_at": "2026-11-25T02:39:14+01:00",
-      "lead": {
-        "id": "8554f9f6a160",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/2vG67R/pakistanier-ombord-pa-kinesisk-raket",
-        "guid": "https://www.svd.se/a/2vG67R/pakistanier-ombord-pa-kinesisk-raket?utm_medium=rss",
-        "published_at": "2026-11-25T02:39:14+01:00",
-        "fetched_at": "2026-11-25T02:45:48+01:00",
-        "category": "science_tech",
-        "sv": {
-          "title": "Pakistanier ombord på kinesisk raket",
-          "summary": "Kina har för första gången skjutit upp en raket med en utländsk astronaut ombord.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Pakistani on board Chinese rocket",
-          "summary": "China has for the first time launched a rocket with a foreign astronaut on board."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T02:45:53+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "8fdfb3d8681d",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/oMprOj/pakistanier-ombord-pa-kinesisk-raket",
-          "published_at": "2026-11-25T02:39:14+01:00",
-          "sv": {
-            "title": "Pakistanier ombord på kinesisk raket"
-          },
-          "en": {
-            "title": "Pakistani on board Chinese rocket"
-          }
-        },
-        {
-          "id": "8554f9f6a160",
-          "source": "svd",
-          "url": "https://www.svd.se/a/2vG67R/pakistanier-ombord-pa-kinesisk-raket",
-          "published_at": "2026-11-25T02:39:14+01:00",
-          "sv": {
-            "title": "Pakistanier ombord på kinesisk raket"
-          },
-          "en": {
-            "title": "Pakistani on board Chinese rocket"
-          }
-        }
-      ]
-    },
-    {
       "id": "2586ba487ac4",
       "source_count": 2,
       "sources": [
@@ -1651,6 +1664,69 @@
           },
           "en": {
             "title": "Deadly attacks in Ukraine"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3577a1c2104",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "svt"
+      ],
+      "first_published_at": "2026-11-25T01:04:33+01:00",
+      "last_published_at": "2026-11-25T01:06:16+01:00",
+      "lead": {
+        "id": "b3577a1c2104",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/KL35A5/huawei-doms-i-usa",
+        "guid": "https://www.svd.se/a/KL35A5/huawei-doms-i-usa?utm_medium=rss",
+        "published_at": "2026-11-25T01:04:33+01:00",
+        "fetched_at": "2026-11-25T01:15:45+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/b3b498f1-7590-3446-956d-e89baab5eaf4?format=auto&s=89ca3c91d4d2bdc341f9d7021b1de8d41fc8f83d&w=1000",
+        "sv": {
+          "title": "Huawei döms i USA",
+          "summary": "Huawei har bland annat dömts för att ha haft upplägg för att stjäla handelshemligheter, rapporterar…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Huawei convicted in the US",
+          "summary": "Huawei has, among other things, been convicted of having schemes to steal trade secrets, reports…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T01:15:49+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "a108e6b3cea8",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/utrikes/huawei-doms-i-usa",
+          "published_at": "2026-11-25T01:06:16+01:00",
+          "sv": {
+            "title": "Huawei döms i USA"
+          },
+          "en": {
+            "title": "Huawei convicted in the US"
+          }
+        },
+        {
+          "id": "b3577a1c2104",
+          "source": "svd",
+          "url": "https://www.svd.se/a/KL35A5/huawei-doms-i-usa",
+          "published_at": "2026-11-25T01:04:33+01:00",
+          "sv": {
+            "title": "Huawei döms i USA"
+          },
+          "en": {
+            "title": "Huawei convicted in the US"
           }
         }
       ]

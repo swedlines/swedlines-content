@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T03:15:52+01:00",
+  "generated_at": "2026-11-25T03:31:04+01:00",
   "count": 200,
   "items": [
     {
@@ -26,6 +26,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T03:01:19+01:00"
+      }
+    },
+    {
+      "id": "efa379979b90",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/pakistanier-ombord-pa-kinesisk-raket",
+      "guid": "https://www.svt.se/nyheter/utrikes/pakistanier-ombord-pa-kinesisk-raket",
+      "published_at": "2026-11-25T02:57:59+01:00",
+      "fetched_at": "2026-11-25T03:30:55+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Pakistanier ombord på kinesisk raket",
+        "summary": "Kina har för första gången skjutit upp en raket med en utländsk astronaut ombord.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pakistani on board Chinese rocket",
+        "summary": "China has for the first time launched a rocket with a foreign astronaut on board."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T03:31:02+01:00"
       }
     },
     {
@@ -182,6 +208,29 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T01:45:48+01:00"
+      }
+    },
+    {
+      "id": "a108e6b3cea8",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/huawei-doms-i-usa",
+      "guid": "https://www.svt.se/nyheter/utrikes/huawei-doms-i-usa",
+      "published_at": "2026-11-25T01:06:16+01:00",
+      "fetched_at": "2026-11-25T03:30:55+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Huawei döms i USA"
+      },
+      "en": {
+        "title": "Huawei convicted in the US"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T03:31:02+01:00"
       }
     },
     {
@@ -5353,60 +5402,6 @@
       "en": {
         "title": "Verdict after chaotic final – Senegal gets the title",
         "summary": "The final ended in chaos and confusion – and now, almost a year later, the Court of Arbitration for Sport (Cas) has issued its ruling: Senegal is awarded victory in the 2025 Africa Cup of Nations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "dc2b6a99ba06",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/sbb-s-nya-vd-sa-tacklar-vi-miljardskulden",
-      "guid": "ccc6d4e3-8c44-4586-92b4-dc5414d90648",
-      "published_at": "2026-11-24T15:56:39+01:00",
-      "fetched_at": "2026-11-24T16:15:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/4146bd9d-e879-4c21-8dd8-51082f5b3ea4.jpeg?width=600",
-      "sv": {
-        "title": "SBB:s nya vd: Så tacklar vi miljardskulden",
-        "summary": "Att alla tre kärninnehav nu ska dela ut gör att SBB kan hantera sin fortsatt för höga skuldsättning, enligt den nya vd:n Andreas Morfiadakis. ”Vi tycker att det är en milstolpe”, säger han.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "SBB's new CEO: This is how we will tackle the billion-kronor debt",
-        "summary": "That all three core holdings will now pay out dividends means SBB can manage its still-too-high debt levels, according to the new CEO Andreas Morfiadakis. \"We think this is a milestone\", he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:15:55+01:00"
-      }
-    },
-    {
-      "id": "5bd5c00ae4d2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/naringsliv/kraftverk-for-tre-miljarder-ska-byggas-i-malmo-kan-fa-ner-elpriset",
-      "guid": "fe7f07dd-65a9-402a-9dbe-af18d5b34c26",
-      "published_at": "2026-11-24T15:54:34+01:00",
-      "fetched_at": "2026-11-24T16:01:17+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0376c2f0-47e0-419e-8b46-c133c1c8bf90.jpeg?width=600",
-      "sv": {
-        "title": "Kraftverk för tre miljarder ska byggas i Malmö – kan få ner elpriset",
-        "summary": "Eon får 320 miljoner i statligt stöd för att bygga ett nytt kraftvärmeverk i Oljehamnen i Malmö. Tremiljardersbygget ska kunna producera el för uppemot 10 000 villor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Power plant worth three billion to be built in Malmö – could lower electricity prices",
-        "summary": "Eon receives SEK 320 million in state aid to build a new combined heat and power plant at Oljehamnen in Malmö. The multi-billion project is expected to produce electricity for up to 10,000 villas."
       },
       "translation": {
         "status": "done",
