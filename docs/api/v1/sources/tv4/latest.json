@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-25T13:15:56+01:00",
+  "generated_at": "2026-11-25T13:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "55f67573615d",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/18xPhIvvPFYgwNfpKBHHBT/sa-undviker-du-att-braenna-hela-loenen-foere-jul",
+      "guid": "18xPhIvvPFYgwNfpKBHHBT",
+      "published_at": "2026-11-25T12:26:11+01:00",
+      "fetched_at": "2026-11-25T13:31:03+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Nyhetsmorgon"
+      ],
+      "sv": {
+        "title": "Så undviker du att bränna hela lönen före jul",
+        "summary": "I dag är det löningsonsdag och samtidigt kliver vi in i perioden då vi svenskar spenderar som mest pengar – med Black friday och julen runt hörnet. – Köpkraften har stärkts. Julen är viktig för de allra flesta familjer här i Sverige, man vill ju verkligen satsa på julen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "How to avoid burning through your whole salary before Christmas",
+        "summary": "Today is payday Wednesday, and at the same time we are entering the period when Swedes spend the most money – with Black Friday and Christmas around the corner. – Purchasing power has strengthened. Christmas is important for most families here in Sweden, you really want to splurge on Christmas."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T13:31:08+01:00"
+      }
+    },
     {
       "id": "390d74726cde",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T13:31:17+01:00"
-      }
-    },
-    {
-      "id": "44d73f9e45de",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/65d3PlXBj5arP43VM20KA7/haer-aer-baesta-sexleksaken-alla-kvinnor-fick-orgasm",
-      "guid": "65d3PlXBj5arP43VM20KA7",
-      "published_at": "2026-11-17T11:39:35+01:00",
-      "fetched_at": "2026-11-17T12:15:46+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nyhetsmorgon"
-      ],
-      "sv": {
-        "title": "Här är bästa sexleksaken: ”Alla fick orgasm”",
-        "summary": "Testfakta har undersökt åtta olika sexleksaker, dels via en panel och dels i laboratorium. Kvinnorna i testpanelen har fått bedöma njutning och effekt, man har även tittat på användarvänlighet och produkternas ljudnivå och utformning.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Here is the best sex toy: “Everyone got an orgasm”",
-        "summary": "Testfakta has examined eight different sex toys, partly through a panel and partly in a laboratory. Women on the test panel have rated pleasure and effect, and the tests also looked at ease of use, noise level and design of the products."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:16:04+01:00"
       }
     }
   ]

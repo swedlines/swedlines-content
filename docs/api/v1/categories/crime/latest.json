@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T13:15:56+01:00",
+  "generated_at": "2026-11-25T13:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4bb4620bbd56",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/GPGdqx/massor-valdtog-kvinna-doms",
+      "guid": "https://www.aftonbladet.se/nyheter/a/GPGdqx/massor-valdtog-kvinna-doms?utm_medium=rss",
+      "published_at": "2026-11-25T13:20:25+01:00",
+      "fetched_at": "2026-11-25T13:31:03+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/9de94f0d-c7e2-3f92-8f3f-1f9004b1ce78?format=auto&s=9f720dfb18d5ab1e0555c91f945276070a6dc226&w=1000",
+      "sv": {
+        "title": "Massör våldtog kvinna – döms",
+        "summary": "En massör i Västerås döms till fängelse i tre år och fyra månader för våldtäkt och sexuellt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Massage therapist convicted of raping woman",
+        "summary": "A massage therapist in Västerås is sentenced to three years and four months in prison for rape and sexual…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T13:31:08+01:00"
+      }
+    },
     {
       "id": "fa6216f43021",
       "schema_version": 1,
@@ -5391,32 +5418,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T17:15:55+01:00"
-      }
-    },
-    {
-      "id": "cd9efccc3408",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/planen-morda--ukrainsk-rappare",
-      "guid": "https://www.expressen.se/nyheter/varlden/planen-morda--ukrainsk-rappare/",
-      "published_at": "2026-11-20T16:48:25+01:00",
-      "fetched_at": "2026-11-20T17:01:23+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Planen: Mörda ukrainsk rappare",
-        "summary": "Två danskar har häktats som misstänkta för en mordkomplott mot den ukrainske rapparen ”Kyivstoner”, rapporterar DR. Den ryska underrättelsetjänsten misstänks ha gett dem uppdraget. Men männen greps kort före artistens konsert.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The plot: Murder Ukrainian rapper",
-        "summary": "Two Danes have been remanded in custody as suspects in a murder plot against the Ukrainian rapper \"Kyivstoner\", reports DR. Russian intelligence is suspected of having commissioned them. But the men were arrested shortly before the artist's concert."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T17:01:35+01:00"
       }
     }
   ]

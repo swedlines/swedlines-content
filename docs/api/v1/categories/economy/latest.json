@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T13:15:56+01:00",
+  "generated_at": "2026-11-25T13:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a643be58a41b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ledare/lat-den-ekonomiska-politiken-vinna",
+      "guid": "f06477bd-d753-4d7f-adf5-a7faad20088f",
+      "published_at": "2026-11-25T13:18:56+01:00",
+      "fetched_at": "2026-11-25T13:31:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/36a8bd59-06de-4714-8966-75aa9b46290b.jpeg?width=600",
+      "sv": {
+        "title": "Låt den ekonomiska politiken vinna",
+        "summary": "För att finansiera välfärden och utbyggnaden av försvaret måste Sverige öka sin tillväxt. Det gör en borgerlig regering bäst.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Let economic policy win",
+        "summary": "To finance welfare and the expansion of the defence sector, Sweden must increase its growth. A centre-right government is best placed to do that."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T13:31:08+01:00"
+      }
+    },
     {
       "id": "b120374c5e48",
       "schema_version": 1,
@@ -79,6 +106,41 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T13:15:54+01:00"
+      }
+    },
+    {
+      "id": "de0e82fbf231",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/ekonomi/nya-miljardforluster-for-polestar.906c8535-9067-53c1-930d-efb1fe6c729f",
+      "guid": "906c8535-9067-53c1-930d-efb1fe6c729f",
+      "published_at": "2026-11-25T13:01:18+01:00",
+      "fetched_at": "2026-11-25T13:31:04+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi",
+        "Tagg: Polestar",
+        "Tagg: Michael Lohscheller",
+        "Tagg: Aktier",
+        "Tagg: USA",
+        "Tagg: Kvartalsrapport"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/a3b63c2a-6518-38e7-ac29-bad4611e28a6",
+      "sv": {
+        "title": "Ny brakförlust för Polestar",
+        "summary": "Så vill märket vända krisen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New heavy loss for Polestar",
+        "summary": "This is how the brand wants to reverse the crisis."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T13:31:08+01:00"
       }
     },
     {
@@ -340,6 +402,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T12:45:58+01:00"
+      }
+    },
+    {
+      "id": "55f67573615d",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/18xPhIvvPFYgwNfpKBHHBT/sa-undviker-du-att-braenna-hela-loenen-foere-jul",
+      "guid": "18xPhIvvPFYgwNfpKBHHBT",
+      "published_at": "2026-11-25T12:26:11+01:00",
+      "fetched_at": "2026-11-25T13:31:03+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Nyhetsmorgon"
+      ],
+      "sv": {
+        "title": "Så undviker du att bränna hela lönen före jul",
+        "summary": "I dag är det löningsonsdag och samtidigt kliver vi in i perioden då vi svenskar spenderar som mest pengar – med Black friday och julen runt hörnet. – Köpkraften har stärkts. Julen är viktig för de allra flesta familjer här i Sverige, man vill ju verkligen satsa på julen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "How to avoid burning through your whole salary before Christmas",
+        "summary": "Today is payday Wednesday, and at the same time we are entering the period when Swedes spend the most money – with Black Friday and Christmas around the corner. – Purchasing power has strengthened. Christmas is important for most families here in Sweden, you really want to splurge on Christmas."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T13:31:08+01:00"
       }
     },
     {
@@ -5202,86 +5293,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T14:45:55+01:00"
-      }
-    },
-    {
-      "id": "463466434725",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/m-hack-i-hal-pa-s-i-ny-matning",
-      "guid": "5e57bc65-ce9f-452f-858c-87b14045d735",
-      "published_at": "2026-11-24T14:31:01+01:00",
-      "fetched_at": "2026-11-24T14:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7c8d0922-32fb-4e50-967a-a4d68f464318.jpeg?width=600",
-      "sv": {
-        "title": "M hack i häl på S i ny mätning",
-        "summary": "Moderaterna får sin högsta notering på nästan åtta år och avståndet till Socialdemokraterna är nu inom felmarginalen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "M hot on S's heels in new poll",
-        "summary": "The Moderates get their highest rating in almost eight years, and the gap to the Social Democrats is now within the margin of error."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:45:55+01:00"
-      }
-    },
-    {
-      "id": "73b1b5d8aa2a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kallor-usa-forbereder-hojda-tullar",
-      "guid": "95ffef13-88ba-4e4d-8af4-5fe3f46a1492",
-      "published_at": "2026-11-24T14:30:47+01:00",
-      "fetched_at": "2026-11-24T14:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/376bbfe1-300b-4226-9ebf-1e015d836702.jpeg?width=600",
-      "sv": {
-        "title": "Källor: USA förbereder höjda tullar",
-        "summary": "USA förbereder sig på att höja tullarna mot Kina och dussintals andra länder. Det rapporterar Wall Street Journal med hänvisning till källor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sources: US preparing higher tariffs",
-        "summary": "The US is preparing to raise tariffs on China and dozens of other countries. The Wall Street Journal reports this, citing sources."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:45:55+01:00"
-      }
-    },
-    {
-      "id": "b390dd51b973",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/postnord-hojer-priserna-dyrare-att-skicka-brev",
-      "guid": "https://www.expressen.se/nyheter/sverige/postnord-hojer-priserna-dyrare-att-skicka-brev/",
-      "published_at": "2026-11-24T14:26:14+01:00",
-      "fetched_at": "2026-11-24T14:31:00+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Postnord höjer priserna – dyrare att skicka brev",
-        "summary": "Det blir dyrare att skicka brev. Postnord höjer – och sänker – priserna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Postnord raises prices – more expensive to send letters",
-        "summary": "It will become more expensive to send letters. Postnord is raising – and lowering – prices."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:31:07+01:00"
       }
     }
   ]
