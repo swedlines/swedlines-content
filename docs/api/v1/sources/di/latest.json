@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T20:31:24+01:00",
+  "generated_at": "2026-11-25T20:37:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f39eca24c802",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/stark-aterhamtning-pa-wall-street",
+      "guid": "6af1e744-6335-42e3-9f53-ad104008fa5a",
+      "published_at": "2026-11-25T20:31:31+01:00",
+      "fetched_at": "2026-11-25T20:37:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/7404840d-0f18-4790-840e-eb0b27c82ee2.jpeg?width=600",
+      "sv": {
+        "title": "Stark återhämtning på Wall Street",
+        "summary": "De kraftiga nedgångarna på Wall Street har mildrats rejält. Dow Jones handlas på plus samtidigt som S&P 500 klättrar mot nollan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Strong recovery on Wall Street",
+        "summary": "The steep declines on Wall Street have been substantially eased. The Dow Jones is trading in positive territory while the S&P 500 is climbing toward zero."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:37:08+01:00"
+      }
+    },
     {
       "id": "eb561f6985f1",
       "schema_version": 1,
@@ -5303,33 +5330,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T15:31:10+01:00"
-      }
-    },
-    {
-      "id": "5f6224572f0b",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/rekyl-i-korten-efter-rallyt-pa-wall-streets",
-      "guid": "e498376a-2a36-4bb7-aa16-45be0699f56d",
-      "published_at": "2026-11-24T15:10:44+01:00",
-      "fetched_at": "2026-11-24T15:15:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d76f8456-1aba-4f87-8d6d-e928cbd0dc00.jpeg?width=600",
-      "sv": {
-        "title": "Rekyl i korten efter rallyt på Wall Streets",
-        "summary": "Terminerna på Wall Street indikerade en öppning i rött territorium på tisdagen. Efter det börsrally som på måndagen utlöstes av Jensen Huangs återvändande till vd-posten för chipjätten Nvidia, har nu ny oro över AI-sektorns lönsamhet sakta kommit tillbaka.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stocks pull back after Wall Street rally",
-        "summary": "Wall Street futures indicated a opening in red territory on Tuesday. Following the stock rally on Monday triggered by Jensen Huang's return as CEO of chip giant Nvidia, new concern over the profitability of the AI sector has slowly returned."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T15:15:56+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T20:31:24+01:00",
+  "generated_at": "2026-11-25T20:37:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a2c43b24702e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/41-centerpartister-oppnar-for-kristersson",
+      "guid": "https://www.expressen.se/nyheter/politik/41-centerpartister-oppnar-for-kristersson/",
+      "published_at": "2026-11-25T20:33:20+01:00",
+      "fetched_at": "2026-11-25T20:37:03+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "41 centerpartister öppnar för Kristersson",
+        "summary": "Det är dags att pröva Ulf Kristerssons regeringsalternativ. Det anser 41 lokala centerpartister i en debattartikel i Expressen. ”Är det något vi lärt oss under de senaste 70 dagarna är att det inte går att förhandla med Vänsterpartiet”, skriver undertecknarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "41 Centre Party members open the door to Kristersson",
+        "summary": "It is time to try Ulf Kristersson's government alternative. That is the view of 41 local Centre Party members in a debate article in Expressen. “If there is one thing we have learned over the past 70 days, it is that it is impossible to negotiate with the Left Party”, the signatories write."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:37:08+01:00"
+      }
+    },
     {
       "id": "f0849d64828b",
       "schema_version": 1,
@@ -5377,30 +5403,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T14:16:06+01:00"
-      }
-    },
-    {
-      "id": "bc9e35a4d1b8",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80248",
-      "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80248&utm_medium=rss",
-      "published_at": "2026-11-24T10:16:21+01:00",
-      "fetched_at": "2026-11-24T11:59:05+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/1954153b-cebd-34d4-8e2e-1ee63a148ab6?format=auto&s=5a371a37903900f3a7262c79d2a1487b44ab9e16&w=1000",
-      "sv": {
-        "title": "Kristersson: Beredd att pröva fyrpartiregering"
-      },
-      "en": {
-        "title": "Kristersson: Prepared to test four-party government"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T11:59:14+01:00"
       }
     }
   ]

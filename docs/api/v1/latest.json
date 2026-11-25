@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-25T20:31:24+01:00",
+  "generated_at": "2026-11-25T20:37:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a2c43b24702e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/41-centerpartister-oppnar-for-kristersson",
+      "guid": "https://www.expressen.se/nyheter/politik/41-centerpartister-oppnar-for-kristersson/",
+      "published_at": "2026-11-25T20:33:20+01:00",
+      "fetched_at": "2026-11-25T20:37:03+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "41 centerpartister öppnar för Kristersson",
+        "summary": "Det är dags att pröva Ulf Kristerssons regeringsalternativ. Det anser 41 lokala centerpartister i en debattartikel i Expressen. ”Är det något vi lärt oss under de senaste 70 dagarna är att det inte går att förhandla med Vänsterpartiet”, skriver undertecknarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "41 Centre Party members open the door to Kristersson",
+        "summary": "It is time to try Ulf Kristersson's government alternative. That is the view of 41 local Centre Party members in a debate article in Expressen. “If there is one thing we have learned over the past 70 days, it is that it is impossible to negotiate with the Left Party”, the signatories write."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:37:08+01:00"
+      }
+    },
+    {
+      "id": "f39eca24c802",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/stark-aterhamtning-pa-wall-street",
+      "guid": "6af1e744-6335-42e3-9f53-ad104008fa5a",
+      "published_at": "2026-11-25T20:31:31+01:00",
+      "fetched_at": "2026-11-25T20:37:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/7404840d-0f18-4790-840e-eb0b27c82ee2.jpeg?width=600",
+      "sv": {
+        "title": "Stark återhämtning på Wall Street",
+        "summary": "De kraftiga nedgångarna på Wall Street har mildrats rejält. Dow Jones handlas på plus samtidigt som S&P 500 klättrar mot nollan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Strong recovery on Wall Street",
+        "summary": "The steep declines on Wall Street have been substantially eased. The Dow Jones is trading in positive territory while the S&P 500 is climbing toward zero."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:37:08+01:00"
+      }
+    },
     {
       "id": "d7efa95b7125",
       "schema_version": 1,
@@ -5401,58 +5454,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T14:45:52+01:00"
-      }
-    },
-    {
-      "id": "51a3b109fce7",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/gruppens-video-far-japaner-att-rasa",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/gruppens-video-far-japaner-att-rasa",
-      "published_at": "2026-11-25T14:33:02+01:00",
-      "fetched_at": "2026-11-25T14:45:46+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Tvingas radera – efter landets ilska",
-        "summary": "Rasar över detaljen i Tokyo: ”Kom aldrig tillbaka”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Forced to delete – after national outrage",
-        "summary": "Outrage over a detail in Tokyo: \"Never come back\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T14:45:52+01:00"
-      }
-    },
-    {
-      "id": "d8baa4994129",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/trump-lanserar-nya-tullar",
-      "guid": "02d649f3-11cf-4ac2-8d03-a2d919bf04f0",
-      "published_at": "2026-11-25T14:30:09+01:00",
-      "fetched_at": "2026-11-25T14:31:09+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trump lanserar nya tullar",
-        "summary": "USA kommer att lansera tullar på upp till 20 procent mot EU. Mot Kina kan det bli upp till 40 procents tullar, enligt Bloomberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump launches new tariffs",
-        "summary": "The US will launch tariffs of up to 20 percent against the EU. Against China, there could be tariffs of up to 40 percent, according to Bloomberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T14:31:14+01:00"
       }
     }
   ]
