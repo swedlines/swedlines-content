@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T20:01:28+01:00",
+  "generated_at": "2026-11-25T20:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5ba48b24edd9",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Gr4XvQ/jarvaveckans-vd-ahmed-abdirahman-om-misstankta-valfusket-medierna-misslyckades",
+      "guid": "https://www.svd.se/a/Gr4XvQ/jarvaveckans-vd-ahmed-abdirahman-om-misstankta-valfusket-medierna-misslyckades?utm_medium=rss",
+      "published_at": "2026-11-25T20:01:44+01:00",
+      "fetched_at": "2026-11-25T20:15:49+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/64dafcb4-6a85-3765-93ec-44c2b0c7e593?format=auto&s=4a6cb75dc5de9059cba8dda2954bc22f03b8ef62&w=1000",
+      "sv": {
+        "title": "”Invandrarkillen ska vara tacksam och tyst”",
+        "summary": "Medierna misslyckades när Järva hamnade i centrum för en debatt om misstänkt valfusk, enligt Ahmed…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"The immigrant kid should be grateful and silent\"",
+        "summary": "The media failed when Järva ended up at the centre of a debate about suspected electoral fraud, according to Ahmed…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:15:55+01:00"
+      }
+    },
     {
       "id": "1e7e398ebe41",
       "schema_version": 1,
@@ -5369,32 +5396,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T09:15:57+01:00"
-      }
-    },
-    {
-      "id": "5184be08d491",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/talmannen-moter-partiledarna",
-      "guid": "https://www.expressen.se/nyheter/politik/talmannen-moter-partiledarna/",
-      "published_at": "2026-11-24T08:39:20+01:00",
-      "fetched_at": "2026-11-24T08:45:44+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Talmannen möter partiledarna",
-        "summary": "Regeringsdramatiken fortsätter. Centern vill nu förhandla högerut – efter bråken på den rödgröna sidan. Under tisdagen möter Andreas Norlén samtliga partiledare för en ny talmansrunda.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Speaker meets party leaders",
-        "summary": "The government drama continues. The Centre Party now wants to negotiate to the right, after the quarrels on the red-green side. On Tuesday, Andreas Norlén meets all party leaders for a new speaker's round."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T08:45:53+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T20:01:28+01:00",
+  "generated_at": "2026-11-25T20:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eb561f6985f1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/sochp-ifragasatter-nvidiastyrelsens-oberoende",
+      "guid": "c691b6e9-3641-43b5-8740-d8522d174caf",
+      "published_at": "2026-11-25T19:58:06+01:00",
+      "fetched_at": "2026-11-25T20:15:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f816f6ff-bce8-43cf-8bca-d2e5647df79e.jpeg?width=600",
+      "sv": {
+        "title": "S&P ifrågasätter Nvidiastyrelsens oberoende",
+        "summary": "Kreditvärderingsinstitutet S&P har satt Nvidias kreditbetyg AA under bevakning med negativa utsikter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "S&P questions Nvidia board's independence",
+        "summary": "The credit rating agency S&P has placed Nvidia's AA credit rating under review with negative outlook."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:15:55+01:00"
+      }
+    },
     {
       "id": "07212c94b322",
       "schema_version": 1,
@@ -5296,32 +5323,6 @@
       "en": {
         "title": "Stocks pull back after Wall Street rally",
         "summary": "Wall Street futures indicated a opening in red territory on Tuesday. Following the stock rally on Monday triggered by Jensen Huang's return as CEO of chip giant Nvidia, new concern over the profitability of the AI sector has slowly returned."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T15:15:56+01:00"
-      }
-    },
-    {
-      "id": "933983a6e460",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/skanska-tar-miljardorder-fran-norska-forsvarsmakten",
-      "guid": "e36070d6-ac62-42d9-8e95-532e04ade5ee",
-      "published_at": "2026-11-24T15:07:26+01:00",
-      "fetched_at": "2026-11-24T15:15:49+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Skanska tar miljardorder från norska försvarsmakten",
-        "summary": "Byggbolaget Skanska tar en order värd 2,9 miljarder kronor från norska Forsvarsbygg om att bygga en ny underhålls- och administrationsanläggning vid marinbasen Haakonsvern i Bergen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Skanska wins billion-kronor order from Norwegian armed forces",
-        "summary": "Construction company Skanska wins an order worth SEK 2.9 billion from Norway's Forsvarsbygg to build a new maintenance and administration facility at the Haakonsvern naval base in Bergen."
       },
       "translation": {
         "status": "done",

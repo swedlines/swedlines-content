@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T20:01:28+01:00",
+  "generated_at": "2026-11-25T20:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "344ed46778a4",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/R1RM6W/trump-skapar-aterigen-osakerhet-i-israel",
+      "guid": "https://www.svd.se/a/R1RM6W/trump-skapar-aterigen-osakerhet-i-israel?utm_medium=rss",
+      "published_at": "2026-11-25T20:04:55+01:00",
+      "fetched_at": "2026-11-25T20:15:49+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/c9b172f1-c546-34a6-bf59-f834b4f2692b?format=auto&s=f4800bc638fe88c9d39a1729271ee02552758e5c&w=1000",
+      "sv": {
+        "title": "Israel varnas – byt väg eller bli paria",
+        "summary": "Trump skapar återigen osäkerhet i Israel. Nu varnar hans svärson Jared Kushner, som en gång fick…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Israel warned – change course or become a pariah",
+        "summary": "Trump is once again creating uncertainty in Israel. Now his son-in-law Jared Kushner, who once…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:15:55+01:00"
+      }
+    },
     {
       "id": "b575aafb4553",
       "schema_version": 1,
@@ -5339,33 +5366,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T15:15:53+01:00"
-      }
-    },
-    {
-      "id": "7239a1d5eeaf",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/over-20-doda-i-utbrunnen-godisfabrik",
-      "guid": "07f8038d-66bf-465f-9cb3-ee626b42cca9",
-      "published_at": "2026-11-23T14:23:53+01:00",
-      "fetched_at": "2026-11-23T14:30:58+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/fc78d81d-8197-446d-8d71-29982206841b.jpg?width=600",
-      "sv": {
-        "title": "Över 20 döda i utbrunnen godisfabrik",
-        "summary": "En omfattande brand i en godisfabrik i Indonesien har skördat över 20 människoliv.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Over 20 dead in burned-out candy factory",
-        "summary": "A massive fire at a candy factory in Indonesia has killed more than 20 people."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T14:31:03+01:00"
       }
     }
   ]
