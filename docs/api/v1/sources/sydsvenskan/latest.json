@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T20:15:58+01:00",
+  "generated_at": "2026-11-25T20:31:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d7efa95b7125",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/unik-vit-panda-fangad-pa-bild",
+      "guid": "d108bf7b-75ae-4cf6-83b7-b085f8db0a4f",
+      "published_at": "2026-11-25T20:30:00+01:00",
+      "fetched_at": "2026-11-25T20:31:08+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/3992d01d-c4f6-4e4b-b756-5f40ea95c285.jpg?width=600",
+      "sv": {
+        "title": "Unik vit panda fångad på bild",
+        "summary": "Världens enda vilda vita panda har fångats på bild för första gången sedan 2019.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Unique white panda caught on camera",
+        "summary": "The world's only wild white panda has been caught on camera for the first time since 2019."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:31:22+01:00"
+      }
+    },
     {
       "id": "b9cf5db0e91a",
       "schema_version": 1,
@@ -5167,29 +5194,6 @@
       "en": {
         "title": "Live: Snow falls over Skåne",
         "summary": "The first snow of the year is falling right now over western Skåne. The snowfall is expected to continue for the rest of Monday. – We have no warnings. But a high-pressure system from northern Sweden means the snow could settle, says Lisa Frost at SMHI."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T10:45:57+01:00"
-      }
-    },
-    {
-      "id": "0f1bfe34e4e8",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-146-kvm-saldes-for-6-7-miljoner",
-      "guid": "ae0a8e91-a446-4cef-82ce-e0ed9c090257",
-      "published_at": "2026-11-23T10:41:46+01:00",
-      "fetched_at": "2026-11-23T10:45:50+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Hus på 146 kvm såldes för 6,7 miljoner"
-      },
-      "en": {
-        "title": "House of 146 sq m sold for SEK 6.7 million"
       },
       "translation": {
         "status": "done",

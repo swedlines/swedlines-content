@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-25T20:15:58+01:00",
+  "generated_at": "2026-11-25T20:31:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4e99c4e9ddf1",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri",
+      "guid": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri",
+      "published_at": "2026-11-25T20:19:00+01:00",
+      "fetched_at": "2026-11-25T20:31:03+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Spricka mellan C-topparna inför vägvalet: ”Slöseri”",
+        "summary": "Inom C pågår interna strider om vägvalet i regeringsfrågan. Motståndare till en Kristersson-lösning mobiliserar för ett annat alternativ – och källor varnar för en framtid med partisplittring och avhopp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Rift between Centre Party top figures ahead of route choice: ”Waste”",
+        "summary": "Within the Centre Party, internal battles are under way over the route choice in the government question. Opponents of a Kristersson solution are mobilising for another alternative – and sources warn of a future with party splits and defections."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:31:22+01:00"
+      }
+    },
+    {
+      "id": "ce75b1bc5f1e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/har-ar-c-overens-med-de-forna-allianspartierna-och-inte",
+      "guid": "https://www.svt.se/nyheter/har-ar-c-overens-med-de-forna-allianspartierna-och-inte",
+      "published_at": "2026-11-25T20:18:58+01:00",
+      "fetched_at": "2026-11-25T20:31:03+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Här är C överens med de forna allianspartierna – och inte",
+        "summary": "På måndag röstar riksdagen om en borgerlig fyrpartiregering – de forna allianspartierna. Men hur lika tycker de i sakfrågor idag?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here is where the Centre Party agrees with the former Alliance parties – and where not",
+        "summary": "On Monday the Riksdag votes on a centre-right four-party government – the former Alliance parties. But how alike are they on policy issues today?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:31:22+01:00"
+      }
+    },
     {
       "id": "809b084ff7f7",
       "schema_version": 1,
@@ -5145,58 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T21:31:06+01:00"
-      }
-    },
-    {
-      "id": "d4e3f24ea954",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/norwegian-ber-5-000-kunder-sparra-sina-bankkort-efter-dataintrang",
-      "guid": "https://www.svt.se/nyheter/utrikes/norwegian-ber-5-000-kunder-sparra-sina-bankkort-efter-dataintrang",
-      "published_at": "2026-11-19T21:03:56+01:00",
-      "fetched_at": "2026-11-19T21:15:43+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Norwegian ber 5 000 kunder spärra sina bankkort efter dataintrång",
-        "summary": "Omkring 5 000 kunder hos flygbolaget Norwegian uppmanas att omedelbart spärra sina bankkort efter ett dataintrång hos en extern IT-leverantör, rapporterar VG.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Norwegian asks 5,000 customers to block their bank cards after data breach",
-        "summary": "About 5,000 customers of the airline Norwegian are urged to immediately block their bank cards after a data breach at an external IT supplier, reports VG."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T21:15:59+01:00"
-      }
-    },
-    {
-      "id": "550ec2f95a22",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/kalle-far-inte-bygga-badrum-maste-tvatta-hos-barnen-i-kiruna",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/kalle-far-inte-bygga-badrum-maste-tvatta-hos-barnen-i-kiruna",
-      "published_at": "2026-11-19T19:00:08+01:00",
-      "fetched_at": "2026-11-19T19:15:41+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Kalle får inte bygga badrum – måste tvätta hos barnen i Kiruna",
-        "summary": "Kalle Modin vill bygga badrum och tvättstuga vid sitt hus på ett statligt arrende i Kalixforsbron utanför Kiruna. Men länsstyrelsen säger nej – och han får varken en motivering eller kan överklaga. – Jag måste åka in till mina barn och tvätta och duscha, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kalle not allowed to build bathroom – has to wash at his children's in Kiruna",
-        "summary": "Kalle Modin wants to build a bathroom and laundry room by his house on state-owned leasehold land in Kalixforsbron outside Kiruna. But the county administrative board says no – and he receives neither a reason nor can he appeal. – I have to go to my children to wash and shower, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:15:56+01:00"
       }
     }
   ]

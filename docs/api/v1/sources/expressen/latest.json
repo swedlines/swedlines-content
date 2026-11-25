@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T20:15:58+01:00",
+  "generated_at": "2026-11-25T20:31:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b0a734619fed",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/raki-alayoub-smugglade--dottern-till-syrien-utvisas-",
+      "guid": "https://www.expressen.se/nyheter/sverige/raki-alayoub-smugglade--dottern-till-syrien-utvisas-/",
+      "published_at": "2026-11-25T20:20:40+01:00",
+      "fetched_at": "2026-11-25T20:31:06+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Raki Alayoub smugglade dottern till Syrien – utvisas",
+        "summary": "Raki Alayoub, 41, dömdes för att ha fört sin LVU-placerade dotter till Syrien – men slapp utvisning eftersom det ansågs för farligt för honom. Nu drar Migrationsverket in Alayoubs skyddsstatus och utvisar honom – vilket han själv går med på.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Raki Alayoub smuggled daughter to Syria – to be deported",
+        "summary": "Raki Alayoub, 41, was convicted of taking his LVU-placed daughter to Syria – but escaped deportation because it was deemed too dangerous for him. Now the Migration Agency is withdrawing Alayoub's protected status and deporting him – which he himself agrees to."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:31:22+01:00"
+      }
+    },
     {
       "id": "0ea1641cc69a",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T14:45:48+01:00"
-      }
-    },
-    {
-      "id": "180610893ab2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/zelenskyj-om-trumps-van-putin-en-mordare",
-      "guid": "https://www.expressen.se/nyheter/varlden/zelenskyj-om-trumps-van-putin-en-mordare/",
-      "published_at": "2026-11-22T13:15:53+01:00",
-      "fetched_at": "2026-11-22T13:31:05+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Zelenskyj om Trumps ”vän” Putin: ”En mördare”",
-        "summary": "Trump fortsätter kalla Putin för ”min vän”. Medan den ryska presidenten fortsätter att låta bomberna regna över Ukraina. – För oss är han naturligtvis en fiende och mördare, säger Zelenskyj om Trumps vänskapsbetygelser under en intervju med CNN.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Zelensky on Trump's \"friend\" Putin: \"A murderer\"",
-        "summary": "Trump keeps calling Putin \"my friend\", while the Russian president continues to let bombs rain down on Ukraine. – To us he is naturally an enemy and a murderer, Zelensky says of Trump's expressions of friendship in an interview with CNN."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T13:31:15+01:00"
       }
     }
   ]
