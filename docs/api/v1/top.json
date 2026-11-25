@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:01:34+01:00",
+  "generated_at": "2026-11-25T17:16:13+01:00",
   "count": 30,
   "stories": [
     {
@@ -1917,6 +1917,81 @@
       ]
     },
     {
+      "id": "75c4841be7db",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "svd"
+      ],
+      "first_published_at": "2026-11-25T15:31:21+01:00",
+      "last_published_at": "2026-11-25T17:09:43+01:00",
+      "lead": {
+        "id": "75c4841be7db",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/ai-rasar-pa-knallrott-wall-street-vilt-dar-ute-nu",
+        "guid": "50d234dc-dbce-48da-ac64-e1a497e6c530",
+        "published_at": "2026-11-25T15:31:21+01:00",
+        "fetched_at": "2026-11-25T15:45:48+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/437a2488-b503-4c22-a7d5-649c25715111.jpeg?width=600",
+        "sv": {
+          "title": "AI rasar på knallrött Wall Street: ”Vilt där ute nu”",
+          "summary": "Wall Street åker på en ny kalldusch där flera AI-jättar rasar förbi förra fredagens bottennivåer. ”Det är ganska vilt där ute just nu och riskviljan har försvunnit igen”, säger Deutsche Banks makroanalyschef Jim Reid till Financial Times.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "AI stocks plunge on deep-red Wall Street: “Wild out there now”",
+          "summary": "Wall Street is taking another cold shower as several AI giants fall past last Friday's lows. “It's quite wild out there right now and risk appetite has disappeared again,” says Deutsche Bank's macro analysis chief Jim Reid to the Financial Times."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T15:46:04+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "fef9bfa48b82",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80310",
+          "published_at": "2026-11-25T17:09:43+01:00",
+          "sv": {
+            "title": "Nya AI-fall på Wall Street"
+          },
+          "en": {
+            "title": "New AI cases on Wall Street"
+          }
+        },
+        {
+          "id": "b74dbb09ccac",
+          "source": "di",
+          "url": "https://www.di.se/live/stockholmsborsen-tyngs-av-ai-raset-pa-wall-street",
+          "published_at": "2026-11-25T15:53:56+01:00",
+          "sv": {
+            "title": "Stockholmsbörsen tyngs av AI-raset på Wall Street"
+          },
+          "en": {
+            "title": "Stockholm stock exchange weighed down by AI sell-off on Wall Street"
+          }
+        },
+        {
+          "id": "75c4841be7db",
+          "source": "di",
+          "url": "https://www.di.se/live/ai-rasar-pa-knallrott-wall-street-vilt-dar-ute-nu",
+          "published_at": "2026-11-25T15:31:21+01:00",
+          "sv": {
+            "title": "AI rasar på knallrött Wall Street: ”Vilt där ute nu”"
+          },
+          "en": {
+            "title": "AI stocks plunge on deep-red Wall Street: “Wild out there now”"
+          }
+        }
+      ]
+    },
+    {
       "id": "fb7e85ab927f",
       "source_count": 2,
       "sources": [
@@ -2558,69 +2633,6 @@
           },
           "en": {
             "title": "Andrev Walden doesn't make it easy for himself with his second novel"
-          }
-        }
-      ]
-    },
-    {
-      "id": "4880c5c90efa",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-25T11:58:08+01:00",
-      "last_published_at": "2026-11-25T11:58:08+01:00",
-      "lead": {
-        "id": "4880c5c90efa",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/kMJkwL/ny-eu-kritik-mot-svensk-vargpolitik",
-        "guid": "https://www.aftonbladet.se/nyheter/a/kMJkwL/ny-eu-kritik-mot-svensk-vargpolitik?utm_medium=rss",
-        "published_at": "2026-11-25T11:58:08+01:00",
-        "fetched_at": "2026-11-25T12:00:22+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/06fbfb7d-114b-3196-8cde-3cc499045a1c?format=auto&s=9f099405200185d06f83546a7f28c8edde067682&w=1000",
-        "sv": {
-          "title": "Ny EU-kritik mot svensk vargpolitik",
-          "summary": "EU-kommissionen ger Sverige bakläxa på vargpolitiken. I ett brev från EU-kommissionen till…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "New EU criticism of Swedish wolf policy",
-          "summary": "The EU Commission gives Sweden a reprimand over its wolf policy. In a letter from the EU Commission to…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T12:00:33+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "57e14489bd8d",
-          "source": "svd",
-          "url": "https://www.svd.se/a/dJO3RB/ny-eu-kritik-mot-svensk-vargpolitik",
-          "published_at": "2026-11-25T11:58:08+01:00",
-          "sv": {
-            "title": "Ny EU-kritik mot svensk vargpolitik"
-          },
-          "en": {
-            "title": "New EU criticism of Swedish wolf policy"
-          }
-        },
-        {
-          "id": "4880c5c90efa",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/kMJkwL/ny-eu-kritik-mot-svensk-vargpolitik",
-          "published_at": "2026-11-25T11:58:08+01:00",
-          "sv": {
-            "title": "Ny EU-kritik mot svensk vargpolitik"
-          },
-          "en": {
-            "title": "New EU criticism of Swedish wolf policy"
           }
         }
       ]

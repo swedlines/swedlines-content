@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T17:01:34+01:00",
+  "generated_at": "2026-11-25T17:16:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ec374539f2c6",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/14-aringar-i-haktet-mycket-prat-om-mamma",
+      "guid": "https://www.dn.se/sverige/14-aringar-i-haktet-mycket-prat-om-mamma/",
+      "published_at": "2026-11-25T17:01:50+01:00",
+      "fetched_at": "2026-11-25T17:15:50+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/8cf1ca7f-bf3c-4897-87b8-667c8f3ff6ac.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "14-åringar i häktet: ”Mycket prat om mamma”",
+        "summary": "Sexton 14-åringar utreds för grova brott sedan straffbarhetsåldern sänktes. På Kronobergshäktet sitter de yngsta isolerade i 20 timmar om dygnet. Personalen beskriver miljön som nödvändig, men svår att hantera. – De brukar fråga: ”När får jag komma hem till mamma?” säger häktesdiakonen Göran Runa.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "14-year-olds in remand: “Lots of talk about mom”",
+        "summary": "Sixteen 14-year-olds are under investigation for serious crimes since the age of criminal responsibility was lowered. At Kronobergshäktet, the youngest are isolated 20 hours a day. Staff describe the environment as necessary but difficult to manage. – They often ask: “When can I go home to mom?” says remand deacon Göran Runa."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:16:07+01:00"
+      }
+    },
     {
       "id": "4ff4056480c1",
       "schema_version": 1,
@@ -5391,32 +5418,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T03:01:14+01:00"
-      }
-    },
-    {
-      "id": "e183efeaf163",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/livstids-fangelse-for-sadistmordet-pa-sonia-exelby",
-      "guid": "https://www.expressen.se/nyheter/varlden/livstids-fangelse-for-sadistmordet-pa-sonia-exelby/",
-      "published_at": "2026-11-21T02:18:03+01:00",
-      "fetched_at": "2026-11-21T02:31:03+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Livstids fängelse för sadistmordet på Sonia Exelby",
-        "summary": "Sonia Exelby kom till USA för att bli mördad av en man hon träffade på en fetischsajt. Hon ångrade sig – men mördades ändå. Nu döms Dwain Hall, 54, till livstids fängelse för mordet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Life imprisonment for sadistic murder of Sonia Exelby",
-        "summary": "Sonia Exelby came to the USA to be murdered by a man she met on a fetish site. She regretted it – but was murdered anyway. Now Dwain Hall, 54, is sentenced to life imprisonment for the murder."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T02:31:07+01:00"
       }
     }
   ]
