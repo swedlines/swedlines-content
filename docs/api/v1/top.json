@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T07:31:12+01:00",
-  "count": 23,
+  "generated_at": "2026-11-25T07:45:57+01:00",
+  "count": 24,
   "stories": [
     {
       "id": "adfcf6526c82",
@@ -1270,6 +1270,69 @@
           },
           "en": {
             "title": "Magyar’s Ukraine visit a ”new chapter” in relations"
+          }
+        }
+      ]
+    },
+    {
+      "id": "588e1a12d276",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-24T21:02:37+01:00",
+      "last_published_at": "2026-11-25T07:31:09+01:00",
+      "lead": {
+        "id": "588e1a12d276",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/R1RgK2/bevapnade-haller-gisslan-i-matvarubutik",
+        "guid": "https://www.svd.se/a/R1RgK2/bevapnade-haller-gisslan-i-matvarubutik?utm_medium=rss",
+        "published_at": "2026-11-24T21:02:37+01:00",
+        "fetched_at": "2026-11-24T21:45:49+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/d2163153-6207-3731-a93c-a4d7dc68df68?format=auto&s=5f8ddd490417eec0a59fe93f5c4bd5aaa589adf9&w=1000",
+        "sv": {
+          "title": "Beväpnade håller gisslan i butik",
+          "summary": "Beväpnade och maskerade gärningspersoner försökte råna ett bepansrat fordon i Cartagena i Colombia.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Armed men hold hostages in shop",
+          "summary": "Armed and masked perpetrators tried to rob an armoured vehicle in Cartagena, Colombia."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T21:45:54+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "870df295894a",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/GPGVMQ/soldater-och-smallar-vid-gisslantagning-i-butik",
+          "published_at": "2026-11-25T07:31:09+01:00",
+          "sv": {
+            "title": "Soldater och smällar vid gisslantagning i butik"
+          },
+          "en": {
+            "title": "Soldiers and Explosions as Armed Hostage-Taking in Shop"
+          }
+        },
+        {
+          "id": "588e1a12d276",
+          "source": "svd",
+          "url": "https://www.svd.se/a/R1RgK2/bevapnade-haller-gisslan-i-matvarubutik",
+          "published_at": "2026-11-24T21:02:37+01:00",
+          "sv": {
+            "title": "Beväpnade håller gisslan i butik"
+          },
+          "en": {
+            "title": "Armed men hold hostages in shop"
           }
         }
       ]
