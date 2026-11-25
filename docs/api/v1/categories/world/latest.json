@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-25T10:15:58+01:00",
+  "generated_at": "2026-11-25T10:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "91dd734fa9a6",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/datalacka-tusentals-ryska-soldater-tar-livet-av-sig",
+      "guid": "https://www.dn.se/varlden/datalacka-tusentals-ryska-soldater-tar-livet-av-sig/",
+      "published_at": "2026-11-25T10:26:37+01:00",
+      "fetched_at": "2026-11-25T10:30:55+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/1729945b-4bf7-48bd-9360-afdf38517388.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Dataläcka: Tusentals ryska soldater tar livet av sig",
+        "summary": "Drygt 1 000 ryssar som registrerats som avlidna under Rysslands invasion sköt sig själva, visar uppgifter som The Guardian tagit del av. Samtidigt tros mörkertalet vara stort, eftersom armén inte vill registrera dödsfallen som självmord.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Data leak: Thousands of Russian soldiers take their own lives",
+        "summary": "Just over 1,000 Russians registered as dead during Russia's invasion shot themselves, according to data The Guardian has seen. At the same time, the number of unreported cases is believed to be large, as the army does not want to register the deaths as suicides."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T10:31:03+01:00"
+      }
+    },
+    {
+      "id": "d07d5d8321f3",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/4EqP4R/huthirorelsen-tar-pa-sig-anfall-mot-skyskrapa",
+      "guid": "https://www.aftonbladet.se/nyheter/a/4EqP4R/huthirorelsen-tar-pa-sig-anfall-mot-skyskrapa?utm_medium=rss",
+      "published_at": "2026-11-25T10:15:06+01:00",
+      "fetched_at": "2026-11-25T10:30:55+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Huthirörelsen tar på sig anfall mot skyskrapa",
+        "summary": "Huthirörelsen bekräftar att den gick till ny attack mot den högsta skyskrapan i Saudiarabiens…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Houthi movement claims attack on skyscraper",
+        "summary": "The Houthi movement confirms it carried out a new attack on the tallest skyscraper in Saudi Arabia…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T10:31:03+01:00"
+      }
+    },
     {
       "id": "627317d3af62",
       "schema_version": 1,
@@ -5313,59 +5366,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T07:15:50+01:00"
-      }
-    },
-    {
-      "id": "83d11362057e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/12-000-evakuerade-fran-konsert-misstankt-targas",
-      "guid": "e07363a4-fcbe-4d5e-b403-2655c2b35305",
-      "published_at": "2026-11-23T06:46:12+01:00",
-      "fetched_at": "2026-11-23T06:56:03+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/bc68941b-417d-407e-b43f-c8eb7fc661ee.jpg?width=600",
-      "sv": {
-        "title": "12 000 evakuerade från konsert – misstänkt tårgas",
-        "summary": "Tusentals besökare fick evakueras under rapparen Don Tolivers konsert i Manchester. Enligt polisen misstänks någon ha släppt ut tårgas i publiken, rapporterar BBC.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "12,000 evacuated from concert – suspected tear gas",
-        "summary": "Thousands of visitors had to be evacuated during rapper Don Toliver's concert in Manchester. According to police, someone is suspected of having released tear gas into the crowd, BBC reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:30+01:00"
-      }
-    },
-    {
-      "id": "c9257a89cf21",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345325",
-      "guid": "rss:sr.se/article/9345325",
-      "published_at": "2026-11-23T06:40:00+01:00",
-      "fetched_at": "2026-11-23T06:55:59+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Beredskapsbutiker ska säkra danskarnas mat vid kris",
-        "summary": "Danska beredskapsbutiker ska kunna hålla öppet även vid krig eller kris. Totalt har 51 butiker utrustats med nödgeneratorer och betalsystem som fungerar utan internet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Emergency shops to secure Danes' food in crisis",
-        "summary": "Danish emergency shops are to be able to stay open even during war or crisis. In total, 51 shops have been equipped with emergency generators and payment systems that work without internet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:30+01:00"
       }
     }
   ]

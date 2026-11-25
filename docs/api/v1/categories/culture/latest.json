@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T10:15:58+01:00",
+  "generated_at": "2026-11-25T10:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "55cb76c4e5c8",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/musiktjansten-forbjuder-ai-musik",
+      "guid": "200d37fb-9e08-464d-95f0-539fcf9090b5",
+      "published_at": "2026-11-25T10:28:39+01:00",
+      "fetched_at": "2026-11-25T10:30:57+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/71d43d11-b04b-4777-8014-87c1018ca01e.jpg?width=600",
+      "sv": {
+        "title": "Musiktjänsten förbjuder AI-musik",
+        "summary": "Strömningstjänsten Tidal bannlyser AI-genererad musik, meddelar företaget.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Music streaming service bans AI music",
+        "summary": "Streaming service Tidal bans AI-generated music, the company announces."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T10:31:03+01:00"
+      }
+    },
     {
       "id": "d8fff86e5501",
       "schema_version": 1,
@@ -5693,33 +5720,6 @@
       "en": {
         "title": "Journalist Disa Håstad dead",
         "summary": "The journalist was 86 years old"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T15:31:08+01:00"
-      }
-    },
-    {
-      "id": "cb342d1e24fe",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/ett-gammaldags-skimmer-fargsatter-en-rorande-historia-om-vanskap",
-      "guid": "https://www.dn.se/kultur/ett-gammaldags-skimmer-fargsatter-en-rorande-historia-om-vanskap/",
-      "published_at": "2026-11-21T15:25:41+01:00",
-      "fetched_at": "2026-11-21T15:31:01+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/c055c62e-7747-498a-9ffb-b5949be041b8.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Ett gammaldags skimmer färgsätter en rörande historia om vänskap",
-        "summary": "I tredje delen av romansviten ”Omöjliga varelser” står en kidnappning i centrum. Katherine Rundell styr med stadig hand, konstaterar Alexandra Sundqvist.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "A old-fashioned shimmer colours a moving story about friendship",
-        "summary": "The third part of the romance series \"Omöjliga varelser\" centres on a kidnapping. Katherine Rundell holds the reins firmly, writes Alexandra Sundqvist."
       },
       "translation": {
         "status": "done",
