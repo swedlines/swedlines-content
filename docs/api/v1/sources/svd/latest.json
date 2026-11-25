@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-25T22:45:57+01:00",
+  "generated_at": "2026-11-25T23:01:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f6aba9583b40",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80317",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80317&utm_medium=rss",
+      "published_at": "2026-11-25T22:51:40+01:00",
+      "fetched_at": "2026-11-25T23:01:10+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Duran Durans Andy Taylor död"
+      },
+      "en": {
+        "title": "Duran Duran's Andy Taylor dead"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T23:01:15+01:00"
+      }
+    },
     {
       "id": "3ac77242c107",
       "schema_version": 1,
@@ -5241,33 +5264,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T21:15:49+01:00"
-      }
-    },
-    {
-      "id": "869338eb0076",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/7P0GJ9/centerpartiets-splittring-kan-skada-partiet",
-      "guid": "https://www.svd.se/a/7P0GJ9/centerpartiets-splittring-kan-skada-partiet?utm_medium=rss",
-      "published_at": "2026-11-22T20:35:58+01:00",
-      "fetched_at": "2026-11-22T20:45:45+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/33caa03a-931e-3615-8125-13e4056a558d?format=auto&s=5d92a68933ac575a4ee45c137dd321260982c9b1&w=1000",
-      "sv": {
-        "title": "Ovanligt öppen debatt i C: ”Alltid hållits internt”",
-        "summary": "C kan överväga andra alternativ om V säger nej till deras bud. Det sker efter en helg där allt fler…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unusually open debate in the Centre Party: \"Has always been held internally\"",
-        "summary": "The Centre Party may consider other options if the Left Party says no to their bid. This follows a weekend in which more and more…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T20:45:53+01:00"
       }
     }
   ]
