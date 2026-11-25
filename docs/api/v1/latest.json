@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T23:45:55+01:00",
+  "generated_at": "2026-11-26T00:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "66c698632ca3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/mp-sprakroren-sagar-kristerssons-budgetplan-kaos",
+      "guid": "https://www.expressen.se/nyheter/politik/mp-sprakroren-sagar-kristerssons-budgetplan-kaos/",
+      "published_at": "2026-11-25T23:56:46+01:00",
+      "fetched_at": "2026-11-26T00:01:20+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "MP-språkrören sågar Kristerssons budgetplan: ”Kaos”",
+        "summary": "Den tidigare finansministern Anders Borg menar att en borgerlig minoritetsregering behöver ha ett organiserat budgetsamarbete med SD. Miljöpartiets språkrör Amanda Lind och Daniel Helldén ger honom rätt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Green Party spokespersons slam Kristersson's budget plan: \"Chaos\"",
+        "summary": "Former finance minister Anders Borg argues that a centre-right minority government needs an organised budget cooperation with the Sweden Democrats. Green Party spokespersons Amanda Lind and Daniel Helldén agree with him."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T00:01:25+01:00"
+      }
+    },
     {
       "id": "d06bf72359b5",
       "schema_version": 1,
@@ -1176,6 +1202,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T21:16:02+01:00"
+      }
+    },
+    {
+      "id": "aa5123298bf8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/411270",
+      "guid": "https://tv.aftonbladet.se/video/411270?utm_medium=rss",
+      "published_at": "2026-11-25T21:05:28+01:00",
+      "fetched_at": "2026-11-26T00:01:19+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/d8a319f0aded2fbb1b501bc216fd5e3d.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Brandkaos i Kairo — minst 30 döda",
+        "summary": "Totalt brandkaos i Kairo",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fire chaos in Cairo — at least 30 dead",
+        "summary": "Total fire chaos in Cairo"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T00:01:25+01:00"
       }
     },
     {
@@ -5360,61 +5413,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T16:31:17+01:00"
-      }
-    },
-    {
-      "id": "f56a7b681827",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/volleyboll/isabelle-haak-tankte-att-det-var-pinsamt-att-hon-sag-det",
-      "guid": "https://www.svt.se/sport/volleyboll/isabelle-haak-tankte-att-det-var-pinsamt-att-hon-sag-det",
-      "published_at": "2026-11-25T16:16:47+01:00",
-      "fetched_at": "2026-11-25T16:31:07+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Isabelle Haak: ”Tänkte att det var pinsamt att hon såg det”",
-        "summary": "Hon är en av världens största volleybollstjärnor. Och Isabelle Haak får även beröm för sin sving på golfbanan. – Det var en häftig kommentar, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Isabelle Haak: \"Thought it was embarrassing that she saw it\"",
-        "summary": "She is one of the world's biggest volleyball stars. And Isabelle Haak also receives praise for her swing on the golf course. – It was a great comment, she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T16:31:17+01:00"
-      }
-    },
-    {
-      "id": "84e860971590",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4OdRtVDlUqP8R4M7ZY5kbF/nazistisk-aktivklubb-mobiliserar-trots-ledare-bakom-galler",
-      "guid": "4OdRtVDlUqP8R4M7ZY5kbF",
-      "published_at": "2026-11-25T16:14:15+01:00",
-      "fetched_at": "2026-11-25T16:15:48+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Inrikes"
-      ],
-      "sv": {
-        "title": "Nazistisk aktivklubb mobiliserar – trots ledare bakom galler",
-        "summary": "I krypterade chattkanaler och på Telegram sprids nu inbjudningar till en manifestation i Stockholm på lördag, i samband med Karl XII-dagen. Det är i Telegramkanalen Aktivklubb Sverige, som har omkring 4 800 prenumeranter, som manifestationen beskrivs som en marsch ”för vår historia” och uppmanar…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Nazi activist club mobilises despite leaders behind bars",
-        "summary": "Invitations to a demonstration in Stockholm on Saturday, in connection with Karl XII Day, are being spread on encrypted chat channels and on Telegram. The demonstration is described in the Telegram channel Aktivklubb Sverige, which has about 4,800 subscribers, as a march \"for our history\" and calls on…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T16:15:54+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T23:45:55+01:00",
+  "generated_at": "2026-11-26T00:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "66c698632ca3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/mp-sprakroren-sagar-kristerssons-budgetplan-kaos",
+      "guid": "https://www.expressen.se/nyheter/politik/mp-sprakroren-sagar-kristerssons-budgetplan-kaos/",
+      "published_at": "2026-11-25T23:56:46+01:00",
+      "fetched_at": "2026-11-26T00:01:20+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "MP-språkrören sågar Kristerssons budgetplan: ”Kaos”",
+        "summary": "Den tidigare finansministern Anders Borg menar att en borgerlig minoritetsregering behöver ha ett organiserat budgetsamarbete med SD. Miljöpartiets språkrör Amanda Lind och Daniel Helldén ger honom rätt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Green Party spokespersons slam Kristersson's budget plan: \"Chaos\"",
+        "summary": "Former finance minister Anders Borg argues that a centre-right minority government needs an organised budget cooperation with the Sweden Democrats. Green Party spokespersons Amanda Lind and Daniel Helldén agree with him."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T00:01:25+01:00"
+      }
+    },
     {
       "id": "d06bf72359b5",
       "schema_version": 1,
@@ -5374,32 +5400,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T11:31:16+01:00"
-      }
-    },
-    {
-      "id": "2ec303dfbeff",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348927",
-      "guid": "rss:sr.se/article/9348927",
-      "published_at": "2026-11-24T11:14:00+01:00",
-      "fetched_at": "2026-11-24T11:15:49+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Lokala centerpartister splittrade om högersväng: ”Kört fast”",
-        "summary": "Centerpartiet återupptar samtalen med högersidan, meddelade partiledaren Elisabeth Thand Ringqvist i går, men bland partiets lokala företrädare råder delade meningar.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Local Centre Party members split over right-wing turn: “Stuck”",
-        "summary": "The Centre Party is resuming talks with the right, party leader Elisabeth Thand Ringqvist announced yesterday, but opinions among the party's local representatives are divided."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T11:16:01+01:00"
       }
     }
   ]

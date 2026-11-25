@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T23:45:55+01:00",
+  "generated_at": "2026-11-26T00:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "66c698632ca3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/mp-sprakroren-sagar-kristerssons-budgetplan-kaos",
+      "guid": "https://www.expressen.se/nyheter/politik/mp-sprakroren-sagar-kristerssons-budgetplan-kaos/",
+      "published_at": "2026-11-25T23:56:46+01:00",
+      "fetched_at": "2026-11-26T00:01:20+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "MP-språkrören sågar Kristerssons budgetplan: ”Kaos”",
+        "summary": "Den tidigare finansministern Anders Borg menar att en borgerlig minoritetsregering behöver ha ett organiserat budgetsamarbete med SD. Miljöpartiets språkrör Amanda Lind och Daniel Helldén ger honom rätt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Green Party spokespersons slam Kristersson's budget plan: \"Chaos\"",
+        "summary": "Former finance minister Anders Borg argues that a centre-right minority government needs an organised budget cooperation with the Sweden Democrats. Green Party spokespersons Amanda Lind and Daniel Helldén agree with him."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T00:01:25+01:00"
+      }
+    },
     {
       "id": "bca5b56324c1",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T20:45:53+01:00"
-      }
-    },
-    {
-      "id": "d98762b92dfc",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/jenny-madestam-om-forslaget--till-v-generost-erbjudande",
-      "guid": "https://www.expressen.se/nyheter/sverige/jenny-madestam-om-forslaget--till-v-generost-erbjudande/",
-      "published_at": "2026-11-22T20:22:10+01:00",
-      "fetched_at": "2026-11-22T20:30:58+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Jenny Madestam om förslaget till V: ”Generöst erbjudande”",
-        "summary": "Erbjudandet till Vänsterpartiet är ”väldigt generöst”, enligt statsvetaren Jenny Madestam. Men att förhandlingarna nu sker helt öppet tyder på ett fortsatt låst läge. – Man stärker sin egen förhandlingsposition, säger Madestam.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jenny Madestam on the proposal to the Left Party (V): \"Generous offer\"",
-        "summary": "The offer to the Left Party is \"very generous\", according to political scientist Jenny Madestam. But that the negotiations are now taking place entirely in the open suggests a continued deadlock. – You strengthen your own negotiating position, Madestam says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T20:31:07+01:00"
       }
     }
   ]

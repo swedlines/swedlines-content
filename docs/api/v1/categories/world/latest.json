@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:45:55+01:00",
+  "generated_at": "2026-11-26T00:01:27+01:00",
   "count": 200,
   "items": [
     {
@@ -212,6 +212,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T21:16:02+01:00"
+      }
+    },
+    {
+      "id": "aa5123298bf8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/411270",
+      "guid": "https://tv.aftonbladet.se/video/411270?utm_medium=rss",
+      "published_at": "2026-11-25T21:05:28+01:00",
+      "fetched_at": "2026-11-26T00:01:19+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/d8a319f0aded2fbb1b501bc216fd5e3d.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Brandkaos i Kairo — minst 30 döda",
+        "summary": "Totalt brandkaos i Kairo",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fire chaos in Cairo — at least 30 dead",
+        "summary": "Total fire chaos in Cairo"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T00:01:25+01:00"
       }
     },
     {
@@ -5332,33 +5359,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T18:15:53+01:00"
-      }
-    },
-    {
-      "id": "bdd6a64e5c19",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/VxbvJJ/merz-om-rysk-krankning-farliga-provokationer",
-      "guid": "https://www.aftonbladet.se/nyheter/a/VxbvJJ/merz-om-rysk-krankning-farliga-provokationer?utm_medium=rss",
-      "published_at": "2026-11-23T18:00:04+01:00",
-      "fetched_at": "2026-11-23T18:01:14+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/1767fdf8-5582-3303-b122-5a2ab9def3f2?format=auto&s=b05bd443d7e8b7a102c3d46acdfa8c202f3b7e13&w=1000",
-      "sv": {
-        "title": "Merz om rysk kränkning: Farliga provokationer",
-        "summary": "Tysklands förbundskansler Friedrich Merz kallar de ryska projektiler som under fredagen kränkt…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Merz on Russian violation: Dangerous provocations",
-        "summary": "German Chancellor Friedrich Merz calls the Russian projectiles that violated airspace on Friday…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T18:01:23+01:00"
       }
     }
   ]
