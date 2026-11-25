@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T10:57:53+01:00",
+  "generated_at": "2026-11-25T11:01:21+01:00",
   "count": 26,
   "stories": [
     {
@@ -427,6 +427,94 @@
           },
           "en": {
             "title": "Ingmar Nevéus: The Huang scandal says it all about Trump's worldview"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1206ee6a5b06",
+      "source_count": 4,
+      "sources": [
+        "svt",
+        "gp",
+        "aftonbladet",
+        "dn"
+      ],
+      "first_published_at": "2026-11-25T10:42:54+01:00",
+      "last_published_at": "2026-11-25T10:57:45+01:00",
+      "lead": {
+        "id": "1206ee6a5b06",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/vast/fyra-atalas-efter-misstankta-badplatsmordet-i-molnlycke",
+        "guid": "https://www.svt.se/nyheter/lokalt/vast/fyra-atalas-efter-misstankta-badplatsmordet-i-molnlycke",
+        "published_at": "2026-11-25T10:42:54+01:00",
+        "fetched_at": "2026-11-25T10:45:40+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Fyra åtalas efter misstänkta badplatsmordet i Mölnlycke",
+          "summary": "Efter att en 45-årig man blev misshandlad till döds på en badplats vid Rådasjön i Mölnlycke i somras åtalas nu två män för mord och en kvinna och en man för skyddande av brottsling.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Four charged after suspected murder at bathing spot in Mölnlycke",
+          "summary": "After a 45-year-old man was beaten to death at a bathing spot by Rådasjön in Mölnlycke this summer, two men are now charged with murder and a woman and a man with harbouring a criminal."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T10:45:48+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "666b27bd08e0",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/togs-av-polisen-redan-i-mellanstadiet-atalas-for-mordet-vid-badplatsen",
+          "published_at": "2026-11-25T10:57:45+01:00",
+          "sv": {
+            "title": "Togs av polisen redan i mellanstadiet – åtalas för mordet vid badplatsen"
+          },
+          "en": {
+            "title": "Was taken by police as early as middle school – charged with the murder at the swimming spot"
+          }
+        },
+        {
+          "id": "970a0a8dd283",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/ARdA63/tva-man-atalas-for-mord-vid-badplats",
+          "published_at": "2026-11-25T10:57:05+01:00",
+          "sv": {
+            "title": "Två män åtalas för mord vid badplats"
+          },
+          "en": {
+            "title": "Two men charged with murder at bathing spot"
+          }
+        },
+        {
+          "id": "0093088bc299",
+          "source": "gp",
+          "url": "https://www.gp.se/krim/tva-unga-man-atalas-for-mord-pa-badplats-i-molnlycke.783518a1-e2a1-5dc8-a61d-193c4d623134",
+          "published_at": "2026-11-25T10:43:13+01:00",
+          "sv": {
+            "title": "Ihjälslagen på badplats – två åtalas för mord"
+          },
+          "en": {
+            "title": "Beaten to death at bathing spot – two charged with murder"
+          }
+        },
+        {
+          "id": "1206ee6a5b06",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vast/fyra-atalas-efter-misstankta-badplatsmordet-i-molnlycke",
+          "published_at": "2026-11-25T10:42:54+01:00",
+          "sv": {
+            "title": "Fyra åtalas efter misstänkta badplatsmordet i Mölnlycke"
+          },
+          "en": {
+            "title": "Four charged after suspected murder at bathing spot in Mölnlycke"
           }
         }
       ]
@@ -900,81 +988,6 @@
       ]
     },
     {
-      "id": "1206ee6a5b06",
-      "source_count": 3,
-      "sources": [
-        "svt",
-        "gp",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-25T10:42:54+01:00",
-      "last_published_at": "2026-11-25T10:57:05+01:00",
-      "lead": {
-        "id": "1206ee6a5b06",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/lokalt/vast/fyra-atalas-efter-misstankta-badplatsmordet-i-molnlycke",
-        "guid": "https://www.svt.se/nyheter/lokalt/vast/fyra-atalas-efter-misstankta-badplatsmordet-i-molnlycke",
-        "published_at": "2026-11-25T10:42:54+01:00",
-        "fetched_at": "2026-11-25T10:45:40+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Fyra åtalas efter misstänkta badplatsmordet i Mölnlycke",
-          "summary": "Efter att en 45-årig man blev misshandlad till döds på en badplats vid Rådasjön i Mölnlycke i somras åtalas nu två män för mord och en kvinna och en man för skyddande av brottsling.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Four charged after suspected murder at bathing spot in Mölnlycke",
-          "summary": "After a 45-year-old man was beaten to death at a bathing spot by Rådasjön in Mölnlycke this summer, two men are now charged with murder and a woman and a man with harbouring a criminal."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T10:45:48+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "970a0a8dd283",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/ARdA63/tva-man-atalas-for-mord-vid-badplats",
-          "published_at": "2026-11-25T10:57:05+01:00",
-          "sv": {
-            "title": "Två män åtalas för mord vid badplats"
-          },
-          "en": {
-            "title": "Two men charged with murder at bathing spot"
-          }
-        },
-        {
-          "id": "0093088bc299",
-          "source": "gp",
-          "url": "https://www.gp.se/krim/tva-unga-man-atalas-for-mord-pa-badplats-i-molnlycke.783518a1-e2a1-5dc8-a61d-193c4d623134",
-          "published_at": "2026-11-25T10:43:13+01:00",
-          "sv": {
-            "title": "Ihjälslagen på badplats – två åtalas för mord"
-          },
-          "en": {
-            "title": "Beaten to death at bathing spot – two charged with murder"
-          }
-        },
-        {
-          "id": "1206ee6a5b06",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vast/fyra-atalas-efter-misstankta-badplatsmordet-i-molnlycke",
-          "published_at": "2026-11-25T10:42:54+01:00",
-          "sv": {
-            "title": "Fyra åtalas efter misstänkta badplatsmordet i Mölnlycke"
-          },
-          "en": {
-            "title": "Four charged after suspected murder at bathing spot in Mölnlycke"
-          }
-        }
-      ]
-    },
-    {
       "id": "99deffafb00b",
       "source_count": 3,
       "sources": [
@@ -1359,6 +1372,68 @@
           },
           "en": {
             "title": "Meeting participants: Information from C leadership"
+          }
+        }
+      ]
+    },
+    {
+      "id": "32b3677c0033",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-25T10:51:34+01:00",
+      "last_published_at": "2026-11-25T10:55:37+01:00",
+      "lead": {
+        "id": "32b3677c0033",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/vast/finansman-atalas-for-grov-valdtakt-i-bohuslan",
+        "guid": "https://www.svt.se/nyheter/lokalt/vast/finansman-atalas-for-grov-valdtakt-i-bohuslan",
+        "published_at": "2026-11-25T10:51:34+01:00",
+        "fetched_at": "2026-11-25T10:57:39+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Finansman åtalas för grov våldtäkt i Bohuslän",
+          "summary": "En finansman från Sverige åtalas mot sitt nekande för bland annat grov våldtäkt efter att ha drogat två kvinnor och våldtagit den ena. Brotten ska ha ägt rum sommaren och hösten 2024 i ett sommarhus i Bohuslän.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Financier charged with aggravated rape in Bohuslän",
+          "summary": "A financier from Sweden is charged, while denying the charges, with aggravated rape among other offences after drugging two women and raping one of them. The crimes are said to have taken place in the summer and autumn of 2024 at a summer house in Bohuslän."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T10:57:48+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "0684bb3d3904",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=3bd32747-2b07-40cd-9237-68c453df7716",
+          "published_at": "2026-11-25T10:55:37+01:00",
+          "sv": {
+            "title": "Finansman åtalad"
+          },
+          "en": {
+            "title": "Financier charged"
+          }
+        },
+        {
+          "id": "32b3677c0033",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vast/finansman-atalas-for-grov-valdtakt-i-bohuslan",
+          "published_at": "2026-11-25T10:51:34+01:00",
+          "sv": {
+            "title": "Finansman åtalas för grov våldtäkt i Bohuslän"
+          },
+          "en": {
+            "title": "Financier charged with aggravated rape in Bohuslän"
           }
         }
       ]
@@ -2061,68 +2136,6 @@
           },
           "en": {
             "title": "Thand Ringqvist's words at the internal Centre Party meeting: “Takes a beating”"
-          }
-        }
-      ]
-    },
-    {
-      "id": "9d9ba97ff1fa",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-24T13:28:33+01:00",
-      "last_published_at": "2026-11-24T23:01:21+01:00",
-      "lead": {
-        "id": "9d9ba97ff1fa",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f8fefed4-7d3a-40c1-93f1-438f27986678",
-        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f8fefed4-7d3a-40c1-93f1-438f27986678",
-        "published_at": "2026-11-24T13:28:33+01:00",
-        "fetched_at": "2026-11-24T13:45:46+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Stormöte för C ikväll",
-          "summary": "Ska få ”lägesuppdatering”, enligt Expressens uppgifter",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Emergency meeting for C tonight",
-          "summary": "Will receive a \"situation update,\" according to Expressen's information."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T13:45:53+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "03b4f696fe83",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/4Eqpva/c-kalla-efter-stormotet-inga-fragor",
-          "published_at": "2026-11-24T23:01:21+01:00",
-          "sv": {
-            "title": "C-källa efter stormötet: ”Inga frågor”"
-          },
-          "en": {
-            "title": "C source after stormy meeting: \"No questions\""
-          }
-        },
-        {
-          "id": "9d9ba97ff1fa",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f8fefed4-7d3a-40c1-93f1-438f27986678",
-          "published_at": "2026-11-24T13:28:33+01:00",
-          "sv": {
-            "title": "Stormöte för C ikväll"
-          },
-          "en": {
-            "title": "Emergency meeting for C tonight"
           }
         }
       ]
