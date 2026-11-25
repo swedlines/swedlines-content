@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-25T01:01:12+01:00",
+  "generated_at": "2026-11-25T01:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b3577a1c2104",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/KL35A5/huawei-doms-i-usa",
+      "guid": "https://www.svd.se/a/KL35A5/huawei-doms-i-usa?utm_medium=rss",
+      "published_at": "2026-11-25T01:04:33+01:00",
+      "fetched_at": "2026-11-25T01:15:45+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/b3b498f1-7590-3446-956d-e89baab5eaf4?format=auto&s=89ca3c91d4d2bdc341f9d7021b1de8d41fc8f83d&w=1000",
+      "sv": {
+        "title": "Huawei döms i USA",
+        "summary": "Huawei har bland annat dömts för att ha haft upplägg för att stjäla handelshemligheter, rapporterar…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Huawei convicted in the US",
+        "summary": "Huawei has, among other things, been convicted of having schemes to steal trade secrets, reports…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T01:15:49+01:00"
+      }
+    },
+    {
+      "id": "7aad5771aa1d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/R1RMX5/amnesty-anklagar-israel-forhindrar-fodslar-i-gaza",
+      "guid": "https://www.aftonbladet.se/nyheter/a/R1RMX5/amnesty-anklagar-israel-forhindrar-fodslar-i-gaza?utm_medium=rss",
+      "published_at": "2026-11-25T01:01:00+01:00",
+      "fetched_at": "2026-11-25T01:15:45+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/a755f381-3557-3f69-9e08-50bf1985d0ad?format=auto&s=16d1043a3a05a767198f4c484bc6b6c77be51eee&w=1000",
+      "sv": {
+        "title": "Amnesty anklagar Israel: Förhindrar födslar i Gaza",
+        "summary": "Kravet från Amnesty",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Amnesty accuses Israel: Prevents births in Gaza",
+        "summary": "The demand from Amnesty"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T01:15:49+01:00"
+      }
+    },
     {
       "id": "cf4b423fd8a3",
       "schema_version": 1,
@@ -5320,59 +5374,6 @@
       "en": {
         "title": "Four kidnapped men – now Bukele is praised in Haiti",
         "summary": "It began with the search for four kidnapped aviation technicians. Now El Salvador's President Nayib Bukele…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T20:15:48+01:00"
-      }
-    },
-    {
-      "id": "785fa9131ace",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/4EqQQ6/vaterland-filmen-om-thomas-mann-far-mig-att-grata",
-      "guid": "https://www.svd.se/a/4EqQQ6/vaterland-filmen-om-thomas-mann-far-mig-att-grata?utm_medium=rss",
-      "published_at": "2026-11-22T20:00:00+01:00",
-      "fetched_at": "2026-11-22T20:01:10+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/afc65cb6-e00f-33d4-b1d2-3940b4367871?format=auto&s=6420d8720a3c0631f0e464533cd1bbc4e673176a&w=1000",
-      "sv": {
-        "title": "Vad gör vi när Ryssland förlorat?",
-        "summary": "Hur ska Europa hantera Ryssland när vi vinner kriget? Om vi vinner? Sådana tankar rusar genom…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "What do we do when Russia has lost?",
-        "summary": "How should Europe deal with Russia when we win the war? If we win? Such thoughts race through…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T20:01:17+01:00"
-      }
-    },
-    {
-      "id": "504cdfd4d266",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/upptrappade-laget-pa-ostersjon-kan-skapa-nytt-hormuz",
-      "guid": "https://www.svt.se/nyheter/inrikes/upptrappade-laget-pa-ostersjon-kan-skapa-nytt-hormuz",
-      "published_at": "2026-11-22T19:59:44+01:00",
-      "fetched_at": "2026-11-22T20:15:39+01:00",
-      "category": "world",
-      "sv": {
-        "title": "”Upptrappade läget på Östersjön kan skapa nytt Hormuz”",
-        "summary": "Finland fick plötsligt en brinnande rysk vapenfraktare på halsen. Myndigheterna här i Finland både säger och visar att de har läget under kontroll. Men fortsätter utvecklingen så riskerar Östersjön att förvandlas till ett nytt Svarta havet – eller Hormuzsundet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Escalation in the Baltic Sea could create a new Hormuz\"",
-        "summary": "Finland was suddenly faced with a burning Russian cargo ship on its hands. Finnish authorities both say and show that they have the situation under control. But if the development continues, the Baltic Sea risks turning into a new Black Sea – or the Strait of Hormuz."
       },
       "translation": {
         "status": "done",
