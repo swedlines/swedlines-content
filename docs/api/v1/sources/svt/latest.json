@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T17:16:13+01:00",
+  "generated_at": "2026-11-25T17:31:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "86f9850b13b3",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/varmland/fratskador-pa-tanderna-bland-unga-okar-kraftigt",
+      "guid": "https://www.svt.se/nyheter/lokalt/varmland/fratskador-pa-tanderna-bland-unga-okar-kraftigt",
+      "published_at": "2026-11-25T17:16:44+01:00",
+      "fetched_at": "2026-11-25T17:31:01+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Frätskador på tänderna bland unga ökar kraftigt",
+        "summary": "Frätskador på tänderna bland unga dyker upp allt tidigare i åldrarna enligt ny statistik. Sambandet som läkarna ser är att allt fler yngre dricker mer energidryck och läsk.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Acid erosion of teeth among young people rises sharply",
+        "summary": "Acid erosion of teeth among young people is appearing at increasingly younger ages, according to new statistics. The link doctors see is that more and more young people are drinking more energy drinks and soft drinks."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:31:19+01:00"
+      }
+    },
     {
       "id": "4ff4056480c1",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T17:01:27+01:00"
-      }
-    },
-    {
-      "id": "468f4e986406",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/kd-ministerns-skogsvarning-till-c-ett-rent-hot",
-      "guid": "https://www.svt.se/nyheter/inrikes/kd-ministerns-skogsvarning-till-c-ett-rent-hot",
-      "published_at": "2026-11-19T16:41:18+01:00",
-      "fetched_at": "2026-11-19T16:45:40+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "KD-ministerns skogsvarning till C: ”Ett rent hot”",
-        "summary": "Äganderätten till skogen har blivit en het fråga i regeringsförhandlingarna. Nu anklagar landsbygdsminister Peter Kullgren (KD) Magdalena Andersson för att utpressa centerpartisterna i sitt totalpaket.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "KD minister's forest warning to C: ”A pure threat”",
-        "summary": "Ownership of forest land has become a hot issue in the government negotiations. Now rural affairs minister Peter Kullgren (KD) accuses Magdalena Andersson of blackmailing the Centre Party members in her package deal."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:45:52+01:00"
       }
     }
   ]

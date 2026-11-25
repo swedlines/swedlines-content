@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-25T17:16:13+01:00",
+  "generated_at": "2026-11-25T17:31:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "caf16118dac7",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a46cce58-9ec7-4763-b4c9-e9f840098f0f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a46cce58-9ec7-4763-b4c9-e9f840098f0f",
+      "published_at": "2026-11-25T17:28:54+01:00",
+      "fetched_at": "2026-11-25T17:31:05+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Fick penis amputerad",
+        "summary": "Efter fel diagnos • Lex Maria-anmälan",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Had penis amputated",
+        "summary": "After wrong diagnosis • Lex Maria report"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:31:19+01:00"
+      }
+    },
+    {
+      "id": "86f9850b13b3",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/varmland/fratskador-pa-tanderna-bland-unga-okar-kraftigt",
+      "guid": "https://www.svt.se/nyheter/lokalt/varmland/fratskador-pa-tanderna-bland-unga-okar-kraftigt",
+      "published_at": "2026-11-25T17:16:44+01:00",
+      "fetched_at": "2026-11-25T17:31:01+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Frätskador på tänderna bland unga ökar kraftigt",
+        "summary": "Frätskador på tänderna bland unga dyker upp allt tidigare i åldrarna enligt ny statistik. Sambandet som läkarna ser är att allt fler yngre dricker mer energidryck och läsk.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Acid erosion of teeth among young people rises sharply",
+        "summary": "Acid erosion of teeth among young people is appearing at increasingly younger ages, according to new statistics. The link doctors see is that more and more young people are drinking more energy drinks and soft drinks."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:31:19+01:00"
+      }
+    },
+    {
+      "id": "2a82723976d3",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/qOL0O1/vattenlacka-tvingar-luleabor-att-koka-dricksvattnet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/qOL0O1/vattenlacka-tvingar-luleabor-att-koka-dricksvattnet?utm_medium=rss",
+      "published_at": "2026-11-25T17:16:19+01:00",
+      "fetched_at": "2026-11-25T17:31:05+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/77a1ef9d-0448-378c-8cd4-2e3f3e127004?format=auto&s=f8feda87cc05f91d5257318a57b5041f4d202385&w=1000",
+      "sv": {
+        "title": "Vattenläcka tvingar Luleåbor att koka dricksvattnet",
+        "summary": "Boende med kommunalt vatten i tätorterna Antnäs, Alvik, Ale och Ersnäs i Luleå kommun uppmanas att…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Water leak forces Luleå residents to boil drinking water",
+        "summary": "Residents with municipal water in the urban areas of Antnäs, Alvik, Ale and Ersnäs in Luleå municipality are urged to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:31:19+01:00"
+      }
+    },
     {
       "id": "ab45d9eb6309",
       "schema_version": 1,
@@ -27,6 +106,36 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T17:01:32+01:00"
+      }
+    },
+    {
+      "id": "7fcf54425145",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/larm-om-hog-small-och-brand-i-landala.7881b0aa-84d6-5e9d-8cab-637aa1d621a3",
+      "guid": "7881b0aa-84d6-5e9d-8cab-637aa1d621a3",
+      "published_at": "2026-11-25T16:51:54+01:00",
+      "fetched_at": "2026-11-25T17:31:06+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg"
+      ],
+      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
+      "sv": {
+        "title": "Larm om hög smäll och brand i Landala",
+        "summary": "Räddningstjänsten har larmats ut till en misstänkt brand nära Chalmers tekniska högskola.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm over loud bang and fire in Landala",
+        "summary": "The rescue service has been alerted to a suspected fire near Chalmers University of Technology."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:31:19+01:00"
       }
     },
     {
@@ -5339,123 +5448,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T04:45:47+01:00"
-      }
-    },
-    {
-      "id": "7330f993b6a0",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/6PjMKz/geilo-norges-basta-skidort-med-naturupplevelser",
-      "guid": "https://www.svd.se/a/6PjMKz/geilo-norges-basta-skidort-med-naturupplevelser?utm_medium=rss",
-      "published_at": "2026-11-21T00:15:00+01:00",
-      "fetched_at": "2026-11-21T00:30:57+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/e1bd25c7-762f-3ca6-9a36-48d6b6b7f7cd?format=auto&s=872d719b4824b24b61ddaf2c43ad2330ecf9c426&w=1000",
-      "sv": {
-        "title": "Mer än skidåkning som lockar",
-        "summary": "Norges bästa skidort åtta år i rad – men i Geilo handlar inte allt om skidåkning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "More than skiing draws people",
-        "summary": "Norway's best ski resort eight years in a row – but in Geilo, not everything is about skiing."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T00:31:03+01:00"
-      }
-    },
-    {
-      "id": "eec3a4d5d248",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/glomde-foremal-i-patientens-huvud",
-      "guid": "https://www.expressen.se/nyheter/sverige/glomde-foremal-i-patientens-huvud/",
-      "published_at": "2026-11-21T00:02:58+01:00",
-      "fetched_at": "2026-11-21T00:15:50+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Glömde föremål i patientens huvud",
-        "summary": "Under en hjärnoperation i Umeå glömdes två föremål kvar i patientens huvud. De upptäcktes först efter han opererats igen. – Det här var en beklaglig och olycklig händelse, säger chefläkaren Bengt Andersson till SVT Nyheter Västerbotten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Two items left in patient's head",
-        "summary": "During brain surgery in Umeå, two items were left in the patient's head. They were only discovered after he had been operated on again. \"This was a regrettable and unfortunate incident,\" says chief physician Bengt Andersson to SVT Nyheter Västerbotten."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T00:15:55+01:00"
-      }
-    },
-    {
-      "id": "1ab0664edf05",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/200-dagarsfesten-holls-trots-atal-mot-sigtunaelever",
-      "guid": "https://www.expressen.se/nyheter/sverige/200-dagarsfesten-holls-trots-atal-mot-sigtunaelever/",
-      "published_at": "2026-11-20T21:41:01+01:00",
-      "fetched_at": "2026-11-20T21:45:46+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "200-dagarsfesten hölls – trots åtal mot Sigtunaelever",
-        "summary": "Sigtunaskolans traditionsenliga 200-dagarsfest ställdes in efter kritik. Men på fredagskvällen hölls firandet ändå – i form av en maskerad. Samtidigt står sex sistaårselever åtalade för grova brott.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "200-day party held – despite charges against Sigtuna students",
-        "summary": "Sigtunaskolan's traditional 200-day party was cancelled after criticism. But on Friday evening the celebration was held anyway – in the form of a masquerade. Meanwhile, six final-year students have been charged with serious crimes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T21:45:50+01:00"
-      }
-    },
-    {
-      "id": "c81453f23d41",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/har-tagar-ungdomar-i-goteborg-for-en-battre-framtid.e6c75794-c1cf-5cb6-875b-50a000df197d",
-      "guid": "e6c75794-c1cf-5cb6-875b-50a000df197d",
-      "published_at": "2026-11-20T18:28:49+01:00",
-      "fetched_at": "2026-11-20T19:01:25+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: breaking-GP",
-        "Tagg: Europa",
-        "Tagg: Studenter",
-        "Tagg: Avenyn",
-        "Tagg: Rebellmammorna",
-        "Tagg: Göteborg",
-        "Tagg: Polisen",
-        "Tagg: Ung Vänster"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/d1e7b23e-e640-3673-ab4b-b245ab3016cc",
-      "sv": {
-        "title": "Här tågar ungdomarna – för en bättre framtid",
-        "summary": "”Förhoppningsvis kan vi visa att vi också har makt” • Studentprotester intog Göteborg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here the youths march – for a better future",
-        "summary": "\"Hopefully we can show that we also have power\" • Student protests took over Göteborg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T19:01:29+01:00"
       }
     }
   ]

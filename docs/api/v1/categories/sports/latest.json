@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-25T17:16:13+01:00",
+  "generated_at": "2026-11-25T17:31:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3c8174274422",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/orgryte-is/sa-laddar-ois-infor-avgorandet-mot-degerfors-dag-for-dag.957d665d-d646-5365-a973-8c764a7d1d0f",
+      "guid": "957d665d-d646-5365-a973-8c764a7d1d0f",
+      "published_at": "2026-11-25T17:12:48+01:00",
+      "fetched_at": "2026-11-25T17:31:06+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Örgryte IS",
+        "Tagg: Tobias Sana",
+        "Tagg: Mikael Dyrestam",
+        "Tagg: Öis",
+        "Tagg: Andreas Holmberg"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/c5c9b68c-1110-3a39-b32a-ecfc27a79355",
+      "sv": {
+        "title": "Öis väg till avgörandet – dag för dag",
+        "summary": "Öis ställs mot Degerfors och behöver troligen vinna för att knipa kvalplatsen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Öis' path to the decider – day by day",
+        "summary": "Öis face Degerfors and will probably need to win to clinch the play-off place."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:31:19+01:00"
+      }
+    },
     {
       "id": "459205edd30b",
       "schema_version": 1,
@@ -5553,33 +5587,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T20:45:59+01:00"
-      }
-    },
-    {
-      "id": "7cccda4570b7",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/fin-start-av-stark-jagar-40-miljoner-kronor",
-      "guid": "09f715a7-196f-48b3-b3cb-5260a47420a3",
-      "published_at": "2026-11-19T20:15:00+01:00",
-      "fetched_at": "2026-11-19T20:15:50+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/0480f46f-babc-41ae-862a-34958932c97a.jpg?width=600",
-      "sv": {
-        "title": "Fin start av Stark – jagar 40 miljoner kronor",
-        "summary": "Maja Stark fick en fin start på säsongsfinalen av LPGA-touren i Florida där vinnaren kammar hem drygt 40 miljoner kronor. Den svenska golfaren gick den första rundan på tre slag under par.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Strong start for Stark – chasing SEK 40 million",
-        "summary": "Maja Stark had a strong start to the season-final of the LPGA Tour in Florida, where the winner takes home just over SEK 40 million. The Swedish golfer shot three under par in the first round."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T20:15:56+01:00"
       }
     }
   ]

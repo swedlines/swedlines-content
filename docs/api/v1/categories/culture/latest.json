@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-25T17:16:13+01:00",
+  "generated_at": "2026-11-25T17:31:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e3d77a470dd7",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/jenny-lindh-har-ar-de-basta-ljudbockerna-just-nu-34",
+      "guid": "https://www.dn.se/kultur/jenny-lindh-har-ar-de-basta-ljudbockerna-just-nu-34/",
+      "published_at": "2026-11-25T17:26:24+01:00",
+      "fetched_at": "2026-11-25T17:31:04+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/18825e56-dff8-46ad-b487-73b73b469c34.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Jenny Lindh: Här är de bästa ljudböckerna just nu",
+        "summary": "DN:s bibliotekarie tipsar om ljudböcker – den här veckan handlar det om antikt underhållningsvåld, målbelyst stumfilmsdrama och Londons undre värld.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jenny Lindh: Here are the best audiobooks right now",
+        "summary": "DN's librarian recommends audiobooks – this week it is about ancient entertainment violence, an illuminated silent-film drama and London's underworld."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:31:19+01:00"
+      }
+    },
+    {
+      "id": "13e3738a6b3e",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/3BJ2j0/test-arets-basta-glogg-2026",
+      "guid": "https://www.svd.se/a/3BJ2j0/test-arets-basta-glogg-2026?utm_medium=rss",
+      "published_at": "2026-11-25T17:23:28+01:00",
+      "fetched_at": "2026-11-25T17:31:05+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/1e22aff1-7325-320a-97cd-e50554c8ef92?format=auto&s=7955bc201ac1ed4e554a6f4a2b18b74592ab45c7&w=1000",
+      "sv": {
+        "title": "”Lovorden står på kö när glöggen testas”",
+        "summary": "SvD har testat glögg och hittat en vinnare inför första advent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”The laurels queue up as glögg is tested”",
+        "summary": "SvD has tested glögg and found a winner ahead of the first Advent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:31:19+01:00"
+      }
+    },
     {
       "id": "ae9cf5e26176",
       "schema_version": 1,
@@ -5657,64 +5711,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T22:15:55+01:00"
-      }
-    },
-    {
-      "id": "bde1fd29190b",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3AAr1WxffckQWrBuaYI4xz/favoriten-om-juryns-latval-hade-nog-hellre-fjaeskat-foer-peg",
-      "guid": "3AAr1WxffckQWrBuaYI4xz",
-      "published_at": "2026-11-21T21:28:08+01:00",
-      "fetched_at": "2026-11-21T21:30:59+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "Favoriten om juryns låtval: ”Hade nog hellre fjäskat för Peg”",
-        "summary": "Bagge och gänget har fått bestämma låtarna • Missen inför",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The favourite on the jury's song picks: “I'd rather have sucked up to Peg”",
-        "summary": "Bagge and the gang have been allowed to choose the songs • Miss out on"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T21:31:04+01:00"
-      }
-    },
-    {
-      "id": "a6f56d6ec8cd",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1NM4WXL0mBfTH0gpclEGIa/16-aringen-far-hela-arenan-att-koka",
-      "guid": "1NM4WXL0mBfTH0gpclEGIa",
-      "published_at": "2026-11-21T21:18:02+01:00",
-      "fetched_at": "2026-11-21T21:30:59+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "16-åringen får hela arenan att koka",
-        "summary": "Oliver: ”Sjukaste jag har hört”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "16-year-old gets the whole arena boiling",
-        "summary": "Oliver: “The sickest I've heard”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T21:31:04+01:00"
       }
     }
   ]

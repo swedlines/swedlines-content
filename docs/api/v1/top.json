@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:16:13+01:00",
+  "generated_at": "2026-11-25T17:31:23+01:00",
   "count": 30,
   "stories": [
     {
@@ -1917,6 +1917,137 @@
       ]
     },
     {
+      "id": "447b6975b30e",
+      "source_count": 2,
+      "sources": [
+        "gp",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-25T14:58:35+01:00",
+      "last_published_at": "2026-11-25T17:24:46+01:00",
+      "lead": {
+        "id": "447b6975b30e",
+        "schema_version": 1,
+        "source": "gp",
+        "url": "https://www.gp.se/nyheter/varlden/bly-kan-spridas-nar-armen-spranger-farligt-amne.5faf9463-c2ee-5411-b612-57ae916dcac1",
+        "guid": "5faf9463-c2ee-5411-b612-57ae916dcac1",
+        "published_at": "2026-11-25T14:58:35+01:00",
+        "fetched_at": "2026-11-25T15:31:09+01:00",
+        "category": "world",
+        "feed_categories": [
+          "Världen",
+          "Tagg: Iowa",
+          "Tagg: Uppdatera mig - BEHOV",
+          "Tagg: Bly"
+        ],
+        "image_url": "https://vcdn.polarismedia.no/623eb29c-f95e-3669-8a36-beb4013111d3",
+        "sv": {
+          "title": "Bly kan spridas när USA:s armé spränger farligt ämne",
+          "summary": "Flera ton av det explosiva ämnet blyazid har blivit instabilt i Iowa. Nu ska armén spränag hela rasket i luften, trots att det kan innebära att bly sprids i området.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Lead may spread when US army blows up hazardous substance",
+          "summary": "Several tons of the explosive substance lead azide have become unstable in Iowa. Now the army will blow up the entire batch in the air, even though this may mean lead spreads in the area."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T15:31:19+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "636df40f8054",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/BrROGl/usa-over-fyra-ton-tandamnen-sprangda",
+          "published_at": "2026-11-25T17:24:46+01:00",
+          "sv": {
+            "title": "USA: Över fyra ton tändämnen sprängda"
+          },
+          "en": {
+            "title": "USA: Over four tonnes of primary explosive detonated"
+          }
+        },
+        {
+          "id": "447b6975b30e",
+          "source": "gp",
+          "url": "https://www.gp.se/nyheter/varlden/bly-kan-spridas-nar-armen-spranger-farligt-amne.5faf9463-c2ee-5411-b612-57ae916dcac1",
+          "published_at": "2026-11-25T14:58:35+01:00",
+          "sv": {
+            "title": "Bly kan spridas när USA:s armé spränger farligt ämne"
+          },
+          "en": {
+            "title": "Lead may spread when US army blows up hazardous substance"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dcf5b94527de",
+      "source_count": 2,
+      "sources": [
+        "expressen",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-25T16:09:02+01:00",
+      "last_published_at": "2026-11-25T17:16:25+01:00",
+      "lead": {
+        "id": "dcf5b94527de",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/sverige/dadgostars-brev-till-v-medlemmarna-hade-verkligen-hoppats",
+        "guid": "https://www.expressen.se/nyheter/sverige/dadgostars-brev-till-v-medlemmarna-hade-verkligen-hoppats/",
+        "published_at": "2026-11-25T16:09:02+01:00",
+        "fetched_at": "2026-11-25T16:15:48+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Dadgostars brev till V-medlemmarna: ”Hade verkligen hoppats”",
+          "summary": "De rödgröna regeringsförhandlingarna brakade samman – i stället för C samtal om en borgerlig regering. Nu vädjar V-ledaren Nooshi Dadgostar i ett brev till partimedlemmarna att hålla huvudet högt.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Dadgostar's letter to Left Party members: \"Had really hoped\"",
+          "summary": "The red-green government negotiations collapsed – instead of C, talks about a bourgeois government. Now Left Party leader Nooshi Dadgostar urges party members in a letter to keep their heads held high."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T16:15:54+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "e156f60ce36d",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/j3d4lb/dadgostar-v-till-medlemmarna-hall-huvudet-hogt",
+          "published_at": "2026-11-25T17:16:25+01:00",
+          "sv": {
+            "title": "Dadgostar (V) till medlemmarna: ”Håll huvudet högt”"
+          },
+          "en": {
+            "title": "Dadgostar (V) to members: ”Keep your head held high”"
+          }
+        },
+        {
+          "id": "dcf5b94527de",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/dadgostars-brev-till-v-medlemmarna-hade-verkligen-hoppats",
+          "published_at": "2026-11-25T16:09:02+01:00",
+          "sv": {
+            "title": "Dadgostars brev till V-medlemmarna: ”Hade verkligen hoppats”"
+          },
+          "en": {
+            "title": "Dadgostar's letter to Left Party members: \"Had really hoped\""
+          }
+        }
+      ]
+    },
+    {
       "id": "75c4841be7db",
       "source_count": 2,
       "sources": [
@@ -1987,6 +2118,68 @@
           },
           "en": {
             "title": "AI stocks plunge on deep-red Wall Street: “Wild out there now”"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4ff4056480c1",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "gp"
+      ],
+      "first_published_at": "2026-11-25T16:45:48+01:00",
+      "last_published_at": "2026-11-25T16:51:54+01:00",
+      "lead": {
+        "id": "4ff4056480c1",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-i-landala-i-goteborg",
+        "guid": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-i-landala-i-goteborg",
+        "published_at": "2026-11-25T16:45:48+01:00",
+        "fetched_at": "2026-11-25T17:01:19+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Larm om explosion i Landala i Göteborg",
+          "summary": "En misstänkt explosion har inträffat i Landala i Göteborg. Räddninstjänsten uppger för SVT Nyheter Väst att man fått in samtal om att någon hört en hög smäll i området. – Det är lite oklart om något brinner eller har smällt, säger Fredrik Svedemyr, polisens presstalesperson.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Alarm over explosion in Landala in Göteborg",
+          "summary": "A suspected explosion has occurred in Landala in Göteborg. The rescue service tells SVT Nyheter Väst that it has received calls about someone hearing a loud bang in the area. – It is somewhat unclear whether anything is burning or has exploded, says Fredrik Svedemyr, the police press spokesperson."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T17:01:32+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "7fcf54425145",
+          "source": "gp",
+          "url": "https://www.gp.se/nyheter/goteborg/larm-om-hog-small-och-brand-i-landala.7881b0aa-84d6-5e9d-8cab-637aa1d621a3",
+          "published_at": "2026-11-25T16:51:54+01:00",
+          "sv": {
+            "title": "Larm om hög smäll och brand i Landala"
+          },
+          "en": {
+            "title": "Alarm over loud bang and fire in Landala"
+          }
+        },
+        {
+          "id": "4ff4056480c1",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-i-landala-i-goteborg",
+          "published_at": "2026-11-25T16:45:48+01:00",
+          "sv": {
+            "title": "Larm om explosion i Landala i Göteborg"
+          },
+          "en": {
+            "title": "Alarm over explosion in Landala in Göteborg"
           }
         }
       ]
@@ -2433,206 +2626,6 @@
           },
           "en": {
             "title": "Knesset: Yes to inquiry Netanyahu does not want"
-          }
-        }
-      ]
-    },
-    {
-      "id": "77d6c7ab480d",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-25T12:58:23+01:00",
-      "last_published_at": "2026-11-25T13:14:40+01:00",
-      "lead": {
-        "id": "77d6c7ab480d",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/wdPW9o/migranter-overvaldigar-lilla-kanarieon",
-        "guid": "https://www.aftonbladet.se/nyheter/a/wdPW9o/migranter-overvaldigar-lilla-kanarieon?utm_medium=rss",
-        "published_at": "2026-11-25T12:58:23+01:00",
-        "fetched_at": "2026-11-25T13:01:14+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/f2f883fd-c9d5-3d55-a32a-043c70928ed5?format=auto&s=aeb77c8b1f1900cc23edd4aa2e65f61ee3871c83&w=1000",
-        "sv": {
-          "title": "Migranter överväldigar lilla kanarieön",
-          "summary": "En glesbefolkad liten kanarieö har tagit emot tusentals migrerande människor på kort tid.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Migrants overwhelm small Canary island",
-          "summary": "A sparsely populated small Canary island has received thousands of migrants in a short time."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T13:01:21+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "4e4515ae86fd",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/migranter-overvaldigar-lilla-kanarieon",
-          "published_at": "2026-11-25T13:14:40+01:00",
-          "sv": {
-            "title": "Migranter överväldigar lilla kanarieön"
-          },
-          "en": {
-            "title": "Migrants overwhelm small Canary Island"
-          }
-        },
-        {
-          "id": "77d6c7ab480d",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/wdPW9o/migranter-overvaldigar-lilla-kanarieon",
-          "published_at": "2026-11-25T12:58:23+01:00",
-          "sv": {
-            "title": "Migranter överväldigar lilla kanarieön"
-          },
-          "en": {
-            "title": "Migrants overwhelm small Canary island"
-          }
-        }
-      ]
-    },
-    {
-      "id": "f567947b823b",
-      "source_count": 2,
-      "sources": [
-        "di",
-        "sr"
-      ],
-      "first_published_at": "2026-11-25T10:05:31+01:00",
-      "last_published_at": "2026-11-25T12:02:00+01:00",
-      "lead": {
-        "id": "f567947b823b",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/ditv/borsmorgon/kindberg-batra-drygt-50-procents-chans-for-en-regering-pa-mandag",
-        "guid": "e9c325b2-a41d-5293-9fd4-61c4b8f13e55",
-        "published_at": "2026-11-25T10:05:31+01:00",
-        "fetched_at": "2026-11-25T10:15:42+01:00",
-        "category": "economy",
-        "sv": {
-          "title": "Kindberg Batra: ”Drygt 50 procents chans för en regering på måndag”",
-          "summary": "Moderaternas tidigare partiledare Anna Kindberg Batra om det pressade läget i regeringsbildningen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Kindberg Batra: \"Just over 50 percent chance of a government on Monday\"",
-          "summary": "Former Moderate leader Anna Kindberg Batra on the pressured situation in the government formation."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T10:15:50+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "1006eb73a5ad",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9349498",
-          "published_at": "2026-11-25T12:02:00+01:00",
-          "sv": {
-            "title": "Så fick Centern en vågmästarroll i regeringsbildningen"
-          },
-          "en": {
-            "title": "How the Centre Party became the kingmaker in government formation"
-          }
-        },
-        {
-          "id": "bd7fefa07701",
-          "source": "di",
-          "url": "https://www.di.se/ditv/borsmorgon/kinberg-batra-drygt-50-procents-chans-for-en-regering-pa-mandag",
-          "published_at": "2026-11-25T10:22:56+01:00",
-          "sv": {
-            "title": "Kinberg Batra: ”Drygt 50 procents chans för en regering på måndag”"
-          },
-          "en": {
-            "title": "Kinberg Batra: \"Just over 50 percent chance of a government on Monday\""
-          }
-        },
-        {
-          "id": "f567947b823b",
-          "source": "di",
-          "url": "https://www.di.se/ditv/borsmorgon/kindberg-batra-drygt-50-procents-chans-for-en-regering-pa-mandag",
-          "published_at": "2026-11-25T10:05:31+01:00",
-          "sv": {
-            "title": "Kindberg Batra: ”Drygt 50 procents chans för en regering på måndag”"
-          },
-          "en": {
-            "title": "Kindberg Batra: \"Just over 50 percent chance of a government on Monday\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "934624d92122",
-      "source_count": 2,
-      "sources": [
-        "dn",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-25T08:29:38+01:00",
-      "last_published_at": "2026-11-25T12:00:00+01:00",
-      "lead": {
-        "id": "934624d92122",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/kultur/andrev-walden-gor-det-inte-latt-for-sig-i-sin-andra-roman",
-        "guid": "https://www.dn.se/kultur/andrev-walden-gor-det-inte-latt-for-sig-i-sin-andra-roman/",
-        "published_at": "2026-11-25T08:29:38+01:00",
-        "fetched_at": "2026-11-25T08:30:58+01:00",
-        "category": "culture",
-        "image_url": "https://static.bonniernews.se/ba/316d503f-ed9e-4edd-bb07-052592353099.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Andrev Walden gör det inte lätt för sig i sin andra roman",
-          "summary": "”Jävla karlar” gick segertåg över Sverige. När Andrev Walden nu kommer med sin andra roman byter han genre – men språket bär fortfarande, konstaterar Valerie Kyeyune Backström.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Andrev Walden doesn't make it easy for himself with his second novel",
-          "summary": "\"Jävla karlar\" swept across Sweden. Now that Andrev Walden is coming out with his second novel, he changes genre – but the language still carries, notes Valerie Kyeyune Backström."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T08:31:03+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "2a2c2180f679",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/kultur/fran-javla-karlar-till-spoken-sa-bra-ar-succeforfattarens-nya-roman",
-          "published_at": "2026-11-25T12:00:00+01:00",
-          "sv": {
-            "title": "Från ”Jävla karlar” till spöken – så bra är succéförfattarens nya roman"
-          },
-          "en": {
-            "title": "From “Jävla karlar” to ghosts – how good is the bestselling author’s new novel"
-          }
-        },
-        {
-          "id": "934624d92122",
-          "source": "dn",
-          "url": "https://www.dn.se/kultur/andrev-walden-gor-det-inte-latt-for-sig-i-sin-andra-roman",
-          "published_at": "2026-11-25T08:29:38+01:00",
-          "sv": {
-            "title": "Andrev Walden gör det inte lätt för sig i sin andra roman"
-          },
-          "en": {
-            "title": "Andrev Walden doesn't make it easy for himself with his second novel"
           }
         }
       ]
