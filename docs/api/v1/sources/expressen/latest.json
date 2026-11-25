@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T08:24:34+01:00",
+  "generated_at": "2026-11-25T08:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "99deffafb00b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/ekonomi/tech/tidal-forbjuder-ai-genererad-musik",
+      "guid": "https://www.expressen.se/ekonomi/tech/tidal-forbjuder-ai-genererad-musik/",
+      "published_at": "2026-11-25T08:21:53+01:00",
+      "fetched_at": "2026-11-25T08:30:59+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Tidal förbjuder AI-genererad musik",
+        "summary": "Från den 9 december kommer all helt AI-genererad musik att plockas bort från streamingtjänsten Tidal, som därmed blir först bland streamingtjänsterna att införa ett förbud mot AI-musik.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tidal bans AI-generated music",
+        "summary": "From 9 December, all fully AI-generated music will be removed from the streaming service Tidal, which thereby becomes the first among streaming services to introduce a ban on AI music."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T08:31:03+01:00"
+      }
+    },
     {
       "id": "b837704b8e63",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T16:45:50+01:00"
-      }
-    },
-    {
-      "id": "6885c1a845b3",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/centerns-elande-har-bara-borjat",
-      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/centerns-elande-har-bara-borjat/",
-      "published_at": "2026-11-21T16:24:06+01:00",
-      "fetched_at": "2026-11-21T16:31:03+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Centerns elände har bara börjat",
-        "summary": "De rödgröna förhandlingarna går mot ett ytterst förutsägbart sammanbrott. Det gör Centerpartiet också.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Centre Party's troubles have only just begun",
-        "summary": "The red-greens' negotiations are heading toward a highly predictable collapse. So is the Centre Party."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T16:31:08+01:00"
       }
     }
   ]
