@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T08:15:56+01:00",
+  "generated_at": "2026-11-25T08:24:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b837704b8e63",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-om-braken-med-v-for-dumt",
+      "guid": "https://www.expressen.se/nyheter/politik/magdalena-andersson-om-braken-med-v-for-dumt/",
+      "published_at": "2026-11-25T08:13:16+01:00",
+      "fetched_at": "2026-11-25T08:24:26+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Magdalena Andersson om bråken med V: ”För dumt”",
+        "summary": "Magdalena Andersson är inte imponerad av Vänsterpartiets sätt att förhandla om regeringsfrågan. – Det är för dumt, om man inte är beredd att röra sig en millimeter och försöka lösa det här, säger hon i SVT:s ”Morgonstudion”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Magdalena Andersson on the row with the Left Party: \"Too stupid\"",
+        "summary": "Magdalena Andersson is not impressed by the Left Party's way of negotiating the government question. \"It's too stupid, if you're not willing to move an inch and try to solve this,\" she says on SVT's \"Morgonstudion\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T08:24:31+01:00"
+      }
+    },
     {
       "id": "5eba37e6cf3f",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T16:31:08+01:00"
-      }
-    },
-    {
-      "id": "72b1e68f2a95",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=3fba8d73-2742-4740-addf-c8ac26d32864",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3fba8d73-2742-4740-addf-c8ac26d32864",
-      "published_at": "2026-11-21T16:10:52+01:00",
-      "fetched_at": "2026-11-21T16:15:48+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C-toppen om mötet",
-        "summary": "”Vi har konstruktiva samtal”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Centre Party on the meeting",
-        "summary": "“We are having constructive talks”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T16:15:53+01:00"
       }
     }
   ]

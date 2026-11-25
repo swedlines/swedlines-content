@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-25T08:15:56+01:00",
-  "count": 23,
+  "generated_at": "2026-11-25T08:24:34+01:00",
+  "count": 22,
   "stories": [
     {
       "id": "adfcf6526c82",
-      "source_count": 8,
+      "source_count": 9,
       "sources": [
         "sr",
         "aftonbladet",
@@ -13,10 +13,11 @@
         "expressen",
         "dn",
         "sydsvenskan",
-        "di"
+        "di",
+        "tv4"
       ],
       "first_published_at": "2026-11-25T07:00:00+01:00",
-      "last_published_at": "2026-11-25T07:45:32+01:00",
+      "last_published_at": "2026-11-25T08:23:27+01:00",
       "lead": {
         "id": "adfcf6526c82",
         "schema_version": 1,
@@ -44,6 +45,18 @@
         }
       },
       "items": [
+        {
+          "id": "c47db2c442ec",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/tt-261125-tonarsutvisningar1-24b72eaa/migrationsverket-pausar-utvisningar-av-unga-vuxna",
+          "published_at": "2026-11-25T08:23:27+01:00",
+          "sv": {
+            "title": "Migrationsverket pausar utvisningar av unga vuxna"
+          },
+          "en": {
+            "title": "Migration Agency pauses deportations of young adults"
+          }
+        },
         {
           "id": "641aeb81f7fe",
           "source": "svd",
@@ -1211,101 +1224,75 @@
       ]
     },
     {
-      "id": "770c02abf4da",
-      "source_count": 3,
+      "id": "472980abcd74",
+      "source_count": 2,
       "sources": [
-        "aftonbladet",
-        "sydsvenskan",
-        "sr"
+        "expressen",
+        "svt"
       ],
-      "first_published_at": "2026-11-24T14:03:57+01:00",
-      "last_published_at": "2026-11-24T20:23:00+01:00",
+      "first_published_at": "2026-11-24T22:21:28+01:00",
+      "last_published_at": "2026-11-25T08:13:16+01:00",
       "lead": {
-        "id": "770c02abf4da",
+        "id": "472980abcd74",
         "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/r8Aa58/over-5000-varmerelaterade-dodsfall-i-england",
-        "guid": "https://www.aftonbladet.se/nyheter/a/r8Aa58/over-5000-varmerelaterade-dodsfall-i-england?utm_medium=rss",
-        "published_at": "2026-11-24T14:03:57+01:00",
-        "fetched_at": "2026-11-24T14:15:50+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/46310bbb-c336-3487-9bcb-076a24b50aeb?format=auto&s=d44062f6d45f389175c65b8a7081bb2abf521843&w=1000",
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-rasar-mot-v-inte-rort-sig-en-millimeter",
+        "guid": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-rasar-mot-v-inte-rort-sig-en-millimeter/",
+        "published_at": "2026-11-24T22:21:28+01:00",
+        "fetched_at": "2026-11-24T22:30:59+01:00",
+        "category": "politics",
         "sv": {
-          "title": "Över 5 000 värmerelaterade dödsfall i England",
-          "summary": "Sommarens extremhetta i England medförde 5 258 värmerelaterade dödsfall – det högsta antalet sedan…",
-          "summary_origin": "feed"
+          "title": "Magdalena Andersson (S) rasar mot V: ”Inte rört sig en millimeter”",
+          "summary": "S-ledaren Magdalena Andersson går till hård attack mot V i ”Aktuellt” på tisdagskvällen. – V har inte rört sig en millimeter under de här veckorna. MP:s språkrör har dock inte gett upp hoppet om en rödgrön regering.",
+          "summary_origin": "truncated"
         },
         "en": {
-          "title": "Over 5,000 heat-related deaths in England",
-          "summary": "Summer's extreme heat in England caused 5,258 heat-related deaths – the highest number since…"
+          "title": "Magdalena Andersson (S) lashes out at the Left Party: \"Not moved an inch\"",
+          "summary": "Social Democrat leader Magdalena Andersson launches a sharp attack on the Left Party in \"Aktuellt\" on Tuesday evening. – The Left Party has not moved an inch these past weeks. However, the Green Party's spokespersons have not given up hope of a red-green government."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T14:16:06+01:00"
+          "translated_at": "2026-11-24T22:31:04+01:00"
         }
       },
       "items": [
         {
-          "id": "13569b17b970",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9349424",
-          "published_at": "2026-11-24T20:23:00+01:00",
+          "id": "b837704b8e63",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-om-braken-med-v-for-dumt",
+          "published_at": "2026-11-25T08:13:16+01:00",
           "sv": {
-            "title": "Över 5 000 döda efter Storbritanniens värmeböljor"
+            "title": "Magdalena Andersson om bråken med V: ”För dumt”"
           },
           "en": {
-            "title": "Over 5,000 dead after Britain's heatwaves"
+            "title": "Magdalena Andersson on the row with the Left Party: \"Too stupid\""
           }
         },
         {
-          "id": "a3bd23adf93f",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/klimat/a/oMpoV0/over-5000-varmerelaterade-dodsfall-i-england",
-          "published_at": "2026-11-24T14:20:13+01:00",
+          "id": "436de4a0610b",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/andersson-v-har-inte-rort-sig-en-millimeter",
+          "published_at": "2026-11-24T23:31:31+01:00",
           "sv": {
-            "title": "Över 5 000 värmerelaterade dödsfall i England"
+            "title": "Andersson: V har inte ”rört sig en millimeter”"
           },
           "en": {
-            "title": "Over 5,000 heat-related deaths in England"
+            "title": "Andersson: V has not “moved an inch”"
           }
         },
         {
-          "id": "4b48da7c9913",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1507249",
-          "published_at": "2026-11-24T14:20:13+01:00",
+          "id": "472980abcd74",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-rasar-mot-v-inte-rort-sig-en-millimeter",
+          "published_at": "2026-11-24T22:21:28+01:00",
           "sv": {
-            "title": "Över 5 000 värmerelaterade dödsfall i England"
+            "title": "Magdalena Andersson (S) rasar mot V: ”Inte rört sig en millimeter”"
           },
           "en": {
-            "title": "Over 5,000 heat-related deaths in England"
-          }
-        },
-        {
-          "id": "775a4ac1fd71",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/over-5-000-varmerelaterade-dodsfall-i-england",
-          "published_at": "2026-11-24T14:10:59+01:00",
-          "sv": {
-            "title": "Över 5 000 värmerelaterade dödsfall i England"
-          },
-          "en": {
-            "title": "Over 5,000 heat-related deaths in England"
-          }
-        },
-        {
-          "id": "770c02abf4da",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/r8Aa58/over-5000-varmerelaterade-dodsfall-i-england",
-          "published_at": "2026-11-24T14:03:57+01:00",
-          "sv": {
-            "title": "Över 5 000 värmerelaterade dödsfall i England"
-          },
-          "en": {
-            "title": "Over 5,000 heat-related deaths in England"
+            "title": "Magdalena Andersson (S) lashes out at the Left Party: \"Not moved an inch\""
           }
         }
       ]
@@ -1619,68 +1606,6 @@
           },
           "en": {
             "title": "Thand Ringqvist's words at the internal Centre Party meeting: “Takes a beating”"
-          }
-        }
-      ]
-    },
-    {
-      "id": "472980abcd74",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "svt"
-      ],
-      "first_published_at": "2026-11-24T22:21:28+01:00",
-      "last_published_at": "2026-11-24T23:31:31+01:00",
-      "lead": {
-        "id": "472980abcd74",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-rasar-mot-v-inte-rort-sig-en-millimeter",
-        "guid": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-rasar-mot-v-inte-rort-sig-en-millimeter/",
-        "published_at": "2026-11-24T22:21:28+01:00",
-        "fetched_at": "2026-11-24T22:30:59+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Magdalena Andersson (S) rasar mot V: ”Inte rört sig en millimeter”",
-          "summary": "S-ledaren Magdalena Andersson går till hård attack mot V i ”Aktuellt” på tisdagskvällen. – V har inte rört sig en millimeter under de här veckorna. MP:s språkrör har dock inte gett upp hoppet om en rödgrön regering.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Magdalena Andersson (S) lashes out at the Left Party: \"Not moved an inch\"",
-          "summary": "Social Democrat leader Magdalena Andersson launches a sharp attack on the Left Party in \"Aktuellt\" on Tuesday evening. – The Left Party has not moved an inch these past weeks. However, the Green Party's spokespersons have not given up hope of a red-green government."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T22:31:04+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "436de4a0610b",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/andersson-v-har-inte-rort-sig-en-millimeter",
-          "published_at": "2026-11-24T23:31:31+01:00",
-          "sv": {
-            "title": "Andersson: V har inte ”rört sig en millimeter”"
-          },
-          "en": {
-            "title": "Andersson: V has not “moved an inch”"
-          }
-        },
-        {
-          "id": "472980abcd74",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-rasar-mot-v-inte-rort-sig-en-millimeter",
-          "published_at": "2026-11-24T22:21:28+01:00",
-          "sv": {
-            "title": "Magdalena Andersson (S) rasar mot V: ”Inte rört sig en millimeter”"
-          },
-          "en": {
-            "title": "Magdalena Andersson (S) lashes out at the Left Party: \"Not moved an inch\""
           }
         }
       ]
