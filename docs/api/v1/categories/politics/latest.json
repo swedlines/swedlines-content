@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-11-25T19:34:55+01:00",
+  "generated_at": "2026-11-25T19:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6ffbfd58f9a0",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/64C2VN35nlHXxfsDmVQfNr/centerkvinnorna-saeger-nej-till-kristersson-regering",
+      "guid": "64C2VN35nlHXxfsDmVQfNr",
+      "published_at": "2026-11-25T19:44:31+01:00",
+      "fetched_at": "2026-11-25T19:45:46+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Centerkvinnorna säger nej till Kristersson-regering",
+        "summary": "Sprickan inom C blir allt djupare",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party women say no to a Kristersson government",
+        "summary": "The rift within the Centre Party is growing ever deeper"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T19:45:51+01:00"
+      }
+    },
+    {
+      "id": "7c8cf637e4f7",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdPW61/migrationsverket-om-pausen-ett-exceptionellt-lage",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdPW61/migrationsverket-om-pausen-ett-exceptionellt-lage?utm_medium=rss",
+      "published_at": "2026-11-25T19:40:05+01:00",
+      "fetched_at": "2026-11-25T19:45:44+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/a58759f1-8270-345e-9461-13a6b7417787?format=auto&s=08ab4416c751f540fb956f1f8fb65d84acf80025&w=1000",
+      "sv": {
+        "title": "Migrationsverket om pausen: ”Ett exceptionellt läge”",
+        "summary": "”Exceptionellt läge”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Migration Agency on the pause: “An exceptional situation”",
+        "summary": "“Exceptional situation”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T19:45:51+01:00"
+      }
+    },
     {
       "id": "5774a101f405",
       "schema_version": 1,
@@ -5338,58 +5394,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T11:59:14+01:00"
-      }
-    },
-    {
-      "id": "d5feab450a2c",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348764",
-      "guid": "rss:sr.se/article/9348764",
-      "published_at": "2026-11-24T08:21:00+01:00",
-      "fetched_at": "2026-11-24T08:31:00+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Gissén: Det ljusnar för Ulf Kristersson",
-        "summary": "Elisabeth Thand Ringqvist (C) återupptar samtalen med Moderaterna, Liberalerna och Kristdemokraterna om regeringsbildningen, efter att Vänsterpartiet avvisat det rödgröna budet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Gissén: Things are looking up for Ulf Kristersson",
-        "summary": "Elisabeth Thand Ringqvist (C) resumes talks with the Moderates, the Liberals and the Christian Democrats on the government formation, after the Left Party rejected the red-greens' offer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T08:31:13+01:00"
-      }
-    },
-    {
-      "id": "fc630b9fe5da",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/661aVedTlrdGYawj7xysqM/raecker-det-foer-att-oevertyga-skeptikerna-i-centern",
-      "guid": "661aVedTlrdGYawj7xysqM",
-      "published_at": "2026-11-24T08:18:38+01:00",
-      "fetched_at": "2026-11-24T08:20:55+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Valet 2026"
-      ],
-      "sv": {
-        "title": "Räcker det för att övertyga skeptikerna i Centern?"
-      },
-      "en": {
-        "title": "Is it enough to convince the sceptics in the Centre Party?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T08:21:00+01:00"
       }
     }
   ]

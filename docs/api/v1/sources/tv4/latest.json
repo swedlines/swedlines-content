@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-25T19:34:55+01:00",
+  "generated_at": "2026-11-25T19:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6ffbfd58f9a0",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/64C2VN35nlHXxfsDmVQfNr/centerkvinnorna-saeger-nej-till-kristersson-regering",
+      "guid": "64C2VN35nlHXxfsDmVQfNr",
+      "published_at": "2026-11-25T19:44:31+01:00",
+      "fetched_at": "2026-11-25T19:45:46+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Centerkvinnorna säger nej till Kristersson-regering",
+        "summary": "Sprickan inom C blir allt djupare",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party women say no to a Kristersson government",
+        "summary": "The rift within the Centre Party is growing ever deeper"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T19:45:51+01:00"
+      }
+    },
     {
       "id": "e2957d35bad1",
       "schema_version": 1,
@@ -5756,35 +5785,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T19:01:19+01:00"
-      }
-    },
-    {
-      "id": "a3e89dcbaed7",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/46ZhOLjnlXrgZmYjgVhXL6/foernedrades-och-misshandlades-av-pojkgaeng-stampade-pa-mitt-huvud",
-      "guid": "46ZhOLjnlXrgZmYjgVhXL6",
-      "published_at": "2026-11-17T18:09:24+01:00",
-      "fetched_at": "2026-11-17T18:15:48+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Brott och straff"
-      ],
-      "sv": {
-        "title": "Förnedrades och misshandlades av pojkgäng: ”Stampade på mitt huvud”",
-        "summary": "Domen mot pojkgänget föll i dag i Västmanlands tingsrätt. Sex tonåringar var inblandade i förnedringsmisshandeln, men tre av dem var under 15 år och kunde därför inte åtalas eller dömas.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Humiliated and assaulted by boy gang: \"Stomped on my head\"",
-        "summary": "The verdict against the boy gang was handed down today at Västmanland District Court. Six teenagers were involved in the humiliation assault, but three of them were under 15 and could therefore not be charged or convicted."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:15:56+01:00"
       }
     }
   ]
