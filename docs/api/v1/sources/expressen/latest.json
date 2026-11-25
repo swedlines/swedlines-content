@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T05:01:16+01:00",
+  "generated_at": "2026-11-25T05:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6fcf8295a92f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7f952430-3caa-4a65-9475-259319033e03",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7f952430-3caa-4a65-9475-259319033e03",
+      "published_at": "2026-11-25T05:10:58+01:00",
+      "fetched_at": "2026-11-25T05:15:53+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Man död i brand",
+        "summary": "Började brinna på gård",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man dead in fire",
+        "summary": "Began burning at farm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T05:15:59+01:00"
+      }
+    },
     {
       "id": "390524b485a9",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T14:31:14+01:00"
-      }
-    },
-    {
-      "id": "c89e45fe1492",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/fartyg-attackerat-drivit-till-finlandskt-vatten",
-      "guid": "https://www.expressen.se/nyheter/varlden/fartyg-attackerat-drivit-till-finlandskt-vatten/",
-      "published_at": "2026-11-21T14:00:49+01:00",
-      "fetched_at": "2026-11-21T14:15:49+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Fartyg attackerat – drivit till finländskt vatten",
-        "summary": "Ett fraktfartyg har attackerats i Finska viken och drivit in i finländskt vatten. Fartyget ifråga står under sanktioner för vapentransporter till den ryska militären.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ship attacked – drifted into Finnish waters",
-        "summary": "A cargo ship has been attacked in the Gulf of Finland and drifted into Finnish waters. The vessel in question is under sanctions for transporting weapons to the Russian military."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T14:15:55+01:00"
       }
     }
   ]

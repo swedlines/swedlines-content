@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-25T05:01:16+01:00",
+  "generated_at": "2026-11-25T05:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b52e74ec030c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/vellinge/larm-om-villabrand",
+      "guid": "f6bb5f7a-85d5-45ad-9411-b581574818ac",
+      "published_at": "2026-11-25T05:14:27+01:00",
+      "fetched_at": "2026-11-25T05:15:55+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Larm om villabrand",
+        "summary": "Tidigt på onsdagsmorgonen larmades SOS Alarm om en villabrand i Falsterbo.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm over villa fire",
+        "summary": "Early on Wednesday morning, SOS Alarm was alerted to a villa fire in Falsterbo."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T05:15:59+01:00"
+      }
+    },
+    {
+      "id": "6fcf8295a92f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7f952430-3caa-4a65-9475-259319033e03",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7f952430-3caa-4a65-9475-259319033e03",
+      "published_at": "2026-11-25T05:10:58+01:00",
+      "fetched_at": "2026-11-25T05:15:53+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Man död i brand",
+        "summary": "Började brinna på gård",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man dead in fire",
+        "summary": "Began burning at farm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T05:15:59+01:00"
+      }
+    },
     {
       "id": "bc8f6216c250",
       "schema_version": 1,
@@ -5397,58 +5449,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T08:31:10+01:00"
-      }
-    },
-    {
-      "id": "a6613e8bbdbf",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8cae0a49-2550-4182-8e9f-0b3a55cfa994",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8cae0a49-2550-4182-8e9f-0b3a55cfa994",
-      "published_at": "2026-11-20T07:16:27+01:00",
-      "fetched_at": "2026-11-20T07:31:06+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Stopp efter olycka på E18: ”Blixthalka”",
-        "summary": "Stopp efter olycka på E18",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stop after accident on E18: “Black ice”",
-        "summary": "Stop after accident on E18"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:31:23+01:00"
-      }
-    },
-    {
-      "id": "a1eba175c25a",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=1fee3f84-c240-46d5-9ac6-340a27fc03b4",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1fee3f84-c240-46d5-9ac6-340a27fc03b4",
-      "published_at": "2026-11-20T06:56:06+01:00",
-      "fetched_at": "2026-11-20T07:01:06+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Olycka på E4",
-        "summary": "Trafikverket: ”Mycket stor påverkan”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Accident on the E4",
-        "summary": "Transport Administration: \"Very major impact\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:01:13+01:00"
       }
     }
   ]

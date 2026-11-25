@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-25T05:01:16+01:00",
+  "generated_at": "2026-11-25T05:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7144ef931cfd",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/trump-alltid-mojligt-att-benada-huang",
+      "guid": "bcca1230-fb6b-4218-8548-c6083715b748",
+      "published_at": "2026-11-25T05:12:30+01:00",
+      "fetched_at": "2026-11-25T05:15:54+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6e58a35d-5e6f-4297-8e94-49571a341f85.jpg?width=600",
+      "sv": {
+        "title": "Trump: Alltid möjligt att benåda Huang",
+        "summary": "USA:s president Donald Trump öppnar för att benåda Nvidias vd Jensen Huang för eventuella brott. – Det är alltid en möjlighet antar jag, men jag tror inte att det kommer att bli nödvändigt, säger presidenten till New York Post.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump: Pardoning Huang always possible",
+        "summary": "US President Donald Trump is open to pardoning Nvidia CEO Jensen Huang for possible crimes. \"It's always a possibility, I guess, but I don't think it will be necessary,\" the president told the New York Post."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T05:15:59+01:00"
+      }
+    },
+    {
+      "id": "ac4bb8f18917",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/huawei-doms-i-usa",
+      "guid": "425fab0d-000d-4a11-931b-9d9c3abeaa03",
+      "published_at": "2026-11-25T05:12:13+01:00",
+      "fetched_at": "2026-11-25T05:15:54+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/54c13356-c5fe-460f-bb87-55b36c735f6d.jpg?width=600",
+      "sv": {
+        "title": "Huawei döms i USA",
+        "summary": "Huawei döms i amerikansk domstol för att bland annat ha haft upplägg för att stjäla handelshemligheter, rapporterar flera medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Huawei convicted in US",
+        "summary": "Huawei has been convicted in a US court of, among other things, having schemes to steal trade secrets, multiple media outlets report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T05:15:59+01:00"
+      }
+    },
+    {
+      "id": "5ab8aabaf539",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/detta-hander-tisdag-25-november-1uDiz",
+      "guid": "4871329a-e1d1-4a2f-bb6c-c88ff6446673",
+      "published_at": "2026-11-25T05:00:00+01:00",
+      "fetched_at": "2026-11-25T05:15:54+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Detta händer tisdag 25 november",
+        "summary": "Under onsdagen öppnar medicinteknikbolagen Elekta och Sectra, samt läkemedelsbolaget Bioarctic, sina böcker. Det blir också serieförvärvaren Haskos första dag på Stockholmsbörsen. I USA väntas PCE-siffror, vilket är Feds främsta inflationsmått.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "What happens Tuesday 25 November",
+        "summary": "On Wednesday, medtech companies Elekta and Sectra, as well as pharmaceutical company Bioarctic, open their books. It is also the first day on the Stockholm Stock Exchange for serial acquirer Hasko. In the US, PCE figures are expected, which is the Fed's main inflation gauge."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T05:15:59+01:00"
+      }
+    },
     {
       "id": "1f59b310f8e0",
       "schema_version": 1,
@@ -5247,85 +5327,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T15:10:54+01:00"
-      }
-    },
-    {
-      "id": "e8daa13c4720",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/indikator-usa-s-ekonomi-i-recessions-zonen",
-      "guid": "1f2a9bc0-ea55-4dda-8cdf-eceabe511623",
-      "published_at": "2026-11-23T14:48:13+01:00",
-      "fetched_at": "2026-11-23T15:01:09+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Indikator: USA:s ekonomi i recessions-zonen",
-        "summary": "Chicago Federal Reserves nationella aktivitetsindex noterades till minus 0,06 i oktober, ned från 0,05 föregående månad.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Indicator: US economy in recession zone",
-        "summary": "The Chicago Federal Reserve's national activity index came in at minus 0.06 in October, down from 0.05 the previous month."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T15:01:15+01:00"
-      }
-    },
-    {
-      "id": "80a59efecf5e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/lego-bygger-ny-fabrik-for-11-miljarder",
-      "guid": "deba3e86-93df-4316-8167-d449f59ee1e4",
-      "published_at": "2026-11-23T14:45:37+01:00",
-      "fetched_at": "2026-11-23T15:01:09+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/99706539-af2d-47dc-aae5-5052dc96eacd.jpg?width=600",
-      "sv": {
-        "title": "Lego bygger ny fabrik för 11 miljarder",
-        "summary": "Den danska leksakstillverkaren Lego investerar 1 miljard euro, motsvarande 11 miljarder kronor, på bygget av en ny fabrik i Portugal, för att möta ökad europeisk efterfrågan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lego builds new factory for SEK 11 billion",
-        "summary": "Danish toy maker Lego is investing EUR 1 billion, equivalent to SEK 11 billion, in building a new factory in Portugal to meet increased European demand."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T15:01:15+01:00"
-      }
-    },
-    {
-      "id": "54f928c44141",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/usa-s-ekonomi-sjunker",
-      "guid": "1f2a9bc0-ea55-4dda-8cdf-eceabe511623",
-      "published_at": "2026-11-23T14:34:57+01:00",
-      "fetched_at": "2026-11-23T14:45:50+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "USA:s ekonomi sjunker",
-        "summary": "Chicago Federal Reserves nationella aktivitetsindex noterades till minus 0,06 i oktober, ned från 0,05 föregående månad.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "US economy shrinks",
-        "summary": "The Chicago Federal Reserve's national activity index came in at minus 0.06 in October, down from 0.05 the previous month."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T14:45:56+01:00"
       }
     }
   ]
