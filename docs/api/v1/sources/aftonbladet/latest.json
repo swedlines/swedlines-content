@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T02:31:01+01:00",
+  "generated_at": "2026-11-25T02:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8fdfb3d8681d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/oMprOj/pakistanier-ombord-pa-kinesisk-raket",
+      "guid": "https://www.aftonbladet.se/nyheter/a/oMprOj/pakistanier-ombord-pa-kinesisk-raket?utm_medium=rss",
+      "published_at": "2026-11-25T02:39:14+01:00",
+      "fetched_at": "2026-11-25T02:45:48+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Pakistanier ombord på kinesisk raket",
+        "summary": "Kina har för första gången skjutit upp en raket med en utländsk astronaut ombord.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pakistani on board Chinese rocket",
+        "summary": "China has for the first time launched a rocket with a foreign astronaut on board."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T02:45:53+01:00"
+      }
+    },
     {
       "id": "feb12ab5c54f",
       "schema_version": 1,
@@ -5345,33 +5371,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T02:31:01+01:00"
-      }
-    },
-    {
-      "id": "3db6cf2c2f98",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/0vn70A/ny-kompromiss-pa-cop31-far-bara-eller-brista",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/0vn70A/ny-kompromiss-pa-cop31-far-bara-eller-brista?utm_medium=rss",
-      "published_at": "2026-11-22T00:07:13+01:00",
-      "fetched_at": "2026-11-22T00:15:48+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/d995bc3e-003b-3b15-aab7-1227b95dfdd7?format=auto&s=00eea9e4f487909e6f4a6a69cf5434d7b4c624cc&w=1000",
-      "sv": {
-        "title": "Ny kompromiss på COP31: ”Får bära eller brista”",
-        "summary": "COP31 ”Ett land blockerar väldigt mycket”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New compromise at COP31: \"Will either bear or break\"",
-        "summary": "COP31 \"One country is blocking a great deal\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T00:15:54+01:00"
       }
     }
   ]

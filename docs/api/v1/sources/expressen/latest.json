@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T02:31:01+01:00",
+  "generated_at": "2026-11-25T02:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eb878296b4bb",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/putins-hot--hamnd-ar--oundvikligt",
+      "guid": "https://www.expressen.se/nyheter/varlden/putins-hot--hamnd-ar--oundvikligt/",
+      "published_at": "2026-11-25T02:36:06+01:00",
+      "fetched_at": "2026-11-25T02:45:48+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Putins hot: Hämnd är oundvikligt",
+        "summary": "Putin hotar med hämnd för de fortsatta ukrainska attackerna mot ryska oljeanläggningar – trots Trumps krav på att de ska upphöra, skriver Independent. – Det är oundvikligt, säger Putin. Från ukrainskt håll uppmanas Putin att ”sluta klaga”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin's threat: Revenge is inevitable",
+        "summary": "Putin threatens revenge for the continued Ukrainian attacks on Russian oil facilities – despite Trump's demand that they stop, writes the Independent. – It is inevitable, says Putin. From the Ukrainian side, Putin is urged to \"stop complaining\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T02:45:53+01:00"
+      }
+    },
     {
       "id": "ad11dca35aa2",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T14:01:24+01:00"
-      }
-    },
-    {
-      "id": "2ac05b39734e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/tunga-c-toppen-vill-stotta-kristersson-alliansen-mest-realistisk",
-      "guid": "https://www.expressen.se/nyheter/politik/tunga-c-toppen-vill-stotta-kristersson-alliansen-mest-realistisk/",
-      "published_at": "2026-11-21T12:53:30+01:00",
-      "fetched_at": "2026-11-21T13:01:13+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Tunga C-toppen vill stötta Kristersson: ”Alliansen mest realistisk”",
-        "summary": "De rödgröna regeringsförhandlingarna pågår för fullt. Nu sätter C-toppen Emma Ytterell, tidigare Wiesner, ned foten – och vill samarbeta med den gamla Alliansen. ”Den mest realistiska och ansvarsfulla vägen framåt i det här läget”, skriver hon i ett inlägg på Facebook.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Heavyweight Centre Party leaders want to back Kristersson: “The Alliance most realistic”",
-        "summary": "Red-green government negotiations are in full swing. Now the Centre Party top Emma Ytterell, formerly Wiesner, puts her foot down and wants to cooperate with the old Alliance. “The most realistic and responsible way forward in this situation,” she writes in a Facebook post."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T13:01:30+01:00"
       }
     }
   ]
