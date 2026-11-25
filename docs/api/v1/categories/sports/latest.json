@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T10:01:22+01:00",
+  "generated_at": "2026-11-25T10:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3411b7037bac",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/efter-kvalsuccen-orebro-begar-sig-i-konkurs",
+      "guid": "https://www.dn.se/sport/efter-kvalsuccen-orebro-begar-sig-i-konkurs/",
+      "published_at": "2026-11-25T10:07:26+01:00",
+      "fetched_at": "2026-11-25T10:15:39+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/b7ff24fa-bca9-41f7-94bd-33a63bffe162.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Efter kvalsuccén – Örebro begär sig i konkurs",
+        "summary": "Kif Örebro, som i helgen gick upp i damallsvenskan, begär sig själv i konkurs. Det rapporterar NA. Därmed ser Rosengård ut att få tillbaka platsen i högsta serien.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After play-off success – Örebro files for bankruptcy",
+        "summary": "Kif Örebro, which over the weekend was promoted to the women's Allsvenskan, is filing for bankruptcy itself. NA reports this. As a result, Rosengård looks set to regain the place in the top tier."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T10:15:50+01:00"
+      }
+    },
     {
       "id": "df8bc453b383",
       "schema_version": 1,
@@ -5559,41 +5586,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:31:09+01:00"
-      }
-    },
-    {
-      "id": "afc98d049a61",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/orgryte-is/flera-fragetecken-i-ois-infor-dramat-mot-kalmar.fcdc755b-f281-56f3-b9c7-1678fe39f84d",
-      "guid": "fcdc755b-f281-56f3-b9c7-1678fe39f84d",
-      "published_at": "2026-11-19T15:44:47+01:00",
-      "fetched_at": "2026-11-19T16:01:29+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Örgryte IS",
-        "Tagg: Mikael Dyrestam",
-        "Tagg: Johan Hammar",
-        "Tagg: Öis",
-        "Tagg: Adam Andersson",
-        "Tagg: Andreas Holmberg"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/ee5ebaaa-b0ba-38c9-b8bc-e1b389c21ffe",
-      "sv": {
-        "title": "Flera startspelare saknades på Öis träning",
-        "summary": "Mikael Dyrestam, Christoffer Styffe, Benjamin Laturnus och Adam Andersson osäkra inför Kalmarmatchen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Several starting players were missing from Öis training",
-        "summary": "Mikael Dyrestam, Christoffer Styffe, Benjamin Laturnus and Adam Andersson uncertain ahead of the Kalmar match."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:01:34+01:00"
       }
     }
   ]

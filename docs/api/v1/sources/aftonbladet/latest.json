@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T10:01:22+01:00",
+  "generated_at": "2026-11-25T10:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "232f9f90a01c",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/vkQqJp/bra-farre-doms-for-upprepade-brott",
+      "guid": "https://www.aftonbladet.se/nyheter/a/vkQqJp/bra-farre-doms-for-upprepade-brott?utm_medium=rss",
+      "published_at": "2026-11-25T10:11:26+01:00",
+      "fetched_at": "2026-11-25T10:15:40+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/2874134f-10c4-3005-b8bc-1319a7adc9d4?format=auto&s=d325ae62c85631f6f0c5d8d8f6025b0a6c2f3851&w=1000",
+      "sv": {
+        "title": "Brå: Färre döms för upprepade brott",
+        "summary": "Gruppen som upprepade gånger döms för brott har blivit mindre sedan 2012, enligt Brottsförebyggande…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Brå: Fewer people convicted of repeat offences",
+        "summary": "The group repeatedly convicted of crimes has shrunk since 2012, according to the Swedish National Council for Crime Prevention…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T10:15:50+01:00"
+      }
+    },
     {
       "id": "627317d3af62",
       "schema_version": 1,
@@ -5346,33 +5373,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T13:31:15+01:00"
-      }
-    },
-    {
-      "id": "6a784b59d84b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/aGwoPa/sverige-lamnar-klimatmotet",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/aGwoPa/sverige-lamnar-klimatmotet?utm_medium=rss",
-      "published_at": "2026-11-22T11:53:21+01:00",
-      "fetched_at": "2026-11-22T12:30:59+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/442dfea8-54d3-34e7-b8c0-05027a612311?format=auto&s=e75ea715c925d4b686e6ff85af53bae24b7f27e2&w=1000",
-      "sv": {
-        "title": "Sverige lämnar klimatmötet",
-        "summary": "Ingen överenskommelse nådd",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sweden leaves the climate summit",
-        "summary": "No agreement reached"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T12:31:05+01:00"
       }
     }
   ]

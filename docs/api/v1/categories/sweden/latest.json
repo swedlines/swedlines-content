@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T10:01:22+01:00",
+  "generated_at": "2026-11-25T10:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "401ad8b728a4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=b4c1ef47-01ab-4a5b-87dd-06549987ed63",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b4c1ef47-01ab-4a5b-87dd-06549987ed63",
+      "published_at": "2026-11-25T10:02:50+01:00",
+      "fetched_at": "2026-11-25T10:15:40+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Person påkörd i Skanstull",
+        "summary": "Ambulans på plats",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Person hit by car in Skanstull",
+        "summary": "Ambulance on site"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T10:15:50+01:00"
+      }
+    },
     {
       "id": "e156002c6bb2",
       "schema_version": 1,
@@ -5430,33 +5456,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:16:03+01:00"
-      }
-    },
-    {
-      "id": "91919d17c1af",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/vkQbLL/innertaket-rasade-in-i-forlossningssal-nu-ar-renoveringen-igang-igen",
-      "guid": "https://www.aftonbladet.se/nyheter/a/vkQbLL/innertaket-rasade-in-i-forlossningssal-nu-ar-renoveringen-igang-igen?utm_medium=rss",
-      "published_at": "2026-11-20T15:55:23+01:00",
-      "fetched_at": "2026-11-20T16:01:16+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/1adfde54-8407-3599-87b5-c19ae71e0d87?format=auto&s=58ff143a55da4db48ef40c3d7b4bba0c0762d04a&w=1000",
-      "sv": {
-        "title": "Byggkaos på SÖS innan takraset – oro bland personalen",
-        "summary": "Innertak rasade in i förlossningssal",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Construction chaos at SÖS before ceiling collapse – concern among staff",
-        "summary": "Interior ceiling collapsed into delivery room"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:01:24+01:00"
       }
     }
   ]

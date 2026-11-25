@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T10:01:22+01:00",
+  "generated_at": "2026-11-25T10:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3411b7037bac",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/efter-kvalsuccen-orebro-begar-sig-i-konkurs",
+      "guid": "https://www.dn.se/sport/efter-kvalsuccen-orebro-begar-sig-i-konkurs/",
+      "published_at": "2026-11-25T10:07:26+01:00",
+      "fetched_at": "2026-11-25T10:15:39+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/b7ff24fa-bca9-41f7-94bd-33a63bffe162.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Efter kvalsuccén – Örebro begär sig i konkurs",
+        "summary": "Kif Örebro, som i helgen gick upp i damallsvenskan, begär sig själv i konkurs. Det rapporterar NA. Därmed ser Rosengård ut att få tillbaka platsen i högsta serien.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After play-off success – Örebro files for bankruptcy",
+        "summary": "Kif Örebro, which over the weekend was promoted to the women's Allsvenskan, is filing for bankruptcy itself. NA reports this. As a result, Rosengård looks set to regain the place in the top tier."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T10:15:50+01:00"
+      }
+    },
     {
       "id": "d22c2f612325",
       "schema_version": 1,
@@ -5370,33 +5397,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T18:31:06+01:00"
-      }
-    },
-    {
-      "id": "4aabfee989f7",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/snart-blir-det-dyrare-att-tanka-flera-krisstod-forsvinner-i-december",
-      "guid": "https://www.dn.se/sverige/snart-blir-det-dyrare-att-tanka-flera-krisstod-forsvinner-i-december/",
-      "published_at": "2026-11-21T17:17:18+01:00",
-      "fetched_at": "2026-11-21T17:30:59+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c8c457bd-fc8b-43e0-8924-c65f687b3f1f.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Snart blir det dyrare att tanka – flera krisstöd försvinner i december",
-        "summary": "Den 1 december blir det dyrare att tanka bilen när den tillfälliga skattesänkningen på bensin och diesel löper ut. Men prishöjningen vid pump är bara början – inom kort försvinner flera andra krisstöd som hållit nere hushållens utgifter.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Petrol to get more expensive soon – several crisis support measures disappear in December",
-        "summary": "On 1 December petrol and diesel will become more expensive when the temporary tax cut on petrol and diesel expires. But the price rise at the pump is only the start – several other crisis support measures that have kept household spending down will soon disappear."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T17:31:09+01:00"
       }
     }
   ]
