@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:01:24+01:00",
+  "generated_at": "2026-11-25T09:15:51+01:00",
   "count": 200,
   "items": [
     {
@@ -52,6 +52,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T08:01:20+01:00"
+      }
+    },
+    {
+      "id": "2bad391903e3",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/har-ar-artisterna-i-musikhjalpen-winnerback-bolaget-och-europe",
+      "guid": "https://www.svt.se/nyheter/lokalt/ost/har-ar-artisterna-i-musikhjalpen-winnerback-bolaget-och-europe",
+      "published_at": "2026-11-25T07:42:47+01:00",
+      "fetched_at": "2026-11-25T09:15:39+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Här är artisterna i Musikhjälpen – Winnerbäck, Bolaget och Europe",
+        "summary": "På måndag inleds Musikhjälpen i P3 och på SVT Play. Nu är det klart vilka artister som är med.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here are the artists at Musikhjälpen – Winnerbäck, Bolaget and Europe",
+        "summary": "On Monday Musikhjälpen starts on P3 and SVT Play. Now it is confirmed which artists are taking part."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:15:48+01:00"
       }
     },
     {
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T11:31:11+01:00"
-      }
-    },
-    {
-      "id": "05253b6fcfcb",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/kultur/kontroversiell-forfattare-har-lamnat-sverige",
-      "guid": "https://www.svt.se/kultur/kontroversiell-forfattare-har-lamnat-sverige",
-      "published_at": "2026-11-19T10:56:11+01:00",
-      "fetched_at": "2026-11-19T11:01:16+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Kontroversiell författare har lämnat Sverige",
-        "summary": "Den kontroversiella författaren Bisan Edwan har lämnat Sverige sedan hennes tillfälliga uppehållstillstånd gått ut, skriver Sydsvenskan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Controversial author has left Sweden",
-        "summary": "The controversial author Bisan Edwan has left Sweden since her temporary residence permit expired, Sydsvenskan reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T11:01:27+01:00"
       }
     }
   ]

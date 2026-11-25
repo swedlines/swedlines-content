@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-25T09:01:24+01:00",
+  "generated_at": "2026-11-25T09:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9208311f6298",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/brand-pa-stroms-slott",
+      "guid": "https://www.expressen.se/nyheter/sverige/brand-pa-stroms-slott/",
+      "published_at": "2026-11-25T09:09:45+01:00",
+      "fetched_at": "2026-11-25T09:15:42+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Brand på Ströms slott",
+        "summary": "Brinner i konstruktionen, skriver GP",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fire at Ström Castle",
+        "summary": "Burning in the structure, GP writes"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:15:48+01:00"
+      }
+    },
+    {
+      "id": "9abbe7117205",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trumps-nya-plan-for-iran-vill-forgora-de-radikala-ledarna",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-nya-plan-for-iran-vill-forgora-de-radikala-ledarna/",
+      "published_at": "2026-11-25T09:05:40+01:00",
+      "fetched_at": "2026-11-25T09:15:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps nya plan för Iran: Vill förgöra de radikala ledarna",
+        "summary": "Donald Trump har redan dödat de högsta ledarna i Iran en gång. Nu vill han göra det igen, enligt NBC News. Denna gång vill han fokusera på ”de radikala”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's new plan for Iran: Wants to eliminate the radical leaders",
+        "summary": "Donald Trump has already killed Iran's top leaders once. Now he wants to do it again, according to NBC News. This time he wants to focus on \"the radicals\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:15:48+01:00"
+      }
+    },
     {
       "id": "5a9acce0d487",
       "schema_version": 1,
@@ -5145,58 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T17:45:54+01:00"
-      }
-    },
-    {
-      "id": "6ffdeb70afd1",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=07375efb-5e39-4f07-b79d-99e18c77d1e5",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=07375efb-5e39-4f07-b79d-99e18c77d1e5",
-      "published_at": "2026-11-21T17:36:20+01:00",
-      "fetched_at": "2026-11-21T17:45:44+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Tredje största C–distriktet vill ha Kristersson: ”Mest framkomliga”",
-        "summary": "Tredje största C-distriktet ger besked",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Third-largest Centre Party district wants Kristersson: \"Most viable\"",
-        "summary": "The Centre Party's third-largest district gives its verdict"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T17:45:54+01:00"
-      }
-    },
-    {
-      "id": "ef1485db1278",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/krigsexpert-finns-risk-for-varre-konsekvenser",
-      "guid": "https://www.expressen.se/nyheter/varlden/krigsexpert-finns-risk-for-varre-konsekvenser/",
-      "published_at": "2026-11-21T17:19:09+01:00",
-      "fetched_at": "2026-11-21T17:31:02+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Krigsexpert: Finns risk för värre konsekvenser",
-        "summary": "Ett ryskkopplat fraktfartyg attackerades i Finska viken. Finland, baltländerna och Sverige har kopplats in. Krigsexperten Hans Liwång ser framför sig att konflikten kommer att eskalera. – Det finns risk att detta leder till värre konsekvenser, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Military expert: Risk of worse consequences",
-        "summary": "A Russia-linked cargo ship was attacked in the Gulf of Finland. Finland, the Baltic states and Sweden have been brought in. Military expert Hans Liwång expects the conflict to escalate. – There is a risk that this leads to worse consequences, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T17:31:09+01:00"
       }
     }
   ]

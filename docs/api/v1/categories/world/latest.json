@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T09:01:24+01:00",
+  "generated_at": "2026-11-25T09:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9abbe7117205",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trumps-nya-plan-for-iran-vill-forgora-de-radikala-ledarna",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-nya-plan-for-iran-vill-forgora-de-radikala-ledarna/",
+      "published_at": "2026-11-25T09:05:40+01:00",
+      "fetched_at": "2026-11-25T09:15:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps nya plan för Iran: Vill förgöra de radikala ledarna",
+        "summary": "Donald Trump har redan dödat de högsta ledarna i Iran en gång. Nu vill han göra det igen, enligt NBC News. Denna gång vill han fokusera på ”de radikala”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's new plan for Iran: Wants to eliminate the radical leaders",
+        "summary": "Donald Trump has already killed Iran's top leaders once. Now he wants to do it again, according to NBC News. This time he wants to focus on \"the radicals\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:15:48+01:00"
+      }
+    },
     {
       "id": "ad159fba649f",
       "schema_version": 1,
@@ -5339,33 +5365,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T06:56:30+01:00"
-      }
-    },
-    {
-      "id": "ac4be286b374",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/VxbXnJ/anfall-ar-ukrainas-basta-forsvar",
-      "guid": "https://www.svd.se/a/VxbXnJ/anfall-ar-ukrainas-basta-forsvar?utm_medium=rss",
-      "published_at": "2026-11-23T06:00:00+01:00",
-      "fetched_at": "2026-11-23T06:56:00+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/87ec7d16-1ca3-3489-9973-3240c0dd1e85?format=auto&s=6a23804c55bca2b26dde2b9e78a08a6538690b57&w=1000",
-      "sv": {
-        "title": "Anfall är Ukrainas bästa försvar",
-        "summary": "Omvärlden behöver ge stöd till att slå ännu hårdare mot Ryssland.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Attack is Ukraine's best defence",
-        "summary": "The outside world needs to provide support to strike Russia even harder."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:44+01:00"
       }
     }
   ]

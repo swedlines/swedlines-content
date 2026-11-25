@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-25T09:01:24+01:00",
+  "generated_at": "2026-11-25T09:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9208311f6298",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/brand-pa-stroms-slott",
+      "guid": "https://www.expressen.se/nyheter/sverige/brand-pa-stroms-slott/",
+      "published_at": "2026-11-25T09:09:45+01:00",
+      "fetched_at": "2026-11-25T09:15:42+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Brand på Ströms slott",
+        "summary": "Brinner i konstruktionen, skriver GP",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fire at Ström Castle",
+        "summary": "Burning in the structure, GP writes"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:15:48+01:00"
+      }
+    },
+    {
+      "id": "15ba313ac754",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/KL3VL5/elsparkcykelolyckorna-okar-kraftigt-over-900-barn-skadade",
+      "guid": "https://www.aftonbladet.se/nyheter/a/KL3VL5/elsparkcykelolyckorna-okar-kraftigt-over-900-barn-skadade?utm_medium=rss",
+      "published_at": "2026-11-25T09:02:07+01:00",
+      "fetched_at": "2026-11-25T09:15:42+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/ce2204da-990a-3802-9372-a696450194b9?format=auto&s=3d6703b2a41884bd5e56e77e64b659e96f478293&w=1000",
+      "sv": {
+        "title": "Olyckorna fortsätter att öka: ”Oroande utveckling”",
+        "summary": "Olyckorna ökar ✓ ”Mycket oroande”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Accidents continue to rise: \"Worrying development\"",
+        "summary": "Accidents are increasing ✓ \"Very worrying\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:15:48+01:00"
+      }
+    },
     {
       "id": "90f03107c62a",
       "schema_version": 1,
@@ -5402,59 +5455,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T15:01:26+01:00"
-      }
-    },
-    {
-      "id": "940b3397e2f0",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/KL3K94/demonstrant-i-lund-framtiden-tas-ifran-oss",
-      "guid": "https://www.aftonbladet.se/nyheter/a/KL3K94/demonstrant-i-lund-framtiden-tas-ifran-oss?utm_medium=rss",
-      "published_at": "2026-11-20T14:45:44+01:00",
-      "fetched_at": "2026-11-20T15:01:17+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/b93a9dd4-035f-338c-9c90-56b6f7c5f3ce?format=auto&s=331ace5058ef1731fc4508d1576947ea55834eac&w=1000",
-      "sv": {
-        "title": "Demonstrant i Lund: ”Framtiden tas ifrån oss”",
-        "summary": "Under parollen ”framtiden är stulen och nuet är sålt” har ett par hundra demonstranter tågat genom…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Demonstrator in Lund: \"The future is being taken from us\"",
-        "summary": "Under the slogan \"the future is stolen and the present is sold\", a couple of hundred demonstrators marched through…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T15:01:26+01:00"
-      }
-    },
-    {
-      "id": "21255352d59b",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/aldre-fick-ligga-blota-i-urin-och-full-bloja-pa-boende-i-kalix",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/aldre-fick-ligga-blota-i-urin-och-full-bloja-pa-boende-i-kalix",
-      "published_at": "2026-11-20T14:21:58+01:00",
-      "fetched_at": "2026-11-20T14:30:57+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Äldre fick ligga blöta i urin och full blöja på boende i Kalix",
-        "summary": "Flera personer vid ett äldreboende i Kalix har vid upprepade tillfällen legat blöta av urin i sin sängar. Nu lex Sarah-anmäler kommunen missförhållandena.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Elderly left lying in urine and full nappies at care home in Kalix",
-        "summary": "Several residents at a care home in Kalix have repeatedly lain wet with urine in their beds. Now a Lex Sarah report has been filed against the municipality over the shortcomings."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T14:31:08+01:00"
       }
     }
   ]
