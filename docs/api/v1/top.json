@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:31:23+01:00",
+  "generated_at": "2026-11-25T17:46:02+01:00",
   "count": 30,
   "stories": [
     {
@@ -1351,6 +1351,88 @@
       ]
     },
     {
+      "id": "447b6975b30e",
+      "source_count": 3,
+      "sources": [
+        "gp",
+        "aftonbladet",
+        "dn"
+      ],
+      "first_published_at": "2026-11-25T14:58:35+01:00",
+      "last_published_at": "2026-11-25T17:38:06+01:00",
+      "lead": {
+        "id": "447b6975b30e",
+        "schema_version": 1,
+        "source": "gp",
+        "url": "https://www.gp.se/nyheter/varlden/bly-kan-spridas-nar-armen-spranger-farligt-amne.5faf9463-c2ee-5411-b612-57ae916dcac1",
+        "guid": "5faf9463-c2ee-5411-b612-57ae916dcac1",
+        "published_at": "2026-11-25T14:58:35+01:00",
+        "fetched_at": "2026-11-25T15:31:09+01:00",
+        "category": "world",
+        "feed_categories": [
+          "Världen",
+          "Tagg: Iowa",
+          "Tagg: Uppdatera mig - BEHOV",
+          "Tagg: Bly"
+        ],
+        "image_url": "https://vcdn.polarismedia.no/623eb29c-f95e-3669-8a36-beb4013111d3",
+        "sv": {
+          "title": "Bly kan spridas när USA:s armé spränger farligt ämne",
+          "summary": "Flera ton av det explosiva ämnet blyazid har blivit instabilt i Iowa. Nu ska armén spränag hela rasket i luften, trots att det kan innebära att bly sprids i området.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Lead may spread when US army blows up hazardous substance",
+          "summary": "Several tons of the explosive substance lead azide have become unstable in Iowa. Now the army will blow up the entire batch in the air, even though this may mean lead spreads in the area."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T15:31:19+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "08a570a4a47c",
+          "source": "dn",
+          "url": "https://www.dn.se/varlden/usa-sprangde-fem-ton-giftig-blyladdning",
+          "published_at": "2026-11-25T17:38:06+01:00",
+          "sv": {
+            "title": "USA sprängde fem ton giftig blyladdning"
+          },
+          "en": {
+            "title": "USA detonates five tons of toxic lead azide"
+          }
+        },
+        {
+          "id": "636df40f8054",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/BrROGl/usa-over-fyra-ton-tandamnen-sprangda",
+          "published_at": "2026-11-25T17:24:46+01:00",
+          "sv": {
+            "title": "USA: Över fyra ton tändämnen sprängda"
+          },
+          "en": {
+            "title": "USA: Over four tonnes of primary explosive detonated"
+          }
+        },
+        {
+          "id": "447b6975b30e",
+          "source": "gp",
+          "url": "https://www.gp.se/nyheter/varlden/bly-kan-spridas-nar-armen-spranger-farligt-amne.5faf9463-c2ee-5411-b612-57ae916dcac1",
+          "published_at": "2026-11-25T14:58:35+01:00",
+          "sv": {
+            "title": "Bly kan spridas när USA:s armé spränger farligt ämne"
+          },
+          "en": {
+            "title": "Lead may spread when US army blows up hazardous substance"
+          }
+        }
+      ]
+    },
+    {
       "id": "af6ecd73f09d",
       "source_count": 3,
       "sources": [
@@ -1917,70 +1999,64 @@
       ]
     },
     {
-      "id": "447b6975b30e",
+      "id": "51acf7c28c5b",
       "source_count": 2,
       "sources": [
-        "gp",
-        "aftonbladet"
+        "aftonbladet",
+        "sydsvenskan"
       ],
-      "first_published_at": "2026-11-25T14:58:35+01:00",
-      "last_published_at": "2026-11-25T17:24:46+01:00",
+      "first_published_at": "2026-11-25T17:23:48+01:00",
+      "last_published_at": "2026-11-25T17:37:07+01:00",
       "lead": {
-        "id": "447b6975b30e",
+        "id": "51acf7c28c5b",
         "schema_version": 1,
-        "source": "gp",
-        "url": "https://www.gp.se/nyheter/varlden/bly-kan-spridas-nar-armen-spranger-farligt-amne.5faf9463-c2ee-5411-b612-57ae916dcac1",
-        "guid": "5faf9463-c2ee-5411-b612-57ae916dcac1",
-        "published_at": "2026-11-25T14:58:35+01:00",
-        "fetched_at": "2026-11-25T15:31:09+01:00",
-        "category": "world",
-        "feed_categories": [
-          "Världen",
-          "Tagg: Iowa",
-          "Tagg: Uppdatera mig - BEHOV",
-          "Tagg: Bly"
-        ],
-        "image_url": "https://vcdn.polarismedia.no/623eb29c-f95e-3669-8a36-beb4013111d3",
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/3BJyBL/undersokning-c-har-skott-regeringsbildningen-samst",
+        "guid": "https://www.aftonbladet.se/nyheter/a/3BJyBL/undersokning-c-har-skott-regeringsbildningen-samst?utm_medium=rss",
+        "published_at": "2026-11-25T17:23:48+01:00",
+        "fetched_at": "2026-11-25T17:31:05+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/12aef6c2-6d1b-3896-a91d-fbc0ac541349?format=auto&s=0fd1102e5ca891314f45f24aad3b892327d61982&w=1000",
         "sv": {
-          "title": "Bly kan spridas när USA:s armé spränger farligt ämne",
-          "summary": "Flera ton av det explosiva ämnet blyazid har blivit instabilt i Iowa. Nu ska armén spränag hela rasket i luften, trots att det kan innebära att bly sprids i området.",
+          "title": "Undersökning: C har skött regeringsbildningen sämst",
+          "summary": "Centerpartiet är det parti som har agerat sämst under regeringsbildningen.",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Lead may spread when US army blows up hazardous substance",
-          "summary": "Several tons of the explosive substance lead azide have become unstable in Iowa. Now the army will blow up the entire batch in the air, even though this may mean lead spreads in the area."
+          "title": "Survey: C has handled the government formation worst",
+          "summary": "The Centre Party is the party that has performed worst during the government formation."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T15:31:19+01:00"
+          "translated_at": "2026-11-25T17:31:19+01:00"
         }
       },
       "items": [
         {
-          "id": "636df40f8054",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/BrROGl/usa-over-fyra-ton-tandamnen-sprangda",
-          "published_at": "2026-11-25T17:24:46+01:00",
+          "id": "da25db592873",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/undersokning-c-har-skott-regeringsbildningen-samst",
+          "published_at": "2026-11-25T17:37:07+01:00",
           "sv": {
-            "title": "USA: Över fyra ton tändämnen sprängda"
+            "title": "Undersökning: C har skött regeringsbildningen sämst"
           },
           "en": {
-            "title": "USA: Over four tonnes of primary explosive detonated"
+            "title": "Poll: C has handled the government formation worst"
           }
         },
         {
-          "id": "447b6975b30e",
-          "source": "gp",
-          "url": "https://www.gp.se/nyheter/varlden/bly-kan-spridas-nar-armen-spranger-farligt-amne.5faf9463-c2ee-5411-b612-57ae916dcac1",
-          "published_at": "2026-11-25T14:58:35+01:00",
+          "id": "51acf7c28c5b",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/3BJyBL/undersokning-c-har-skott-regeringsbildningen-samst",
+          "published_at": "2026-11-25T17:23:48+01:00",
           "sv": {
-            "title": "Bly kan spridas när USA:s armé spränger farligt ämne"
+            "title": "Undersökning: C har skött regeringsbildningen sämst"
           },
           "en": {
-            "title": "Lead may spread when US army blows up hazardous substance"
+            "title": "Survey: C has handled the government formation worst"
           }
         }
       ]
@@ -2563,69 +2639,6 @@
           },
           "en": {
             "title": "Wallenberg does not rule out more money for Stegra – \"we are working on the issue\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "18d69bf901c3",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-25T13:09:20+01:00",
-      "last_published_at": "2026-11-25T13:17:57+01:00",
-      "lead": {
-        "id": "18d69bf901c3",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/aGwAqM/knesset-ja-till-utredningen-netanyahu-inte-vill-ha",
-        "guid": "https://www.aftonbladet.se/nyheter/a/aGwAqM/knesset-ja-till-utredningen-netanyahu-inte-vill-ha?utm_medium=rss",
-        "published_at": "2026-11-25T13:09:20+01:00",
-        "fetched_at": "2026-11-25T13:15:48+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/2dcc25c0-189d-3449-a303-bbf6e7dc36c0?format=auto&s=76355078f7d31780e913de056dece29655eb34ab&w=1000",
-        "sv": {
-          "title": "Knesset: Ja till utredningen Netanyahu inte vill ha",
-          "summary": "Israels parlament knesset har röstat ja till en statlig kommission för att utreda 7 oktober-attacken…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Knesset: Yes to inquiry Netanyahu does not want",
-          "summary": "Israel's parliament, the Knesset, has voted yes to a state commission to investigate the 7 October attack…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T13:15:54+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "1c8399db09fb",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/knesset-ja-till-utredningen-netanyahu-inte-vill-ha",
-          "published_at": "2026-11-25T13:17:57+01:00",
-          "sv": {
-            "title": "Knesset: Ja till utredningen Netanyahu inte vill ha"
-          },
-          "en": {
-            "title": "Knesset: Yes to inquiry Netanyahu does not want"
-          }
-        },
-        {
-          "id": "18d69bf901c3",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/aGwAqM/knesset-ja-till-utredningen-netanyahu-inte-vill-ha",
-          "published_at": "2026-11-25T13:09:20+01:00",
-          "sv": {
-            "title": "Knesset: Ja till utredningen Netanyahu inte vill ha"
-          },
-          "en": {
-            "title": "Knesset: Yes to inquiry Netanyahu does not want"
           }
         }
       ]
