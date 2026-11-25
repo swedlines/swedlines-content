@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-25T07:16:01+01:00",
+  "generated_at": "2026-11-25T07:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9071fc260ff5",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/R1RgzA/misstankt-saudisk-spion-pa-open-ai-slapps",
+      "guid": "https://www.svd.se/a/R1RgzA/misstankt-saudisk-spion-pa-open-ai-slapps?utm_medium=rss",
+      "published_at": "2026-11-25T07:24:03+01:00",
+      "fetched_at": "2026-11-25T07:30:58+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/7e85784a-08ec-352d-a1e5-596ced34f390?format=auto&s=4af724d45a09ac282a0a0dea9f0de7a53320e2a6&w=1000",
+      "sv": {
+        "title": "Misstänkt Open AI-spion släpps"
+      },
+      "en": {
+        "title": "Suspected Open AI spy released"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T07:31:10+01:00"
+      }
+    },
     {
       "id": "05ab1f6ffb0e",
       "schema_version": 1,
@@ -5408,33 +5432,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T10:31:10+01:00"
-      }
-    },
-    {
-      "id": "5cb4b6e22053",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Pv9Xez/man-atalas-efter-dodsolycka-pa-ostermalm",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Pv9Xez/man-atalas-efter-dodsolycka-pa-ostermalm?utm_medium=rss",
-      "published_at": "2026-11-20T09:30:55+01:00",
-      "fetched_at": "2026-11-20T09:45:42+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/8d477e0e-87ce-39c8-a5bc-2b2d976f7565?format=auto&s=41c224d40a3b8ac65a6a1897dd85608827b95367&w=1000",
-      "sv": {
-        "title": "Man åtalas efter dödsolycka på Östermalm",
-        "summary": "En man har åtalats misstänkt för bland annat grovt vållande till annans död efter att en kvinna…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man charged after fatal accident on Östermalm",
-        "summary": "A man has been charged, suspected among other things of aggravated negligent homicide after a woman…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T09:45:59+01:00"
       }
     }
   ]
