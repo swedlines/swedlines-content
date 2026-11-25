@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T21:45:51+01:00",
+  "generated_at": "2026-11-25T22:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6b796041b092",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/ikea-it-outsourcar-70--far-jobb-pa-indiskt-bolag",
+      "guid": "https://www.expressen.se/nyheter/sverige/ikea-it-outsourcar-70--far-jobb-pa-indiskt-bolag/",
+      "published_at": "2026-11-25T21:55:51+01:00",
+      "fetched_at": "2026-11-25T22:01:21+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Ikea IT outsourcar – 70 får jobb på indiskt bolag",
+        "summary": "Ett 80-tal anställda och konsulter berörs när Ikea IT flyttar ut verksamhet till ett indiskt konsultbolag, vilket Smålandsposten var först med att rapportera. – Vi tror att det blir effektivare att göra så här, säger Ikeas presschef Fredrik Norrlid.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ikea IT outsources – 70 get jobs at Indian company",
+        "summary": "Around 80 employees and consultants are affected as Ikea IT moves operations to an Indian consultancy firm, as first reported by Smålandsposten. \"We think it will be more efficient to do it this way,\" says Ikea press spokesperson Fredrik Norrlid."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T22:01:25+01:00"
+      }
+    },
     {
       "id": "87c4e44af855",
       "schema_version": 1,
@@ -5161,32 +5187,6 @@
       "en": {
         "title": "District heating outage across all of Gävle",
         "summary": "All of Gävle has been affected by problems with district heating. The operational disruption may affect both heating and hot water."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T17:45:48+01:00"
-      }
-    },
-    {
-      "id": "3a98aff8fe31",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/gt/goteborg-infor-stockholmspriser-pa-p-boter",
-      "guid": "https://www.expressen.se/gt/goteborg-infor-stockholmspriser-pa-p-boter/",
-      "published_at": "2026-11-22T17:30:08+01:00",
-      "fetched_at": "2026-11-22T17:45:42+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Göteborg inför Stockholmspriser på p-böter",
-        "summary": "Göteborgs stad inför ”Stockholmspriser” på p-böter. – Det har blivit en stark rabatt på att parkera fel i Göteborg. Det kan vi inte stå bakom, säger kommunpolitikern Karin Pleijel (MP) till GP.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Göteborg introduces Stockholm prices for parking fines",
-        "summary": "The city of Göteborg is introducing \"Stockholm prices\" for parking fines. – Parking incorrectly has become a strong discount in Göteborg. We cannot stand behind that, says municipal politician Karin Pleijel (MP) to GP."
       },
       "translation": {
         "status": "done",
