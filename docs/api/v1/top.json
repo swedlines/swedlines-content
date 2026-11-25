@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T02:08:18+01:00",
+  "generated_at": "2026-11-25T02:15:51+01:00",
   "count": 30,
   "stories": [
     {
@@ -1684,94 +1684,6 @@
       ]
     },
     {
-      "id": "6aba51595ce2",
-      "source_count": 3,
-      "sources": [
-        "dn",
-        "sydsvenskan",
-        "svd"
-      ],
-      "first_published_at": "2026-11-24T05:12:15+01:00",
-      "last_published_at": "2026-11-24T14:15:00+01:00",
-      "lead": {
-        "id": "6aba51595ce2",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/ledare/vi-kan-inte-bara-skylla-ifran-oss-nar-klimatmotet-misslyckas",
-        "guid": "https://www.dn.se/ledare/vi-kan-inte-bara-skylla-ifran-oss-nar-klimatmotet-misslyckas/",
-        "published_at": "2026-11-24T05:12:15+01:00",
-        "fetched_at": "2026-11-24T05:15:43+01:00",
-        "category": "world",
-        "image_url": "https://static.bonniernews.se/ba/0f8ed6d5-83f8-46a2-aab6-895c9a3cabac.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Ledare: Vi kan inte bara skylla ifrån oss när klimatmötet misslyckas",
-          "summary": "USA vill inte vara med och oljeländer blockerar seriös politik. Men inte ens länderna som är bäst i klassen när det gäller omställningen imponerar.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Editorial: We cannot just blame others when the climate summit fails",
-          "summary": "The US does not want to take part and oil countries block serious policy. But not even the countries that are best in class when it comes to the transition impress."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T05:16:01+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "1677163a60eb",
-          "source": "svd",
-          "url": "https://www.svd.se/a/0vn6g6/fel-att-doma-ut-fn-s-klimatforhandlingar-skriver-mikael-karlsson",
-          "published_at": "2026-11-24T14:15:00+01:00",
-          "sv": {
-            "title": "”Fel att döma ut FN:s klimatförhandlingar”"
-          },
-          "en": {
-            "title": "\"Wrong to condemn the UN climate negotiations\""
-          }
-        },
-        {
-          "id": "a902df10dfaa",
-          "source": "dn",
-          "url": "https://www.dn.se/varlden/efter-fiaskot-vid-klimattoppmotet-eu-vill-andra-beslutsreglerna",
-          "published_at": "2026-11-24T14:11:19+01:00",
-          "sv": {
-            "title": "Efter fiaskot vid klimattoppmötet – EU vill ändra beslutsreglerna"
-          },
-          "en": {
-            "title": "After the fiasco at the climate summit – EU wants to change decision rules"
-          }
-        },
-        {
-          "id": "7dd85d0f5220",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/klimatmotet-blev-ett-fiasko-det-hander-nu",
-          "published_at": "2026-11-24T09:00:58+01:00",
-          "sv": {
-            "title": "Klimatmötet blev ett fiasko – det händer nu"
-          },
-          "en": {
-            "title": "The climate summit was a fiasco – here is what happens now"
-          }
-        },
-        {
-          "id": "6aba51595ce2",
-          "source": "dn",
-          "url": "https://www.dn.se/ledare/vi-kan-inte-bara-skylla-ifran-oss-nar-klimatmotet-misslyckas",
-          "published_at": "2026-11-24T05:12:15+01:00",
-          "sv": {
-            "title": "Ledare: Vi kan inte bara skylla ifrån oss när klimatmötet misslyckas"
-          },
-          "en": {
-            "title": "Editorial: We cannot just blame others when the climate summit fails"
-          }
-        }
-      ]
-    },
-    {
       "id": "2586ba487ac4",
       "source_count": 2,
       "sources": [
@@ -2547,6 +2459,68 @@
           },
           "en": {
             "title": "Ken Fagerberg is dead – former Öis player was 37"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2832cf65995c",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "di"
+      ],
+      "first_published_at": "2026-11-24T14:20:08+01:00",
+      "last_published_at": "2026-11-24T15:41:47+01:00",
+      "lead": {
+        "id": "2832cf65995c",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
+        "guid": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
+        "published_at": "2026-11-24T14:20:08+01:00",
+        "fetched_at": "2026-11-24T14:30:58+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Högsta domstolen: ”Elsparkcykelföretag måste ha polistillstånd”",
+          "summary": "Det är olagligt att ställa ut elsparkcyklar utan polistillstånd. Det här slår Högsta domstolen, HD, fast i en vägledande dom som gäller Gävle kommun och elsparkföretaget Ryde.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Supreme Court: \"E-scooter companies must have police permits\"",
+          "summary": "It is illegal to put out e-scooters without a police permit. The Supreme Court, HD, has established this in a precedent-setting ruling concerning Gävle municipality and the e-scooter company Ryde."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T14:31:07+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "7a21550eae71",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/hd-s-dom-tillstand-kravs-for-elsparkcyklar",
+          "published_at": "2026-11-24T15:41:47+01:00",
+          "sv": {
+            "title": "HD:s dom: Tillstånd krävs för elsparkcyklar"
+          },
+          "en": {
+            "title": "Supreme Court ruling: permit required for e-scooters"
+          }
+        },
+        {
+          "id": "2832cf65995c",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand",
+          "published_at": "2026-11-24T14:20:08+01:00",
+          "sv": {
+            "title": "Högsta domstolen: ”Elsparkcykelföretag måste ha polistillstånd”"
+          },
+          "en": {
+            "title": "Supreme Court: \"E-scooter companies must have police permits\""
           }
         }
       ]
