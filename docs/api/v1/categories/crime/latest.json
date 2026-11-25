@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T19:01:29+01:00",
+  "generated_at": "2026-11-25T19:16:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "83b484b922d4",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350092",
+      "guid": "rss:sr.se/article/9350092",
+      "published_at": "2026-11-25T19:00:00+01:00",
+      "fetched_at": "2026-11-25T19:15:52+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Brattåsmålet i hovrätten – professor varnar för övertro på dna",
+        "summary": "Rättegången i hovrätten om dubbelmordet i Brattås utanför Härnösand för drygt 20 år sedan inleds på onsdagen. Dna-bevisningen är återigen i fokus, sen nya dna-fynd gjorts på material från brottsplatsen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Brattås case in the court of appeal – professor warns against overconfidence in DNA",
+        "summary": "The appeal trial in the court of appeal over the double murder in Brattås outside Härnösand more than 20 years ago begins on Wednesday. DNA evidence is once again in focus, as new DNA findings have been made on material from the crime scene."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T19:16:10+01:00"
+      }
+    },
     {
       "id": "e2957d35bad1",
       "schema_version": 1,
@@ -5395,32 +5421,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T06:16:04+01:00"
-      }
-    },
-    {
-      "id": "159279cb298a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/eslov/grov-misshandel-i-lagenhet",
-      "guid": "acc7082b-4161-4a16-b5b3-fda8d4943e89",
-      "published_at": "2026-11-21T04:46:21+01:00",
-      "fetched_at": "2026-11-21T04:54:30+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Grov misshandel i lägenhet",
-        "summary": "Två personer greps i Eslöv under natten, misstänkta för att ha misshandlat en tredje person i en lägenhet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Aggravated assault in apartment",
-        "summary": "Two people were arrested in Eslöv during the night, suspected of having assaulted a third person in an apartment."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T04:54:31+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T19:01:29+01:00",
+  "generated_at": "2026-11-25T19:16:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e6732979c2a3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/sista-sparen-efter-hunden-zoe-rav",
+      "guid": "https://www.expressen.se/nyheter/sverige/sista-sparen-efter-hunden-zoe-rav/",
+      "published_at": "2026-11-25T19:05:34+01:00",
+      "fetched_at": "2026-11-25T19:15:55+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Sista spåren efter hunden Zoe: ”Räv”",
+        "summary": "Helena och maken började som vanligt dagen med att släppa ut Yorkshireterriern Zoe. Men i morse kom hon inte tillbaka. – Hon var så liten och rädd av sig, hon skulle aldrig springa i väg, säger Helena. Nu befarar de att räven som härjar i Segeltorp tagit Zoe.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Last traces of dog Zoe: “Fox”",
+        "summary": "Helena and her husband started the day as usual by letting out Yorkshire terrier Zoe. But this morning she did not come back. – She was so small and scared, she would never run away, says Helena. Now they fear the fox that is roaming Segeltorp has taken Zoe."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T19:16:10+01:00"
+      }
+    },
     {
       "id": "577b0e6c5ffa",
       "schema_version": 1,
@@ -5436,33 +5462,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T07:01:16+01:00"
-      }
-    },
-    {
-      "id": "c37788b90966",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/vellinge/tvillingboom-pa-naset-sju-familjer-i-samma-foraldragrupp",
-      "guid": "3bd275fd-3a26-4c3a-84bd-12eb8c950d02",
-      "published_at": "2026-11-21T06:30:00+01:00",
-      "fetched_at": "2026-11-21T06:31:04+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/bbb845f8-5f34-4cdf-880f-8d042c69ce4c.jpeg?width=600",
-      "sv": {
-        "title": "Tvillingboom på Näset – sju familjer i samma föräldragrupp",
-        "summary": "De vet allt om obefintlig egentid, extra restavfallstunnor och mat- och sovrutiner med minutprecision. Efter en tvillingboom i våras träffas nu en ovanlig föräldragrupp på familjecentralen i Höllviken för att stötta varandra i vardagen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Twin boom at Näset – seven families in the same parent group",
-        "summary": "They know all about non-existent me-time, extra residual waste bins, and meal and sleep routines down to the minute. After a twin boom this spring, an unusual parent group now meets at the family centre in Höllviken to support one another in everyday life."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T06:31:08+01:00"
       }
     }
   ]

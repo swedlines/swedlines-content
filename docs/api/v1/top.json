@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:01:29+01:00",
+  "generated_at": "2026-11-25T19:16:12+01:00",
   "count": 30,
   "stories": [
     {
@@ -1925,6 +1925,69 @@
       ]
     },
     {
+      "id": "8dcba2577d8a",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "dn"
+      ],
+      "first_published_at": "2026-11-25T17:51:15+01:00",
+      "last_published_at": "2026-11-25T19:01:25+01:00",
+      "lead": {
+        "id": "8dcba2577d8a",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/Oypvjq/ryssland-vi-vantar-pa-europeiskt-svar",
+        "guid": "https://www.svd.se/a/Oypvjq/ryssland-vi-vantar-pa-europeiskt-svar?utm_medium=rss",
+        "published_at": "2026-11-25T17:51:15+01:00",
+        "fetched_at": "2026-11-25T17:51:39+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/6d3bdf73-6e91-3aa1-8b2f-033bafae9a8a?format=auto&s=9b416f2f029485cf3b7eb62ab8f7dd155ef080a7&w=1000",
+        "sv": {
+          "title": "Ryssland: Vi väntar på europeiskt svar",
+          "summary": "Om västeuropeiska länder vill vara med och förhandla om Ukrainakriget så kan de komma till…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Russia: We are waiting for a European response",
+          "summary": "If Western European countries want to take part in negotiating the war in Ukraine, they can come to…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T17:51:45+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "3b61fc1f38f3",
+          "source": "dn",
+          "url": "https://www.dn.se/varlden/tanken-som-ingen-vagar-tanka-vad-hander-om-europa-stanger-planboken-for-ukraina",
+          "published_at": "2026-11-25T19:01:25+01:00",
+          "sv": {
+            "title": "Tanken som ingen vågar tänka: Vad händer om Europa stänger plånboken för Ukraina?"
+          },
+          "en": {
+            "title": "The idea no one dares to think: What happens if Europe closes its wallet to Ukraine?"
+          }
+        },
+        {
+          "id": "8dcba2577d8a",
+          "source": "svd",
+          "url": "https://www.svd.se/a/Oypvjq/ryssland-vi-vantar-pa-europeiskt-svar",
+          "published_at": "2026-11-25T17:51:15+01:00",
+          "sv": {
+            "title": "Ryssland: Vi väntar på europeiskt svar"
+          },
+          "en": {
+            "title": "Russia: We are waiting for a European response"
+          }
+        }
+      ]
+    },
+    {
       "id": "c236fc7d7083",
       "source_count": 2,
       "sources": [
@@ -2567,68 +2630,6 @@
           },
           "en": {
             "title": "Set for a row at EU summit"
-          }
-        }
-      ]
-    },
-    {
-      "id": "a495caf9aa8c",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "sr"
-      ],
-      "first_published_at": "2026-11-25T14:37:00+01:00",
-      "last_published_at": "2026-11-25T15:39:00+01:00",
-      "lead": {
-        "id": "a495caf9aa8c",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/ekonomi/nya-tullar-fran-usa-vantas-upp-till-40-procent-mot-kina",
-        "guid": "https://www.svt.se/nyheter/ekonomi/nya-tullar-fran-usa-vantas-upp-till-40-procent-mot-kina",
-        "published_at": "2026-11-25T14:37:00+01:00",
-        "fetched_at": "2026-11-25T14:45:44+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Nya tullar från USA väntas – upp till 40 procent mot Kina",
-          "summary": "USA väntas införa nya tullar på upp till 20 procent mot EU och 40 procent mot Kina, enligt Bloomberg. Ett officiellt besked väntas under onsdagen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "New US tariffs expected – up to 40 percent on China",
-          "summary": "The US is expected to impose new tariffs of up to 20 percent on the EU and 40 percent on China, according to Bloomberg. An official announcement is expected on Wednesday."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T14:45:52+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "ef5f832f2f36",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9350020",
-          "published_at": "2026-11-25T15:39:00+01:00",
-          "sv": {
-            "title": "Uppgifter: Trump inför nya tullar"
-          },
-          "en": {
-            "title": "Reports: Trump to introduce new tariffs"
-          }
-        },
-        {
-          "id": "a495caf9aa8c",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/ekonomi/nya-tullar-fran-usa-vantas-upp-till-40-procent-mot-kina",
-          "published_at": "2026-11-25T14:37:00+01:00",
-          "sv": {
-            "title": "Nya tullar från USA väntas – upp till 40 procent mot Kina"
-          },
-          "en": {
-            "title": "New US tariffs expected – up to 40 percent on China"
           }
         }
       ]
