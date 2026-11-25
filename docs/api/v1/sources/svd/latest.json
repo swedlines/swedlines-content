@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T01:31:02+01:00",
+  "generated_at": "2026-11-25T01:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2586ba487ac4",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/aGwzQM/dodliga-attacker-i-ukraina",
+      "guid": "https://www.svd.se/a/aGwzQM/dodliga-attacker-i-ukraina?utm_medium=rss",
+      "published_at": "2026-11-25T01:38:56+01:00",
+      "fetched_at": "2026-11-25T01:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Dödliga attacker i Ukraina",
+        "summary": "Minst två personer har dödats i ryska attacker mot Ukraina sent på tisdagen, rapporterar The Kyiv…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Deadly attacks in Ukraine",
+        "summary": "At least two people have been killed in Russian attacks on Ukraine late on Tuesday, reports The Kyiv…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T01:45:48+01:00"
+      }
+    },
     {
       "id": "b3577a1c2104",
       "schema_version": 1,
@@ -5238,33 +5264,6 @@
       },
       "en": {
         "title": "Reports: New Russian vessel in Finnish waters"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T17:45:54+01:00"
-      }
-    },
-    {
-      "id": "578e2d85ba89",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Jn1Kx8/har-blir-det-stopp-for-bilarna-vansinnigt",
-      "guid": "https://www.svd.se/a/Jn1Kx8/har-blir-det-stopp-for-bilarna-vansinnigt?utm_medium=rss",
-      "published_at": "2026-11-21T17:32:55+01:00",
-      "fetched_at": "2026-11-21T17:45:43+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/f50993ae-b16d-3425-898f-6f0b05ca509a?format=auto&s=f9aadffa75f82a7584ad39dbbdd99a0b13aa84af&w=1000",
-      "sv": {
-        "title": "Här blir det stopp för bilarna – ”vansinnigt”",
-        "summary": "I sin första budget för mandatperioden vill Stockholms stad minska biltrafiken alltmer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here's the stop for cars – \"insane\"",
-        "summary": "In its first budget for the mandate period, the City of Stockholm wants to reduce car traffic more and more."
       },
       "translation": {
         "status": "done",
