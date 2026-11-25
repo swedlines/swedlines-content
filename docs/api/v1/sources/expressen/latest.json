@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T11:31:30+01:00",
+  "generated_at": "2026-11-25T11:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0ce526ee4caf",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/c-kvinnor-nej-till-borgerlig-regering",
+      "guid": "https://www.expressen.se/nyheter/politik/c-kvinnor-nej-till-borgerlig-regering/",
+      "published_at": "2026-11-25T11:42:14+01:00",
+      "fetched_at": "2026-11-25T11:45:44+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-kvinnor: Nej till borgerlig regering",
+        "summary": "Centern kan inte göra sig beroende av SD. Det menar Centerkvinnorna. Partiet borde gå i opposition i stället för att ingå i en borgerlig regering, skriver de på Expressen debatt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C-women: No to bourgeois government",
+        "summary": "The Centre Party cannot make itself dependent on the Sweden Democrats. That is the view of the Centre Party Women's League. The party should go into opposition rather than join a bourgeois government, they write in an Expressen debate piece."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:45:51+01:00"
+      }
+    },
     {
       "id": "be13ba336896",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T22:45:53+01:00"
-      }
-    },
-    {
-      "id": "aba82b38b625",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=31c6c01e-9d03-4a5f-8b8d-d72f00c3834d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=31c6c01e-9d03-4a5f-8b8d-d72f00c3834d",
-      "published_at": "2026-11-21T22:21:48+01:00",
-      "fetched_at": "2026-11-21T22:31:00+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisinsats på Östermalm – en skadad",
-        "summary": "En skadad på Östermalm i Stockholm",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police operation in Östermalm – one injured",
-        "summary": "One injured in Östermalm, Stockholm"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T22:31:05+01:00"
       }
     }
   ]

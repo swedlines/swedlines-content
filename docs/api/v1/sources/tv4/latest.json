@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-25T11:31:30+01:00",
+  "generated_at": "2026-11-25T11:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "390d74726cde",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2mjTTmusi5eOp7lynfxEJY/kan-ha-hejats-pa-av-chatbot-gjorde-ju-det-helt-klart-vaerre",
+      "guid": "2mjTTmusi5eOp7lynfxEJY",
+      "published_at": "2026-11-25T11:38:09+01:00",
+      "fetched_at": "2026-11-25T11:45:44+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Kan ha hejats på – av chatbot: ”Gjorde ju det helt klart värre”",
+        "summary": "TV4 Nyheterna har tidigare rapporterat om hur 20-åringen som åtalats för dödsolyckan på Östermalm i september skickade över 500 meddelanden till Metas AI-bot kort före händelsen. Meddelandena är osammanhängande och består till största delen av långa bokstavskombinationer.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "May have cheered on – by chatbot: \"Made it clearly worse\"",
+        "summary": "TV4 Nyheterna has previously reported on how the 20-year-old charged over the fatal accident on Östermalm in September sent over 500 messages to Meta's AI bot shortly before the incident. The messages are incoherent and consist mostly of long letter combinations."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:45:51+01:00"
+      }
+    },
     {
       "id": "5e135340581f",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:16:04+01:00"
-      }
-    },
-    {
-      "id": "77f47d47f5f1",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1jF4Tc7kIhqAP5ZFITT7MH/allt-dyrare-att-driva-ridskola-vi-aer-absolut-oroliga",
-      "guid": "1jF4Tc7kIhqAP5ZFITT7MH",
-      "published_at": "2026-11-17T11:34:12+01:00",
-      "fetched_at": "2026-11-17T15:01:22+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Sport"
-      ],
-      "sv": {
-        "title": "Allt dyrare att driva ridskola: ”Vi är absolut oroliga”",
-        "summary": "Kraftigt ökade kostnader pressar landets ridskolor. När ridavgifterna och ridlektionerna blir dyrare riskerar fler barn att inte längre ha råd att rida. Enligt Svenska Ridsportförbundet har avgifterna för barn och unga ökat med 29 procent sedan 2020.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Running a riding school is getting more expensive: \"We are absolutely worried\"",
-        "summary": "Sharply rising costs are putting pressure on the country's riding schools. As riding fees and riding lessons become more expensive, more children risk no longer being able to afford to ride. According to the Swedish Equestrian Federation, fees for children and young people have risen by 29 percent since 2020."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T15:01:28+01:00"
       }
     }
   ]

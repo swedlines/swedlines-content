@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-11-25T11:31:30+01:00",
+  "generated_at": "2026-11-25T11:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9c3307114a99",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/skane/fangelse-for-tobbe-larsson-doms-for-falskt-testamente",
+      "guid": "04b56dd6-b847-44a6-af42-df79546a002f",
+      "published_at": "2026-11-25T11:45:33+01:00",
+      "fetched_at": "2026-11-25T11:45:45+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/93d2dfb7-4e07-4fea-a7b8-f24921a27d1d.jpeg?width=600",
+      "sv": {
+        "title": "Fängelse för Tobbe Larsson – döms för falskt testamente",
+        "summary": "Tobbe Larsson förfalskade sin grannes namnteckning på testamentet för att själv få arvet – en gård värd 3,5 miljoner. Det slår Ystad tingsrätt fast och dömer hästartisten till ett år och nio månaders fängelse. Också hans två vänner som bevittnade testamentet döms till fängelse för bluffen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Prison for Tobbe Larsson – convicted of forged will",
+        "summary": "Tobbe Larsson forged his neighbour's signature on a will to get the inheritance himself – a farm worth SEK 3.5 million. Ystad District Court rules this and sentences the horse artist to one year and nine months in prison. His two friends who witnessed the will are also sentenced to prison for the scam."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:45:51+01:00"
+      }
+    },
+    {
+      "id": "390d74726cde",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2mjTTmusi5eOp7lynfxEJY/kan-ha-hejats-pa-av-chatbot-gjorde-ju-det-helt-klart-vaerre",
+      "guid": "2mjTTmusi5eOp7lynfxEJY",
+      "published_at": "2026-11-25T11:38:09+01:00",
+      "fetched_at": "2026-11-25T11:45:44+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Kan ha hejats på – av chatbot: ”Gjorde ju det helt klart värre”",
+        "summary": "TV4 Nyheterna har tidigare rapporterat om hur 20-åringen som åtalats för dödsolyckan på Östermalm i september skickade över 500 meddelanden till Metas AI-bot kort före händelsen. Meddelandena är osammanhängande och består till största delen av långa bokstavskombinationer.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "May have cheered on – by chatbot: \"Made it clearly worse\"",
+        "summary": "TV4 Nyheterna has previously reported on how the 20-year-old charged over the fatal accident on Östermalm in September sent over 500 messages to Meta's AI bot shortly before the incident. The messages are incoherent and consist mostly of long letter combinations."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:45:51+01:00"
+      }
+    },
     {
       "id": "600e4404ee63",
       "schema_version": 1,
@@ -5358,59 +5414,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:16:03+01:00"
-      }
-    },
-    {
-      "id": "47ed1d57ef18",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/krim/en-begard-haktad-for-mord-pa-kommunalt-bolag",
-      "guid": "https://www.expressen.se/nyheter/krim/en-begard-haktad-for-mord-pa-kommunalt-bolag/",
-      "published_at": "2026-11-20T16:02:30+01:00",
-      "fetched_at": "2026-11-20T16:15:54+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "En begärd häktad för mord på kommunalt bolag",
-        "summary": "En man i 35-årsåldern begärs häktad efter mordet på ett kommunalt bolag i Enköping i onsdags. Han är på sannolika skäl misstänkt för mord, uppger åklagare Johan Strömbeck för Expressen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "One man requested to be remanded in custody for murder of municipal company",
-        "summary": "A man in his mid-30s is to be remanded in custody following the murder of a municipal company in Enköping on Wednesday. He is suspected on probable cause of murder, prosecutor Johan Strömbeck told Expressen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:16:03+01:00"
-      }
-    },
-    {
-      "id": "587548ba7c54",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/4EqQOR/kvinna-dodades-pa-arbetsplatsen-misstankt-man-begars-haktad",
-      "guid": "https://www.aftonbladet.se/nyheter/a/4EqQOR/kvinna-dodades-pa-arbetsplatsen-misstankt-man-begars-haktad?utm_medium=rss",
-      "published_at": "2026-11-20T16:00:59+01:00",
-      "fetched_at": "2026-11-20T16:01:16+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/ed717951-eac2-4f7a-98e3-3abb2b37b472?format=auto&s=0cd4d3acce5724f2b346ac6917b56ba2b90831ea&w=1000",
-      "sv": {
-        "title": "Kvinna dödades på arbetsplatsen – misstänkt man begärs häktad",
-        "summary": "Kvinna dödad på jobbet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Woman killed at workplace – suspect requested to be remanded in custody",
-        "summary": "Woman killed at work"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:01:24+01:00"
       }
     }
   ]

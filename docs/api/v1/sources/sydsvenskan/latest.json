@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T11:31:30+01:00",
+  "generated_at": "2026-11-25T11:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9c3307114a99",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/skane/fangelse-for-tobbe-larsson-doms-for-falskt-testamente",
+      "guid": "04b56dd6-b847-44a6-af42-df79546a002f",
+      "published_at": "2026-11-25T11:45:33+01:00",
+      "fetched_at": "2026-11-25T11:45:45+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/93d2dfb7-4e07-4fea-a7b8-f24921a27d1d.jpeg?width=600",
+      "sv": {
+        "title": "Fängelse för Tobbe Larsson – döms för falskt testamente",
+        "summary": "Tobbe Larsson förfalskade sin grannes namnteckning på testamentet för att själv få arvet – en gård värd 3,5 miljoner. Det slår Ystad tingsrätt fast och dömer hästartisten till ett år och nio månaders fängelse. Också hans två vänner som bevittnade testamentet döms till fängelse för bluffen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Prison for Tobbe Larsson – convicted of forged will",
+        "summary": "Tobbe Larsson forged his neighbour's signature on a will to get the inheritance himself – a farm worth SEK 3.5 million. Ystad District Court rules this and sentences the horse artist to one year and nine months in prison. His two friends who witnessed the will are also sentenced to prison for the scam."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:45:51+01:00"
+      }
+    },
     {
       "id": "523ba3018025",
       "schema_version": 1,
@@ -5161,32 +5188,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T23:01:21+01:00"
-      }
-    },
-    {
-      "id": "e8cfe5f00c17",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/narmare-50-doda-i-attacker-i-nigeria",
-      "guid": "dcdadbc5-3420-413e-8db7-42ceba788af6",
-      "published_at": "2026-11-22T20:52:05+01:00",
-      "fetched_at": "2026-11-22T21:01:10+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Närmare 50 döda i attacker i Nigeria",
-        "summary": "Minst 46 personer har dödats i en våldsvåg i delstaten Niger i västra Nigeria under helgen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nearly 50 dead in attacks in Nigeria",
-        "summary": "At least 46 people have been killed in a wave of violence in Niger state in western Nigeria over the weekend."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T21:01:15+01:00"
       }
     }
   ]

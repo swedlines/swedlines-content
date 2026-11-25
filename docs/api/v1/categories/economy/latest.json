@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-11-25T11:31:30+01:00",
+  "generated_at": "2026-11-25T11:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7675ae023ba2",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ecb-skjuter-upp-beslut-om-hojda-bankkrav",
+      "guid": "7b5cfae2-ad2b-487d-9cb7-b6dd6099f64a",
+      "published_at": "2026-11-25T11:40:12+01:00",
+      "fetched_at": "2026-11-25T11:45:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/cfd197c5-8dd0-46ed-b623-b04c9725541a.jpeg?width=600",
+      "sv": {
+        "title": "ECB skjuter upp beslut om höjda bankkrav",
+        "summary": "ECB sköt på onsdagen upp beslutet att höja minimikravet för bankernas reserver.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "ECB postpones decision on higher bank requirements",
+        "summary": "On Wednesday the ECB postponed the decision to raise the minimum requirement for banks' reserves."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:45:51+01:00"
+      }
+    },
+    {
+      "id": "151a9fcb8ad2",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/eu-hopp-om-miljarder-till-kvantteknik",
+      "guid": "d7de0865-6b9a-4a92-a8af-057ad6e5c492",
+      "published_at": "2026-11-25T11:36:45+01:00",
+      "fetched_at": "2026-11-25T11:45:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/75eea6f1-fd4b-40d8-9c3a-e1e392c11191.jpg?width=600",
+      "sv": {
+        "title": "EU-hopp om miljarder till kvantteknik",
+        "summary": "EU-kommissionen hoppas få loss över 500 miljarder kronor till investeringar i kvantteknik.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU hopes for billions for quantum technology",
+        "summary": "The European Commission hopes to mobilise over SEK 500 billion for investments in quantum technology."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:45:51+01:00"
+      }
+    },
+    {
+      "id": "8186929be863",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/aktieprofilen-koper-i-frossan-botten-ar-satt",
+      "guid": "63c4142e-b1d5-44f0-9968-6a0cea63973d",
+      "published_at": "2026-11-25T11:26:59+01:00",
+      "fetched_at": "2026-11-25T11:45:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/ad3ac27e-96ae-4faf-9fbb-38a2fc749c85.jpeg?width=600",
+      "sv": {
+        "title": "Aktieprofilen köper i frossan: ”Botten är satt”",
+        "summary": "Efter 26 år på Stockholmsbörsen har den tidigare mäklarchefen Oskar Ekman gjort debut på USA-börsen mitt i AI-turbulensen. I Di:s podd Fear & Greed spår han att börsen har bottnat, ger småspararna rätt i Nvidia – och avslöjar vilka svenska aktier han köper nu.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Stock profile buys into the frenzy: \"The bottom is in\"",
+        "summary": "After 26 years on the Stockholm Stock Exchange, former brokerage chief Oskar Ekman has made his debut on the US exchange in the middle of the AI turbulence. In Di's podcast Fear & Greed he predicts that the market has bottomed out, says small savers were right about Nvidia – and reveals which Swedish shares he is buying now."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:45:51+01:00"
+      }
+    },
     {
       "id": "2a5432158bc7",
       "schema_version": 1,
@@ -5202,86 +5283,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T13:01:15+01:00"
-      }
-    },
-    {
-      "id": "abf9f4fcd596",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/dadgostar-c-kan-ha-planerat-hogersvangen",
-      "guid": "5b97e8be-4b7e-4099-88aa-b22f0b341f90",
-      "published_at": "2026-11-24T12:40:32+01:00",
-      "fetched_at": "2026-11-24T12:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a7ba30b0-2a90-4f08-8091-4808966f6a0f.jpeg?width=600",
-      "sv": {
-        "title": "Dadgostar: C kan ha planerat högersvängen",
-        "summary": "Ordkriget på den rödgröna sidan fortsätter. Nooshi Dadgostar avfärdar uppgiften om V:s uteblivna förhandlingsrespons och anklagar C för att ha haft en högergir som strategi. ”Det går inte att utesluta att detta har varit upplägget hela tiden”, resonerar V-ledaren.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dadgostar: C may have planned the right-wing turn",
-        "summary": "The war of words on the red-green side continues. Nooshi Dadgostar dismisses the claim that the Left Party's response to the negotiations was absent and accuses the Centre Party of having a rightward tilt as a strategy. \"It cannot be ruled out that this has been the plan all along,\" the Left Party leader reasons."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T12:45:56+01:00"
-      }
-    },
-    {
-      "id": "5025e0db2d57",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/lundbergs-substans-okar",
-      "guid": "723adae1-eba7-4158-8038-e658b115b006",
-      "published_at": "2026-11-24T12:38:56+01:00",
-      "fetched_at": "2026-11-24T12:45:49+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Lundbergs substans ökar",
-        "summary": "Investmentbolaget Lundbergs redovisar ett substansvärde på 644 kronor per aktie per den 23 november. Det är en ökning från 587 kronor vid årsskiftet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lundbergs net asset value rises",
-        "summary": "Investment company Lundbergs reports a net asset value of SEK 644 per share as of 23 November. This is up from SEK 587 at the turn of the year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T12:45:56+01:00"
-      }
-    },
-    {
-      "id": "7137a3de5f81",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/koplage-efter-chockvandningen",
-      "guid": "1646456b-8619-4e24-8729-ea0fe2654cca",
-      "published_at": "2026-11-24T12:37:49+01:00",
-      "fetched_at": "2026-11-24T12:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/53b87462-a640-42d3-ac53-113f7a0ed4dc.png?width=600",
-      "sv": {
-        "title": "Köpläge efter chockvändningen",
-        "summary": "Fredagens börspanik byttes mot total eufori i måndags. En sådan tvärvändning brukar betyda köpläge.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Buying opportunity after the sharp reversal",
-        "summary": "Friday's stock market panic gave way to total euphoria on Monday. Such a sharp turnaround usually signals a buying opportunity."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T12:45:56+01:00"
       }
     }
   ]

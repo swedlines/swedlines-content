@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T11:31:30+01:00",
+  "generated_at": "2026-11-25T11:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0ce526ee4caf",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/c-kvinnor-nej-till-borgerlig-regering",
+      "guid": "https://www.expressen.se/nyheter/politik/c-kvinnor-nej-till-borgerlig-regering/",
+      "published_at": "2026-11-25T11:42:14+01:00",
+      "fetched_at": "2026-11-25T11:45:44+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-kvinnor: Nej till borgerlig regering",
+        "summary": "Centern kan inte göra sig beroende av SD. Det menar Centerkvinnorna. Partiet borde gå i opposition i stället för att ingå i en borgerlig regering, skriver de på Expressen debatt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C-women: No to bourgeois government",
+        "summary": "The Centre Party cannot make itself dependent on the Sweden Democrats. That is the view of the Centre Party Women's League. The party should go into opposition rather than join a bourgeois government, they write in an Expressen debate piece."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:45:51+01:00"
+      }
+    },
     {
       "id": "be13ba336896",
       "schema_version": 1,
@@ -5337,33 +5363,6 @@
       "en": {
         "title": "DN Debate. \"Sweden cannot be best at everything – but better we can be\"",
         "summary": "DN DEBATE. Sweden's future competitiveness is determined by our ability to apply technology in practice. But today no one in the government has responsibility for the whole."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T20:01:24+01:00"
-      }
-    },
-    {
-      "id": "04f287503c70",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/dJOeqA/s-vill-satta-dit-ida-gabrielsson",
-      "guid": "https://www.svd.se/a/dJOeqA/s-vill-satta-dit-ida-gabrielsson?utm_medium=rss",
-      "published_at": "2026-11-23T19:49:35+01:00",
-      "fetched_at": "2026-11-23T20:01:12+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/877829b0-62c3-363d-b81b-eadd187e70bc?format=auto&s=e9d37b62e5c05105221ea49c18d0886c6fe4faa8&w=1000",
-      "sv": {
-        "title": "S vill sätta dit Ida Gabrielsson",
-        "summary": "S tar bladet plötsligt bladet från munnen om regeringsbildningen. Målet är att sänka V-ledningen med…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "S wants to pin down Ida Gabrielsson",
-        "summary": "The Social Democrats have suddenly spoken out about the government formation. The aim is to lower the Left Party leadership with…"
       },
       "translation": {
         "status": "done",

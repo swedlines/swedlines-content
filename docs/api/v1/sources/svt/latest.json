@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T11:31:30+01:00",
+  "generated_at": "2026-11-25T11:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "13039b2744a6",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/puigdemont-atervander-till-katalonien",
+      "guid": "https://www.svt.se/nyheter/utrikes/puigdemont-atervander-till-katalonien",
+      "published_at": "2026-11-25T11:42:41+01:00",
+      "fetched_at": "2026-11-25T11:45:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Puigdemont återvänder till Katalonien",
+        "summary": "Den katalanske separatistledaren Carles Puigdemont meddelar att han kommer att återvända till Katalonien den 12 december. En spansk domare hävde i oktober en arresteringsorder mot honom.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Puigdemont returns to Catalonia",
+        "summary": "Catalan separatist leader Carles Puigdemont announces that he will return to Catalonia on 12 December. A Spanish judge lifted an arrest warrant against him in October."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:45:51+01:00"
+      }
+    },
     {
       "id": "9d122394ee7d",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T14:31:07+01:00"
-      }
-    },
-    {
-      "id": "b6b757b5e709",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/har-hamtar-arkeologen-ledtradar-om-forntida-mysterium-med-ny-teknik",
-      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/har-hamtar-arkeologen-ledtradar-om-forntida-mysterium-med-ny-teknik",
-      "published_at": "2026-11-19T14:05:04+01:00",
-      "fetched_at": "2026-11-19T14:15:43+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Här hämtar arkeologen ledtrådar om forntida mysterium – med ny teknik",
-        "summary": "På fornlämningen Anundshög i Västerås lyfter arkeologer på flera ton tunga stenar för att skrapa fram ledtrådar. Målet är att ta reda på när monumenten raserades. Det kan skriva om historien om platsen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here the archaeologist finds clues to ancient mystery – with new technology",
-        "summary": "At the Anundshög ancient monument in Västerås, archaeologists are lifting several tonnes of heavy stones to scrape out clues. The aim is to find out when the monuments were razed. It may rewrite the history of the site."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T14:16:07+01:00"
       }
     }
   ]

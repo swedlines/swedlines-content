@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T11:31:30+01:00",
+  "generated_at": "2026-11-25T11:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "13039b2744a6",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/puigdemont-atervander-till-katalonien",
+      "guid": "https://www.svt.se/nyheter/utrikes/puigdemont-atervander-till-katalonien",
+      "published_at": "2026-11-25T11:42:41+01:00",
+      "fetched_at": "2026-11-25T11:45:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Puigdemont återvänder till Katalonien",
+        "summary": "Den katalanske separatistledaren Carles Puigdemont meddelar att han kommer att återvända till Katalonien den 12 december. En spansk domare hävde i oktober en arresteringsorder mot honom.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Puigdemont returns to Catalonia",
+        "summary": "Catalan separatist leader Carles Puigdemont announces that he will return to Catalonia on 12 December. A Spanish judge lifted an arrest warrant against him in October."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T11:45:51+01:00"
+      }
+    },
     {
       "id": "2db785a4a631",
       "schema_version": 1,
@@ -5336,33 +5362,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T09:01:26+01:00"
-      }
-    },
-    {
-      "id": "524cff3e0590",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/GPGAEJ/protester-lamslar-belgien-alla-flyg-installda",
-      "guid": "https://www.aftonbladet.se/nyheter/a/GPGAEJ/protester-lamslar-belgien-alla-flyg-installda?utm_medium=rss",
-      "published_at": "2026-11-23T08:28:28+01:00",
-      "fetched_at": "2026-11-23T08:31:03+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/a7ff1593-299a-3dea-99d1-c04ec3fd2c85?format=auto&s=dc5e794c735849a03394984ac53fc393319a6893&w=1000",
-      "sv": {
-        "title": "Protester lamslår Belgien – alla flyg inställda",
-        "summary": "Demonstrationer mot höga levnadskostnader väntas i dag orsaka ”betydande störningar” över hela…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Protests paralyse Belgium – all flights cancelled",
-        "summary": "Demonstrations against high cost of living are expected today to cause “significant disruption” across the whole…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T08:31:18+01:00"
       }
     }
   ]
