@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T09:50:30+01:00",
+  "generated_at": "2026-11-25T10:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "54c79b82d664",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/thomas-markle-atalas-kan-fa-40-ar",
+      "guid": "f3378694-bcc9-4edc-b18c-a6cce2352c48",
+      "published_at": "2026-11-25T09:53:45+01:00",
+      "fetched_at": "2026-11-25T10:01:13+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/080844bc-85c5-4bbc-bba6-629e9a755ef7.jpg?width=600",
+      "sv": {
+        "title": "Thomas Markle åtalas – kan få 40 år",
+        "summary": "Meghan Markles pappa Thomas Markle åtalas i Kalifornien för innehav av bilder som visar sexuella övergrepp mot barn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Thomas Markle charged – could get 40 years",
+        "summary": "Meghan Markle's father Thomas Markle is being charged in California for possessing images showing sexual abuse of children."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T10:01:19+01:00"
+      }
+    },
     {
       "id": "719f09a7102d",
       "schema_version": 1,
@@ -5390,32 +5417,6 @@
       "en": {
         "title": "Used someone else's card – arrested because of her trousers",
         "summary": "In half an hour the woman used the stolen card in seven Malmö shops. Four purchases went through. Police cameras filmed her the whole way. And she was arrested because of her trousers."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T10:45:54+01:00"
-      }
-    },
-    {
-      "id": "2c8b31d2207b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/man-atalas-for-dodskorning-mot-lotta-57",
-      "guid": "https://www.expressen.se/nyheter/sverige/man-atalas-for-dodskorning-mot-lotta-57/",
-      "published_at": "2026-11-20T10:32:08+01:00",
-      "fetched_at": "2026-11-20T10:45:47+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Man åtalas för dödskörning mot Lotta, 57",
-        "summary": "En 20-årig man åtalas för att ha dödat Lotta Hellstrand, som blev 57 år, under vansinneskörningen på Östermalm i september. 20-åringen försökte dansa som Michael Jackson när han körde i minst 160 på 30-sträckan, enligt Expressens uppgifter.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Man charged over death-drive that killed Lotta, 57",
-        "summary": "A 20-year-old man is charged with killing Lotta Hellstrand, who was 57, during the reckless driving in Östermalm in September. The 20-year-old tried to dance like Michael Jackson while driving at least 160 on the 30 km/h stretch, according to Expressen's reports."
       },
       "translation": {
         "status": "done",
