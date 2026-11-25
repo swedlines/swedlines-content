@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-25T06:01:23+01:00",
-  "count": 65,
+  "generated_at": "2026-11-25T06:05:23+01:00",
+  "count": 68,
   "items": [
+    {
+      "id": "132f5551f1ea",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/svensk-jas-gripen-pilot-kunde-inte-skjuta-ner-rysk-robot",
+      "guid": "https://www.expressen.se/nyheter/varlden/svensk-jas-gripen-pilot-kunde-inte-skjuta-ner-rysk-robot/",
+      "published_at": "2026-11-25T06:02:22+01:00",
+      "fetched_at": "2026-11-25T06:05:16+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Svensk Jas Gripen-pilot kunde inte skjuta ner rysk robot",
+        "summary": "I fredags tog sig två misstänkta ryska robotar och en jetdriven drönare in i polskt luftrum. En svensk stridspilot som flög ett Jas 39 Gripen-plan under Nato-befäl fick tillstånd att skjuta ner en robot – men kunde inte, skriver Kyiv Independent. Orsaken: Dåligt väder.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish Jas Gripen pilot could not shoot down Russian missile",
+        "summary": "On Friday, two suspected Russian missiles and a jet-powered drone entered Polish airspace. A Swedish fighter pilot flying a Jas 39 Gripen under NATO command was authorised to shoot down one missile – but could not, writes the Kyiv Independent. The reason: bad weather."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T06:05:21+01:00"
+      }
+    },
+    {
+      "id": "3df827caa588",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348791",
+      "guid": "rss:sr.se/article/9348791",
+      "published_at": "2026-11-25T06:00:00+01:00",
+      "fetched_at": "2026-11-25T06:05:14+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Chat GPT kritiserar sig själv efter Ekots säkerhetstest",
+        "summary": "AI-verktyget Chat GPT ger sig själv hård kritik när Ekot låter den analysera sina egna svar från ett säkerhetstest som Ekot genomfört. I testet underlättade Chat GPT planingen av en fiktiv skolattack, trots att bolaget bakom chattboten sagt att man höjt säkerheten.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Chat GPT criticises itself after Ekot's security test",
+        "summary": "The AI tool Chat GPT harshly criticises itself when Ekot has it analyse its own answers from a security test that Ekot conducted. In the test, Chat GPT facilitated the planning of a fictional school attack, despite the company behind the chatbot saying it had raised security."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T06:05:21+01:00"
+      }
+    },
     {
       "id": "3fa004e06458",
       "schema_version": 1,
@@ -81,6 +133,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T06:01:19+01:00"
+      }
+    },
+    {
+      "id": "c887f08530de",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/tre-aktier-som-ai-sakrar-portfoljen",
+      "guid": "16a7305b-615d-4c0a-a278-45915b46b42b",
+      "published_at": "2026-11-25T05:58:44+01:00",
+      "fetched_at": "2026-11-25T06:05:16+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/42ee7873-d658-4309-818e-5b21171d235a.jpeg?width=600",
+      "sv": {
+        "title": "Tre aktier som AI-säkrar portföljen",
+        "summary": "När börsen återkommande drabbas av AI-frossa har försäkringsbolagens aktier gjort comeback. Här finns en trio intressanta lågriskalternativ till rimliga värderingar. Vi har ett förstahandsval i sektorn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Three stocks that AI-proof the portfolio",
+        "summary": "As the stock market is repeatedly hit by AI jitters, insurance company shares have made a comeback. Here is a trio of interesting low-risk options at reasonable valuations. We have a top pick in the sector."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T06:05:21+01:00"
       }
     },
     {
