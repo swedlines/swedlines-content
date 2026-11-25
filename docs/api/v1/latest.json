@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T07:01:15+01:00",
+  "generated_at": "2026-11-25T07:01:41+01:00",
   "count": 200,
   "items": [
     {
@@ -27,6 +27,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T07:01:10+01:00"
+      }
+    },
+    {
+      "id": "adfcf6526c82",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349490",
+      "guid": "rss:sr.se/article/9349490",
+      "published_at": "2026-11-25T07:00:00+01:00",
+      "fetched_at": "2026-11-25T07:01:35+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Migrationsverket pausar vissa tonårsutvisningar",
+        "summary": "Migrationsverket pausar tills vidare vissa så kallade tonårsutvisningar. Det handlar om utvisningar av unga vuxna vars föräldrar och minderåriga syskon har rätt att stanna i Sverige. Bakgrunden är aviserade lagändringar som kan ge fler i gruppen rätt att stanna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Migration Agency pauses certain teen deportations",
+        "summary": "The Migration Agency is temporarily pausing certain so-called teen deportations. This concerns deportations of young adults whose parents and underage siblings have the right to remain in Sweden. The background is announced legislative changes that could give more people in this group the right to stay."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T07:01:40+01:00"
       }
     },
     {
@@ -5435,35 +5461,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T18:15:57+01:00"
-      }
-    },
-    {
-      "id": "6e66448b812a",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/E7pWD8XXcjpCFvqiQJNOa/skitstorm-i-rom-invanarna-tar-skydd-under-paraplyer",
-      "guid": "E7pWD8XXcjpCFvqiQJNOa",
-      "published_at": "2026-11-24T18:05:53+01:00",
-      "fetched_at": "2026-11-24T18:31:02+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Skitstorm i Rom – invånarna tar skydd under paraplyer",
-        "summary": "Varje höst och vinter söker sig starar från Skandinavien och östra Europa till den italienska huvudstaden. Fåglarna bildar enorma, böljande flockar på himlen – ett fenomen som kallas murmurationer. Men i år upplevs stararna vara fler än vanligt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Shitstorm in Rome – residents take cover under umbrellas",
-        "summary": "Every autumn and winter, starlings from Scandinavia and eastern Europe head to the Italian capital. The birds form huge, undulating flocks in the sky – a phenomenon called murmurations. But this year the starlings are said to be more numerous than usual."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T18:31:07+01:00"
       }
     }
   ]

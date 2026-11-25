@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T07:01:15+01:00",
+  "generated_at": "2026-11-25T07:01:41+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "adfcf6526c82",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349490",
+      "guid": "rss:sr.se/article/9349490",
+      "published_at": "2026-11-25T07:00:00+01:00",
+      "fetched_at": "2026-11-25T07:01:35+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Migrationsverket pausar vissa tonårsutvisningar",
+        "summary": "Migrationsverket pausar tills vidare vissa så kallade tonårsutvisningar. Det handlar om utvisningar av unga vuxna vars föräldrar och minderåriga syskon har rätt att stanna i Sverige. Bakgrunden är aviserade lagändringar som kan ge fler i gruppen rätt att stanna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Migration Agency pauses certain teen deportations",
+        "summary": "The Migration Agency is temporarily pausing certain so-called teen deportations. This concerns deportations of young adults whose parents and underage siblings have the right to remain in Sweden. The background is announced legislative changes that could give more people in this group the right to stay."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T07:01:40+01:00"
+      }
+    },
     {
       "id": "6647b7fcc951",
       "schema_version": 1,
@@ -5366,33 +5392,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T13:31:20+01:00"
-      }
-    },
-    {
-      "id": "6a5a62d64adf",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/statsvetare-s-budet-gar-langre-an-tidoavtalet",
-      "guid": "94706f60-3645-44fc-b712-5dc737f63e5e",
-      "published_at": "2026-11-23T12:52:02+01:00",
-      "fetched_at": "2026-11-23T13:01:19+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/0e270402-af28-49f5-a864-09d4dd8628cc.jpg?width=600",
-      "sv": {
-        "title": "Statsvetare: S-budet går längre än Tidöavtalet",
-        "summary": "Socialdemokraterna erbjuder Vänsterpartiet egna statssekreterare och ett eget budgetkansli – om V släpper sitt ministerkrav. – Det är så nära man kan komma att sitta med i regeringen, säger statsvetaren Andreas Johansson Heinö.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Political scientist: S offer goes further than the Tidö Agreement",
-        "summary": "The Social Democrats are offering the Left Party its own state secretaries and its own budget office – if V drops its ministerial demand. “This is as close as one can get to sitting in government,” says political scientist Andreas Johansson Heinö."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T13:01:23+01:00"
       }
     }
   ]

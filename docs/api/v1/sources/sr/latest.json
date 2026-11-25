@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T07:01:15+01:00",
+  "generated_at": "2026-11-25T07:01:41+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "adfcf6526c82",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349490",
+      "guid": "rss:sr.se/article/9349490",
+      "published_at": "2026-11-25T07:00:00+01:00",
+      "fetched_at": "2026-11-25T07:01:35+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Migrationsverket pausar vissa tonårsutvisningar",
+        "summary": "Migrationsverket pausar tills vidare vissa så kallade tonårsutvisningar. Det handlar om utvisningar av unga vuxna vars föräldrar och minderåriga syskon har rätt att stanna i Sverige. Bakgrunden är aviserade lagändringar som kan ge fler i gruppen rätt att stanna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Migration Agency pauses certain teen deportations",
+        "summary": "The Migration Agency is temporarily pausing certain so-called teen deportations. This concerns deportations of young adults whose parents and underage siblings have the right to remain in Sweden. The background is announced legislative changes that could give more people in this group the right to stay."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T07:01:40+01:00"
+      }
+    },
     {
       "id": "a4ab1a0b2f58",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T14:31:07+01:00"
-      }
-    },
-    {
-      "id": "cf986edbf10a",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346084",
-      "guid": "rss:sr.se/article/9346084",
-      "published_at": "2026-11-19T13:31:00+01:00",
-      "fetched_at": "2026-11-19T13:45:42+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Wadström: Insatserna är extra höga för Putin",
-        "summary": "Nu har det historiska trepartsmötet mellan Donald Trump, Xi Jinping och Vladimir Putin avslutats. Fredrik Wadström, Sveriges Radios Rysslandskorrespondent, berättar hur man från ett ryskt håll ser på mötet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Wadström: The stakes are extra high for Putin",
-        "summary": "The historic trilateral meeting between Donald Trump, Xi Jinping and Vladimir Putin has now ended. Fredrik Wadström, Sveriges Radio's Russia correspondent, explains how the meeting is viewed from a Russian perspective."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T13:45:54+01:00"
       }
     }
   ]
