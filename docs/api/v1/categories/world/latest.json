@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T15:46:36+01:00",
+  "generated_at": "2026-11-25T16:01:35+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ef76125a7dd0",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/upplagt-for-storbrak-pa-eu-toppmote",
+      "guid": "f5812649-01a1-4cab-8a4e-68dab1a36cb0",
+      "published_at": "2026-11-25T15:53:59+01:00",
+      "fetched_at": "2026-11-25T16:01:20+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/044bb409-c40c-4601-b818-0e210f78272d.jpg?width=600",
+      "sv": {
+        "title": "Upplagt för storbråk på EU-toppmöte",
+        "summary": "Statsminister Ulf Kristersson (M) räknar med tuffa tongångar på veckans EU-toppmöte. – Konflikten är på högkant, säger han i EU-nämnden.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Set for a major clash at EU summit",
+        "summary": "Prime Minister Ulf Kristersson (M) expects harsh rhetoric at this week's EU summit. – The conflict is at a boiling point, he says in the EU committee."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T16:01:29+01:00"
+      }
+    },
     {
       "id": "c7507f5f3c9e",
       "schema_version": 1,
@@ -5336,32 +5363,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T13:01:23+01:00"
-      }
-    },
-    {
-      "id": "0b530d9a45b8",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348236",
-      "guid": "rss:sr.se/article/9348236",
-      "published_at": "2026-11-23T12:24:00+01:00",
-      "fetched_at": "2026-11-23T12:30:56+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Bryssels flygtrafik ligger nere när tusentals demonstrerar",
-        "summary": "Tiotusentals belgare demonstrerar – samtidigt som regeringskrisen blir allt mer akut. Flygtrafiken till och från Bryssel ligger nere. Måndagens storstrejk stöttas av Belgiens tre största fackföreningar, i protest mot regeringens åtstramningspolitik och planerade nedskärningar.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Brussels air traffic grounded as thousands demonstrate",
-        "summary": "Tens of thousands of Belgians are demonstrating – while the government crisis becomes ever more acute. Air traffic to and from Brussels is grounded. Monday's general strike is backed by Belgium's three largest trade unions, in protest against the government's austerity policy and planned cuts."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T12:31:03+01:00"
       }
     }
   ]

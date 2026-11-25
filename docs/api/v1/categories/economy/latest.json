@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-25T15:46:36+01:00",
+  "generated_at": "2026-11-25T16:01:35+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b74dbb09ccac",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/stockholmsborsen-tyngs-av-ai-raset-pa-wall-street",
+      "guid": "bae2e173-11da-4b41-8fff-68d487130c66",
+      "published_at": "2026-11-25T15:53:56+01:00",
+      "fetched_at": "2026-11-25T16:01:19+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0a646959-ccf8-4787-b723-509514914771.jpeg?width=600",
+      "sv": {
+        "title": "Stockholmsbörsen tyngs av AI-raset på Wall Street",
+        "summary": "Stockholmsbörsens huvudindex sjunker tydligt efter den dystra börsöppningen på Wall Street.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stockholm stock exchange weighed down by AI sell-off on Wall Street",
+        "summary": "The Stockholm Stock Exchange's main index is falling clearly after a gloomy opening on Wall Street."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T16:01:29+01:00"
+      }
+    },
+    {
+      "id": "28a1aa9525cc",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/elprissmockan-slar-mot-hela-landet",
+      "guid": "7425d5ae-8255-4101-9736-4073823bd68f",
+      "published_at": "2026-11-25T15:50:28+01:00",
+      "fetched_at": "2026-11-25T16:01:20+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c04b9084-def3-441a-a963-ca849abba669.jpg?width=600",
+      "sv": {
+        "title": "Elprissmockan slår mot hela landet",
+        "summary": "På torsdag når elpriset högsta nivån sedan krisdecember 2022. Även i Norrland handlar det om 3 kronor per kWh.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Electricity price spike hits the whole country",
+        "summary": "On Thursday the electricity price reaches its highest level since the crisis of December 2022. Even in Norrland it is SEK 3 per kWh."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T16:01:29+01:00"
+      }
+    },
     {
       "id": "ef5f832f2f36",
       "schema_version": 1,
@@ -5248,59 +5302,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T17:15:59+01:00"
-      }
-    },
-    {
-      "id": "d17d9e73e91d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/nyheter/talmannen-riksdagen-ska-rosta-om-ulf-kristersson",
-      "guid": "a1197b45-26e2-5d2b-a13e-d920b8471388",
-      "published_at": "2026-11-24T17:02:22+01:00",
-      "fetched_at": "2026-11-24T17:15:53+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Talmannen: Riksdagen ska rösta om Ulf Kristersson",
-        "summary": "Talman Andreas Norlén meddelade att Riksdagen ska rösta om Ulf Kristersson som statsminister.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Speaker: Riksdag to vote on Ulf Kristersson",
-        "summary": "Speaker Andreas Norlén announced that the Riksdag will vote on Ulf Kristersson as prime minister."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T17:15:59+01:00"
-      }
-    },
-    {
-      "id": "5b61b831614e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kallor-nya-usa-tullarna-haller-sig-inom-handelsavtalen",
-      "guid": "0d1581ca-6c20-457b-b4c0-e1f8ac910a99",
-      "published_at": "2026-11-24T16:51:46+01:00",
-      "fetched_at": "2026-11-24T17:01:12+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/62646bbf-807d-4ae3-9fda-b43a9c61a843.jpeg?width=600",
-      "sv": {
-        "title": "Källor: Nya USA–tullarna håller sig inom handelsavtalen",
-        "summary": "Donald Trumps nästa omgång tullar kommer inte att överstiga de nivåer som fastställts i USA:s tidigare förhandlade handelsavtal, enligt källor till Bloomberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sources: New US tariffs stay within trade agreements",
-        "summary": "Donald Trump's next round of tariffs will not exceed the levels set in the USA's previously negotiated trade agreements, according to sources speaking to Bloomberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T17:01:18+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T15:46:36+01:00",
+  "generated_at": "2026-11-25T16:01:35+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b74dbb09ccac",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/stockholmsborsen-tyngs-av-ai-raset-pa-wall-street",
+      "guid": "bae2e173-11da-4b41-8fff-68d487130c66",
+      "published_at": "2026-11-25T15:53:56+01:00",
+      "fetched_at": "2026-11-25T16:01:19+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0a646959-ccf8-4787-b723-509514914771.jpeg?width=600",
+      "sv": {
+        "title": "Stockholmsbörsen tyngs av AI-raset på Wall Street",
+        "summary": "Stockholmsbörsens huvudindex sjunker tydligt efter den dystra börsöppningen på Wall Street.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stockholm stock exchange weighed down by AI sell-off on Wall Street",
+        "summary": "The Stockholm Stock Exchange's main index is falling clearly after a gloomy opening on Wall Street."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T16:01:29+01:00"
+      }
+    },
     {
       "id": "c16238811ef3",
       "schema_version": 1,
@@ -5295,33 +5322,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T11:59:14+01:00"
-      }
-    },
-    {
-      "id": "ca4552728ece",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/trycket-stiger-i-tyskland",
-      "guid": "83afd82d-74a8-4207-bc0b-5e60d088da14",
-      "published_at": "2026-11-24T11:41:19+01:00",
-      "fetched_at": "2026-11-24T11:45:47+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/4b2037eb-2976-4b7b-9f9a-eb08c73b0591.jpeg?width=600",
-      "sv": {
-        "title": "Trycket stiger i Tyskland",
-        "summary": "Tysklands tyngsta barometer steg i november till den högsta nivån sedan våren 2023. Uppgången rimmar väl med måndagens starka signaler. Europas största ekonomi ökar takten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Pressure rises in Germany",
-        "summary": "Germany's most important barometer rose in November to its highest level since spring 2023. The rise fits well with Monday's strong signals. Europe's largest economy is picking up pace."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T11:46:03+01:00"
       }
     }
   ]

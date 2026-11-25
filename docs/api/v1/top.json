@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T15:46:36+01:00",
+  "generated_at": "2026-11-25T16:01:35+01:00",
   "count": 30,
   "stories": [
     {
@@ -17,7 +17,7 @@
         "tv4"
       ],
       "first_published_at": "2026-11-25T07:00:00+01:00",
-      "last_published_at": "2026-11-25T08:23:27+01:00",
+      "last_published_at": "2026-11-25T15:55:20+01:00",
       "lead": {
         "id": "adfcf6526c82",
         "schema_version": 1,
@@ -45,6 +45,18 @@
         }
       },
       "items": [
+        {
+          "id": "40681d85a0d3",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/opinion/utvisningar-vid-vags-ande",
+          "published_at": "2026-11-25T15:55:20+01:00",
+          "sv": {
+            "title": "Utvisningar vid vägs ände"
+          },
+          "en": {
+            "title": "Deportations at the end of the road"
+          }
+        },
         {
           "id": "c47db2c442ec",
           "source": "tv4",
@@ -772,6 +784,106 @@
       ]
     },
     {
+      "id": "528d66e1fdf8",
+      "source_count": 4,
+      "sources": [
+        "expressen",
+        "svt",
+        "dn",
+        "gp"
+      ],
+      "first_published_at": "2026-11-24T23:39:38+01:00",
+      "last_published_at": "2026-11-25T15:23:51+01:00",
+      "lead": {
+        "id": "528d66e1fdf8",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk",
+        "guid": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk/",
+        "published_at": "2026-11-24T23:39:38+01:00",
+        "fetched_at": "2026-11-24T23:43:19+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Thand Ringqvists ord på interna C-mötet: ”Tar stryk”",
+          "summary": "Centerpartiets ledning ser bara två vägar framåt. Antingen tar man plats i en högerregering – eller så blir det extraval där C får skulden för kaoset i regeringsbildningsprocessen.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Thand Ringqvist's words at the internal Centre Party meeting: “Takes a beating”",
+          "summary": "The Centre Party leadership sees only two paths forward. Either it takes a place in a right-wing government – or there will be a snap election in which C is blamed for the chaos in the government formation process."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T23:43:24+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "c96ba6092bd9",
+          "source": "gp",
+          "url": "https://www.gp.se/politik/splittring-i-c-infor-vagvalet.4ba5e59d-d0c2-5f6a-95b6-3c65db7f9349",
+          "published_at": "2026-11-25T15:23:51+01:00",
+          "sv": {
+            "title": "Stormen i Centerpartiet: Tar strid mot partiledaren"
+          },
+          "en": {
+            "title": "Storm in the Centre Party: Challenges party leader"
+          }
+        },
+        {
+          "id": "a451a21a577f",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/c-toppen-tar-strid-mot-partiledningen",
+          "published_at": "2026-11-25T14:15:07+01:00",
+          "sv": {
+            "title": "C-toppen tar strid mot partiledningen"
+          },
+          "en": {
+            "title": "C-top challenges party leadership"
+          }
+        },
+        {
+          "id": "e112f74e2efe",
+          "source": "dn",
+          "url": "https://www.dn.se/debatt/min-partiledare-thand-ringqvist-valjer-fel-vag",
+          "published_at": "2026-11-25T11:17:21+01:00",
+          "sv": {
+            "title": "DN Debatt. ”Min partiledare Thand Ringqvist väljer fel väg”"
+          },
+          "en": {
+            "title": "DN Debatt. “My party leader Thand Ringqvist is choosing the wrong path”"
+          }
+        },
+        {
+          "id": "d2b6a3a0eaed",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/uppgifter-c-ledaren-pekar-ut-tva-mojliga-losningar-pa-internt-mote",
+          "published_at": "2026-11-24T23:42:38+01:00",
+          "sv": {
+            "title": "Uppgifter: C-ledaren pekar ut två möjliga lösningar – på internt möte"
+          },
+          "en": {
+            "title": "Reports: C leader points to two possible solutions – at internal meeting"
+          }
+        },
+        {
+          "id": "528d66e1fdf8",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk",
+          "published_at": "2026-11-24T23:39:38+01:00",
+          "sv": {
+            "title": "Thand Ringqvists ord på interna C-mötet: ”Tar stryk”"
+          },
+          "en": {
+            "title": "Thand Ringqvist's words at the internal Centre Party meeting: “Takes a beating”"
+          }
+        }
+      ]
+    },
+    {
       "id": "c9a509e41e6f",
       "source_count": 4,
       "sources": [
@@ -1239,88 +1351,77 @@
       ]
     },
     {
-      "id": "528d66e1fdf8",
+      "id": "af6ecd73f09d",
       "source_count": 3,
       "sources": [
-        "expressen",
-        "svt",
-        "dn"
+        "svd",
+        "di",
+        "sydsvenskan"
       ],
-      "first_published_at": "2026-11-24T23:39:38+01:00",
-      "last_published_at": "2026-11-25T14:15:07+01:00",
+      "first_published_at": "2026-11-25T14:01:59+01:00",
+      "last_published_at": "2026-11-25T15:50:28+01:00",
       "lead": {
-        "id": "528d66e1fdf8",
+        "id": "af6ecd73f09d",
         "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk",
-        "guid": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk/",
-        "published_at": "2026-11-24T23:39:38+01:00",
-        "fetched_at": "2026-11-24T23:43:19+01:00",
-        "category": "politics",
+        "source": "svd",
+        "url": "https://www.svd.se/a/6Pj2g0/elprissmockan-slar-mot-hela-landet",
+        "guid": "https://www.svd.se/a/6Pj2g0/elprissmockan-slar-mot-hela-landet?utm_medium=rss",
+        "published_at": "2026-11-25T14:01:59+01:00",
+        "fetched_at": "2026-11-25T14:15:48+01:00",
+        "category": "economy",
+        "image_url": "https://akamai.vgc.no/v2/images/fbb1bdef-6d92-3975-beac-a035ad76153f?format=auto&s=7ff619fa967427dbc2d0f16d6d7e6e1f03b942b4&w=1000",
         "sv": {
-          "title": "Thand Ringqvists ord på interna C-mötet: ”Tar stryk”",
-          "summary": "Centerpartiets ledning ser bara två vägar framåt. Antingen tar man plats i en högerregering – eller så blir det extraval där C får skulden för kaoset i regeringsbildningsprocessen.",
-          "summary_origin": "truncated"
+          "title": "Elprissmockan slår mot hela landet",
+          "summary": "På torsdag når elpriset högsta nivån sedan krisdecember 2022. Även i Norrland handlar det om 3…",
+          "summary_origin": "feed"
         },
         "en": {
-          "title": "Thand Ringqvist's words at the internal Centre Party meeting: “Takes a beating”",
-          "summary": "The Centre Party leadership sees only two paths forward. Either it takes a place in a right-wing government – or there will be a snap election in which C is blamed for the chaos in the government formation process."
+          "title": "Electricity price shock hits the whole country",
+          "summary": "On Thursday, electricity prices reach their highest level since the crisis of December 2022. Even in Norrland, it is 3…"
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T23:43:24+01:00"
+          "translated_at": "2026-11-25T14:15:57+01:00"
         }
       },
       "items": [
         {
-          "id": "a451a21a577f",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/c-toppen-tar-strid-mot-partiledningen",
-          "published_at": "2026-11-25T14:15:07+01:00",
+          "id": "28a1aa9525cc",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/elprissmockan-slar-mot-hela-landet",
+          "published_at": "2026-11-25T15:50:28+01:00",
           "sv": {
-            "title": "C-toppen tar strid mot partiledningen"
+            "title": "Elprissmockan slår mot hela landet"
           },
           "en": {
-            "title": "C-top challenges party leadership"
+            "title": "Electricity price spike hits the whole country"
           }
         },
         {
-          "id": "e112f74e2efe",
-          "source": "dn",
-          "url": "https://www.dn.se/debatt/min-partiledare-thand-ringqvist-valjer-fel-vag",
-          "published_at": "2026-11-25T11:17:21+01:00",
+          "id": "f8f22eaab1c5",
+          "source": "di",
+          "url": "https://www.di.se/live/elpriset-pa-hogsta-nivan-sedan-krisen-2022",
+          "published_at": "2026-11-25T14:12:18+01:00",
           "sv": {
-            "title": "DN Debatt. ”Min partiledare Thand Ringqvist väljer fel väg”"
+            "title": "Elpriset på högsta nivån sedan krisen 2022"
           },
           "en": {
-            "title": "DN Debatt. “My party leader Thand Ringqvist is choosing the wrong path”"
+            "title": "Electricity prices at highest level since the 2022 crisis"
           }
         },
         {
-          "id": "d2b6a3a0eaed",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/uppgifter-c-ledaren-pekar-ut-tva-mojliga-losningar-pa-internt-mote",
-          "published_at": "2026-11-24T23:42:38+01:00",
+          "id": "af6ecd73f09d",
+          "source": "svd",
+          "url": "https://www.svd.se/a/6Pj2g0/elprissmockan-slar-mot-hela-landet",
+          "published_at": "2026-11-25T14:01:59+01:00",
           "sv": {
-            "title": "Uppgifter: C-ledaren pekar ut två möjliga lösningar – på internt möte"
+            "title": "Elprissmockan slår mot hela landet"
           },
           "en": {
-            "title": "Reports: C leader points to two possible solutions – at internal meeting"
-          }
-        },
-        {
-          "id": "528d66e1fdf8",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk",
-          "published_at": "2026-11-24T23:39:38+01:00",
-          "sv": {
-            "title": "Thand Ringqvists ord på interna C-mötet: ”Tar stryk”"
-          },
-          "en": {
-            "title": "Thand Ringqvist's words at the internal Centre Party meeting: “Takes a beating”"
+            "title": "Electricity price shock hits the whole country"
           }
         }
       ]
@@ -1804,6 +1905,69 @@
       ]
     },
     {
+      "id": "077c41666583",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-25T14:58:14+01:00",
+      "last_published_at": "2026-11-25T15:53:59+01:00",
+      "lead": {
+        "id": "077c41666583",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/kMJk56/upplagt-for-storbrak-pa-eu-toppmote",
+        "guid": "https://www.aftonbladet.se/nyheter/a/kMJk56/upplagt-for-storbrak-pa-eu-toppmote?utm_medium=rss",
+        "published_at": "2026-11-25T14:58:14+01:00",
+        "fetched_at": "2026-11-25T15:01:22+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/aa1728fe-26cc-3745-918e-9860f4ebc8e9?format=auto&s=1832473fdd5dc326ca6c90ec9202483f92217d72&w=1000",
+        "sv": {
+          "title": "Upplagt för storbråk på EU-toppmöte",
+          "summary": "Statsminister Ulf Kristersson (M) räknar med tuffa tongångar på veckans EU-toppmöte.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Set for a row at EU summit",
+          "summary": "Prime Minister Ulf Kristersson (M) expects tough rhetoric at this week's EU summit."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T15:01:30+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "ef76125a7dd0",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/upplagt-for-storbrak-pa-eu-toppmote",
+          "published_at": "2026-11-25T15:53:59+01:00",
+          "sv": {
+            "title": "Upplagt för storbråk på EU-toppmöte"
+          },
+          "en": {
+            "title": "Set for a major clash at EU summit"
+          }
+        },
+        {
+          "id": "077c41666583",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/kMJk56/upplagt-for-storbrak-pa-eu-toppmote",
+          "published_at": "2026-11-25T14:58:14+01:00",
+          "sv": {
+            "title": "Upplagt för storbråk på EU-toppmöte"
+          },
+          "en": {
+            "title": "Set for a row at EU summit"
+          }
+        }
+      ]
+    },
+    {
       "id": "a495caf9aa8c",
       "source_count": 2,
       "sources": [
@@ -1861,6 +2025,68 @@
           },
           "en": {
             "title": "New US tariffs expected – up to 40 percent on China"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0ce526ee4caf",
+      "source_count": 2,
+      "sources": [
+        "expressen",
+        "gp"
+      ],
+      "first_published_at": "2026-11-25T11:42:14+01:00",
+      "last_published_at": "2026-11-25T15:23:36+01:00",
+      "lead": {
+        "id": "0ce526ee4caf",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/c-kvinnor-nej-till-borgerlig-regering",
+        "guid": "https://www.expressen.se/nyheter/politik/c-kvinnor-nej-till-borgerlig-regering/",
+        "published_at": "2026-11-25T11:42:14+01:00",
+        "fetched_at": "2026-11-25T11:45:44+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "C-kvinnor: Nej till borgerlig regering",
+          "summary": "Centern kan inte göra sig beroende av SD. Det menar Centerkvinnorna. Partiet borde gå i opposition i stället för att ingå i en borgerlig regering, skriver de på Expressen debatt.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "C-women: No to bourgeois government",
+          "summary": "The Centre Party cannot make itself dependent on the Sweden Democrats. That is the view of the Centre Party Women's League. The party should go into opposition rather than join a bourgeois government, they write in an Expressen debate piece."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T11:45:51+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "775ff8dcb1fc",
+          "source": "gp",
+          "url": "https://www.gp.se/politik/c-kvinnors-uppmaning-till-partiet-ga-i-opposition.900b57e8-1cc0-5c04-9bc4-f47757819711",
+          "published_at": "2026-11-25T15:23:36+01:00",
+          "sv": {
+            "title": "C-kvinnors uppmaning till partiet: ”Gå i opposition”"
+          },
+          "en": {
+            "title": "Centre women urge party: “Go into opposition”"
+          }
+        },
+        {
+          "id": "0ce526ee4caf",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/c-kvinnor-nej-till-borgerlig-regering",
+          "published_at": "2026-11-25T11:42:14+01:00",
+          "sv": {
+            "title": "C-kvinnor: Nej till borgerlig regering"
+          },
+          "en": {
+            "title": "C-women: No to bourgeois government"
           }
         }
       ]
@@ -1924,69 +2150,6 @@
           },
           "en": {
             "title": "Wallenberg does not rule out more money for Stegra – \"we are working on the issue\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "af6ecd73f09d",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "di"
-      ],
-      "first_published_at": "2026-11-25T14:01:59+01:00",
-      "last_published_at": "2026-11-25T14:12:18+01:00",
-      "lead": {
-        "id": "af6ecd73f09d",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/6Pj2g0/elprissmockan-slar-mot-hela-landet",
-        "guid": "https://www.svd.se/a/6Pj2g0/elprissmockan-slar-mot-hela-landet?utm_medium=rss",
-        "published_at": "2026-11-25T14:01:59+01:00",
-        "fetched_at": "2026-11-25T14:15:48+01:00",
-        "category": "economy",
-        "image_url": "https://akamai.vgc.no/v2/images/fbb1bdef-6d92-3975-beac-a035ad76153f?format=auto&s=7ff619fa967427dbc2d0f16d6d7e6e1f03b942b4&w=1000",
-        "sv": {
-          "title": "Elprissmockan slår mot hela landet",
-          "summary": "På torsdag når elpriset högsta nivån sedan krisdecember 2022. Även i Norrland handlar det om 3…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Electricity price shock hits the whole country",
-          "summary": "On Thursday, electricity prices reach their highest level since the crisis of December 2022. Even in Norrland, it is 3…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T14:15:57+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "f8f22eaab1c5",
-          "source": "di",
-          "url": "https://www.di.se/live/elpriset-pa-hogsta-nivan-sedan-krisen-2022",
-          "published_at": "2026-11-25T14:12:18+01:00",
-          "sv": {
-            "title": "Elpriset på högsta nivån sedan krisen 2022"
-          },
-          "en": {
-            "title": "Electricity prices at highest level since the 2022 crisis"
-          }
-        },
-        {
-          "id": "af6ecd73f09d",
-          "source": "svd",
-          "url": "https://www.svd.se/a/6Pj2g0/elprissmockan-slar-mot-hela-landet",
-          "published_at": "2026-11-25T14:01:59+01:00",
-          "sv": {
-            "title": "Elprissmockan slår mot hela landet"
-          },
-          "en": {
-            "title": "Electricity price shock hits the whole country"
           }
         }
       ]
@@ -2437,130 +2600,6 @@
           },
           "en": {
             "title": "IIHF appeals CAS ruling on Russia"
-          }
-        }
-      ]
-    },
-    {
-      "id": "1d8df1f3a91b",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "di"
-      ],
-      "first_published_at": "2026-11-25T10:40:52+01:00",
-      "last_published_at": "2026-11-25T11:13:18+01:00",
-      "lead": {
-        "id": "1d8df1f3a91b",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/lokalt/smaland/orrefors-kosta-boda-avslutar-forhandlingarna-38-far-lamna-bolaget",
-        "guid": "https://www.svt.se/nyheter/lokalt/smaland/orrefors-kosta-boda-avslutar-forhandlingarna-38-far-lamna-bolaget",
-        "published_at": "2026-11-25T10:40:52+01:00",
-        "fetched_at": "2026-11-25T11:15:43+01:00",
-        "category": "economy",
-        "sv": {
-          "title": "Orrefors Kosta Boda avslutar förhandlingarna – 38 får lämna bolaget",
-          "summary": "Orrefors Kosta Boda har avslutat förhandlingarna efter det varsel som lades i slutet av september och omfattade 15 tjänstemän och 40 arbetare vid huvudkontoret och glasbruket i Kosta. 38 medarbetare lämnar bolaget, enligt VD Isabella Jansson.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Orrefors Kosta Boda ends negotiations – 38 to leave the company",
-          "summary": "Orrefors Kosta Boda has ended negotiations following the notice of redundancy issued at the end of September, which covered 15 office staff and 40 workers at the head office and the Kosta glassworks. 38 employees are leaving the company, according to CEO Isabella Jansson."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T11:15:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "2a5432158bc7",
-          "source": "di",
-          "url": "https://www.di.se/live/orrefors-slutfor-uppsagningar-av-38-personer",
-          "published_at": "2026-11-25T11:13:18+01:00",
-          "sv": {
-            "title": "Orrefors slutför uppsägningar av 38 personer"
-          },
-          "en": {
-            "title": "Orrefors completes redundancies of 38 people"
-          }
-        },
-        {
-          "id": "1d8df1f3a91b",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/smaland/orrefors-kosta-boda-avslutar-forhandlingarna-38-far-lamna-bolaget",
-          "published_at": "2026-11-25T10:40:52+01:00",
-          "sv": {
-            "title": "Orrefors Kosta Boda avslutar förhandlingarna – 38 får lämna bolaget"
-          },
-          "en": {
-            "title": "Orrefors Kosta Boda ends negotiations – 38 to leave the company"
-          }
-        }
-      ]
-    },
-    {
-      "id": "32b3677c0033",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-25T10:51:34+01:00",
-      "last_published_at": "2026-11-25T10:55:37+01:00",
-      "lead": {
-        "id": "32b3677c0033",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/lokalt/vast/finansman-atalas-for-grov-valdtakt-i-bohuslan",
-        "guid": "https://www.svt.se/nyheter/lokalt/vast/finansman-atalas-for-grov-valdtakt-i-bohuslan",
-        "published_at": "2026-11-25T10:51:34+01:00",
-        "fetched_at": "2026-11-25T10:57:39+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Finansman åtalas för grov våldtäkt i Bohuslän",
-          "summary": "En finansman från Sverige åtalas mot sitt nekande för bland annat grov våldtäkt efter att ha drogat två kvinnor och våldtagit den ena. Brotten ska ha ägt rum sommaren och hösten 2024 i ett sommarhus i Bohuslän.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Financier charged with aggravated rape in Bohuslän",
-          "summary": "A financier from Sweden is charged, while denying the charges, with aggravated rape among other offences after drugging two women and raping one of them. The crimes are said to have taken place in the summer and autumn of 2024 at a summer house in Bohuslän."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T10:57:48+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "0684bb3d3904",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=3bd32747-2b07-40cd-9237-68c453df7716",
-          "published_at": "2026-11-25T10:55:37+01:00",
-          "sv": {
-            "title": "Finansman åtalad"
-          },
-          "en": {
-            "title": "Financier charged"
-          }
-        },
-        {
-          "id": "32b3677c0033",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vast/finansman-atalas-for-grov-valdtakt-i-bohuslan",
-          "published_at": "2026-11-25T10:51:34+01:00",
-          "sv": {
-            "title": "Finansman åtalas för grov våldtäkt i Bohuslän"
-          },
-          "en": {
-            "title": "Financier charged with aggravated rape in Bohuslän"
           }
         }
       ]
