@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:01:25+01:00",
+  "generated_at": "2026-11-25T21:16:09+01:00",
   "count": 30,
   "stories": [
     {
@@ -1493,6 +1493,18 @@
           }
         },
         {
+          "id": "aefdd344e134",
+          "source": "aftonbladet",
+          "url": "https://tv.aftonbladet.se/video/411262",
+          "published_at": "2026-11-25T17:37:33+01:00",
+          "sv": {
+            "title": "Sprängning i Iowa — blydamm kan spridas 16 mil"
+          },
+          "en": {
+            "title": "Explosion in Iowa — lead dust could spread 16 mil"
+          }
+        },
+        {
           "id": "636df40f8054",
           "source": "aftonbladet",
           "url": "https://www.aftonbladet.se/nyheter/a/BrROGl/usa-over-fyra-ton-tandamnen-sprangda",
@@ -1917,6 +1929,69 @@
           },
           "en": {
             "title": "Tidal bans AI-generated music"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2f733edc5ddc",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svt"
+      ],
+      "first_published_at": "2026-11-25T19:57:01+01:00",
+      "last_published_at": "2026-11-25T21:03:00+01:00",
+      "lead": {
+        "id": "2f733edc5ddc",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/4Eq9l9/nytt-fall-av-algsjuka-i-sverige",
+        "guid": "https://www.aftonbladet.se/nyheter/a/4Eq9l9/nytt-fall-av-algsjuka-i-sverige?utm_medium=rss",
+        "published_at": "2026-11-25T19:57:01+01:00",
+        "fetched_at": "2026-11-25T20:01:19+01:00",
+        "category": "sweden",
+        "image_url": "https://akamai.vgc.no/v2/images/52893911-c706-38d9-a08b-1c658ac65bfd?format=auto&s=5e0b72a6b75e8f91a1f3e1f8b8c16e76b4125bcb&w=1000",
+        "sv": {
+          "title": "Nytt fall av älgsjuka i Sverige",
+          "summary": "Ett nytt misstänkt fall av avmagringssjuka hos älg har konstaterats i Dalarna, enligt Statens…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "New case of wasting disease in moose in Sweden",
+          "summary": "A new suspected case of wasting disease in moose has been confirmed in Dalarna, according to the Swedish..."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T20:01:25+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "a0263da2d383",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/dalarna/nytt-fall-av-algsjuka-i-sverige",
+          "published_at": "2026-11-25T21:03:00+01:00",
+          "sv": {
+            "title": "Nytt fall av älgsjuka i Sverige"
+          },
+          "en": {
+            "title": "New case of moose wasting disease in Sweden"
+          }
+        },
+        {
+          "id": "2f733edc5ddc",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/4Eq9l9/nytt-fall-av-algsjuka-i-sverige",
+          "published_at": "2026-11-25T19:57:01+01:00",
+          "sv": {
+            "title": "Nytt fall av älgsjuka i Sverige"
+          },
+          "en": {
+            "title": "New case of wasting disease in moose in Sweden"
           }
         }
       ]
@@ -2581,68 +2656,6 @@
           },
           "en": {
             "title": "Dadgostar's letter to Left Party members: \"Had really hoped\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "4ff4056480c1",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "gp"
-      ],
-      "first_published_at": "2026-11-25T16:45:48+01:00",
-      "last_published_at": "2026-11-25T16:51:54+01:00",
-      "lead": {
-        "id": "4ff4056480c1",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-i-landala-i-goteborg",
-        "guid": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-i-landala-i-goteborg",
-        "published_at": "2026-11-25T16:45:48+01:00",
-        "fetched_at": "2026-11-25T17:01:19+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Larm om explosion i Landala i Göteborg",
-          "summary": "En misstänkt explosion har inträffat i Landala i Göteborg. Räddninstjänsten uppger för SVT Nyheter Väst att man fått in samtal om att någon hört en hög smäll i området. – Det är lite oklart om något brinner eller har smällt, säger Fredrik Svedemyr, polisens presstalesperson.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Alarm over explosion in Landala in Göteborg",
-          "summary": "A suspected explosion has occurred in Landala in Göteborg. The rescue service tells SVT Nyheter Väst that it has received calls about someone hearing a loud bang in the area. – It is somewhat unclear whether anything is burning or has exploded, says Fredrik Svedemyr, the police press spokesperson."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T17:01:32+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "7fcf54425145",
-          "source": "gp",
-          "url": "https://www.gp.se/nyheter/goteborg/larm-om-hog-small-och-brand-i-landala.7881b0aa-84d6-5e9d-8cab-637aa1d621a3",
-          "published_at": "2026-11-25T16:51:54+01:00",
-          "sv": {
-            "title": "Larm om hög smäll och brand i Landala"
-          },
-          "en": {
-            "title": "Alarm over loud bang and fire in Landala"
-          }
-        },
-        {
-          "id": "4ff4056480c1",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-i-landala-i-goteborg",
-          "published_at": "2026-11-25T16:45:48+01:00",
-          "sv": {
-            "title": "Larm om explosion i Landala i Göteborg"
-          },
-          "en": {
-            "title": "Alarm over explosion in Landala in Göteborg"
           }
         }
       ]

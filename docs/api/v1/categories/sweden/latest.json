@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T21:01:25+01:00",
+  "generated_at": "2026-11-25T21:16:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a0263da2d383",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/dalarna/nytt-fall-av-algsjuka-i-sverige",
+      "guid": "https://www.svt.se/nyheter/lokalt/dalarna/nytt-fall-av-algsjuka-i-sverige",
+      "published_at": "2026-11-25T21:03:00+01:00",
+      "fetched_at": "2026-11-25T21:15:47+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Nytt fall av älgsjuka i Sverige",
+        "summary": "Ett nytt misstänkt fall av avmagringssjuka hos älg har konstaterats i Dalarna, enligt Statens veterinärmedicinska anstalt (SVA).",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New case of moose wasting disease in Sweden",
+        "summary": "A new suspected case of wasting disease in moose has been confirmed in Dalarna, according to the State Veterinary Medical Institute (SVA)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:16:02+01:00"
+      }
+    },
     {
       "id": "c9569f352a63",
       "schema_version": 1,
@@ -5441,33 +5467,6 @@
       "en": {
         "title": "The professor: Unclear school forces diagnoses",
         "summary": "There is talk of an ADHD epidemic. Professor Sven Bölte sees a changed school as one of several answers…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T10:01:26+01:00"
-      }
-    },
-    {
-      "id": "2c5dbc344ad1",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/ARdgRM/skolan-en-kamp-for-nova-diagnos-kravdes-for-hjalp",
-      "guid": "https://www.svd.se/a/ARdgRM/skolan-en-kamp-for-nova-diagnos-kravdes-for-hjalp?utm_medium=rss",
-      "published_at": "2026-11-21T10:00:12+01:00",
-      "fetched_at": "2026-11-21T10:01:12+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/53965a6c-0667-32af-ae2a-a53a8b41e293?format=auto&s=c9ca3e2b99c1aeedf79ea3f1b6572b8391d77c6f&w=1000",
-      "sv": {
-        "title": "Skolan en kamp för Nova – diagnos krävdes för hjälp",
-        "summary": "Nova Dugandzic Björk, 19, är en av de allt fler unga tjejer som fått en adhd-diagnos.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "School a struggle for Nova – diagnosis required for help",
-        "summary": "Nova Dugandzic Björk, 19, is one of the growing number of young girls who have received an ADHD diagnosis."
       },
       "translation": {
         "status": "done",

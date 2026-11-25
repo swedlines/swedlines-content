@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T21:01:25+01:00",
+  "generated_at": "2026-11-25T21:16:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a0263da2d383",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/dalarna/nytt-fall-av-algsjuka-i-sverige",
+      "guid": "https://www.svt.se/nyheter/lokalt/dalarna/nytt-fall-av-algsjuka-i-sverige",
+      "published_at": "2026-11-25T21:03:00+01:00",
+      "fetched_at": "2026-11-25T21:15:47+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Nytt fall av älgsjuka i Sverige",
+        "summary": "Ett nytt misstänkt fall av avmagringssjuka hos älg har konstaterats i Dalarna, enligt Statens veterinärmedicinska anstalt (SVA).",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New case of moose wasting disease in Sweden",
+        "summary": "A new suspected case of wasting disease in moose has been confirmed in Dalarna, according to the State Veterinary Medical Institute (SVA)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:16:02+01:00"
+      }
+    },
     {
       "id": "4e99c4e9ddf1",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T22:15:56+01:00"
-      }
-    },
-    {
-      "id": "8ecac009509f",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/over-2000-hushall-utan-elstrom-i-jamtland",
-      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/over-2000-hushall-utan-elstrom-i-jamtland",
-      "published_at": "2026-11-19T21:17:28+01:00",
-      "fetched_at": "2026-11-19T21:30:57+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Över 2000 hushåll utan elström i Jämtland",
-        "summary": "Drygt 2000 elkunder hos Jämtkraft har varit utan elström sedan 21-tiden, skriver P4 Jämtland.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Over 2,000 households without power in Jämtland",
-        "summary": "Just over 2,000 electricity customers of Jämtkraft have been without power since around 9 pm, P4 Jämtland reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T21:31:06+01:00"
       }
     }
   ]

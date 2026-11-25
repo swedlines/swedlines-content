@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:01:25+01:00",
+  "generated_at": "2026-11-25T21:16:09+01:00",
   "count": 200,
   "items": [
     {
@@ -380,6 +380,33 @@
       }
     },
     {
+      "id": "aefdd344e134",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/411262",
+      "guid": "https://tv.aftonbladet.se/video/411262?utm_medium=rss",
+      "published_at": "2026-11-25T17:37:33+01:00",
+      "fetched_at": "2026-11-25T21:15:49+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/c44834ed7af1b1234db0fd8bd06fb19c.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Sprängning i Iowa — blydamm kan spridas 16 mil",
+        "summary": "Fruktar miljökatastrof – kan spridas 16 mil",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Explosion in Iowa — lead dust could spread 16 mil",
+        "summary": "Fear of environmental disaster – could spread 16 mil"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:16:02+01:00"
+      }
+    },
+    {
       "id": "9e8dbb205031",
       "schema_version": 1,
       "source": "aftonbladet",
@@ -593,6 +620,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T16:45:57+01:00"
+      }
+    },
+    {
+      "id": "92d2b4be0b1f",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/1vnEOQ/ny-borssmocka-pa-wall-street",
+      "guid": "https://www.aftonbladet.se/nyheter/a/1vnEOQ/ny-borssmocka-pa-wall-street?utm_medium=rss",
+      "published_at": "2026-11-25T16:33:28+01:00",
+      "fetched_at": "2026-11-25T21:15:49+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/1661807c-b065-350a-93c6-566ac58d555d?format=auto&s=4e12412c1a5cb3c80dd3404437e426eae1a710f3&w=1000",
+      "sv": {
+        "title": "Ny börssmocka på Wall Street: ”Vilt”",
+        "summary": "Björnmarknad: ”Extremt nervös”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New stock market slump on Wall Street: “Wild”",
+        "summary": "Bear market: “Extremely nervous”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:16:02+01:00"
       }
     },
     {
@@ -5326,59 +5380,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T10:45:57+01:00"
-      }
-    },
-    {
-      "id": "16ece769b47b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/BrRKrQ/terrordomd-dansk-spion-kraver-ersattning",
-      "guid": "https://www.aftonbladet.se/nyheter/a/BrRKrQ/terrordomd-dansk-spion-kraver-ersattning?utm_medium=rss",
-      "published_at": "2026-11-23T10:25:35+01:00",
-      "fetched_at": "2026-11-23T10:31:00+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Terrordömd dansk spion kräver ersättning",
-        "summary": "En dansk man dömdes som IS-terrorist, men visade sig efter flera år i fängelse ha spionerat för…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Convicted terrorist Danish spy demands compensation",
-        "summary": "A Danish man was convicted as an IS terrorist, but after several years in prison turned out to have spied for…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T10:31:11+01:00"
-      }
-    },
-    {
-      "id": "d99a85f2566f",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/6PjRne/nooshi-dadgostar-om-s-budet-kanns-inte-schysst",
-      "guid": "https://www.aftonbladet.se/nyheter/a/6PjRne/nooshi-dadgostar-om-s-budet-kanns-inte-schysst?utm_medium=rss",
-      "published_at": "2026-11-23T10:18:38+01:00",
-      "fetched_at": "2026-11-23T10:31:00+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/01b5d629-47ae-39f9-881c-51e92760ed80?format=auto&s=6b7da248ce70f06d94e5fe8bf536d8b2215764ab&w=1000",
-      "sv": {
-        "title": "Nooshi Dadgostar om S-budet: ”Känns inte schysst”",
-        "summary": "Dadgostar efter budet: Aggressivt",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nooshi Dadgostar on the S budget: ”Doesn't feel decent”",
-        "summary": "Dadgostar after the budget: Aggressive"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T10:31:11+01:00"
       }
     }
   ]
