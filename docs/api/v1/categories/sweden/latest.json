@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T19:45:54+01:00",
+  "generated_at": "2026-11-25T20:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2f733edc5ddc",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/4Eq9l9/nytt-fall-av-algsjuka-i-sverige",
+      "guid": "https://www.aftonbladet.se/nyheter/a/4Eq9l9/nytt-fall-av-algsjuka-i-sverige?utm_medium=rss",
+      "published_at": "2026-11-25T19:57:01+01:00",
+      "fetched_at": "2026-11-25T20:01:19+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/52893911-c706-38d9-a08b-1c658ac65bfd?format=auto&s=5e0b72a6b75e8f91a1f3e1f8b8c16e76b4125bcb&w=1000",
+      "sv": {
+        "title": "Nytt fall av älgsjuka i Sverige",
+        "summary": "Ett nytt misstänkt fall av avmagringssjuka hos älg har konstaterats i Dalarna, enligt Statens…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New case of wasting disease in moose in Sweden",
+        "summary": "A new suspected case of wasting disease in moose has been confirmed in Dalarna, according to the Swedish..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:01:25+01:00"
+      }
+    },
     {
       "id": "e6732979c2a3",
       "schema_version": 1,
@@ -52,6 +79,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T19:01:24+01:00"
+      }
+    },
+    {
+      "id": "a9c63b26c19c",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1VW305eX5KI1QShEWTqfJg/frida-22-lever-i-staendig-raedsla-foer-att-vara-sjuk",
+      "guid": "1VW305eX5KI1QShEWTqfJg",
+      "published_at": "2026-11-25T18:57:13+01:00",
+      "fetched_at": "2026-11-25T20:01:19+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Efter fem"
+      ],
+      "sv": {
+        "title": "Frida, 22, lever i ständig rädsla för att vara sjuk",
+        "summary": "Det var våren 2024 som Frida Jonasson sökte vård för muskelvärk, domningar och stickningar. Eftersom hennes mamma har MS gjordes en magnetkameraundersökning som visade en misstänkt förändring i ryggmärgen. I en månad levde Frida i tron att hon hade MS.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Frida, 22, lives in constant fear of being ill",
+        "summary": "In spring 2024, Frida Jonasson sought care for muscle pain, numbness and tingling. Because her mother has MS, an MRI scan was performed that showed a suspected change in the spinal cord. For a month, Frida believed she had MS."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:01:25+01:00"
       }
     },
     {
@@ -5409,59 +5465,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:01:26+01:00"
-      }
-    },
-    {
-      "id": "0cc715334d55",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=c3069a9d-b58a-43a3-b5d0-f2bd80338b86",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c3069a9d-b58a-43a3-b5d0-f2bd80338b86",
-      "published_at": "2026-11-21T09:12:11+01:00",
-      "fetched_at": "2026-11-21T09:15:44+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Man livshotande skadad",
-        "summary": "Olycka i Gällivare",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man critically injured",
-        "summary": "Accident in Gällivare"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:15:50+01:00"
-      }
-    },
-    {
-      "id": "657a158b1f33",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/tetra-pak-tvingar-lunds-kommun-att-byta-namn-pa-gata",
-      "guid": "35131941-7cfb-4916-8537-a8f6dcf837f1",
-      "published_at": "2026-11-21T07:00:00+01:00",
-      "fetched_at": "2026-11-21T07:01:12+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/413fab9f-83a1-4bef-8293-be923b3b6bce.jpeg?width=600",
-      "sv": {
-        "title": "Tetra Pak tvingar Lunds kommun att byta namn på gata",
-        "summary": "Politikerna ville hedra en Lundauppfinning med ett eget gatunamn. Tetra Pak surnade till och tvingade kommunen att byta namn på gatan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tetra Pak forces Lund Municipality to rename street",
-        "summary": "Politicians wanted to honour a Lund invention with a street of its own name. Tetra Pak took offence and forced the municipality to rename the street."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T07:01:16+01:00"
       }
     }
   ]

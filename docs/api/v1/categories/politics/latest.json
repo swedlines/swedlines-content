@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T19:45:54+01:00",
+  "generated_at": "2026-11-25T20:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1e7e398ebe41",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/debatt/har-ar-sakpolitiken-som-kan-fa-vansterpartiet-att-vanda",
+      "guid": "https://www.dn.se/debatt/har-ar-sakpolitiken-som-kan-fa-vansterpartiet-att-vanda/",
+      "published_at": "2026-11-25T20:00:00+01:00",
+      "fetched_at": "2026-11-25T20:01:18+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/2042d75c-bd29-4fd5-a851-58046b3fb4bc.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "DN Debatt. ”Här är sakpolitiken som kan få Vänsterpartiet att vända”",
+        "summary": "DN DEBATT. Med tanke på den tredje statsministeromröstningen på måndag är det bråda dagar om en rödgrön regering trots allt ska bli verklighet. Här är sju reformer som skulle kunna få både Centerpartiet och Vänsterpartiet att lösa upp sina röda linjer, skriver Max Jerneck, chefsekonom på den…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "DN Debate. \"Here is the policy that could make the Left Party change its mind\"",
+        "summary": "DN DEBATE. With the third prime minister vote on Monday, there is a lot of activity over whether a red-green government will become reality after all. Here are seven reforms that could lead both the Centre Party and the Left Party to drop their red lines, writes Max Jerneck, chief economist at the..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:01:25+01:00"
+      }
+    },
     {
       "id": "6ffbfd58f9a0",
       "schema_version": 1,
@@ -5368,32 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T08:45:53+01:00"
-      }
-    },
-    {
-      "id": "951342a2834c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/andersson-inga-forutsattningar-for-s-regering",
-      "guid": "https://www.expressen.se/nyheter/politik/andersson-inga-forutsattningar-for-s-regering/",
-      "published_at": "2026-11-24T08:39:20+01:00",
-      "fetched_at": "2026-11-24T11:59:05+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Andersson: Inga förutsättningar nu för S-regering",
-        "summary": "Det finns just nu inga förutsättningar att bilda en S-ledd regering. Det säger Magdalena Andersson (S) efter sitt möte med talmannen. Samtidigt dömer hon ut chansen att bilda en borgerlig regering utan SD-stöd. – Det är bara en dröm. Det är en illusion, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Andersson: No prerequisites now for S-led government",
-        "summary": "There are currently no prerequisites for forming an S-led government. Magdalena Andersson (S) says so after her meeting with the Speaker. At the same time, she rules out the chance of forming a centre-right government without SD support. – It is just a dream. It is an illusion, she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T11:59:14+01:00"
       }
     }
   ]

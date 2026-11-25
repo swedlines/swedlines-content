@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T19:45:54+01:00",
+  "generated_at": "2026-11-25T20:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "809b084ff7f7",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/hot-mot-skola-i-harnosand",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/hot-mot-skola-i-harnosand",
+      "published_at": "2026-11-25T19:34:04+01:00",
+      "fetched_at": "2026-11-25T20:01:16+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Hot mot skola i Härnösand",
+        "summary": "Ett hot har riktats mot skolan i Härnösand genom ett klotter på en vägg i Landgrenshallen. Hotet gäller nu på fredag – och kommunen har beslutat att inte ha någon undervisning i lokalerna under dagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Threat against school in Härnösand",
+        "summary": "A threat has been directed at the school in Härnösand through graffiti on a wall in Landgrenshallen. The threat applies to Friday, and the municipality has decided not to hold any teaching at the premises during the day."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T20:01:25+01:00"
+      }
+    },
     {
       "id": "b1390bad8908",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T19:15:56+01:00"
-      }
-    },
-    {
-      "id": "67350e98d651",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/kultur/svt-granskningen-hatet-far-stora-journalistpriset-i-kategorin-arets-fornyare",
-      "guid": "https://www.svt.se/kultur/svt-granskningen-hatet-far-stora-journalistpriset-i-kategorin-arets-fornyare",
-      "published_at": "2026-11-19T18:35:13+01:00",
-      "fetched_at": "2026-11-19T18:45:41+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "SVT-granskningen ”Hatet” får Stora journalistpriset i kategorin ”Årets förnyare”",
-        "summary": "SVT-granskningen ”Hatet” om influencern Joakim Lundell får Stora journalistpriset i kategorin ”Årets förnyare”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "SVT investigation “Hatet” wins Stora journalistpriset in the “Årets förnyare” category",
-        "summary": "The SVT investigation “Hatet” about influencer Joakim Lundell wins Stora journalistpriset in the “Årets förnyare” category."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:45:57+01:00"
       }
     }
   ]
