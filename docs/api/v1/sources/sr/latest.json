@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T12:15:52+01:00",
+  "generated_at": "2026-11-25T12:31:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8a5f9910c9cd",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349837",
+      "guid": "rss:sr.se/article/9349837",
+      "published_at": "2026-11-25T12:26:00+01:00",
+      "fetched_at": "2026-11-25T12:31:00+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Japan kan slakta storsatsning på militären",
+        "summary": "Ett år efter att Japans storsatsning på sin militär klubbats igenom, kan nu landets premiärminister Sanae Takaichi tvingas ta tillbaka löftet. Japans ekonomi räcker inte till för upprustningen, som var tänkt att avskräcka Kina och minska beroendet av USA.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Japan may scrap major military buildup",
+        "summary": "A year after Japan's major military buildup was pushed through, Prime Minister Sanae Takaichi may be forced to take back the promise. Japan's economy is not enough for the rearmament, which was meant to deter China and reduce dependence on the US."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T12:31:13+01:00"
+      }
+    },
     {
       "id": "1006eb73a5ad",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T17:31:18+01:00"
-      }
-    },
-    {
-      "id": "031cc81907c7",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346143",
-      "guid": "rss:sr.se/article/9346143",
-      "published_at": "2026-11-19T16:47:00+01:00",
-      "fetched_at": "2026-11-19T17:01:14+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Juristen: Du betalar för GTA 6 – men äger inte spelet",
-        "summary": "Under natten till torsdag släpptes GTA 6, i vad som beskrivs som den största spellanseringen någonsin. Men att köpa spelet innebär inte att man sedan äger det, enligt Daniel Westman, jurist specialiserad på medierätt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Lawyer: You pay for GTA 6 – but do not own the game",
-        "summary": "During the night to Thursday GTA 6 was released, in what is described as the biggest game launch ever. But buying the game does not mean that you then own it, according to Daniel Westman, a lawyer specialising in media law."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:01:27+01:00"
       }
     }
   ]

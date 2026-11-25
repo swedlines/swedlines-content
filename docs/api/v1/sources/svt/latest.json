@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T12:15:52+01:00",
+  "generated_at": "2026-11-25T12:31:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b7c0b96ce14f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/cuf-vill-ha-s-c-mp-regering-inget-samarbete-med-sd",
+      "guid": "https://www.svt.se/nyheter/lokalt/skane/cuf-vill-ha-s-c-mp-regering-inget-samarbete-med-sd",
+      "published_at": "2026-11-25T12:22:49+01:00",
+      "fetched_at": "2026-11-25T12:31:00+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Cuf vill ha S-C-MP-regering: ”Inget samarbete med SD”",
+        "summary": "Centerpartiet hade på tisdagskvällen ett extrainsatt möte. Där ska C-ledaren ha presenterat två alternativ, enligt vad SVT erfar: Ulf Kristersson eller extraval. Men partiets ungdomsförbund vill istället se en S-C-MP-regering eller extraval.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Cuf wants S-C-MP government: \"No cooperation with SD\"",
+        "summary": "The Centre Party held an extra meeting on Tuesday evening. There the party leader is said to have presented two options, according to SVT: Ulf Kristersson (M) or a snap election. But the party's youth league wants instead an S-C-MP government or a snap election."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T12:31:13+01:00"
+      }
+    },
     {
       "id": "090cd82f8ed9",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T15:31:07+01:00"
-      }
-    },
-    {
-      "id": "4d298bcf9680",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/kultur/litteraturpris-for-roman-om-palestinsk-mans-uppvaxt",
-      "guid": "https://www.svt.se/kultur/litteraturpris-for-roman-om-palestinsk-mans-uppvaxt",
-      "published_at": "2026-11-19T14:59:13+01:00",
-      "fetched_at": "2026-11-19T15:01:13+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Litteraturpris för roman om palestinsk mans uppväxt",
-        "summary": "Årets pristagare har utsetts i National Book Award, ett av USA:s finaste litterära priser.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Literary prize for novel about a Palestinian man's upbringing",
-        "summary": "This year's laureate has been named at the National Book Award, one of the finest literary prizes in the USA."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:01:28+01:00"
       }
     }
   ]
