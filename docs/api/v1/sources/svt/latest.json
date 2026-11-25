@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T14:31:17+01:00",
+  "generated_at": "2026-11-25T14:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a495caf9aa8c",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/ekonomi/nya-tullar-fran-usa-vantas-upp-till-40-procent-mot-kina",
+      "guid": "https://www.svt.se/nyheter/ekonomi/nya-tullar-fran-usa-vantas-upp-till-40-procent-mot-kina",
+      "published_at": "2026-11-25T14:37:00+01:00",
+      "fetched_at": "2026-11-25T14:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Nya tullar från USA väntas – upp till 40 procent mot Kina",
+        "summary": "USA väntas införa nya tullar på upp till 20 procent mot EU och 40 procent mot Kina, enligt Bloomberg. Ett officiellt besked väntas under onsdagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New US tariffs expected – up to 40 percent on China",
+        "summary": "The US is expected to impose new tariffs of up to 20 percent on the EU and 40 percent on China, according to Bloomberg. An official announcement is expected on Wednesday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:45:52+01:00"
+      }
+    },
     {
       "id": "44874de825fb",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T17:15:54+01:00"
-      }
-    },
-    {
-      "id": "724938c76a9c",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-vansterkaoset-i-savsjo-stolar-star-tomma",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-vansterkaoset-i-savsjo-stolar-star-tomma",
-      "published_at": "2026-11-19T15:38:33+01:00",
-      "fetched_at": "2026-11-19T15:45:41+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Efter vänsterkaoset i Sävsjö – stolar står tomma",
-        "summary": "Trots valframgångarna har Vänsterpartiets två stolar stått tomma i Sävsjö fullmäktige efter valet. Flera av toppnamnen på listan har hoppat av. – Vi har fått stötta en del och det är en del oerfarenhet, säger Kristoffer Wolke som är distriktsordförande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the Left Party chaos in Sävsjö – seats stand empty",
-        "summary": "Despite election gains, the Left Party's two seats have stood empty on the Sävsjö municipal council since the election. Several of the top names on the list have dropped out. – We have had to support a number of people and there is some inexperience, says Kristoffer Wolke, district chair."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:31:17+01:00",
+  "generated_at": "2026-11-25T14:45:56+01:00",
   "count": 200,
   "items": [
     {
@@ -63,6 +63,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T14:15:57+01:00"
+      }
+    },
+    {
+      "id": "bba89d8f80b0",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/9Bv2Lp/bonusprinsens-nya-jobb-mobelsnickare",
+      "guid": "https://www.aftonbladet.se/nyheter/a/9Bv2Lp/bonusprinsens-nya-jobb-mobelsnickare?utm_medium=rss",
+      "published_at": "2026-11-25T13:55:36+01:00",
+      "fetched_at": "2026-11-25T14:45:46+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Bonusprinsens nya jobb: Möbelsnickare",
+        "summary": "Bonusprinsens första dag",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The bonus prince's new job: Furniture maker",
+        "summary": "The bonus prince's first day"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T14:45:52+01:00"
       }
     },
     {
@@ -5690,44 +5716,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T18:31:06+01:00"
-      }
-    },
-    {
-      "id": "2a02cac814a8",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/litteratur/litteraturrecension/recension-framlingen-pa-wildfell-hall-av-anne-bronte.94eeea2e-1b0f-5f42-94fa-fd2a5a5feafb",
-      "guid": "94eeea2e-1b0f-5f42-94fa-fd2a5a5feafb",
-      "published_at": "2026-11-21T17:17:17+01:00",
-      "fetched_at": "2026-11-21T17:31:03+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Litteraturrecension",
-        "Tagg: Recension",
-        "Tagg: Charlotte Brontë",
-        "Tagg: Romaner",
-        "Tagg: Feminism",
-        "Tagg: Författare",
-        "Tagg: Översättning",
-        "Tagg: Emily Brontë",
-        "Tagg: Jane Austen"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/6f8b95cf-10a7-32b7-b40a-851730987f92",
-      "sv": {
-        "title": "”Främlingen på Wildfell Hall” chockerade sin samtid",
-        "summary": "Den mest skandalösa och radikala kvinnan som skrivits av en Brontë-syster.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"The Tenant of Wildfell Hall\" shocked its contemporaries",
-        "summary": "The most scandalous and radical woman written by a Brontë sister."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T17:31:09+01:00"
       }
     }
   ]
