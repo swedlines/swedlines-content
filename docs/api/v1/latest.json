@@ -1,7 +1,114 @@
 {
-  "generated_at": "2026-11-25T22:01:28+01:00",
+  "generated_at": "2026-11-25T22:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f3816c420cb5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/wall-street-aterhamtade-stora-delar-av-tappet",
+      "guid": "e95dd78b-f84b-4340-9039-2bdd004d9672",
+      "published_at": "2026-11-25T22:08:08+01:00",
+      "fetched_at": "2026-11-25T22:15:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/bf009774-a52d-4304-ba2a-f869afda8dfc.jpeg?width=600",
+      "sv": {
+        "title": "Wall Street återhämtade stora delar av tappet",
+        "summary": "Wall Street inledde sin sista handelsdag innan firandet av Thanksgiving med att rasa. Vid stängningen hade stora delar av nedgångarna återhämtats – och för Dow Jones avslutades dagen till och med på grönt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Wall Street recovers most of its losses",
+        "summary": "Wall Street opened its last trading day before Thanksgiving by plunging. At the close, most of the declines had been recovered – and the Dow Jones ended the day in the green."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T22:15:50+01:00"
+      }
+    },
+    {
+      "id": "7d704cb31b86",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/efter-massuppsagningarna-oro-for-kinesiskt-spionage",
+      "guid": "https://www.dn.se/varlden/efter-massuppsagningarna-oro-for-kinesiskt-spionage/",
+      "published_at": "2026-11-25T22:05:54+01:00",
+      "fetched_at": "2026-11-25T22:15:44+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/bd2cfbc3-2eac-4aab-a757-2dcfa2072dc5.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Efter massuppsägningarna – oro för kinesiskt spionage",
+        "summary": "När Elon Musk fick uppdraget att effektivisera USA blev tiotusentals federalt anställda amerikaner arbetslösa våren 2025. Det verkar Kina ha utnyttjat. Personer med koppling till landet har erbjudit ovetande amerikaner påhittade jobb för att samla in säkerhetsklassad information, rapporterar CNN.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After mass layoffs – concern over Chinese espionage",
+        "summary": "When Elon Musk was tasked with making the US more efficient, tens of thousands of federal employees in America became unemployed in spring 2025. China appears to have exploited this. People with ties to the country have offered unsuspecting Americans fake jobs in order to collect security-classified information, reports CNN."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T22:15:50+01:00"
+      }
+    },
+    {
+      "id": "3ac77242c107",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/EbW8ea/sex-elever-atalade-for-overgrepp-pa-sigtunaskolan",
+      "guid": "https://www.svd.se/a/EbW8ea/sex-elever-atalade-for-overgrepp-pa-sigtunaskolan?utm_medium=rss",
+      "published_at": "2026-11-25T22:05:28+01:00",
+      "fetched_at": "2026-11-25T22:15:44+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/a5406d13-29ec-3a04-9884-97bcb0433274?format=auto&s=a47ec64f351318f1d4f6f1e43843578defb2b565&w=1000",
+      "sv": {
+        "title": "”Om ni berättar kommer jag att döda er”",
+        "summary": "En anteckningsbok med instruktioner om bestraffningar, ärvda tillhyggen och en hierarki där äldre…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"If you tell, I will kill you\"",
+        "summary": "A notebook with instructions on punishments, inherited weapons and a hierarchy in which older…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T22:15:50+01:00"
+      }
+    },
+    {
+      "id": "e6abc21ca196",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/nytt-globalt-varmerekord-slaende",
+      "guid": "https://www.expressen.se/nyheter/sverige/nytt-globalt-varmerekord-slaende/",
+      "published_at": "2026-11-25T22:00:50+01:00",
+      "fetched_at": "2026-11-25T22:15:45+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Nytt globalt värmerekord: ”Slående”",
+        "summary": "För första gången har temperaturen varit två grader varmare än förindustriella nivåer sex dagar i rad, rapporterar The Guardian. Värmen kan leda till att koldioxidhalten i atmosfären stiger än snabbare, varnar forskare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New global heat record: \"Striking\"",
+        "summary": "For the first time, the temperature has been two degrees warmer than pre-industrial levels six days in a row, reports The Guardian. The heat could cause carbon dioxide levels in the atmosphere to rise even faster, scientists warn."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T22:15:50+01:00"
+      }
+    },
     {
       "id": "f24f434c0140",
       "schema_version": 1,
@@ -5310,113 +5417,6 @@
       "en": {
         "title": "New twist in tax dispute – venture capital bosses required to pay 800 million",
         "summary": "The Tax Agency is getting its revenge in the protracted tax dispute against six former top executives and employees at venture capital firm 3i. The agency's decision to tax them up by over SEK 800 million has previously been overturned, but now the Administrative Court of Appeal gives the green light."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T15:46:04+01:00"
-      }
-    },
-    {
-      "id": "34af4f308e4a",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/befangt-att-reafusk-ska-kunna-ge-fangelse",
-      "guid": "https://www.dn.se/insandare/befangt-att-reafusk-ska-kunna-ge-fangelse/",
-      "published_at": "2026-11-25T15:35:33+01:00",
-      "fetched_at": "2026-11-25T15:45:46+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/2268eb5b-e41f-4983-8cb6-d33daa87484b.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. ”Befängt att reafusk ska kunna ge fängelse”",
-        "summary": "DN DEBATT REPLIKER. Martin Kits, Svensk Handel: Börja med att använda befintliga verktyg mot företag som vilseleder konsumenter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letter. “Absurd that sale fraud can lead to prison”",
-        "summary": "DN DEBATE REPLIES. Martin Kits, Svensk Handel: Start by using the existing tools against companies that mislead consumers."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T15:46:04+01:00"
-      }
-    },
-    {
-      "id": "75c4841be7db",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/ai-rasar-pa-knallrott-wall-street-vilt-dar-ute-nu",
-      "guid": "50d234dc-dbce-48da-ac64-e1a497e6c530",
-      "published_at": "2026-11-25T15:31:21+01:00",
-      "fetched_at": "2026-11-25T15:45:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/437a2488-b503-4c22-a7d5-649c25715111.jpeg?width=600",
-      "sv": {
-        "title": "AI rasar på knallrött Wall Street: ”Vilt där ute nu”",
-        "summary": "Wall Street åker på en ny kalldusch där flera AI-jättar rasar förbi förra fredagens bottennivåer. ”Det är ganska vilt där ute just nu och riskviljan har försvunnit igen”, säger Deutsche Banks makroanalyschef Jim Reid till Financial Times.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "AI stocks plunge on deep-red Wall Street: “Wild out there now”",
-        "summary": "Wall Street is taking another cold shower as several AI giants fall past last Friday's lows. “It's quite wild out there right now and risk appetite has disappeared again,” says Deutsche Bank's macro analysis chief Jim Reid to the Financial Times."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T15:46:04+01:00"
-      }
-    },
-    {
-      "id": "156af65adacc",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/carolina-kluft-barns-halsa-kan-inte-vanta",
-      "guid": "c4f141ad-ca68-466f-8711-9c55ac9485f0",
-      "published_at": "2026-11-25T15:30:47+01:00",
-      "fetched_at": "2026-11-25T15:45:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/76c51632-8e7d-4ca5-9341-b201452d07ba.jpeg?width=600",
-      "sv": {
-        "title": "Carolina Klüft: Barns hälsa kan inte vänta",
-        "summary": "Regeringsbildningen kan dra ut på tiden. Barndomen gör det inte. Barnkonventionen slår fast barns rätt till trygghet, utveckling, delaktighet och att barnets bästa ska sättas i främsta rummet. Nu behöver de rättigheterna omsättas i handling, skriver Carolina Klüft verksamhetschef Generation Pep.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Carolina Klüft: Children's health cannot wait",
-        "summary": "Government formation may drag on. Childhood does not. The Convention on the Rights of the Child establishes children's right to security, development and participation, and that the best interests of the child shall be the primary consideration. Now those rights need to be put into action, writes Carolina Klüft, head of operations at Generation Pep."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T15:46:04+01:00"
-      }
-    },
-    {
-      "id": "31d30d62659c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/expressens-inredningsexpert-svarar-pa-dina-fragor",
-      "guid": "https://www.expressen.se/nyheter/sverige/expressens-inredningsexpert-svarar-pa-dina-fragor/",
-      "published_at": "2026-11-25T15:30:00+01:00",
-      "fetched_at": "2026-11-25T15:45:47+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Expressens inredningsexpert svarar på dina frågor",
-        "summary": "Black week är i full gång. Expressens och Leva & Bos inredningsexpert Susanne Ellingsworth chattar med start klockan 16 om vilka inredningstrender och köp du ska titta efter. Har du frågor till Susanne? Du kan ställa dem redan nu.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Expressen's interiors expert answers your questions",
-        "summary": "Black Week is in full swing. Expressen's and Leva & Bo's interiors expert Susanne Ellingsworth chats from 4 pm about interior trends and purchases to look out for. Do you have questions for Susanne? You can ask them now."
       },
       "translation": {
         "status": "done",

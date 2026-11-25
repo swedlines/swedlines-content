@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T22:01:28+01:00",
+  "generated_at": "2026-11-25T22:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f3816c420cb5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/wall-street-aterhamtade-stora-delar-av-tappet",
+      "guid": "e95dd78b-f84b-4340-9039-2bdd004d9672",
+      "published_at": "2026-11-25T22:08:08+01:00",
+      "fetched_at": "2026-11-25T22:15:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/bf009774-a52d-4304-ba2a-f869afda8dfc.jpeg?width=600",
+      "sv": {
+        "title": "Wall Street återhämtade stora delar av tappet",
+        "summary": "Wall Street inledde sin sista handelsdag innan firandet av Thanksgiving med att rasa. Vid stängningen hade stora delar av nedgångarna återhämtats – och för Dow Jones avslutades dagen till och med på grönt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Wall Street recovers most of its losses",
+        "summary": "Wall Street opened its last trading day before Thanksgiving by plunging. At the close, most of the declines had been recovered – and the Dow Jones ended the day in the green."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T22:15:50+01:00"
+      }
+    },
     {
       "id": "59e167a91314",
       "schema_version": 1,
@@ -5304,33 +5331,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "7a21550eae71",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/hd-s-dom-tillstand-kravs-for-elsparkcyklar",
-      "guid": "9f019d25-30a2-423d-9831-d67b4bf799d2",
-      "published_at": "2026-11-24T15:41:47+01:00",
-      "fetched_at": "2026-11-24T15:45:52+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b6d838f0-827b-423d-9612-794bf685b9e0.jpeg?width=600",
-      "sv": {
-        "title": "HD:s dom: Tillstånd krävs för elsparkcyklar",
-        "summary": "Högsta domstolen fäller elsparkcykelföretaget Ryde i den långvariga tvisten med Gävle kommun. Domen slår fast att det krävs tillstånd för att hyra ut elsparkcyklar på allmän mark. Nu döms företaget till böter, rapporterar Gefle Dagblad.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Supreme Court ruling: permit required for e-scooters",
-        "summary": "The Supreme Court rules against the e-scooter company Ryde in the long-running dispute with Gävle Municipality. The ruling establishes that a permit is required to rent out e-scooters on public land. The company is now fined, reports Gefle Dagblad."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T15:45:58+01:00"
       }
     }
   ]

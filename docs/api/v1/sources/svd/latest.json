@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T22:01:28+01:00",
+  "generated_at": "2026-11-25T22:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3ac77242c107",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/EbW8ea/sex-elever-atalade-for-overgrepp-pa-sigtunaskolan",
+      "guid": "https://www.svd.se/a/EbW8ea/sex-elever-atalade-for-overgrepp-pa-sigtunaskolan?utm_medium=rss",
+      "published_at": "2026-11-25T22:05:28+01:00",
+      "fetched_at": "2026-11-25T22:15:44+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/a5406d13-29ec-3a04-9884-97bcb0433274?format=auto&s=a47ec64f351318f1d4f6f1e43843578defb2b565&w=1000",
+      "sv": {
+        "title": "”Om ni berättar kommer jag att döda er”",
+        "summary": "En anteckningsbok med instruktioner om bestraffningar, ärvda tillhyggen och en hierarki där äldre…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"If you tell, I will kill you\"",
+        "summary": "A notebook with instructions on punishments, inherited weapons and a hierarchy in which older…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T22:15:50+01:00"
+      }
+    },
     {
       "id": "5f35822336d1",
       "schema_version": 1,
@@ -5241,33 +5268,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T20:45:53+01:00"
-      }
-    },
-    {
-      "id": "9933a7e2f0c1",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/GPGgAx/nayib-bukele-skickar-robotar-och-soldater-till-haiti",
-      "guid": "https://www.svd.se/a/GPGgAx/nayib-bukele-skickar-robotar-och-soldater-till-haiti?utm_medium=rss",
-      "published_at": "2026-11-22T20:13:35+01:00",
-      "fetched_at": "2026-11-22T20:15:40+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/556bc801-7528-328d-97de-66526464da13?format=auto&s=77b8abe8d55a6dad3416394152f46e147c96c6d6&w=1000",
-      "sv": {
-        "title": "Fyra kidnappade män – nu hyllas Bukele i Haiti",
-        "summary": "Det började med jakten på fyra kidnappade flygtekniker. Nu har El Salvadors president Nayib Bukele…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Four kidnapped men – now Bukele is praised in Haiti",
-        "summary": "It began with the search for four kidnapped aviation technicians. Now El Salvador's President Nayib Bukele…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T20:15:48+01:00"
       }
     }
   ]

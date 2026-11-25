@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T22:01:28+01:00",
+  "generated_at": "2026-11-25T22:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f3816c420cb5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/wall-street-aterhamtade-stora-delar-av-tappet",
+      "guid": "e95dd78b-f84b-4340-9039-2bdd004d9672",
+      "published_at": "2026-11-25T22:08:08+01:00",
+      "fetched_at": "2026-11-25T22:15:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/bf009774-a52d-4304-ba2a-f869afda8dfc.jpeg?width=600",
+      "sv": {
+        "title": "Wall Street återhämtade stora delar av tappet",
+        "summary": "Wall Street inledde sin sista handelsdag innan firandet av Thanksgiving med att rasa. Vid stängningen hade stora delar av nedgångarna återhämtats – och för Dow Jones avslutades dagen till och med på grönt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Wall Street recovers most of its losses",
+        "summary": "Wall Street opened its last trading day before Thanksgiving by plunging. At the close, most of the declines had been recovered – and the Dow Jones ended the day in the green."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T22:15:50+01:00"
+      }
+    },
     {
       "id": "6b796041b092",
       "schema_version": 1,
@@ -5273,33 +5300,6 @@
       "en": {
         "title": "Confirmed: This is how much higher the ISK tax becomes",
         "summary": "Next year the ISK tax is expected to reach a record high. For someone with savings of SEK 1 million, it means just over SEK 900 more than the previous year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T06:01:19+01:00"
-      }
-    },
-    {
-      "id": "19ab030b4a5f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/JnomVJ/sa-mycket-hogre-blir-isk-skatten",
-      "guid": "https://www.svd.se/a/JnomVJ/sa-mycket-hogre-blir-isk-skatten?utm_medium=rss",
-      "published_at": "2026-11-25T05:50:12+01:00",
-      "fetched_at": "2026-11-25T06:01:10+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/3305fbc5-b7cd-3b80-b0cc-d284623e2b53?format=auto&s=5338ccb946f7dd6b42f1918327325c7b07fe5283&w=1000",
-      "sv": {
-        "title": "Så mycket högre blir ISK-skatten",
-        "summary": "Nästa år väntas ISK-skatten bli rekordhög. För den med ett sparbelopp på 1 miljon kronor handlar det…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is how much higher the ISK tax becomes",
-        "summary": "Next year the ISK tax is expected to reach a record high. For someone with savings of SEK 1 million, it means just over…"
       },
       "translation": {
         "status": "done",
