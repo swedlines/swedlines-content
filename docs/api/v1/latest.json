@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-25T21:31:14+01:00",
+  "generated_at": "2026-11-25T21:34:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "59e167a91314",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/teckningskursen-satt-i-minestos-emission",
+      "guid": "e7ab9c38-60e7-44e0-b2fe-a26083b55187",
+      "published_at": "2026-11-25T21:30:56+01:00",
+      "fetched_at": "2026-11-25T21:33:55+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d6ef7f69-ae93-42a9-8f1d-0ddfbaf983b1.jpeg?width=600",
+      "sv": {
+        "title": "Teckningskursen satt i Minestos emission",
+        "summary": "Den företrädesemission om cirka 130 miljoner kronor som tidvattenenergi-bolaget Minesto aviserade i oktober kommer att ske till en teckningskurs om 0:30 kronor per aktie, motsvarande en rabatt om cirka 30 procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Subscription price set in Minesto rights issue",
+        "summary": "The rights issue of about SEK 130 million that tidal energy company Minesto announced in October will take place at a subscription price of SEK 0.30 per share, corresponding to a discount of about 30 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:33:58+01:00"
+      }
+    },
+    {
+      "id": "87c4e44af855",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/fulltraffen-skjuter-ner-dronare-med-laser-",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/fulltraffen-skjuter-ner-dronare-med-laser-",
+      "published_at": "2026-11-25T21:30:30+01:00",
+      "fetched_at": "2026-11-25T21:33:54+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fullträffen mot Putin",
+        "summary": "Skjuter ner drönaren – med laser • Första gången någonsin",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Direct hit on Putin",
+        "summary": "Shoots down the drone – with laser • First time ever"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:33:58+01:00"
+      }
+    },
     {
       "id": "4c59bc64942e",
       "schema_version": 1,
@@ -5385,59 +5438,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T16:01:29+01:00"
-      }
-    },
-    {
-      "id": "ff0c45673011",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vast/hovratten-vantar-med-att-ta-upp-batolyckan-vid-tjorn-invantar-haveriutredning",
-      "guid": "https://www.svt.se/nyheter/lokalt/vast/hovratten-vantar-med-att-ta-upp-batolyckan-vid-tjorn-invantar-haveriutredning",
-      "published_at": "2026-11-25T15:16:34+01:00",
-      "fetched_at": "2026-11-25T15:31:05+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Hovrätten väntar med att ta upp båtolyckan vid Tjörn – inväntar haveriutredning",
-        "summary": "Hovrätten kommer avvakta med att ta upp målet om båtolyckan utanför Tjörn. Först ska Haverikommissionens utredning av olyckan bli färdig.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Court of appeal waits to take up Tjörn boat accident – awaiting accident investigation",
-        "summary": "The court of appeal will wait to take up the case concerning the boat accident off Tjörn. First, the Haverikommissionen investigation of the accident must be completed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T15:31:19+01:00"
-      }
-    },
-    {
-      "id": "1c9a8e4b311b",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/kommersiell-strommad-tv-vantas-ga-om-linjar-tv",
-      "guid": "https://www.dn.se/kultur/kommersiell-strommad-tv-vantas-ga-om-linjar-tv/",
-      "published_at": "2026-11-25T15:14:49+01:00",
-      "fetched_at": "2026-11-25T15:15:46+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/9382d32a-86ec-4d23-ad7e-48cd37445474.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Kommersiell strömmad tv väntas gå om linjär-tv",
-        "summary": "För första gången någonsin väntas intäkterna från strömmad tv överstiga intäkterna från traditionell tv i Norden, visar en analys från Mediavision.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Commercial streaming TV set to overtake linear TV",
-        "summary": "For the first time ever, streaming TV revenue is expected to exceed traditional TV revenue in the Nordics, according to an analysis from Mediavision."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T15:15:52+01:00"
       }
     }
   ]

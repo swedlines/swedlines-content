@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T21:31:14+01:00",
+  "generated_at": "2026-11-25T21:34:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "59e167a91314",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/teckningskursen-satt-i-minestos-emission",
+      "guid": "e7ab9c38-60e7-44e0-b2fe-a26083b55187",
+      "published_at": "2026-11-25T21:30:56+01:00",
+      "fetched_at": "2026-11-25T21:33:55+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d6ef7f69-ae93-42a9-8f1d-0ddfbaf983b1.jpeg?width=600",
+      "sv": {
+        "title": "Teckningskursen satt i Minestos emission",
+        "summary": "Den företrädesemission om cirka 130 miljoner kronor som tidvattenenergi-bolaget Minesto aviserade i oktober kommer att ske till en teckningskurs om 0:30 kronor per aktie, motsvarande en rabatt om cirka 30 procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Subscription price set in Minesto rights issue",
+        "summary": "The rights issue of about SEK 130 million that tidal energy company Minesto announced in October will take place at a subscription price of SEK 0.30 per share, corresponding to a discount of about 30 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:33:58+01:00"
+      }
+    },
     {
       "id": "7217c5420673",
       "schema_version": 1,
@@ -5304,33 +5331,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T15:45:58+01:00"
-      }
-    },
-    {
-      "id": "a23d89b24fc2",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/baksmalla-pa-wall-street-hajpen-lagger-sig",
-      "guid": "8f4d6ee4-e0d8-4e58-8979-eedd81abe99a",
-      "published_at": "2026-11-24T15:32:08+01:00",
-      "fetched_at": "2026-11-24T15:34:06+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/63692065-05e1-4ece-8eae-fc2abbfd3d98.jpeg?width=600",
-      "sv": {
-        "title": "Baksmälla på Wall Street: ”Hajpen lägger sig”",
-        "summary": "Wall Street åker på en baksmälla efter måndagens AI-fest, där Nvidia rusade över 30 procent. Nu faller chipjätten och indexen tillbaka. ”Hajpen lägger sig, känslorna svalnar och alla börjar tänka igen”, säger Banca Finanziaria Internazionale-chefen Jacopo Ceccatelli till Bloomberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Wall Street hangover: “The hype is fading”",
-        "summary": "Wall Street is nursing a hangover after Monday's AI party, when Nvidia surged more than 30 percent. Now the chipmaker and the indices are falling back. “The hype is fading, emotions are cooling and everyone starts thinking again,” says Jacopo Ceccatelli, chief of Banca Finanziaria Internazionale, to Bloomberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T15:34:10+01:00"
       }
     }
   ]

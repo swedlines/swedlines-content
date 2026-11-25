@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T21:31:14+01:00",
+  "generated_at": "2026-11-25T21:34:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "87c4e44af855",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/fulltraffen-skjuter-ner-dronare-med-laser-",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/fulltraffen-skjuter-ner-dronare-med-laser-",
+      "published_at": "2026-11-25T21:30:30+01:00",
+      "fetched_at": "2026-11-25T21:33:54+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fullträffen mot Putin",
+        "summary": "Skjuter ner drönaren – med laser • Första gången någonsin",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Direct hit on Putin",
+        "summary": "Shoots down the drone – with laser • First time ever"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:33:58+01:00"
+      }
+    },
     {
       "id": "36aa2261da72",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T17:45:48+01:00"
-      }
-    },
-    {
-      "id": "4e94d2b5aa26",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/intern-strid-inom-centerpartiet-infor-oppen-rida",
-      "guid": "https://www.expressen.se/nyheter/politik/intern-strid-inom-centerpartiet-infor-oppen-rida/",
-      "published_at": "2026-11-22T16:42:33+01:00",
-      "fetched_at": "2026-11-22T16:45:47+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Intern strid inom Centerpartiet – inför öppen ridå",
-        "summary": "Centerpartiet är splittrat. Och nu pågår den interna striden inför öppen ridå. I Stockholm riktar distriktsordförande Patrik Buddgård kritik mot dem som har ivrat för alliansen. – Det är olyckligt, säger han till Ekot.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Internal strife within the Centre Party – ahead of the open curtain",
-        "summary": "The Centre Party is divided. And now the internal struggle is under way ahead of the open curtain. In Stockholm, district chair Patrik Buddgård criticises those who have pushed for the Alliance. – It is unfortunate, he tells Ekot."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T16:45:53+01:00"
       }
     }
   ]

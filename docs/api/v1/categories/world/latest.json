@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T21:31:14+01:00",
+  "generated_at": "2026-11-25T21:34:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "87c4e44af855",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/fulltraffen-skjuter-ner-dronare-med-laser-",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/fulltraffen-skjuter-ner-dronare-med-laser-",
+      "published_at": "2026-11-25T21:30:30+01:00",
+      "fetched_at": "2026-11-25T21:33:54+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fullträffen mot Putin",
+        "summary": "Skjuter ner drönaren – med laser • Första gången någonsin",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Direct hit on Putin",
+        "summary": "Shoots down the drone – with laser • First time ever"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T21:33:58+01:00"
+      }
+    },
     {
       "id": "40c8aded7d8d",
       "schema_version": 1,
@@ -5331,32 +5357,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T16:45:50+01:00"
-      }
-    },
-    {
-      "id": "0002d457fd97",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348432",
-      "guid": "rss:sr.se/article/9348432",
-      "published_at": "2026-11-23T16:24:00+01:00",
-      "fetched_at": "2026-11-23T16:29:09+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ukrainska sjödrönare sänkte rysk korvett i Libyen",
-        "summary": "Ukrainas president Volodymyr Zelenskyj uppger att landets styrkor sänkt den ryska korvetten Merkury i Benghazi i Libyen med hjälp av sjödrönare. Satellitbilder visar fartyget delvis under vatten vid kajen. En rysk Ka-27-helikopter förstördes också och ett fraktfartyg skadades.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Ukrainian sea drones sank Russian corvette in Libya",
-        "summary": "Ukrainian President Volodymyr Zelenskyy says the country's forces sank the Russian corvette Merkury in Benghazi, Libya, using sea drones. Satellite images show the vessel partly underwater at the quay. A Russian Ka-27 helicopter was also destroyed and a cargo ship was damaged."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T16:29:18+01:00"
       }
     }
   ]
