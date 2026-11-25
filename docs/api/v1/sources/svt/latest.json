@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T08:01:23+01:00",
+  "generated_at": "2026-11-25T08:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dde0f7129e83",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/matilda-42-tackar-nej-till-chefsroller-for-att-stotta-maken-inom-militaren",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/matilda-42-tackar-nej-till-chefsroller-for-att-stotta-maken-inom-militaren",
+      "published_at": "2026-11-25T08:01:38+01:00",
+      "fetched_at": "2026-11-25T08:15:39+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Matilda, 42, tackar nej till chefsroller – för att stötta maken inom militären",
+        "summary": "När Matildas man är borta på övningar under längre perioder får hon ta ett större ansvar för barnen och hemmet. En ny rapport från Officersförbundet visar hur anhöriga ofta får anpassa sina arbetsliv för att den militära tjänstgöringen ska fungera.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Matilda, 42, turns down management roles – to support her husband in the military",
+        "summary": "When Matilda's husband is away on exercises for long periods, she has to take greater responsibility for the children and the home. A new report from the Swedish Officers' Association shows how relatives often have to adapt their working lives so that military service can function."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T08:15:50+01:00"
+      }
+    },
     {
       "id": "e98361380ddd",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "28f1610bdac4",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vast/larm-om-misstankt-farligt-foremal-i-goteborg-opuyqx",
-      "guid": "https://www.svt.se/nyheter/lokalt/vast/larm-om-misstankt-farligt-foremal-i-goteborg-opuyqx",
-      "published_at": "2026-11-19T10:14:59+01:00",
-      "fetched_at": "2026-11-19T10:31:00+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Larm om misstänkt farligt föremål i Göteborg",
-        "summary": "Polisen hanterar just nu ett misstänkt farligt föremål i Vidkärr i närheten av Munkebäckstorget i Göteborg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Alarm over suspected dangerous object in Göteborg",
-        "summary": "Police are currently handling a suspected dangerous object in Vidkärr near Munkebäckstorget in Göteborg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T10:31:11+01:00"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T08:01:23+01:00",
-  "count": 24,
+  "generated_at": "2026-11-25T08:15:56+01:00",
+  "count": 23,
   "stories": [
     {
       "id": "adfcf6526c82",
@@ -833,6 +833,81 @@
       ]
     },
     {
+      "id": "86e0fb463739",
+      "source_count": 3,
+      "sources": [
+        "expressen",
+        "svd",
+        "di"
+      ],
+      "first_published_at": "2026-11-24T22:30:48+01:00",
+      "last_published_at": "2026-11-25T08:13:24+01:00",
+      "lead": {
+        "id": "86e0fb463739",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia",
+        "guid": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia/",
+        "published_at": "2026-11-24T22:30:48+01:00",
+        "fetched_at": "2026-11-24T22:41:51+01:00",
+        "category": "economy",
+        "sv": {
+          "title": "Trumps stora vinst på Jensen Huangs comeback på Nvidia",
+          "summary": "Donald Trump såg till Jensen Huang fick tillbaka jobbet som Nvidia vd. Enligt The Guardian hade han 150 miljoner anledningar att hjälpa till. – Jag övertalade dem, säger Trump.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Trump's big win on Jensen Huang's comeback at Nvidia",
+          "summary": "Donald Trump made sure Jensen Huang got his job back as Nvidia CEO. According to The Guardian, he had 150 million reasons to help. – I persuaded them, says Trump."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-24T22:41:56+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "e086a7441b8e",
+          "source": "di",
+          "url": "https://www.di.se/live/experten-om-nvidia-solklart-tecken-pa-korruption",
+          "published_at": "2026-11-25T08:13:24+01:00",
+          "sv": {
+            "title": "Experten om Nvidia: ”Solklart tecken på korruption”"
+          },
+          "en": {
+            "title": "Expert on Nvidia: \"Clear sign of corruption\""
+          }
+        },
+        {
+          "id": "d32276d69f5f",
+          "source": "svd",
+          "url": "https://www.svd.se/a/4EqPOg/nvidia-solklart-tecken-pa-korruption",
+          "published_at": "2026-11-25T08:04:03+01:00",
+          "sv": {
+            "title": "Nvidia – ”Solklart tecken på korruption”"
+          },
+          "en": {
+            "title": "Nvidia – \"Clear sign of corruption\""
+          }
+        },
+        {
+          "id": "86e0fb463739",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia",
+          "published_at": "2026-11-24T22:30:48+01:00",
+          "sv": {
+            "title": "Trumps stora vinst på Jensen Huangs comeback på Nvidia"
+          },
+          "en": {
+            "title": "Trump's big win on Jensen Huang's comeback at Nvidia"
+          }
+        }
+      ]
+    },
+    {
       "id": "19ab030b4a5f",
       "source_count": 3,
       "sources": [
@@ -1231,82 +1306,6 @@
           },
           "en": {
             "title": "Over 5,000 heat-related deaths in England"
-          }
-        }
-      ]
-    },
-    {
-      "id": "872a7677bf58",
-      "source_count": 3,
-      "sources": [
-        "svd",
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T19:59:54+01:00",
-      "last_published_at": "2026-11-24T20:05:28+01:00",
-      "lead": {
-        "id": "872a7677bf58",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/g37Mk9/magyars-ukrainabesok-nytt-kapitel-i-relationer",
-        "guid": "https://www.svd.se/a/g37Mk9/magyars-ukrainabesok-nytt-kapitel-i-relationer?utm_medium=rss",
-        "published_at": "2026-11-24T19:59:54+01:00",
-        "fetched_at": "2026-11-24T20:01:10+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/c9af9b2a-2329-37e1-a2a4-e3cce4f6a342?format=auto&s=a31eccb3ae9bad4dc7ed1b700fdcf78dc08c3711&w=1000",
-        "sv": {
-          "title": "Magyars Ukrainabesök ”nytt kapitel” i relationer",
-          "summary": "Péter Magyar träffade Ukrainas president Volodymyr Zelenskyj under sitt första besök i Ukraina i…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Magyar’s Ukraine visit a ”new chapter” in relations",
-          "summary": "Péter Magyar met Ukrainian President Volodymyr Zelenskyy during his first visit to Ukraine in…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T20:01:21+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "949514c64d07",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/magyars-ukrainabesok-nytt-kapitel-i-relationer",
-          "published_at": "2026-11-24T20:05:28+01:00",
-          "sv": {
-            "title": "Magyars Ukrainabesök ”nytt kapitel” i relationer"
-          },
-          "en": {
-            "title": "Magyar's Ukraine visit a \"new chapter\" in relations"
-          }
-        },
-        {
-          "id": "c5802de3ab9a",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/ez8Q7g/magyars-ukrainabesok-nytt-kapitel-i-relationer",
-          "published_at": "2026-11-24T19:59:54+01:00",
-          "sv": {
-            "title": "Magyars Ukrainabesök ”nytt kapitel” i relationer"
-          },
-          "en": {
-            "title": "Magyar’s Ukraine visit a ”new chapter” in relations"
-          }
-        },
-        {
-          "id": "872a7677bf58",
-          "source": "svd",
-          "url": "https://www.svd.se/a/g37Mk9/magyars-ukrainabesok-nytt-kapitel-i-relationer",
-          "published_at": "2026-11-24T19:59:54+01:00",
-          "sv": {
-            "title": "Magyars Ukrainabesök ”nytt kapitel” i relationer"
-          },
-          "en": {
-            "title": "Magyar’s Ukraine visit a ”new chapter” in relations"
           }
         }
       ]
@@ -1934,68 +1933,6 @@
           },
           "en": {
             "title": "Potential infection spread despite alarm from staff"
-          }
-        }
-      ]
-    },
-    {
-      "id": "ff524bdc3641",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "tv4"
-      ],
-      "first_published_at": "2026-11-24T11:40:07+01:00",
-      "last_published_at": "2026-11-24T20:04:11+01:00",
-      "lead": {
-        "id": "ff524bdc3641",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/uppgifter-till-svt-nya-dna-sparet-i-brattas-fran-domd-kriminell",
-        "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/uppgifter-till-svt-nya-dna-sparet-i-brattas-fran-domd-kriminell",
-        "published_at": "2026-11-24T11:40:07+01:00",
-        "fetched_at": "2026-11-24T11:45:43+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Uppgifter till SVT: Nya dna-spåret i Brattås från dömd kriminell",
-          "summary": "Enligt initierade uppgifter till SVT kommer det nyligen säkrade dna-spåret efter dubbelmordet i Brattås i Härnösand 2005 från en man med ett digert brottsligt förflutet. Vid tiden för Brattåsmorden var mannen, numera avliden, i 40-årsåldern.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Sources to SVT: New DNA trace in Brattås from convicted criminal",
-          "summary": "According to information to SVT, the recently secured DNA trace from the Brattås double murder in Härnösand in 2005 comes from a man with a long criminal past. At the time of the Brattås murders, the man, now deceased, was in his 40s."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T11:46:03+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "0253ca46b1f9",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/6zNGskhNAuvSE2ohhH6FTN/nya-dna-spar-hittade-pa-farfaell-tillhoer-doemd-kriminell",
-          "published_at": "2026-11-24T20:04:11+01:00",
-          "sv": {
-            "title": "Nya dna-spår hittade på fårfäll – tillhör dömd kriminell"
-          },
-          "en": {
-            "title": "New DNA traces found on sheepskin rug – belong to convicted criminal"
-          }
-        },
-        {
-          "id": "ff524bdc3641",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/uppgifter-till-svt-nya-dna-sparet-i-brattas-fran-domd-kriminell",
-          "published_at": "2026-11-24T11:40:07+01:00",
-          "sv": {
-            "title": "Uppgifter till SVT: Nya dna-spåret i Brattås från dömd kriminell"
-          },
-          "en": {
-            "title": "Sources to SVT: New DNA trace in Brattås from convicted criminal"
           }
         }
       ]

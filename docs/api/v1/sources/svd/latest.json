@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T08:01:23+01:00",
+  "generated_at": "2026-11-25T08:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d32276d69f5f",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/4EqPOg/nvidia-solklart-tecken-pa-korruption",
+      "guid": "https://www.svd.se/a/4EqPOg/nvidia-solklart-tecken-pa-korruption?utm_medium=rss",
+      "published_at": "2026-11-25T08:04:03+01:00",
+      "fetched_at": "2026-11-25T08:15:41+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/f017d7f6-ffc4-3d25-b228-d11bdd3e89fb?format=auto&s=6a0dc66ce78b96db365552a1a97837f559433f28&w=1000",
+      "sv": {
+        "title": "Nvidia – ”Solklart tecken på korruption”",
+        "summary": "Jensen Huangs återinstallation som vd för Nvidia ifrågasätts av många, och inte minst president…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia – \"Clear sign of corruption\"",
+        "summary": "Jensen Huang's reinstatement as CEO of Nvidia is questioned by many, not least President Donald Trump's role…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T08:15:50+01:00"
+      }
+    },
     {
       "id": "459c09e77596",
       "schema_version": 1,
@@ -5238,33 +5265,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T06:45:55+01:00"
-      }
-    },
-    {
-      "id": "d44b3bf488b0",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/XogL7W/inspirerade-av-trump-nu-kan-vox-bli-vagmastare",
-      "guid": "https://www.svd.se/a/XogL7W/inspirerade-av-trump-nu-kan-vox-bli-vagmastare?utm_medium=rss",
-      "published_at": "2026-11-22T06:00:11+01:00",
-      "fetched_at": "2026-11-22T06:15:46+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/6f8372b2-85a2-30f2-86df-b38e494b7ce3?format=auto&s=8a786b23ebfa57c52604954cb949d5e1681ce189&w=1000",
-      "sv": {
-        "title": "Inspirerade av Trump – nu kan Vox bli vågmästare",
-        "summary": "Högerradikala Vox väntas gå framåt i det spanska nyvalet om en vecka och få en vågmästarroll.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Inspired by Trump – now Vox could become kingmaker",
-        "summary": "The far-right Vox is expected to gain ground in the Spanish snap election in a week and win a kingmaker role."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T06:15:54+01:00"
       }
     }
   ]

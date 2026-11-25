@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T08:01:23+01:00",
+  "generated_at": "2026-11-25T08:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dde0f7129e83",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/matilda-42-tackar-nej-till-chefsroller-for-att-stotta-maken-inom-militaren",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/matilda-42-tackar-nej-till-chefsroller-for-att-stotta-maken-inom-militaren",
+      "published_at": "2026-11-25T08:01:38+01:00",
+      "fetched_at": "2026-11-25T08:15:39+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Matilda, 42, tackar nej till chefsroller – för att stötta maken inom militären",
+        "summary": "När Matildas man är borta på övningar under längre perioder får hon ta ett större ansvar för barnen och hemmet. En ny rapport från Officersförbundet visar hur anhöriga ofta får anpassa sina arbetsliv för att den militära tjänstgöringen ska fungera.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Matilda, 42, turns down management roles – to support her husband in the military",
+        "summary": "When Matilda's husband is away on exercises for long periods, she has to take greater responsibility for the children and the home. A new report from the Swedish Officers' Association shows how relatives often have to adapt their working lives so that military service can function."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T08:15:50+01:00"
+      }
+    },
     {
       "id": "459c09e77596",
       "schema_version": 1,
@@ -5510,33 +5536,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T10:06:12+01:00"
-      }
-    },
-    {
-      "id": "7445f7f9f26c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/totalforbjud-lovblasare-i-tatorten",
-      "guid": "https://www.dn.se/insandare/totalforbjud-lovblasare-i-tatorten/",
-      "published_at": "2026-11-15T08:49:41+01:00",
-      "fetched_at": "2026-11-15T10:05:47+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/fa0312ad-65cf-4c42-9b2b-c8d10e51b693.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Totalförbjud lövblåsare i tätorten",
-        "summary": "INSÄNDARE. Låt löven ligga kvar på grönytor där de bygger matjord och använd kratta där de behöver tas bort. Låt ekosystemen fungera och tysta lövblåsarna för gott, skriver gymnasieläraren Lusse Arve.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Op-ed: Ban leaf blowers in the urban area",
-        "summary": "LETTER. Leave the leaves on green spaces where they build topsoil and use a rake where they need to be removed. Let the ecosystems function and silence the leaf blowers for good, writes upper secondary school teacher Lusse Arve."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T10:06:15+01:00"
       }
     }
   ]
