@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T04:45:48+01:00",
+  "generated_at": "2026-11-25T04:59:46+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "27bea1a51786",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349510",
+      "guid": "rss:sr.se/article/9349510",
+      "published_at": "2026-11-25T04:47:00+01:00",
+      "fetched_at": "2026-11-25T04:59:32+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fler dödadas eller skadas av landminor",
+        "summary": "Det är allt fler i världen som dör eller skadas av landminor. Det visar en rapport från organisationen International Campaign to Ban Landmines. Störst är ökningen i Syrien där över 1 600 personer dödades eller skadades av minor förra året, mer än 50 procent fler än året innan",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "More people killed or injured by landmines",
+        "summary": "More and more people around the world are being killed or injured by landmines. This is shown by a report from the International Campaign to Ban Landmines. The increase is largest in Syria, where over 1,600 people were killed or injured by mines last year, more than 50 percent more than the year before"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T04:59:42+01:00"
+      }
+    },
     {
       "id": "d533c9df740e",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T12:45:56+01:00"
-      }
-    },
-    {
-      "id": "330ac67f97f1",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345944",
-      "guid": "rss:sr.se/article/9345944",
-      "published_at": "2026-11-19T12:26:00+01:00",
-      "fetched_at": "2026-11-19T12:31:04+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Sverige halkar efter i elektrifieringen av transporter",
-        "summary": "På klimatmötet i Turkiet diskuteras ökad elektrifiering för att minska utsläppen. Sverige behöver öka takten i transportsektorns elektrifiering, säger lundaprofessorn Max Åhman. Han anser att politisk tvekan har bromsat utvecklingen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sweden falls behind in electrification of transport",
-        "summary": "At the climate summit in Turkey, increased electrification is being discussed to cut emissions. Sweden needs to speed up electrification of the transport sector, says Lund professor Max Åhman. He believes political hesitation has slowed development."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T12:31:18+01:00"
       }
     }
   ]

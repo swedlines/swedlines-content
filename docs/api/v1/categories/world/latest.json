@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T04:45:48+01:00",
+  "generated_at": "2026-11-25T04:59:46+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "27bea1a51786",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349510",
+      "guid": "rss:sr.se/article/9349510",
+      "published_at": "2026-11-25T04:47:00+01:00",
+      "fetched_at": "2026-11-25T04:59:32+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fler dödadas eller skadas av landminor",
+        "summary": "Det är allt fler i världen som dör eller skadas av landminor. Det visar en rapport från organisationen International Campaign to Ban Landmines. Störst är ökningen i Syrien där över 1 600 personer dödades eller skadades av minor förra året, mer än 50 procent fler än året innan",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "More people killed or injured by landmines",
+        "summary": "More and more people around the world are being killed or injured by landmines. This is shown by a report from the International Campaign to Ban Landmines. The increase is largest in Syria, where over 1,600 people were killed or injured by mines last year, more than 50 percent more than the year before"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T04:59:42+01:00"
+      }
+    },
     {
       "id": "77e3e0d885fe",
       "schema_version": 1,
@@ -5352,30 +5378,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T02:12:17+01:00"
-      }
-    },
-    {
-      "id": "21869b121f2c",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80203",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80203&utm_medium=rss",
-      "published_at": "2026-11-22T23:07:53+01:00",
-      "fetched_at": "2026-11-22T23:15:41+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/6dab2966-dd34-3571-8b85-b504e0f907d3?format=auto&s=8391e9584f5b0502b1f76c1995c5de4793e97472&w=1000",
-      "sv": {
-        "title": "Kongresstormare: ”Trump den värsta”"
-      },
-      "en": {
-        "title": "Congress troublemakers: \"Trump the worst\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T23:15:47+01:00"
       }
     }
   ]

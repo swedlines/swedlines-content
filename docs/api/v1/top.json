@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T04:45:48+01:00",
-  "count": 28,
+  "generated_at": "2026-11-25T04:59:46+01:00",
+  "count": 27,
   "stories": [
     {
       "id": "bc9e35a4d1b8",
@@ -689,6 +689,81 @@
       ]
     },
     {
+      "id": "d533c9df740e",
+      "source_count": 3,
+      "sources": [
+        "sr",
+        "aftonbladet",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-25T04:00:00+01:00",
+      "last_published_at": "2026-11-25T04:51:01+01:00",
+      "lead": {
+        "id": "d533c9df740e",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9349048",
+        "guid": "rss:sr.se/article/9349048",
+        "published_at": "2026-11-25T04:00:00+01:00",
+        "fetched_at": "2026-11-25T04:15:41+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Centern tappar i ny mätning: ”Inte förvånande”",
+          "summary": "Stödet för Centern minskar i en ny mätning. Partiet får 4,8 procent, alltså strax över spärren till riksdagen. Socialdemokraterna får sin sämsta siffra sedan 2023. De långdragna regeringsförhandlingarna är förklaringen, enligt Per Oleskog Tryggvason på Indikator Opinion som gjort undersökningen.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Centre Party drops in new poll: \"Not surprising\"",
+          "summary": "Support for the Centre Party is falling in a new poll. The party gets 4.8 percent, just above the threshold for entering the Riksdag. The Social Democrats get their worst figure since 2023. The protracted government negotiations are the explanation, according to Per Oleskog Tryggvason at Indikator Opinion, who conducted the survey."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T04:15:49+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "390524b485a9",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=242f93dd-9597-4741-bb91-b2d40b93d7c7",
+          "published_at": "2026-11-25T04:51:01+01:00",
+          "sv": {
+            "title": "Centerpartiet backar i ny mätning – nära spärren"
+          },
+          "en": {
+            "title": "Centre Party slips in new poll – close to the threshold"
+          }
+        },
+        {
+          "id": "c095c73a9425",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/ARdKOx/centerpartiet-backar-i-matning-nara-sparren",
+          "published_at": "2026-11-25T04:45:27+01:00",
+          "sv": {
+            "title": "Centerpartiet backar i mätning – nära spärren"
+          },
+          "en": {
+            "title": "Centre Party slips in poll – close to the threshold"
+          }
+        },
+        {
+          "id": "d533c9df740e",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9349048",
+          "published_at": "2026-11-25T04:00:00+01:00",
+          "sv": {
+            "title": "Centern tappar i ny mätning: ”Inte förvånande”"
+          },
+          "en": {
+            "title": "Centre Party drops in new poll: \"Not surprising\""
+          }
+        }
+      ]
+    },
+    {
       "id": "8554f9f6a160",
       "source_count": 3,
       "sources": [
@@ -1349,94 +1424,6 @@
           },
           "en": {
             "title": "Several investigations into Jensen Huang in the works – Trump connection could be examined"
-          }
-        }
-      ]
-    },
-    {
-      "id": "73b1b5d8aa2a",
-      "source_count": 3,
-      "sources": [
-        "di",
-        "expressen",
-        "svt"
-      ],
-      "first_published_at": "2026-11-24T14:30:47+01:00",
-      "last_published_at": "2026-11-24T16:51:46+01:00",
-      "lead": {
-        "id": "73b1b5d8aa2a",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/kallor-usa-forbereder-hojda-tullar",
-        "guid": "95ffef13-88ba-4e4d-8af4-5fe3f46a1492",
-        "published_at": "2026-11-24T14:30:47+01:00",
-        "fetched_at": "2026-11-24T14:45:49+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/376bbfe1-300b-4226-9ebf-1e015d836702.jpeg?width=600",
-        "sv": {
-          "title": "Källor: USA förbereder höjda tullar",
-          "summary": "USA förbereder sig på att höja tullarna mot Kina och dussintals andra länder. Det rapporterar Wall Street Journal med hänvisning till källor.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Sources: US preparing higher tariffs",
-          "summary": "The US is preparing to raise tariffs on China and dozens of other countries. The Wall Street Journal reports this, citing sources."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T14:45:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "5b61b831614e",
-          "source": "di",
-          "url": "https://www.di.se/live/kallor-nya-usa-tullarna-haller-sig-inom-handelsavtalen",
-          "published_at": "2026-11-24T16:51:46+01:00",
-          "sv": {
-            "title": "Källor: Nya USA–tullarna håller sig inom handelsavtalen"
-          },
-          "en": {
-            "title": "Sources: New US tariffs stay within trade agreements"
-          }
-        },
-        {
-          "id": "22a4067976e8",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/utrikes/uppgifter-usa-ska-hoja-tullar",
-          "published_at": "2026-11-24T15:09:21+01:00",
-          "sv": {
-            "title": "Uppgifter: USA ska höja tullar"
-          },
-          "en": {
-            "title": "Reports: US to raise tariffs"
-          }
-        },
-        {
-          "id": "5f8898b134c6",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bfe03c77-2300-43bd-9e75-e41235edc1ad",
-          "published_at": "2026-11-24T14:54:20+01:00",
-          "sv": {
-            "title": "Trump förbereder tullar"
-          },
-          "en": {
-            "title": "Trump prepares tariffs"
-          }
-        },
-        {
-          "id": "73b1b5d8aa2a",
-          "source": "di",
-          "url": "https://www.di.se/live/kallor-usa-forbereder-hojda-tullar",
-          "published_at": "2026-11-24T14:30:47+01:00",
-          "sv": {
-            "title": "Källor: USA förbereder höjda tullar"
-          },
-          "en": {
-            "title": "Sources: US preparing higher tariffs"
           }
         }
       ]
@@ -2259,90 +2246,6 @@
           },
           "en": {
             "title": "Global AI rally – but down on the Stockholm Stock Exchange"
-          }
-        }
-      ]
-    },
-    {
-      "id": "80fffd176ee4",
-      "source_count": 2,
-      "sources": [
-        "gp",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T12:18:21+01:00",
-      "last_published_at": "2026-11-24T16:53:53+01:00",
-      "lead": {
-        "id": "80fffd176ee4",
-        "schema_version": 1,
-        "source": "gp",
-        "url": "https://www.gp.se/sport/fotbollsspelaren-ken-fagerberg-ar-dod-den-tidigare-ois-spelaren-blev-37-ar-gammal.4cefdcb5-d7dd-53ef-a359-549171cb52c6",
-        "guid": "4cefdcb5-d7dd-53ef-a359-549171cb52c6",
-        "published_at": "2026-11-24T12:18:21+01:00",
-        "fetched_at": "2026-11-24T12:45:49+01:00",
-        "category": "sports",
-        "feed_categories": [
-          "Sport",
-          "Tagg: breaking-GP",
-          "Tagg: Öis",
-          "Tagg: Ken Fagerberg",
-          "Tagg: Örgryte",
-          "Tagg: Örgryte IS",
-          "Tagg: Fotboll"
-        ],
-        "image_url": "https://vcdn.polarismedia.no/3a55cfec-2e10-3f6c-a924-8be37747e4eb",
-        "sv": {
-          "title": "Ken Fagerberg är död – tidigare Öis-spelaren blev 37 år",
-          "summary": "Kom fram som supertalang i Örgryte 2007 • Pappan: ”Han hade ett hjärta av guld”.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Ken Fagerberg is dead – former Öis player was 37",
-          "summary": "Emerged as a superstar talent at Örgryte in 2007 • Father: \"He had a heart of gold.\""
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T12:45:56+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "6c008d37e385",
-          "source": "gp",
-          "url": "https://www.gp.se/sport/fotboll/orgryte-is/ois-hedrar-ken-fagerberg-spelar-i-sorgband-mot-degerfors.6f092b93-334a-5159-be9a-80ed8bd7f95e",
-          "published_at": "2026-11-24T16:53:53+01:00",
-          "sv": {
-            "title": "Öis i sorg efter Ken Fagerbergs död – så hedras han"
-          },
-          "en": {
-            "title": "Öis in mourning after Ken Fagerberg's death – this is how he is honoured"
-          }
-        },
-        {
-          "id": "347c109951b4",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sport/forre-fotbollsspelaren-ken-fagerberg-dod",
-          "published_at": "2026-11-24T14:25:17+01:00",
-          "sv": {
-            "title": "Förre fotbollsspelaren Ken Fagerberg död"
-          },
-          "en": {
-            "title": "Former footballer Ken Fagerberg dead"
-          }
-        },
-        {
-          "id": "80fffd176ee4",
-          "source": "gp",
-          "url": "https://www.gp.se/sport/fotbollsspelaren-ken-fagerberg-ar-dod-den-tidigare-ois-spelaren-blev-37-ar-gammal.4cefdcb5-d7dd-53ef-a359-549171cb52c6",
-          "published_at": "2026-11-24T12:18:21+01:00",
-          "sv": {
-            "title": "Ken Fagerberg är död – tidigare Öis-spelaren blev 37 år"
-          },
-          "en": {
-            "title": "Ken Fagerberg is dead – former Öis player was 37"
           }
         }
       ]

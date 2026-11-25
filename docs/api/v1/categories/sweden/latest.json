@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T04:45:48+01:00",
+  "generated_at": "2026-11-25T04:59:46+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bc8f6216c250",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/BrRQ8e/aldre-man-dod-i-gardsbrand-utanfor-stenungsund",
+      "guid": "https://www.aftonbladet.se/nyheter/a/BrRQ8e/aldre-man-dod-i-gardsbrand-utanfor-stenungsund?utm_medium=rss",
+      "published_at": "2026-11-25T04:48:27+01:00",
+      "fetched_at": "2026-11-25T04:59:35+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/8d2fefc8-f84c-3d59-a42b-f5c7349f3296?format=auto&s=8ee60e009b3191aa6e02d0da7c7285e4b8210e3c&w=1000",
+      "sv": {
+        "title": "Äldre man död i gårdsbrand utanför Stenungsund",
+        "summary": "En man i 90-årsåldern har omkommit i samband med en brand på en gård i Stenungsunds kommun, uppger…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elderly man dies in farm fire outside Stenungsund",
+        "summary": "A man in his 90s has died in connection with a fire at a farm in Stenungsund Municipality, reports…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T04:59:42+01:00"
+      }
+    },
     {
       "id": "5390383938e0",
       "schema_version": 1,
@@ -5422,32 +5449,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:01:13+01:00"
-      }
-    },
-    {
-      "id": "e359b3eb8b9e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f9e6de80-6410-41dd-8205-740918f3b445",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f9e6de80-6410-41dd-8205-740918f3b445",
-      "published_at": "2026-11-20T06:28:34+01:00",
-      "fetched_at": "2026-11-20T06:45:44+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Strul för pendeltågen",
-        "summary": "Inställda avgångar i Stockholm",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trouble for the commuter trains",
-        "summary": "Cancelled departures in Stockholm"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:45:50+01:00"
       }
     }
   ]
