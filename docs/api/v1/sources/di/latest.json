@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-11-25T19:16:12+01:00",
+  "generated_at": "2026-11-25T19:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c9da6ff34ac1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/meta-lyfter-pa-uppgifter-om-amazon-samtal",
+      "guid": "a140cd8e-962b-4dd9-bba4-013d58ae662d",
+      "published_at": "2026-11-25T19:20:12+01:00",
+      "fetched_at": "2026-11-25T19:31:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/ece2d7e2-90a7-4a25-82f9-30e90821d918.jpeg?width=600",
+      "sv": {
+        "title": "Meta lyfter på uppgifter om Amazon-samtal",
+        "summary": "Facebook-ägaren Meta går mot strömmen på Wall Street, med en uppgång på över 2 procent. S&P 500 är ned över 1 procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Meta up on reports of Amazon talks",
+        "summary": "Facebook owner Meta is bucking the trend on Wall Street, rising more than 2 percent. The S&P 500 is down more than 1 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T19:31:09+01:00"
+      }
+    },
+    {
+      "id": "7fec3fd6b2ac",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nvidia-pa-jakt-efter-nya-kunder-efter-kina-restriktioner",
+      "guid": "e40189e9-801b-4e63-b7a0-c84b8302166f",
+      "published_at": "2026-11-25T19:17:12+01:00",
+      "fetched_at": "2026-11-25T19:31:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/3c02d1dd-2082-4fab-92c7-61bcdc94d490.jpeg?width=600",
+      "sv": {
+        "title": "Nvidia på jakt efter nya kunder efter Kina-restriktioner",
+        "summary": "Ovanligt många av Nvidias grafikprocessorer, så kallade GPU:er, har lagts ut till försäljning sedan nya åtgärder som begränsar kinesiska företags möjligheter att hyra tillgång till avancerade Nvidia-chip tillkännagavs den 16 november, uppger källor till CNBC.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia hunts for new customers after China restrictions",
+        "summary": "An unusually large number of Nvidia graphics processors, so-called GPUs, have been put up for sale since new measures limiting Chinese companies' ability to rent access to advanced Nvidia chips were announced on 16 November, sources tell CNBC."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T19:31:09+01:00"
+      }
+    },
+    {
+      "id": "5b15bcbb2a34",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/fi-varnar-svensk-garanti-anvands-for-att-kopa-europas-skraplan",
+      "guid": "6e99c262-5092-4aa8-b99c-3a6436e8a343",
+      "published_at": "2026-11-25T19:13:58+01:00",
+      "fetched_at": "2026-11-25T19:31:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/42d334e1-c692-4261-bc5e-0be6cf099d4c.jpeg?width=600",
+      "sv": {
+        "title": "FI varnar: Svensk garanti används för att köpa Europas skräplån",
+        "summary": "De köper dåliga utländska lån och finansierar affärerna med sparpengar från europeiska hushåll – allt under skydd av den svenska insättningsgarantin. Nu flaggar Finansinspektionen för riskerna med den växande affärsmodellen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "FI warns: Swedish guarantee used to buy Europe's junk loans",
+        "summary": "They buy bad foreign loans and finance the deals with savings from European households – all under the protection of the Swedish deposit guarantee. Now the Financial Supervisory Authority is flagging the risks of the growing business model."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T19:31:09+01:00"
+      }
+    },
     {
       "id": "032e6bac7ef6",
       "schema_version": 1,
@@ -5248,87 +5329,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T14:45:55+01:00"
-      }
-    },
-    {
-      "id": "73b1b5d8aa2a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kallor-usa-forbereder-hojda-tullar",
-      "guid": "95ffef13-88ba-4e4d-8af4-5fe3f46a1492",
-      "published_at": "2026-11-24T14:30:47+01:00",
-      "fetched_at": "2026-11-24T14:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/376bbfe1-300b-4226-9ebf-1e015d836702.jpeg?width=600",
-      "sv": {
-        "title": "Källor: USA förbereder höjda tullar",
-        "summary": "USA förbereder sig på att höja tullarna mot Kina och dussintals andra länder. Det rapporterar Wall Street Journal med hänvisning till källor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sources: US preparing higher tariffs",
-        "summary": "The US is preparing to raise tariffs on China and dozens of other countries. The Wall Street Journal reports this, citing sources."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:45:55+01:00"
-      }
-    },
-    {
-      "id": "ee109e773f83",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/lagsta-oljepriset-pa-tre-manader",
-      "guid": "21833cbf-56a2-43d7-beaa-86fdedd98e9a",
-      "published_at": "2026-11-24T14:22:07+01:00",
-      "fetched_at": "2026-11-24T14:31:01+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b6a60b49-dbba-4043-92f1-a84766b9634b.jpeg?width=600",
-      "sv": {
-        "title": "Lägsta oljepriset på tre månader",
-        "summary": "Oljepriset fortsätter ned och ligger nu under både 90 dollar fatet och genomsnittet för året. Tecken på ökat utbud ligger bakom. Även priserna på petroleumprodukter som bensin och diesel har dämpats.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lowest oil price in three months",
-        "summary": "The oil price continues to fall and is now below both 90 dollars a barrel and the average for the year. Signs of increased supply are behind it. Prices of petroleum products such as petrol and diesel have also eased."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:31:07+01:00"
-      }
-    },
-    {
-      "id": "27edee67d7ea",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/lakemedelsaktierna-som-lyfter-nar-ai-mediciner-landar",
-      "guid": "a4a710b6-2059-49e4-bab0-19207821879b",
-      "published_at": "2026-11-24T14:21:31+01:00",
-      "fetched_at": "2026-11-24T14:31:01+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a5cea56a-f29c-4ab7-a155-7fea40c4c209.jpeg?width=600",
-      "sv": {
-        "title": "Läkemedelsaktierna som lyfter när AI-mediciner landar",
-        "summary": "Europas läkemedelsindustri investerar miljarder i att stärka sin forskning med AI, men det kan dröja flera år innan det utlöser en stor våg av nya mediciner. Det säger experter och pekar ut tre företag som är särskilt väl positionerade i kapplöpningen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Pharma stocks that rise as AI medicines land",
-        "summary": "Europe's pharmaceutical industry is investing billions in strengthening its research with AI, but it may take several years before this triggers a large wave of new medicines. Experts say so and point out three companies that are particularly well positioned in the race."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:31:07+01:00"
       }
     }
   ]

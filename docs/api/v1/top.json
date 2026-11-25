@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:16:12+01:00",
+  "generated_at": "2026-11-25T19:31:11+01:00",
   "count": 30,
   "stories": [
     {
@@ -1276,90 +1276,88 @@
       ]
     },
     {
-      "id": "19ab030b4a5f",
-      "source_count": 4,
+      "id": "86e0fb463739",
+      "source_count": 3,
       "sources": [
+        "expressen",
         "svd",
-        "di",
-        "sydsvenskan",
-        "aftonbladet"
+        "di"
       ],
-      "first_published_at": "2026-11-25T05:50:12+01:00",
-      "last_published_at": "2026-11-25T07:20:17+01:00",
+      "first_published_at": "2026-11-24T22:30:48+01:00",
+      "last_published_at": "2026-11-25T19:17:12+01:00",
       "lead": {
-        "id": "19ab030b4a5f",
+        "id": "86e0fb463739",
         "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/JnomVJ/sa-mycket-hogre-blir-isk-skatten",
-        "guid": "https://www.svd.se/a/JnomVJ/sa-mycket-hogre-blir-isk-skatten?utm_medium=rss",
-        "published_at": "2026-11-25T05:50:12+01:00",
-        "fetched_at": "2026-11-25T06:01:10+01:00",
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia",
+        "guid": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia/",
+        "published_at": "2026-11-24T22:30:48+01:00",
+        "fetched_at": "2026-11-24T22:41:51+01:00",
         "category": "economy",
-        "image_url": "https://akamai.vgc.no/v2/images/3305fbc5-b7cd-3b80-b0cc-d284623e2b53?format=auto&s=5338ccb946f7dd6b42f1918327325c7b07fe5283&w=1000",
         "sv": {
-          "title": "Så mycket högre blir ISK-skatten",
-          "summary": "Nästa år väntas ISK-skatten bli rekordhög. För den med ett sparbelopp på 1 miljon kronor handlar det…",
+          "title": "Trumps stora vinst på Jensen Huangs comeback på Nvidia",
+          "summary": "Donald Trump såg till Jensen Huang fick tillbaka jobbet som Nvidia vd. Enligt The Guardian hade han 150 miljoner anledningar att hjälpa till. – Jag övertalade dem, säger Trump.",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "This is how much higher the ISK tax becomes",
-          "summary": "Next year the ISK tax is expected to reach a record high. For someone with savings of SEK 1 million, it means just over…"
+          "title": "Trump's big win on Jensen Huang's comeback at Nvidia",
+          "summary": "Donald Trump made sure Jensen Huang got his job back as Nvidia CEO. According to The Guardian, he had 150 million reasons to help. – I persuaded them, says Trump."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T06:01:19+01:00"
+          "translated_at": "2026-11-24T22:41:56+01:00"
         }
       },
       "items": [
         {
-          "id": "f5f622c28e74",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/M5RVLE/sa-mycket-hogre-blir-isk-skatten",
-          "published_at": "2026-11-25T07:20:17+01:00",
-          "sv": {
-            "title": "Så mycket högre blir ISK-skatten"
-          },
-          "en": {
-            "title": "This is how much higher the ISK tax will be"
-          }
-        },
-        {
-          "id": "736431bf4d18",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/sa-mycket-hogre-blir-isk-skatten",
-          "published_at": "2026-11-25T05:56:01+01:00",
-          "sv": {
-            "title": "Så mycket högre blir ISK-skatten"
-          },
-          "en": {
-            "title": "This is how much higher the ISK tax becomes"
-          }
-        },
-        {
-          "id": "ec13e73a9c6d",
+          "id": "7fec3fd6b2ac",
           "source": "di",
-          "url": "https://www.di.se/nyheter/klart-sa-mycket-hogre-blir-isk-skatten",
-          "published_at": "2026-11-25T05:53:17+01:00",
+          "url": "https://www.di.se/live/nvidia-pa-jakt-efter-nya-kunder-efter-kina-restriktioner",
+          "published_at": "2026-11-25T19:17:12+01:00",
           "sv": {
-            "title": "Klart: Så mycket högre blir ISK-skatten"
+            "title": "Nvidia på jakt efter nya kunder efter Kina-restriktioner"
           },
           "en": {
-            "title": "Confirmed: This is how much higher the ISK tax becomes"
+            "title": "Nvidia hunts for new customers after China restrictions"
           }
         },
         {
-          "id": "19ab030b4a5f",
-          "source": "svd",
-          "url": "https://www.svd.se/a/JnomVJ/sa-mycket-hogre-blir-isk-skatten",
-          "published_at": "2026-11-25T05:50:12+01:00",
+          "id": "e086a7441b8e",
+          "source": "di",
+          "url": "https://www.di.se/live/experten-om-nvidia-solklart-tecken-pa-korruption",
+          "published_at": "2026-11-25T08:13:24+01:00",
           "sv": {
-            "title": "Så mycket högre blir ISK-skatten"
+            "title": "Experten om Nvidia: ”Solklart tecken på korruption”"
           },
           "en": {
-            "title": "This is how much higher the ISK tax becomes"
+            "title": "Expert on Nvidia: \"Clear sign of corruption\""
+          }
+        },
+        {
+          "id": "d32276d69f5f",
+          "source": "svd",
+          "url": "https://www.svd.se/a/4EqPOg/nvidia-solklart-tecken-pa-korruption",
+          "published_at": "2026-11-25T08:04:03+01:00",
+          "sv": {
+            "title": "Nvidia – ”Solklart tecken på korruption”"
+          },
+          "en": {
+            "title": "Nvidia – \"Clear sign of corruption\""
+          }
+        },
+        {
+          "id": "86e0fb463739",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia",
+          "published_at": "2026-11-24T22:30:48+01:00",
+          "sv": {
+            "title": "Trumps stora vinst på Jensen Huangs comeback på Nvidia"
+          },
+          "en": {
+            "title": "Trump's big win on Jensen Huang's comeback at Nvidia"
           }
         }
       ]
@@ -1845,81 +1843,6 @@
           },
           "en": {
             "title": "Tidal bans AI-generated music"
-          }
-        }
-      ]
-    },
-    {
-      "id": "86e0fb463739",
-      "source_count": 3,
-      "sources": [
-        "expressen",
-        "svd",
-        "di"
-      ],
-      "first_published_at": "2026-11-24T22:30:48+01:00",
-      "last_published_at": "2026-11-25T08:13:24+01:00",
-      "lead": {
-        "id": "86e0fb463739",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia",
-        "guid": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia/",
-        "published_at": "2026-11-24T22:30:48+01:00",
-        "fetched_at": "2026-11-24T22:41:51+01:00",
-        "category": "economy",
-        "sv": {
-          "title": "Trumps stora vinst på Jensen Huangs comeback på Nvidia",
-          "summary": "Donald Trump såg till Jensen Huang fick tillbaka jobbet som Nvidia vd. Enligt The Guardian hade han 150 miljoner anledningar att hjälpa till. – Jag övertalade dem, säger Trump.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Trump's big win on Jensen Huang's comeback at Nvidia",
-          "summary": "Donald Trump made sure Jensen Huang got his job back as Nvidia CEO. According to The Guardian, he had 150 million reasons to help. – I persuaded them, says Trump."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T22:41:56+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "e086a7441b8e",
-          "source": "di",
-          "url": "https://www.di.se/live/experten-om-nvidia-solklart-tecken-pa-korruption",
-          "published_at": "2026-11-25T08:13:24+01:00",
-          "sv": {
-            "title": "Experten om Nvidia: ”Solklart tecken på korruption”"
-          },
-          "en": {
-            "title": "Expert on Nvidia: \"Clear sign of corruption\""
-          }
-        },
-        {
-          "id": "d32276d69f5f",
-          "source": "svd",
-          "url": "https://www.svd.se/a/4EqPOg/nvidia-solklart-tecken-pa-korruption",
-          "published_at": "2026-11-25T08:04:03+01:00",
-          "sv": {
-            "title": "Nvidia – ”Solklart tecken på korruption”"
-          },
-          "en": {
-            "title": "Nvidia – \"Clear sign of corruption\""
-          }
-        },
-        {
-          "id": "86e0fb463739",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia",
-          "published_at": "2026-11-24T22:30:48+01:00",
-          "sv": {
-            "title": "Trumps stora vinst på Jensen Huangs comeback på Nvidia"
-          },
-          "en": {
-            "title": "Trump's big win on Jensen Huang's comeback at Nvidia"
           }
         }
       ]
@@ -2630,6 +2553,68 @@
           },
           "en": {
             "title": "Set for a row at EU summit"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a495caf9aa8c",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "sr"
+      ],
+      "first_published_at": "2026-11-25T14:37:00+01:00",
+      "last_published_at": "2026-11-25T15:39:00+01:00",
+      "lead": {
+        "id": "a495caf9aa8c",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/ekonomi/nya-tullar-fran-usa-vantas-upp-till-40-procent-mot-kina",
+        "guid": "https://www.svt.se/nyheter/ekonomi/nya-tullar-fran-usa-vantas-upp-till-40-procent-mot-kina",
+        "published_at": "2026-11-25T14:37:00+01:00",
+        "fetched_at": "2026-11-25T14:45:44+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Nya tullar från USA väntas – upp till 40 procent mot Kina",
+          "summary": "USA väntas införa nya tullar på upp till 20 procent mot EU och 40 procent mot Kina, enligt Bloomberg. Ett officiellt besked väntas under onsdagen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "New US tariffs expected – up to 40 percent on China",
+          "summary": "The US is expected to impose new tariffs of up to 20 percent on the EU and 40 percent on China, according to Bloomberg. An official announcement is expected on Wednesday."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T14:45:52+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "ef5f832f2f36",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9350020",
+          "published_at": "2026-11-25T15:39:00+01:00",
+          "sv": {
+            "title": "Uppgifter: Trump inför nya tullar"
+          },
+          "en": {
+            "title": "Reports: Trump to introduce new tariffs"
+          }
+        },
+        {
+          "id": "a495caf9aa8c",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/ekonomi/nya-tullar-fran-usa-vantas-upp-till-40-procent-mot-kina",
+          "published_at": "2026-11-25T14:37:00+01:00",
+          "sv": {
+            "title": "Nya tullar från USA väntas – upp till 40 procent mot Kina"
+          },
+          "en": {
+            "title": "New US tariffs expected – up to 40 percent on China"
           }
         }
       ]

@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-11-25T19:16:12+01:00",
+  "generated_at": "2026-11-25T19:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c9da6ff34ac1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/meta-lyfter-pa-uppgifter-om-amazon-samtal",
+      "guid": "a140cd8e-962b-4dd9-bba4-013d58ae662d",
+      "published_at": "2026-11-25T19:20:12+01:00",
+      "fetched_at": "2026-11-25T19:31:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/ece2d7e2-90a7-4a25-82f9-30e90821d918.jpeg?width=600",
+      "sv": {
+        "title": "Meta lyfter på uppgifter om Amazon-samtal",
+        "summary": "Facebook-ägaren Meta går mot strömmen på Wall Street, med en uppgång på över 2 procent. S&P 500 är ned över 1 procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Meta up on reports of Amazon talks",
+        "summary": "Facebook owner Meta is bucking the trend on Wall Street, rising more than 2 percent. The S&P 500 is down more than 1 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T19:31:09+01:00"
+      }
+    },
+    {
+      "id": "7fec3fd6b2ac",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nvidia-pa-jakt-efter-nya-kunder-efter-kina-restriktioner",
+      "guid": "e40189e9-801b-4e63-b7a0-c84b8302166f",
+      "published_at": "2026-11-25T19:17:12+01:00",
+      "fetched_at": "2026-11-25T19:31:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/3c02d1dd-2082-4fab-92c7-61bcdc94d490.jpeg?width=600",
+      "sv": {
+        "title": "Nvidia på jakt efter nya kunder efter Kina-restriktioner",
+        "summary": "Ovanligt många av Nvidias grafikprocessorer, så kallade GPU:er, har lagts ut till försäljning sedan nya åtgärder som begränsar kinesiska företags möjligheter att hyra tillgång till avancerade Nvidia-chip tillkännagavs den 16 november, uppger källor till CNBC.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia hunts for new customers after China restrictions",
+        "summary": "An unusually large number of Nvidia graphics processors, so-called GPUs, have been put up for sale since new measures limiting Chinese companies' ability to rent access to advanced Nvidia chips were announced on 16 November, sources tell CNBC."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T19:31:09+01:00"
+      }
+    },
+    {
+      "id": "5b15bcbb2a34",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/fi-varnar-svensk-garanti-anvands-for-att-kopa-europas-skraplan",
+      "guid": "6e99c262-5092-4aa8-b99c-3a6436e8a343",
+      "published_at": "2026-11-25T19:13:58+01:00",
+      "fetched_at": "2026-11-25T19:31:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/42d334e1-c692-4261-bc5e-0be6cf099d4c.jpeg?width=600",
+      "sv": {
+        "title": "FI varnar: Svensk garanti används för att köpa Europas skräplån",
+        "summary": "De köper dåliga utländska lån och finansierar affärerna med sparpengar från europeiska hushåll – allt under skydd av den svenska insättningsgarantin. Nu flaggar Finansinspektionen för riskerna med den växande affärsmodellen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "FI warns: Swedish guarantee used to buy Europe's junk loans",
+        "summary": "They buy bad foreign loans and finance the deals with savings from European households – all under the protection of the Swedish deposit guarantee. Now the Financial Supervisory Authority is flagging the risks of the growing business model."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T19:31:09+01:00"
+      }
+    },
     {
       "id": "032e6bac7ef6",
       "schema_version": 1,
@@ -5230,85 +5311,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T05:15:59+01:00"
-      }
-    },
-    {
-      "id": "60535d6b73ae",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9336397",
-      "guid": "rss:sr.se/article/9336397",
-      "published_at": "2026-11-25T03:00:00+01:00",
-      "fetched_at": "2026-11-25T03:01:11+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "AI-botar intervjuar jobbsökande: ”Inte helt rättvist”",
-        "summary": "Allt fler arbetsgivare låter AI hålla jobbintervjuer, men utvecklingen väcker frågor om rättvisa i rekryteringen. Enligt Andreas Wallo, professor vid Linköpings universitet, kan det bli oklart vad som egentligen bedöms när både kandidater och arbetsgivare använder AI, samtidigt som branschen…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "AI bots interview job seekers: \"Not entirely fair\"",
-        "summary": "More and more employers are letting AI conduct job interviews, but the development raises questions about fairness in recruitment. According to Andreas Wallo, professor at Linköping University, it may become unclear what is actually being assessed when both candidates and employers use AI, while the industry…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T03:01:19+01:00"
-      }
-    },
-    {
-      "id": "dcfdb84a77d7",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/BrRk6l/hur-mycket-far-vi-tre-vid-laglott-pa-100000",
-      "guid": "https://www.svd.se/a/BrRk6l/hur-mycket-far-vi-tre-vid-laglott-pa-100000?utm_medium=rss",
-      "published_at": "2026-11-25T00:15:00+01:00",
-      "fetched_at": "2026-11-25T00:31:00+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/b07f4049-308d-35ef-9d69-c18107d2a6be?format=auto&s=337ac913c903566f1f1b153fd84b201bbc9d3be3&w=1000",
-      "sv": {
-        "title": "”Hur mycket får vi tre vid laglott på 100 000?”",
-        "summary": "Vad är egentligen laglotten undrar frågeställaren. SvD:s familjeadvokat reder ut skillnaden mellan…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"How much do the three of us get in forced heirship at 100,000?\"",
-        "summary": "What exactly is the forced heirship, the questioner asks. SvD's family lawyer explains the difference between…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T00:31:05+01:00"
-      }
-    },
-    {
-      "id": "1f59b310f8e0",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/hogre-omsattning-och-resultat-an-vantat-for-hp",
-      "guid": "6350474f-c121-4d95-8c43-f508d9422e6f",
-      "published_at": "2026-11-24T22:37:38+01:00",
-      "fetched_at": "2026-11-24T22:45:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Högre omsättning och resultat än väntat för HP",
-        "summary": "Den amerikanska dator- och skrivartillverkaren HP redovisade ett högre resultat och en högre omsättning än väntat för det fjärde kvartalet. Även mittpunkten i bolagets resultatprognos för det kommande räkenskapsåret översteg analytikernas förväntningar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Higher revenue and earnings than expected for HP",
-        "summary": "The American computer and printer maker HP reported higher earnings and revenue than expected for the fourth quarter. The midpoint of the company’s earnings forecast for the coming fiscal year also exceeded analysts’ expectations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T22:45:56+01:00"
       }
     }
   ]
