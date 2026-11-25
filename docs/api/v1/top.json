@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:45:50+01:00",
+  "generated_at": "2026-11-26T00:52:41+01:00",
   "count": 30,
   "stories": [
     {
@@ -766,6 +766,81 @@
           },
           "en": {
             "title": "Accidents with e-scooters continue to rise"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bca5b56324c1",
+      "source_count": 3,
+      "sources": [
+        "expressen",
+        "svd",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-25T23:24:36+01:00",
+      "last_published_at": "2026-11-26T00:47:27+01:00",
+      "lead": {
+        "id": "bca5b56324c1",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a5396002-d2db-4b18-83be-5b18cab8b81e",
+        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a5396002-d2db-4b18-83be-5b18cab8b81e",
+        "published_at": "2026-11-25T23:24:36+01:00",
+        "fetched_at": "2026-11-25T23:31:13+01:00",
+        "category": "world",
+        "sv": {
+          "title": "17 sjömän i vattnet utanför Island",
+          "summary": "Fiskefartyg har sjunkit utanför Island",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "17 sailors in the water off Iceland",
+          "summary": "A fishing vessel has sunk off Iceland"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T23:31:18+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "99dccf4fda2e",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/JnozPb/fartyg-i-sjonod-utanfor-island",
+          "published_at": "2026-11-26T00:47:27+01:00",
+          "sv": {
+            "title": "Fartyg i sjönöd utanför Island"
+          },
+          "en": {
+            "title": "Fishing vessel in distress off Iceland"
+          }
+        },
+        {
+          "id": "47c252ba4fb5",
+          "source": "svd",
+          "url": "https://www.svd.se/a/z0GnRO/fartyg-i-sjonod-utanfor-island",
+          "published_at": "2026-11-26T00:47:27+01:00",
+          "sv": {
+            "title": "Fartyg i sjönöd utanför Island"
+          },
+          "en": {
+            "title": "Fishing vessel in distress off Iceland"
+          }
+        },
+        {
+          "id": "bca5b56324c1",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a5396002-d2db-4b18-83be-5b18cab8b81e",
+          "published_at": "2026-11-25T23:24:36+01:00",
+          "sv": {
+            "title": "17 sjömän i vattnet utanför Island"
+          },
+          "en": {
+            "title": "17 sailors in the water off Iceland"
           }
         }
       ]
@@ -2396,69 +2471,6 @@
           },
           "en": {
             "title": "Kristersson: Talks held with the Alliance parties"
-          }
-        }
-      ]
-    },
-    {
-      "id": "51acf7c28c5b",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-25T17:23:48+01:00",
-      "last_published_at": "2026-11-25T17:37:07+01:00",
-      "lead": {
-        "id": "51acf7c28c5b",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/3BJyBL/undersokning-c-har-skott-regeringsbildningen-samst",
-        "guid": "https://www.aftonbladet.se/nyheter/a/3BJyBL/undersokning-c-har-skott-regeringsbildningen-samst?utm_medium=rss",
-        "published_at": "2026-11-25T17:23:48+01:00",
-        "fetched_at": "2026-11-25T17:31:05+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/12aef6c2-6d1b-3896-a91d-fbc0ac541349?format=auto&s=0fd1102e5ca891314f45f24aad3b892327d61982&w=1000",
-        "sv": {
-          "title": "Undersökning: C har skött regeringsbildningen sämst",
-          "summary": "Centerpartiet är det parti som har agerat sämst under regeringsbildningen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Survey: C has handled the government formation worst",
-          "summary": "The Centre Party is the party that has performed worst during the government formation."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T17:31:19+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "da25db592873",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/undersokning-c-har-skott-regeringsbildningen-samst",
-          "published_at": "2026-11-25T17:37:07+01:00",
-          "sv": {
-            "title": "Undersökning: C har skött regeringsbildningen sämst"
-          },
-          "en": {
-            "title": "Poll: C has handled the government formation worst"
-          }
-        },
-        {
-          "id": "51acf7c28c5b",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/3BJyBL/undersokning-c-har-skott-regeringsbildningen-samst",
-          "published_at": "2026-11-25T17:23:48+01:00",
-          "sv": {
-            "title": "Undersökning: C har skött regeringsbildningen sämst"
-          },
-          "en": {
-            "title": "Survey: C has handled the government formation worst"
           }
         }
       ]
