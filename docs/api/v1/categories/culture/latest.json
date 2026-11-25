@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:46:02+01:00",
+  "generated_at": "2026-11-25T17:51:47+01:00",
   "count": 200,
   "items": [
     {
@@ -54,6 +54,43 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T17:31:19+01:00"
+      }
+    },
+    {
+      "id": "b16e5c510d44",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/motesplatsen-som-samlar-goteborgs-musikliv.8647fb19-bcd2-50fe-afbb-28bd6077d038",
+      "guid": "8647fb19-bcd2-50fe-afbb-28bd6077d038",
+      "published_at": "2026-11-25T17:20:31+01:00",
+      "fetched_at": "2026-11-25T17:51:40+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: Majorna",
+        "Tagg: STIM",
+        "Tagg: Musik",
+        "Tagg: Livemusik",
+        "Tagg: Veganskt",
+        "Tagg: Håkan Hellström",
+        "Tagg: Attentat"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/8bf2af8a-aa59-3914-8f33-5bee2e463ee9",
+      "sv": {
+        "title": "Crippas i Majorna samlar stadens musiker",
+        "summary": "En scen, ett fyrtiotal musiker och massor av nya idéer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Crippa in Majorna gathers the city's musicians",
+        "summary": "One stage, some forty musicians and loads of new ideas."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:51:45+01:00"
       }
     },
     {
@@ -5684,33 +5721,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T22:31:05+01:00"
-      }
-    },
-    {
-      "id": "414f247845f8",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/dygnet-runt/hemvandarkonsert-i-malmo-har-ar-bilderna-fran-timbuktudagen",
-      "guid": "78bdb68c-24af-4fa6-ae43-4e8c577d5710",
-      "published_at": "2026-11-21T22:14:52+01:00",
-      "fetched_at": "2026-11-21T22:15:52+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/4e509c8e-2fd2-4dc8-aaca-569908cf1989.jpeg?width=600",
-      "sv": {
-        "title": "Hemvändarkonsert i Malmö – här är bilderna från Timbuktudagen",
-        "summary": "Under lördagskvällen bjöd Timbuktu in till en ordentlig hemvändarkväll i sin gamla hemstad. På Malmö Arena fick publiken ta del av allt från mat och dryck från lokala producenter, dj-set och flera gästartister. Spelningen, som fått namnet ”Timbuktudagen”, är artistens största konsert någonsin.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Homecoming concert in Malmö – here are the pictures from Timbuktudagen",
-        "summary": "On Saturday evening, Timbuktu invited fans to a major homecoming night in his old hometown. At Malmö Arena, the audience got to experience everything from food and drink from local producers, a DJ set and several guest artists. The show, named \"Timbuktudagen\", is the artist's biggest concert ever."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T22:15:55+01:00"
       }
     }
   ]

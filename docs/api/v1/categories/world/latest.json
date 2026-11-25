@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T17:46:02+01:00",
+  "generated_at": "2026-11-25T17:51:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8dcba2577d8a",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Oypvjq/ryssland-vi-vantar-pa-europeiskt-svar",
+      "guid": "https://www.svd.se/a/Oypvjq/ryssland-vi-vantar-pa-europeiskt-svar?utm_medium=rss",
+      "published_at": "2026-11-25T17:51:15+01:00",
+      "fetched_at": "2026-11-25T17:51:39+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/6d3bdf73-6e91-3aa1-8b2f-033bafae9a8a?format=auto&s=9b416f2f029485cf3b7eb62ab8f7dd155ef080a7&w=1000",
+      "sv": {
+        "title": "Ryssland: Vi väntar på europeiskt svar",
+        "summary": "Om västeuropeiska länder vill vara med och förhandla om Ukrainakriget så kan de komma till…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russia: We are waiting for a European response",
+        "summary": "If Western European countries want to take part in negotiating the war in Ukraine, they can come to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:51:45+01:00"
+      }
+    },
     {
       "id": "74622ff3f358",
       "schema_version": 1,
@@ -5339,33 +5366,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T13:45:56+01:00"
-      }
-    },
-    {
-      "id": "e40a3e9d66ed",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/mMR9G0/greta-thunberg-doms-for-aktioner-i-kopenhamn",
-      "guid": "https://www.aftonbladet.se/nyheter/a/mMR9G0/greta-thunberg-doms-for-aktioner-i-kopenhamn?utm_medium=rss",
-      "published_at": "2026-11-23T13:37:18+01:00",
-      "fetched_at": "2026-11-23T13:38:28+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/7cf79f50-ffd1-3ac4-960f-f824d1a92497?format=auto&s=8f478864e2ab724ab34e8bc0c874f45d3760fa8b&w=1000",
-      "sv": {
-        "title": "Greta Thunberg döms för aktioner i Köpenhamn",
-        "summary": "Den svenska aktivisten Greta Thunberg döms till böter för två fall av olaga intrång i Danmark.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Greta Thunberg sentenced for actions in Copenhagen",
-        "summary": "Swedish activist Greta Thunberg is fined for two cases of trespassing in Denmark."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T13:38:34+01:00"
       }
     }
   ]
