@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:31:12+01:00",
+  "generated_at": "2026-11-25T09:46:01+01:00",
   "count": 22,
   "stories": [
     {
@@ -799,6 +799,94 @@
       ]
     },
     {
+      "id": "d1309c1cf2cf",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "sydsvenskan",
+        "tv4"
+      ],
+      "first_published_at": "2026-11-25T08:00:11+01:00",
+      "last_published_at": "2026-11-25T09:27:23+01:00",
+      "lead": {
+        "id": "d1309c1cf2cf",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/QroVJV/olyckorna-med-elsparkcyklar-fortsatter-oka",
+        "guid": "https://www.aftonbladet.se/nyheter/a/QroVJV/olyckorna-med-elsparkcyklar-fortsatter-oka?utm_medium=rss",
+        "published_at": "2026-11-25T08:00:11+01:00",
+        "fetched_at": "2026-11-25T08:01:12+01:00",
+        "category": "sweden",
+        "image_url": "https://akamai.vgc.no/v2/images/f927653e-e409-31f0-9b02-bc2fdf15331f?format=auto&s=49aa08747b5c9a161a679a590ef3983d2ca9be4b&w=1000",
+        "sv": {
+          "title": "Olyckorna med elsparkcyklar fortsätter öka",
+          "summary": "Nära 3 000 skadades i elsparkcykelolyckor första halvåret 2026 – en ökning med 16 procent jämfört…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Accidents with e-scooters continue to rise",
+          "summary": "Nearly 3,000 were injured in e-scooter accidents in the first half of 2026 – an increase of 16 percent compared with…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T08:01:20+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "56cef5e86fb3",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/hHkdHZg1il9kJAqhWJkfx/olyckorna-med-elsparkcyklar-oekar-bland-barn-och-unga",
+          "published_at": "2026-11-25T09:27:23+01:00",
+          "sv": {
+            "title": "Olyckorna ökar kraftigt bland barn och unga: ”Jättebekymmersamt”"
+          },
+          "en": {
+            "title": "Accidents rise sharply among children and young people: \"Very worrying\""
+          }
+        },
+        {
+          "id": "15ba313ac754",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/KL3VL5/elsparkcykelolyckorna-okar-kraftigt-over-900-barn-skadade",
+          "published_at": "2026-11-25T09:02:07+01:00",
+          "sv": {
+            "title": "Olyckorna fortsätter att öka: ”Oroande utveckling”"
+          },
+          "en": {
+            "title": "Accidents continue to rise: \"Worrying development\""
+          }
+        },
+        {
+          "id": "90f03107c62a",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/olyckorna-med-elsparkcyklar-fortsatter-oka",
+          "published_at": "2026-11-25T08:56:20+01:00",
+          "sv": {
+            "title": "Olyckorna med elsparkcyklar fortsätter öka"
+          },
+          "en": {
+            "title": "Accidents involving e-scooters continue to rise"
+          }
+        },
+        {
+          "id": "d1309c1cf2cf",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/QroVJV/olyckorna-med-elsparkcyklar-fortsatter-oka",
+          "published_at": "2026-11-25T08:00:11+01:00",
+          "sv": {
+            "title": "Olyckorna med elsparkcyklar fortsätter öka"
+          },
+          "en": {
+            "title": "Accidents with e-scooters continue to rise"
+          }
+        }
+      ]
+    },
+    {
       "id": "4ee2b20ad9b8",
       "source_count": 3,
       "sources": [
@@ -1172,81 +1260,6 @@
           },
           "en": {
             "title": "Frederiksen worried about ‘population replacement’ – criticised"
-          }
-        }
-      ]
-    },
-    {
-      "id": "d1309c1cf2cf",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-25T08:00:11+01:00",
-      "last_published_at": "2026-11-25T09:02:07+01:00",
-      "lead": {
-        "id": "d1309c1cf2cf",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/QroVJV/olyckorna-med-elsparkcyklar-fortsatter-oka",
-        "guid": "https://www.aftonbladet.se/nyheter/a/QroVJV/olyckorna-med-elsparkcyklar-fortsatter-oka?utm_medium=rss",
-        "published_at": "2026-11-25T08:00:11+01:00",
-        "fetched_at": "2026-11-25T08:01:12+01:00",
-        "category": "sweden",
-        "image_url": "https://akamai.vgc.no/v2/images/f927653e-e409-31f0-9b02-bc2fdf15331f?format=auto&s=49aa08747b5c9a161a679a590ef3983d2ca9be4b&w=1000",
-        "sv": {
-          "title": "Olyckorna med elsparkcyklar fortsätter öka",
-          "summary": "Nära 3 000 skadades i elsparkcykelolyckor första halvåret 2026 – en ökning med 16 procent jämfört…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Accidents with e-scooters continue to rise",
-          "summary": "Nearly 3,000 were injured in e-scooter accidents in the first half of 2026 – an increase of 16 percent compared with…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T08:01:20+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "15ba313ac754",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/KL3VL5/elsparkcykelolyckorna-okar-kraftigt-over-900-barn-skadade",
-          "published_at": "2026-11-25T09:02:07+01:00",
-          "sv": {
-            "title": "Olyckorna fortsätter att öka: ”Oroande utveckling”"
-          },
-          "en": {
-            "title": "Accidents continue to rise: \"Worrying development\""
-          }
-        },
-        {
-          "id": "90f03107c62a",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/olyckorna-med-elsparkcyklar-fortsatter-oka",
-          "published_at": "2026-11-25T08:56:20+01:00",
-          "sv": {
-            "title": "Olyckorna med elsparkcyklar fortsätter öka"
-          },
-          "en": {
-            "title": "Accidents involving e-scooters continue to rise"
-          }
-        },
-        {
-          "id": "d1309c1cf2cf",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/QroVJV/olyckorna-med-elsparkcyklar-fortsatter-oka",
-          "published_at": "2026-11-25T08:00:11+01:00",
-          "sv": {
-            "title": "Olyckorna med elsparkcyklar fortsätter öka"
-          },
-          "en": {
-            "title": "Accidents with e-scooters continue to rise"
           }
         }
       ]

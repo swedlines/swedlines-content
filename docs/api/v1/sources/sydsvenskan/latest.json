@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-25T09:31:12+01:00",
+  "generated_at": "2026-11-25T09:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1062c4151dd8",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/bobi-klintman-missar-vm-kvalet-parodiskt",
+      "guid": "d1fea1cb-5989-4eb6-8647-6b5159550311",
+      "published_at": "2026-11-25T09:38:31+01:00",
+      "fetched_at": "2026-11-25T09:45:52+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/d0922cfe-4df0-43a7-86d8-ed470889c8ff.jpeg?width=600",
+      "sv": {
+        "title": "Malmös basketstjärna missar VM-kvalet: ”Parodiskt”"
+      },
+      "en": {
+        "title": "Malmö basketball star misses World Cup qualifiers: \"Parodic\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T09:45:58+01:00"
+      }
+    },
     {
       "id": "b4805faacd09",
       "schema_version": 1,
@@ -5168,32 +5192,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T15:29:12+01:00"
-      }
-    },
-    {
-      "id": "61a74dcbc98f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/kd-en-timme-gratis-i-p-husen-och-helt-gratis-for-idrottsledare",
-      "guid": "fb495513-1861-444b-a2c6-817c96094406",
-      "published_at": "2026-11-22T15:15:00+01:00",
-      "fetched_at": "2026-11-22T15:15:46+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "KD: En timme gratis i p-husen – och helt gratis för idrottsledare",
-        "summary": "Parkeringshusen i centrum ska vara gratis första timmen. Och den som engagerar sig ideellt som idrottsledare ska inte behöva betala för parkeringen vid idrottsplatserna. Det skriver två ledande kristdemokrater.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "KD: One hour free in the parking garages – and completely free for sports leaders",
-        "summary": "Parking garages in the city centre are to be free for the first hour. And people who volunteer as sports leaders should not have to pay for parking at sports grounds. Two leading Christian Democrats write this."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:15:59+01:00"
       }
     }
   ]
