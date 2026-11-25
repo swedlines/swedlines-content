@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T05:16:03+01:00",
-  "count": 26,
+  "generated_at": "2026-11-25T05:31:08+01:00",
+  "count": 25,
   "stories": [
     {
       "id": "bc9e35a4d1b8",
@@ -512,6 +512,94 @@
       ]
     },
     {
+      "id": "d533c9df740e",
+      "source_count": 4,
+      "sources": [
+        "sr",
+        "aftonbladet",
+        "expressen",
+        "di"
+      ],
+      "first_published_at": "2026-11-25T04:00:00+01:00",
+      "last_published_at": "2026-11-25T05:16:19+01:00",
+      "lead": {
+        "id": "d533c9df740e",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9349048",
+        "guid": "rss:sr.se/article/9349048",
+        "published_at": "2026-11-25T04:00:00+01:00",
+        "fetched_at": "2026-11-25T04:15:41+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Centern tappar i ny mätning: ”Inte förvånande”",
+          "summary": "Stödet för Centern minskar i en ny mätning. Partiet får 4,8 procent, alltså strax över spärren till riksdagen. Socialdemokraterna får sin sämsta siffra sedan 2023. De långdragna regeringsförhandlingarna är förklaringen, enligt Per Oleskog Tryggvason på Indikator Opinion som gjort undersökningen.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Centre Party drops in new poll: \"Not surprising\"",
+          "summary": "Support for the Centre Party is falling in a new poll. The party gets 4.8 percent, just above the threshold for entering the Riksdag. The Social Democrats get their worst figure since 2023. The protracted government negotiations are the explanation, according to Per Oleskog Tryggvason at Indikator Opinion, who conducted the survey."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T04:15:49+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "20f1a8510b86",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/centerpartiet-backar-i-matning-nara-sparren",
+          "published_at": "2026-11-25T05:16:19+01:00",
+          "sv": {
+            "title": "Centerpartiet backar i mätning – nära spärren"
+          },
+          "en": {
+            "title": "Centre Party slips in poll – close to the threshold"
+          }
+        },
+        {
+          "id": "390524b485a9",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=242f93dd-9597-4741-bb91-b2d40b93d7c7",
+          "published_at": "2026-11-25T04:51:01+01:00",
+          "sv": {
+            "title": "Centerpartiet backar i ny mätning – nära spärren"
+          },
+          "en": {
+            "title": "Centre Party slips in new poll – close to the threshold"
+          }
+        },
+        {
+          "id": "c095c73a9425",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/ARdKOx/centerpartiet-backar-i-matning-nara-sparren",
+          "published_at": "2026-11-25T04:45:27+01:00",
+          "sv": {
+            "title": "Centerpartiet backar i mätning – nära spärren"
+          },
+          "en": {
+            "title": "Centre Party slips in poll – close to the threshold"
+          }
+        },
+        {
+          "id": "d533c9df740e",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9349048",
+          "published_at": "2026-11-25T04:00:00+01:00",
+          "sv": {
+            "title": "Centern tappar i ny mätning: ”Inte förvånande”"
+          },
+          "en": {
+            "title": "Centre Party drops in new poll: \"Not surprising\""
+          }
+        }
+      ]
+    },
+    {
       "id": "1cd84443b940",
       "source_count": 4,
       "sources": [
@@ -836,81 +924,6 @@
           },
           "en": {
             "title": "Huawei convicted in the US"
-          }
-        }
-      ]
-    },
-    {
-      "id": "d533c9df740e",
-      "source_count": 3,
-      "sources": [
-        "sr",
-        "aftonbladet",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-25T04:00:00+01:00",
-      "last_published_at": "2026-11-25T04:51:01+01:00",
-      "lead": {
-        "id": "d533c9df740e",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9349048",
-        "guid": "rss:sr.se/article/9349048",
-        "published_at": "2026-11-25T04:00:00+01:00",
-        "fetched_at": "2026-11-25T04:15:41+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Centern tappar i ny mätning: ”Inte förvånande”",
-          "summary": "Stödet för Centern minskar i en ny mätning. Partiet får 4,8 procent, alltså strax över spärren till riksdagen. Socialdemokraterna får sin sämsta siffra sedan 2023. De långdragna regeringsförhandlingarna är förklaringen, enligt Per Oleskog Tryggvason på Indikator Opinion som gjort undersökningen.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Centre Party drops in new poll: \"Not surprising\"",
-          "summary": "Support for the Centre Party is falling in a new poll. The party gets 4.8 percent, just above the threshold for entering the Riksdag. The Social Democrats get their worst figure since 2023. The protracted government negotiations are the explanation, according to Per Oleskog Tryggvason at Indikator Opinion, who conducted the survey."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T04:15:49+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "390524b485a9",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=242f93dd-9597-4741-bb91-b2d40b93d7c7",
-          "published_at": "2026-11-25T04:51:01+01:00",
-          "sv": {
-            "title": "Centerpartiet backar i ny mätning – nära spärren"
-          },
-          "en": {
-            "title": "Centre Party slips in new poll – close to the threshold"
-          }
-        },
-        {
-          "id": "c095c73a9425",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/ARdKOx/centerpartiet-backar-i-matning-nara-sparren",
-          "published_at": "2026-11-25T04:45:27+01:00",
-          "sv": {
-            "title": "Centerpartiet backar i mätning – nära spärren"
-          },
-          "en": {
-            "title": "Centre Party slips in poll – close to the threshold"
-          }
-        },
-        {
-          "id": "d533c9df740e",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9349048",
-          "published_at": "2026-11-25T04:00:00+01:00",
-          "sv": {
-            "title": "Centern tappar i ny mätning: ”Inte förvånande”"
-          },
-          "en": {
-            "title": "Centre Party drops in new poll: \"Not surprising\""
           }
         }
       ]
@@ -1390,105 +1403,6 @@
           },
           "en": {
             "title": "112 call from Sigtuna: \"It could happen again tonight\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "7d383cb0a902",
-      "source_count": 3,
-      "sources": [
-        "expressen",
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T16:32:15+01:00",
-      "last_published_at": "2026-11-24T17:25:26+01:00",
-      "lead": {
-        "id": "7d383cb0a902",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=9971c782-c82a-4af1-9b68-129493fe46b4",
-        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9971c782-c82a-4af1-9b68-129493fe46b4",
-        "published_at": "2026-11-24T16:32:15+01:00",
-        "fetched_at": "2026-11-24T16:40:42+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Bortrövad 15-åring fritagen av polis",
-          "summary": "Fritagen av Polis • Flera gripna",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Abducted 15-year-old freed by police",
-          "summary": "Freed by police • Several arrested"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T16:40:52+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "0f2d90694ec1",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/sverige/pojke-kidnappades-hittad-efter-tre-dygn",
-          "published_at": "2026-11-24T17:25:26+01:00",
-          "sv": {
-            "title": "Pojke kidnappades – hittad efter tre dygn"
-          },
-          "en": {
-            "title": "Boy kidnapped – found after three days"
-          }
-        },
-        {
-          "id": "21ece4a59995",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/pojke-fritagen-av-polis-sex-anhallna",
-          "published_at": "2026-11-24T17:21:07+01:00",
-          "sv": {
-            "title": "Pojke fritagen av polis – sex anhållna"
-          },
-          "en": {
-            "title": "Boy freed by police – six detained"
-          }
-        },
-        {
-          "id": "d57880503f7b",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/kMJolL/pojke-fritagen-av-polis-sex-anhallna",
-          "published_at": "2026-11-24T17:20:16+01:00",
-          "sv": {
-            "title": "Pojke fritagen av polis – sex anhållna"
-          },
-          "en": {
-            "title": "Boy freed by police – six detained"
-          }
-        },
-        {
-          "id": "55861e2b66ee",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/4Eqaa6/15-aring-fritagen-flera-gripna",
-          "published_at": "2026-11-24T16:33:53+01:00",
-          "sv": {
-            "title": "15-åring hittad – fördes bort mot sin vilja"
-          },
-          "en": {
-            "title": "15-year-old found – taken against his will"
-          }
-        },
-        {
-          "id": "7d383cb0a902",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=9971c782-c82a-4af1-9b68-129493fe46b4",
-          "published_at": "2026-11-24T16:32:15+01:00",
-          "sv": {
-            "title": "Bortrövad 15-åring fritagen av polis"
-          },
-          "en": {
-            "title": "Abducted 15-year-old freed by police"
           }
         }
       ]

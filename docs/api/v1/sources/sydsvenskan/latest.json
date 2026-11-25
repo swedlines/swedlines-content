@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T05:16:03+01:00",
+  "generated_at": "2026-11-25T05:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3de92f4320d0",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/for-putin-aterstar-bara-att-forsoka-forsvaga-olika-europeiska-lander",
+      "guid": "91d65daa-e198-4aa9-8078-1360a2a4f6ee",
+      "published_at": "2026-11-25T05:30:00+01:00",
+      "fetched_at": "2026-11-25T05:31:00+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/0d5ecd02-cdfe-41bd-ae58-e9ccd5dce2d9.jpeg?width=600",
+      "sv": {
+        "title": "”För Putin återstår bara att försöka försvaga olika europeiska länder.”",
+        "summary": "Medlemskap i Nato eller EU är fredsbevarande och på intet sätt ett hot mot Ryssland, skriver Carl Bildt, tidigare statsminister och utrikesminister i Sverige.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"For Putin, all that remains is to try to weaken various European countries.\"",
+        "summary": "Membership of NATO or the EU is peacekeeping and in no way a threat to Russia, writes Carl Bildt, former prime minister and foreign minister of Sweden."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T05:31:05+01:00"
+      }
+    },
     {
       "id": "b52e74ec030c",
       "schema_version": 1,
@@ -5184,33 +5211,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T06:31:04+01:00"
-      }
-    },
-    {
-      "id": "028be090091d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/som-sa-manga-ganger-forr-sparas-det-in-pa-stodet-till-kvinnor",
-      "guid": "767ab2c8-d16e-462e-b0c4-affdc23e940f",
-      "published_at": "2026-11-22T06:05:00+01:00",
-      "fetched_at": "2026-11-22T06:15:49+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/c48e0011-4ed2-46eb-a0f3-268358d6019b.jpeg?width=600",
-      "sv": {
-        "title": "”Som så många gånger förr sparas det in på stödet till kvinnor.”",
-        "summary": "Egentligen borde det inte råda någon politisk oenighet om en fortsättning för projektet Min Barnmorska, skriver Mätta Ivarsson, gruppledare för Miljöpartiet i Region Skåne och ledamot i regionens hälso- och sjukvårdsnämnd.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "”As so many times before, funding for women's support is being cut.”",
-        "summary": "There should in fact be no political disagreement about continuing the Min Barnmorska project, writes Mätta Ivarsson, group leader for the Green Party in Region Skåne and member of the region's health and medical care committee."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T06:15:54+01:00"
       }
     }
   ]
