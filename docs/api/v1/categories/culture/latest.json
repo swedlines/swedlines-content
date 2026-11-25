@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T23:15:52+01:00",
+  "generated_at": "2026-11-25T23:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7c7cea65a0a8",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/duran-durans-andy-taylor-dod",
+      "guid": "43d4e297-be2f-4a5c-ac97-fed7105150cc",
+      "published_at": "2026-11-25T23:20:47+01:00",
+      "fetched_at": "2026-11-25T23:31:15+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/c3066100-a565-4b28-a0b4-c8ec33f24cd8.jpg?width=600",
+      "sv": {
+        "title": "Duran Durans Andy Taylor död",
+        "summary": "Andy Taylor, tidigare gitarrist i den brittiska popgruppen Duran Duran, har dött 65 år gammal.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Duran Duran's Andy Taylor dead",
+        "summary": "Andy Taylor, former guitarist of the British pop group Duran Duran, has died at the age of 65."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T23:31:18+01:00"
+      }
+    },
     {
       "id": "4f3ec5c566b3",
       "schema_version": 1,
@@ -5681,33 +5708,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T08:45:47+01:00"
-      }
-    },
-    {
-      "id": "c814994f98e8",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/jessica-min-troja-stalkade-mig-i-16-dagar",
-      "guid": "https://www.dn.se/kultur/jessica-min-troja-stalkade-mig-i-16-dagar/",
-      "published_at": "2026-11-22T07:30:00+01:00",
-      "fetched_at": "2026-11-22T07:31:01+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/38bf9c95-0de8-4641-9249-ff4747d1bebd.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Jessica: Min tröja stalkade mig i 16 dagar",
-        "summary": "Hur mycket spam måste man tåla för att få köpa en tröja? Jessica tvingas följa ett plaggs resa från Göteborg till Stockholm under 16 dagar. Det är ingen nöjestripp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jessica: My sweater stalked me for 16 days",
-        "summary": "How much spam must one endure to buy a sweater? Jessica has to follow a garment's journey from Göteborg to Stockholm over 16 days. It's no pleasure trip."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T07:31:11+01:00"
       }
     }
   ]

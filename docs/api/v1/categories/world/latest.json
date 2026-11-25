@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-25T23:15:52+01:00",
+  "generated_at": "2026-11-25T23:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bca5b56324c1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a5396002-d2db-4b18-83be-5b18cab8b81e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a5396002-d2db-4b18-83be-5b18cab8b81e",
+      "published_at": "2026-11-25T23:24:36+01:00",
+      "fetched_at": "2026-11-25T23:31:13+01:00",
+      "category": "world",
+      "sv": {
+        "title": "17 sjömän i vattnet utanför Island",
+        "summary": "Fiskefartyg har sjunkit utanför Island",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "17 sailors in the water off Iceland",
+        "summary": "A fishing vessel has sunk off Iceland"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T23:31:18+01:00"
+      }
+    },
+    {
+      "id": "d44db5bbcc1b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/kim-jong-uns-dotter-pekas-ut-for-brottet",
+      "guid": "https://www.expressen.se/nyheter/varlden/kim-jong-uns-dotter-pekas-ut-for-brottet/",
+      "published_at": "2026-11-25T23:16:52+01:00",
+      "fetched_at": "2026-11-25T23:31:13+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Kim Jong-Uns dotter pekas ut för brottet",
+        "summary": "Kim Jong-Uns dotters kläder kan utgöra sanktionsbrott. Det varnar USA för, skriver South China Morning Post.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kim Jong-Un's daughter named over the offence",
+        "summary": "Kim Jong-Un's daughter's clothing may constitute a sanctions violation. The US warns of this, according to the South China Morning Post."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T23:31:18+01:00"
+      }
+    },
     {
       "id": "95730894d11c",
       "schema_version": 1,
@@ -5307,58 +5359,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T18:01:23+01:00"
-      }
-    },
-    {
-      "id": "4f59cb577cff",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/vald-mot-ambulansforare-de-skot-ihjal-min-van",
-      "guid": "https://www.expressen.se/nyheter/varlden/vald-mot-ambulansforare-de-skot-ihjal-min-van/",
-      "published_at": "2026-11-23T17:48:14+01:00",
-      "fetched_at": "2026-11-23T18:01:15+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Våld mot ambulansförare: ”De sköt ihjäl min vän”",
-        "summary": "Den palestinske sjukvårdaren sköts ihjäl i sin ambulans – Bosättare sköt honom när han satt bredvid mig i bilen, säger ambulansföraren Bashar Qaryouti i Aqraba på Västbanken.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Violence against ambulance workers: \"They shot my friend dead\"",
-        "summary": "The Palestinian paramedic was shot dead in his ambulance – Settlers shot him while he sat beside me in the car, says ambulance driver Bashar Qaryouti in Aqraba on the West Bank."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T18:01:23+01:00"
-      }
-    },
-    {
-      "id": "ddf0101335ea",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348492",
-      "guid": "rss:sr.se/article/9348492",
-      "published_at": "2026-11-23T17:24:00+01:00",
-      "fetched_at": "2026-11-23T17:30:57+01:00",
-      "category": "world",
-      "sv": {
-        "title": "COP31-kollapsen ”dåligt för svenska företag”",
-        "summary": "Att klimattoppmötet i Turkiet kollapsade är negativt för svenska företag som har satsat mycket på klimatomställningen. Det säger Peter Hellberg, förbundsordförande för facket Unionen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "COP31 collapse \"bad for Swedish companies\"",
-        "summary": "The collapse of the climate summit in Turkey is negative for Swedish companies that have invested heavily in the climate transition. That is what Peter Hellberg, chair of the Unionen union, says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T17:31:06+01:00"
       }
     }
   ]

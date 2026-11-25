@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:15:52+01:00",
+  "generated_at": "2026-11-25T23:31:20+01:00",
   "count": 30,
   "stories": [
     {
@@ -671,89 +671,73 @@
       ]
     },
     {
-      "id": "c9a509e41e6f",
-      "source_count": 4,
+      "id": "f6aba9583b40",
+      "source_count": 3,
       "sources": [
-        "sr",
-        "aftonbladet",
         "svd",
+        "svt",
         "sydsvenskan"
       ],
-      "first_published_at": "2026-11-25T10:56:00+01:00",
-      "last_published_at": "2026-11-25T11:22:56+01:00",
+      "first_published_at": "2026-11-25T22:51:40+01:00",
+      "last_published_at": "2026-11-25T23:20:47+01:00",
       "lead": {
-        "id": "c9a509e41e6f",
+        "id": "f6aba9583b40",
         "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9349693",
-        "guid": "rss:sr.se/article/9349693",
-        "published_at": "2026-11-25T10:56:00+01:00",
-        "fetched_at": "2026-11-25T10:57:40+01:00",
-        "category": "politics",
+        "source": "svd",
+        "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80317",
+        "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80317&utm_medium=rss",
+        "published_at": "2026-11-25T22:51:40+01:00",
+        "fetched_at": "2026-11-25T23:01:10+01:00",
+        "category": "culture",
         "sv": {
-          "title": "C kvinnoförbund har valt sida – vill inte vara ”i klorna på SD”",
-          "summary": "Nu har Centerpartiets kvinnoförbund fattat beslut i den omstridda regeringsfrågan Om de rödgröna partierna inte kan enas, så bör Centerpartiet gå i opposition, är beskedet. Centerkvinnorna säger också nej till att ingå i en borgerlig regering, som behöver stöd av Sverigedemokraterna.",
-          "summary_origin": "truncated"
+          "title": "Duran Durans Andy Taylor död"
         },
         "en": {
-          "title": "Centre Party women's league takes a side – does not want to be \"in the claws of the SD\"",
-          "summary": "The Centre Party's women's league has made a decision on the contentious government question. If the red-greens cannot agree, the Centre Party should go into opposition, is the message. The Centre women also say no to joining a centre-right government that would need the support of the Sweden Democrats."
+          "title": "Duran Duran's Andy Taylor dead"
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T10:57:48+01:00"
+          "translated_at": "2026-11-25T23:01:15+01:00"
         }
       },
       "items": [
         {
-          "id": "523ba3018025",
+          "id": "7c7cea65a0a8",
           "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/c-kvinnor-satter-ned-foten-om-sd",
-          "published_at": "2026-11-25T11:22:56+01:00",
+          "url": "https://www.sydsvenskan.se/noje/duran-durans-andy-taylor-dod",
+          "published_at": "2026-11-25T23:20:47+01:00",
           "sv": {
-            "title": "C-kvinnor sätter ned foten om SD"
+            "title": "Duran Durans Andy Taylor död"
           },
           "en": {
-            "title": "Centre Party women put their foot down over the Sweden Democrats"
+            "title": "Duran Duran's Andy Taylor dead"
           }
         },
         {
-          "id": "ea0d87e6c773",
+          "id": "4f3ec5c566b3",
+          "source": "svt",
+          "url": "https://www.svt.se/kultur/duran-duran-gitarristen-andy-taylor-ar-dod",
+          "published_at": "2026-11-25T22:54:17+01:00",
+          "sv": {
+            "title": "Duran Duran-gitarristen Andy Taylor är död"
+          },
+          "en": {
+            "title": "Duran Duran guitarist Andy Taylor is dead"
+          }
+        },
+        {
+          "id": "f6aba9583b40",
           "source": "svd",
-          "url": "https://www.svd.se/a/xJPnPX/c-kvinnor-satter-ned-foten-om-sd",
-          "published_at": "2026-11-25T11:21:51+01:00",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80317",
+          "published_at": "2026-11-25T22:51:40+01:00",
           "sv": {
-            "title": "C-kvinnor sätter ned foten om SD"
+            "title": "Duran Durans Andy Taylor död"
           },
           "en": {
-            "title": "Centre Party women put their foot down over the Sweden Democrats"
-          }
-        },
-        {
-          "id": "fb0003c3bb38",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/yz3P3K/c-kvinnor-satter-ned-foten-om-sd",
-          "published_at": "2026-11-25T11:21:50+01:00",
-          "sv": {
-            "title": "C-kvinnor sätter ned foten om SD"
-          },
-          "en": {
-            "title": "Centre Party women put their foot down over the Sweden Democrats"
-          }
-        },
-        {
-          "id": "c9a509e41e6f",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9349693",
-          "published_at": "2026-11-25T10:56:00+01:00",
-          "sv": {
-            "title": "C kvinnoförbund har valt sida – vill inte vara ”i klorna på SD”"
-          },
-          "en": {
-            "title": "Centre Party women's league takes a side – does not want to be \"in the claws of the SD\""
+            "title": "Duran Duran's Andy Taylor dead"
           }
         }
       ]
@@ -1343,89 +1327,64 @@
       ]
     },
     {
-      "id": "735cd0faa70d",
-      "source_count": 3,
+      "id": "40c8aded7d8d",
+      "source_count": 2,
       "sources": [
         "aftonbladet",
-        "expressen",
-        "gp"
+        "expressen"
       ],
-      "first_published_at": "2026-11-25T10:54:08+01:00",
-      "last_published_at": "2026-11-25T11:30:37+01:00",
+      "first_published_at": "2026-11-25T21:19:13+01:00",
+      "last_published_at": "2026-11-25T23:16:52+01:00",
       "lead": {
-        "id": "735cd0faa70d",
+        "id": "40c8aded7d8d",
         "schema_version": 1,
         "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/QroVQA/man-atalas-for-valdtakt-i-tjorns-kommun",
-        "guid": "https://www.aftonbladet.se/nyheter/a/QroVQA/man-atalas-for-valdtakt-i-tjorns-kommun?utm_medium=rss",
-        "published_at": "2026-11-25T10:54:08+01:00",
-        "fetched_at": "2026-11-25T11:15:45+01:00",
-        "category": "crime",
-        "image_url": "https://akamai.vgc.no/v2/images/dddb9cf5-bf49-36df-bdf4-ef1d221dabc4?format=auto&s=e793f50c7fc4142ef84f76dcf0d8ba06bd02c884&w=1000",
+        "url": "https://www.aftonbladet.se/nyheter/a/4Eq9we/usa-kims-dotters-klader-kan-vara-brottsliga",
+        "guid": "https://www.aftonbladet.se/nyheter/a/4Eq9we/usa-kims-dotters-klader-kan-vara-brottsliga?utm_medium=rss",
+        "published_at": "2026-11-25T21:19:13+01:00",
+        "fetched_at": "2026-11-25T21:31:06+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/bbc6647c-82b7-34f1-862d-bd45ed698c7e?format=auto&s=2a6a16e5ed5ed2acefb69d2d6bc8415a51150a04&w=1000",
         "sv": {
-          "title": "Finansman åtalas för grov våldtäkt på skärgårdsö",
-          "summary": "Svensk finansman greps i afrikansk önation",
+          "title": "USA: Kims dotters kläder kan vara brottsliga",
+          "summary": "Diktatorns dotters lyxiga skidkläder kan utgöra sanktionsbrott. Det varnar USA efter bilderna från…",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Financier charged with aggravated rape on archipelago island",
-          "summary": "Swedish financier arrested in African island nation"
+          "title": "USA: Kim's daughter's clothes may be criminal",
+          "summary": "The dictator's daughter's luxurious ski clothing may constitute sanctions violation. The US warns after the pictures from…"
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T11:15:55+01:00"
+          "translated_at": "2026-11-25T21:31:12+01:00"
         }
       },
       "items": [
         {
-          "id": "7152e1b96fce",
-          "source": "gp",
-          "url": "https://www.gp.se/krim/finansman-atalas-far-valdtakt-pa-vastkusts-o.49329d08-4385-54b3-82a9-40c2546fcf67",
-          "published_at": "2026-11-25T11:30:37+01:00",
-          "sv": {
-            "title": "Finansman från Göteborg åtalas får våldtäkt på Västkusts-ö"
-          },
-          "en": {
-            "title": "Financier from Göteborg charged with rape on West Coast island"
-          }
-        },
-        {
-          "id": "aa88ed0c89b9",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/WmbV4L/man-atalas-for-grov-valdtakt-pa-vastkusto",
-          "published_at": "2026-11-25T11:04:10+01:00",
-          "sv": {
-            "title": "Man åtalas för grov våldtäkt på västkustö"
-          },
-          "en": {
-            "title": "Man charged with aggravated rape on west coast island"
-          }
-        },
-        {
-          "id": "488c0ef6ff9a",
+          "id": "d44db5bbcc1b",
           "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/krim/finansman-atalas-for-grov-valdtakt",
-          "published_at": "2026-11-25T11:00:39+01:00",
+          "url": "https://www.expressen.se/nyheter/varlden/kim-jong-uns-dotter-pekas-ut-for-brottet",
+          "published_at": "2026-11-25T23:16:52+01:00",
           "sv": {
-            "title": "Finansman åtalas för grov våldtäkt"
+            "title": "Kim Jong-Uns dotter pekas ut för brottet"
           },
           "en": {
-            "title": "Financier charged with aggravated rape"
+            "title": "Kim Jong-Un's daughter named over the offence"
           }
         },
         {
-          "id": "735cd0faa70d",
+          "id": "40c8aded7d8d",
           "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/QroVQA/man-atalas-for-valdtakt-i-tjorns-kommun",
-          "published_at": "2026-11-25T10:54:08+01:00",
+          "url": "https://www.aftonbladet.se/nyheter/a/4Eq9we/usa-kims-dotters-klader-kan-vara-brottsliga",
+          "published_at": "2026-11-25T21:19:13+01:00",
           "sv": {
-            "title": "Finansman åtalas för grov våldtäkt på skärgårdsö"
+            "title": "USA: Kims dotters kläder kan vara brottsliga"
           },
           "en": {
-            "title": "Financier charged with aggravated rape on archipelago island"
+            "title": "USA: Kim's daughter's clothes may be criminal"
           }
         }
       ]
@@ -1489,65 +1448,6 @@
           },
           "en": {
             "title": "Elon Musk gets green light for data centres in space"
-          }
-        }
-      ]
-    },
-    {
-      "id": "f6aba9583b40",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "svt"
-      ],
-      "first_published_at": "2026-11-25T22:51:40+01:00",
-      "last_published_at": "2026-11-25T22:54:17+01:00",
-      "lead": {
-        "id": "f6aba9583b40",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80317",
-        "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80317&utm_medium=rss",
-        "published_at": "2026-11-25T22:51:40+01:00",
-        "fetched_at": "2026-11-25T23:01:10+01:00",
-        "category": "culture",
-        "sv": {
-          "title": "Duran Durans Andy Taylor död"
-        },
-        "en": {
-          "title": "Duran Duran's Andy Taylor dead"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T23:01:15+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "4f3ec5c566b3",
-          "source": "svt",
-          "url": "https://www.svt.se/kultur/duran-duran-gitarristen-andy-taylor-ar-dod",
-          "published_at": "2026-11-25T22:54:17+01:00",
-          "sv": {
-            "title": "Duran Duran-gitarristen Andy Taylor är död"
-          },
-          "en": {
-            "title": "Duran Duran guitarist Andy Taylor is dead"
-          }
-        },
-        {
-          "id": "f6aba9583b40",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80317",
-          "published_at": "2026-11-25T22:51:40+01:00",
-          "sv": {
-            "title": "Duran Durans Andy Taylor död"
-          },
-          "en": {
-            "title": "Duran Duran's Andy Taylor dead"
           }
         }
       ]
@@ -2471,6 +2371,69 @@
           },
           "en": {
             "title": "Kristersson: Talks held with the Alliance parties"
+          }
+        }
+      ]
+    },
+    {
+      "id": "51acf7c28c5b",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-25T17:23:48+01:00",
+      "last_published_at": "2026-11-25T17:37:07+01:00",
+      "lead": {
+        "id": "51acf7c28c5b",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/3BJyBL/undersokning-c-har-skott-regeringsbildningen-samst",
+        "guid": "https://www.aftonbladet.se/nyheter/a/3BJyBL/undersokning-c-har-skott-regeringsbildningen-samst?utm_medium=rss",
+        "published_at": "2026-11-25T17:23:48+01:00",
+        "fetched_at": "2026-11-25T17:31:05+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/12aef6c2-6d1b-3896-a91d-fbc0ac541349?format=auto&s=0fd1102e5ca891314f45f24aad3b892327d61982&w=1000",
+        "sv": {
+          "title": "Undersökning: C har skött regeringsbildningen sämst",
+          "summary": "Centerpartiet är det parti som har agerat sämst under regeringsbildningen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Survey: C has handled the government formation worst",
+          "summary": "The Centre Party is the party that has performed worst during the government formation."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T17:31:19+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "da25db592873",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/undersokning-c-har-skott-regeringsbildningen-samst",
+          "published_at": "2026-11-25T17:37:07+01:00",
+          "sv": {
+            "title": "Undersökning: C har skött regeringsbildningen sämst"
+          },
+          "en": {
+            "title": "Poll: C has handled the government formation worst"
+          }
+        },
+        {
+          "id": "51acf7c28c5b",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/3BJyBL/undersokning-c-har-skott-regeringsbildningen-samst",
+          "published_at": "2026-11-25T17:23:48+01:00",
+          "sv": {
+            "title": "Undersökning: C har skött regeringsbildningen sämst"
+          },
+          "en": {
+            "title": "Survey: C has handled the government formation worst"
           }
         }
       ]

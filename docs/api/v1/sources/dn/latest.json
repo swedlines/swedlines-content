@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T23:15:52+01:00",
+  "generated_at": "2026-11-25T23:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8c0878fdf9a1",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/stekhet-isak-slog-till-tva-ganger-om",
+      "guid": "https://www.dn.se/sport/stekhet-isak-slog-till-tva-ganger-om/",
+      "published_at": "2026-11-25T23:18:18+01:00",
+      "fetched_at": "2026-11-25T23:31:10+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/3b7e5493-3165-44f2-9466-c45e28a0c4cc.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Stekhet Isak slog till två gånger om",
+        "summary": "Misstag kan bli dyrköpta om Alexander Isak spelar för motståndarlaget. Det fick belgiska Club Brügge erfara sedan svensken satt två mål i bortamötet i Champions League.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hot Isak strikes twice",
+        "summary": "Mistakes can prove costly when Alexander Isak plays for the opposing team. Belgian club Club Brügge found that out when the Swede scored two goals in the away match in the Champions League."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T23:31:18+01:00"
+      }
+    },
     {
       "id": "c91cf2575ba1",
       "schema_version": 1,
@@ -5370,33 +5397,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T20:15:48+01:00"
-      }
-    },
-    {
-      "id": "d7829a6dd181",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/debatt/reafuskarna-kommer-undan-infor-fangelse-i-straffskalan",
-      "guid": "https://www.dn.se/debatt/reafuskarna-kommer-undan-infor-fangelse-i-straffskalan/",
-      "published_at": "2026-11-22T20:00:00+01:00",
-      "fetched_at": "2026-11-22T20:01:10+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/96ba4e30-ac7b-42e4-9018-6b4aa367cdc1.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "DN Debatt. ”Reafuskarna kommer undan – inför fängelse i straffskalan”",
-        "summary": "DN DEBATT. Black Friday står runt hörnet, och redan nu vevar butikerna igång sina kampanjer. Bra pris? Nja, ofta är det fuffens och båg och konsumenterna står oskyddade mot en riggad marknad. Snatteri har fängelse i straffskalan.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "DN Debate. \"The Reafuse-ers get away – prison added to the penalty scale\"",
-        "summary": "DN DEBATE. Black Friday is just around the corner, and shops are already launching their campaigns. Good prices? Well, often it's fuffens and båg, and consumers are left unprotected in a rigged market. Shoplifting carries prison in the penalty scale."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T20:01:17+01:00"
       }
     }
   ]
