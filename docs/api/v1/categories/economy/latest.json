@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T10:45:53+01:00",
+  "generated_at": "2026-11-25T10:57:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e109d25e49b4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/kinneviks-finanschef-har-kopt-aktier-for-2-7-miljoner",
+      "guid": "b7595e9e-345f-43ca-8472-429d563d29d9",
+      "published_at": "2026-11-25T10:50:31+01:00",
+      "fetched_at": "2026-11-25T10:57:42+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Kinneviks finanschef har köpt aktier för 2,7 miljoner",
+        "summary": "Kinneviks tillförordnade finanschef Caspar Sjöstrand har köpt 40.607 aktier i investmentbolaget för drygt 2,7 miljoner kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kinnevik's acting CFO has bought shares worth SEK 2.7 million",
+        "summary": "Kinnevik's acting CFO Caspar Sjöstrand has bought 40,607 shares in the investment company for just over SEK 2.7 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T10:57:48+01:00"
+      }
+    },
     {
       "id": "874326f96797",
       "schema_version": 1,
@@ -5243,33 +5269,6 @@
       "en": {
         "title": "Reports: Stegra needs at least 20 billion more",
         "summary": "The large steel project Stegra needs at least SEK 20 billion in additional financing to complete its plant, Bloomberg writes, citing sources."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T12:31:03+01:00"
-      }
-    },
-    {
-      "id": "f0582c86106c",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/zelenskyj-vi-attackerade-fartyget-i-finska-viken-transporterade-vapen",
-      "guid": "48982286-debe-40cf-8840-ac55e3757ae5",
-      "published_at": "2026-11-24T12:18:49+01:00",
-      "fetched_at": "2026-11-24T12:30:57+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d67a81b5-99b7-4d4c-958a-af19837588a0.jpg?width=600",
-      "sv": {
-        "title": "Zelenskyj: Vi attackerade fartyget i Finska viken – transporterade vapen",
-        "summary": "Ukraina tar på sig helgens attack mot ett ryskflaggat fartyg i Finska viken.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Zelensky: We attacked the ship in the Gulf of Finland – it was transporting weapons",
-        "summary": "Ukraine claims responsibility for the weekend attack on a Russian-flagged ship in the Gulf of Finland."
       },
       "translation": {
         "status": "done",

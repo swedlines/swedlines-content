@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T10:45:53+01:00",
+  "generated_at": "2026-11-25T10:57:53+01:00",
   "count": 26,
   "stories": [
     {
@@ -432,6 +432,118 @@
       ]
     },
     {
+      "id": "b60521972973",
+      "source_count": 4,
+      "sources": [
+        "svt",
+        "aftonbladet",
+        "svd",
+        "dn"
+      ],
+      "first_published_at": "2026-11-25T05:30:03+01:00",
+      "last_published_at": "2026-11-25T10:56:13+01:00",
+      "lead": {
+        "id": "b60521972973",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-professor-varnar-for-fallande-domar-utifran-kontakt-dna",
+        "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-professor-varnar-for-fallande-domar-utifran-kontakt-dna",
+        "published_at": "2026-11-25T05:30:03+01:00",
+        "fetched_at": "2026-11-25T05:45:42+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Brattåsmålet: Professor varnar för fällande domar från kontakt-dna",
+          "summary": "Den tyngsta bevisningen mot den man i 45-årsåldern som tidigare i år dömdes för medhjälp i dubbelmordet i Brattås i Härnösand är två spår av kontakt-dna. Men att använda den här typen av dna som bindande bevisning är omtvistat.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "The Brattås case: Professor warns of convictions based on contact DNA",
+          "summary": "The heaviest evidence against the man in his mid-40s who earlier this year was convicted of complicity in the double murder in Brattås in Härnösand is two traces of contact DNA. However, using this type of DNA as binding evidence is disputed."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T05:46:04+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "8cb0e3aeff31",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/VxbkLJ/brattasmordaren-i-fantombilden-sa-togs-markliga-bilden-fram",
+          "published_at": "2026-11-25T10:56:13+01:00",
+          "sv": {
+            "title": "Spelet bakom fantombilden i Brattåsfallet: ”Såg otyglad ut”"
+          },
+          "en": {
+            "title": "The game behind the composite image in the Brattås case: \"Looked unhinged\""
+          }
+        },
+        {
+          "id": "05ab1f6ffb0e",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/nya-bevis-i-brattasfallet-starker-den-redan-domdes-berattelse",
+          "published_at": "2026-11-25T06:56:39+01:00",
+          "sv": {
+            "title": "Nya bevis i Brattåsfallet: \"Stärker den redan dömdes berättelse\""
+          },
+          "en": {
+            "title": "New evidence in the Brattås case: \"Strengthens the story of the already convicted\""
+          }
+        },
+        {
+          "id": "76127bf69742",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wdPlyG/nya-bevis-i-brattasfallet-starker-hans-berattelse",
+          "published_at": "2026-11-25T06:15:12+01:00",
+          "sv": {
+            "title": "Nya bevis i Brattåsfallet: \"Stärker hans berättelse\""
+          },
+          "en": {
+            "title": "New evidence in the Brattås case: \"Strengthens his account\""
+          }
+        },
+        {
+          "id": "a76a53a212aa",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/z0GpR1/nya-bevis-i-brattasfallet-starker-hans-berattelse",
+          "published_at": "2026-11-25T06:15:11+01:00",
+          "sv": {
+            "title": "Nya bevis i Brattåsfallet: \"Stärker hans berättelse\""
+          },
+          "en": {
+            "title": "New evidence in the Brattås case: \"Strengthens his account\""
+          }
+        },
+        {
+          "id": "d08aea61b87d",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasfallet-tas-upp-i-hovratten-folj-var-direktrapport",
+          "published_at": "2026-11-25T05:30:03+01:00",
+          "sv": {
+            "title": "Brattåsfallet tas upp i hovrätten – följ vår direktrapport"
+          },
+          "en": {
+            "title": "The Brattås case goes to the court of appeal – follow our live report"
+          }
+        },
+        {
+          "id": "b60521972973",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-professor-varnar-for-fallande-domar-utifran-kontakt-dna",
+          "published_at": "2026-11-25T05:30:03+01:00",
+          "sv": {
+            "title": "Brattåsmålet: Professor varnar för fällande domar från kontakt-dna"
+          },
+          "en": {
+            "title": "The Brattås case: Professor warns of convictions based on contact DNA"
+          }
+        }
+      ]
+    },
+    {
       "id": "4ee2b20ad9b8",
       "source_count": 4,
       "sources": [
@@ -699,106 +811,6 @@
       ]
     },
     {
-      "id": "b60521972973",
-      "source_count": 4,
-      "sources": [
-        "svt",
-        "aftonbladet",
-        "svd",
-        "dn"
-      ],
-      "first_published_at": "2026-11-25T05:30:03+01:00",
-      "last_published_at": "2026-11-25T06:56:39+01:00",
-      "lead": {
-        "id": "b60521972973",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-professor-varnar-for-fallande-domar-utifran-kontakt-dna",
-        "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-professor-varnar-for-fallande-domar-utifran-kontakt-dna",
-        "published_at": "2026-11-25T05:30:03+01:00",
-        "fetched_at": "2026-11-25T05:45:42+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Brattåsmålet: Professor varnar för fällande domar från kontakt-dna",
-          "summary": "Den tyngsta bevisningen mot den man i 45-årsåldern som tidigare i år dömdes för medhjälp i dubbelmordet i Brattås i Härnösand är två spår av kontakt-dna. Men att använda den här typen av dna som bindande bevisning är omtvistat.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "The Brattås case: Professor warns of convictions based on contact DNA",
-          "summary": "The heaviest evidence against the man in his mid-40s who earlier this year was convicted of complicity in the double murder in Brattås in Härnösand is two traces of contact DNA. However, using this type of DNA as binding evidence is disputed."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T05:46:04+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "05ab1f6ffb0e",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/nya-bevis-i-brattasfallet-starker-den-redan-domdes-berattelse",
-          "published_at": "2026-11-25T06:56:39+01:00",
-          "sv": {
-            "title": "Nya bevis i Brattåsfallet: \"Stärker den redan dömdes berättelse\""
-          },
-          "en": {
-            "title": "New evidence in the Brattås case: \"Strengthens the story of the already convicted\""
-          }
-        },
-        {
-          "id": "76127bf69742",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wdPlyG/nya-bevis-i-brattasfallet-starker-hans-berattelse",
-          "published_at": "2026-11-25T06:15:12+01:00",
-          "sv": {
-            "title": "Nya bevis i Brattåsfallet: \"Stärker hans berättelse\""
-          },
-          "en": {
-            "title": "New evidence in the Brattås case: \"Strengthens his account\""
-          }
-        },
-        {
-          "id": "a76a53a212aa",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/z0GpR1/nya-bevis-i-brattasfallet-starker-hans-berattelse",
-          "published_at": "2026-11-25T06:15:11+01:00",
-          "sv": {
-            "title": "Nya bevis i Brattåsfallet: \"Stärker hans berättelse\""
-          },
-          "en": {
-            "title": "New evidence in the Brattås case: \"Strengthens his account\""
-          }
-        },
-        {
-          "id": "d08aea61b87d",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasfallet-tas-upp-i-hovratten-folj-var-direktrapport",
-          "published_at": "2026-11-25T05:30:03+01:00",
-          "sv": {
-            "title": "Brattåsfallet tas upp i hovrätten – följ vår direktrapport"
-          },
-          "en": {
-            "title": "The Brattås case goes to the court of appeal – follow our live report"
-          }
-        },
-        {
-          "id": "b60521972973",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-professor-varnar-for-fallande-domar-utifran-kontakt-dna",
-          "published_at": "2026-11-25T05:30:03+01:00",
-          "sv": {
-            "title": "Brattåsmålet: Professor varnar för fällande domar från kontakt-dna"
-          },
-          "en": {
-            "title": "The Brattås case: Professor warns of convictions based on contact DNA"
-          }
-        }
-      ]
-    },
-    {
       "id": "1cd84443b940",
       "source_count": 4,
       "sources": [
@@ -883,6 +895,81 @@
           },
           "en": {
             "title": "Nick Carter charged with sexual assault"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1206ee6a5b06",
+      "source_count": 3,
+      "sources": [
+        "svt",
+        "gp",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-25T10:42:54+01:00",
+      "last_published_at": "2026-11-25T10:57:05+01:00",
+      "lead": {
+        "id": "1206ee6a5b06",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/vast/fyra-atalas-efter-misstankta-badplatsmordet-i-molnlycke",
+        "guid": "https://www.svt.se/nyheter/lokalt/vast/fyra-atalas-efter-misstankta-badplatsmordet-i-molnlycke",
+        "published_at": "2026-11-25T10:42:54+01:00",
+        "fetched_at": "2026-11-25T10:45:40+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Fyra åtalas efter misstänkta badplatsmordet i Mölnlycke",
+          "summary": "Efter att en 45-årig man blev misshandlad till döds på en badplats vid Rådasjön i Mölnlycke i somras åtalas nu två män för mord och en kvinna och en man för skyddande av brottsling.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Four charged after suspected murder at bathing spot in Mölnlycke",
+          "summary": "After a 45-year-old man was beaten to death at a bathing spot by Rådasjön in Mölnlycke this summer, two men are now charged with murder and a woman and a man with harbouring a criminal."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T10:45:48+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "970a0a8dd283",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/ARdA63/tva-man-atalas-for-mord-vid-badplats",
+          "published_at": "2026-11-25T10:57:05+01:00",
+          "sv": {
+            "title": "Två män åtalas för mord vid badplats"
+          },
+          "en": {
+            "title": "Two men charged with murder at bathing spot"
+          }
+        },
+        {
+          "id": "0093088bc299",
+          "source": "gp",
+          "url": "https://www.gp.se/krim/tva-unga-man-atalas-for-mord-pa-badplats-i-molnlycke.783518a1-e2a1-5dc8-a61d-193c4d623134",
+          "published_at": "2026-11-25T10:43:13+01:00",
+          "sv": {
+            "title": "Ihjälslagen på badplats – två åtalas för mord"
+          },
+          "en": {
+            "title": "Beaten to death at bathing spot – two charged with murder"
+          }
+        },
+        {
+          "id": "1206ee6a5b06",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vast/fyra-atalas-efter-misstankta-badplatsmordet-i-molnlycke",
+          "published_at": "2026-11-25T10:42:54+01:00",
+          "sv": {
+            "title": "Fyra åtalas efter misstänkta badplatsmordet i Mölnlycke"
+          },
+          "en": {
+            "title": "Four charged after suspected murder at bathing spot in Mölnlycke"
           }
         }
       ]
@@ -1272,82 +1359,6 @@
           },
           "en": {
             "title": "Meeting participants: Information from C leadership"
-          }
-        }
-      ]
-    },
-    {
-      "id": "337d2154006e",
-      "source_count": 3,
-      "sources": [
-        "svd",
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-24T22:45:11+01:00",
-      "last_published_at": "2026-11-24T22:47:31+01:00",
-      "lead": {
-        "id": "337d2154006e",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/QroeXP/frederiksen-orolig-for-folkutbyte-kritiseras",
-        "guid": "https://www.svd.se/a/QroeXP/frederiksen-orolig-for-folkutbyte-kritiseras?utm_medium=rss",
-        "published_at": "2026-11-24T22:45:11+01:00",
-        "fetched_at": "2026-11-24T22:45:45+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/55610f04-9866-399b-89b1-e167ca231e2b?format=auto&s=acd38930c02596a15121a365b75c2c6043583427&w=1000",
-        "sv": {
-          "title": "Frederiksen orolig för ”folkutbyte” – kritiseras",
-          "summary": "Danmarks statsminister Mette Frederiksen (S) säger i en intervju att hon inte är ”anhängare av ett…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Frederiksen worried about ‘population replacement’ – criticised",
-          "summary": "Danish Prime Minister Mette Frederiksen (S) says in an interview that she is not ‘a supporter of a…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T22:45:56+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "ca9d146c63dd",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/frederiksen-orolig-for-folkutbyte-kritiseras",
-          "published_at": "2026-11-24T22:47:31+01:00",
-          "sv": {
-            "title": "Frederiksen orolig för ”folkutbyte” – kritiseras"
-          },
-          "en": {
-            "title": "Frederiksen worried about \"folk exchange\" – criticised"
-          }
-        },
-        {
-          "id": "7c294fac5e6a",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/KL35X6/frederiksen-orolig-for-folkutbyte-kritiseras",
-          "published_at": "2026-11-24T22:45:11+01:00",
-          "sv": {
-            "title": "Frederiksen orolig för ”folkutbyte” – kritiseras"
-          },
-          "en": {
-            "title": "Frederiksen worried about ‘population replacement’ – criticised"
-          }
-        },
-        {
-          "id": "337d2154006e",
-          "source": "svd",
-          "url": "https://www.svd.se/a/QroeXP/frederiksen-orolig-for-folkutbyte-kritiseras",
-          "published_at": "2026-11-24T22:45:11+01:00",
-          "sv": {
-            "title": "Frederiksen orolig för ”folkutbyte” – kritiseras"
-          },
-          "en": {
-            "title": "Frederiksen worried about ‘population replacement’ – criticised"
           }
         }
       ]

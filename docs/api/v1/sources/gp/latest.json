@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-25T10:45:53+01:00",
+  "generated_at": "2026-11-25T10:57:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0093088bc299",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/tva-unga-man-atalas-for-mord-pa-badplats-i-molnlycke.783518a1-e2a1-5dc8-a61d-193c4d623134",
+      "guid": "783518a1-e2a1-5dc8-a61d-193c4d623134",
+      "published_at": "2026-11-25T10:43:13+01:00",
+      "fetched_at": "2026-11-25T10:57:43+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Krim",
+        "Tagg: Brott och straff",
+        "Tagg: Mölnlycke",
+        "Tagg: Göteborg",
+        "Tagg: Polisen"
+      ],
+      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
+      "sv": {
+        "title": "Ihjälslagen på badplats – två åtalas för mord",
+        "summary": "Man misshandlades inför flera vittnen • Misstänkta hävdar självförsvar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Beaten to death at bathing spot – two charged with murder",
+        "summary": "Man was assaulted in front of several witnesses • Suspects claim self-defence."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T10:57:48+01:00"
+      }
+    },
     {
       "id": "d51cee32dd96",
       "schema_version": 1,
@@ -6862,39 +6896,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T09:31:07+01:00"
-      }
-    },
-    {
-      "id": "b6221354dd20",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/ishockey/frolunda/farjestads-filip-roos-hade-varit-kul-att-komma-till-frolunda.e1d7c362-c9ca-5c40-9e5d-e37f1bf6fe28",
-      "guid": "e1d7c362-c9ca-5c40-9e5d-e37f1bf6fe28",
-      "published_at": "2026-11-20T08:30:19+01:00",
-      "fetched_at": "2026-11-20T09:01:11+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Frölunda",
-        "Tagg: Färjestad",
-        "Tagg: Frölunda",
-        "Tagg: Frölunda HC"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/7595511b-ded2-3a9a-965d-53ab6f6a78f7",
-      "sv": {
-        "title": "Ligans bäste: ”Hade varit kul att komma till Frölunda”",
-        "summary": "Är Filip Roos näste hemvändare – när kontraktet med Färjestad går ut?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "League's best: \"Would have been fun to come to Frölunda\"",
-        "summary": "Is Filip Roos the next player to return home – when his contract with Färjestad expires?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T09:01:24+01:00"
       }
     }
   ]
