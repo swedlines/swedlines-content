@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T00:01:27+01:00",
+  "generated_at": "2026-11-26T00:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e77a4b9a4fdf",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/oMp0yB/maste-for-alla-som-alskar-line-of-duty",
+      "guid": "https://www.svd.se/a/oMp0yB/maste-for-alla-som-alskar-line-of-duty?utm_medium=rss",
+      "published_at": "2026-11-26T00:15:00+01:00",
+      "fetched_at": "2026-11-26T00:15:48+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/5758fe6c-a989-3b7f-9c4e-fd856143dcca?format=auto&s=4a79ae7e81e632544cc0e755b88b4bd4636174f7&w=1000",
+      "sv": {
+        "title": "Måste för alla som älskar Line of duty",
+        "summary": "Äntligen premiär för hyllad svensk serie. SvD Kultur guidar till de bästa nyheterna på svenska…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "A must for everyone who loves Line of Duty",
+        "summary": "Finally premiere for the acclaimed Swedish series. SvD Culture guides you to the best news in Swedish…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T00:15:53+01:00"
+      }
+    },
     {
       "id": "f6aba9583b40",
       "schema_version": 1,
@@ -5237,33 +5264,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T22:01:15+01:00"
-      }
-    },
-    {
-      "id": "86b2339585fd",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/dJO2oJ/forsta-finalsegern-ger-53-miljoner",
-      "guid": "https://www.svd.se/a/dJO2oJ/forsta-finalsegern-ger-53-miljoner?utm_medium=rss",
-      "published_at": "2026-11-22T21:07:36+01:00",
-      "fetched_at": "2026-11-22T21:15:41+01:00",
-      "category": "sports",
-      "image_url": "https://akamai.vgc.no/v2/images/b25e2e20-a023-3dcc-8e27-33a9bfe56d65?format=auto&s=c5943cccdeed6b04210ab3dd51c56cdf15909223&w=1000",
-      "sv": {
-        "title": "Första finalsegern ger 53 miljoner",
-        "summary": "Världstrean Carlos Alcaraz vinner för första gången ATP-tourens slutspel.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "First final victory brings SEK 53 million",
-        "summary": "World No. 3 Carlos Alcaraz wins the ATP Tour finals for the first time."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T21:15:49+01:00"
       }
     }
   ]
