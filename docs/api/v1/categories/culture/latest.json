@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-25T17:51:47+01:00",
+  "generated_at": "2026-11-25T18:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "98803bd36896",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/49fQypHZgbhZSpWE5mNNXs/taylor-swift-pekas-ut-i-stort-reportage-hon-korsfaester-dem",
+      "guid": "49fQypHZgbhZSpWE5mNNXs",
+      "published_at": "2026-11-25T17:52:59+01:00",
+      "fetched_at": "2026-11-25T18:01:18+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Utrikesnyheter"
+      ],
+      "sv": {
+        "title": "Taylor Swift pekas ut i stort reportage: ”Hon korsfäster dem”",
+        "summary": "I reportaget, som publicerades på måndagen under rubriken ”The mastermind”, har journalisten May Jeong intervjuat över 100 personer med koppling till artisten. Taylor Swift, 36, nämns aldrig vid namn, men detaljerna i reportaget pekar tydligt på världsstjärnan.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Taylor Swift singled out in major report: \"She crucifies them\"",
+        "summary": "In the report, published on Monday under the headline \"The mastermind\", journalist May Jeong interviewed over 100 people connected to the artist. Taylor Swift, 36, is never named, but the details in the report clearly point to the global star."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T18:01:24+01:00"
+      }
+    },
     {
       "id": "e3d77a470dd7",
       "schema_version": 1,
@@ -5692,35 +5721,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T23:01:14+01:00"
-      }
-    },
-    {
-      "id": "ea8bca9ac517",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2VPf6GXK77MpajDVMOHauf/radet-till-idolerna-inse-att-du-aer-en-liten-skit-pa-jorden",
-      "guid": "2VPf6GXK77MpajDVMOHauf",
-      "published_at": "2026-11-21T22:21:20+01:00",
-      "fetched_at": "2026-11-21T22:31:00+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "Rådet: ”Du är en liten skit på jorden”",
-        "summary": "Träffar stjärnan inför konserten • ”Sa väldigt fina saker”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Council: \"You are a little shit on this earth\"",
-        "summary": "Meets the star ahead of the concert • \"Said very nice things\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T22:31:05+01:00"
       }
     }
   ]
