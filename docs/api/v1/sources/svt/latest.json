@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T16:46:01+01:00",
+  "generated_at": "2026-11-25T17:01:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4ff4056480c1",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-i-landala-i-goteborg",
+      "guid": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-i-landala-i-goteborg",
+      "published_at": "2026-11-25T16:45:48+01:00",
+      "fetched_at": "2026-11-25T17:01:19+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Larm om explosion i Landala i Göteborg",
+        "summary": "En misstänkt explosion har inträffat i Landala i Göteborg. Räddninstjänsten uppger för SVT Nyheter Väst att man fått in samtal om att någon hört en hög smäll i området. – Det är lite oklart om något brinner eller har smällt, säger Fredrik Svedemyr, polisens presstalesperson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm over explosion in Landala in Göteborg",
+        "summary": "A suspected explosion has occurred in Landala in Göteborg. The rescue service tells SVT Nyheter Väst that it has received calls about someone hearing a loud bang in the area. – It is somewhat unclear whether anything is burning or has exploded, says Fredrik Svedemyr, the police press spokesperson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:01:32+01:00"
+      }
+    },
     {
       "id": "459205edd30b",
       "schema_version": 1,
@@ -5164,32 +5190,6 @@
       "en": {
         "title": "KD minister's forest warning to C: ”A pure threat”",
         "summary": "Ownership of forest land has become a hot issue in the government negotiations. Now rural affairs minister Peter Kullgren (KD) accuses Magdalena Andersson of blackmailing the Centre Party members in her package deal."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:45:52+01:00"
-      }
-    },
-    {
-      "id": "12f5fa0cc677",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/se-jakobs-premarak-pa-nydalasjon-i-umea-i-snoyran-skjuts-av-vinden",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/se-jakobs-premarak-pa-nydalasjon-i-umea-i-snoyran-skjuts-av-vinden",
-      "published_at": "2026-11-19T16:40:59+01:00",
-      "fetched_at": "2026-11-19T16:45:40+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Se Jakobs premäråk på Nydalasjön i Umeå – i snöyran: ”Skjuts av vinden”",
-        "summary": "Isen har nätt och jämt lagt sig på Nydalasjön i Umeå. Då passade Jakob Andrén och systern Matilda på att snöra på sig långfärdsskridskorna för en tur – som slutade i snöyra. – Det kan bli första och enda åkturen på Nydalasjön med lite otur, säger skridskoåkaren Jakob Andrén.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Watch Jakob's premiere skate on Nydalasjön in Umeå – in snow flurry: ”Blown by the wind”",
-        "summary": "The ice has barely formed on Nydalasjön in Umeå. Jakob Andrén and his sister Matilda then seized the chance to lace up their long-distance skates for a spin – which ended in a snow flurry. – This may become the first and only skate on Nydalasjön, with a bit of bad luck, says speed skater Jakob Andrén."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T16:46:01+01:00",
+  "generated_at": "2026-11-25T17:01:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1ef2c91cb0a9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349275",
+      "guid": "rss:sr.se/article/9349275",
+      "published_at": "2026-11-25T16:50:00+01:00",
+      "fetched_at": "2026-11-25T17:01:20+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Oro i Iran för att kriget ska bryta ut igen: ”Folk är trötta”",
+        "summary": "Attackerna mellan USA och Iran har trappats upp. Kuwait och Bahrain har skjutit ned iranska drönare och USA attackerat den iranska ön Qeshm vid Hormuzsundet. Vid gränsen till Irak säger iranier att de är rädda att kriget ska bryta ut igen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Fears in Iran that war will break out again: \"People are tired\"",
+        "summary": "Attacks between the USA and Iran have escalated. Kuwait and Bahrain have shot down Iranian drones, and the USA has attacked the Iranian island of Qeshm by the Strait of Hormuz. At the border with Iraq, Iranians say they are afraid the war will break out again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:01:32+01:00"
+      }
+    },
     {
       "id": "0719b7b9a4aa",
       "schema_version": 1,
@@ -5337,33 +5363,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T13:15:59+01:00"
-      }
-    },
-    {
-      "id": "3fe416f92481",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/dJOq9o/iceye-vaxer-inom-forsvar-koper-avio-och-bygger-alternativ-till-starshield",
-      "guid": "https://www.svd.se/a/dJOq9o/iceye-vaxer-inom-forsvar-koper-avio-och-bygger-alternativ-till-starshield?utm_medium=rss",
-      "published_at": "2026-11-23T12:59:03+01:00",
-      "fetched_at": "2026-11-23T13:01:16+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/36568274-7b32-3738-95c5-33e0fb6942c7?format=auto&s=755688380b732514840d30bb905053c5461dc168&w=1000",
-      "sv": {
-        "title": "”Stolt att jobba med svenska försvaret”",
-        "summary": "Från att spana efter is åt oljebolag till att bli en viktig del av Europas försvarsmakter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "“Proud to work with the Swedish armed forces”",
-        "summary": "From searching for ice for oil companies to becoming an important part of Europe's defence forces."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T13:01:23+01:00"
       }
     }
   ]

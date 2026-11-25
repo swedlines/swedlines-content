@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T16:46:01+01:00",
+  "generated_at": "2026-11-25T17:01:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "85d7ae41ac81",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/riksdagen-klubbade-ny-svensk-filmpolitik",
+      "guid": "161d3673-ac6d-43a0-94ca-788ee4fd1b36",
+      "published_at": "2026-11-25T16:51:14+01:00",
+      "fetched_at": "2026-11-25T17:01:23+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/50b45da3-6da2-47d3-b5b1-153a2988da9b.jpg?width=600",
+      "sv": {
+        "title": "Riksdagen klubbade ny svensk filmpolitik",
+        "summary": "Nu är det klart. Den 1 januari får Sverige en ny filmpolitik. Riksdagen har klubbat regeringens filmproposition.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Riksdag passed new Swedish film policy",
+        "summary": "Now it is decided. On 1 January Sweden gets a new film policy. The Riksdag has passed the government's film bill."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:01:32+01:00"
+      }
+    },
     {
       "id": "db6c39d76e97",
       "schema_version": 1,
@@ -5364,29 +5391,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T00:45:56+01:00"
-      }
-    },
-    {
-      "id": "90738eaa913e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/v-beklagar-c-s-sidbyte",
-      "guid": "f7f37bbd-8f3d-48ab-b4ab-2f6278d10775",
-      "published_at": "2026-11-24T00:08:12+01:00",
-      "fetched_at": "2026-11-24T00:15:47+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "V: ”Beklagar C:s sidbyte”"
-      },
-      "en": {
-        "title": "V: ”We regret C's switch of sides”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T00:15:52+01:00"
       }
     }
   ]

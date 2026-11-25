@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T16:46:01+01:00",
+  "generated_at": "2026-11-25T17:01:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4ff4056480c1",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-i-landala-i-goteborg",
+      "guid": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-i-landala-i-goteborg",
+      "published_at": "2026-11-25T16:45:48+01:00",
+      "fetched_at": "2026-11-25T17:01:19+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Larm om explosion i Landala i Göteborg",
+        "summary": "En misstänkt explosion har inträffat i Landala i Göteborg. Räddninstjänsten uppger för SVT Nyheter Väst att man fått in samtal om att någon hört en hög smäll i området. – Det är lite oklart om något brinner eller har smällt, säger Fredrik Svedemyr, polisens presstalesperson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm over explosion in Landala in Göteborg",
+        "summary": "A suspected explosion has occurred in Landala in Göteborg. The rescue service tells SVT Nyheter Väst that it has received calls about someone hearing a loud bang in the area. – It is somewhat unclear whether anything is burning or has exploded, says Fredrik Svedemyr, the police press spokesperson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:01:32+01:00"
+      }
+    },
     {
       "id": "84e860971590",
       "schema_version": 1,
@@ -5391,35 +5417,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T02:31:07+01:00"
-      }
-    },
-    {
-      "id": "ae7de88829d0",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/16e0I4O5DmwXbA8lbM5ovk/atalad-skickade-hundratals-meddelanden-till-ai-innan-doedskraschen",
-      "guid": "16e0I4O5DmwXbA8lbM5ovk",
-      "published_at": "2026-11-20T21:54:25+01:00",
-      "fetched_at": "2026-11-20T22:01:15+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Inrikes"
-      ],
-      "sv": {
-        "title": "Skickade hundratals meddelanden till AI innan dödskraschen",
-        "summary": "I mitten av september gav sig mannen ut på en vansinnesfärd i centrala Stockholm. Han kraschade i hög hastighet våldsamt in i en bil, som slungades vidare in i flera andra fordon. 57-åriga Lotta Hellstrand satt i den påkörda bilen och dog av sina skador. Hennes son skadades allvarligt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sent hundreds of messages to AI before the fatal crash",
-        "summary": "In mid-September the man set off on a reckless drive in central Stockholm. He crashed violently at high speed into a car, which was sent on into several other vehicles. 57-year-old Lotta Hellstrand was sitting in the hit car and died of her injuries. Her son was seriously injured."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T22:01:22+01:00"
       }
     }
   ]

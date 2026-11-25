@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-25T16:46:01+01:00",
+  "generated_at": "2026-11-25T17:01:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ae9cf5e26176",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Pv9r66/krigets-fasa-syns-i-de-snabba-penseldragen",
+      "guid": "https://www.svd.se/a/Pv9r66/krigets-fasa-syns-i-de-snabba-penseldragen?utm_medium=rss",
+      "published_at": "2026-11-25T17:00:00+01:00",
+      "fetched_at": "2026-11-25T17:01:21+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/017349c8-b1fe-354f-aef6-df24d1478abc?format=auto&s=53e626647e420dd8d5a44c523ddd12aeae6ed882&w=1000",
+      "sv": {
+        "title": "Krigets fasa syns i de snabba penseldragen",
+        "summary": "Den ukrainska konstnären Kateryna Lysovenko fångar människans utsatthet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The horror of war shows in the quick brushstrokes",
+        "summary": "The Ukrainian artist Kateryna Lysovenko captures human vulnerability."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:01:32+01:00"
+      }
+    },
+    {
+      "id": "996ebce83408",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80309",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80309&utm_medium=rss",
+      "published_at": "2026-11-25T16:50:55+01:00",
+      "fetched_at": "2026-11-25T17:01:21+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Högsta elpriset sedan 2022"
+      },
+      "en": {
+        "title": "Highest electricity price since 2022"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:01:32+01:00"
+      }
+    },
     {
       "id": "db6c39d76e97",
       "schema_version": 1,
@@ -5212,56 +5262,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T21:15:49+01:00"
-      }
-    },
-    {
-      "id": "3789d8a6cbb4",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80186",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80186&utm_medium=rss",
-      "published_at": "2026-11-22T15:59:14+01:00",
-      "fetched_at": "2026-11-22T16:01:11+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Siruis slog Djurgården - Hammarby pressat"
-      },
-      "en": {
-        "title": "Sirius beat Djurgården - Hammarby under pressure"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "3adc487acf76",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/OypAPA/kronan-i-fortsatt-kraftgang-mot-usa-dollarn",
-      "guid": "https://www.svd.se/a/OypAPA/kronan-i-fortsatt-kraftgang-mot-usa-dollarn?utm_medium=rss",
-      "published_at": "2026-11-22T15:59:11+01:00",
-      "fetched_at": "2026-11-22T18:01:15+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/6ecc3424-dd6a-3638-953c-005933df2c5e?format=auto&s=f9f950cb722fa39685862aadba7ab64154d98dfe&w=1000",
-      "sv": {
-        "title": "Kronan tappar mot USA-dollarn",
-        "summary": "Den svenska kronan har presterat klart sämst i år mot den amerikanska dollarn av världens mest…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The krona falls against the US dollar",
-        "summary": "The Swedish krona has performed clearly worst this year against the American dollar of the world's most…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T18:01:21+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-25T16:46:01+01:00",
+  "generated_at": "2026-11-25T17:01:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1ef2c91cb0a9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349275",
+      "guid": "rss:sr.se/article/9349275",
+      "published_at": "2026-11-25T16:50:00+01:00",
+      "fetched_at": "2026-11-25T17:01:20+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Oro i Iran för att kriget ska bryta ut igen: ”Folk är trötta”",
+        "summary": "Attackerna mellan USA och Iran har trappats upp. Kuwait och Bahrain har skjutit ned iranska drönare och USA attackerat den iranska ön Qeshm vid Hormuzsundet. Vid gränsen till Irak säger iranier att de är rädda att kriget ska bryta ut igen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Fears in Iran that war will break out again: \"People are tired\"",
+        "summary": "Attacks between the USA and Iran have escalated. Kuwait and Bahrain have shot down Iranian drones, and the USA has attacked the Iranian island of Qeshm by the Strait of Hormuz. At the border with Iraq, Iranians say they are afraid the war will break out again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:01:32+01:00"
+      }
+    },
     {
       "id": "9e49cc85b0d2",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T22:45:51+01:00"
-      }
-    },
-    {
-      "id": "330701ba60c4",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346646",
-      "guid": "rss:sr.se/article/9346646",
-      "published_at": "2026-11-19T21:41:00+01:00",
-      "fetched_at": "2026-11-19T21:45:43+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Sparekonomen: Anthropic kan locka AI-bolag till börsen",
-        "summary": "På torsdagen gjorde AI-bolaget Anthropic premiär på Nasdaqbörsen i New York, och aktien steg kraftigt i den inledande handeln. Carl-Henrik Söderberg, sparekonom på Nordnet, säger att det stora intresset visar hur attraktiv AI-sektorn är.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Savings economist: Anthropic may lure AI companies to the stock market",
-        "summary": "On Thursday, AI company Anthropic made its debut on the Nasdaq exchange in New York, and the share price rose sharply in early trading. Carl-Henrik Söderberg, savings economist at Nordnet, says the strong interest shows how attractive the AI sector is."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T21:45:52+01:00"
       }
     }
   ]

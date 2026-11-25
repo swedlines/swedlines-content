@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-25T16:46:01+01:00",
+  "generated_at": "2026-11-25T17:01:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ae9cf5e26176",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Pv9r66/krigets-fasa-syns-i-de-snabba-penseldragen",
+      "guid": "https://www.svd.se/a/Pv9r66/krigets-fasa-syns-i-de-snabba-penseldragen?utm_medium=rss",
+      "published_at": "2026-11-25T17:00:00+01:00",
+      "fetched_at": "2026-11-25T17:01:21+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/017349c8-b1fe-354f-aef6-df24d1478abc?format=auto&s=53e626647e420dd8d5a44c523ddd12aeae6ed882&w=1000",
+      "sv": {
+        "title": "Krigets fasa syns i de snabba penseldragen",
+        "summary": "Den ukrainska konstnären Kateryna Lysovenko fångar människans utsatthet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The horror of war shows in the quick brushstrokes",
+        "summary": "The Ukrainian artist Kateryna Lysovenko captures human vulnerability."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-25T17:01:32+01:00"
+      }
+    },
     {
       "id": "883ac2239d43",
       "schema_version": 1,
@@ -5688,35 +5715,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T21:31:04+01:00"
-      }
-    },
-    {
-      "id": "d69ff4bd7007",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/79zVyzulSFwP0BSQxV6mJY/idolen-om-moetet-med-aviciis-pappa-fick-en-helt-annan-bild",
-      "guid": "79zVyzulSFwP0BSQxV6mJY",
-      "published_at": "2026-11-21T20:17:13+01:00",
-      "fetched_at": "2026-11-21T20:31:04+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "Idolen om mötet med Aviciis pappa: ”Fick en helt annan bild”",
-        "summary": "Sex idoler återstår och det har blivit dags för Avicii-tema i ”Idol”. För att hitta rätt i det svenska musikundrets låtskatt besökte deltagarna i veckan Avicii Experience i Stockholm där de träffade Tim Berglings pappa Klas Bergling.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Idol contestant on meeting Avicii's father: \"Got a completely different picture\"",
-        "summary": "Six contestants remain and it is time for an Avicii theme in \"Idol\". To find their way through the Swedish music phenomenon's song catalogue, the contestants this week visited the Avicii Experience in Stockholm, where they met Tim Bergling's father Klas Bergling."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T20:31:10+01:00"
       }
     }
   ]
