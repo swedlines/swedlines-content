@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T03:53:05+01:00",
+  "generated_at": "2026-11-26T04:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2499316a5086",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350345",
+      "guid": "rss:sr.se/article/9350345",
+      "published_at": "2026-11-26T04:00:00+01:00",
+      "fetched_at": "2026-11-26T04:01:17+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Kim Jong-Un: Nordkorea behöver fler kärnvapen",
+        "summary": "Nordkorea bör bygga ut sin kärnvapenarsenal ytterligare, anser landets ledare Kim Jong-Un. I ett uttalande, som förmedlas via den statliga nyhetsbyrån KCNA, efterlyser landets diktator fler så kallade taktiska kärnvapen, som har lägre sprängkraft.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Kim Jong-Un: North Korea needs more nuclear weapons",
+        "summary": "North Korea should further expand its nuclear arsenal, believes the country's leader Kim Jong-Un. In a statement conveyed via the state news agency KCNA, the country's dictator calls for more so-called tactical nuclear weapons, which have lower explosive power."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T04:01:24+01:00"
+      }
+    },
     {
       "id": "218604132ce7",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T13:15:53+01:00"
-      }
-    },
-    {
-      "id": "ea632b1695fa",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347049",
-      "guid": "rss:sr.se/article/9347049",
-      "published_at": "2026-11-20T12:33:00+01:00",
-      "fetched_at": "2026-11-20T12:45:42+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Hyresgästföreningen om överhyror bland utsatta: ”Förkastligt”",
-        "summary": "Hyresgästföreningen riktar skarp kritik mot att Stockholms stads bostadsstiftelse SHIS tagit ut oskäligt höga hyror av bland andra flyktingar och människor i social utsatthet. Flera hyresgäster från krigets Ukraina har fått betala tusentals kronor för mycket i månaden.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Tenants' Association on overcharged rents among vulnerable groups: \"Reprehensible\"",
-        "summary": "The Tenants' Association sharply criticises Stockholm city's housing foundation SHIS for charging unreasonably high rents to, among others, refugees and people in social vulnerability. Several tenants from war-torn Ukraine have had to pay thousands of kronor too much per month."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T12:45:49+01:00"
       }
     }
   ]

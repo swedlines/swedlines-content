@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-26T03:53:05+01:00",
+  "generated_at": "2026-11-26T04:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2499316a5086",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350345",
+      "guid": "rss:sr.se/article/9350345",
+      "published_at": "2026-11-26T04:00:00+01:00",
+      "fetched_at": "2026-11-26T04:01:17+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Kim Jong-Un: Nordkorea behöver fler kärnvapen",
+        "summary": "Nordkorea bör bygga ut sin kärnvapenarsenal ytterligare, anser landets ledare Kim Jong-Un. I ett uttalande, som förmedlas via den statliga nyhetsbyrån KCNA, efterlyser landets diktator fler så kallade taktiska kärnvapen, som har lägre sprängkraft.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Kim Jong-Un: North Korea needs more nuclear weapons",
+        "summary": "North Korea should further expand its nuclear arsenal, believes the country's leader Kim Jong-Un. In a statement conveyed via the state news agency KCNA, the country's dictator calls for more so-called tactical nuclear weapons, which have lower explosive power."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T04:01:24+01:00"
+      }
+    },
+    {
+      "id": "b9e6c505a0ac",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/mMRA1L/uppmaningen-till-huvudstaden-stada-gatorna",
+      "guid": "https://www.aftonbladet.se/nyheter/a/mMRA1L/uppmaningen-till-huvudstaden-stada-gatorna?utm_medium=rss",
+      "published_at": "2026-11-26T03:58:10+01:00",
+      "fetched_at": "2026-11-26T04:01:19+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/8d00a13e-1c27-3673-9fda-2cbe85d6578a?format=auto&s=0b28428ab6f384aef11b95dc669ef2a2c1a39d09&w=1000",
+      "sv": {
+        "title": "Uppmaningen till huvudstaden: Städa gatorna",
+        "summary": "Guineas huvudstad Conakry är översköljd av sopor, och nu har regeringen satt ned foten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Call to the capital: Clean up the streets",
+        "summary": "The Guinean capital Conakry is swamped with rubbish, and now the government has taken a firm stance."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T04:01:24+01:00"
+      }
+    },
     {
       "id": "1377d3ccc09c",
       "schema_version": 1,
@@ -5346,58 +5399,6 @@
       "en": {
         "title": "AI worries on the stock markets",
         "summary": "Falling"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T17:01:32+01:00"
-      }
-    },
-    {
-      "id": "1ef2c91cb0a9",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9349275",
-      "guid": "rss:sr.se/article/9349275",
-      "published_at": "2026-11-25T16:50:00+01:00",
-      "fetched_at": "2026-11-25T17:01:20+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Oro i Iran för att kriget ska bryta ut igen: ”Folk är trötta”",
-        "summary": "Attackerna mellan USA och Iran har trappats upp. Kuwait och Bahrain har skjutit ned iranska drönare och USA attackerat den iranska ön Qeshm vid Hormuzsundet. Vid gränsen till Irak säger iranier att de är rädda att kriget ska bryta ut igen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Fears in Iran that war will break out again: \"People are tired\"",
-        "summary": "Attacks between the USA and Iran have escalated. Kuwait and Bahrain have shot down Iranian drones, and the USA has attacked the Iranian island of Qeshm by the Strait of Hormuz. At the border with Iraq, Iranians say they are afraid the war will break out again."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T17:01:32+01:00"
-      }
-    },
-    {
-      "id": "4ff4056480c1",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-i-landala-i-goteborg",
-      "guid": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-i-landala-i-goteborg",
-      "published_at": "2026-11-25T16:45:48+01:00",
-      "fetched_at": "2026-11-25T17:01:19+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Larm om explosion i Landala i Göteborg",
-        "summary": "En misstänkt explosion har inträffat i Landala i Göteborg. Räddninstjänsten uppger för SVT Nyheter Väst att man fått in samtal om att någon hört en hög smäll i området. – Det är lite oklart om något brinner eller har smällt, säger Fredrik Svedemyr, polisens presstalesperson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Alarm over explosion in Landala in Göteborg",
-        "summary": "A suspected explosion has occurred in Landala in Göteborg. The rescue service tells SVT Nyheter Väst that it has received calls about someone hearing a loud bang in the area. – It is somewhat unclear whether anything is burning or has exploded, says Fredrik Svedemyr, the police press spokesperson."
       },
       "translation": {
         "status": "done",

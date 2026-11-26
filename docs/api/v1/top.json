@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T03:53:05+01:00",
+  "generated_at": "2026-11-26T04:01:26+01:00",
   "count": 30,
   "stories": [
     {
@@ -569,6 +569,95 @@
       ]
     },
     {
+      "id": "c4d17e203ac7",
+      "source_count": 4,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "svt",
+        "sr"
+      ],
+      "first_published_at": "2026-11-26T03:38:10+01:00",
+      "last_published_at": "2026-11-26T04:00:00+01:00",
+      "lead": {
+        "id": "c4d17e203ac7",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/Oyp4Q1/nordkorea-producera-mer-karnvapen",
+        "guid": "https://www.aftonbladet.se/nyheter/a/Oyp4Q1/nordkorea-producera-mer-karnvapen?utm_medium=rss",
+        "published_at": "2026-11-26T03:38:10+01:00",
+        "fetched_at": "2026-11-26T03:45:43+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/c000b73d-fae4-37de-8a27-c37b9cca9698?format=auto&s=60336185f75fc2c76667abfaecc9dcafbc463a98&w=1000",
+        "sv": {
+          "title": "Nordkorea: Producera mer kärnvapen",
+          "summary": "Nordkorea bör bygga ut sin kärnvapenarsenal ytterligare, anser landets ledare Kim Jong-Un.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "North Korea: Produce more nuclear weapons",
+          "summary": "North Korea should further expand its nuclear arsenal, says leader Kim Jong-Un."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T03:45:48+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "2499316a5086",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9350345",
+          "published_at": "2026-11-26T04:00:00+01:00",
+          "sv": {
+            "title": "Kim Jong-Un: Nordkorea behöver fler kärnvapen"
+          },
+          "en": {
+            "title": "Kim Jong-Un: North Korea needs more nuclear weapons"
+          }
+        },
+        {
+          "id": "1377d3ccc09c",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/utrikes/nordkorea-producera-mer-karnvapen",
+          "published_at": "2026-11-26T03:40:09+01:00",
+          "sv": {
+            "title": "Nordkorea: Producera mer kärnvapen"
+          },
+          "en": {
+            "title": "North Korea: Produce more nuclear weapons"
+          }
+        },
+        {
+          "id": "d3ff567e10c2",
+          "source": "svd",
+          "url": "https://www.svd.se/a/8Pmn61/nordkorea-producera-mer-karnvapen",
+          "published_at": "2026-11-26T03:38:10+01:00",
+          "sv": {
+            "title": "Nordkorea: Producera mer kärnvapen"
+          },
+          "en": {
+            "title": "North Korea: Produce more nuclear weapons"
+          }
+        },
+        {
+          "id": "c4d17e203ac7",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Oyp4Q1/nordkorea-producera-mer-karnvapen",
+          "published_at": "2026-11-26T03:38:10+01:00",
+          "sv": {
+            "title": "Nordkorea: Producera mer kärnvapen"
+          },
+          "en": {
+            "title": "North Korea: Produce more nuclear weapons"
+          }
+        }
+      ]
+    },
+    {
       "id": "dc217622888a",
       "source_count": 4,
       "sources": [
@@ -765,82 +854,6 @@
           },
           "en": {
             "title": "Accidents with e-scooters continue to rise"
-          }
-        }
-      ]
-    },
-    {
-      "id": "c4d17e203ac7",
-      "source_count": 3,
-      "sources": [
-        "aftonbladet",
-        "svd",
-        "svt"
-      ],
-      "first_published_at": "2026-11-26T03:38:10+01:00",
-      "last_published_at": "2026-11-26T03:40:09+01:00",
-      "lead": {
-        "id": "c4d17e203ac7",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/Oyp4Q1/nordkorea-producera-mer-karnvapen",
-        "guid": "https://www.aftonbladet.se/nyheter/a/Oyp4Q1/nordkorea-producera-mer-karnvapen?utm_medium=rss",
-        "published_at": "2026-11-26T03:38:10+01:00",
-        "fetched_at": "2026-11-26T03:45:43+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/c000b73d-fae4-37de-8a27-c37b9cca9698?format=auto&s=60336185f75fc2c76667abfaecc9dcafbc463a98&w=1000",
-        "sv": {
-          "title": "Nordkorea: Producera mer kärnvapen",
-          "summary": "Nordkorea bör bygga ut sin kärnvapenarsenal ytterligare, anser landets ledare Kim Jong-Un.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "North Korea: Produce more nuclear weapons",
-          "summary": "North Korea should further expand its nuclear arsenal, says leader Kim Jong-Un."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T03:45:48+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "1377d3ccc09c",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/utrikes/nordkorea-producera-mer-karnvapen",
-          "published_at": "2026-11-26T03:40:09+01:00",
-          "sv": {
-            "title": "Nordkorea: Producera mer kärnvapen"
-          },
-          "en": {
-            "title": "North Korea: Produce more nuclear weapons"
-          }
-        },
-        {
-          "id": "d3ff567e10c2",
-          "source": "svd",
-          "url": "https://www.svd.se/a/8Pmn61/nordkorea-producera-mer-karnvapen",
-          "published_at": "2026-11-26T03:38:10+01:00",
-          "sv": {
-            "title": "Nordkorea: Producera mer kärnvapen"
-          },
-          "en": {
-            "title": "North Korea: Produce more nuclear weapons"
-          }
-        },
-        {
-          "id": "c4d17e203ac7",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Oyp4Q1/nordkorea-producera-mer-karnvapen",
-          "published_at": "2026-11-26T03:38:10+01:00",
-          "sv": {
-            "title": "Nordkorea: Producera mer kärnvapen"
-          },
-          "en": {
-            "title": "North Korea: Produce more nuclear weapons"
           }
         }
       ]
