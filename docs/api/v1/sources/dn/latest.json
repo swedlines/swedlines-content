@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T06:01:24+01:00",
+  "generated_at": "2026-11-26T06:04:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "551ab49ea042",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/fiskare-i-sjonod-utanfor-island-stor-insats",
+      "guid": "https://www.dn.se/varlden/fiskare-i-sjonod-utanfor-island-stor-insats/",
+      "published_at": "2026-11-26T06:03:17+01:00",
+      "fetched_at": "2026-11-26T06:04:14+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/b1c5b918-9294-4b64-bced-9459c43c5a5d.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Fiskare i sjönöd utanför Island – stor insats",
+        "summary": "Ett fiskefartyg med en besättning på 17 personer hamnade i sjönöd utanför Islands kust på onsdagen. Efter ett stort räddningspådrag har personer förts i land med helikopter, rapporterar Rúv.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fishermen in distress off Iceland – major rescue effort",
+        "summary": "A fishing vessel with 17 crew members got into distress off Iceland's coast on Wednesday. After a large rescue operation, people have been brought ashore by helicopter, reports Rúv."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:04:21+01:00"
+      }
+    },
     {
       "id": "9070752a0fdb",
       "schema_version": 1,
@@ -5369,33 +5396,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T21:31:06+01:00"
-      }
-    },
-    {
-      "id": "6d075844c775",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/tomas-ramberg-thand-ringqvist-har-nu-bara-obehagliga-alternativ-att-valja-pa",
-      "guid": "https://www.dn.se/sverige/tomas-ramberg-thand-ringqvist-har-nu-bara-obehagliga-alternativ-att-valja-pa/",
-      "published_at": "2026-11-22T21:09:53+01:00",
-      "fetched_at": "2026-11-22T21:15:41+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/3be59fd8-5204-4e6a-bee3-b8bf079f10c6.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Tomas Ramberg: Thand Ringqvist har nu bara obehagliga alternativ att välja på",
-        "summary": "Det öppna ordkriget mellan landets centerpartister tolkas av Vänsterpartiet som att Centern är pressat och skulle skadas mer av att hoppa över till Ulf Kristerssons sida. Krisen inom C stärker V och gör det lättare att nobba söndagens bud från S. MP och C.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Tomas Ramberg: Thand Ringqvist now has only unpleasant options to choose from",
-        "summary": "The open war of words between the party's Centre members is interpreted by the Left Party as meaning that the Centre is under pressure and would be harmed more by jumping over to Ulf Kristersson's side. The crisis within the Centre Party strengthens the Left Party and makes it easier to rebuff Sunday's offer from the Social Democrats and the Green Party (MP) and C."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T21:15:49+01:00"
       }
     }
   ]

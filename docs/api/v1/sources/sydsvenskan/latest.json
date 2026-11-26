@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T06:01:24+01:00",
+  "generated_at": "2026-11-26T06:04:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3c74f7ebc4d8",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/fiskare-i-sjonod-utanfor-island-stor-insats",
+      "guid": "2fb529a3-07b3-40e8-a9fc-1f64cba07641",
+      "published_at": "2026-11-26T06:03:13+01:00",
+      "fetched_at": "2026-11-26T06:04:17+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fiskare i sjönöd utanför Island – stor insats",
+        "summary": "Ett fiskefartyg med en besättning på 17 personer hamnade i sjönöd utanför Islands kust på onsdagen. Efter ett stort räddningspådrag har personer förts i land med helikopter, rapporterar Rúv.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fishermen in distress off Iceland – major rescue effort",
+        "summary": "A fishing vessel with 17 crew members got into distress off Iceland's coast on Wednesday. After a large rescue operation, people have been brought ashore by helicopter, reports Rúv."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:04:21+01:00"
+      }
+    },
     {
       "id": "79381eee211c",
       "schema_version": 1,
@@ -5166,33 +5192,6 @@
       "en": {
         "title": "Reader's question: My boyfriend trusts ChatGPT more than my advice – what do I do?",
         "summary": "Her boyfriend likes the AI advice more than his girlfriend's. His dependence on his chatbot is damaging the relationship. What should she do?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T11:31:07+01:00"
-      }
-    },
-    {
-      "id": "24dc15501a04",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/kaxiga-crux-forsokte-snala-fc-rosengard-kvar-i-damallsvenskan",
-      "guid": "0d867f0b-c298-46eb-a662-d0770037ba64",
-      "published_at": "2026-11-23T11:27:34+01:00",
-      "fetched_at": "2026-11-23T11:31:02+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/a4b18527-68d4-46de-8780-8dcd2bae272c.jpeg?width=600",
-      "sv": {
-        "title": "Kaxiga Crux försökte snåla FC Rosengård kvar i damallsvenskan",
-        "summary": "Aldrig tidigare har ett lag som vunnit SM-guld åkt ur damallsvenskan två säsonger senare. Aldrig tidigare har ett allsvenskt lag förlorat ett kval mot en klubb från elitettan. Nu har det hänt. Fast det borde inte ha hänt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kaxiga Crux tried to squeeze FC Rosengård out of the women's Allsvenskan",
-        "summary": "Never before has a team that won the Swedish championship been relegated from the women's Allsvenskan two seasons later. Never before has an Allsvenskan team lost a play-off to a club from the Elitettan. Now it has happened. Though it shouldn't have happened."
       },
       "translation": {
         "status": "done",

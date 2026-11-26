@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T06:01:24+01:00",
-  "count": 28,
+  "generated_at": "2026-11-26T06:04:24+01:00",
+  "count": 29,
   "stories": [
     {
       "id": "adfcf6526c82",
@@ -355,6 +355,132 @@
       ]
     },
     {
+      "id": "bca5b56324c1",
+      "source_count": 6,
+      "sources": [
+        "expressen",
+        "svd",
+        "aftonbladet",
+        "dn",
+        "sr",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-25T23:24:36+01:00",
+      "last_published_at": "2026-11-26T06:03:17+01:00",
+      "lead": {
+        "id": "bca5b56324c1",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a5396002-d2db-4b18-83be-5b18cab8b81e",
+        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a5396002-d2db-4b18-83be-5b18cab8b81e",
+        "published_at": "2026-11-25T23:24:36+01:00",
+        "fetched_at": "2026-11-25T23:31:13+01:00",
+        "category": "world",
+        "sv": {
+          "title": "17 sjömän i vattnet utanför Island",
+          "summary": "Fiskefartyg har sjunkit utanför Island",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "17 sailors in the water off Iceland",
+          "summary": "A fishing vessel has sunk off Iceland"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T23:31:18+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "551ab49ea042",
+          "source": "dn",
+          "url": "https://www.dn.se/varlden/fiskare-i-sjonod-utanfor-island-stor-insats",
+          "published_at": "2026-11-26T06:03:17+01:00",
+          "sv": {
+            "title": "Fiskare i sjönöd utanför Island – stor insats"
+          },
+          "en": {
+            "title": "Fishermen in distress off Iceland – major rescue effort"
+          }
+        },
+        {
+          "id": "3c74f7ebc4d8",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/fiskare-i-sjonod-utanfor-island-stor-insats",
+          "published_at": "2026-11-26T06:03:13+01:00",
+          "sv": {
+            "title": "Fiskare i sjönöd utanför Island – stor insats"
+          },
+          "en": {
+            "title": "Fishermen in distress off Iceland – major rescue effort"
+          }
+        },
+        {
+          "id": "8e04e582feb0",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9350341",
+          "published_at": "2026-11-26T01:11:00+01:00",
+          "sv": {
+            "title": "Sjödrama utanför Island – 17 personer hamnade i vattnet"
+          },
+          "en": {
+            "title": "Sea drama off Iceland – 17 people end up in the water"
+          }
+        },
+        {
+          "id": "f36566d05e44",
+          "source": "dn",
+          "url": "https://www.dn.se/varlden/fartyg-i-sjonod-utanfor-island",
+          "published_at": "2026-11-26T01:09:28+01:00",
+          "sv": {
+            "title": "Fartyg i sjönöd utanför Island"
+          },
+          "en": {
+            "title": "Vessel in distress off Iceland"
+          }
+        },
+        {
+          "id": "99dccf4fda2e",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/JnozPb/fartyg-i-sjonod-utanfor-island",
+          "published_at": "2026-11-26T00:47:27+01:00",
+          "sv": {
+            "title": "Fartyg i sjönöd utanför Island"
+          },
+          "en": {
+            "title": "Fishing vessel in distress off Iceland"
+          }
+        },
+        {
+          "id": "47c252ba4fb5",
+          "source": "svd",
+          "url": "https://www.svd.se/a/z0GnRO/fartyg-i-sjonod-utanfor-island",
+          "published_at": "2026-11-26T00:47:27+01:00",
+          "sv": {
+            "title": "Fartyg i sjönöd utanför Island"
+          },
+          "en": {
+            "title": "Fishing vessel in distress off Iceland"
+          }
+        },
+        {
+          "id": "bca5b56324c1",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a5396002-d2db-4b18-83be-5b18cab8b81e",
+          "published_at": "2026-11-25T23:24:36+01:00",
+          "sv": {
+            "title": "17 sjömän i vattnet utanför Island"
+          },
+          "en": {
+            "title": "17 sailors in the water off Iceland"
+          }
+        }
+      ]
+    },
+    {
       "id": "c4d17e203ac7",
       "source_count": 5,
       "sources": [
@@ -452,107 +578,6 @@
           },
           "en": {
             "title": "North Korea: Produce more nuclear weapons"
-          }
-        }
-      ]
-    },
-    {
-      "id": "bca5b56324c1",
-      "source_count": 5,
-      "sources": [
-        "expressen",
-        "svd",
-        "aftonbladet",
-        "dn",
-        "sr"
-      ],
-      "first_published_at": "2026-11-25T23:24:36+01:00",
-      "last_published_at": "2026-11-26T01:11:00+01:00",
-      "lead": {
-        "id": "bca5b56324c1",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a5396002-d2db-4b18-83be-5b18cab8b81e",
-        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a5396002-d2db-4b18-83be-5b18cab8b81e",
-        "published_at": "2026-11-25T23:24:36+01:00",
-        "fetched_at": "2026-11-25T23:31:13+01:00",
-        "category": "world",
-        "sv": {
-          "title": "17 sjömän i vattnet utanför Island",
-          "summary": "Fiskefartyg har sjunkit utanför Island",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "17 sailors in the water off Iceland",
-          "summary": "A fishing vessel has sunk off Iceland"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T23:31:18+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "8e04e582feb0",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9350341",
-          "published_at": "2026-11-26T01:11:00+01:00",
-          "sv": {
-            "title": "Sjödrama utanför Island – 17 personer hamnade i vattnet"
-          },
-          "en": {
-            "title": "Sea drama off Iceland – 17 people end up in the water"
-          }
-        },
-        {
-          "id": "f36566d05e44",
-          "source": "dn",
-          "url": "https://www.dn.se/varlden/fartyg-i-sjonod-utanfor-island",
-          "published_at": "2026-11-26T01:09:28+01:00",
-          "sv": {
-            "title": "Fartyg i sjönöd utanför Island"
-          },
-          "en": {
-            "title": "Vessel in distress off Iceland"
-          }
-        },
-        {
-          "id": "99dccf4fda2e",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/JnozPb/fartyg-i-sjonod-utanfor-island",
-          "published_at": "2026-11-26T00:47:27+01:00",
-          "sv": {
-            "title": "Fartyg i sjönöd utanför Island"
-          },
-          "en": {
-            "title": "Fishing vessel in distress off Iceland"
-          }
-        },
-        {
-          "id": "47c252ba4fb5",
-          "source": "svd",
-          "url": "https://www.svd.se/a/z0GnRO/fartyg-i-sjonod-utanfor-island",
-          "published_at": "2026-11-26T00:47:27+01:00",
-          "sv": {
-            "title": "Fartyg i sjönöd utanför Island"
-          },
-          "en": {
-            "title": "Fishing vessel in distress off Iceland"
-          }
-        },
-        {
-          "id": "bca5b56324c1",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a5396002-d2db-4b18-83be-5b18cab8b81e",
-          "published_at": "2026-11-25T23:24:36+01:00",
-          "sv": {
-            "title": "17 sjömän i vattnet utanför Island"
-          },
-          "en": {
-            "title": "17 sailors in the water off Iceland"
           }
         }
       ]
@@ -855,6 +880,82 @@
           },
           "en": {
             "title": "Accidents with e-scooters continue to rise"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d13121388d5d",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "di"
+      ],
+      "first_published_at": "2026-11-26T05:45:12+01:00",
+      "last_published_at": "2026-11-26T05:59:16+01:00",
+      "lead": {
+        "id": "d13121388d5d",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/wdPa3L/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu",
+        "guid": "https://www.aftonbladet.se/nyheter/a/wdPa3L/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu?utm_medium=rss",
+        "published_at": "2026-11-26T05:45:12+01:00",
+        "fetched_at": "2026-11-26T06:01:13+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/ae13ed26-98f6-3cb4-a17c-e1007fa4ec09?format=auto&s=25dbbb1731bda2b48c7aaa8404522095ee608bd9&w=1000",
+        "sv": {
+          "title": "Väntad högergir i Spanien – allt färre S-ledare i EU",
+          "summary": "Ytterhögern har fler ledare vid bordet än socialdemokraterna när EU-länderna håller ännu ett…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Expected right-wing shift in Spain – fewer S leaders in the EU",
+          "summary": "The far right has more leaders at the table than the Social Democrats when EU countries hold yet another…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T06:01:21+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "100eacfab290",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu",
+          "published_at": "2026-11-26T05:59:16+01:00",
+          "sv": {
+            "title": "Väntad högergir i Spanien – allt färre S-ledare i EU"
+          },
+          "en": {
+            "title": "Expected right-wing shift in Spain – fewer Social Democrat leaders in the EU"
+          }
+        },
+        {
+          "id": "7f2efb838a6c",
+          "source": "svd",
+          "url": "https://www.svd.se/a/KL3or7/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu",
+          "published_at": "2026-11-26T05:45:13+01:00",
+          "sv": {
+            "title": "Väntad högergir i Spanien – allt färre S-ledare i EU"
+          },
+          "en": {
+            "title": "Expected right-wing shift in Spain – fewer S leaders in the EU"
+          }
+        },
+        {
+          "id": "d13121388d5d",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/wdPa3L/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu",
+          "published_at": "2026-11-26T05:45:12+01:00",
+          "sv": {
+            "title": "Väntad högergir i Spanien – allt färre S-ledare i EU"
+          },
+          "en": {
+            "title": "Expected right-wing shift in Spain – fewer S leaders in the EU"
           }
         }
       ]
@@ -1171,32 +1272,32 @@
       ]
     },
     {
-      "id": "d13121388d5d",
+      "id": "30d3b35bf272",
       "source_count": 2,
       "sources": [
         "aftonbladet",
         "svd"
       ],
-      "first_published_at": "2026-11-26T05:45:12+01:00",
-      "last_published_at": "2026-11-26T05:45:13+01:00",
+      "first_published_at": "2026-11-26T06:00:11+01:00",
+      "last_published_at": "2026-11-26T06:00:12+01:00",
       "lead": {
-        "id": "d13121388d5d",
+        "id": "30d3b35bf272",
         "schema_version": 1,
         "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/wdPa3L/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu",
-        "guid": "https://www.aftonbladet.se/nyheter/a/wdPa3L/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu?utm_medium=rss",
-        "published_at": "2026-11-26T05:45:12+01:00",
+        "url": "https://www.aftonbladet.se/nyheter/a/z0Ga0w/forskare-regeringskaoset-tar-pa-fortroendet",
+        "guid": "https://www.aftonbladet.se/nyheter/a/z0Ga0w/forskare-regeringskaoset-tar-pa-fortroendet?utm_medium=rss",
+        "published_at": "2026-11-26T06:00:11+01:00",
         "fetched_at": "2026-11-26T06:01:13+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/ae13ed26-98f6-3cb4-a17c-e1007fa4ec09?format=auto&s=25dbbb1731bda2b48c7aaa8404522095ee608bd9&w=1000",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/5aef7f42-b2bb-3bcc-8d31-ff5216b5b777?format=auto&s=468d7dfc7f45613cf67897d993198ac47bb4dc69&w=1000",
         "sv": {
-          "title": "Väntad högergir i Spanien – allt färre S-ledare i EU",
-          "summary": "Ytterhögern har fler ledare vid bordet än socialdemokraterna när EU-länderna håller ännu ett…",
+          "title": "Forskare: Regeringskaoset tär på förtroendet",
+          "summary": "Den utdragna regeringsbildningen skadar förtroendet för politikerna – och på sikt kanske även…",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Expected right-wing shift in Spain – fewer S leaders in the EU",
-          "summary": "The far right has more leaders at the table than the Social Democrats when EU countries hold yet another…"
+          "title": "Researcher: Government chaos erodes trust",
+          "summary": "The protracted government formation is damaging trust in politicians – and in time may also damage trust in"
         },
         "translation": {
           "status": "done",
@@ -1208,27 +1309,27 @@
       },
       "items": [
         {
-          "id": "7f2efb838a6c",
+          "id": "d9d8d3c482ff",
           "source": "svd",
-          "url": "https://www.svd.se/a/KL3or7/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu",
-          "published_at": "2026-11-26T05:45:13+01:00",
+          "url": "https://www.svd.se/a/wdPadL/forskare-regeringskaoset-tar-pa-fortroendet",
+          "published_at": "2026-11-26T06:00:12+01:00",
           "sv": {
-            "title": "Väntad högergir i Spanien – allt färre S-ledare i EU"
+            "title": "Forskare: Regeringskaoset tär på förtroendet"
           },
           "en": {
-            "title": "Expected right-wing shift in Spain – fewer S leaders in the EU"
+            "title": "Researcher: Government chaos erodes trust"
           }
         },
         {
-          "id": "d13121388d5d",
+          "id": "30d3b35bf272",
           "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/wdPa3L/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu",
-          "published_at": "2026-11-26T05:45:12+01:00",
+          "url": "https://www.aftonbladet.se/nyheter/a/z0Ga0w/forskare-regeringskaoset-tar-pa-fortroendet",
+          "published_at": "2026-11-26T06:00:11+01:00",
           "sv": {
-            "title": "Väntad högergir i Spanien – allt färre S-ledare i EU"
+            "title": "Forskare: Regeringskaoset tär på förtroendet"
           },
           "en": {
-            "title": "Expected right-wing shift in Spain – fewer S leaders in the EU"
+            "title": "Researcher: Government chaos erodes trust"
           }
         }
       ]

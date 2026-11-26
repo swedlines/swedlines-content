@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-26T06:01:24+01:00",
+  "generated_at": "2026-11-26T06:04:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "551ab49ea042",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/fiskare-i-sjonod-utanfor-island-stor-insats",
+      "guid": "https://www.dn.se/varlden/fiskare-i-sjonod-utanfor-island-stor-insats/",
+      "published_at": "2026-11-26T06:03:17+01:00",
+      "fetched_at": "2026-11-26T06:04:14+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/b1c5b918-9294-4b64-bced-9459c43c5a5d.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Fiskare i sjönöd utanför Island – stor insats",
+        "summary": "Ett fiskefartyg med en besättning på 17 personer hamnade i sjönöd utanför Islands kust på onsdagen. Efter ett stort räddningspådrag har personer förts i land med helikopter, rapporterar Rúv.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fishermen in distress off Iceland – major rescue effort",
+        "summary": "A fishing vessel with 17 crew members got into distress off Iceland's coast on Wednesday. After a large rescue operation, people have been brought ashore by helicopter, reports Rúv."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:04:21+01:00"
+      }
+    },
+    {
+      "id": "3c74f7ebc4d8",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/fiskare-i-sjonod-utanfor-island-stor-insats",
+      "guid": "2fb529a3-07b3-40e8-a9fc-1f64cba07641",
+      "published_at": "2026-11-26T06:03:13+01:00",
+      "fetched_at": "2026-11-26T06:04:17+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fiskare i sjönöd utanför Island – stor insats",
+        "summary": "Ett fiskefartyg med en besättning på 17 personer hamnade i sjönöd utanför Islands kust på onsdagen. Efter ett stort räddningspådrag har personer förts i land med helikopter, rapporterar Rúv.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fishermen in distress off Iceland – major rescue effort",
+        "summary": "A fishing vessel with 17 crew members got into distress off Iceland's coast on Wednesday. After a large rescue operation, people have been brought ashore by helicopter, reports Rúv."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:04:21+01:00"
+      }
+    },
     {
       "id": "302971c6c130",
       "schema_version": 1,
@@ -5294,58 +5347,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T00:52:58+01:00"
-      }
-    },
-    {
-      "id": "926ab31e92e2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/3BJGoM/sydkorea-krankning-av-luftrum",
-      "guid": "https://www.aftonbladet.se/nyheter/a/3BJGoM/sydkorea-krankning-av-luftrum?utm_medium=rss",
-      "published_at": "2026-11-24T00:36:21+01:00",
-      "fetched_at": "2026-11-24T00:45:48+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Sydkorea: Nordkorea tros ha kränkt luftrum",
-        "summary": "Ett misstänkt nordkoreanskt flygplan har tagit sig in i det sydkoreanska luftrummet, uppger Sydkorea…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "South Korea: North Korea believed to have violated airspace",
-        "summary": "A suspected North Korean aircraft has entered South Korean airspace, South Korea says…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T00:45:56+01:00"
-      }
-    },
-    {
-      "id": "f715b4702273",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/j3deg0/sydkorea-krankning-av-luftrum",
-      "guid": "https://www.svd.se/a/j3deg0/sydkorea-krankning-av-luftrum?utm_medium=rss",
-      "published_at": "2026-11-24T00:36:21+01:00",
-      "fetched_at": "2026-11-24T00:45:47+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Sydkorea: Kränkning av luftrum",
-        "summary": "Sydkorea uppger att ett misstänkt nordkoreanskt flygplan har tagit sig in i det sydkoreanska…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "South Korea: Airspace violation",
-        "summary": "South Korea says a suspected North Korean aircraft has entered South Korean…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T00:45:56+01:00"
       }
     }
   ]

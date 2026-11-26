@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-26T06:01:24+01:00",
+  "generated_at": "2026-11-26T06:04:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6a2c3ba2f047",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/rekordhog-risk-for-besvikelse",
+      "guid": "3dc9e313-e1d1-4ba2-908b-fcaa01da22c3",
+      "published_at": "2026-11-26T05:59:39+01:00",
+      "fetched_at": "2026-11-26T06:04:16+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/7e2b4c66-85e7-4d39-a5fd-d6137f6e3f49.jpeg?width=600",
+      "sv": {
+        "title": "Rekordhög risk för besvikelse",
+        "summary": "Investors historiska svit fortsätter och dess nästa ”ten bagger” står för dörren. Men familjen Wallenbergs aktie befinner sig på otrampad mark som kräver mycket optimistiska antaganden och dess ”svarta låda” är nu väldigt liten. Folkaktien har aldrig lockat så här lite till köp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Record-high risk of disappointment",
+        "summary": "Investor's historic run continues and its next \"ten bagger\" is right around the corner. But the Wallenberg family's share is on untrodden ground that requires very optimistic assumptions, and its \"black box\" is now very small. The people's stock has never attracted so few buyers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:04:21+01:00"
+      }
+    },
+    {
+      "id": "100eacfab290",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu",
+      "guid": "6c03a74f-38ea-40bc-8afe-a5a7d3005894",
+      "published_at": "2026-11-26T05:59:16+01:00",
+      "fetched_at": "2026-11-26T06:04:16+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/596d632e-b3a0-46f5-b77c-5edac25403f8.jpg?width=600",
+      "sv": {
+        "title": "Väntad högergir i Spanien – allt färre S-ledare i EU",
+        "summary": "Ytterhögern har fler ledare vid bordet än socialdemokraterna när EU-länderna håller ännu ett toppmöte. I helgen kan Spaniens Pedro Sánchez bli nästa S-ledare att väljas bort.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expected right-wing shift in Spain – fewer Social Democrat leaders in the EU",
+        "summary": "The far right has more leaders at the table than the Social Democrats when EU countries hold yet another summit. This weekend Spain's Pedro Sánchez could become the next Social Democrat leader to be voted out."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:04:21+01:00"
+      }
+    },
     {
       "id": "480bd3211b72",
       "schema_version": 1,
@@ -5277,59 +5331,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "5387efdbf4f7",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/bolag-kraver-northvolts-konkursbo-pa-180-miljoner",
-      "guid": "2673b259-3fab-4bb2-933b-3ecda267addf",
-      "published_at": "2026-11-24T16:37:30+01:00",
-      "fetched_at": "2026-11-24T16:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7643cbf5-e4a3-4a47-9af7-68e06ae2ff5d.jpeg?width=600",
-      "sv": {
-        "title": "Bolag kräver Northvolts konkursbo på 180 miljoner",
-        "summary": "Obetalda räkningar för transporter från Asien och Europa till Skellefteå får nu finländska Deugro att kräva drygt 180 miljoner kronor ur Northvolts konkursbo.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Company demands SEK 180 million from Northvolt's bankruptcy estate",
-        "summary": "Unpaid invoices for transport from Asia and Europe to Skellefteå now lead Finnish Deugro to demand just over SEK 180 million from Northvolt's bankruptcy estate."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "62b2ca9082e9",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/rantorna-sjonk-oljepriset-steg",
-      "guid": "ead6f145-892d-4f8a-b94e-ef76165beb51",
-      "published_at": "2026-11-24T16:30:46+01:00",
-      "fetched_at": "2026-11-24T16:40:43+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Räntorna sjönk – oljepriset steg",
-        "summary": "Räntorna sjönk i såväl Europa som USA på tisdagen, medan USA-börsernas eufori från måndagen ebbade ut. Olja och naturgas steg åter, medan dollarn tappade.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Interest rates fall – oil price rises",
-        "summary": "Interest rates fell in both Europe and the US on Tuesday, while the euphoria on US stock exchanges from Monday faded. Oil and natural gas rose again, while the dollar lost ground."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:40:52+01:00"
       }
     }
   ]
