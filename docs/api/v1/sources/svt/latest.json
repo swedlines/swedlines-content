@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T17:31:17+01:00",
+  "generated_at": "2026-11-26T17:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f6a7012c3965",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/stopp-i-tagtrafiken-mellan-malmo-och-kopenhamn",
+      "guid": "https://www.svt.se/nyheter/lokalt/skane/stopp-i-tagtrafiken-mellan-malmo-och-kopenhamn",
+      "published_at": "2026-11-26T17:44:54+01:00",
+      "fetched_at": "2026-11-26T17:45:43+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Stopp i tågtrafiken mellan Malmö och Köpenhamn",
+        "summary": "Det är stopp i tågtrafiken mellan Malmö och Köpenhamn. Enligt Skånetrafiken beror det på ett elfel. – Det är problem med strömmen från den danska sidan, säger Karl Buhre, Skånetrafikens operativa ledare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Train traffic stopped between Malmö and Copenhagen",
+        "summary": "Train traffic between Malmö and Copenhagen is stopped. According to Skånetrafiken, the cause is an electrical fault. – There are problems with the power from the Danish side, says Karl Buhre, operations manager at Skånetrafiken."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:45:53+01:00"
+      }
+    },
     {
       "id": "1c53b69253e4",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T17:01:20+01:00"
-      }
-    },
-    {
-      "id": "d8a2d033f0ef",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/robotar-kampade-mot-varandra-pa-linkopings-universitet",
-      "guid": "https://www.svt.se/nyheter/lokalt/ost/robotar-kampade-mot-varandra-pa-linkopings-universitet",
-      "published_at": "2026-11-21T16:35:35+01:00",
-      "fetched_at": "2026-11-21T16:45:41+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Robotar kämpade mot varandra på Linköpings universitet",
-        "summary": "Under lördagen avgjordes årets Battle Bots Sweden i A-huset på Linköpings universitet. Små robotar kämpade mot varandra i matcher som avgörs på tre minuter eller knockout.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Robots fought each other at Linköping University",
-        "summary": "On Saturday, this year's Battle Bots Sweden was decided in the A-building at Linköping University. Small robots fought each other in matches decided after three minutes or by knockout."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T16:45:50+01:00"
       }
     }
   ]

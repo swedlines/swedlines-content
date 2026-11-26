@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T17:31:17+01:00",
+  "generated_at": "2026-11-26T17:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f6a7012c3965",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/stopp-i-tagtrafiken-mellan-malmo-och-kopenhamn",
+      "guid": "https://www.svt.se/nyheter/lokalt/skane/stopp-i-tagtrafiken-mellan-malmo-och-kopenhamn",
+      "published_at": "2026-11-26T17:44:54+01:00",
+      "fetched_at": "2026-11-26T17:45:43+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Stopp i tågtrafiken mellan Malmö och Köpenhamn",
+        "summary": "Det är stopp i tågtrafiken mellan Malmö och Köpenhamn. Enligt Skånetrafiken beror det på ett elfel. – Det är problem med strömmen från den danska sidan, säger Karl Buhre, Skånetrafikens operativa ledare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Train traffic stopped between Malmö and Copenhagen",
+        "summary": "Train traffic between Malmö and Copenhagen is stopped. According to Skånetrafiken, the cause is an electrical fault. – There are problems with the power from the Danish side, says Karl Buhre, operations manager at Skånetrafiken."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:45:53+01:00"
+      }
+    },
     {
       "id": "1afea5907c70",
       "schema_version": 1,
@@ -5449,40 +5475,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T08:31:18+01:00"
-      }
-    },
-    {
-      "id": "018ae874e797",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/debatt/oacceptabelt-att-konflikthantering-inte-lars-ut-pa-pa-lararutbildningen.5cba0572-86c6-5c16-ac8d-8fe15a15d1e2",
-      "guid": "5cba0572-86c6-5c16-ac8d-8fe15a15d1e2",
-      "published_at": "2026-11-23T05:00:00+01:00",
-      "fetched_at": "2026-11-23T06:56:02+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Debatt",
-        "Tagg: Skola",
-        "Tagg: Utbildning",
-        "Tagg: Lärare",
-        "Tagg: Barnuppfostran"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/251bc522-88ab-3ce1-b270-833af42d1816",
-      "sv": {
-        "title": "Oacceptabelt att konflikthantering inte lärs ut på på lärarutbildningen",
-        "summary": "För att kunna tillämpa sanktioner krävs det mer professionell kompetens, givet att målet är att främst öka trygghet, och inte enbart att signalera handlingskraft, skriver Ekaterina Ivanova.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unacceptable that conflict management is not taught in teacher training",
-        "summary": "To apply sanctions, more professional competence is required, given that the goal is primarily to increase safety and not merely to signal decisiveness, writes Ekaterina Ivanova."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:48+01:00"
       }
     }
   ]

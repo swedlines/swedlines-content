@@ -1,7 +1,241 @@
 {
-  "generated_at": "2026-11-26T17:31:17+01:00",
-  "count": 513,
+  "generated_at": "2026-11-26T17:45:57+01:00",
+  "count": 522,
   "items": [
+    {
+      "id": "f6a7012c3965",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/stopp-i-tagtrafiken-mellan-malmo-och-kopenhamn",
+      "guid": "https://www.svt.se/nyheter/lokalt/skane/stopp-i-tagtrafiken-mellan-malmo-och-kopenhamn",
+      "published_at": "2026-11-26T17:44:54+01:00",
+      "fetched_at": "2026-11-26T17:45:43+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Stopp i tågtrafiken mellan Malmö och Köpenhamn",
+        "summary": "Det är stopp i tågtrafiken mellan Malmö och Köpenhamn. Enligt Skånetrafiken beror det på ett elfel. – Det är problem med strömmen från den danska sidan, säger Karl Buhre, Skånetrafikens operativa ledare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Train traffic stopped between Malmö and Copenhagen",
+        "summary": "Train traffic between Malmö and Copenhagen is stopped. According to Skånetrafiken, the cause is an electrical fault. – There are problems with the power from the Danish side, says Karl Buhre, operations manager at Skånetrafiken."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:45:53+01:00"
+      }
+    },
+    {
+      "id": "6871a3e4db45",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/har-ar-veckans-basta-streamingtips-fcBx1",
+      "guid": "070d9a06-d274-48c1-ba90-adb585ebc48b",
+      "published_at": "2026-11-26T17:43:35+01:00",
+      "fetched_at": "2026-11-26T17:45:48+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/66582d99-1b9d-4a01-93ef-f1dfb308c754.png?width=600",
+      "sv": {
+        "title": "Här är veckans bästa streamingtips!",
+        "summary": "Svenskarna på Mallorca kommer tillbaka i Felix Herngrens serie · Bill Skarsgård spelar marinkårssoldat · ”Blade runner” blir serie",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here are this week's best streaming tips!",
+        "summary": "The Swedes on Mallorca return in Felix Herngren's series · Bill Skarsgård plays a marine · \"Blade Runner\" becomes a series"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:45:53+01:00"
+      }
+    },
+    {
+      "id": "d7de9076e1e7",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/gladjeskutt-pa-borsen-fastighetsbolag-gick-starkt",
+      "guid": "8b50212b-658e-40d8-8a5b-94ae1b50743a",
+      "published_at": "2026-11-26T17:42:57+01:00",
+      "fetched_at": "2026-11-26T17:45:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c10f0a5f-e40d-4080-86cf-a76c9a92348b.jpeg?width=600",
+      "sv": {
+        "title": "Glädjeskutt på börsen – fastighetsbolag gick starkt",
+        "summary": "Stockholmsbörsen studsade upp kraftigt med ett nära helgrönt OMXS30, efter den senaste tidens AI-frossa. ”De europeiska marknaderna försöker återhämta sig”, säger Capital.com-analytikern Daniela Hathorn till CNBC.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stocks jump – property companies strong",
+        "summary": "The Stockholm Stock Exchange rebounded sharply, with the OMXS30 nearly flat, after recent AI jitters. \"The European markets are trying to recover,\" says Capital.com analyst Daniela Hathorn to CNBC."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:45:53+01:00"
+      }
+    },
+    {
+      "id": "29beacb5b107",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/locket-pa-efter-plotsliga-avhoppen-ganska-oseriost",
+      "guid": "743b1bcc-772c-406f-b691-bd8d84433be6",
+      "published_at": "2026-11-26T17:40:01+01:00",
+      "fetched_at": "2026-11-26T17:45:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/cc2bb7af-bfb0-47af-b713-26b49ae73f27.jpeg?width=600",
+      "sv": {
+        "title": "Locket på efter plötsliga avhoppen: ”Ganska oseriöst”",
+        "summary": "Samtliga parter duckar frågor gällande de plötsliga avhoppen från kraschade Cerenos styrelse. Di har sökt ledningen, bolagets tidigare ordförande samt den avhoppade styrelseledamoten.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Silence after sudden resignations: \"Quite unserious\"",
+        "summary": "All parties are ducking questions about the sudden resignations from the board of the collapsed Cereno. They have contacted the management, the company's former chair and the resigned board member."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:45:53+01:00"
+      }
+    },
+    {
+      "id": "288df1ba0df6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nordenborser-steg-rekyl-i-nokia",
+      "guid": "a750a6eb-532a-49a2-93a6-b6a9474aaa70",
+      "published_at": "2026-11-26T17:39:13+01:00",
+      "fetched_at": "2026-11-26T17:45:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nordenbörser steg – rekyl i Nokia",
+        "summary": "De nordiska börserna avancerade på bred front under torsdagen. Det regionala samlingsindexet Vinx 30 höjdes 2,3 procent till 1.497.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nordic stocks rise – Nokia recoils",
+        "summary": "The Nordic stock markets advanced broadly on Thursday. The regional composite index Vinx 30 rose 2.3 percent to 1,497."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:45:53+01:00"
+      }
+    },
+    {
+      "id": "78470eb171f5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/hansa-biopharma-soker-om-standardgodkannande-i-eu",
+      "guid": "498403c7-ad72-4632-aed4-8be6ef6c7a5b",
+      "published_at": "2026-11-26T17:37:40+01:00",
+      "fetched_at": "2026-11-26T17:45:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Hansa Biopharma söker om standardgodkännande i EU",
+        "summary": "Serb Pharmaceuticals har tillsammans med specialistläkemedelsbolaget Hansa Biopharma inlämnat en ansökan till den europeiska läkemedelsmyndigheten EMA om en övergång till standardgodkännande för läkemedlet Idefirix, vid desensitisering inför njurtransplantationer, i EU.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hansa Biopharma applies for standard approval in the EU",
+        "summary": "Serb Pharmaceuticals, together with specialty pharmaceutical company Hansa Biopharma, has submitted an application to the European Medicines Agency (EMA) for a switch to standard approval for the drug Idefirix, used for desensitisation before kidney transplants, in the EU."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:45:53+01:00"
+      }
+    },
+    {
+      "id": "053a71f2cc00",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/uppat-i-europa-forsvarsbolag-vinnare",
+      "guid": "ddff9f46-14b4-49d1-a7d7-713ef951fdb4",
+      "published_at": "2026-11-26T17:37:22+01:00",
+      "fetched_at": "2026-11-26T17:45:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Uppåt i Europa – försvarsbolag vinnare",
+        "summary": "Europabörserna handlades brett uppåt på torsdagen och regionens samlingsindex Stoxx 600 var upp 1,8 procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Up in Europe – defence companies winners",
+        "summary": "European stock markets traded broadly higher on Thursday, and the regional composite index Stoxx 600 was up 1.8 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:45:53+01:00"
+      }
+    },
+    {
+      "id": "7969ae2e7bc0",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/live-centerpartiet-haller-presskonferens-i-riksdagen",
+      "guid": "1f73bfba-a098-5fcc-aef6-d99ad19a70c1",
+      "published_at": "2026-11-26T17:35:00+01:00",
+      "fetched_at": "2026-11-26T17:45:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "LIVE: Centerpartiet håller presskonferens i riksdagen"
+      },
+      "en": {
+        "title": "LIVE: Centre Party holds press conference in the Riksdag"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:45:53+01:00"
+      }
+    },
+    {
+      "id": "0b9fd1570f21",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/centerpartiet-har-presstraff-efter-odesmotet-",
+      "guid": "https://www.expressen.se/nyheter/politik/centerpartiet-har-presstraff-efter-odesmotet-/",
+      "published_at": "2026-11-26T17:33:56+01:00",
+      "fetched_at": "2026-11-26T17:45:45+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Centerpartiet har pressträff – efter ödesmötet",
+        "summary": "Centerpartiets riksdagsgrupp och partistyrelse har haft ett flera timmar långt möte om vägvalet i regeringsfrågan. Vid 17:40 håller C-ledaren Elisabeth Thand Ringqvist en pressträff i riksdagen. – Vi ses på presskonferensen, sa hon när hon lämnade mötet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party holds press briefing – after decisive meeting",
+        "summary": "The Centre Party's Riksdag group and party board have held a meeting lasting several hours about the choice of course on the government question. At 17:40, C leader Elisabeth Thand Ringqvist holds a press conference in the Riksdag. – See you at the press conference, she said as she left the meeting."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:45:53+01:00"
+      }
+    },
     {
       "id": "50532d289262",
       "schema_version": 1,
