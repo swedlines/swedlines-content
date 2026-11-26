@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-26T21:31:16+01:00",
+  "generated_at": "2026-11-26T21:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "663e5c150869",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/klart-fc-rosengard-far-spela-vidare-i-damallsvenskan",
+      "guid": "cab71cd9-f5a3-42cd-bc0b-2d1a16d5d7d4",
+      "published_at": "2026-11-26T21:39:13+01:00",
+      "fetched_at": "2026-11-26T21:45:45+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/894a0c5f-6299-44a9-8841-614ee5b00e9c.jpeg?width=600",
+      "sv": {
+        "title": "Klart: FC Rosengård får spela vidare i damallsvenskan",
+        "summary": "Sportsligt mäktade inte FC Rosengård med att försvara sin plats i fotbollens högsta serie. Men nu räddas det forna storlaget vid skrivbordet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "FC Rosengård gets to keep playing in the Damallsvenskan",
+        "summary": "On the pitch, FC Rosengård failed to defend its place in football's top tier. But now the former powerhouse is saved at the desk."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T21:45:48+01:00"
+      }
+    },
+    {
+      "id": "a43ed3054c68",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/ishockey/har-slar-stjarnan-till-domaren-nar-djurgarden-forlorade-femte-raka",
+      "guid": "https://www.svt.se/sport/ishockey/har-slar-stjarnan-till-domaren-nar-djurgarden-forlorade-femte-raka",
+      "published_at": "2026-11-26T21:21:05+01:00",
+      "fetched_at": "2026-11-26T21:45:40+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Här slår stjärnan till domaren när Djurgården förlorade femte raka",
+        "summary": "Femte raka förlusten för Djurgården – då blev det ordentligt irriterat i slutminuterna borta mot Växjö. Djurgårdskaptenen Marcus Krüger blev utvisad – efter att ha slagit till domaren. – Det var absolut inte meningen, säger Krüger till SVT Sport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here's the moment the star hit the referee as Djurgården lost a fifth straight game",
+        "summary": "Fifth straight loss for Djurgården – then things got seriously heated in the final minutes away to Växjö. Djurgården captain Marcus Krüger was sent off after hitting the referee. – It was absolutely not meant to happen, Krüger tells SVT Sport."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T21:45:48+01:00"
+      }
+    },
     {
       "id": "998c4b5b394d",
       "schema_version": 1,
@@ -5526,59 +5579,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T14:01:29+01:00"
-      }
-    },
-    {
-      "id": "fdb4899e60d0",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/svahn-och-grahn-starkas-i-skidpremiaren-ringrostig",
-      "guid": "https://www.dn.se/sport/svahn-och-grahn-starkas-i-skidpremiaren-ringrostig/",
-      "published_at": "2026-11-20T13:24:14+01:00",
-      "fetched_at": "2026-11-20T13:31:01+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/60b258df-17e3-45bb-a150-c439c4cbf492.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Svahn och Grahn starkas i skidpremiären: ”Ringrostig”",
-        "summary": "Linn Svahn fick slita i semifinalen – men knäckte alla konkurrenter i finalen. Och vann sin första Sverigepremiär. – Det är en skön känsla, säger hon till SVT efter segern i sprintpremiären.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Svahn and Grahn shine in the Swedish season opener: “Rusty”",
-        "summary": "Linn Svahn had to struggle in the semi-final but beat all rivals in the final and won her first Swedish season opener. – It's a nice feeling, she tells SVT after winning the sprint opener."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:31:20+01:00"
-      }
-    },
-    {
-      "id": "037d4798cdef",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/langdskidor/vem-ar-anton-grahn",
-      "guid": "https://www.svt.se/sport/langdskidor/vem-ar-anton-grahn",
-      "published_at": "2026-11-20T13:09:42+01:00",
-      "fetched_at": "2026-11-20T16:45:41+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Vem är Anton Grahn?",
-        "summary": "Han har pekats ut som en av de som ska lyfta de svenska längdskidherrarna efter de senaste årens mörker. Med flera medaljer på juniornivå och en pallplats i världscupen ser framtiden lovande ut och han hyllas av experter. Det här är den nya svenska skidstjärnan Anton Grahn.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Who is Anton Grahn?",
-        "summary": "He has been singled out as one of those who will lift Swedish cross-country skiing men after the darkness of recent years. With several medals at junior level and a podium finish in the World Cup, the future looks promising and experts praise him. This is the new Swedish skiing star Anton Grahn."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:45:52+01:00"
       }
     }
   ]

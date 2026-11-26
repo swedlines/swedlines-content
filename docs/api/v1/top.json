@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:31:16+01:00",
+  "generated_at": "2026-11-26T21:45:50+01:00",
   "count": 30,
   "stories": [
     {
@@ -1397,6 +1397,82 @@
       ]
     },
     {
+      "id": "26da53ca3cf0",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-26T21:29:35+01:00",
+      "last_published_at": "2026-11-26T21:32:48+01:00",
+      "lead": {
+        "id": "26da53ca3cf0",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/Pv9k1J/ulf-kristersson-storst-i-ny-fortroendematning",
+        "guid": "https://www.aftonbladet.se/nyheter/a/Pv9k1J/ulf-kristersson-storst-i-ny-fortroendematning?utm_medium=rss",
+        "published_at": "2026-11-26T21:29:35+01:00",
+        "fetched_at": "2026-11-26T21:31:04+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/d6fcc8e2-316c-3829-bb7d-757fa4006ed2?format=auto&s=5d1184ec283b7ed48245bb655532aa9afbb0103b&w=1000",
+        "sv": {
+          "title": "Ulf Kristersson störst i ny förtroendemätning",
+          "summary": "Moderatledaren Ulf Kristersson hamnar på förstaplats i den senaste förtroendemätningen från DN/Ipsos.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Ulf Kristersson tops new trust poll",
+          "summary": "Moderate leader Ulf Kristersson ranks first in the latest trust survey from DN/Ipsos."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T21:31:10+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "a06afee804d8",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/ulf-kristersson-storst-i-ny-fortroendematning",
+          "published_at": "2026-11-26T21:32:48+01:00",
+          "sv": {
+            "title": "Ulf Kristersson störst i ny förtroendemätning"
+          },
+          "en": {
+            "title": "Ulf Kristersson (M) tops new trust poll"
+          }
+        },
+        {
+          "id": "c6ea5984cd0f",
+          "source": "svd",
+          "url": "https://www.svd.se/a/mMRXJl/ulf-kristersson-storst-i-ny-fortroendematning",
+          "published_at": "2026-11-26T21:29:35+01:00",
+          "sv": {
+            "title": "Ulf Kristersson störst i ny förtroendemätning"
+          },
+          "en": {
+            "title": "Ulf Kristersson tops new trust poll"
+          }
+        },
+        {
+          "id": "26da53ca3cf0",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Pv9k1J/ulf-kristersson-storst-i-ny-fortroendematning",
+          "published_at": "2026-11-26T21:29:35+01:00",
+          "sv": {
+            "title": "Ulf Kristersson störst i ny förtroendemätning"
+          },
+          "en": {
+            "title": "Ulf Kristersson tops new trust poll"
+          }
+        }
+      ]
+    },
+    {
       "id": "39b05fad3cef",
       "source_count": 3,
       "sources": [
@@ -1924,69 +2000,6 @@
           },
           "en": {
             "title": "Explosion at oil facility"
-          }
-        }
-      ]
-    },
-    {
-      "id": "26da53ca3cf0",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-26T21:29:35+01:00",
-      "last_published_at": "2026-11-26T21:29:35+01:00",
-      "lead": {
-        "id": "26da53ca3cf0",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/Pv9k1J/ulf-kristersson-storst-i-ny-fortroendematning",
-        "guid": "https://www.aftonbladet.se/nyheter/a/Pv9k1J/ulf-kristersson-storst-i-ny-fortroendematning?utm_medium=rss",
-        "published_at": "2026-11-26T21:29:35+01:00",
-        "fetched_at": "2026-11-26T21:31:04+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/d6fcc8e2-316c-3829-bb7d-757fa4006ed2?format=auto&s=5d1184ec283b7ed48245bb655532aa9afbb0103b&w=1000",
-        "sv": {
-          "title": "Ulf Kristersson störst i ny förtroendemätning",
-          "summary": "Moderatledaren Ulf Kristersson hamnar på förstaplats i den senaste förtroendemätningen från DN/Ipsos.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Ulf Kristersson tops new trust poll",
-          "summary": "Moderate leader Ulf Kristersson ranks first in the latest trust survey from DN/Ipsos."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T21:31:10+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "c6ea5984cd0f",
-          "source": "svd",
-          "url": "https://www.svd.se/a/mMRXJl/ulf-kristersson-storst-i-ny-fortroendematning",
-          "published_at": "2026-11-26T21:29:35+01:00",
-          "sv": {
-            "title": "Ulf Kristersson störst i ny förtroendemätning"
-          },
-          "en": {
-            "title": "Ulf Kristersson tops new trust poll"
-          }
-        },
-        {
-          "id": "26da53ca3cf0",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Pv9k1J/ulf-kristersson-storst-i-ny-fortroendematning",
-          "published_at": "2026-11-26T21:29:35+01:00",
-          "sv": {
-            "title": "Ulf Kristersson störst i ny förtroendemätning"
-          },
-          "en": {
-            "title": "Ulf Kristersson tops new trust poll"
           }
         }
       ]

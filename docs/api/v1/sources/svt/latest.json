@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T21:31:16+01:00",
+  "generated_at": "2026-11-26T21:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a43ed3054c68",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/ishockey/har-slar-stjarnan-till-domaren-nar-djurgarden-forlorade-femte-raka",
+      "guid": "https://www.svt.se/sport/ishockey/har-slar-stjarnan-till-domaren-nar-djurgarden-forlorade-femte-raka",
+      "published_at": "2026-11-26T21:21:05+01:00",
+      "fetched_at": "2026-11-26T21:45:40+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Här slår stjärnan till domaren när Djurgården förlorade femte raka",
+        "summary": "Femte raka förlusten för Djurgården – då blev det ordentligt irriterat i slutminuterna borta mot Växjö. Djurgårdskaptenen Marcus Krüger blev utvisad – efter att ha slagit till domaren. – Det var absolut inte meningen, säger Krüger till SVT Sport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here's the moment the star hit the referee as Djurgården lost a fifth straight game",
+        "summary": "Fifth straight loss for Djurgården – then things got seriously heated in the final minutes away to Växjö. Djurgården captain Marcus Krüger was sent off after hitting the referee. – It was absolutely not meant to happen, Krüger tells SVT Sport."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T21:45:48+01:00"
+      }
+    },
     {
       "id": "998c4b5b394d",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T05:45:45+01:00"
-      }
-    },
-    {
-      "id": "33fcce5da808",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/radioamatorer-kan-hjalpa-kommuners-krisberedskap-dold-resurs",
-      "guid": "https://www.svt.se/nyheter/inrikes/radioamatorer-kan-hjalpa-kommuners-krisberedskap-dold-resurs",
-      "published_at": "2026-11-21T19:58:36+01:00",
-      "fetched_at": "2026-11-21T20:01:12+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Radioamatörer kan hjälpa kommuners krisberedskap: ”Dold resurs”",
-        "summary": "I händelse av kris eller krig kan radioamatörer vara viktiga och flera kommuner har inlett samarbeten med dem. I Gnesta arbetar kommunen och radioamatörer tillsammans i ett projekt för att kunna skicka mejl utan internet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Radio amateurs can help municipal crisis preparedness: \"Hidden resource\"",
-        "summary": "In the event of crisis or war, radio amateurs can be important, and several municipalities have started collaborations with them. In Gnesta, the municipality and radio amateurs are working together on a project to be able to send email without internet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T20:01:21+01:00"
       }
     }
   ]

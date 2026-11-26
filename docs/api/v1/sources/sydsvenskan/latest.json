@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-26T21:31:16+01:00",
+  "generated_at": "2026-11-26T21:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "663e5c150869",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/klart-fc-rosengard-far-spela-vidare-i-damallsvenskan",
+      "guid": "cab71cd9-f5a3-42cd-bc0b-2d1a16d5d7d4",
+      "published_at": "2026-11-26T21:39:13+01:00",
+      "fetched_at": "2026-11-26T21:45:45+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/894a0c5f-6299-44a9-8841-614ee5b00e9c.jpeg?width=600",
+      "sv": {
+        "title": "Klart: FC Rosengård får spela vidare i damallsvenskan",
+        "summary": "Sportsligt mäktade inte FC Rosengård med att försvara sin plats i fotbollens högsta serie. Men nu räddas det forna storlaget vid skrivbordet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "FC Rosengård gets to keep playing in the Damallsvenskan",
+        "summary": "On the pitch, FC Rosengård failed to defend its place in football's top tier. But now the former powerhouse is saved at the desk."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T21:45:48+01:00"
+      }
+    },
+    {
+      "id": "a06afee804d8",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/ulf-kristersson-storst-i-ny-fortroendematning",
+      "guid": "fff67bb4-5108-4a41-a3a8-fc247187de02",
+      "published_at": "2026-11-26T21:32:48+01:00",
+      "fetched_at": "2026-11-26T21:45:45+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/2a58a04e-9985-4f99-aa44-0fb50c74b76c.jpg?width=600",
+      "sv": {
+        "title": "Ulf Kristersson störst i ny förtroendemätning",
+        "summary": "Moderatledaren Ulf Kristersson hamnar på förstaplats i den senaste förtroendemätningen från DN/Ipsos. Samtidigt rasar förtroendet för S-ledaren Magdalena Andersson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ulf Kristersson (M) tops new trust poll",
+        "summary": "Moderates leader Ulf Kristersson ranks first in the latest trust poll from DN/Ipsos. At the same time, trust in Social Democrats leader Magdalena Andersson (S) is plummeting."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T21:45:48+01:00"
+      }
+    },
     {
       "id": "87b61126c019",
       "schema_version": 1,
@@ -5160,57 +5214,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T09:31:07+01:00"
-      }
-    },
-    {
-      "id": "7dd85d0f5220",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/klimatmotet-blev-ett-fiasko-det-hander-nu",
-      "guid": "e2b27652-aa76-4aad-929b-75dc929317a2",
-      "published_at": "2026-11-24T09:00:58+01:00",
-      "fetched_at": "2026-11-24T09:01:11+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/a1531c79-fac3-48c8-bef7-fe324302442f.jpeg?width=600",
-      "sv": {
-        "title": "Klimatmötet blev ett fiasko – det händer nu"
-      },
-      "en": {
-        "title": "The climate summit was a fiasco – here is what happens now"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T09:01:17+01:00"
-      }
-    },
-    {
-      "id": "8692075b5b0d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/svenskar-rusade-till-nvidia-gjorde-bra-affarer",
-      "guid": "baf5dd95-0791-4941-8013-7c4dfbad2b5f",
-      "published_at": "2026-11-24T08:59:00+01:00",
-      "fetched_at": "2026-11-24T09:01:11+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/5f6527f9-0f30-42f7-8f0f-179876e2037c.jpg?width=600",
-      "sv": {
-        "title": "Svenskar rusade till Nvidia – gjorde bra affärer",
-        "summary": "Tiotusentals svenskar passade på att köpa när Nvidia-aktien föll efter otrohetsskandalerna. – Det är väldigt många svenska sparare som gjort en bra affär på kort tid när de dippköpte, säger Elin Benjaminsson, börsstrateg på Avanza.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedes rushed to Nvidia – made good deals",
-        "summary": "Tens of thousands of Swedes took the chance to buy when the Nvidia share fell after the infidelity scandals. \"There are very many Swedish savers who made a good deal in a short time when they bought the dip,\" says Elin Benjaminsson, equity strategist at Avanza."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T09:01:17+01:00"
       }
     }
   ]
