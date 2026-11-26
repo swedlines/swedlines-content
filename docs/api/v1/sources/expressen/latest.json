@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T08:31:11+01:00",
+  "generated_at": "2026-11-26T08:46:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "901d07aee268",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7132764f-ba16-495c-8e83-7b2abffe50b2",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7132764f-ba16-495c-8e83-7b2abffe50b2",
+      "published_at": "2026-11-26T08:43:09+01:00",
+      "fetched_at": "2026-11-26T08:45:49+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Vapenlicenser kan ha läckt",
+        "summary": "Jaktapp hackad, enligt TV4",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Firearm licences may have leaked",
+        "summary": "Hunting app hacked, according to TV4"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:45:57+01:00"
+      }
+    },
     {
       "id": "bfbba4e0d8bf",
       "schema_version": 1,
@@ -5161,32 +5187,6 @@
       "en": {
         "title": "Gabrielsson: This is what V is missing in the offer",
         "summary": "It took 20 minutes – then the Left Party rejected the offer from the Social Democrats (S), the Green Party (MP) and the Centre Party (C). On X, deputy party leader Ida Gabrielsson explains why. “Now it must be the end of the nonsense”, she writes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:30+01:00"
-      }
-    },
-    {
-      "id": "4fd2874cc989",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/forhandlingsexpert--sagar-s-c-och-mp",
-      "guid": "https://www.expressen.se/nyheter/politik/forhandlingsexpert--sagar-s-c-och-mp/",
-      "published_at": "2026-11-23T06:01:57+01:00",
-      "fetched_at": "2026-11-23T06:56:01+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Förhandlingsexpert sågar S, C och MP",
-        "summary": "Lars-Johan Åge är expert på förhandling, har jobbat för FBI och för polisens insatsstyrka. Han sågar S, MP och C:s beslut att skriva en debattartikel. – Jag förstår inte varför man använder det absolut sämsta alternativet, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Negotiation expert slams S, C and MP",
-        "summary": "Lars-Johan Åge is an expert in negotiation, has worked for the FBI and the police's special operations unit. He slams the decision by S, MP and C to write a debate article. – I don't understand why one uses the absolutely worst option, he says."
       },
       "translation": {
         "status": "done",

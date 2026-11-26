@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:31:11+01:00",
+  "generated_at": "2026-11-26T08:46:02+01:00",
   "count": 200,
   "items": [
     {
@@ -24,6 +24,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T08:01:26+01:00"
+      }
+    },
+    {
+      "id": "7c96cd0edb57",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/oMprPm/om-det-blir-fel-da-ar-ansvaret-mitt",
+      "guid": "https://www.svd.se/a/oMprPm/om-det-blir-fel-da-ar-ansvaret-mitt?utm_medium=rss",
+      "published_at": "2026-11-26T08:00:00+01:00",
+      "fetched_at": "2026-11-26T08:45:47+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/07522663-7b1d-39df-9384-8c4f221303dd?format=auto&s=79ed2868cad262871f4503294ab63fef4ae5d12a&w=1000",
+      "sv": {
+        "title": "Om det blir fel – då är ansvaret mitt",
+        "summary": "Det är dags att sluta tala om ”etablerade” och ”traditionella” medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "If it goes wrong – then the responsibility is mine",
+        "summary": "It is time to stop talking about \"established\" and \"traditional\" media."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:45:57+01:00"
       }
     },
     {
@@ -5497,36 +5524,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:31:07+01:00"
-      }
-    },
-    {
-      "id": "e0bd910213eb",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/gp-pejl.688a0527-b8bb-59bd-adc5-24df7fe163d8",
-      "guid": "688a0527-b8bb-59bd-adc5-24df7fe163d8",
-      "published_at": "2026-11-16T15:46:43+01:00",
-      "fetched_at": "2026-11-16T16:16:02+01:00",
-      "category": "other",
-      "feed_categories": [
-        "Nyheter"
-      ],
-      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
-      "sv": {
-        "title": "GP Pejl",
-        "summary": "Nyhetsbrevet för dig som är GP Medlem – just nu tillgänglig för alla.Måndag 16 november",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "GP Pejl",
-        "summary": "The newsletter for you who are a GP Member – currently available to everyone. Monday 16 November"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:16:22+01:00"
       }
     }
   ]
