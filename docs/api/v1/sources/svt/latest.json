@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T11:15:57+01:00",
+  "generated_at": "2026-11-26T11:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7b9d39ac9139",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-om-skelettet-fran-skolan-i-vindeln-ska-begrava-det",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-om-skelettet-fran-skolan-i-vindeln-ska-begrava-det",
+      "published_at": "2026-11-26T11:14:20+01:00",
+      "fetched_at": "2026-11-26T11:31:00+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen om skelettet från skolan i Vindeln: ”Ska begrava det”",
+        "summary": "Ett skelett hittades i ett förråd på Folkhögskolan i Vindeln. Polisen har nu konstaterat att det kommer från en riktig människa – och ska begrava det. – Men vi vet inte hur vi ska gå tillväga, säger Fredrik Gidlund, förundersökningsledare på polisen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police on the skeleton from the school in Vindeln: \"Will bury it\"",
+        "summary": "A skeleton was found in a storage room at the Folkhögskolan in Vindeln. Police have now established that it comes from a real human being – and will bury it. \"But we don't know how to proceed,\" says Fredrik Gidlund, preliminary investigation leader at the police."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T11:31:11+01:00"
+      }
+    },
     {
       "id": "55f9c51558b5",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T14:16:02+01:00"
-      }
-    },
-    {
-      "id": "037d4798cdef",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/langdskidor/vem-ar-anton-grahn",
-      "guid": "https://www.svt.se/sport/langdskidor/vem-ar-anton-grahn",
-      "published_at": "2026-11-20T13:09:42+01:00",
-      "fetched_at": "2026-11-20T16:45:41+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Vem är Anton Grahn?",
-        "summary": "Han har pekats ut som en av de som ska lyfta de svenska längdskidherrarna efter de senaste årens mörker. Med flera medaljer på juniornivå och en pallplats i världscupen ser framtiden lovande ut och han hyllas av experter. Det här är den nya svenska skidstjärnan Anton Grahn.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Who is Anton Grahn?",
-        "summary": "He has been singled out as one of those who will lift Swedish cross-country skiing men after the darkness of recent years. With several medals at junior level and a podium finish in the World Cup, the future looks promising and experts praise him. This is the new Swedish skiing star Anton Grahn."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:45:52+01:00"
       }
     }
   ]

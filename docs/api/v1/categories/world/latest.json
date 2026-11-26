@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T11:15:57+01:00",
+  "generated_at": "2026-11-26T11:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f291b200a8f4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/stubbs-dystra-besked-tror-inte-det",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/stubbs-dystra-besked-tror-inte-det",
+      "published_at": "2026-11-26T11:27:07+01:00",
+      "fetched_at": "2026-11-26T11:31:03+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Stubbs mörka krigsord",
+        "summary": "Finska presidentens dystra prognos till Zelenskyj",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stubb's dark words of war",
+        "summary": "The Finnish president's grim forecast to Zelenskyy"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T11:31:11+01:00"
+      }
+    },
     {
       "id": "ca6851c6ad70",
       "schema_version": 1,
@@ -26,6 +52,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T11:01:26+01:00"
+      }
+    },
+    {
+      "id": "d29246309666",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7nKydOnn7L2panKYiq9uY3/maken-och-pappan-som-aldrig-kom-hem-skrek-raett-ut",
+      "guid": "7nKydOnn7L2panKYiq9uY3",
+      "published_at": "2026-11-26T10:53:02+01:00",
+      "fetched_at": "2026-11-26T11:31:03+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Nyhetsmorgon"
+      ],
+      "sv": {
+        "title": "Maken och pappan som aldrig kom hem: ”Skrek rätt ut”",
+        "summary": "TV4-fotografen Ulf Strömberg var på uppdrag i Afghanistan tillsammans med reporterkollegan Rolf Porseryd under brinnande krig efter terrorattackerna 2001. På natten den 26 november väcktes de av rånare. Ulf Strömberg sköts i bröstet när han öppnade dörren och avled innan han kom till sjukhus.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The husband and father who never came home: \"Screamed right out\"",
+        "summary": "TV4 photographer Ulf Strömberg was on assignment in Afghanistan together with reporter colleague Rolf Porseryd during raging war after the terror attacks of 2001. On the night of 26 November they were woken by robbers. Ulf Strömberg was shot in the chest when he opened the door and died before reaching hospital."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T11:31:11+01:00"
       }
     },
     {
@@ -5283,60 +5338,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T12:45:56+01:00"
-      }
-    },
-    {
-      "id": "79214a3d7013",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/pMLR76/zelenskyj-vi-attackerade-fartyget-i-finska-viken",
-      "guid": "https://www.aftonbladet.se/nyheter/a/pMLR76/zelenskyj-vi-attackerade-fartyget-i-finska-viken?utm_medium=rss",
-      "published_at": "2026-11-24T12:04:51+01:00",
-      "fetched_at": "2026-11-24T12:15:46+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/a57106e0-9a31-3ed8-ad12-cd277e9cf4de?format=auto&s=7578572705f74eda9994bd9ce9615166ddc21e5c&w=1000",
-      "sv": {
-        "title": "Zelenskyj: Vi angrep fartyget i Finska viken",
-        "summary": "Ukraina tar på sig helgens attack mot ett ryskflaggat fartyg i Finska viken.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Zelenskyj: We attacked the ship in the Gulf of Finland",
-        "summary": "Ukraine claims responsibility for the weekend attack on a Russian-flagged ship in the Gulf of Finland."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T12:15:51+01:00"
-      }
-    },
-    {
-      "id": "850ae40981e2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/0vn6m0/efter-paniken-inget-lejon-i-istanbul",
-      "guid": "https://www.aftonbladet.se/nyheter/a/0vn6m0/efter-paniken-inget-lejon-i-istanbul?utm_medium=rss",
-      "published_at": "2026-11-24T11:56:21+01:00",
-      "fetched_at": "2026-11-24T11:59:05+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/139be2f3-8eb6-3ca6-96c6-69c1cac7ed0f?format=auto&s=6991a943d4526a8dd6068fd6e55bc182d64c35a4&w=1000",
-      "sv": {
-        "title": "Efter paniken – inget lejon i Istanbul",
-        "summary": "Larm om ett kringstrykande lejon orsakade panik i en förort till Istanbul.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the panic – no lion in Istanbul",
-        "summary": "Reports of a roaming lion caused panic in a suburb of Istanbul."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T11:59:14+01:00"
       }
     }
   ]

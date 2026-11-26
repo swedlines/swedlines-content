@@ -1,7 +1,121 @@
 {
-  "generated_at": "2026-11-26T11:15:57+01:00",
-  "count": 25,
+  "generated_at": "2026-11-26T11:31:14+01:00",
+  "count": 23,
   "stories": [
+    {
+      "id": "6fd95f0ec79f",
+      "source_count": 6,
+      "sources": [
+        "svd",
+        "sydsvenskan",
+        "di",
+        "expressen",
+        "aftonbladet",
+        "sr"
+      ],
+      "first_published_at": "2026-11-26T08:58:13+01:00",
+      "last_published_at": "2026-11-26T11:27:00+01:00",
+      "lead": {
+        "id": "6fd95f0ec79f",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg",
+        "guid": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg?utm_medium=rss",
+        "published_at": "2026-11-26T08:58:13+01:00",
+        "fetched_at": "2026-11-26T09:01:16+01:00",
+        "category": "economy",
+        "sv": {
+          "title": "Norska flygbolaget ställer in samtliga flyg",
+          "summary": "Krisande norska flygbolaget Norse ställer in samtliga flyg under torsdagen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Norwegian airline cancels all flights",
+          "summary": "The struggling Norwegian airline Norse is cancelling all flights on Thursday."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:01:21+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "ff178256a791",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9350613",
+          "published_at": "2026-11-26T11:27:00+01:00",
+          "sv": {
+            "title": "Krisande flygbolag ställer in flyg"
+          },
+          "en": {
+            "title": "Struggling airline cancels flights"
+          }
+        },
+        {
+          "id": "ccd9918ddd41",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/3BJveA/norse-atlantic-i-akut-ekonomisk-kris-flera-flyg-installda",
+          "published_at": "2026-11-26T10:42:57+01:00",
+          "sv": {
+            "title": "Flygbolaget i kris – ställer in flyg"
+          },
+          "en": {
+            "title": "Airline in crisis – cancels flights"
+          }
+        },
+        {
+          "id": "b9df44423d20",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/norska-flygbolaget-staller-in-samtliga-flyg",
+          "published_at": "2026-11-26T10:31:01+01:00",
+          "sv": {
+            "title": "Norska flygbolaget ställer in samtliga flyg"
+          },
+          "en": {
+            "title": "Norwegian airline cancels all flights"
+          }
+        },
+        {
+          "id": "c2fef6b3d320",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/konkurshotat-flygbolag-staller-in-alla-flyg",
+          "published_at": "2026-11-26T09:19:51+01:00",
+          "sv": {
+            "title": "Konkurshotat flygbolag ställer in alla flyg"
+          },
+          "en": {
+            "title": "Bankrupt-threatened airline cancels all flights"
+          }
+        },
+        {
+          "id": "0b06185d18b1",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/norska-flygbolaget-staller-in-samtliga-flyg",
+          "published_at": "2026-11-26T08:58:16+01:00",
+          "sv": {
+            "title": "Norska flygbolaget ställer in samtliga flyg"
+          },
+          "en": {
+            "title": "Norwegian airline cancels all flights"
+          }
+        },
+        {
+          "id": "6fd95f0ec79f",
+          "source": "svd",
+          "url": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg",
+          "published_at": "2026-11-26T08:58:13+01:00",
+          "sv": {
+            "title": "Norska flygbolaget ställer in samtliga flyg"
+          },
+          "en": {
+            "title": "Norwegian airline cancels all flights"
+          }
+        }
+      ]
+    },
     {
       "id": "bca5b56324c1",
       "source_count": 6,
@@ -141,107 +255,6 @@
       ]
     },
     {
-      "id": "6fd95f0ec79f",
-      "source_count": 5,
-      "sources": [
-        "svd",
-        "sydsvenskan",
-        "di",
-        "expressen",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-26T08:58:13+01:00",
-      "last_published_at": "2026-11-26T10:42:57+01:00",
-      "lead": {
-        "id": "6fd95f0ec79f",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg",
-        "guid": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg?utm_medium=rss",
-        "published_at": "2026-11-26T08:58:13+01:00",
-        "fetched_at": "2026-11-26T09:01:16+01:00",
-        "category": "economy",
-        "sv": {
-          "title": "Norska flygbolaget ställer in samtliga flyg",
-          "summary": "Krisande norska flygbolaget Norse ställer in samtliga flyg under torsdagen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Norwegian airline cancels all flights",
-          "summary": "The struggling Norwegian airline Norse is cancelling all flights on Thursday."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T09:01:21+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "ccd9918ddd41",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/3BJveA/norse-atlantic-i-akut-ekonomisk-kris-flera-flyg-installda",
-          "published_at": "2026-11-26T10:42:57+01:00",
-          "sv": {
-            "title": "Flygbolaget i kris – ställer in flyg"
-          },
-          "en": {
-            "title": "Airline in crisis – cancels flights"
-          }
-        },
-        {
-          "id": "b9df44423d20",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/norska-flygbolaget-staller-in-samtliga-flyg",
-          "published_at": "2026-11-26T10:31:01+01:00",
-          "sv": {
-            "title": "Norska flygbolaget ställer in samtliga flyg"
-          },
-          "en": {
-            "title": "Norwegian airline cancels all flights"
-          }
-        },
-        {
-          "id": "c2fef6b3d320",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/konkurshotat-flygbolag-staller-in-alla-flyg",
-          "published_at": "2026-11-26T09:19:51+01:00",
-          "sv": {
-            "title": "Konkurshotat flygbolag ställer in alla flyg"
-          },
-          "en": {
-            "title": "Bankrupt-threatened airline cancels all flights"
-          }
-        },
-        {
-          "id": "0b06185d18b1",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/norska-flygbolaget-staller-in-samtliga-flyg",
-          "published_at": "2026-11-26T08:58:16+01:00",
-          "sv": {
-            "title": "Norska flygbolaget ställer in samtliga flyg"
-          },
-          "en": {
-            "title": "Norwegian airline cancels all flights"
-          }
-        },
-        {
-          "id": "6fd95f0ec79f",
-          "source": "svd",
-          "url": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg",
-          "published_at": "2026-11-26T08:58:13+01:00",
-          "sv": {
-            "title": "Norska flygbolaget ställer in samtliga flyg"
-          },
-          "en": {
-            "title": "Norwegian airline cancels all flights"
-          }
-        }
-      ]
-    },
-    {
       "id": "c4d17e203ac7",
       "source_count": 5,
       "sources": [
@@ -339,6 +352,106 @@
           },
           "en": {
             "title": "North Korea: Produce more nuclear weapons"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ed574169a1d8",
+      "source_count": 4,
+      "sources": [
+        "svt",
+        "aftonbladet",
+        "expressen",
+        "dn"
+      ],
+      "first_published_at": "2026-11-26T09:32:28+01:00",
+      "last_published_at": "2026-11-26T11:19:38+01:00",
+      "lead": {
+        "id": "ed574169a1d8",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
+        "guid": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
+        "published_at": "2026-11-26T09:32:28+01:00",
+        "fetched_at": "2026-11-26T09:45:44+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "C-toppar möts i dag – i blixtinkallat möte",
+          "summary": "Centerpartiet har kallat till ett extrainsatt möte med partistyrelsen och riksdagsgruppen under dagen. Syftet är, enligt SVT:s uppgifter, att undersöka om det finns ett stöd för att rösta grönt till Ulf Kristersson på måndag.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "C leaders meet today – at snap meeting",
+          "summary": "The Centre Party has called an extra meeting with the party board and the Riksdag group during the day. The aim is, according to SVT's information, to examine whether there is support for voting green for Ulf Kristersson (M) on Monday."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:45:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "55d50c80826d",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/centerpartiet-blixtinkallar-till-mote-oppen-splittring-i-partiet",
+          "published_at": "2026-11-26T11:19:38+01:00",
+          "sv": {
+            "title": "Centerpartiet blixtinkallar till möte – öppen splittring i partiet"
+          },
+          "en": {
+            "title": "Centre Party calls emergency meeting – open split in the party"
+          }
+        },
+        {
+          "id": "dbfe12f1aff8",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/centerpartiet-blixtinkallar-till-mote",
+          "published_at": "2026-11-26T09:56:19+01:00",
+          "sv": {
+            "title": "Centerpartiet blixtinkallar till möte"
+          },
+          "en": {
+            "title": "Centre Party calls snap meeting"
+          }
+        },
+        {
+          "id": "3209bcfe334c",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ddec57c2-1d59-4079-ae61-f1df4f8fefc7",
+          "published_at": "2026-11-26T09:41:10+01:00",
+          "sv": {
+            "title": "C blixtinkallar till möte"
+          },
+          "en": {
+            "title": "C calls snap meeting"
+          }
+        },
+        {
+          "id": "48b1d3641113",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/xJPaql/centerpartiet-blixinkallar-till-mote",
+          "published_at": "2026-11-26T09:35:15+01:00",
+          "sv": {
+            "title": "C-toppar möts i blixtinkallat möte"
+          },
+          "en": {
+            "title": "Centre Party leaders meet in snap meeting"
+          }
+        },
+        {
+          "id": "ed574169a1d8",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
+          "published_at": "2026-11-26T09:32:28+01:00",
+          "sv": {
+            "title": "C-toppar möts i dag – i blixtinkallat möte"
+          },
+          "en": {
+            "title": "C leaders meet today – at snap meeting"
           }
         }
       ]
@@ -1090,93 +1203,6 @@
       ]
     },
     {
-      "id": "ed574169a1d8",
-      "source_count": 3,
-      "sources": [
-        "svt",
-        "aftonbladet",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-26T09:32:28+01:00",
-      "last_published_at": "2026-11-26T09:56:19+01:00",
-      "lead": {
-        "id": "ed574169a1d8",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
-        "guid": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
-        "published_at": "2026-11-26T09:32:28+01:00",
-        "fetched_at": "2026-11-26T09:45:44+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "C-toppar möts i dag – i blixtinkallat möte",
-          "summary": "Centerpartiet har kallat till ett extrainsatt möte med partistyrelsen och riksdagsgruppen under dagen. Syftet är, enligt SVT:s uppgifter, att undersöka om det finns ett stöd för att rösta grönt till Ulf Kristersson på måndag.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "C leaders meet today – at snap meeting",
-          "summary": "The Centre Party has called an extra meeting with the party board and the Riksdag group during the day. The aim is, according to SVT's information, to examine whether there is support for voting green for Ulf Kristersson (M) on Monday."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T09:45:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "dbfe12f1aff8",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/centerpartiet-blixtinkallar-till-mote",
-          "published_at": "2026-11-26T09:56:19+01:00",
-          "sv": {
-            "title": "Centerpartiet blixtinkallar till möte"
-          },
-          "en": {
-            "title": "Centre Party calls snap meeting"
-          }
-        },
-        {
-          "id": "3209bcfe334c",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ddec57c2-1d59-4079-ae61-f1df4f8fefc7",
-          "published_at": "2026-11-26T09:41:10+01:00",
-          "sv": {
-            "title": "C blixtinkallar till möte"
-          },
-          "en": {
-            "title": "C calls snap meeting"
-          }
-        },
-        {
-          "id": "48b1d3641113",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/xJPaql/centerpartiet-blixinkallar-till-mote",
-          "published_at": "2026-11-26T09:35:15+01:00",
-          "sv": {
-            "title": "C-toppar möts i blixtinkallat möte"
-          },
-          "en": {
-            "title": "Centre Party leaders meet in snap meeting"
-          }
-        },
-        {
-          "id": "ed574169a1d8",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
-          "published_at": "2026-11-26T09:32:28+01:00",
-          "sv": {
-            "title": "C-toppar möts i dag – i blixtinkallat möte"
-          },
-          "en": {
-            "title": "C leaders meet today – at snap meeting"
-          }
-        }
-      ]
-    },
-    {
       "id": "ab789aeedc63",
       "source_count": 3,
       "sources": [
@@ -1652,78 +1678,6 @@
       ]
     },
     {
-      "id": "f6aba9583b40",
-      "source_count": 3,
-      "sources": [
-        "svd",
-        "svt",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-25T22:51:40+01:00",
-      "last_published_at": "2026-11-25T23:20:47+01:00",
-      "lead": {
-        "id": "f6aba9583b40",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80317",
-        "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80317&utm_medium=rss",
-        "published_at": "2026-11-25T22:51:40+01:00",
-        "fetched_at": "2026-11-25T23:01:10+01:00",
-        "category": "culture",
-        "sv": {
-          "title": "Duran Durans Andy Taylor död"
-        },
-        "en": {
-          "title": "Duran Duran's Andy Taylor dead"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T23:01:15+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "7c7cea65a0a8",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/noje/duran-durans-andy-taylor-dod",
-          "published_at": "2026-11-25T23:20:47+01:00",
-          "sv": {
-            "title": "Duran Durans Andy Taylor död"
-          },
-          "en": {
-            "title": "Duran Duran's Andy Taylor dead"
-          }
-        },
-        {
-          "id": "4f3ec5c566b3",
-          "source": "svt",
-          "url": "https://www.svt.se/kultur/duran-duran-gitarristen-andy-taylor-ar-dod",
-          "published_at": "2026-11-25T22:54:17+01:00",
-          "sv": {
-            "title": "Duran Duran-gitarristen Andy Taylor är död"
-          },
-          "en": {
-            "title": "Duran Duran guitarist Andy Taylor is dead"
-          }
-        },
-        {
-          "id": "f6aba9583b40",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80317",
-          "published_at": "2026-11-25T22:51:40+01:00",
-          "sv": {
-            "title": "Duran Durans Andy Taylor död"
-          },
-          "en": {
-            "title": "Duran Duran's Andy Taylor dead"
-          }
-        }
-      ]
-    },
-    {
       "id": "177618068e9c",
       "source_count": 2,
       "sources": [
@@ -2031,69 +1985,6 @@
           },
           "en": {
             "title": "Death toll rises after gold mine collapse in Indonesia"
-          }
-        }
-      ]
-    },
-    {
-      "id": "40c8aded7d8d",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-25T21:19:13+01:00",
-      "last_published_at": "2026-11-25T23:16:52+01:00",
-      "lead": {
-        "id": "40c8aded7d8d",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/4Eq9we/usa-kims-dotters-klader-kan-vara-brottsliga",
-        "guid": "https://www.aftonbladet.se/nyheter/a/4Eq9we/usa-kims-dotters-klader-kan-vara-brottsliga?utm_medium=rss",
-        "published_at": "2026-11-25T21:19:13+01:00",
-        "fetched_at": "2026-11-25T21:31:06+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/bbc6647c-82b7-34f1-862d-bd45ed698c7e?format=auto&s=2a6a16e5ed5ed2acefb69d2d6bc8415a51150a04&w=1000",
-        "sv": {
-          "title": "USA: Kims dotters kläder kan vara brottsliga",
-          "summary": "Diktatorns dotters lyxiga skidkläder kan utgöra sanktionsbrott. Det varnar USA efter bilderna från…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "USA: Kim's daughter's clothes may be criminal",
-          "summary": "The dictator's daughter's luxurious ski clothing may constitute sanctions violation. The US warns after the pictures from…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T21:31:12+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "d44db5bbcc1b",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/kim-jong-uns-dotter-pekas-ut-for-brottet",
-          "published_at": "2026-11-25T23:16:52+01:00",
-          "sv": {
-            "title": "Kim Jong-Uns dotter pekas ut för brottet"
-          },
-          "en": {
-            "title": "Kim Jong-Un's daughter named over the offence"
-          }
-        },
-        {
-          "id": "40c8aded7d8d",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/4Eq9we/usa-kims-dotters-klader-kan-vara-brottsliga",
-          "published_at": "2026-11-25T21:19:13+01:00",
-          "sv": {
-            "title": "USA: Kims dotters kläder kan vara brottsliga"
-          },
-          "en": {
-            "title": "USA: Kim's daughter's clothes may be criminal"
           }
         }
       ]
