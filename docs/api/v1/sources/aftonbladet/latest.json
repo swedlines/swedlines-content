@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T18:58:25+01:00",
+  "generated_at": "2026-11-26T19:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8b3cffc4be5a",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/oMpjyB/ohlsson-c-inte-for-sent-for-v-att-backa",
+      "guid": "https://www.aftonbladet.se/nyheter/a/oMpjyB/ohlsson-c-inte-for-sent-for-v-att-backa?utm_medium=rss",
+      "published_at": "2026-11-26T19:00:37+01:00",
+      "fetched_at": "2026-11-26T19:01:17+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/061491a1-da62-32ff-8567-4ee77da76adb?format=auto&s=96e130c75bb6512cdd5a1ad9526354cfb7fd6488&w=1000",
+      "sv": {
+        "title": "Ohlsson (C): Inte för sent för V att backa",
+        "summary": "Ännu är det inte för sent för en rödgrön regering, enligt riksdagsledamoten Birgitta Ohlsson (C).",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ohlsson (C): Not too late for V to back down",
+        "summary": "It is not yet too late for a red-green government, according to Riksdag member Birgitta Ohlsson (C)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:01:23+01:00"
+      }
+    },
     {
       "id": "327c75c39597",
       "schema_version": 1,
@@ -5350,33 +5377,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T07:01:16+01:00"
-      }
-    },
-    {
-      "id": "f7453a8dee9a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/dJOePB/demoskop-byter-metod-for-valjarbarometern",
-      "guid": "https://www.aftonbladet.se/nyheter/a/dJOePB/demoskop-byter-metod-for-valjarbarometern?utm_medium=rss",
-      "published_at": "2026-11-24T06:01:04+01:00",
-      "fetched_at": "2026-11-24T06:02:21+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/d833134a-bff5-32ae-94f4-a3dc78a66465?format=auto&s=e040532ab7eea88e1c8d5e2fd3c0e62ca6a7b58a&w=1000",
-      "sv": {
-        "title": "Demoskop byter metod för väljarbarometern",
-        "summary": "Så fungerar nya väljarbarometern",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Demoskop changes method for voter barometer",
-        "summary": "This is how the new voter barometer works"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T06:02:27+01:00"
       }
     }
   ]

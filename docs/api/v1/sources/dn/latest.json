@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T18:58:25+01:00",
+  "generated_at": "2026-11-26T19:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "93958ededa17",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/eva-baltasars-lesbiska-kvinnor-kampar-med-begar-och-radikal-frihet",
+      "guid": "https://www.dn.se/kultur/eva-baltasars-lesbiska-kvinnor-kampar-med-begar-och-radikal-frihet/",
+      "published_at": "2026-11-26T19:00:00+01:00",
+      "fetched_at": "2026-11-26T19:01:16+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/08c2d052-ba2b-46db-b0c1-3095725d7800.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Eva Baltasars lesbiska kvinnor kämpar med begär och radikal frihet",
+        "summary": "Uppe i de katalanska bergen hittar en 25-årig kvinna tillbaka till det ursprungliga – i en lekfull text om att vilja vara solitär och längta efter kontakt. Kristina Sandberg läser den avslutande delen i Eva Baltasars trilogi.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Eva Baltasar's lesbian women struggle with desire and radical freedom",
+        "summary": "Up in the Catalan mountains, a 25-year-old woman finds her way back to the original – in a playful text about wanting to be a solitaire and longing for contact. Kristina Sandberg reads the concluding part of Eva Baltasar's trilogy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:01:23+01:00"
+      }
+    },
     {
       "id": "ca289204b7f0",
       "schema_version": 1,
@@ -5368,33 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T17:01:18+01:00"
-      }
-    },
-    {
-      "id": "75c1e3938cfa",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/podd/alskade-politik/pangbud-eller-skambud-har-ar-dadgostars-dilemma",
-      "guid": "https://www.dn.se/podd/alskade-politik/pangbud-eller-skambud-har-ar-dadgostars-dilemma/",
-      "published_at": "2026-11-23T16:24:21+01:00",
-      "fetched_at": "2026-11-23T16:29:09+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/aanhaexbqpr2ag6wh5oah2nc7j5idaad3yqfi52ni5ypxeczi7ea.png?io=1&width=1000",
-      "sv": {
-        "title": "Pangbud eller skambud – här är Dadgostars dilemma",
-        "summary": "Vad har Vänsterpartiet tackat nej till när de nobbar S, MP och C:s föhandlingsbud? Och varför riskerar C att malas ner i interna strider?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Pang offer or insult offer – here is Dadgostar's dilemma",
-        "summary": "What has the Left Party turned down when it snubs the Social Democrats', the Green Party's and the Centre Party's negotiation offers? And why does the Centre Party risk being ground down by internal strife?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T16:29:18+01:00"
       }
     }
   ]
