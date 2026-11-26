@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T09:48:00+01:00",
+  "generated_at": "2026-11-26T10:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dbfe12f1aff8",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/centerpartiet-blixtinkallar-till-mote",
+      "guid": "https://www.expressen.se/nyheter/politik/centerpartiet-blixtinkallar-till-mote/",
+      "published_at": "2026-11-26T09:56:19+01:00",
+      "fetched_at": "2026-11-26T10:01:16+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Centerpartiet blixtinkallar till möte",
+        "summary": "Centerpartiet blixtinkallar till möte. Vid lunchtid möts partitopparna för att diskutera vägvalet, enligt Expressens uppgifter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party calls snap meeting",
+        "summary": "Centre Party calls snap meeting. At lunchtime, the party leaders meet to discuss the choice ahead, according to Expressen's information."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:01:24+01:00"
+      }
+    },
     {
       "id": "3209bcfe334c",
       "schema_version": 1,
@@ -26,6 +52,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T09:45:55+01:00"
+      }
+    },
+    {
+      "id": "5e92d9b49e0e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/enorm-explosion-i-bangkok",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/enorm-explosion-i-bangkok",
+      "published_at": "2026-11-26T09:33:14+01:00",
+      "fetched_at": "2026-11-26T10:01:16+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Stor explosion",
+        "summary": "Oljedepå har exploderat i Bangkok",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major explosion",
+        "summary": "An oil depot has exploded in Bangkok"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:01:24+01:00"
       }
     },
     {
@@ -5142,58 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T08:01:25+01:00"
-      }
-    },
-    {
-      "id": "035ee2b1a6eb",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/ekonomi/polisens-varning-infor-black-week-ubhbh",
-      "guid": "https://www.expressen.se/ekonomi/polisens-varning-infor-black-week-ubhbh/",
-      "published_at": "2026-11-23T07:40:10+01:00",
-      "fetched_at": "2026-11-23T07:45:46+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisens varning inför Black Week",
-        "summary": "Black week är i gång med röda prislappar och lockande erbjudanden – och bedrägerier. Här är polisens tips på hur du undviker att bli lurad under de stundande och kommande högtiderna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police warning ahead of Black Week",
-        "summary": "Black Week is under way with red price tags and tempting offers – and fraud. Here are the police's tips on how to avoid being duped during the coming holidays."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T07:45:54+01:00"
-      }
-    },
-    {
-      "id": "23a9676c4fce",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/stort-bakslag-for-putin-efter-omfattande-attacker",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/stort-bakslag-for-putin-efter-omfattande-attacker",
-      "published_at": "2026-11-23T06:28:47+01:00",
-      "fetched_at": "2026-11-23T06:56:01+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Putins oljemardröm",
-        "summary": "Syns på flera kilometers avstånd • Zelenskyjs nya attack",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Putin's oil dream",
-        "summary": "Visible from several kilometres away • Zelenskyy's new attack"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:30+01:00"
       }
     }
   ]

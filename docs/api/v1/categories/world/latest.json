@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-26T09:48:00+01:00",
+  "generated_at": "2026-11-26T10:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ffb8f6ef29bb",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350493",
+      "guid": "rss:sr.se/article/9350493",
+      "published_at": "2026-11-26T09:50:00+01:00",
+      "fetched_at": "2026-11-26T10:01:14+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Kraftig explosion i Bangkok",
+        "summary": "Från Thailand rapporteras om en kraftig explosion som inträffat vid en oljedepå i huvudstaden Bangkok, uppger lokala myndigheter enligt AFP. Reportrar vid nyhetsbyrån såg en pelare av lågor resa sig över platsen, följt av tjock svart rök.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Powerful explosion in Bangkok",
+        "summary": "A powerful explosion has been reported from Thailand at an oil depot in the capital Bangkok, according to local authorities via AFP. Reporters at the news agency saw a pillar of flames rise over the site, followed by thick black smoke."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:01:24+01:00"
+      }
+    },
+    {
+      "id": "5178e1eed6d5",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350494",
+      "guid": "rss:sr.se/article/9350494",
+      "published_at": "2026-11-26T09:46:00+01:00",
+      "fetched_at": "2026-11-26T10:01:14+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Kristersson inför toppmötet i Bryssel: ”Har inte ändrat uppfattning”",
+        "summary": "Nu har EU:s stats- och regeringschefer samlats i Bryssel, bland annat för att slutförhandla om nästa långtidsbudget. Tanken är att förhandlingarna ska gå i mål före årsskiftet, men det ser statsminister Ulf Kristersson (M) som osannolikt. ”Vi är forftarande väldigt långt ifrån varandra.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Kristersson ahead of Brussels summit: \"Have not changed my view\"",
+        "summary": "EU heads of state and government have now gathered in Brussels, among other things to finalise negotiations on the next long-term budget. The aim is for the negotiations to conclude before the turn of the year, but Prime Minister Ulf Kristersson (M) considers this unlikely. \"We are still very far apart."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:01:24+01:00"
+      }
+    },
     {
       "id": "fa10527a05a1",
       "schema_version": 1,
@@ -108,6 +160,32 @@
       }
     },
     {
+      "id": "5e92d9b49e0e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/enorm-explosion-i-bangkok",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/enorm-explosion-i-bangkok",
+      "published_at": "2026-11-26T09:33:14+01:00",
+      "fetched_at": "2026-11-26T10:01:16+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Stor explosion",
+        "summary": "Oljedepå har exploderat i Bangkok",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major explosion",
+        "summary": "An oil depot has exploded in Bangkok"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:01:24+01:00"
+      }
+    },
+    {
       "id": "abd1a58da1c8",
       "schema_version": 1,
       "source": "expressen",
@@ -181,6 +259,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T09:45:55+01:00"
+      }
+    },
+    {
+      "id": "b3b0bf2c57d8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/1vnKAJ/stor-explosion-i-bangkok",
+      "guid": "https://www.aftonbladet.se/nyheter/a/1vnKAJ/stor-explosion-i-bangkok?utm_medium=rss",
+      "published_at": "2026-11-26T09:21:48+01:00",
+      "fetched_at": "2026-11-26T10:01:16+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/0db0bf7d-125b-36e3-8553-c286deaa874e?format=auto&s=797e5e5beda4ac1a0f1f648a7ea2419b06ecb2ed&w=1000",
+      "sv": {
+        "title": "Stor explosion i Bangkok – invånare evakueras",
+        "summary": "Invånarna varnas",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major explosion in Bangkok – residents evacuated",
+        "summary": "Residents are warned"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:01:24+01:00"
       }
     },
     {
@@ -5233,110 +5338,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T10:16:00+01:00"
-      }
-    },
-    {
-      "id": "7dd85d0f5220",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/klimatmotet-blev-ett-fiasko-det-hander-nu",
-      "guid": "e2b27652-aa76-4aad-929b-75dc929317a2",
-      "published_at": "2026-11-24T09:00:58+01:00",
-      "fetched_at": "2026-11-24T09:01:11+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/a1531c79-fac3-48c8-bef7-fe324302442f.jpeg?width=600",
-      "sv": {
-        "title": "Klimatmötet blev ett fiasko – det händer nu"
-      },
-      "en": {
-        "title": "The climate summit was a fiasco – here is what happens now"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T09:01:17+01:00"
-      }
-    },
-    {
-      "id": "54f106cc1adf",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/dJOWmO/beraknat-ryskt-dodstal-skrivs-upp-rejalt",
-      "guid": "https://www.aftonbladet.se/nyheter/a/dJOWmO/beraknat-ryskt-dodstal-skrivs-upp-rejalt?utm_medium=rss",
-      "published_at": "2026-11-24T08:51:48+01:00",
-      "fetched_at": "2026-11-24T09:01:09+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/fdb3525e-4621-37b6-97d2-32cb8ed75e13?format=auto&s=6fcf3b8d1619974053972eb992ed2d39fab2f918&w=1000",
-      "sv": {
-        "title": "Beräknat ryskt dödstal skrivs upp rejält",
-        "summary": "Hundratusentals ryska soldater har stupat i invasionskriget i Ukraina.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estimated Russian death toll revised sharply upward",
-        "summary": "Hundreds of thousands of Russian soldiers have been killed in the invasion of Ukraine."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T09:01:17+01:00"
-      }
-    },
-    {
-      "id": "7f27d745d627",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Jno9EJ/beraknat-ryskt-dodstal-skrivs-upp-rejalt",
-      "guid": "https://www.svd.se/a/Jno9EJ/beraknat-ryskt-dodstal-skrivs-upp-rejalt?utm_medium=rss",
-      "published_at": "2026-11-24T08:51:48+01:00",
-      "fetched_at": "2026-11-24T09:01:09+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/fdb3525e-4621-37b6-97d2-32cb8ed75e13?format=auto&s=6fcf3b8d1619974053972eb992ed2d39fab2f918&w=1000",
-      "sv": {
-        "title": "Beräknat ryskt dödstal skrivs upp rejält",
-        "summary": "Hundratusentals ryska soldater har stupat i invasionskriget i Ukraina.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estimated Russian death toll revised sharply upward",
-        "summary": "Hundreds of thousands of Russian soldiers have been killed in the invasion of Ukraine."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T09:01:17+01:00"
-      }
-    },
-    {
-      "id": "c495aeafc691",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/larmet-om-ostersjon-efter-finska-noddraget",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/larmet-om-ostersjon-efter-finska-noddraget",
-      "published_at": "2026-11-24T08:35:51+01:00",
-      "fetched_at": "2026-11-24T08:45:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Krigslarmet om Östersjön",
-        "summary": "Europa varnar Zelenskyj efter finska nöddraget: ”Får inte ...”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Alarm over the Baltic Sea",
-        "summary": "Europe warns Zelenskyj after Finnish emergency landing: \"Must not ...\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T08:45:53+01:00"
       }
     }
   ]

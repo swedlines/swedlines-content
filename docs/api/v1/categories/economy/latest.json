@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-26T09:48:00+01:00",
+  "generated_at": "2026-11-26T10:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f6a37d0bbbed",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/stromningtjanster-storre-an-intakter-fran-ang-tv",
+      "guid": "1ebe8c64-2127-4247-ad41-dd2aaa877af9",
+      "published_at": "2026-11-26T09:53:18+01:00",
+      "fetched_at": "2026-11-26T10:01:17+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Strömningtjänster större än intäkter från ång-TV",
+        "summary": "Intäkter från strömningstjänster i Norden väntas under 2026 för första gången överstiga intäkterna från traditionell kommersiell TV, enligt analysföretaget Mediavision.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Streaming services bigger than revenue from linear TV",
+        "summary": "Revenue from streaming services in the Nordics is expected to exceed revenue from traditional commercial TV for the first time in 2026, according to the analysis firm Mediavision."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:01:24+01:00"
+      }
+    },
+    {
+      "id": "394b8deaa64d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/riksgalden-rakna-med-budgetunderskott",
+      "guid": "e8513d16-bcfe-4097-a408-963c9397237d",
+      "published_at": "2026-11-26T09:53:11+01:00",
+      "fetched_at": "2026-11-26T10:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8264353d-575b-4abe-bc32-dfa043e02be7.jpeg?width=600",
+      "sv": {
+        "title": "Riksgälden: Räkna med budgetunderskott",
+        "summary": "Riksgäldens nya prognos visar en starkare utveckling av statens finanser än tidigare väntat, men det blir fortsatt stora budgetunderskott de kommande två åren. Dessutom ökar statens refinansieringsbehov 2028.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "National Debt Office: Expect budget deficits",
+        "summary": "The National Debt Office's new forecast shows a stronger development of the state's finances than previously expected, but large budget deficits will continue in the next two years. In addition, the state's refinancing need increases in 2028."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:01:24+01:00"
+      }
+    },
+    {
+      "id": "444f004fb5be",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/landerborn-borsuppgang-ar-inte-over-koper-usa",
+      "guid": "9be575ef-c766-5c7c-ad43-6e511ba25785",
+      "published_at": "2026-11-26T09:44:47+01:00",
+      "fetched_at": "2026-11-26T10:01:17+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Landerborn: Börsuppgång är inte över – köper USA",
+        "summary": "Maria Landerborn, seniorstrateg på Danske Bank, om börsutsikterna och AI-frossan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Landerborn: Stock rally is not over – buying USA",
+        "summary": "Maria Landerborn, senior strategist at Danske Bank, on stock market prospects and the AI frenzy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:01:24+01:00"
+      }
+    },
     {
       "id": "690b10236099",
       "schema_version": 1,
@@ -5194,87 +5273,6 @@
       "en": {
         "title": "Kinberg Batra: \"Just over 50 percent chance of a government on Monday\"",
         "summary": "Former Moderates party leader Anna Kinberg Batra on the tense situation in the government formation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:31:03+01:00"
-      }
-    },
-    {
-      "id": "e9468ea40e06",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kris-hos-norska-flygbolaget-aktien-rasar-70-procent",
-      "guid": "027cd246-d74d-47d2-b885-1b6abb563cc3",
-      "published_at": "2026-11-25T10:22:39+01:00",
-      "fetched_at": "2026-11-25T10:30:56+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e931e59c-81f8-4f8f-9e4d-7679f9376602.jpg?width=600",
-      "sv": {
-        "title": "Kris hos norska flygbolaget – aktien rasar 70 procent",
-        "summary": "Norska flygbolaget Norse flaggar för en ekonomisk kris inom företaget. Aktien rasar omkring 70 procent på Oslobörsen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Crisis at Norwegian airline – shares plunge 70 percent",
-        "summary": "Norwegian airline Norse flags an economic crisis within the company. The share price plunges around 70 percent on the Oslo Stock Exchange."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:31:03+01:00"
-      }
-    },
-    {
-      "id": "efbbc3c8c8b5",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/arctic-maklar-storpost-i-sveafastigheter",
-      "guid": "c75a2a68-9ae2-43a9-8179-1c5ae06c8c6f",
-      "published_at": "2026-11-25T10:21:44+01:00",
-      "fetched_at": "2026-11-25T10:30:56+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/341f597f-842a-4a5a-93f6-9c3b2760a168.jpeg?width=600",
-      "sv": {
-        "title": "Arctic mäklar storpost i Sveafastigheter",
-        "summary": "En post motsvarande 1,6 procent av aktiekapitalet i fastighetsföretaget Sveafastigheter anmäldes på onsdagsförmiddagen internmäklad av investmentbanken Arctic Securities.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Arctic brokers large block of Sveafastigheter",
-        "summary": "A block equivalent to 1.6 percent of the share capital of property company Sveafastigheter was reported internally brokered by investment bank Arctic Securities on Wednesday morning."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:31:03+01:00"
-      }
-    },
-    {
-      "id": "81dda7bcf609",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/utlandska-turister-ger-uppsving-for-hotellen",
-      "guid": "19fa3394-6413-4fc9-b7dd-3980e8680091",
-      "published_at": "2026-11-25T10:20:00+01:00",
-      "fetched_at": "2026-11-25T10:30:57+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/923ed149-9a19-492f-b839-1e7c9025f8f6.jpg?width=600",
-      "sv": {
-        "title": "Utländska turister ger uppsving för hotellen",
-        "summary": "Utländska turister lockas fortsatt i stor utsträckning till Sverige.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Foreign tourists boost hotels",
-        "summary": "Foreign tourists continue to be drawn to Sweden to a large extent."
       },
       "translation": {
         "status": "done",

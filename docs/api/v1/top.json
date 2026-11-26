@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T09:48:00+01:00",
-  "count": 25,
+  "generated_at": "2026-11-26T10:01:27+01:00",
+  "count": 24,
   "stories": [
     {
       "id": "bca5b56324c1",
@@ -711,6 +711,189 @@
       ]
     },
     {
+      "id": "ed574169a1d8",
+      "source_count": 3,
+      "sources": [
+        "svt",
+        "aftonbladet",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-26T09:32:28+01:00",
+      "last_published_at": "2026-11-26T09:56:19+01:00",
+      "lead": {
+        "id": "ed574169a1d8",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
+        "guid": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
+        "published_at": "2026-11-26T09:32:28+01:00",
+        "fetched_at": "2026-11-26T09:45:44+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "C-toppar möts i dag – i blixtinkallat möte",
+          "summary": "Centerpartiet har kallat till ett extrainsatt möte med partistyrelsen och riksdagsgruppen under dagen. Syftet är, enligt SVT:s uppgifter, att undersöka om det finns ett stöd för att rösta grönt till Ulf Kristersson på måndag.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "C leaders meet today – at snap meeting",
+          "summary": "The Centre Party has called an extra meeting with the party board and the Riksdag group during the day. The aim is, according to SVT's information, to examine whether there is support for voting green for Ulf Kristersson (M) on Monday."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:45:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "dbfe12f1aff8",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/centerpartiet-blixtinkallar-till-mote",
+          "published_at": "2026-11-26T09:56:19+01:00",
+          "sv": {
+            "title": "Centerpartiet blixtinkallar till möte"
+          },
+          "en": {
+            "title": "Centre Party calls snap meeting"
+          }
+        },
+        {
+          "id": "3209bcfe334c",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ddec57c2-1d59-4079-ae61-f1df4f8fefc7",
+          "published_at": "2026-11-26T09:41:10+01:00",
+          "sv": {
+            "title": "C blixtinkallar till möte"
+          },
+          "en": {
+            "title": "C calls snap meeting"
+          }
+        },
+        {
+          "id": "48b1d3641113",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/xJPaql/centerpartiet-blixinkallar-till-mote",
+          "published_at": "2026-11-26T09:35:15+01:00",
+          "sv": {
+            "title": "C-toppar möts i blixtinkallat möte"
+          },
+          "en": {
+            "title": "Centre Party leaders meet in snap meeting"
+          }
+        },
+        {
+          "id": "ed574169a1d8",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
+          "published_at": "2026-11-26T09:32:28+01:00",
+          "sv": {
+            "title": "C-toppar möts i dag – i blixtinkallat möte"
+          },
+          "en": {
+            "title": "C leaders meet today – at snap meeting"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ab789aeedc63",
+      "source_count": 3,
+      "sources": [
+        "svd",
+        "expressen",
+        "sr"
+      ],
+      "first_published_at": "2026-11-26T09:29:15+01:00",
+      "last_published_at": "2026-11-26T09:50:00+01:00",
+      "lead": {
+        "id": "ab789aeedc63",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326",
+        "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326&utm_medium=rss",
+        "published_at": "2026-11-26T09:29:15+01:00",
+        "fetched_at": "2026-11-26T09:45:46+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Explosion på oljeanläggning"
+        },
+        "en": {
+          "title": "Explosion at oil facility"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:45:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "ffb8f6ef29bb",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9350493",
+          "published_at": "2026-11-26T09:50:00+01:00",
+          "sv": {
+            "title": "Kraftig explosion i Bangkok"
+          },
+          "en": {
+            "title": "Powerful explosion in Bangkok"
+          }
+        },
+        {
+          "id": "fa10527a05a1",
+          "source": "svd",
+          "url": "https://www.svd.se/a/KL3owo/explosion-pa-oljeanlaggning",
+          "published_at": "2026-11-26T09:45:28+01:00",
+          "sv": {
+            "title": "Explosion på oljeanläggning"
+          },
+          "en": {
+            "title": "Explosion at oil facility"
+          }
+        },
+        {
+          "id": "abd1a58da1c8",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=08fe095e-e0f9-42a2-9ca6-5327f35a9ef2",
+          "published_at": "2026-11-26T09:33:14+01:00",
+          "sv": {
+            "title": "Stor explosion"
+          },
+          "en": {
+            "title": "Major explosion"
+          }
+        },
+        {
+          "id": "5e92d9b49e0e",
+          "source": "expressen",
+          "url": "https://www.expressen.se/tv/nyheter/varlden/enorm-explosion-i-bangkok",
+          "published_at": "2026-11-26T09:33:14+01:00",
+          "sv": {
+            "title": "Stor explosion"
+          },
+          "en": {
+            "title": "Major explosion"
+          }
+        },
+        {
+          "id": "ab789aeedc63",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326",
+          "published_at": "2026-11-26T09:29:15+01:00",
+          "sv": {
+            "title": "Explosion på oljeanläggning"
+          },
+          "en": {
+            "title": "Explosion at oil facility"
+          }
+        }
+      ]
+    },
+    {
       "id": "45a9cb400b91",
       "source_count": 3,
       "sources": [
@@ -1232,139 +1415,6 @@
           },
           "en": {
             "title": "Duran Duran's Andy Taylor dead"
-          }
-        }
-      ]
-    },
-    {
-      "id": "ab789aeedc63",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-26T09:29:15+01:00",
-      "last_published_at": "2026-11-26T09:45:28+01:00",
-      "lead": {
-        "id": "ab789aeedc63",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326",
-        "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326&utm_medium=rss",
-        "published_at": "2026-11-26T09:29:15+01:00",
-        "fetched_at": "2026-11-26T09:45:46+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Explosion på oljeanläggning"
-        },
-        "en": {
-          "title": "Explosion at oil facility"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T09:45:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "fa10527a05a1",
-          "source": "svd",
-          "url": "https://www.svd.se/a/KL3owo/explosion-pa-oljeanlaggning",
-          "published_at": "2026-11-26T09:45:28+01:00",
-          "sv": {
-            "title": "Explosion på oljeanläggning"
-          },
-          "en": {
-            "title": "Explosion at oil facility"
-          }
-        },
-        {
-          "id": "abd1a58da1c8",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=08fe095e-e0f9-42a2-9ca6-5327f35a9ef2",
-          "published_at": "2026-11-26T09:33:14+01:00",
-          "sv": {
-            "title": "Stor explosion"
-          },
-          "en": {
-            "title": "Major explosion"
-          }
-        },
-        {
-          "id": "ab789aeedc63",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326",
-          "published_at": "2026-11-26T09:29:15+01:00",
-          "sv": {
-            "title": "Explosion på oljeanläggning"
-          },
-          "en": {
-            "title": "Explosion at oil facility"
-          }
-        }
-      ]
-    },
-    {
-      "id": "ed574169a1d8",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-26T09:32:28+01:00",
-      "last_published_at": "2026-11-26T09:41:10+01:00",
-      "lead": {
-        "id": "ed574169a1d8",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
-        "guid": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
-        "published_at": "2026-11-26T09:32:28+01:00",
-        "fetched_at": "2026-11-26T09:45:44+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "C-toppar möts i dag – i blixtinkallat möte",
-          "summary": "Centerpartiet har kallat till ett extrainsatt möte med partistyrelsen och riksdagsgruppen under dagen. Syftet är, enligt SVT:s uppgifter, att undersöka om det finns ett stöd för att rösta grönt till Ulf Kristersson på måndag.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "C leaders meet today – at snap meeting",
-          "summary": "The Centre Party has called an extra meeting with the party board and the Riksdag group during the day. The aim is, according to SVT's information, to examine whether there is support for voting green for Ulf Kristersson (M) on Monday."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T09:45:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "3209bcfe334c",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ddec57c2-1d59-4079-ae61-f1df4f8fefc7",
-          "published_at": "2026-11-26T09:41:10+01:00",
-          "sv": {
-            "title": "C blixtinkallar till möte"
-          },
-          "en": {
-            "title": "C calls snap meeting"
-          }
-        },
-        {
-          "id": "ed574169a1d8",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
-          "published_at": "2026-11-26T09:32:28+01:00",
-          "sv": {
-            "title": "C-toppar möts i dag – i blixtinkallat möte"
-          },
-          "en": {
-            "title": "C leaders meet today – at snap meeting"
           }
         }
       ]
@@ -1902,65 +1952,6 @@
           },
           "en": {
             "title": "AI stocks plunge on deep-red Wall Street: “Wild out there now”"
-          }
-        }
-      ]
-    },
-    {
-      "id": "36aa2261da72",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "sr"
-      ],
-      "first_published_at": "2026-11-25T21:10:01+01:00",
-      "last_published_at": "2026-11-25T21:56:00+01:00",
-      "lead": {
-        "id": "36aa2261da72",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2c8d4201-684d-4ff9-8808-c2e35d7d7aa2",
-        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2c8d4201-684d-4ff9-8808-c2e35d7d7aa2",
-        "published_at": "2026-11-25T21:10:01+01:00",
-        "fetched_at": "2026-11-25T21:15:49+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Kuppen Socialdemokraternas högkvarter"
-        },
-        "en": {
-          "title": "Coup at the Social Democrats' headquarters"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T21:16:02+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "f24f434c0140",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9350314",
-          "published_at": "2026-11-25T21:56:00+01:00",
-          "sv": {
-            "title": "Kuppen på S-högkvarteret: ”Svik inte era väljare”"
-          },
-          "en": {
-            "title": "Coup at the Social Democrats' headquarters: \"Don't betray your voters\""
-          }
-        },
-        {
-          "id": "36aa2261da72",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2c8d4201-684d-4ff9-8808-c2e35d7d7aa2",
-          "published_at": "2026-11-25T21:10:01+01:00",
-          "sv": {
-            "title": "Kuppen Socialdemokraternas högkvarter"
-          },
-          "en": {
-            "title": "Coup at the Social Democrats' headquarters"
           }
         }
       ]
