@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T16:01:28+01:00",
+  "generated_at": "2026-11-26T16:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a3845e2e8350",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/530PpK/knivman-pa-engelskt-tag-domd-for-flera-mordforsok",
+      "guid": "https://www.aftonbladet.se/nyheter/a/530PpK/knivman-pa-engelskt-tag-domd-for-flera-mordforsok?utm_medium=rss",
+      "published_at": "2026-11-26T16:06:39+01:00",
+      "fetched_at": "2026-11-26T16:15:48+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/c4d61412-4db5-39a0-b841-e2a925002283?format=auto&s=bf84f767ed27d6e620d497990b24ab784e473e43&w=1000",
+      "sv": {
+        "title": "Knivman på engelskt tåg dömd för flera mordförsök",
+        "summary": "Den man som i fjol attackerade flera människor på ett tåg på väg mot London har dömts för mordförsök…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Knife attacker on English train convicted of multiple attempted murders",
+        "summary": "The man who last year attacked several people on a train bound for London has been convicted of attempted murder…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T16:15:54+01:00"
+      }
+    },
     {
       "id": "60f9d8a98897",
       "schema_version": 1,
@@ -5386,33 +5413,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T20:01:21+01:00"
-      }
-    },
-    {
-      "id": "6d047e45cc98",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/nationella-bombskyddet-pa-plats-i-hyllieby-larm-om-misstankt-foremal",
-      "guid": "42a72923-292f-4cbd-bb5b-00464ce03556",
-      "published_at": "2026-11-21T19:30:26+01:00",
-      "fetched_at": "2026-11-21T19:31:02+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/2536a9f5-4c77-4720-8810-b33a0d875930.jpeg?width=600",
-      "sv": {
-        "title": "Nationella bombskyddet på plats i Hyllieby – farligt föremål hittat",
-        "summary": "Polisen och Nationella bombskyddet är på plats i ett bostadsområde i Hyllieby efter att ett larm kommit om ett misstänkt föremål.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "National Bomb Protection on site in Hyllieby – dangerous object found",
-        "summary": "Police and the National Bomb Protection unit are on site in a residential area in Hyllieby after an alarm was raised about a suspicious object."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T19:31:08+01:00"
       }
     }
   ]
