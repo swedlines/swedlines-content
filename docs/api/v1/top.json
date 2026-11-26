@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T13:45:54+01:00",
+  "generated_at": "2026-11-26T14:01:36+01:00",
   "count": 30,
   "stories": [
     {
@@ -1863,6 +1863,134 @@
       ]
     },
     {
+      "id": "f116565121bb",
+      "source_count": 2,
+      "sources": [
+        "tv4",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-26T13:19:23+01:00",
+      "last_published_at": "2026-11-26T13:52:42+01:00",
+      "lead": {
+        "id": "f116565121bb",
+        "schema_version": 1,
+        "source": "tv4",
+        "url": "https://www.tv4.se/artikel/7CATfN8R1dFkIkhCjOsTx6/talmannens-plan-foer-extraval-da-saetts-datumet",
+        "guid": "7CATfN8R1dFkIkhCjOsTx6",
+        "published_at": "2026-11-26T13:19:23+01:00",
+        "fetched_at": "2026-11-26T13:31:07+01:00",
+        "category": "politics",
+        "feed_categories": [
+          "/"
+        ],
+        "sv": {
+          "title": "Talmannens plan för extraval – då sätts datumet",
+          "summary": "Tjänsteanteckningar avslöjar Norléns deadline",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Speaker's plan for snap election – this is when the date is set",
+          "summary": "Internal memos reveal Norlén's deadline"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T13:31:13+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "90515cfe228d",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/da-kan-det-bli-extraval",
+          "published_at": "2026-11-26T13:52:42+01:00",
+          "sv": {
+            "title": "Då kan det bli extraval"
+          },
+          "en": {
+            "title": "Then Snap Election Could Happen"
+          }
+        },
+        {
+          "id": "f116565121bb",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/7CATfN8R1dFkIkhCjOsTx6/talmannens-plan-foer-extraval-da-saetts-datumet",
+          "published_at": "2026-11-26T13:19:23+01:00",
+          "sv": {
+            "title": "Talmannens plan för extraval – då sätts datumet"
+          },
+          "en": {
+            "title": "Speaker's plan for snap election – this is when the date is set"
+          }
+        }
+      ]
+    },
+    {
+      "id": "531f45a5a540",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-26T13:40:40+01:00",
+      "last_published_at": "2026-11-26T13:48:50+01:00",
+      "lead": {
+        "id": "531f45a5a540",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/dJO6Ej/polisen-varnar-for-bluff-sms",
+        "guid": "https://www.aftonbladet.se/nyheter/a/dJO6Ej/polisen-varnar-for-bluff-sms?utm_medium=rss",
+        "published_at": "2026-11-26T13:40:40+01:00",
+        "fetched_at": "2026-11-26T13:45:43+01:00",
+        "category": "crime",
+        "image_url": "https://akamai.vgc.no/v2/images/9f1bbac0-e411-391d-b3c2-7ea84532e89f?format=auto&s=7a86c364643552a240151cfa21ae96f7b67d2a6e&w=1000",
+        "sv": {
+          "title": "Polisen varnar för bluff-sms",
+          "summary": "Polisen varnar för bluff-sms som rapporterats på flera håll i landet. Avsändaren påstås vara polisen…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Police warn about scam texts",
+          "summary": "Police warn about scam texts reported in several parts of the country. The sender is claimed to be the police…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T13:45:49+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "6e6f281f48c8",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/polisen-varnar-for-bluff-sms-PP7j4",
+          "published_at": "2026-11-26T13:48:50+01:00",
+          "sv": {
+            "title": "Polisen varnar för bluff-sms"
+          },
+          "en": {
+            "title": "Police Warn of Fake SMS Messages"
+          }
+        },
+        {
+          "id": "531f45a5a540",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/dJO6Ej/polisen-varnar-for-bluff-sms",
+          "published_at": "2026-11-26T13:40:40+01:00",
+          "sv": {
+            "title": "Polisen varnar för bluff-sms"
+          },
+          "en": {
+            "title": "Police warn about scam texts"
+          }
+        }
+      ]
+    },
+    {
       "id": "acad5f58e2e0",
       "source_count": 2,
       "sources": [
@@ -1984,6 +2112,69 @@
           },
           "en": {
             "title": "Teenagers charged with murder face twelve years in prison"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a77c83f6acee",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "svt"
+      ],
+      "first_published_at": "2026-11-26T11:43:03+01:00",
+      "last_published_at": "2026-11-26T13:18:54+01:00",
+      "lead": {
+        "id": "a77c83f6acee",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/nyheter/miljonsmall-for-moderna-museet-har-tagit-for-stora-risker",
+        "guid": "38001c73-b664-4a7e-903f-9f9fea1f1863",
+        "published_at": "2026-11-26T11:43:03+01:00",
+        "fetched_at": "2026-11-26T11:45:51+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/b0fb525e-9c5c-4b4f-ae17-314b2fb1fe00.jpeg?width=600",
+        "sv": {
+          "title": "Miljonsmäll för Moderna museet: ”Har tagit för stora risker”",
+          "summary": "Moderna museet går mot ett underskott på minst 18 miljoner kronor – nästan dubbelt så stort som tidigare känt. Nu väntar ett ekonomiskt tufft år för den nytillträdda museichefen Tone Hansen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Million-kronor hit for Moderna museet: “Has taken too great risks”",
+          "summary": "Moderna museet is heading for a deficit of at least SEK 18 million – nearly twice as large as previously known. Now a tough financial year awaits the newly appointed museum director Tone Hansen."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T11:45:56+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "bae2f1aa2186",
+          "source": "svt",
+          "url": "https://www.svt.se/kultur/miljonunderskott-for-moderna-for-stora-risker",
+          "published_at": "2026-11-26T13:18:54+01:00",
+          "sv": {
+            "title": "Miljonunderskott för Moderna museet: ”För stora risker”"
+          },
+          "en": {
+            "title": "Million-Krona Deficit for Moderna Museet: “Too Great Risks”"
+          }
+        },
+        {
+          "id": "a77c83f6acee",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/miljonsmall-for-moderna-museet-har-tagit-for-stora-risker",
+          "published_at": "2026-11-26T11:43:03+01:00",
+          "sv": {
+            "title": "Miljonsmäll för Moderna museet: ”Har tagit för stora risker”"
+          },
+          "en": {
+            "title": "Million-kronor hit for Moderna museet: “Has taken too great risks”"
           }
         }
       ]
@@ -2309,196 +2500,6 @@
           },
           "en": {
             "title": "After the flood in Nepal – nearly 5,000 still missing"
-          }
-        }
-      ]
-    },
-    {
-      "id": "0413154a6dae",
-      "source_count": 2,
-      "sources": [
-        "tv4",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-26T10:01:39+01:00",
-      "last_published_at": "2026-11-26T10:15:05+01:00",
-      "lead": {
-        "id": "0413154a6dae",
-        "schema_version": 1,
-        "source": "tv4",
-        "url": "https://www.tv4.se/artikel/5lM521Odngu0YHq8J7MMmI/kristersson-skyr-inte-extra-val",
-        "guid": "5lM521Odngu0YHq8J7MMmI",
-        "published_at": "2026-11-26T10:01:39+01:00",
-        "fetched_at": "2026-11-26T10:15:51+01:00",
-        "category": "politics",
-        "feed_categories": [
-          "/"
-        ],
-        "sv": {
-          "title": "Kristersson: ”Skyr inte extra val”",
-          "summary": "Hoppfull inför måndag • Tror på sina chanser",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Kristersson: \"Won't shy away from snap election\"",
-          "summary": "Hopeful ahead of Monday • Believes in his chances"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T10:16:07+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "30f1572154e1",
-          "source": "aftonbladet",
-          "url": "https://tv.aftonbladet.se/video/411287",
-          "published_at": "2026-11-26T10:15:05+01:00",
-          "sv": {
-            "title": "Kristersson: ”Skyr inget extraval”"
-          },
-          "en": {
-            "title": "Kristersson: “Rules out snap election”"
-          }
-        },
-        {
-          "id": "0413154a6dae",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/5lM521Odngu0YHq8J7MMmI/kristersson-skyr-inte-extra-val",
-          "published_at": "2026-11-26T10:01:39+01:00",
-          "sv": {
-            "title": "Kristersson: ”Skyr inte extra val”"
-          },
-          "en": {
-            "title": "Kristersson: \"Won't shy away from snap election\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "01ec06ca11f2",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "svd"
-      ],
-      "first_published_at": "2026-11-26T08:10:21+01:00",
-      "last_published_at": "2026-11-26T08:12:20+01:00",
-      "lead": {
-        "id": "01ec06ca11f2",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ba7f7754-85d1-4824-ac93-8ca1d50a0a4a",
-        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ba7f7754-85d1-4824-ac93-8ca1d50a0a4a",
-        "published_at": "2026-11-26T08:10:21+01:00",
-        "fetched_at": "2026-11-26T08:15:53+01:00",
-        "category": "sweden",
-        "sv": {
-          "title": "Man föll fem meter",
-          "summary": "Olycka i centrala Stockholm",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Man fell five metres",
-          "summary": "Accident in central Stockholm"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T08:15:59+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "71ba41511b5b",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80325",
-          "published_at": "2026-11-26T08:12:20+01:00",
-          "sv": {
-            "title": "Arbetsplatsolycka vid Slussen – föll fem meter"
-          },
-          "en": {
-            "title": "Workplace accident at Slussen – fell five metres"
-          }
-        },
-        {
-          "id": "01ec06ca11f2",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ba7f7754-85d1-4824-ac93-8ca1d50a0a4a",
-          "published_at": "2026-11-26T08:10:21+01:00",
-          "sv": {
-            "title": "Man föll fem meter"
-          },
-          "en": {
-            "title": "Man fell five metres"
-          }
-        }
-      ]
-    },
-    {
-      "id": "1e0371a2d790",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-26T06:13:59+01:00",
-      "last_published_at": "2026-11-26T06:47:27+01:00",
-      "lead": {
-        "id": "1e0371a2d790",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/7P0rxv/bensinpriset-hojs-1-december-risk-for-branslebrist",
-        "guid": "https://www.aftonbladet.se/nyheter/a/7P0rxv/bensinpriset-hojs-1-december-risk-for-branslebrist?utm_medium=rss",
-        "published_at": "2026-11-26T06:13:59+01:00",
-        "fetched_at": "2026-11-26T06:15:44+01:00",
-        "category": "economy",
-        "image_url": "https://akamai.vgc.no/v2/images/bd16546d-123b-36e2-9e44-26c7cab72048?format=auto&s=3f5e50f579aae0b186763cc139d3804821e56ee1&w=1000",
-        "sv": {
-          "title": "Polisens interna varning – risk för bränslebrist när priset höjs",
-          "summary": "Risk för bränslebrist: ”Då är vi säkrade”",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Internal police warning – risk of fuel shortage as price rises",
-          "summary": "Risk of fuel shortage: “Then we are secured”"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T06:15:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "208f7524639b",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/sverige/polisens-interna-varning-risk-for-branslebrist",
-          "published_at": "2026-11-26T06:47:27+01:00",
-          "sv": {
-            "title": "Polisens interna varning: Risk för bränslebrist"
-          },
-          "en": {
-            "title": "Internal police warning: Risk of fuel shortage"
-          }
-        },
-        {
-          "id": "1e0371a2d790",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/7P0rxv/bensinpriset-hojs-1-december-risk-for-branslebrist",
-          "published_at": "2026-11-26T06:13:59+01:00",
-          "sv": {
-            "title": "Polisens interna varning – risk för bränslebrist när priset höjs"
-          },
-          "en": {
-            "title": "Internal police warning – risk of fuel shortage as price rises"
           }
         }
       ]

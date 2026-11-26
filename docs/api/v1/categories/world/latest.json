@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T13:45:54+01:00",
+  "generated_at": "2026-11-26T14:01:36+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b39fa901770d",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/sagar-trump-mitt-i-hogtidshaveriet-",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/sagar-trump-mitt-i-hogtidshaveriet-",
+      "published_at": "2026-11-26T13:59:18+01:00",
+      "fetched_at": "2026-11-26T14:01:25+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Sågar Trump",
+        "summary": "Syrliga passningen mitt i högtidshaveriet: ”Han har ...”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump Gets Roasted",
+        "summary": "The cutting remark amid the royal fiasco: “He has ...”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T14:01:33+01:00"
+      }
+    },
     {
       "id": "f17d7becebff",
       "schema_version": 1,
@@ -79,6 +105,40 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T13:45:49+01:00"
+      }
+    },
+    {
+      "id": "07050626b404",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/mutatal-mot-benjamin-netanyahu-kan-laggas-ned.5eb07f4e-32bc-546d-9012-a7ffc516da38",
+      "guid": "5eb07f4e-32bc-546d-9012-a7ffc516da38",
+      "published_at": "2026-11-26T13:36:11+01:00",
+      "fetched_at": "2026-11-26T14:01:26+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Mutbrott",
+        "Tagg: Åtal",
+        "Tagg: Rättegångar",
+        "Tagg: Benjamin Netanyahu"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/ee5c69fc-c47f-3bd2-8a85-2675559037cb",
+      "sv": {
+        "title": "Åtal mot Netanyahu kan läggas ned",
+        "summary": "Israels premiärminister Benjamin Netanyahu har stått åtalat i tre korruptionsfall sedan 2019. Nu rekommenderar domstolen att åtalet om mutbrott läggs ned. Netanyahu vill att rättegången ”avslutas omedelbart”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Charges Against Netanyahu May Be Dropped",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu has been charged in three corruption cases since 2019. Now the court recommends that the bribery charge be dropped. Netanyahu wants the trial to be “ended immediately”."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T14:01:33+01:00"
       }
     },
     {
@@ -5256,59 +5316,6 @@
       "en": {
         "title": "\"No one texts the Kremlin under the table anymore\" – How Brussels has changed since Orbán's exit",
         "summary": "BRUSSELS. Constant vetoes, hostile outbursts against allies and ministers who texted the Kremlin under the table – straight from EU meetings. After Viktor Orbán's Hungarian regime fell, Brussels has turned a new page. – Finally, the Russians' direct line to Brussels has gone silent, says an EU diplomat."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:15:55+01:00"
-      }
-    },
-    {
-      "id": "063440fccc3c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/magyars-popularitet-bestar-ett-halvar-efter-maktskiftet",
-      "guid": "https://www.dn.se/varlden/magyars-popularitet-bestar-ett-halvar-efter-maktskiftet/",
-      "published_at": "2026-11-24T16:03:24+01:00",
-      "fetched_at": "2026-11-24T16:15:46+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/b818faa5-baa8-4c19-a09e-b80854a67d75.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Magyars popularitet består ett halvår efter maktskiftet",
-        "summary": "Ungerns nye premiärminister Péter Magyar har under sitt första halvår vid makten gjort allvar av sitt viktigaste vallöfte – att slå till mot korruptionen. Det välkomnas av ungrarna, som än så länge verkar ha överseende om annat dröjer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Magyar's popularity holds six months after the change of power",
-        "summary": "Hungary's new prime minister Péter Magyar has, in his first six months in power, followed through on his most important election promise – to crack down on corruption. Hungarians welcome this, and so far appear willing to be patient about other things taking longer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:15:55+01:00"
-      }
-    },
-    {
-      "id": "853eee7f9245",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/z0Go2q/huthirorelsen-avancerar-mot-aden",
-      "guid": "https://www.aftonbladet.se/nyheter/a/z0Go2q/huthirorelsen-avancerar-mot-aden?utm_medium=rss",
-      "published_at": "2026-11-24T16:02:29+01:00",
-      "fetched_at": "2026-11-24T16:15:48+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Huthirörelsen avancerar mot Aden",
-        "summary": "Huthirörelsen uppger att dess styrkor gör sig redo att attackera den regeringskontrollerade…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Houthi movement advances towards Aden",
-        "summary": "The Houthi movement says its forces are preparing to attack the government-controlled…"
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-26T13:45:54+01:00",
+  "generated_at": "2026-11-26T14:01:36+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d9d2b33a2235",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2PsvmJe4rihgg7tqIW2hfR/mellostjaernan-stal-bild-pa-sig-sjaelv-fick-tusentals-i-boeter",
+      "guid": "2PsvmJe4rihgg7tqIW2hfR",
+      "published_at": "2026-11-26T13:52:49+01:00",
+      "fetched_at": "2026-11-26T14:01:26+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nöje"
+      ],
+      "sv": {
+        "title": "Mellostjärnan stal bild på sig själv – fick tusentals i böter",
+        "summary": "På Facebook delade artisten Robin Bengtsson en bild på sig själv från Melodifestivalens efterfest i Sundsvall. Det skulle visa sig bli ett dyrt misstag. Trots att det var en bild på honom själv var den inte hans att dela vidare.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Melodifestivalen Star Stole Picture of Himself – Fined Thousands",
+        "summary": "On Facebook, the artist Robin Bengtsson shared a picture of himself from the Melodifestivalen after-party in Sundsvall. It turned out to be an expensive mistake. Even though it was a picture of him, it was not his to share further."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T14:01:33+01:00"
+      }
+    },
     {
       "id": "ae27530bc790",
       "schema_version": 1,
@@ -27,6 +56,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T13:45:49+01:00"
+      }
+    },
+    {
+      "id": "bae2f1aa2186",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/kultur/miljonunderskott-for-moderna-for-stora-risker",
+      "guid": "https://www.svt.se/kultur/miljonunderskott-for-moderna-for-stora-risker",
+      "published_at": "2026-11-26T13:18:54+01:00",
+      "fetched_at": "2026-11-26T14:01:21+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Miljonunderskott för Moderna museet: ”För stora risker”",
+        "summary": "Moderna museets underskott väntas uppgå till minst 16 miljoner kronor inför 2027, rapporterar Dagens industri.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Million-Krona Deficit for Moderna Museet: “Too Great Risks”",
+        "summary": "Moderna museet's deficit is expected to amount to at least SEK 16 million ahead of 2027, reports Dagens industri."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T14:01:33+01:00"
       }
     },
     {
@@ -5622,58 +5677,6 @@
       "en": {
         "title": "12,000 evacuated from concert",
         "summary": "Thousands of visitors had to be evacuated during rapper Don Toliver's concert in Manchester."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:44+01:00"
-      }
-    },
-    {
-      "id": "6042d786f1db",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/varmland/allt-fler-svenskar-trostshoppar-unnar-mig-valdigt-ofta",
-      "guid": "https://www.svt.se/nyheter/lokalt/varmland/allt-fler-svenskar-trostshoppar-unnar-mig-valdigt-ofta",
-      "published_at": "2026-11-23T05:30:01+01:00",
-      "fetched_at": "2026-11-23T06:55:59+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Allt fler svenskar tröstshoppar: ”Unnar mig väldigt ofta”",
-        "summary": "Inför Black Week visar en europeisk undersökning att 41 procent i Sverige ibland tröstshoppar. Bland unga i generation Z är andelen sex av tio.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "More and more Swedes retail therapy: “I treat myself very often”",
-        "summary": "Ahead of Black Week, a European survey shows that 41 percent in Sweden sometimes go retail therapy shopping. Among young people in Generation Z, the share is six in ten."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:44+01:00"
-      }
-    },
-    {
-      "id": "629bbb00ba08",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/camilla-34-ar-kvinnan-bakom-virala-kommun-berit",
-      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/camilla-34-ar-kvinnan-bakom-virala-kommun-berit",
-      "published_at": "2026-11-23T05:30:01+01:00",
-      "fetched_at": "2026-11-23T06:55:59+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Camilla, 34, är kvinnan bakom virala ”Kommun-Berit”",
-        "summary": "Camilla Pettersson från Västerås är kvinnan bakom de virala klippen med karaktären ”kommun-Berit”. Rollfiguren föddes i september då Camilla skojade för sig själv. En vän uppmanade henne att lägga ut klippet och följare strömmade in. – Det var ju så många som kände igen sig i den här figuren.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Camilla, 34, is the woman behind the viral “Municipality Berit”",
-        "summary": "Camilla Pettersson from Västerås is the woman behind the viral clips featuring the character “kommun-Berit”. The character was born in September when Camilla was joking around for herself. A friend urged her to post the clip, and followers poured in. – So many people recognised themselves in this figure."
       },
       "translation": {
         "status": "done",
