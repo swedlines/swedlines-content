@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T11:01:29+01:00",
+  "generated_at": "2026-11-26T11:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "55f9c51558b5",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/humanoid-robot-testas-i-ojebyn-kan-hjalpa-industrin",
+      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/humanoid-robot-testas-i-ojebyn-kan-hjalpa-industrin",
+      "published_at": "2026-11-26T11:00:01+01:00",
+      "fetched_at": "2026-11-26T11:15:44+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Humanoid robot testas i Öjebyn – kan hjälpa industrin",
+        "summary": "Humanoida robotar kan bli ett vanligare inslag i framtidens industri. Nu ska forskningsinstitutet RISE i Öjebyn bygga kompetens kring tekniken – för att kunna hjälpa företag att använda robotarna i produktionen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Humanoid robot tested in Öjebyn – could help industry",
+        "summary": "Humanoid robots may become a more common feature of future industry. Now the research institute RISE in Öjebyn is to build expertise in the technology – in order to help companies use the robots in production."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T11:15:54+01:00"
+      }
+    },
     {
       "id": "d64e0ee5d46a",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:45:52+01:00"
-      }
-    },
-    {
-      "id": "cd10397ad13f",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/stockholm/19-aring-doms-till-tolv-ars-fangelse-efter-polisens-signal-falla",
-      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/19-aring-doms-till-tolv-ars-fangelse-efter-polisens-signal-falla",
-      "published_at": "2026-11-20T13:06:36+01:00",
-      "fetched_at": "2026-11-20T13:15:43+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "19-åring döms till tolv års fängelse efter polisens Signal-fälla",
-        "summary": "En pistol, ett magasin och 5 000 kronor skulle placeras i en påse bakom en parkbänk på Södermalm. Det den 19-årige utföraren inte visste var att den han hade kontakt med på den krypterade chatten Signal var polis.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "19-year-old sentenced to twelve years in prison after police Signal sting",
-        "summary": "A pistol, a magazine and 5,000 kronor were to be placed in a bag behind a park bench on Södermalm. What the 19-year-old perpetrator did not know was that the person he was in contact with on the encrypted chat app Signal was a police officer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:15:53+01:00"
       }
     }
   ]

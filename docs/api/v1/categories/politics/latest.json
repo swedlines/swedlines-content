@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T11:01:29+01:00",
+  "generated_at": "2026-11-26T11:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7f2fb6009004",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/som-vanligt-har-ingen-fragat-sd",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/som-vanligt-har-ingen-fragat-sd/",
+      "published_at": "2026-11-26T11:10:05+01:00",
+      "fetched_at": "2026-11-26T11:15:47+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Som vanligt har ingen frågat SD",
+        "summary": "Jimmie Åkesson försöker halvt desperat gå i opposition. Ingen respekterar det.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "As usual, nobody has asked the Sweden Democrats",
+        "summary": "Jimmie Åkesson is half-desperately trying to go into opposition. Nobody respects that."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T11:15:54+01:00"
+      }
+    },
     {
       "id": "b9ddeaa10d71",
       "schema_version": 1,
@@ -5351,32 +5377,6 @@
       "en": {
         "title": "War of words between S and V: \"Long, long list of proposals\"",
         "summary": "After over 70 days without the government question being settled, accusations are flying on the red-green side over whose fault it is that the negotiations have broken down. \"The Left Party has not put forward a single concrete proposal,\" says Magdalena Andersson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:45:55+01:00"
-      }
-    },
-    {
-      "id": "23786db2aa31",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/utesluter-inte-sd-samarbete-i-intervju-vet-jag-inte-annu",
-      "guid": "https://www.svt.se/nyheter/inrikes/utesluter-inte-sd-samarbete-i-intervju-vet-jag-inte-annu",
-      "published_at": "2026-11-24T14:31:27+01:00",
-      "fetched_at": "2026-11-24T14:45:44+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Utesluter inte SD-samarbete i intervju: ”Vet jag inte ännu”",
-        "summary": "I en SVT-intervju utesluter C-ledaren Elisabeth Thand Ringqvist inte ett samarbete med SD. – Det vet jag inte ännu. Vi fattar beslut inom partiet, säger hon. Kort efter intervjun hör C-ledaren av sig på nytt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Does not rule out cooperation with SD in interview: \"I don't know yet\"",
-        "summary": "In an SVT interview, Centre Party leader Elisabeth Thand Ringqvist does not rule out cooperation with the Sweden Democrats. \"I don't know that yet. We make decisions within the party,\" she says. Shortly after the interview, the Centre Party leader gets back in touch again."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T11:01:29+01:00",
+  "generated_at": "2026-11-26T11:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "624043748eca",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/arsta-blir-dubbelt-sa-stort-stadskvaliteter-men-nara-till-gronska",
+      "guid": "https://www.dn.se/ekonomi/arsta-blir-dubbelt-sa-stort-stadskvaliteter-men-nara-till-gronska/",
+      "published_at": "2026-11-26T11:05:57+01:00",
+      "fetched_at": "2026-11-26T11:15:45+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/dd26726f-5406-4cbf-a5bf-4946f2832d42.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Årsta blir dubbelt så stort: ”Stadskvaliteter – men nära till grönska”",
+        "summary": "20 000 nya invånare, två t-banestationer och en park stor som Skansen – snart fördubblas Årsta i storlek. Projektet är ett av Sveriges största och sluter cirkeln av täta stadskvarter runt Stockholms innerstad.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Årsta to double in size: \"City qualities – but close to greenery\"",
+        "summary": "20,000 new residents, two metro stations and a park as big as Skansen – Årsta will soon double in size. The project is one of Sweden's largest and completes the ring of dense urban blocks around central Stockholm."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T11:15:54+01:00"
+      }
+    },
     {
       "id": "7d1919fd7800",
       "schema_version": 1,
@@ -5368,33 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T10:45:57+01:00"
-      }
-    },
-    {
-      "id": "a30bd15f25a6",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/elin-peters-talmannens-vattenfika-var-en-tydlig-signal-om-andra-bullar",
-      "guid": "https://www.dn.se/kultur/elin-peters-talmannens-vattenfika-var-en-tydlig-signal-om-andra-bullar/",
-      "published_at": "2026-11-23T10:11:37+01:00",
-      "fetched_at": "2026-11-23T10:15:49+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/8134f0ba-ab84-4889-b268-90975c7ae298.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Elin Peters: Talmannens vattenfika var en tydlig signal om andra bullar",
-        "summary": "Kan politiskt samförstånd verkligen uppnås över ett glas vatten? Kaffebrödets roll som socialt smörjmedel ska inte underskattas, skriver DN:s matredaktör Elin Peters.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Elin Peters: The Speaker's coffee break was a clear signal about other buns",
-        "summary": "Can political consensus really be reached over a glass of water? The role of coffee buns as a social lubricant should not be underestimated, writes DN food editor Elin Peters."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T10:15:59+01:00"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T11:01:29+01:00",
+  "generated_at": "2026-11-26T11:15:57+01:00",
   "count": 25,
   "stories": [
     {
@@ -1724,6 +1724,69 @@
       ]
     },
     {
+      "id": "177618068e9c",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "di"
+      ],
+      "first_published_at": "2026-11-26T10:51:19+01:00",
+      "last_published_at": "2026-11-26T11:12:01+01:00",
+      "lead": {
+        "id": "177618068e9c",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/dJO6nj/kopplingar-till-kriminella-vid-statliga-inkop",
+        "guid": "https://www.aftonbladet.se/nyheter/a/dJO6nj/kopplingar-till-kriminella-vid-statliga-inkop?utm_medium=rss",
+        "published_at": "2026-11-26T10:51:19+01:00",
+        "fetched_at": "2026-11-26T10:53:19+01:00",
+        "category": "crime",
+        "image_url": "https://akamai.vgc.no/v2/images/e4f8b09a-0f1c-352f-a00e-83acacf49dde?format=auto&s=a139b861e571e354099b006e0e14d2ffdea18f0e&w=1000",
+        "sv": {
+          "title": "Kopplingar till kriminella vid statliga inköp",
+          "summary": "Varje år gör statliga myndigheter inköp för stora belopp. Men man tar inte tillräcklig hänsyn till…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Links to criminals in state procurement",
+          "summary": "Every year government agencies make purchases worth large sums. But insufficient consideration is given to…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T10:53:25+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "dbf797bfef34",
+          "source": "di",
+          "url": "https://www.di.se/live/kopplingar-till-kriminella-vid-statliga-inkop",
+          "published_at": "2026-11-26T11:12:01+01:00",
+          "sv": {
+            "title": "Kopplingar till kriminella vid statliga inköp"
+          },
+          "en": {
+            "title": "Links to criminals in government procurement"
+          }
+        },
+        {
+          "id": "177618068e9c",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/dJO6nj/kopplingar-till-kriminella-vid-statliga-inkop",
+          "published_at": "2026-11-26T10:51:19+01:00",
+          "sv": {
+            "title": "Kopplingar till kriminella vid statliga inköp"
+          },
+          "en": {
+            "title": "Links to criminals in state procurement"
+          }
+        }
+      ]
+    },
+    {
       "id": "4bd2d8ea1b03",
       "source_count": 2,
       "sources": [
@@ -2031,69 +2094,6 @@
           },
           "en": {
             "title": "USA: Kim's daughter's clothes may be criminal"
-          }
-        }
-      ]
-    },
-    {
-      "id": "5f35822336d1",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-25T21:13:42+01:00",
-      "last_published_at": "2026-11-25T23:14:07+01:00",
-      "lead": {
-        "id": "5f35822336d1",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/ARdoyx/elon-musk-far-gront-ljus-for-datacenter-i-rymden",
-        "guid": "https://www.svd.se/a/ARdoyx/elon-musk-far-gront-ljus-for-datacenter-i-rymden?utm_medium=rss",
-        "published_at": "2026-11-25T21:13:42+01:00",
-        "fetched_at": "2026-11-25T21:15:48+01:00",
-        "category": "science_tech",
-        "image_url": "https://akamai.vgc.no/v2/images/4a8ed9bc-a173-3ced-bea9-d80520e0d9b2?format=auto&s=5c82231a52ea40fa222fc64aaacf09c7c623d947&w=1000",
-        "sv": {
-          "title": "Elon Musk får grönt ljus för datacenter i rymden",
-          "summary": "Rymdbolaget SpaceX har kommit ett steg närmare att skjuta upp datacenter i rymden, rapporterar flera…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Elon Musk gets green light for data centres in space",
-          "summary": "The space company SpaceX has moved a step closer to launching data centres into space, reports several…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T21:16:02+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "afb09069b564",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/elon-musk-far-gront-ljus-for-datacenter-i-rymden",
-          "published_at": "2026-11-25T23:14:07+01:00",
-          "sv": {
-            "title": "Elon Musk får grönt ljus för datacenter i rymden"
-          },
-          "en": {
-            "title": "Elon Musk gets green light for data centres in space"
-          }
-        },
-        {
-          "id": "5f35822336d1",
-          "source": "svd",
-          "url": "https://www.svd.se/a/ARdoyx/elon-musk-far-gront-ljus-for-datacenter-i-rymden",
-          "published_at": "2026-11-25T21:13:42+01:00",
-          "sv": {
-            "title": "Elon Musk får grönt ljus för datacenter i rymden"
-          },
-          "en": {
-            "title": "Elon Musk gets green light for data centres in space"
           }
         }
       ]
