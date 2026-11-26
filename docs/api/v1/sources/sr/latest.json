@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T17:45:57+01:00",
+  "generated_at": "2026-11-26T17:52:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "acd9cf020e0b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351049",
+      "guid": "rss:sr.se/article/9351049",
+      "published_at": "2026-11-26T17:49:00+01:00",
+      "fetched_at": "2026-11-26T17:52:39+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Thand Ringqvist vill att Centerpartiet röstar ja till Kristersson",
+        "summary": "Efter en dag med ett långt möte höll Centerpartiets partiledare Elisabeth Thand Ringqvist pressträff. ”Vi rekommenderar förtroenderådet att Centerpartiet röstar ja på måndagens statsministeromröstning och tar plats i den fyrpartiregering som talmannen lagt på riksdagens bord”, säger hon och…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Thand Ringqvist wants the Centre Party to vote yes to Kristersson",
+        "summary": "After a day of long meetings, Centre Party leader Elisabeth Thand Ringqvist held a press conference. “We recommend that the Centre Party's mandate council vote yes in Monday's prime ministerial vote and take a place in the four-party government that the Speaker has placed before the Riksdag”, she says and…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:52:48+01:00"
+      }
+    },
     {
       "id": "d536142df81a",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T23:15:53+01:00"
-      }
-    },
-    {
-      "id": "86593229428b",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347569",
-      "guid": "rss:sr.se/article/9347569",
-      "published_at": "2026-11-20T22:08:00+01:00",
-      "fetched_at": "2026-11-20T22:15:42+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "AI-frossa på börsen i USA – årets uppgång raderad",
-        "summary": "Fredagshandeln ger breda nedgångar på världens börser. Vid stängning backade Nasdaq med över fem procent, medan S&P 500 stängde på minus fyra procent. Chipjätten Nvidia fortsatte den senaste tidens nedgång och rasade 13,7 procent.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "AI jitters on US stock market – year's gains wiped out",
-        "summary": "Friday trading brings broad declines on the world's stock exchanges. At close, the Nasdaq fell by over five percent, while the S&P 500 closed down four percent. Chip giant Nvidia continued its recent decline and plunged 13.7 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T22:15:49+01:00"
       }
     }
   ]

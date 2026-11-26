@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T17:45:57+01:00",
+  "generated_at": "2026-11-26T17:52:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1a51298851a7",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/kultur/punken-fyller-50-ar-nu-handlar-texterna-om-trakiga-moten",
+      "guid": "https://www.svt.se/kultur/punken-fyller-50-ar-nu-handlar-texterna-om-trakiga-moten",
+      "published_at": "2026-11-26T17:49:33+01:00",
+      "fetched_at": "2026-11-26T17:52:38+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Punken fyller 50 år: ”Nu handlar texterna om tråkiga möten”",
+        "summary": "Den 26 november 1976 släppte Sex Pistols sin debutsingel ”Anarchy in the UK”. På så sätt går det att argumentera för att punken fyller 50 år i dag. Kulturnyheterna har samlat ett gäng yngre och äldre punkare för att få svar på hur punken mår 2026.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Punk turns 50: “Now the lyrics are about boring meetings”",
+        "summary": "On 26 November 1976, the Sex Pistols released their debut single “Anarchy in the UK”. In that sense, one can argue that punk turns 50 today. Kulturnyheterna has gathered a group of younger and older punks to find out how punk is doing in 2026."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:52:48+01:00"
+      }
+    },
     {
       "id": "6871a3e4db45",
       "schema_version": 1,
@@ -5654,33 +5680,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T10:01:30+01:00"
-      }
-    },
-    {
-      "id": "44c7c914b016",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/M5Rvpr/absurt-nar-poliser-jagar-komik",
-      "guid": "https://www.svd.se/a/M5Rvpr/absurt-nar-poliser-jagar-komik?utm_medium=rss",
-      "published_at": "2026-11-23T09:30:00+01:00",
-      "fetched_at": "2026-11-23T09:45:45+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/5bd79fa4-3d13-3c7b-a892-19653bcf4a53?format=auto&s=0a4fba7630d4c767ab2a2274b85b164da17ab99d&w=1000",
-      "sv": {
-        "title": "Absurt när poliser jagar komik",
-        "summary": "Kriminalisering av åsikter är rena Monty Python.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Absurd when police chase comedy",
-        "summary": "Criminalising opinions is pure Monty Python."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T09:45:55+01:00"
       }
     }
   ]
