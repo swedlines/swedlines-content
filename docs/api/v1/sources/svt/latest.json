@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T19:16:00+01:00",
+  "generated_at": "2026-11-26T19:31:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "26d783ad4160",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/c-toppen-ska-rosta-nej-till-kristersson-oerhort-upprord",
+      "guid": "https://www.svt.se/nyheter/inrikes/c-toppen-ska-rosta-nej-till-kristersson-oerhort-upprord",
+      "published_at": "2026-11-26T19:17:01+01:00",
+      "fetched_at": "2026-11-26T19:31:01+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-toppen ska rösta nej till Kristersson: ”Oerhört upprörd”",
+        "summary": "C-ledamoten Anna Lasses går emot sin partiledare. Hon kommer att rösta nej till en Kristersson-ledd regering – och säger att fler partikollegor kommer att göra samma sak. – Det är definitivt fler än jag, säger hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party figure to vote no on Kristersson: “Extremely upset”",
+        "summary": "Centre Party member Anna Lasses is going against her party leader. She will vote no to a Kristersson-led government, and says more party colleagues will do the same. – “It’s definitely more than me,” she says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:31:20+01:00"
+      }
+    },
     {
       "id": "5089f42fe511",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T19:31:08+01:00"
-      }
-    },
-    {
-      "id": "164c7921128c",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/tennis/skadad-carlos-alcaraz-vande-underlage-till-final-i-atp-slutspelet",
-      "guid": "https://www.svt.se/sport/tennis/skadad-carlos-alcaraz-vande-underlage-till-final-i-atp-slutspelet",
-      "published_at": "2026-11-21T18:46:06+01:00",
-      "fetched_at": "2026-11-21T19:01:05+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Skadad Carlos Alcaraz vände underläge – till final i ATP-slutspelet",
-        "summary": "Lindat lår och underläge med 1–0 i set. Vad gör väl det om du heter Carlos Alcaraz. Spanjoren bjöd på en läcker lobb när han vann med 2–1 i set, 6–3, 7–6 (1), mot Ben Shelton. – En helt perfekt lobb, säger ATP:s kommentator.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Injured Carlos Alcaraz turned around a deficit – into ATP finals final",
-        "summary": "Strained thigh and a 1–0 deficit in sets. What does that matter if your name is Carlos Alcaraz. The Spaniard produced a delightful lob as he won 2–1 in sets, 6–3, 7–6 (1), against Ben Shelton. \"A completely perfect lob,\" says the ATP commentator."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T19:01:17+01:00"
       }
     }
   ]

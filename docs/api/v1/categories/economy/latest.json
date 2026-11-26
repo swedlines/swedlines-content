@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T19:16:00+01:00",
+  "generated_at": "2026-11-26T19:31:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d4974e099086",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ledare/ett-bra-besked-for-sverige",
+      "guid": "1703c206-e3d6-47e7-9b9b-1b9055986fb2",
+      "published_at": "2026-11-26T19:21:40+01:00",
+      "fetched_at": "2026-11-26T19:31:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/edc784d9-c197-4999-ab8f-be6c8ec92855.jpeg?width=600",
+      "sv": {
+        "title": "Ett bra besked för Sverige",
+        "summary": "kväll kom Centerpartiet med ett bra besked för Sverige. Om förtroenderådet röstar ja kan en blågrön regering tillträda inom kort.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "A good message for Sweden",
+        "summary": "This evening the Centre Party brought a good message for Sweden. If the trust council votes yes, a blue-green government could take office shortly."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:31:20+01:00"
+      }
+    },
     {
       "id": "6cbc0d2e223f",
       "schema_version": 1,
@@ -5236,33 +5263,6 @@
       "en": {
         "title": "Internal police warning – risk of fuel shortage as price rises",
         "summary": "Risk of fuel shortage: “Then we are secured”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T06:15:55+01:00"
-      }
-    },
-    {
-      "id": "358106764bc2",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/utbredd-oro-bland-bostadsagare-for-hogre-rantor",
-      "guid": "bf5b15b5-eb55-46f5-924f-259d015a079f",
-      "published_at": "2026-11-26T06:12:51+01:00",
-      "fetched_at": "2026-11-26T06:15:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/2f4aba62-8e22-44a7-8d24-3a4b7d863275.jpeg?width=600",
-      "sv": {
-        "title": "Utbredd oro bland bostadsägare för högre räntor",
-        "summary": "Hälften av bostadsägare oroar sig för stigande bolåneräntor och hur det kan påverka privatekonomin. Samtidigt tror 73 procent att den rörliga bolåneräntan kommer att vara högre om ett år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Widespread concern among homeowners over higher interest rates",
-        "summary": "Half of homeowners are worried about rising mortgage rates and how it may affect their personal finances. At the same time, 73 percent believe the variable mortgage rate will be higher in a year."
       },
       "translation": {
         "status": "done",

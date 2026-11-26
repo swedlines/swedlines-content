@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T19:16:00+01:00",
+  "generated_at": "2026-11-26T19:31:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d4974e099086",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ledare/ett-bra-besked-for-sverige",
+      "guid": "1703c206-e3d6-47e7-9b9b-1b9055986fb2",
+      "published_at": "2026-11-26T19:21:40+01:00",
+      "fetched_at": "2026-11-26T19:31:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/edc784d9-c197-4999-ab8f-be6c8ec92855.jpeg?width=600",
+      "sv": {
+        "title": "Ett bra besked för Sverige",
+        "summary": "kväll kom Centerpartiet med ett bra besked för Sverige. Om förtroenderådet röstar ja kan en blågrön regering tillträda inom kort.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "A good message for Sweden",
+        "summary": "This evening the Centre Party brought a good message for Sweden. If the trust council votes yes, a blue-green government could take office shortly."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:31:20+01:00"
+      }
+    },
     {
       "id": "6cbc0d2e223f",
       "schema_version": 1,
@@ -5302,33 +5329,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T17:01:32+01:00"
-      }
-    },
-    {
-      "id": "4c2934b1fa5c",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/usa-s-tullhot-kan-bli-20-procent-for-eu",
-      "guid": "1c1f1002-d99b-4934-b8eb-6ac903da0e0d",
-      "published_at": "2026-11-25T16:41:33+01:00",
-      "fetched_at": "2026-11-25T16:45:52+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/bf2d6822-d666-49b8-8c54-567c6f56aa7a.jpeg?width=600",
-      "sv": {
-        "title": "USA:s tullhot: Kan bli 20 procent för EU",
-        "summary": "De flesta varor från EU får en tull på 15 procent, i det nya förslaget från USA:s handelsrepresentant. Men administrationen hotar samtidigt med 20-procentiga tullar, om EU:s åtgärder inte lever upp till USA:s förväntningar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "US tariff threat: Could rise to 20 percent for the EU",
-        "summary": "Most goods from the EU would face a 15 percent tariff under the new proposal from the US trade representative. But the administration is also threatening 20 percent tariffs if the EU's measures do not meet US expectations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T16:45:57+01:00"
       }
     }
   ]

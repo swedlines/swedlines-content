@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-26T19:16:00+01:00",
+  "generated_at": "2026-11-26T19:31:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f8233367453a",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6yE5AFY2gndc4xfHZoXFeS/almgrens-kaxiga-svar-efter-guldet-spurtade-inte-ens-i-slutet",
+      "guid": "6yE5AFY2gndc4xfHZoXFeS",
+      "published_at": "2026-11-26T19:26:19+01:00",
+      "fetched_at": "2026-11-26T19:31:04+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Almgrens kaxiga svar efter guldet: ”Spurtade inte ens i slutet”",
+        "summary": "För bara två år sedan var en seger en avlägsen dröm. Men efter en svajig säsong med bland annat stressfraktur i korsbenet fick Andreas Almgren nog. Han lade om träningen med dubbeltröskel, större mängd och lägre intensitet Årets New York Marathon blev svensk friidrottshistoria när han vann loppet…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Almgren’s brash response after gold: “He didn’t even sprint at the end”",
+        "summary": "Just two years ago, a win was a distant dream. But after a wobbly season that included a sacral stress fracture, Andreas Almgren had had enough. He changed his training to double-threshold sessions, greater volume and lower intensity. This year’s New York Marathon became Swedish athletics history when he won the race…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:31:20+01:00"
+      }
+    },
     {
       "id": "6c91a2c757a4",
       "schema_version": 1,
@@ -5560,33 +5589,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "f0d8b382454c",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/hanade-paven-och-ira-nu-straffas-england",
-      "guid": "e6881230-302d-4cf9-b946-69df41dcbb8b",
-      "published_at": "2026-11-20T10:37:09+01:00",
-      "fetched_at": "2026-11-20T10:45:49+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/acd96a08-2ee6-475e-91c1-8a4c5b6f86ea.jpg?width=600",
-      "sv": {
-        "title": "Hånade påven och IRA – nu straffas England",
-        "summary": "England straffas efter en diskriminerande supportersång under Nations League-matchen mot Spanien. Uefa har utfärdat ett villkorligt biljettförbud och bötfäller det engelska fotbollsförbundet med 170 000 kronor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mocked the Pope and the IRA – now England is punished",
-        "summary": "England is punished for a discriminatory fan chant during the Nations League match against Spain. Uefa has issued a conditional ticket ban and fines the English Football Association SEK 170,000."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T10:45:54+01:00"
       }
     }
   ]

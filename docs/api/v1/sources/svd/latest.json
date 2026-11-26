@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T19:16:00+01:00",
+  "generated_at": "2026-11-26T19:31:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "360ed5f5201c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/lMAprL/c-rusar-hogerut-i-ovisshet",
+      "guid": "https://www.svd.se/a/lMAprL/c-rusar-hogerut-i-ovisshet?utm_medium=rss",
+      "published_at": "2026-11-26T19:15:27+01:00",
+      "fetched_at": "2026-11-26T19:31:03+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/b05f7220-7d42-3830-8e51-5daf6cd5970e?format=auto&s=e0dcc98959d84f0b4eff67183b18c1e9cdf0457e&w=1000",
+      "sv": {
+        "title": "Massiv svekdebatt väntar för C",
+        "summary": "Elisabeth Thand Ringqvist (C) vill efter 75 dagar rusa i rekordfart mot en ny Kristerssonregering.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Massive betrayal debate awaits C",
+        "summary": "Elisabeth Thand Ringqvist (C) wants to rush at record speed toward a new Kristersson government after 75 days."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:31:20+01:00"
+      }
+    },
     {
       "id": "edcae0cd9c95",
       "schema_version": 1,
@@ -5235,33 +5262,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T15:31:20+01:00"
-      }
-    },
-    {
-      "id": "3d319c8dccdc",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/1vnJqJ/huang-ater-vd-for-nvidia",
-      "guid": "https://www.svd.se/a/1vnJqJ/huang-ater-vd-for-nvidia?utm_medium=rss",
-      "published_at": "2026-11-23T15:03:30+01:00",
-      "fetched_at": "2026-11-23T15:10:45+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/90d97f63-3575-360f-b3f2-e996b7cdc633?format=auto&s=301a8cc701817be4be23af55020413357e98110a&w=1000",
-      "sv": {
-        "title": "Jensen Huang tillbaka som vd för Nvidia",
-        "summary": "Jensen Huang återinsätts som vd för den amerikanska chiptillverkaren Nvidia, enligt ett…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jensen Huang back as CEO of Nvidia",
-        "summary": "Jensen Huang is reinstated as CEO of the American chipmaker Nvidia, according to a…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T15:10:54+01:00"
       }
     }
   ]

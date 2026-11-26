@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-26T19:16:00+01:00",
+  "generated_at": "2026-11-26T19:31:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "33cebf7d5ff2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/birgitta-ohlsson-c-fel-vag-att-ga",
+      "guid": "https://www.expressen.se/nyheter/politik/birgitta-ohlsson-c-fel-vag-att-ga/",
+      "published_at": "2026-11-26T19:27:05+01:00",
+      "fetched_at": "2026-11-26T19:31:04+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Birgitta Ohlsson (C): ”Fel väg att gå”",
+        "summary": "Centerpartiets partistyrelse och riksdagsgrupp vill att partiet ingår i en borgerlig regering. – Många tycker att det här var fel väg att gå, säger riksdagsledamoten Birgitta Ohlsson till DN. Partiets förtroenderåd ska fatta det slutgiltiga beslutet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Birgitta Ohlsson (C): “Wrong way to go”",
+        "summary": "The Centre Party’s board and parliamentary group want the party to join a centre-right government. – Many think this was the wrong way to go, says Riksdag member Birgitta Ohlsson to DN. The party’s trust council will make the final decision."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:31:20+01:00"
+      }
+    },
+    {
+      "id": "b447e93af851",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/richard-jomshofs-tarthan-mot-magdalena-andersson",
+      "guid": "https://www.expressen.se/nyheter/sverige/richard-jomshofs-tarthan-mot-magdalena-andersson/",
+      "published_at": "2026-11-26T19:14:55+01:00",
+      "fetched_at": "2026-11-26T19:31:04+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Richard Jomshofs tårthån mot Magdalena Andersson",
+        "summary": "Tårtorna som Socialdemokraterna beställde efter valet förföljer partiet. När regeringsmakten nu tycks glida partiet ur händerna används bakverken som symbol för att S tog ut segern i förskott.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Richard Jomshof’s cake jab at Magdalena Andersson",
+        "summary": "The cakes the Social Democrats ordered after the election haunt the party. As government power now seems to be slipping out of the party’s hands, the pastries are used as a symbol of S having claimed victory in advance."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:31:20+01:00"
+      }
+    },
     {
       "id": "e1ea9be0521c",
       "schema_version": 1,
@@ -5142,58 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T18:15:53+01:00"
-      }
-    },
-    {
-      "id": "4f59cb577cff",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/vald-mot-ambulansforare-de-skot-ihjal-min-van",
-      "guid": "https://www.expressen.se/nyheter/varlden/vald-mot-ambulansforare-de-skot-ihjal-min-van/",
-      "published_at": "2026-11-23T17:48:14+01:00",
-      "fetched_at": "2026-11-23T18:01:15+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Våld mot ambulansförare: ”De sköt ihjäl min vän”",
-        "summary": "Den palestinske sjukvårdaren sköts ihjäl i sin ambulans – Bosättare sköt honom när han satt bredvid mig i bilen, säger ambulansföraren Bashar Qaryouti i Aqraba på Västbanken.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Violence against ambulance workers: \"They shot my friend dead\"",
-        "summary": "The Palestinian paramedic was shot dead in his ambulance – Settlers shot him while he sat beside me in the car, says ambulance driver Bashar Qaryouti in Aqraba on the West Bank."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T18:01:23+01:00"
-      }
-    },
-    {
-      "id": "3a849df8fbdc",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2f2de765-cf6e-4c27-bee7-e845ffca7128",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2f2de765-cf6e-4c27-bee7-e845ffca7128",
-      "published_at": "2026-11-23T17:43:50+01:00",
-      "fetched_at": "2026-11-23T17:45:47+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Trumps behå-bild på Huang",
-        "summary": "Lägger ut efter vd-beskedet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump's bra picture of Huang",
-        "summary": "Posted after the CEO announcement"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T17:45:54+01:00"
       }
     }
   ]
