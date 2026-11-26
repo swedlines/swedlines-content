@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-11-26T17:16:03+01:00",
+  "generated_at": "2026-11-26T17:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "01f1c8888cd4",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kulturkronika/de-har-akterna-ska-du-kolla-in-pa-viva-sounds.ceb95980-8be5-5f0d-a9f7-8bc58bee4b30",
+      "guid": "ceb95980-8be5-5f0d-a9f7-8bc58bee4b30",
+      "published_at": "2026-11-26T17:14:05+01:00",
+      "fetched_at": "2026-11-26T17:31:07+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kulturkrönika",
+        "Tagg: D'Angelo",
+        "Tagg: Singer-songwriter",
+        "Tagg: Hiphop",
+        "Tagg: Musik",
+        "Tagg: Festivaler",
+        "Tagg: Pustervik",
+        "Tagg: Soul",
+        "Tagg: Pop",
+        "Tagg: Artister",
+        "Tagg: Konserter"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/9a182ed0-e213-3210-9d0c-ea95d47fda38",
+      "sv": {
+        "title": "Artisterna du inte ska missa på Viva Sounds 2026",
+        "summary": "Göteborgsrapparen Bxnja samplar trafiksignalen från P4, bara en sån sak.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The artists you shouldn't miss at Viva Sound 2026",
+        "summary": "Göteborg rapper Bxnja samples the traffic signal from P4, just one of those things."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:31:12+01:00"
+      }
+    },
     {
       "id": "e42d088e7df4",
       "schema_version": 1,
@@ -5641,35 +5681,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T09:31:16+01:00"
-      }
-    },
-    {
-      "id": "b3028d08ea03",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3UzY0TvFI8ZPQbzRlB3Nad/spaghetti-allassassina-med-burrata",
-      "guid": "3UzY0TvFI8ZPQbzRlB3Nad",
-      "published_at": "2026-11-23T08:58:10+01:00",
-      "fetched_at": "2026-11-23T09:01:20+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Mat"
-      ],
-      "sv": {
-        "title": "Spaghetti all’assassina med burrata",
-        "summary": "Dagens middagstips bjuder på en rätt där spaghettin får koka färdigt i het tomatbuljong direkt i pannan och blir kryddig, djup och lätt bränd i kanterna. Toppa med gyllene, krispigt pangrattato med persilja och parmesan, och med en hemgjord burrata för en komplett middag. Se Siri Barjes recept",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Spaghetti all'assassina with burrata",
-        "summary": "Today's dinner tip is a dish where the spaghetti is finished cooking in hot tomato broth directly in the pan, becoming spicy, deep and lightly charred at the edges. Top with golden, crispy pangrattato with parsley and parmesan, and with homemade burrata for a complete dinner. See Siri Barje's recipe"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T09:01:26+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T17:16:03+01:00",
+  "generated_at": "2026-11-26T17:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f6eb2e57ea59",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=19ff3ac4-29eb-4195-b9df-f72d89565760",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=19ff3ac4-29eb-4195-b9df-f72d89565760",
+      "published_at": "2026-11-26T17:15:43+01:00",
+      "fetched_at": "2026-11-26T17:31:06+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps uppmaning till Putin",
+        "summary": "”Skulle vilja se president Putin göra det”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's call to Putin",
+        "summary": "\"Would like to see President Putin do it\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:31:12+01:00"
+      }
+    },
     {
       "id": "2191ae24cf88",
       "schema_version": 1,
@@ -5283,33 +5309,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T21:15:59+01:00"
-      }
-    },
-    {
-      "id": "588e1a12d276",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/R1RgK2/bevapnade-haller-gisslan-i-matvarubutik",
-      "guid": "https://www.svd.se/a/R1RgK2/bevapnade-haller-gisslan-i-matvarubutik?utm_medium=rss",
-      "published_at": "2026-11-24T21:02:37+01:00",
-      "fetched_at": "2026-11-24T21:45:49+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/d2163153-6207-3731-a93c-a4d7dc68df68?format=auto&s=5f8ddd490417eec0a59fe93f5c4bd5aaa589adf9&w=1000",
-      "sv": {
-        "title": "Beväpnade håller gisslan i butik",
-        "summary": "Beväpnade och maskerade gärningspersoner försökte råna ett bepansrat fordon i Cartagena i Colombia.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Armed men hold hostages in shop",
-        "summary": "Armed and masked perpetrators tried to rob an armoured vehicle in Cartagena, Colombia."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T21:45:54+01:00"
       }
     }
   ]

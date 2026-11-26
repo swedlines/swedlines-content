@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T17:16:03+01:00",
+  "generated_at": "2026-11-26T17:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f6eb2e57ea59",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=19ff3ac4-29eb-4195-b9df-f72d89565760",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=19ff3ac4-29eb-4195-b9df-f72d89565760",
+      "published_at": "2026-11-26T17:15:43+01:00",
+      "fetched_at": "2026-11-26T17:31:06+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps uppmaning till Putin",
+        "summary": "”Skulle vilja se president Putin göra det”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's call to Putin",
+        "summary": "\"Would like to see President Putin do it\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:31:12+01:00"
+      }
+    },
     {
       "id": "1e89107fa873",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T15:45:56+01:00"
-      }
-    },
-    {
-      "id": "39c819cc0299",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/jensen-huang-tillbaka-som-vd-pa-nvidia",
-      "guid": "https://www.expressen.se/nyheter/varlden/jensen-huang-tillbaka-som-vd-pa-nvidia/",
-      "published_at": "2026-11-23T15:25:27+01:00",
-      "fetched_at": "2026-11-23T15:31:05+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Jensen Huang tillbaka som vd på Nvidia",
-        "summary": "Tre otrohetsskandaler senare är Jensen Huang tillbaka som vd på Nvidia. Nu rusar aktien – med över 30 procent. ”Det är en ära att återvända till NVIDIA”, säger Huang i ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jensen Huang back as CEO of Nvidia",
-        "summary": "Three infidelity scandals later, Jensen Huang is back as CEO of Nvidia. Now the stock is soaring, by over 30 percent. “It is an honour to return to NVIDIA”, Huang says in a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T15:31:20+01:00"
       }
     }
   ]

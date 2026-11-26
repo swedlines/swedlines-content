@@ -1,20 +1,21 @@
 {
-  "generated_at": "2026-11-26T17:16:03+01:00",
+  "generated_at": "2026-11-26T17:31:17+01:00",
   "count": 30,
   "stories": [
     {
       "id": "ed574169a1d8",
-      "source_count": 6,
+      "source_count": 7,
       "sources": [
         "svt",
         "aftonbladet",
         "expressen",
         "dn",
         "svd",
-        "sydsvenskan"
+        "sydsvenskan",
+        "gp"
       ],
       "first_published_at": "2026-11-26T09:32:28+01:00",
-      "last_published_at": "2026-11-26T16:57:04+01:00",
+      "last_published_at": "2026-11-26T16:59:25+01:00",
       "lead": {
         "id": "ed574169a1d8",
         "schema_version": 1,
@@ -42,6 +43,18 @@
         }
       },
       "items": [
+        {
+          "id": "f2b24294f377",
+          "source": "gp",
+          "url": "https://www.gp.se/asikt-och-debatt/ledare/centerns-val-kan-bli-slutet-for-symbolpolitiken.cbdf7be0-90fd-5bba-ae56-8bba2fcce389",
+          "published_at": "2026-11-26T16:59:25+01:00",
+          "sv": {
+            "title": "Håkan Boström: Centerns val kan bli slutet för symbolpolitiken"
+          },
+          "en": {
+            "title": "Håkan Boström: The Centre Party's choice could mark the end of symbolic politics"
+          }
+        },
         {
           "id": "2f9aaf1dcf3b",
           "source": "svd",
@@ -526,6 +539,95 @@
           },
           "en": {
             "title": "EU leaders clash in Brussels: \"It's going to be a battle\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "a7132c44a83b",
+      "source_count": 4,
+      "sources": [
+        "di",
+        "aftonbladet",
+        "svd",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-26T16:09:16+01:00",
+      "last_published_at": "2026-11-26T17:15:43+01:00",
+      "lead": {
+        "id": "a7132c44a83b",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/trump-till-putin-avsluta-all-aggression-i-europa",
+        "guid": "2577e1c3-df98-42c9-b249-c5af8bf51195",
+        "published_at": "2026-11-26T16:09:16+01:00",
+        "fetched_at": "2026-11-26T16:15:50+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/46243de9-c2f1-46be-8372-747e7f89a6b0.jpeg?width=600",
+        "sv": {
+          "title": "Trump till Putin: Avsluta all aggression i Europa",
+          "summary": "USA:s president Donald Trump uppmanar Rysslands president Vladimir Putin att avsluta aggressionen runt om i Europa. Det skriver han i ett inlägg på Truth Social.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Trump to Putin: End all aggression in Europe",
+          "summary": "US President Donald Trump urges Russian President Vladimir Putin to end the aggression across Europe. He writes this in a post on Truth Social."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T16:15:54+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "f6eb2e57ea59",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=19ff3ac4-29eb-4195-b9df-f72d89565760",
+          "published_at": "2026-11-26T17:15:43+01:00",
+          "sv": {
+            "title": "Trumps uppmaning till Putin"
+          },
+          "en": {
+            "title": "Trump's call to Putin"
+          }
+        },
+        {
+          "id": "2191ae24cf88",
+          "source": "svd",
+          "url": "https://www.svd.se/a/6Pjmlo/trump-putin-borde-dra-tillbaka-hoten-mot-europa",
+          "published_at": "2026-11-26T17:08:22+01:00",
+          "sv": {
+            "title": "Trump: Putin borde dra tillbaka hot mot Europa"
+          },
+          "en": {
+            "title": "Trump: Putin should withdraw threats against Europe"
+          }
+        },
+        {
+          "id": "0a321f028ef9",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/lMAp9M/trump-putin-borde-dra-tillbaka-hoten-mot-europa",
+          "published_at": "2026-11-26T17:02:01+01:00",
+          "sv": {
+            "title": "Trump: Putin borde dra tillbaka hoten mot Europa"
+          },
+          "en": {
+            "title": "Trump: Putin should withdraw threats against Europe"
+          }
+        },
+        {
+          "id": "a7132c44a83b",
+          "source": "di",
+          "url": "https://www.di.se/live/trump-till-putin-avsluta-all-aggression-i-europa",
+          "published_at": "2026-11-26T16:09:16+01:00",
+          "sv": {
+            "title": "Trump till Putin: Avsluta all aggression i Europa"
+          },
+          "en": {
+            "title": "Trump to Putin: End all aggression in Europe"
           }
         }
       ]
@@ -1171,82 +1273,6 @@
           },
           "en": {
             "title": "At least 30 dead as tanker truck overturns in Cairo"
-          }
-        }
-      ]
-    },
-    {
-      "id": "a7132c44a83b",
-      "source_count": 3,
-      "sources": [
-        "di",
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-26T16:09:16+01:00",
-      "last_published_at": "2026-11-26T17:08:22+01:00",
-      "lead": {
-        "id": "a7132c44a83b",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/trump-till-putin-avsluta-all-aggression-i-europa",
-        "guid": "2577e1c3-df98-42c9-b249-c5af8bf51195",
-        "published_at": "2026-11-26T16:09:16+01:00",
-        "fetched_at": "2026-11-26T16:15:50+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/46243de9-c2f1-46be-8372-747e7f89a6b0.jpeg?width=600",
-        "sv": {
-          "title": "Trump till Putin: Avsluta all aggression i Europa",
-          "summary": "USA:s president Donald Trump uppmanar Rysslands president Vladimir Putin att avsluta aggressionen runt om i Europa. Det skriver han i ett inlägg på Truth Social.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Trump to Putin: End all aggression in Europe",
-          "summary": "US President Donald Trump urges Russian President Vladimir Putin to end the aggression across Europe. He writes this in a post on Truth Social."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T16:15:54+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "2191ae24cf88",
-          "source": "svd",
-          "url": "https://www.svd.se/a/6Pjmlo/trump-putin-borde-dra-tillbaka-hoten-mot-europa",
-          "published_at": "2026-11-26T17:08:22+01:00",
-          "sv": {
-            "title": "Trump: Putin borde dra tillbaka hot mot Europa"
-          },
-          "en": {
-            "title": "Trump: Putin should withdraw threats against Europe"
-          }
-        },
-        {
-          "id": "0a321f028ef9",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/lMAp9M/trump-putin-borde-dra-tillbaka-hoten-mot-europa",
-          "published_at": "2026-11-26T17:02:01+01:00",
-          "sv": {
-            "title": "Trump: Putin borde dra tillbaka hoten mot Europa"
-          },
-          "en": {
-            "title": "Trump: Putin should withdraw threats against Europe"
-          }
-        },
-        {
-          "id": "a7132c44a83b",
-          "source": "di",
-          "url": "https://www.di.se/live/trump-till-putin-avsluta-all-aggression-i-europa",
-          "published_at": "2026-11-26T16:09:16+01:00",
-          "sv": {
-            "title": "Trump till Putin: Avsluta all aggression i Europa"
-          },
-          "en": {
-            "title": "Trump to Putin: End all aggression in Europe"
           }
         }
       ]
@@ -2075,6 +2101,81 @@
       ]
     },
     {
+      "id": "a77c83f6acee",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "svt"
+      ],
+      "first_published_at": "2026-11-26T11:43:03+01:00",
+      "last_published_at": "2026-11-26T17:19:45+01:00",
+      "lead": {
+        "id": "a77c83f6acee",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/nyheter/miljonsmall-for-moderna-museet-har-tagit-for-stora-risker",
+        "guid": "38001c73-b664-4a7e-903f-9f9fea1f1863",
+        "published_at": "2026-11-26T11:43:03+01:00",
+        "fetched_at": "2026-11-26T11:45:51+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/b0fb525e-9c5c-4b4f-ae17-314b2fb1fe00.jpeg?width=600",
+        "sv": {
+          "title": "Miljonsmäll för Moderna museet: ”Har tagit för stora risker”",
+          "summary": "Moderna museet går mot ett underskott på minst 18 miljoner kronor – nästan dubbelt så stort som tidigare känt. Nu väntar ett ekonomiskt tufft år för den nytillträdda museichefen Tone Hansen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Million-kronor hit for Moderna museet: “Has taken too great risks”",
+          "summary": "Moderna museet is heading for a deficit of at least SEK 18 million – nearly twice as large as previously known. Now a tough financial year awaits the newly appointed museum director Tone Hansen."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T11:45:56+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "a2cf061f051e",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/strannegard-om-miljonmissen-pa-moderna-museet-bekymmersamt",
+          "published_at": "2026-11-26T17:19:45+01:00",
+          "sv": {
+            "title": "Strannegård om miljonmissen på Moderna museet: ”Bekymmersamt”"
+          },
+          "en": {
+            "title": "Strannegård on the million-kronor shortfall at Moderna museet: \"Worrying\""
+          }
+        },
+        {
+          "id": "bae2f1aa2186",
+          "source": "svt",
+          "url": "https://www.svt.se/kultur/miljonunderskott-for-moderna-for-stora-risker",
+          "published_at": "2026-11-26T13:18:54+01:00",
+          "sv": {
+            "title": "Miljonunderskott för Moderna museet: ”För stora risker”"
+          },
+          "en": {
+            "title": "Million-Krona Deficit for Moderna Museet: “Too Great Risks”"
+          }
+        },
+        {
+          "id": "a77c83f6acee",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/miljonsmall-for-moderna-museet-har-tagit-for-stora-risker",
+          "published_at": "2026-11-26T11:43:03+01:00",
+          "sv": {
+            "title": "Miljonsmäll för Moderna museet: ”Har tagit för stora risker”"
+          },
+          "en": {
+            "title": "Million-kronor hit for Moderna museet: “Has taken too great risks”"
+          }
+        }
+      ]
+    },
+    {
       "id": "217d96849f07",
       "source_count": 2,
       "sources": [
@@ -2324,69 +2425,6 @@
           },
           "en": {
             "title": "Teenagers charged with murder face twelve years in prison"
-          }
-        }
-      ]
-    },
-    {
-      "id": "a77c83f6acee",
-      "source_count": 2,
-      "sources": [
-        "di",
-        "svt"
-      ],
-      "first_published_at": "2026-11-26T11:43:03+01:00",
-      "last_published_at": "2026-11-26T13:18:54+01:00",
-      "lead": {
-        "id": "a77c83f6acee",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/nyheter/miljonsmall-for-moderna-museet-har-tagit-for-stora-risker",
-        "guid": "38001c73-b664-4a7e-903f-9f9fea1f1863",
-        "published_at": "2026-11-26T11:43:03+01:00",
-        "fetched_at": "2026-11-26T11:45:51+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/b0fb525e-9c5c-4b4f-ae17-314b2fb1fe00.jpeg?width=600",
-        "sv": {
-          "title": "Miljonsmäll för Moderna museet: ”Har tagit för stora risker”",
-          "summary": "Moderna museet går mot ett underskott på minst 18 miljoner kronor – nästan dubbelt så stort som tidigare känt. Nu väntar ett ekonomiskt tufft år för den nytillträdda museichefen Tone Hansen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Million-kronor hit for Moderna museet: “Has taken too great risks”",
-          "summary": "Moderna museet is heading for a deficit of at least SEK 18 million – nearly twice as large as previously known. Now a tough financial year awaits the newly appointed museum director Tone Hansen."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T11:45:56+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "bae2f1aa2186",
-          "source": "svt",
-          "url": "https://www.svt.se/kultur/miljonunderskott-for-moderna-for-stora-risker",
-          "published_at": "2026-11-26T13:18:54+01:00",
-          "sv": {
-            "title": "Miljonunderskott för Moderna museet: ”För stora risker”"
-          },
-          "en": {
-            "title": "Million-Krona Deficit for Moderna Museet: “Too Great Risks”"
-          }
-        },
-        {
-          "id": "a77c83f6acee",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/miljonsmall-for-moderna-museet-har-tagit-for-stora-risker",
-          "published_at": "2026-11-26T11:43:03+01:00",
-          "sv": {
-            "title": "Miljonsmäll för Moderna museet: ”Har tagit för stora risker”"
-          },
-          "en": {
-            "title": "Million-kronor hit for Moderna museet: “Has taken too great risks”"
           }
         }
       ]
