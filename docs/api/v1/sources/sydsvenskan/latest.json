@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T13:15:55+01:00",
+  "generated_at": "2026-11-26T13:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d1396bbbce2c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/familj/minnesord-om-gunilla-larsson",
+      "guid": "35739322-f683-4870-9629-cbe67ec396a4",
+      "published_at": "2026-11-26T13:30:00+01:00",
+      "fetched_at": "2026-11-26T13:31:09+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/0c30e9a7-7a1b-4620-9284-481b2585a4e0.jpeg?width=600",
+      "sv": {
+        "title": "Minnesord om Gunilla Larsson",
+        "summary": "Gunilla Larsson, Malmö, har avlidit 86 år gammal.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Obituary for Gunilla Larsson",
+        "summary": "Gunilla Larsson, Malmö, has died at the age of 86."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:31:13+01:00"
+      }
+    },
     {
       "id": "847bf029c9f7",
       "schema_version": 1,
@@ -5151,29 +5178,6 @@
       },
       "en": {
         "title": "41-year-old new owner of villa"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T18:15:53+01:00"
-      }
-    },
-    {
-      "id": "64c66d8993a3",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-115-kvm-saldes-for-5-miljoner",
-      "guid": "49ca8008-da8f-42f4-a407-5d9b530a3378",
-      "published_at": "2026-11-23T18:01:59+01:00",
-      "fetched_at": "2026-11-23T18:15:47+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Hus på 115 kvm såldes för 5 miljoner"
-      },
-      "en": {
-        "title": "115 sq m house sold for SEK 5 million"
       },
       "translation": {
         "status": "done",

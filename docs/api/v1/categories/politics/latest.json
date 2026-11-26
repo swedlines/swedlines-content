@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-11-26T13:15:55+01:00",
+  "generated_at": "2026-11-26T13:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "258e701fdf49",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/uppgifter-c-ledningen-overens-med-m-kd-och-l.e14cf007-5b3f-5b35-a9a0-4686d7a6bdb9",
+      "guid": "e14cf007-5b3f-5b35-a9a0-4686d7a6bdb9",
+      "published_at": "2026-11-26T13:22:26+01:00",
+      "fetched_at": "2026-11-26T13:31:08+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Centerpartiet"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/5b8bbfa2-450a-3228-ac19-ad7e7594f20f",
+      "sv": {
+        "title": "SVT: C-ledningen överens med M, KD och L",
+        "summary": "Uppgifter till GP: Thand Ringqvist vill öppna för Kristersson i helgen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SVT: Centre Party leadership agrees with the Moderates, Christian Democrats and Liberals",
+        "summary": "Reports to GP: Thand Ringqvist wants to open up to Kristersson this weekend."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:31:13+01:00"
+      }
+    },
+    {
+      "id": "f116565121bb",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7CATfN8R1dFkIkhCjOsTx6/talmannens-plan-foer-extraval-da-saetts-datumet",
+      "guid": "7CATfN8R1dFkIkhCjOsTx6",
+      "published_at": "2026-11-26T13:19:23+01:00",
+      "fetched_at": "2026-11-26T13:31:07+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Talmannens plan för extraval – då sätts datumet",
+        "summary": "Tjänsteanteckningar avslöjar Norléns deadline",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Speaker's plan for snap election – this is when the date is set",
+        "summary": "Internal memos reveal Norlén's deadline"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:31:13+01:00"
+      }
+    },
     {
       "id": "58cf1a69b877",
       "schema_version": 1,
@@ -5335,59 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "20bae1b33757",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/R1RM7O/magdalena-andersson-ser-inga-forutsattningar",
-      "guid": "https://www.aftonbladet.se/nyheter/a/R1RM7O/magdalena-andersson-ser-inga-forutsattningar?utm_medium=rss",
-      "published_at": "2026-11-24T16:05:46+01:00",
-      "fetched_at": "2026-11-24T16:40:42+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/908c0243-90f4-3cf7-bfb0-aabb49ae9a9b?format=auto&s=4e3db86804244de5ca72a392053d6e63bdac6ccf&w=1000",
-      "sv": {
-        "title": "Magdalena Andersson om V: ”Röst på Tidö 2”",
-        "summary": "S-ledaren i Studio Ett",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Magdalena Andersson on V: ”Vote for Tidö 2”",
-        "summary": "The S leader in Studio Ett"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:40:52+01:00"
-      }
-    },
-    {
-      "id": "6ad9a85025ea",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/s-vadjan-till-v--pekar-pa-tonarsutvisningarna",
-      "guid": "https://www.expressen.se/nyheter/politik/s-vadjan-till-v--pekar-pa-tonarsutvisningarna/",
-      "published_at": "2026-11-24T15:44:48+01:00",
-      "fetched_at": "2026-11-24T16:01:16+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "S vädjan till V – pekar på tonårsutvisningarna",
-        "summary": "Tonårsutvisningarna har enat de rödgröna partierna. Nu hoppas Socialdemokraterna att ungdomarnas vädjan kan få Vänsterpartiet att tänka om. – Det handlar om deras liv, då blir ministerposter väldigt litet i det, säger S-toppen Lawen Redar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "S appeal to V – points to teen deportations",
-        "summary": "The teen deportations have united the red-green parties. Now the Social Democrats hope the young people's appeal can make the Left Party rethink. – It is about their lives, then ministerial posts matter very little in that, says S top figure Lawen Redar."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:01:23+01:00"
       }
     }
   ]

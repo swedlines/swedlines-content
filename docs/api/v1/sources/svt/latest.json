@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T13:15:55+01:00",
+  "generated_at": "2026-11-26T13:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b4fc31985a3d",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/volleyboll/isabelle-haak-om-att-vara-nominerad-pa-idrottsgalan",
+      "guid": "https://www.svt.se/sport/volleyboll/isabelle-haak-om-att-vara-nominerad-pa-idrottsgalan",
+      "published_at": "2026-11-26T13:27:31+01:00",
+      "fetched_at": "2026-11-26T13:31:04+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Isabelle Haak om att vara nominerad på Idrottsgalan",
+        "summary": "Isabelle Haak kan återigen bli Årets kvinnliga idrottare. Men historiken talar emot henne. – Fattar att det är helt omöjligt att vara i juryn, säger Isabelle Haak.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Isabelle Haak on being nominated for the Idrottsgalan",
+        "summary": "Isabelle Haak could once again be named Female Athlete of the Year. But history speaks against her. – I understand it's completely impossible to be on the jury, says Isabelle Haak."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:31:13+01:00"
+      }
+    },
     {
       "id": "f4095d9cff6e",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T17:15:55+01:00"
-      }
-    },
-    {
-      "id": "6f7b4e9260f1",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/granskning/ug/carina-bergfeldt-hjalpte-adhd-expert-att-anmala-svt",
-      "guid": "https://www.svt.se/nyheter/granskning/ug/carina-bergfeldt-hjalpte-adhd-expert-att-anmala-svt",
-      "published_at": "2026-11-20T16:44:36+01:00",
-      "fetched_at": "2026-11-20T17:01:20+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Carina Bergfeldt hjälpte adhd-expert att anmäla SVT",
-        "summary": "Carina Bergfeldts SVT-serie ”Alla mina bokstäver” kritiserades för att inte redovisa den medverkande experten Lotta Borg Skoglunds kopplingar till läkemedelsindustrin. Nu kan Uppdrag granskning berätta att Carina Bergfeldt hjälpt Skoglund att anmäla SVT.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Carina Bergfeldt helped ADHD expert report SVT",
-        "summary": "Carina Bergfeldt's SVT series \"Alla mina bokstäver\" was criticised for not disclosing the featured expert Lotta Borg Skoglund's ties to the pharmaceutical industry. Now Uppdrag granskning can reveal that Carina Bergfeldt helped Skoglund file a complaint against SVT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T17:01:35+01:00"
       }
     }
   ]

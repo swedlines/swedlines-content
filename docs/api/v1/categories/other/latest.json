@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T13:15:55+01:00",
+  "generated_at": "2026-11-26T13:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d1396bbbce2c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/familj/minnesord-om-gunilla-larsson",
+      "guid": "35739322-f683-4870-9629-cbe67ec396a4",
+      "published_at": "2026-11-26T13:30:00+01:00",
+      "fetched_at": "2026-11-26T13:31:09+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/0c30e9a7-7a1b-4620-9284-481b2585a4e0.jpeg?width=600",
+      "sv": {
+        "title": "Minnesord om Gunilla Larsson",
+        "summary": "Gunilla Larsson, Malmö, har avlidit 86 år gammal.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Obituary for Gunilla Larsson",
+        "summary": "Gunilla Larsson, Malmö, has died at the age of 86."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:31:13+01:00"
+      }
+    },
     {
       "id": "847bf029c9f7",
       "schema_version": 1,
@@ -5502,33 +5529,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T05:15:51+01:00"
-      }
-    },
-    {
-      "id": "9846e3459039",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/qOLyRm/namntest-har-du-koll-pa-stockholms-stadsdelar",
-      "guid": "https://www.svd.se/a/qOLyRm/namntest-har-du-koll-pa-stockholms-stadsdelar?utm_medium=rss",
-      "published_at": "2026-11-17T00:15:00+01:00",
-      "fetched_at": "2026-11-17T00:30:58+01:00",
-      "category": "other",
-      "image_url": "https://akamai.vgc.no/v2/images/889ddc2f-cb0a-3f75-b9bd-417a2dcbdbed?format=auto&s=f98d6e0fc66ddd3cea0229d3f24bc18a8f0e35bb&w=1000",
-      "sv": {
-        "title": "Namntest: Har du koll på Stockholms stadsdelar?",
-        "summary": "Vet du hur stadsdelarna i Stockholm fått sina namn? Det här testet utgår från Svenskt…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Name quiz: Do you know Stockholm's districts?",
-        "summary": "Do you know how Stockholm's districts got their names? This quiz is based on Svenskt…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T00:31:03+01:00"
       }
     }
   ]

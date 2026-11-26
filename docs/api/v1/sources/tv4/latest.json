@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-26T13:15:55+01:00",
+  "generated_at": "2026-11-26T13:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f116565121bb",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7CATfN8R1dFkIkhCjOsTx6/talmannens-plan-foer-extraval-da-saetts-datumet",
+      "guid": "7CATfN8R1dFkIkhCjOsTx6",
+      "published_at": "2026-11-26T13:19:23+01:00",
+      "fetched_at": "2026-11-26T13:31:07+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Talmannens plan för extraval – då sätts datumet",
+        "summary": "Tjänsteanteckningar avslöjar Norléns deadline",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Speaker's plan for snap election – this is when the date is set",
+        "summary": "Internal memos reveal Norlén's deadline"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:31:13+01:00"
+      }
+    },
     {
       "id": "5c4b02fff02f",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T13:01:24+01:00"
-      }
-    },
-    {
-      "id": "676dff523db5",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/IOYZmMmYtIwzWrNQ5sjJH/kd-slar-tillbaka-borgerlig-regering-inte-beroende-av-sd",
-      "guid": "IOYZmMmYtIwzWrNQ5sjJH",
-      "published_at": "2026-11-18T11:45:03+01:00",
-      "fetched_at": "2026-11-18T12:01:19+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Svensk politik"
-      ],
-      "sv": {
-        "title": "KD slår tillbaka: Borgerlig regering inte beroende av SD",
-        "summary": "”Extrem skillnad” jämfört med V • Attackerar S: ”Enorma överord”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "KD hits back: Bourgeois government not dependent on the Sweden Democrats",
-        "summary": "“Extreme difference” compared with the Left Party • Attacks the Social Democrats: “Enormous exaggerations”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T12:01:25+01:00"
       }
     }
   ]

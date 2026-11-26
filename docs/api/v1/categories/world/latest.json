@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T13:15:55+01:00",
+  "generated_at": "2026-11-26T13:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d5779db76066",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350730",
+      "guid": "rss:sr.se/article/9350730",
+      "published_at": "2026-11-26T13:21:00+01:00",
+      "fetched_at": "2026-11-26T13:31:04+01:00",
+      "category": "world",
+      "sv": {
+        "title": "EU-toppmöte i Bryssel – länderna står långt ifrån varandra",
+        "summary": "I Bryssel samlas just nu EU:s stats- och regeringschefer för toppmöte. Två stora frågor står på agendan – Unionens nästa långtidsbudget och stödet till Ukraina. Länderna står långt ifrån varandra, men EU:s ordförande António Costa hoppas komma närmare en uppgörelse.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "EU summit in Brussels – countries far apart",
+        "summary": "EU heads of state and government are gathering in Brussels for a summit. Two major issues are on the agenda – the Union's next long-term budget and support for Ukraine. The countries are far apart, but EU President António Costa hopes to move closer to an agreement."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:31:13+01:00"
+      }
+    },
     {
       "id": "696febb6821f",
       "schema_version": 1,
@@ -5292,33 +5318,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T15:01:21+01:00"
-      }
-    },
-    {
-      "id": "8c9e90e20231",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/BrRBe0/nastan-600-kvinnor-mordade-pa-tre-manader",
-      "guid": "https://www.aftonbladet.se/nyheter/a/BrRBe0/nastan-600-kvinnor-mordade-pa-tre-manader?utm_medium=rss",
-      "published_at": "2026-11-24T14:35:16+01:00",
-      "fetched_at": "2026-11-24T14:45:48+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/39f9ca6d-9992-3939-84d6-656dfb50004b?format=auto&s=003d9829e2adb5448f8efc58fcd6f77006f1af6d&w=1000",
-      "sv": {
-        "title": "Nästan 600 kvinnor mördade på tre månader",
-        "summary": "Blodiga siffrorna från Sydafrika",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Almost 600 women murdered in three months",
-        "summary": "Bloody figures from South Africa"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:45:55+01:00"
       }
     }
   ]
