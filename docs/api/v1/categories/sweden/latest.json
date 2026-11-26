@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T15:45:47+01:00",
+  "generated_at": "2026-11-26T16:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d21d2128145e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/elev-har-tratt-fram-erkanner-skolhotet-i-harnosand",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/elev-har-tratt-fram-erkanner-skolhotet-i-harnosand",
+      "published_at": "2026-11-26T15:33:47+01:00",
+      "fetched_at": "2026-11-26T16:01:15+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Elev har trätt fram – erkänner skolhotet i Härnösand",
+        "summary": "En elev i Härnösands kommun har trätt fram och erkänt skolhotet. Skolchefen säger att man nu bedömer hotet som över.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pupil has come forward – admits school threat in Härnösand",
+        "summary": "A pupil in Härnösand municipality has come forward and admitted to the school threat. The head of schools says the threat is now assessed as over."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T16:01:26+01:00"
+      }
+    },
     {
       "id": "4468c3d35b89",
       "schema_version": 1,
@@ -5455,40 +5481,6 @@
       "en": {
         "title": "Sweden has fewest road deaths per capita in the EU – for the fourth year in a row",
         "summary": "Winter slipperiness is here. Last year 19 people per million inhabitants died in Swedish road traffic, compared with 43 in the EU as a whole. See the statistics country by country."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T20:45:53+01:00"
-      }
-    },
-    {
-      "id": "2c8c2a85798a",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/forsvarsmakten-stor-hovasbor-haller-pa-att-fa-ett-psykbryt.0e547c66-27f8-5a49-8f41-1db9606e7b93",
-      "guid": "0e547c66-27f8-5a49-8f41-1db9606e7b93",
-      "published_at": "2026-11-22T20:15:08+01:00",
-      "fetched_at": "2026-11-22T20:45:48+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: Försvarsmakten",
-        "Tagg: Hovås",
-        "Tagg: Buller",
-        "Tagg: breaking-GP"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/6ac0a4f7-7b29-3d49-8273-dc10a1de65a3",
-      "sv": {
-        "title": "Här tvingas boende lyssna på ljudet från kulsprutor",
-        "summary": "Försvarsmaktens skjutövning på Sisjöns skjutfält tär på grannarna.Det smattrande ljudet påverkar vissa boende i Hovås som tröttnat på ljudet från kulsprutor från morgon till kväll.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here residents are forced to listen to the sound of machine guns",
-        "summary": "The Armed Forces' shooting exercises at the Sisjön firing range are wearing on neighbours. The rattling sound affects some residents of Hovås who have tired of the machine-gun noise from morning till night."
       },
       "translation": {
         "status": "done",
