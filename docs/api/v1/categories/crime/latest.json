@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:46:02+01:00",
+  "generated_at": "2026-11-26T09:01:24+01:00",
   "count": 200,
   "items": [
     {
@@ -26,6 +26,30 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T07:15:55+01:00"
+      }
+    },
+    {
+      "id": "4c1ad350d092",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/4EqMrE/grovt-ran-i-stockholm-par-lag-och-sov",
+      "guid": "https://www.aftonbladet.se/nyheter/a/4EqMrE/grovt-ran-i-stockholm-par-lag-och-sov?utm_medium=rss",
+      "published_at": "2026-11-26T07:03:12+01:00",
+      "fetched_at": "2026-11-26T09:01:16+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/29780922-0a38-38d7-8bc0-a75adfca4707?format=auto&s=5e9d3ba3bc5d7708909dac95d27d391353299746&w=1000",
+      "sv": {
+        "title": "Grovt rån i Stockholm – väcktes av man med järnrör"
+      },
+      "en": {
+        "title": "Aggravated robbery in Stockholm – awakened by man with iron pipe"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:01:21+01:00"
       }
     },
     {
@@ -5407,32 +5431,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T11:45:53+01:00"
-      }
-    },
-    {
-      "id": "abb81e325524",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/krim/misstanken-52-aring-drev-bordeller-med-sin-mamma-",
-      "guid": "https://www.expressen.se/nyheter/krim/misstanken-52-aring-drev-bordeller-med-sin-mamma-/",
-      "published_at": "2026-11-21T10:27:59+01:00",
-      "fetched_at": "2026-11-21T10:31:07+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Misstanken: 52-åring drev bordeller med sin ”mamma”",
-        "summary": "Tips från grannar avslöjade 16 lägenhetsbordeller i Stockholm, Göteborg och Malmö. Kvinnorna kom från hela världen, men i bakgrunden fanns en kinesisk man som samlade in stora mängder kontanter. Nu riskerar den 52-årige mannen och hans 60-åriga ”mamma” fängelse för bland annat grovt koppleri.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Suspicion: 52-year-old ran brothels with his ”mother”",
-        "summary": "Tips from neighbours exposed 16 apartment brothels in Stockholm, Göteborg and Malmö. The women came from all over the world, but behind them was a Chinese man who collected large amounts of cash. Now the 52-year-old man and his 60-year-old ”mother” risk prison, including for aggravated pimping."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T10:31:13+01:00"
       }
     }
   ]

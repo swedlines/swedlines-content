@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:46:02+01:00",
+  "generated_at": "2026-11-26T09:01:24+01:00",
   "count": 200,
   "items": [
     {
@@ -78,6 +78,30 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T08:01:26+01:00"
+      }
+    },
+    {
+      "id": "4c1ad350d092",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/4EqMrE/grovt-ran-i-stockholm-par-lag-och-sov",
+      "guid": "https://www.aftonbladet.se/nyheter/a/4EqMrE/grovt-ran-i-stockholm-par-lag-och-sov?utm_medium=rss",
+      "published_at": "2026-11-26T07:03:12+01:00",
+      "fetched_at": "2026-11-26T09:01:16+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/29780922-0a38-38d7-8bc0-a75adfca4707?format=auto&s=5e9d3ba3bc5d7708909dac95d27d391353299746&w=1000",
+      "sv": {
+        "title": "Grovt rån i Stockholm – väcktes av man med järnrör"
+      },
+      "en": {
+        "title": "Aggravated robbery in Stockholm – awakened by man with iron pipe"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:01:21+01:00"
       }
     },
     {
@@ -5351,33 +5375,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T15:31:20+01:00"
-      }
-    },
-    {
-      "id": "fff9c41be80e",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Wmb5XQ/uppgifter-v-bjods-inte-in-till-rodgrona-forhandlingarna",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Wmb5XQ/uppgifter-v-bjods-inte-in-till-rodgrona-forhandlingarna?utm_medium=rss",
-      "published_at": "2026-11-23T14:36:15+01:00",
-      "fetched_at": "2026-11-23T14:45:49+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/0180e2b3-12c2-344e-9502-ca3ba5612624?format=auto&s=c70d0fdca3f3652d439209ee3f825be5a5006667&w=1000",
-      "sv": {
-        "title": "Uppgifter: V bjöds inte in till rödgröna förhandlingarna",
-        "summary": "Uppgifter ✓ Då fick V ”startpaketet”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: V was not invited to the red-green negotiations",
-        "summary": "Reports ✓ Then V got the \"starter package\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T14:45:56+01:00"
       }
     }
   ]

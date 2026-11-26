@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T08:46:02+01:00",
-  "count": 22,
+  "generated_at": "2026-11-26T09:01:24+01:00",
+  "count": 23,
   "stories": [
     {
       "id": "bca5b56324c1",
@@ -711,6 +711,82 @@
       ]
     },
     {
+      "id": "db07267d430b",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "sr",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-26T08:39:23+01:00",
+      "last_published_at": "2026-11-26T08:58:22+01:00",
+      "lead": {
+        "id": "db07267d430b",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/wdPaL5/rekordmanga-elever-tar-gymnasieexamen",
+        "guid": "https://www.aftonbladet.se/nyheter/a/wdPaL5/rekordmanga-elever-tar-gymnasieexamen?utm_medium=rss",
+        "published_at": "2026-11-26T08:39:23+01:00",
+        "fetched_at": "2026-11-26T08:45:48+01:00",
+        "category": "sweden",
+        "image_url": "https://akamai.vgc.no/v2/images/c6acda5a-914b-3aa9-8a10-1c65ee0a28c6?format=auto&s=dbb39600bf4bf46e99edf9dc64628dcfed5d136f&w=1000",
+        "sv": {
+          "title": "Rekordmånga elever tar gymnasieexamen",
+          "summary": "Andelen elever som tagit gymnasieexamen på tre år är rekordhög. Dessutom ökar andelen yrkeselever…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Record number of students earn upper secondary school diplomas",
+          "summary": "The share of students who earned an upper secondary school diploma in three years is at a record high. In addition, the share of vocational students is increasing…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T08:45:57+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "e5201574417b",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/rekordmanga-elever-tar-gymnasieexamen",
+          "published_at": "2026-11-26T08:58:22+01:00",
+          "sv": {
+            "title": "Rekordmånga elever tar gymnasieexamen"
+          },
+          "en": {
+            "title": "Record number of students earn upper secondary diplomas"
+          }
+        },
+        {
+          "id": "d8d34513f5b7",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9350433",
+          "published_at": "2026-11-26T08:55:00+01:00",
+          "sv": {
+            "title": "Rekordmånga tar gymnasieexamen"
+          },
+          "en": {
+            "title": "Record number take upper secondary diplomas"
+          }
+        },
+        {
+          "id": "db07267d430b",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/wdPaL5/rekordmanga-elever-tar-gymnasieexamen",
+          "published_at": "2026-11-26T08:39:23+01:00",
+          "sv": {
+            "title": "Rekordmånga elever tar gymnasieexamen"
+          },
+          "en": {
+            "title": "Record number of students earn upper secondary school diplomas"
+          }
+        }
+      ]
+    },
+    {
       "id": "01be779c7ddf",
       "source_count": 3,
       "sources": [
@@ -930,6 +1006,68 @@
           },
           "en": {
             "title": "Duran Duran's Andy Taylor dead"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6fd95f0ec79f",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-26T08:58:13+01:00",
+      "last_published_at": "2026-11-26T08:58:16+01:00",
+      "lead": {
+        "id": "6fd95f0ec79f",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg",
+        "guid": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg?utm_medium=rss",
+        "published_at": "2026-11-26T08:58:13+01:00",
+        "fetched_at": "2026-11-26T09:01:16+01:00",
+        "category": "economy",
+        "sv": {
+          "title": "Norska flygbolaget ställer in samtliga flyg",
+          "summary": "Krisande norska flygbolaget Norse ställer in samtliga flyg under torsdagen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Norwegian airline cancels all flights",
+          "summary": "The struggling Norwegian airline Norse is cancelling all flights on Thursday."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:01:21+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "0b06185d18b1",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/norska-flygbolaget-staller-in-samtliga-flyg",
+          "published_at": "2026-11-26T08:58:16+01:00",
+          "sv": {
+            "title": "Norska flygbolaget ställer in samtliga flyg"
+          },
+          "en": {
+            "title": "Norwegian airline cancels all flights"
+          }
+        },
+        {
+          "id": "6fd95f0ec79f",
+          "source": "svd",
+          "url": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg",
+          "published_at": "2026-11-26T08:58:13+01:00",
+          "sv": {
+            "title": "Norska flygbolaget ställer in samtliga flyg"
+          },
+          "en": {
+            "title": "Norwegian airline cancels all flights"
           }
         }
       ]
@@ -1651,68 +1789,6 @@
           },
           "en": {
             "title": "New case of wasting disease in moose in Sweden"
-          }
-        }
-      ]
-    },
-    {
-      "id": "9339b43eb9ef",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "dn"
-      ],
-      "first_published_at": "2026-11-25T18:30:46+01:00",
-      "last_published_at": "2026-11-25T20:55:09+01:00",
-      "lead": {
-        "id": "9339b43eb9ef",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/inrikes/s-profilerna-varnar-djup-kris-om-andersson-misslyckas",
-        "guid": "https://www.svt.se/nyheter/inrikes/s-profilerna-varnar-djup-kris-om-andersson-misslyckas",
-        "published_at": "2026-11-25T18:30:46+01:00",
-        "fetched_at": "2026-11-25T18:31:01+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "S-profilerna varnar: Djup kris om Andersson misslyckas",
-          "summary": "Om Magdalena Andersson misslyckas med att bilda regering riskerar Socialdemokraterna att kastas in i en djup kris. Det menar S-profilerna Daniel Suhonen och Lars Stjernkvist. – Att vinna ett val och sen tappa det. Det är ju nästan häpnadsväckande, säger Suhonen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "S figures warn: Deep crisis if Andersson fails",
-          "summary": "If Magdalena Andersson fails to form a government, the Social Democrats risk being plunged into a deep crisis. That is the view of S figures Daniel Suhonen and Lars Stjernkvist. – To win an election and then lose it. That is almost astonishing, says Suhonen."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T18:31:20+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "b5104785fe50",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/s-veteraner-andersson-kan-fa-avga-om-rodgrona-misslyckas",
-          "published_at": "2026-11-25T20:55:09+01:00",
-          "sv": {
-            "title": "S-veteraner: Andersson kan få avgå om rödgröna misslyckas"
-          },
-          "en": {
-            "title": "S veterans: Andersson could be forced to step down if the red-greens fail"
-          }
-        },
-        {
-          "id": "9339b43eb9ef",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/s-profilerna-varnar-djup-kris-om-andersson-misslyckas",
-          "published_at": "2026-11-25T18:30:46+01:00",
-          "sv": {
-            "title": "S-profilerna varnar: Djup kris om Andersson misslyckas"
-          },
-          "en": {
-            "title": "S figures warn: Deep crisis if Andersson fails"
           }
         }
       ]

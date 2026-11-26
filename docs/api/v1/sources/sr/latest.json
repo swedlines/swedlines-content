@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T08:46:02+01:00",
+  "generated_at": "2026-11-26T09:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d8d34513f5b7",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350433",
+      "guid": "rss:sr.se/article/9350433",
+      "published_at": "2026-11-26T08:55:00+01:00",
+      "fetched_at": "2026-11-26T09:01:14+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Rekordmånga tar gymnasieexamen",
+        "summary": "Andelen elever som tagit gymnasieexamen på tre år är rekordhög, visar ny statistik från Skolverket. I våras tog 83,1 procent av eleverna på högskoleförberedande program sin examen på tre år. Motsvarande siffra för elever på yrkesprogram är 76,7 procent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Record number take upper secondary diplomas",
+        "summary": "The share of students earning an upper secondary diploma in three years is at a record high, according to new statistics from the National Agency for Education. Last spring, 83.1 percent of students in higher education preparatory programmes earned their diploma in three years. The corresponding figure for students in vocational programmes is 76.7 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:01:21+01:00"
+      }
+    },
     {
       "id": "7ea54fee14f9",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "50450e99551b",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347349",
-      "guid": "rss:sr.se/article/9347349",
-      "published_at": "2026-11-20T15:55:00+01:00",
-      "fetched_at": "2026-11-20T16:01:14+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Tusk om kränkningarna: ”Medveten rysk provokation”",
-        "summary": "Fredagsmorgonens kränkningar av det polska luftrummet var mest troligen en ”medveten rysk provokation”. Det säger landets premiärminister Donald Tusk. Kränkningarna skedde i samband med nattens massiva attack mot Ukraina.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Tusk on violations: \"Deliberate Russian provocation\"",
-        "summary": "Friday morning's violations of Polish airspace were most likely a \"deliberate Russian provocation\". So says the country's prime minister Donald Tusk. The violations occurred in connection with the night's massive attack on Ukraine."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:01:24+01:00"
       }
     }
   ]
