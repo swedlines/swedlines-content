@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T16:31:11+01:00",
+  "generated_at": "2026-11-26T16:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "933d5d171574",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/z0Gd4b/c-ledaren-kallar-till-presstraff-efter-odesmotet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/z0Gd4b/c-ledaren-kallar-till-presstraff-efter-odesmotet?utm_medium=rss",
+      "published_at": "2026-11-26T16:43:31+01:00",
+      "fetched_at": "2026-11-26T16:45:49+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-ledaren kallar till pressträff efter ödesmötet",
+        "summary": "Centerledaren Elisabeth Thand Ringqvist kommer att hålla en pressträff i riksdagen torsdag…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre leader calls press conference after make-or-break meeting",
+        "summary": "Centre Party leader Elisabeth Thand Ringqvist will hold a press conference at the Riksdag on Thursday…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T16:45:56+01:00"
+      }
+    },
     {
       "id": "0544d33fe320",
       "schema_version": 1,
@@ -5349,33 +5375,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T03:45:52+01:00"
-      }
-    },
-    {
-      "id": "963f83ee41c6",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/OypOPw/strandhall-v-har-fullstandigt-kort-sonder-detta",
-      "guid": "https://www.aftonbladet.se/nyheter/a/OypOPw/strandhall-v-har-fullstandigt-kort-sonder-detta?utm_medium=rss",
-      "published_at": "2026-11-24T02:23:02+01:00",
-      "fetched_at": "2026-11-24T08:01:09+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/b8483ab3-977e-380e-951e-eb611ace6563?format=auto&s=4c60a761e845efaeb34d0f64ad1bd8b4f4ab4d3d&w=1000",
-      "sv": {
-        "title": "S-veteranen till attack: Ni har fullständigt kört sönder detta",
-        "summary": "Veteranen rasar ✓ Kontrar: ”Bjälken i ditt öga”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Social Democrat veteran goes on the attack: You have completely wrecked this",
-        "summary": "The veteran is furious ✓ Counters: \"The beam in your own eye\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T08:01:15+01:00"
       }
     }
   ]

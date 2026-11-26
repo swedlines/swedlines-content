@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T16:31:11+01:00",
+  "generated_at": "2026-11-26T16:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a9aff6773022",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=154b6100-7d26-4d2d-88c8-d2e3d59eb1f7",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=154b6100-7d26-4d2d-88c8-d2e3d59eb1f7",
+      "published_at": "2026-11-26T16:40:58+01:00",
+      "fetched_at": "2026-11-26T16:45:50+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Centerpartiet blixtinkallar till pressträff",
+        "summary": "Efter ödesmötet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party calls snap press conference",
+        "summary": "After the make-or-break meeting"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T16:45:56+01:00"
+      }
+    },
     {
       "id": "83d9ff69bc92",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T15:15:53+01:00"
-      }
-    },
-    {
-      "id": "af1c31969ced",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7362fba4-f1f0-4095-be9c-5c14a8215909",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7362fba4-f1f0-4095-be9c-5c14a8215909",
-      "published_at": "2026-11-23T15:02:12+01:00",
-      "fetched_at": "2026-11-23T15:10:47+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Jensen Huang tillbaka som vd",
-        "summary": "Ta över Nvidia igen efter skandalerna",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jensen Huang back as CEO",
-        "summary": "Takes over Nvidia again after the scandals"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T15:10:54+01:00"
       }
     }
   ]

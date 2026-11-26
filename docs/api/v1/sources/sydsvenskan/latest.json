@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T16:31:11+01:00",
+  "generated_at": "2026-11-26T16:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ce1a01678204",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/c-ledaren-kallar-till-presstraff-efter-odesmotet",
+      "guid": "4c759fb2-04ce-4597-8033-ffc7784348b8",
+      "published_at": "2026-11-26T16:43:38+01:00",
+      "fetched_at": "2026-11-26T16:45:51+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-ledaren kallar till pressträff efter ödesmötet",
+        "summary": "Centerledaren Elisabeth Thand Ringqvist kommer att hålla en pressträff i riksdagen torsdag eftermiddag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre leader calls press conference after make-or-break meeting",
+        "summary": "Centre Party leader Elisabeth Thand Ringqvist will hold a press conference at the Riksdag on Thursday afternoon."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T16:45:56+01:00"
+      }
+    },
     {
       "id": "60f9d8a98897",
       "schema_version": 1,
@@ -5166,33 +5192,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T06:01:24+01:00"
-      }
-    },
-    {
-      "id": "02679b241c9b",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/fartygsattack-spiller-over-kriget-pa-afrika",
-      "guid": "64d62c5d-7811-4144-a64d-e6468682527e",
-      "published_at": "2026-11-24T05:31:01+01:00",
-      "fetched_at": "2026-11-24T05:45:44+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/a3464691-5f5a-4904-b983-30685e68a1ae.jpg?width=600",
-      "sv": {
-        "title": "Fartygsattack ”spiller över kriget på Afrika”",
-        "summary": "Ukrainakriget letar sig utanför Rysslands och Ukrainas gränser. I söndags sänkte Ukraina en rysk korvett i en libysk hamn – 240 mil från fronten. – Man vill visa att ryska örlogsfartyg inte ens är säkra i hamnar långt bort från kriget, säger Anna Ida Rock, som leder Afrikaforskningen vid FOI.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ship attack \"spills over the war into Africa\"",
-        "summary": "The Ukraine war is spreading beyond the borders of Russia and Ukraine. Last Sunday Ukraine sank a Russian corvette in a Libyan port – 2,400 km from the front. \"The aim is to show that Russian warships are not even safe in ports far from the war,\" says Anna Ida Rock, who heads Africa research at FOI."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T05:45:51+01:00"
       }
     }
   ]
