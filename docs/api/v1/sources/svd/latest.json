@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-26T13:01:47+01:00",
+  "generated_at": "2026-11-26T13:04:42+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "810241cd81f0",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/VxbWB3/miljardorder-for-bae-systems-hagglunds",
+      "guid": "https://www.svd.se/a/VxbWB3/miljardorder-for-bae-systems-hagglunds?utm_medium=rss",
+      "published_at": "2026-11-26T13:01:46+01:00",
+      "fetched_at": "2026-11-26T13:04:34+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/615bffc2-7678-33ba-be92-6d10d45802e3?format=auto&s=e56a83cfa074f69a75a7677687bd9678531adf66&w=1000",
+      "sv": {
+        "title": "Miljardorder för BAE Systems Hägglunds"
+      },
+      "en": {
+        "title": "Billion-kronor order for BAE Systems Hägglunds"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:04:39+01:00"
+      }
+    },
     {
       "id": "8b52e54b001d",
       "schema_version": 1,
@@ -5222,29 +5246,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T10:01:30+01:00"
-      }
-    },
-    {
-      "id": "af1400435bf8",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80214",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80214&utm_medium=rss",
-      "published_at": "2026-11-23T09:36:16+01:00",
-      "fetched_at": "2026-11-23T09:45:45+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Misstänkt mässlingsutbrott i Stockholm"
-      },
-      "en": {
-        "title": "Suspected measles outbreak in Stockholm"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T09:45:55+01:00"
       }
     }
   ]

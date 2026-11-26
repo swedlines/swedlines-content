@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T13:01:47+01:00",
+  "generated_at": "2026-11-26T13:04:42+01:00",
   "count": 200,
   "items": [
     {
@@ -591,6 +591,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
+    {
+      "id": "f42bae991ae6",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/411229/trump-benadar-kalkoner-jag-har-hoert-baettre",
+      "guid": "https://tv.aftonbladet.se/video/411229/trump-benadar-kalkoner-jag-har-hoert-baettre?utm_medium=rss",
+      "published_at": "2026-11-26T08:04:06+01:00",
+      "fetched_at": "2026-11-26T13:04:34+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/f1a27a298d38a1d631827b4dd53c19c6.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Trump benådar kalkoner: ”Jag har hört bättre”",
+        "summary": "Orden om sina benådade fjäderfän",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump pardons turkeys: \"I've heard better\"",
+        "summary": "The words about his pardoned poultry"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:04:39+01:00"
       }
     },
     {
@@ -5348,33 +5375,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T21:15:56+01:00"
-      }
-    },
-    {
-      "id": "84ba717fd6e9",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/7P0z0o/uppgifter-c-i-extrainsatt-mote-om-regeringsfragan",
-      "guid": "https://www.aftonbladet.se/nyheter/a/7P0z0o/uppgifter-c-i-extrainsatt-mote-om-regeringsfragan?utm_medium=rss",
-      "published_at": "2026-11-23T20:35:25+01:00",
-      "fetched_at": "2026-11-23T20:40:00+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/0416c33c-2af5-3db0-8003-635c7d7eaadf?format=auto&s=c2c4934483340a267da45c4279844ba26144766f&w=1000",
-      "sv": {
-        "title": "Uppgifter: C i extrainsatt möte om regeringsfrågan",
-        "summary": "Centerpartiets partistyrelse och riksdagsgrupp håller ett extrainsatt möte på måndagskvällen, enligt…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: C in extra meeting on government question",
-        "summary": "The Centre Party's party board and parliamentary group are holding an extra meeting on Monday evening, according to…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T20:40:13+01:00"
       }
     }
   ]

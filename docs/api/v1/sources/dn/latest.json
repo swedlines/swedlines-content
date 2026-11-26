@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T13:01:47+01:00",
+  "generated_at": "2026-11-26T13:04:42+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7534a3c0f1cf",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/mordade-18-aringens-storasyster-i-ratten-han-var-min-basta-van",
+      "guid": "https://www.dn.se/sverige/mordade-18-aringens-storasyster-i-ratten-han-var-min-basta-van/",
+      "published_at": "2026-11-26T13:00:59+01:00",
+      "fetched_at": "2026-11-26T13:04:34+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/495ee1bc-f966-4b8b-bad1-568a883e1973.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Mördade 18-åringens storasyster i rätten: ”Han var min bästa vän”",
+        "summary": "18-åringen var på väg hem från skolan när han kallblodigt sköts till döds på en SL-buss. Under rättegången säger 18-åringens storasyster att hon direkt insåg att det rörde sig om en felskjutning. – Vi var inte bara syskon, vi var också bästa vänner, säger systern medan hon gråter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Murdered 18-year-old's older sister in court: \"He was my best friend\"",
+        "summary": "The 18-year-old was on his way home from school when he was shot dead in cold blood on an SL bus. During the trial, the 18-year-old's older sister says she immediately realised it was a case of mistaken identity. \"We were not just siblings, we were also best friends,\" the sister says while crying."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:04:39+01:00"
+      }
+    },
     {
       "id": "13c744d226cd",
       "schema_version": 1,
@@ -5368,33 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T11:45:51+01:00"
-      }
-    },
-    {
-      "id": "54bcda9e82fd",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/omfattande-smittsparning-efter-masslingsfall-i-stockholm",
-      "guid": "https://www.dn.se/sverige/omfattande-smittsparning-efter-masslingsfall-i-stockholm/",
-      "published_at": "2026-11-23T11:05:15+01:00",
-      "fetched_at": "2026-11-23T11:15:45+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/c2d733ba-2978-4d70-8803-879ac2c70aab.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Omfattande smittspårning efter mässlingsfall i Stockholm",
-        "summary": "Södersjukhuset i Stockholm har inlett en omfattande smittspårning efter ett fall av mässling. Man kontaktar nu hundratals sedan den smittade personen befunnit sig i ett väntrum på sjukhuset under flera timmar. – Vi har under fredagen haft ett bekräftat fall, säger chefläkare Annelie Liljegren.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Extensive contact tracing after measles case in Stockholm",
-        "summary": "Södersjukhuset in Stockholm has launched extensive contact tracing after a measles case. Hundreds are now being contacted since the infected person was in a hospital waiting room for several hours. “We had a confirmed case on Friday,” says chief physician Annelie Liljegren."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T11:15:59+01:00"
       }
     }
   ]
