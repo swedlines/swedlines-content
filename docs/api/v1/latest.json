@@ -1,7 +1,68 @@
 {
-  "generated_at": "2026-11-26T22:45:46+01:00",
+  "generated_at": "2026-11-26T23:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4e8d77ecd872",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/christinas-ohyggliga--dod-pa-flygplatsen",
+      "guid": "https://www.expressen.se/nyheter/varlden/christinas-ohyggliga--dod-pa-flygplatsen/",
+      "published_at": "2026-11-26T22:45:46+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Christinas ohyggliga död på flygplatsen",
+        "summary": "Christina Blake befann sig på en flygplats. Då blev den 38-åriga tvåbarnsmamman ”dödad på ett ohyggligt sätt”, enligt New York Post. Men det är oklart varför hon ens var där.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Christina's horrific death at the airport",
+        "summary": "Christina Blake was at an airport. Then the 38-year-old mother of two was \"killed in a horrific way\", according to the New York Post. But it is unclear why she was there at all."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
+      }
+    },
+    {
+      "id": "487245ee9b05",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/ishockey/frolunda/frolundas-plan-efter-tommernes-skada.4d24f904-5d64-561a-ac80-7dd5fcd7caad",
+      "guid": "4d24f904-5d64-561a-ac80-7dd5fcd7caad",
+      "published_at": "2026-11-26T22:41:08+01:00",
+      "fetched_at": "2026-11-26T23:01:11+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Frölunda",
+        "Tagg: Henrik Tömmernes",
+        "Tagg: Christian Folin",
+        "Tagg: Tom Nilsson",
+        "Tagg: Robert Ohlsson",
+        "Tagg: Frölunda HC"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/8644a7e1-67af-3125-9dc0-d9889584da1b",
+      "sv": {
+        "title": "Frölundas plan efter Tömmernes skada",
+        "summary": "Ska testa Folin snart",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frölunda's plan after Tömmes injury",
+        "summary": "Will test Folin soon"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
+      }
+    },
     {
       "id": "6120ffd509d0",
       "schema_version": 1,
@@ -27,6 +88,71 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T22:45:44+01:00"
+      }
+    },
+    {
+      "id": "09f86e8e739e",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/kritiska-c-toppen-inga-garantier-mot-hemliga-forhandlingar.43a68e8d-a5a4-55a6-b233-ae6782edf0a4",
+      "guid": "43a68e8d-a5a4-55a6-b233-ae6782edf0a4",
+      "published_at": "2026-11-26T22:39:32+01:00",
+      "fetched_at": "2026-11-26T23:01:11+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Ulf Kristersson",
+        "Tagg: Jimmie Åkesson",
+        "Tagg: Sverigedemokraterna",
+        "Tagg: Elisabeth Thand Ringqvist",
+        "Tagg: Centerpartiet",
+        "Tagg: breaking-GP"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/4d37cf68-81f8-3bc9-a8ab-d516d3e847bc",
+      "sv": {
+        "title": "Kritiska C-toppen: Inga garantier mot hemliga förhandlingar",
+        "summary": "Åkesson har tidigare öppnat för förhandling med bulvan – diskuterades på C-mötet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Critical C-summit: No guarantees against secret negotiations",
+        "summary": "Åkesson has previously opened up to negotiating with the puppet – discussed at the C meeting."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
+      }
+    },
+    {
+      "id": "f2a255ab772f",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3IlsXfhULJdAT0u2fwgIJm/c-kaellor-oklart-vilket-inflytande-sd-kommer-fa",
+      "guid": "3IlsXfhULJdAT0u2fwgIJm",
+      "published_at": "2026-11-26T22:39:14+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "C-källor: Oklart vilket inflytande SD kommer få",
+        "summary": "”Det är Åkesson som kommer att diktera villkoren nästa mandatperiod”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C sources: Unclear what influence the SD will have",
+        "summary": "\"It is Åkesson who will dictate the terms next term of office\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
       }
     },
     {
@@ -396,6 +522,35 @@
       }
     },
     {
+      "id": "098e4851e769",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3D3sx7yIvoSN0iZJjlMMQQ/gemensam-borglig-budget-laeggs-fram-i-morgon",
+      "guid": "3D3sx7yIvoSN0iZJjlMMQQ",
+      "published_at": "2026-11-26T21:43:41+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Gemensam borgerlig budget läggs fram under fredagen",
+        "summary": "Uppgifter till TV4 • Källa: ”C kommer gilla det”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Joint centre-right budget to be presented on Friday",
+        "summary": "Information to TV4 • Source: \"C will like it\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
+      }
+    },
+    {
       "id": "663e5c150869",
       "schema_version": 1,
       "source": "sydsvenskan",
@@ -689,6 +844,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T21:15:52+01:00"
+      }
+    },
+    {
+      "id": "d2fff673c283",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5Aoj0Dn2e8iZ8sgUViClGw/stoersta-fiaskot-i-socialdemokraternas-historia",
+      "guid": "5Aoj0Dn2e8iZ8sgUViClGw",
+      "published_at": "2026-11-26T21:09:33+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Största fiaskot i S historia"
+      },
+      "en": {
+        "title": "The biggest fiasco in S history"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
       }
     },
     {
@@ -1105,6 +1286,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T20:31:03+01:00"
+      }
+    },
+    {
+      "id": "44fc64346f68",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1NhzURHX9CdlZptvFi4d2H/interna-ilskan-efter-c-ledarens-stoed-till-kristersson-katastrof",
+      "guid": "1NhzURHX9CdlZptvFi4d2H",
+      "published_at": "2026-11-26T20:15:48+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Intern ilska efter C-ledarens besked: ”Katastrof”",
+        "summary": "Thand Ringqvist var redo att avgå • Förtroenderådet samlas på söndag",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Internal anger after C leader's announcement: \"Catastrophe\"",
+        "summary": "Thand Ringqvist was ready to resign • Trust council convenes on Sunday"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
       }
     },
     {
@@ -2455,6 +2665,35 @@
       }
     },
     {
+      "id": "334b097a5edb",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5346t2uKL2Qh1ljWweoIOn/s-ledaren-kommer-bli-en-historiskt-svag-regering",
+      "guid": "5346t2uKL2Qh1ljWweoIOn",
+      "published_at": "2026-11-26T18:53:08+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "S-ledaren: ”Kommer bli en historiskt svag regering”",
+        "summary": "Centerkvinnorna stöttar inte beslutet: ”Vi är emot det här”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "S leader: \"Will become a historically weak government\"",
+        "summary": "Centre women do not support the decision: \"We are against this\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
+      }
+    },
+    {
       "id": "5089f42fe511",
       "schema_version": 1,
       "source": "svt",
@@ -2863,6 +3102,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T18:31:19+01:00"
+      }
+    },
+    {
+      "id": "23517b033bce",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2wAaw3nC7dDALbaMSpyOoi/beskedet-efter-75-dagar-c-vill-saega-ja-till-kristersson",
+      "guid": "2wAaw3nC7dDALbaMSpyOoi",
+      "published_at": "2026-11-26T18:19:48+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "C-beskedet efter 75 dagar – vill säga ja till Kristersson",
+        "summary": "Thand Ringqvist: SD får ingenting",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C announcement after 75 days – wants to say yes to Kristersson",
+        "summary": "Thand Ringqvist: SD gets nothing"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
       }
     },
     {
@@ -5198,245 +5466,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T16:01:26+01:00"
-      }
-    },
-    {
-      "id": "cbbbcc04e73a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/eskalering-i-korten-i-mellanostern-oljepriset-vander-uppat",
-      "guid": "3a50f3d3-6158-4dc3-a0ac-5e11b4c59664",
-      "published_at": "2026-11-26T15:48:11+01:00",
-      "fetched_at": "2026-11-26T16:01:20+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/441dc97b-b970-4687-8e63-46bf9900deb9.jpeg?width=600",
-      "sv": {
-        "title": "Eskalering i korten i Mellanöstern – oljepriset vänder uppåt",
-        "summary": "Efter flera veckor med en nedåtgående trend tog oljepriset ett nytt kliv uppåt. En möjlig eskalering av kriget i Persiska viken väger på priset. ”I Iran har man bestämt sig för att bryta dödläget”, säger Mellanösternkännaren Alexander Atarodi.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Escalation in the cards in the Middle East – oil price turns upward",
-        "summary": "After several weeks of a downward trend, the oil price took a new step upward. A possible escalation of the war in the Persian Gulf is weighing on the price. \"Iran has decided to break the deadlock\", says Middle East expert Alexander Atarodi."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T16:01:26+01:00"
-      }
-    },
-    {
-      "id": "58ad89ced795",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/4Eq5oG/ryssland-och-ukraina-utvaxlar-soldaters-kvarlevor",
-      "guid": "https://www.aftonbladet.se/nyheter/a/4Eq5oG/ryssland-och-ukraina-utvaxlar-soldaters-kvarlevor?utm_medium=rss",
-      "published_at": "2026-11-26T15:45:39+01:00",
-      "fetched_at": "2026-11-26T16:01:19+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/8de3715b-d082-39d2-b5c3-ba3a7d18a0c6?format=auto&s=a1fab63f69635abe0b8751219276ab21567e6ce8&w=1000",
-      "sv": {
-        "title": "Ryssland och Ukraina utväxlar soldaters kvarlevor",
-        "summary": "Ukraina uppger att landet tagit emot kvarlevor av 250 stupade ukrainska soldater.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russia and Ukraine exchange soldiers' remains",
-        "summary": "Ukraine says it has received the remains of 250 fallen Ukrainian soldiers."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T16:01:26+01:00"
-      }
-    },
-    {
-      "id": "60f9d8a98897",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/depardieu-infor-ratta-for-misstankt-valdtakt",
-      "guid": "e87e962f-3c15-4b53-8da4-ffc78aea3a9b",
-      "published_at": "2026-11-26T15:43:57+01:00",
-      "fetched_at": "2026-11-26T15:45:44+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/a66cf3fd-68ae-49d1-8ad6-b22423298a1e.jpg?width=600",
-      "sv": {
-        "title": "Depardieu inför rätta för misstänkt våldtäkt",
-        "summary": "Fransk domstol har under torsdagen bestämt att skådespelaren Gérard Depardieu ställs inför rätta för misstänkta våldtäkter mot skådespelaren Charlotte Arnould 2018.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Depardieu to stand trial for alleged rape",
-        "summary": "A French court has on Thursday ordered that actor Gérard Depardieu be brought to trial for alleged rapes of actress Charlotte Arnould in 2018."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T15:45:46+01:00"
-      }
-    },
-    {
-      "id": "298191a05829",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/kinesiska-ilskan-mot-trump-dagar-efter-motet",
-      "guid": "https://www.expressen.se/nyheter/varlden/kinesiska-ilskan-mot-trump-dagar-efter-motet/",
-      "published_at": "2026-11-26T15:38:39+01:00",
-      "fetched_at": "2026-11-26T15:41:35+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Kinesiska ilskan mot Trump – dagar efter mötet",
-        "summary": "Sverige kallar det för ”oseriös handelspolitik”, Brasilien säger att man inte kommer vika sig – och samtidigt anklagar Kina Trump och USA för ”politisk manipulation”. Donald Trumps nya handelstullar väcker ilska över hela världen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Chinese anger at Trump – days after the meeting",
-        "summary": "Sweden calls it \"unserious trade policy\", Brazil says it will not give in – and meanwhile China accuses Trump and the USA of \"political manipulation\". Donald Trump's new trade tariffs are provoking anger across the world."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T15:41:39+01:00"
-      }
-    },
-    {
-      "id": "d21d2128145e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/elev-har-tratt-fram-erkanner-skolhotet-i-harnosand",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/elev-har-tratt-fram-erkanner-skolhotet-i-harnosand",
-      "published_at": "2026-11-26T15:33:47+01:00",
-      "fetched_at": "2026-11-26T16:01:15+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Elev har trätt fram – erkänner skolhotet i Härnösand",
-        "summary": "En elev i Härnösands kommun har trätt fram och erkänt skolhotet. Skolchefen säger att man nu bedömer hotet som över.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Pupil has come forward – admits school threat in Härnösand",
-        "summary": "A pupil in Härnösand municipality has come forward and admitted to the school threat. The head of schools says the threat is now assessed as over."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T16:01:26+01:00"
-      }
-    },
-    {
-      "id": "786211b1db9f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/brittiskt-handelsavtal-med-eu-innehaller-farageklausul",
-      "guid": "d67c1825-fde6-410a-92b2-a2cd4233254f",
-      "published_at": "2026-11-26T15:28:37+01:00",
-      "fetched_at": "2026-11-26T15:41:35+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0b7b8ba2-863c-400d-9f01-fcc16fca0222.jpeg?width=600",
-      "sv": {
-        "title": "Brittiskt handelsavtal med EU innehåller ”Farageklausul”",
-        "summary": "Storbritanniens nya livsmedelsavtal med EU innehåller en tioårig klausul som innebär att den part som säger upp avtalet får bekosta återupprättandet av gränskontrollerna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "UK trade deal with EU contains \"Farage clause\"",
-        "summary": "The United Kingdom's new food agreement with the EU contains a ten-year clause meaning that the party that terminates the agreement must pay for reinstating border controls."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T15:41:39+01:00"
-      }
-    },
-    {
-      "id": "970ba6ea281f",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/qOL2R1/ud-lattar-pa-reseavradan-till-libanon",
-      "guid": "https://www.aftonbladet.se/nyheter/a/qOL2R1/ud-lattar-pa-reseavradan-till-libanon?utm_medium=rss",
-      "published_at": "2026-11-26T15:28:04+01:00",
-      "fetched_at": "2026-11-26T15:31:07+01:00",
-      "category": "world",
-      "sv": {
-        "title": "UD lättar på reseavrådan till Libanon",
-        "summary": "Utrikesdepartementet (UD) lättar på reseavrådan till Libanon, skriver Regeringskansliet i ett…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "UD eases travel advisory for Lebanon",
-        "summary": "The Ministry for Foreign Affairs (UD) is easing its travel advisory for Lebanon, the Government Offices write in a…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T15:31:15+01:00"
-      }
-    },
-    {
-      "id": "0504d09911f6",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/rheinmetall-anstallda-doda-efter-iransk-attack",
-      "guid": "ea8fd7c8-aaa4-42b3-8f14-2bac2d2cbc65",
-      "published_at": "2026-11-26T15:22:46+01:00",
-      "fetched_at": "2026-11-26T15:31:08+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/f1441eb7-2a7e-4f34-99df-7782348ea239.jpeg?width=600",
-      "sv": {
-        "title": "Rheinmetall-anställda döda efter iransk attack",
-        "summary": "Två italienska tekniker vid försvarsföretaget Rheinmetall Italia, som tillhör den tyska koncernen Rheinmetall, har dött i samband med en iransk attack i Kuwait efter att ha träffats av vrakdelar från drönare. Det skriver flera italienska medier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Rheinmetall employees dead after Iranian attack",
-        "summary": "Two Italian technicians at defence company Rheinmetall Italia, part of the German Rheinmetall group, have died in connection with an Iranian attack in Kuwait after being struck by drone debris, according to several Italian media outlets."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T15:31:15+01:00"
-      }
-    },
-    {
-      "id": "0fa50b536dc8",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2f1532ae-5c9d-438d-8261-086bd19b6fa9",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2f1532ae-5c9d-438d-8261-086bd19b6fa9",
-      "published_at": "2026-11-26T15:22:14+01:00",
-      "fetched_at": "2026-11-26T15:31:07+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Vattenfalls höjer priset för 900 000 hushåll",
-        "summary": "Elnätsavgiften höjs med flera procent",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Vattenfall raises price for 900,000 households",
-        "summary": "The grid fee is being raised by several percent"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T15:31:15+01:00"
       }
     }
   ]

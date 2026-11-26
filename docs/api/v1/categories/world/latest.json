@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T22:45:46+01:00",
+  "generated_at": "2026-11-26T23:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4e8d77ecd872",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/christinas-ohyggliga--dod-pa-flygplatsen",
+      "guid": "https://www.expressen.se/nyheter/varlden/christinas-ohyggliga--dod-pa-flygplatsen/",
+      "published_at": "2026-11-26T22:45:46+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Christinas ohyggliga död på flygplatsen",
+        "summary": "Christina Blake befann sig på en flygplats. Då blev den 38-åriga tvåbarnsmamman ”dödad på ett ohyggligt sätt”, enligt New York Post. Men det är oklart varför hon ens var där.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Christina's horrific death at the airport",
+        "summary": "Christina Blake was at an airport. Then the 38-year-old mother of two was \"killed in a horrific way\", according to the New York Post. But it is unclear why she was there at all."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
+      }
+    },
     {
       "id": "d2aa63f88bcc",
       "schema_version": 1,
@@ -5308,32 +5334,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T02:45:53+01:00"
-      }
-    },
-    {
-      "id": "2586ba487ac4",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/aGwzQM/dodliga-attacker-i-ukraina",
-      "guid": "https://www.svd.se/a/aGwzQM/dodliga-attacker-i-ukraina?utm_medium=rss",
-      "published_at": "2026-11-25T01:38:56+01:00",
-      "fetched_at": "2026-11-25T01:45:43+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Dödliga attacker i Ukraina",
-        "summary": "Minst två personer har dödats i ryska attacker mot Ukraina sent på tisdagen, rapporterar The Kyiv…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Deadly attacks in Ukraine",
-        "summary": "At least two people have been killed in Russian attacks on Ukraine late on Tuesday, reports The Kyiv…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T01:45:48+01:00"
       }
     }
   ]

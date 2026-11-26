@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T22:45:46+01:00",
+  "generated_at": "2026-11-26T23:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4e8d77ecd872",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/christinas-ohyggliga--dod-pa-flygplatsen",
+      "guid": "https://www.expressen.se/nyheter/varlden/christinas-ohyggliga--dod-pa-flygplatsen/",
+      "published_at": "2026-11-26T22:45:46+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Christinas ohyggliga död på flygplatsen",
+        "summary": "Christina Blake befann sig på en flygplats. Då blev den 38-åriga tvåbarnsmamman ”dödad på ett ohyggligt sätt”, enligt New York Post. Men det är oklart varför hon ens var där.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Christina's horrific death at the airport",
+        "summary": "Christina Blake was at an airport. Then the 38-year-old mother of two was \"killed in a horrific way\", according to the New York Post. But it is unclear why she was there at all."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
+      }
+    },
     {
       "id": "23d26073a48e",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T21:01:14+01:00"
-      }
-    },
-    {
-      "id": "3903d7c6c595",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/nya-reglerna-for-turister-i-alperna",
-      "guid": "https://www.expressen.se/nyheter/varlden/nya-reglerna-for-turister-i-alperna/",
-      "published_at": "2026-11-23T20:36:56+01:00",
-      "fetched_at": "2026-11-23T20:40:01+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Nya reglerna för turister i Alperna",
-        "summary": "Planerar du en naturskön vandring i de franska Alperna? Se då till att boka ditt besök i förväg – i alla fall om du ska till Chamonix. Från och med nästa år planeras besökskvoter vid flera populära sjöar med utsikt över Mont Blanc.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New rules for tourists in the Alps",
-        "summary": "Are you planning a scenic hike in the French Alps? Then be sure to book your visit in advance – at least if you are going to Chamonix. From next year, visitor quotas are planned at several popular lakes with a view of Mont Blanc."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T20:40:13+01:00"
       }
     }
   ]

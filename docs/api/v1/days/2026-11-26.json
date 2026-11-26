@@ -1,7 +1,68 @@
 {
-  "generated_at": "2026-11-26T22:45:46+01:00",
-  "count": 650,
+  "generated_at": "2026-11-26T23:01:22+01:00",
+  "count": 659,
   "items": [
+    {
+      "id": "4e8d77ecd872",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/christinas-ohyggliga--dod-pa-flygplatsen",
+      "guid": "https://www.expressen.se/nyheter/varlden/christinas-ohyggliga--dod-pa-flygplatsen/",
+      "published_at": "2026-11-26T22:45:46+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Christinas ohyggliga död på flygplatsen",
+        "summary": "Christina Blake befann sig på en flygplats. Då blev den 38-åriga tvåbarnsmamman ”dödad på ett ohyggligt sätt”, enligt New York Post. Men det är oklart varför hon ens var där.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Christina's horrific death at the airport",
+        "summary": "Christina Blake was at an airport. Then the 38-year-old mother of two was \"killed in a horrific way\", according to the New York Post. But it is unclear why she was there at all."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
+      }
+    },
+    {
+      "id": "487245ee9b05",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/ishockey/frolunda/frolundas-plan-efter-tommernes-skada.4d24f904-5d64-561a-ac80-7dd5fcd7caad",
+      "guid": "4d24f904-5d64-561a-ac80-7dd5fcd7caad",
+      "published_at": "2026-11-26T22:41:08+01:00",
+      "fetched_at": "2026-11-26T23:01:11+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Frölunda",
+        "Tagg: Henrik Tömmernes",
+        "Tagg: Christian Folin",
+        "Tagg: Tom Nilsson",
+        "Tagg: Robert Ohlsson",
+        "Tagg: Frölunda HC"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/8644a7e1-67af-3125-9dc0-d9889584da1b",
+      "sv": {
+        "title": "Frölundas plan efter Tömmernes skada",
+        "summary": "Ska testa Folin snart",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frölunda's plan after Tömmes injury",
+        "summary": "Will test Folin soon"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
+      }
+    },
     {
       "id": "6120ffd509d0",
       "schema_version": 1,
@@ -27,6 +88,71 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T22:45:44+01:00"
+      }
+    },
+    {
+      "id": "09f86e8e739e",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/kritiska-c-toppen-inga-garantier-mot-hemliga-forhandlingar.43a68e8d-a5a4-55a6-b233-ae6782edf0a4",
+      "guid": "43a68e8d-a5a4-55a6-b233-ae6782edf0a4",
+      "published_at": "2026-11-26T22:39:32+01:00",
+      "fetched_at": "2026-11-26T23:01:11+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Ulf Kristersson",
+        "Tagg: Jimmie Åkesson",
+        "Tagg: Sverigedemokraterna",
+        "Tagg: Elisabeth Thand Ringqvist",
+        "Tagg: Centerpartiet",
+        "Tagg: breaking-GP"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/4d37cf68-81f8-3bc9-a8ab-d516d3e847bc",
+      "sv": {
+        "title": "Kritiska C-toppen: Inga garantier mot hemliga förhandlingar",
+        "summary": "Åkesson har tidigare öppnat för förhandling med bulvan – diskuterades på C-mötet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Critical C-summit: No guarantees against secret negotiations",
+        "summary": "Åkesson has previously opened up to negotiating with the puppet – discussed at the C meeting."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
+      }
+    },
+    {
+      "id": "f2a255ab772f",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3IlsXfhULJdAT0u2fwgIJm/c-kaellor-oklart-vilket-inflytande-sd-kommer-fa",
+      "guid": "3IlsXfhULJdAT0u2fwgIJm",
+      "published_at": "2026-11-26T22:39:14+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "C-källor: Oklart vilket inflytande SD kommer få",
+        "summary": "”Det är Åkesson som kommer att diktera villkoren nästa mandatperiod”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C sources: Unclear what influence the SD will have",
+        "summary": "\"It is Åkesson who will dictate the terms next term of office\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
       }
     },
     {
@@ -396,6 +522,35 @@
       }
     },
     {
+      "id": "098e4851e769",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3D3sx7yIvoSN0iZJjlMMQQ/gemensam-borglig-budget-laeggs-fram-i-morgon",
+      "guid": "3D3sx7yIvoSN0iZJjlMMQQ",
+      "published_at": "2026-11-26T21:43:41+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Gemensam borgerlig budget läggs fram under fredagen",
+        "summary": "Uppgifter till TV4 • Källa: ”C kommer gilla det”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Joint centre-right budget to be presented on Friday",
+        "summary": "Information to TV4 • Source: \"C will like it\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
+      }
+    },
+    {
       "id": "663e5c150869",
       "schema_version": 1,
       "source": "sydsvenskan",
@@ -689,6 +844,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T21:15:52+01:00"
+      }
+    },
+    {
+      "id": "d2fff673c283",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5Aoj0Dn2e8iZ8sgUViClGw/stoersta-fiaskot-i-socialdemokraternas-historia",
+      "guid": "5Aoj0Dn2e8iZ8sgUViClGw",
+      "published_at": "2026-11-26T21:09:33+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Största fiaskot i S historia"
+      },
+      "en": {
+        "title": "The biggest fiasco in S history"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
       }
     },
     {
@@ -1105,6 +1286,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T20:31:03+01:00"
+      }
+    },
+    {
+      "id": "44fc64346f68",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1NhzURHX9CdlZptvFi4d2H/interna-ilskan-efter-c-ledarens-stoed-till-kristersson-katastrof",
+      "guid": "1NhzURHX9CdlZptvFi4d2H",
+      "published_at": "2026-11-26T20:15:48+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Intern ilska efter C-ledarens besked: ”Katastrof”",
+        "summary": "Thand Ringqvist var redo att avgå • Förtroenderådet samlas på söndag",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Internal anger after C leader's announcement: \"Catastrophe\"",
+        "summary": "Thand Ringqvist was ready to resign • Trust council convenes on Sunday"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
       }
     },
     {
@@ -2455,6 +2665,35 @@
       }
     },
     {
+      "id": "334b097a5edb",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5346t2uKL2Qh1ljWweoIOn/s-ledaren-kommer-bli-en-historiskt-svag-regering",
+      "guid": "5346t2uKL2Qh1ljWweoIOn",
+      "published_at": "2026-11-26T18:53:08+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "S-ledaren: ”Kommer bli en historiskt svag regering”",
+        "summary": "Centerkvinnorna stöttar inte beslutet: ”Vi är emot det här”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "S leader: \"Will become a historically weak government\"",
+        "summary": "Centre women do not support the decision: \"We are against this\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
+      }
+    },
+    {
       "id": "5089f42fe511",
       "schema_version": 1,
       "source": "svt",
@@ -2863,6 +3102,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T18:31:19+01:00"
+      }
+    },
+    {
+      "id": "23517b033bce",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2wAaw3nC7dDALbaMSpyOoi/beskedet-efter-75-dagar-c-vill-saega-ja-till-kristersson",
+      "guid": "2wAaw3nC7dDALbaMSpyOoi",
+      "published_at": "2026-11-26T18:19:48+01:00",
+      "fetched_at": "2026-11-26T23:01:10+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "C-beskedet efter 75 dagar – vill säga ja till Kristersson",
+        "summary": "Thand Ringqvist: SD får ingenting",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C announcement after 75 days – wants to say yes to Kristersson",
+        "summary": "Thand Ringqvist: SD gets nothing"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:01:16+01:00"
       }
     },
     {
