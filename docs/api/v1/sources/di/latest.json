@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-26T07:01:15+01:00",
+  "generated_at": "2026-11-26T07:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8fb750af1eec",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/oenig-centralbank-hojer-rantan-i-sydkorea",
+      "guid": "365c71a8-5b63-4ae6-ab37-71ceed6c686c",
+      "published_at": "2026-11-26T07:05:52+01:00",
+      "fetched_at": "2026-11-26T07:15:50+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/434c7e95-f946-48d4-a67e-11ea7da1e1e7.jpeg?width=600",
+      "sv": {
+        "title": "Oenig centralbank höjer räntan i Sydkorea",
+        "summary": "Sydkoreas centralbank, BOK, har beslutat att höja styrräntan till 3,25 procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Divided central bank raises rate in South Korea",
+        "summary": "South Korea's central bank, the BOK, has decided to raise the policy rate to 3.25 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T07:15:55+01:00"
+      }
+    },
+    {
+      "id": "5f8a70969a64",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/techstjarnan-ska-bygga-bolag-fran-grunden-tar-in-1-7-miljarder-kronor",
+      "guid": "63d9137a-8931-4cc8-bd12-44ef51730a8f",
+      "published_at": "2026-11-26T07:01:53+01:00",
+      "fetched_at": "2026-11-26T07:15:50+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/ce7414be-1f9f-4f65-b9e9-f6ccbcabeb3d.jpeg?width=600",
+      "sv": {
+        "title": "Techstjärnan ska bygga bolag från grunden – tar in 1,7 miljarder kronor",
+        "summary": "Monterro och Epidemic-grundaren Oscar Höglund ska bygga mjukvarubolag från grunden i den nya AI-eran. Bolaget har totalt 1,7 miljarder kronor att investera i nischade affärsidéer – och letar nu potentiella grundare från näringslivet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Tech star to build companies from scratch – raises SEK 1.7 billion",
+        "summary": "Monterro and Epidemic founder Oscar Höglund will build software companies from scratch in the new AI era. The firm has a total of SEK 1.7 billion to invest in niche business ideas – and is now looking for potential founders from the business community."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T07:15:55+01:00"
+      }
+    },
     {
       "id": "db4b77482d87",
       "schema_version": 1,
@@ -5273,58 +5327,6 @@
       "en": {
         "title": "Xi purges – potential successor under investigation",
         "summary": "China's leader Xi Jinping has moved against a fourth member of the Communist Party's Politburo in less than two years."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T18:01:28+01:00"
-      }
-    },
-    {
-      "id": "a552caef6132",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/forsvar-mot-strommen-nar-europaborserna-backade",
-      "guid": "17950139-90ac-4deb-befb-439e9a1f73a6",
-      "published_at": "2026-11-24T17:45:33+01:00",
-      "fetched_at": "2026-11-24T18:01:16+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Försvar mot strömmen när Europabörserna backade",
-        "summary": "Europabörserna avslutade tisdagens handel nedåt efter en något svängig handelsdag. Det breda samlingsindexet Stoxx 600 sjönk 0,7 procent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Holding firm against the tide as European bourses fell",
-        "summary": "European stock exchanges closed Tuesday's trading lower after a somewhat volatile trading day. The broad composite index Stoxx 600 fell 0.7 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T18:01:28+01:00"
-      }
-    },
-    {
-      "id": "8aa76a9493a6",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/roda-borser-i-norden-latourbolaget-rasade",
-      "guid": "610e4250-d832-4fd3-a582-0d10356edc49",
-      "published_at": "2026-11-24T17:43:35+01:00",
-      "fetched_at": "2026-11-24T18:01:16+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Röda börser i Norden – Latourbolaget rasade",
-        "summary": "De nordiska börserna avslutade tisdagen på minus, i linje med den globala utvecklingen. Det regionala samlingsindexet Vinx 30 sjönk 0,9 procent till 1.481.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Red bourses in the Nordics – the Latour company crashed",
-        "summary": "Nordic exchanges closed Tuesday in negative territory, in line with the global trend. The regional composite index Vinx 30 fell 0.9 percent to 1,481."
       },
       "translation": {
         "status": "done",
