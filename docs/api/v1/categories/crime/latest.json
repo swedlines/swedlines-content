@@ -1,7 +1,64 @@
 {
-  "generated_at": "2026-11-26T16:46:37+01:00",
+  "generated_at": "2026-11-26T17:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ddbbe0631793",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/pML7jR/europol-har-slagit-till-mot-illegala-streamingtjanster",
+      "guid": "https://www.aftonbladet.se/nyheter/a/pML7jR/europol-har-slagit-till-mot-illegala-streamingtjanster?utm_medium=rss",
+      "published_at": "2026-11-26T16:59:05+01:00",
+      "fetched_at": "2026-11-26T17:01:16+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/e1cdf4d0-654f-3e84-b770-dbbdc3c0eadf?format=auto&s=43455bcf31a60c516b30900472ba58c2536c8053&w=1000",
+      "sv": {
+        "title": "Expert: Så kan polisen slå mot ip-tv-användare",
+        "summary": "Europol i jättetillslag runt Europa",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert: This is how police can strike against IP-TV users",
+        "summary": "Europol in massive raids across Europe"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:01:25+01:00"
+      }
+    },
+    {
+      "id": "fdb95bada5a3",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/polisinsats-i-tuve.e84d5112-c5b8-5a82-b814-0e426dc41864",
+      "guid": "e84d5112-c5b8-5a82-b814-0e426dc41864",
+      "published_at": "2026-11-26T16:37:14+01:00",
+      "fetched_at": "2026-11-26T17:01:17+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Göteborg"
+      ],
+      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
+      "sv": {
+        "title": "Pågående polisinsats i Tuve",
+        "summary": "”Ingen frihetsberövad i nuläget”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ongoing police operation in Tuve",
+        "summary": "\"No one deprived of liberty at present\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:01:25+01:00"
+      }
+    },
     {
       "id": "6412821ca275",
       "schema_version": 1,
@@ -5358,59 +5415,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T12:31:05+01:00"
-      }
-    },
-    {
-      "id": "aba82b38b625",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=31c6c01e-9d03-4a5f-8b8d-d72f00c3834d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=31c6c01e-9d03-4a5f-8b8d-d72f00c3834d",
-      "published_at": "2026-11-21T22:21:48+01:00",
-      "fetched_at": "2026-11-21T22:31:00+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisinsats på Östermalm – en skadad",
-        "summary": "En skadad på Östermalm i Stockholm",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police operation in Östermalm – one injured",
-        "summary": "One injured in Östermalm, Stockholm"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T22:31:05+01:00"
-      }
-    },
-    {
-      "id": "4f39aa1ce674",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/z0Gykr/uppgifter-fotbollsfans-i-slagsmal-i-stockholm",
-      "guid": "https://www.aftonbladet.se/nyheter/a/z0Gykr/uppgifter-fotbollsfans-i-slagsmal-i-stockholm?utm_medium=rss",
-      "published_at": "2026-11-21T22:20:12+01:00",
-      "fetched_at": "2026-11-22T08:31:02+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/149989c9-5f42-3e24-8f0b-72f0ba41c9d6?format=auto&s=314d4ccdce2a0f2bc66f855c47b620f43295527d&w=1000",
-      "sv": {
-        "title": "Djurgårdenfest stormades – en allvarligt skadad",
-        "summary": "En allvarligt skadad",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Djurgården party stormed – one seriously injured",
-        "summary": "One seriously injured"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T08:31:12+01:00"
       }
     }
   ]

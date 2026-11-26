@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T16:46:37+01:00",
+  "generated_at": "2026-11-26T17:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1c53b69253e4",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/almsjukan-minskar-pa-gotland-efter-rekordaret-jattegladjande",
+      "guid": "https://www.svt.se/nyheter/lokalt/ost/almsjukan-minskar-pa-gotland-efter-rekordaret-jattegladjande",
+      "published_at": "2026-11-26T16:46:49+01:00",
+      "fetched_at": "2026-11-26T17:01:14+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Almsjukan minskar på Gotland efter rekordåret: ”Jätteglädjande”",
+        "summary": "Förra året hade antalet träd smittade med almsjuka på Gotland dubblerats. För att få bukt med problemet tog Skogsstyrelsen in fler entreprenörer. Nu har arbetet gett effekt och 1 500 färre almar har smittats i år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dutch elm disease decreases on Gotland after record year: \"Very gratifying\"",
+        "summary": "Last year the number of trees infected with Dutch elm disease on Gotland doubled. To curb the problem, the Swedish Forest Agency brought in more contractors. Now the work has had an effect and 1,500 fewer elms have been infected this year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:01:25+01:00"
+      }
+    },
     {
       "id": "e3226fca352e",
       "schema_version": 1,
@@ -5454,32 +5480,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T06:56:48+01:00"
-      }
-    },
-    {
-      "id": "b5bdcb0e8306",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=69a1bb40-a896-4e8b-abf8-53c113492f17",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=69a1bb40-a896-4e8b-abf8-53c113492f17",
-      "published_at": "2026-11-22T22:20:32+01:00",
-      "fetched_at": "2026-11-22T22:31:00+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Flygplan dirigeras om till Arlanda",
-        "summary": "Cirkulerade två gånger – hamnade på Arlanda",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Plane diverted to Arlanda",
-        "summary": "Circled twice – ended up at Arlanda"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T22:31:06+01:00"
       }
     }
   ]

@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-11-26T16:46:37+01:00",
+  "generated_at": "2026-11-26T17:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fdb95bada5a3",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/polisinsats-i-tuve.e84d5112-c5b8-5a82-b814-0e426dc41864",
+      "guid": "e84d5112-c5b8-5a82-b814-0e426dc41864",
+      "published_at": "2026-11-26T16:37:14+01:00",
+      "fetched_at": "2026-11-26T17:01:17+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Göteborg"
+      ],
+      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
+      "sv": {
+        "title": "Pågående polisinsats i Tuve",
+        "summary": "”Ingen frihetsberövad i nuläget”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ongoing police operation in Tuve",
+        "summary": "\"No one deprived of liberty at present\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:01:25+01:00"
+      }
+    },
     {
       "id": "66b3027d597d",
       "schema_version": 1,
@@ -6813,45 +6843,6 @@
       "en": {
         "title": "How power parties in Brussels",
         "summary": "The bartender: Packed on Thursdays – not Saturdays. But in the shadows, spies lurk."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T11:01:21+01:00"
-      }
-    },
-    {
-      "id": "4f0ff8563c32",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/varlden/30-aring-domd-for-forodande-brander-i-la.5d41b69b-14bb-5bb6-b1a0-65f2d0ee1503",
-      "guid": "5d41b69b-14bb-5bb6-b1a0-65f2d0ee1503",
-      "published_at": "2026-11-21T10:28:57+01:00",
-      "fetched_at": "2026-11-21T11:01:15+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Världen",
-        "Tagg: Adam Brody",
-        "Tagg: Anthony Hopkins",
-        "Tagg: Rebel Wilson",
-        "Tagg: Paris Hilton",
-        "Tagg: Ricki Lake",
-        "Tagg: Naturkatastrofer",
-        "Tagg: Bränder",
-        "Tagg: Los Angeles",
-        "Tagg: breaking-GP"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/6017107e-ed33-39fb-9597-97a1c6d14899",
-      "sv": {
-        "title": "30-åring dömd för förödande bränder i Pacific Palisades i Los Angeles",
-        "summary": "Kan få tillbringa många år i fängelse",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "30-year-old convicted over devastating fires in Pacific Palisades in Los Angeles",
-        "summary": "Could spend many years in prison"
       },
       "translation": {
         "status": "done",

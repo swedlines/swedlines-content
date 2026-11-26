@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T16:46:37+01:00",
+  "generated_at": "2026-11-26T17:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d9008263ee99",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/vetenskap/efter-olagliga-potenspillren-chatta-om-potens-med-experten",
+      "guid": "5628fd90-6bb6-4d01-9fec-b527b2a48946",
+      "published_at": "2026-11-26T17:00:00+01:00",
+      "fetched_at": "2026-11-26T17:01:18+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Efter olagliga potenspillren: Chatta om potens med experten!",
+        "summary": "Sydsvenskan har avslöjat att sexbutiker i Malmö säljer olagliga potensmedel – som kan vara farliga. Varför ökar försäljningen av potensmedel bland unga? Och hur funkar de egentligen? Vad finns det för biverkningar?",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "After illegal potency pills: Chat about potency with the expert!",
+        "summary": "Sydsvenskan has revealed that sex shops in Malmö sell illegal potency agents – which can be dangerous. Why is sales of potency agents increasing among young people? And how do they actually work? What are the side effects?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:01:25+01:00"
+      }
+    },
     {
       "id": "83d9ff69bc92",
       "schema_version": 1,
@@ -5500,32 +5526,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T10:31:17+01:00"
-      }
-    },
-    {
-      "id": "3eb731c51d96",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vast/chatt-ovanligt-hoga-elpriser-i-vinter-hur-rustar-du",
-      "guid": "https://www.svt.se/nyheter/lokalt/vast/chatt-ovanligt-hoga-elpriser-i-vinter-hur-rustar-du",
-      "published_at": "2026-11-17T08:23:20+01:00",
-      "fetched_at": "2026-11-17T08:30:56+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Chatt: Ovanligt höga elpriser i vinter – hur rustar du?",
-        "summary": "Elpriserna i vinter kan bli högre än krisvintern 2022-2023. Hur",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Live chat: Unusually high electricity prices this winter – how are you preparing?",
-        "summary": "Electricity prices this winter could be higher than during the crisis winter of 2022-2023. How"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:31:03+01:00"
       }
     }
   ]
