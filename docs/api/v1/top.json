@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T13:31:20+01:00",
-  "count": 29,
+  "generated_at": "2026-11-26T13:45:54+01:00",
+  "count": 30,
   "stories": [
     {
       "id": "bca5b56324c1",
@@ -1128,6 +1128,81 @@
       ]
     },
     {
+      "id": "4181c790877f",
+      "source_count": 3,
+      "sources": [
+        "svt",
+        "gp",
+        "svd"
+      ],
+      "first_published_at": "2026-11-26T12:20:22+01:00",
+      "last_published_at": "2026-11-26T13:32:52+01:00",
+      "lead": {
+        "id": "4181c790877f",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/inrikes/allianspartierna-har-slutit-ny-overenskommelse-fokus-pa-tillvaxt-och-valfard",
+        "guid": "https://www.svt.se/nyheter/inrikes/allianspartierna-har-slutit-ny-overenskommelse-fokus-pa-tillvaxt-och-valfard",
+        "published_at": "2026-11-26T12:20:22+01:00",
+        "fetched_at": "2026-11-26T12:31:02+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Allianspartierna har slutit ny överenskommelse – fokus på tillväxt och välfärd",
+          "summary": "Sent igår nådde de fyra borgerliga partierna den överenskommelse som Centerpartiet nu har att ta ställning till. Inriktningen blir en helt annan än under de gångna fyra åren, enligt vad SVT erfar, och inom Moderaterna räknar man med att Thand Ringqvist vinner striden i sitt parti.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Alliance parties reach new agreement – focus on growth and welfare",
+          "summary": "Late yesterday the four centre-right parties reached the agreement that the Centre Party now has to take a position on. The direction will be quite different from the past four years, according to SVT, and within the Moderates they expect Thand Ringqvist to win the battle within his party."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T12:31:12+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "7435cb293173",
+          "source": "svd",
+          "url": "https://www.svd.se/a/M5RzkR/ulf-kristersson-har-enats-om-nytt-avtal-med-centerpartiet",
+          "published_at": "2026-11-26T13:32:52+01:00",
+          "sv": {
+            "title": "Kristersson klar med nytt avtal med Alliansen"
+          },
+          "en": {
+            "title": "Kristersson finalises new agreement with the Alliance"
+          }
+        },
+        {
+          "id": "258e701fdf49",
+          "source": "gp",
+          "url": "https://www.gp.se/politik/uppgifter-c-ledningen-overens-med-m-kd-och-l.e14cf007-5b3f-5b35-a9a0-4686d7a6bdb9",
+          "published_at": "2026-11-26T13:22:26+01:00",
+          "sv": {
+            "title": "SVT: C-ledningen överens med M, KD och L"
+          },
+          "en": {
+            "title": "SVT: Centre Party leadership agrees with the Moderates, Christian Democrats and Liberals"
+          }
+        },
+        {
+          "id": "4181c790877f",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/allianspartierna-har-slutit-ny-overenskommelse-fokus-pa-tillvaxt-och-valfard",
+          "published_at": "2026-11-26T12:20:22+01:00",
+          "sv": {
+            "title": "Allianspartierna har slutit ny överenskommelse – fokus på tillväxt och välfärd"
+          },
+          "en": {
+            "title": "Alliance parties reach new agreement – focus on growth and welfare"
+          }
+        }
+      ]
+    },
+    {
       "id": "810241cd81f0",
       "source_count": 3,
       "sources": [
@@ -1788,63 +1863,127 @@
       ]
     },
     {
-      "id": "4181c790877f",
+      "id": "acad5f58e2e0",
       "source_count": 2,
       "sources": [
-        "svt",
-        "gp"
+        "aftonbladet",
+        "svt"
       ],
-      "first_published_at": "2026-11-26T12:20:22+01:00",
-      "last_published_at": "2026-11-26T13:22:26+01:00",
+      "first_published_at": "2026-11-26T12:12:34+01:00",
+      "last_published_at": "2026-11-26T13:43:17+01:00",
       "lead": {
-        "id": "4181c790877f",
+        "id": "acad5f58e2e0",
         "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/inrikes/allianspartierna-har-slutit-ny-overenskommelse-fokus-pa-tillvaxt-och-valfard",
-        "guid": "https://www.svt.se/nyheter/inrikes/allianspartierna-har-slutit-ny-overenskommelse-fokus-pa-tillvaxt-och-valfard",
-        "published_at": "2026-11-26T12:20:22+01:00",
-        "fetched_at": "2026-11-26T12:31:02+01:00",
-        "category": "politics",
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/BrRome/krav-i-eu-slapp-dawit-isaak",
+        "guid": "https://www.aftonbladet.se/nyheter/a/BrRome/krav-i-eu-slapp-dawit-isaak?utm_medium=rss",
+        "published_at": "2026-11-26T12:12:34+01:00",
+        "fetched_at": "2026-11-26T12:15:43+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/079a9b62-ce02-3edb-aef2-5d96d479cd52?format=auto&s=aa5a2e77cc45862b5721d248e69ade89dc49e6f5&w=1000",
         "sv": {
-          "title": "Allianspartierna har slutit ny överenskommelse – fokus på tillväxt och välfärd",
-          "summary": "Sent igår nådde de fyra borgerliga partierna den överenskommelse som Centerpartiet nu har att ta ställning till. Inriktningen blir en helt annan än under de gångna fyra åren, enligt vad SVT erfar, och inom Moderaterna räknar man med att Thand Ringqvist vinner striden i sitt parti.",
+          "title": "Krav i EU: Släpp Dawit Isaak",
+          "summary": "EU-parlamentet kräver återigen att den i Eritrea fängslade journalisten Dawit Isaak ska släppas.",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Alliance parties reach new agreement – focus on growth and welfare",
-          "summary": "Late yesterday the four centre-right parties reached the agreement that the Centre Party now has to take a position on. The direction will be quite different from the past four years, according to SVT, and within the Moderates they expect Thand Ringqvist to win the battle within his party."
+          "title": "EU calls for release of Dawit Isaak",
+          "summary": "The European Parliament once again demands that journalist Dawit Isaak, imprisoned in Eritrea, be released."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T12:31:12+01:00"
+          "translated_at": "2026-11-26T12:15:51+01:00"
         }
       },
       "items": [
         {
-          "id": "258e701fdf49",
-          "source": "gp",
-          "url": "https://www.gp.se/politik/uppgifter-c-ledningen-overens-med-m-kd-och-l.e14cf007-5b3f-5b35-a9a0-4686d7a6bdb9",
-          "published_at": "2026-11-26T13:22:26+01:00",
+          "id": "c985eeb95123",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vast/krav-i-eu-slapp-dawit-isaak",
+          "published_at": "2026-11-26T13:43:17+01:00",
           "sv": {
-            "title": "SVT: C-ledningen överens med M, KD och L"
+            "title": "Krav i EU: Släpp Dawit Isaak"
           },
           "en": {
-            "title": "SVT: Centre Party leadership agrees with the Moderates, Christian Democrats and Liberals"
+            "title": "EU demands: Release Dawit Isaak"
           }
         },
         {
-          "id": "4181c790877f",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/allianspartierna-har-slutit-ny-overenskommelse-fokus-pa-tillvaxt-och-valfard",
-          "published_at": "2026-11-26T12:20:22+01:00",
+          "id": "acad5f58e2e0",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/BrRome/krav-i-eu-slapp-dawit-isaak",
+          "published_at": "2026-11-26T12:12:34+01:00",
           "sv": {
-            "title": "Allianspartierna har slutit ny överenskommelse – fokus på tillväxt och välfärd"
+            "title": "Krav i EU: Släpp Dawit Isaak"
           },
           "en": {
-            "title": "Alliance parties reach new agreement – focus on growth and welfare"
+            "title": "EU calls for release of Dawit Isaak"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6ee602470a18",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svt"
+      ],
+      "first_published_at": "2026-11-26T13:34:08+01:00",
+      "last_published_at": "2026-11-26T13:42:32+01:00",
+      "lead": {
+        "id": "6ee602470a18",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/Jnok8R/mordatalade-16-aringar-riskerar-tolv-ars-fangelse",
+        "guid": "https://www.aftonbladet.se/nyheter/a/Jnok8R/mordatalade-16-aringar-riskerar-tolv-ars-fangelse?utm_medium=rss",
+        "published_at": "2026-11-26T13:34:08+01:00",
+        "fetched_at": "2026-11-26T13:45:43+01:00",
+        "category": "crime",
+        "image_url": "https://akamai.vgc.no/v2/images/8578d3ba-08b2-3ae7-a07e-17af4e53d2c0?format=auto&s=74af578b1ae00412250a1550bd715f01450a9493&w=1000",
+        "sv": {
+          "title": "Mordåtalade 16-åringar riskerar tolv års fängelse",
+          "summary": "Åklagaren yrkar på tolv års fängelse för två 16-åriga pojkar som står åtalade för mord i Oslo och…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Teenagers charged with murder face twelve years in prison",
+          "summary": "The prosecutor is seeking twelve years in prison for two 16-year-old boys charged with murder in Oslo and…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T13:45:49+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "715c4a732b0d",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/ost/mordatalade-16-aringar-riskerar-tolv-ars-fangelse",
+          "published_at": "2026-11-26T13:42:32+01:00",
+          "sv": {
+            "title": "Mordåtalade 16-åringar riskerar tolv års fängelse"
+          },
+          "en": {
+            "title": "Teenagers charged with murder face twelve years in prison"
+          }
+        },
+        {
+          "id": "6ee602470a18",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Jnok8R/mordatalade-16-aringar-riskerar-tolv-ars-fangelse",
+          "published_at": "2026-11-26T13:34:08+01:00",
+          "sv": {
+            "title": "Mordåtalade 16-åringar riskerar tolv års fängelse"
+          },
+          "en": {
+            "title": "Teenagers charged with murder face twelve years in prison"
           }
         }
       ]
@@ -2360,68 +2499,6 @@
           },
           "en": {
             "title": "Internal police warning – risk of fuel shortage as price rises"
-          }
-        }
-      ]
-    },
-    {
-      "id": "302971c6c130",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sr"
-      ],
-      "first_published_at": "2026-11-26T05:49:47+01:00",
-      "last_published_at": "2026-11-26T06:37:00+01:00",
-      "lead": {
-        "id": "302971c6c130",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/nLap9o/dodssiffran-stiger-efter-gruvolycka-i-indonesien",
-        "guid": "https://www.aftonbladet.se/nyheter/a/nLap9o/dodssiffran-stiger-efter-gruvolycka-i-indonesien?utm_medium=rss",
-        "published_at": "2026-11-26T05:49:47+01:00",
-        "fetched_at": "2026-11-26T06:01:13+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Dödssiffran stiger efter gruvolycka i Indonesien",
-          "summary": "Över 20 arbetare fastnade tidigare i veckan i en översvämmad guldgruva i Indonesien.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Death toll rises after gold mine collapse in Indonesia",
-          "summary": "More than 20 workers became trapped earlier this week in a flooded gold mine in Indonesia."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T06:01:21+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "b893f7957a68",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9350357",
-          "published_at": "2026-11-26T06:37:00+01:00",
-          "sv": {
-            "title": "Minst 13 döda efter gruvolycka i Indonesien"
-          },
-          "en": {
-            "title": "At least 13 dead after gold mine collapse in Indonesia"
-          }
-        },
-        {
-          "id": "302971c6c130",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/nLap9o/dodssiffran-stiger-efter-gruvolycka-i-indonesien",
-          "published_at": "2026-11-26T05:49:47+01:00",
-          "sv": {
-            "title": "Dödssiffran stiger efter gruvolycka i Indonesien"
-          },
-          "en": {
-            "title": "Death toll rises after gold mine collapse in Indonesia"
           }
         }
       ]

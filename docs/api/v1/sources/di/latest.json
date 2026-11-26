@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T13:31:20+01:00",
+  "generated_at": "2026-11-26T13:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2afd5c0de95d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ecb-chefen-ai-dampar-el-prisrallyt",
+      "guid": "b71852db-2582-4d17-a8eb-76c580a8dc1d",
+      "published_at": "2026-11-26T13:30:13+01:00",
+      "fetched_at": "2026-11-26T13:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6b015eba-2b86-4c1f-b8b3-421554cd8556.jpeg?width=600",
+      "sv": {
+        "title": "ECB-chefen: AI dämpar el-prisrallyt",
+        "summary": "Artificiell intelligens bidrar till att den europeiska ekonomin visat större motståndskraft mot de höga energipriserna till följd av Irankriget än väntat.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "ECB chief: AI dampens electricity price rally",
+        "summary": "Artificial intelligence is helping the European economy show greater resilience to high energy prices caused by the Iran war than expected."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:45:49+01:00"
+      }
+    },
     {
       "id": "19027f74fa58",
       "schema_version": 1,
@@ -5296,32 +5323,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T10:57:48+01:00"
-      }
-    },
-    {
-      "id": "874326f96797",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/spotify-konkurrent-forbjuder-ai-musik",
-      "guid": "9eb8c525-4adf-4ca7-af38-6b5804b4154a",
-      "published_at": "2026-11-25T10:44:13+01:00",
-      "fetched_at": "2026-11-25T10:45:42+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Spotify-konkurrent förbjuder AI-musik",
-        "summary": "Musikstreamingtjänsten Tidal blir den 9 december först i branschen med att helt förbjuda AI-genererad musik.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Spotify rival bans AI music",
-        "summary": "Music streaming service Tidal will become the first in the industry to fully ban AI-generated music on 9 December."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:45:48+01:00"
       }
     }
   ]

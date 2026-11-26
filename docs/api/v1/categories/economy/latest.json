@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T13:31:20+01:00",
+  "generated_at": "2026-11-26T13:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2afd5c0de95d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ecb-chefen-ai-dampar-el-prisrallyt",
+      "guid": "b71852db-2582-4d17-a8eb-76c580a8dc1d",
+      "published_at": "2026-11-26T13:30:13+01:00",
+      "fetched_at": "2026-11-26T13:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6b015eba-2b86-4c1f-b8b3-421554cd8556.jpeg?width=600",
+      "sv": {
+        "title": "ECB-chefen: AI dämpar el-prisrallyt",
+        "summary": "Artificiell intelligens bidrar till att den europeiska ekonomin visat större motståndskraft mot de höga energipriserna till följd av Irankriget än väntat.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "ECB chief: AI dampens electricity price rally",
+        "summary": "Artificial intelligence is helping the European economy show greater resilience to high energy prices caused by the Iran war than expected."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:45:49+01:00"
+      }
+    },
     {
       "id": "19027f74fa58",
       "schema_version": 1,
@@ -5249,33 +5276,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T15:15:52+01:00"
-      }
-    },
-    {
-      "id": "c7e39efd62b3",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/wallenberg-om-stegras-miljardaptit-jobbar-pa-det",
-      "guid": "864c3f83-c8ce-4fb2-8eac-143fedd1f446",
-      "published_at": "2026-11-25T14:54:06+01:00",
-      "fetched_at": "2026-11-25T15:01:23+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/928be191-b4b1-48a3-9e0c-59df0b4d1f1c.jpeg?width=600",
-      "sv": {
-        "title": "Wallenberg om Stegras miljardaptit: Jobbar på det",
-        "summary": "Stålprojektet Stegra behöver minst 20 miljarder kronor i ytterligare finansiering, avslöjade Bloomberg på tisdagen. ”Vi håller på att jobba med den frågan just nu”, säger Marcus Wallenberg till Dagens Nyheter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Wallenberg on Stegra's billion appetite: We're working on it",
-        "summary": "The steel project Stegra needs at least SEK 20 billion in additional financing, Bloomberg revealed on Tuesday. ”We are working on that issue right now”, says Marcus Wallenberg to Dagens Nyheter."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T15:01:30+01:00"
       }
     }
   ]
