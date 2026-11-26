@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-26T21:45:50+01:00",
+  "generated_at": "2026-11-26T22:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ee5c12a60a66",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/zelenskyj-ryssland-forbereder-nya-massiva-anfall",
+      "guid": "865b9bb1-2040-45da-8ae1-bf15213fc729",
+      "published_at": "2026-11-26T21:54:22+01:00",
+      "fetched_at": "2026-11-26T22:01:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/884b4466-7bc3-4c7e-90d5-4213829e1140.jpg?width=600",
+      "sv": {
+        "title": "Zelenskyj: Ryssland förbereder nya massiva anfall",
+        "summary": "Ryssland gör sig klart för nya massiva anfall mot Ukraina och i synnerhet mot kraftverk. Den varningen kommer från Volodymyr Zelenskyj under torsdagskvällen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Zelenskyj: Russia preparing new massive attacks",
+        "summary": "Russia is preparing new massive attacks against Ukraine, in particular against power plants. The warning comes from Volodymyr Zelenskyj on Thursday evening."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T22:01:19+01:00"
+      }
+    },
+    {
+      "id": "0988907be1fc",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/tysk-elbors-utmanar-i-norden-rusar-over-300-procent",
+      "guid": "facdea1e-722d-44b0-8775-6b2cc523f9e7",
+      "published_at": "2026-11-26T21:49:59+01:00",
+      "fetched_at": "2026-11-26T22:01:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6defad52-29c0-4c4f-9e87-6a2a5edc392b.jpeg?width=600",
+      "sv": {
+        "title": "Tysk elbörs utmanar i Norden – rusar över 300 procent",
+        "summary": "Tyska energibörsen EEX är på offensiven i Norden och tar upp kampen med Euronext-kontrollerade Nord Pool på den nordiska elmarknaden. Efter att ha öppnat nya kontor i bland annat Stockholm har EEX i år ökat volymerna på den nordiska elterminsmarknaden med flera hundra procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "German power exchange challenges in the Nordics – soars over 300 percent",
+        "summary": "The German energy exchange EEX is on the offensive in the Nordics and is taking up the fight with Euronext-controlled Nord Pool in the Nordic electricity market. After opening new offices in Stockholm among other places, EEX has this year increased volumes in the Nordic electricity forward market by several hundred percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T22:01:19+01:00"
+      }
+    },
     {
       "id": "643b83423ff8",
       "schema_version": 1,
@@ -5217,56 +5271,6 @@
       },
       "en": {
         "title": "They buy the most expensive house in Furulund this year"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T07:15:55+01:00"
-      }
-    },
-    {
-      "id": "9e422a42fcab",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/villa-i-hjarup-sald-for-5-7-miljoner",
-      "guid": "bf42c73e-e912-4ba4-858e-60d63a5d2501",
-      "published_at": "2026-11-26T07:02:28+01:00",
-      "fetched_at": "2026-11-26T07:15:51+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Villa i Hjärup såld – för 5,7 miljoner"
-      },
-      "en": {
-        "title": "Villa in Hjärup sold – for 5.7 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T07:15:55+01:00"
-      }
-    },
-    {
-      "id": "5f8a70969a64",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/techstjarnan-ska-bygga-bolag-fran-grunden-tar-in-1-7-miljarder-kronor",
-      "guid": "63d9137a-8931-4cc8-bd12-44ef51730a8f",
-      "published_at": "2026-11-26T07:01:53+01:00",
-      "fetched_at": "2026-11-26T07:15:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ce7414be-1f9f-4f65-b9e9-f6ccbcabeb3d.jpeg?width=600",
-      "sv": {
-        "title": "Techstjärnan ska bygga bolag från grunden – tar in 1,7 miljarder kronor",
-        "summary": "Monterro och Epidemic-grundaren Oscar Höglund ska bygga mjukvarubolag från grunden i den nya AI-eran. Bolaget har totalt 1,7 miljarder kronor att investera i nischade affärsidéer – och letar nu potentiella grundare från näringslivet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Tech star to build companies from scratch – raises SEK 1.7 billion",
-        "summary": "Monterro and Epidemic founder Oscar Höglund will build software companies from scratch in the new AI era. The firm has a total of SEK 1.7 billion to invest in niche business ideas – and is now looking for potential founders from the business community."
       },
       "translation": {
         "status": "done",

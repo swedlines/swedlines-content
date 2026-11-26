@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T21:45:50+01:00",
+  "generated_at": "2026-11-26T22:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7a03f709780c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/anna-lasses-c-arg-och-valdigt-valdigt-ledsen",
+      "guid": "https://www.expressen.se/nyheter/politik/anna-lasses-c-arg-och-valdigt-valdigt-ledsen/",
+      "published_at": "2026-11-26T21:54:44+01:00",
+      "fetched_at": "2026-11-26T22:01:13+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Anna Lasses (C): ”Arg och väldigt, väldigt ledsen”",
+        "summary": "C-ledamoten Anna Lasses kommer att rösta rött till Ulf Kristersson på måndag. Hon tror att ungefär en tredjedel av riksdagsgruppen kan komma att göra detsamma. – Jag är arg och väldigt, väldigt ledsen, säger hon i SVT:s ”Aktuellt”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anna Lasses (C): \"Angry and very, very sad\"",
+        "summary": "C member Anna Lasses will vote red for Ulf Kristersson (M) on Monday. She believes that roughly a third of the parliamentary group may do the same. \"I am angry and very, very sad,\" she says on SVT's \"Aktuellt\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T22:01:19+01:00"
+      }
+    },
     {
       "id": "6e0724ff999c",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T20:01:24+01:00"
-      }
-    },
-    {
-      "id": "0b6858a166e3",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/fridolin-rasar-mot-budet-till-v-ratt-att-krava",
-      "guid": "https://www.expressen.se/nyheter/politik/fridolin-rasar-mot-budet-till-v-ratt-att-krava/",
-      "published_at": "2026-11-23T19:42:17+01:00",
-      "fetched_at": "2026-11-23T19:45:47+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Fridolin rasar mot budet till V: ”Rätt att kräva”",
-        "summary": "V har avvisat budet från S, C och MP. Gustav Fridolin är mycket kritisk till punkten om migrationspolitiken. ”Så utan V står de andra rödgröna för att fortsätta orimliga utvisningar?” skriver det tidigare språkröret i Arbetet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fridolin slams the offer to V: \"Right to demand\"",
-        "summary": "V has rejected the offer from the Social Democrats, the Centre Party and the Green Party. Gustav Fridolin is highly critical of the point on migration policy. \"So without V, the other red-greens will continue unreasonable deportations?\" writes the former party leader in Arbetet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T19:45:54+01:00"
       }
     }
   ]

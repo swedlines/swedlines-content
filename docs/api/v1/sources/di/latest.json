@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-26T21:45:50+01:00",
+  "generated_at": "2026-11-26T22:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ee5c12a60a66",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/zelenskyj-ryssland-forbereder-nya-massiva-anfall",
+      "guid": "865b9bb1-2040-45da-8ae1-bf15213fc729",
+      "published_at": "2026-11-26T21:54:22+01:00",
+      "fetched_at": "2026-11-26T22:01:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/884b4466-7bc3-4c7e-90d5-4213829e1140.jpg?width=600",
+      "sv": {
+        "title": "Zelenskyj: Ryssland förbereder nya massiva anfall",
+        "summary": "Ryssland gör sig klart för nya massiva anfall mot Ukraina och i synnerhet mot kraftverk. Den varningen kommer från Volodymyr Zelenskyj under torsdagskvällen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Zelenskyj: Russia preparing new massive attacks",
+        "summary": "Russia is preparing new massive attacks against Ukraine, in particular against power plants. The warning comes from Volodymyr Zelenskyj on Thursday evening."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T22:01:19+01:00"
+      }
+    },
+    {
+      "id": "0988907be1fc",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/tysk-elbors-utmanar-i-norden-rusar-over-300-procent",
+      "guid": "facdea1e-722d-44b0-8775-6b2cc523f9e7",
+      "published_at": "2026-11-26T21:49:59+01:00",
+      "fetched_at": "2026-11-26T22:01:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6defad52-29c0-4c4f-9e87-6a2a5edc392b.jpeg?width=600",
+      "sv": {
+        "title": "Tysk elbörs utmanar i Norden – rusar över 300 procent",
+        "summary": "Tyska energibörsen EEX är på offensiven i Norden och tar upp kampen med Euronext-kontrollerade Nord Pool på den nordiska elmarknaden. Efter att ha öppnat nya kontor i bland annat Stockholm har EEX i år ökat volymerna på den nordiska elterminsmarknaden med flera hundra procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "German power exchange challenges in the Nordics – soars over 300 percent",
+        "summary": "The German energy exchange EEX is on the offensive in the Nordics and is taking up the fight with Euronext-controlled Nord Pool in the Nordic electricity market. After opening new offices in Stockholm among other places, EEX has this year increased volumes in the Nordic electricity forward market by several hundred percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T22:01:19+01:00"
+      }
+    },
     {
       "id": "d27172f0c72e",
       "schema_version": 1,
@@ -5274,60 +5328,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T17:45:55+01:00"
-      }
-    },
-    {
-      "id": "6f99137c6b91",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/equinor-skruvar-ned-tillvaxtprognos",
-      "guid": "101144ac-92f9-4b6a-a97e-3971f554ddbf",
-      "published_at": "2026-11-25T17:24:24+01:00",
-      "fetched_at": "2026-11-25T17:31:06+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c2ecbdd5-c515-436d-8397-cc6460f3fff3.jpeg?width=600",
-      "sv": {
-        "title": "Equinor skruvar ned tillväxtprognos",
-        "summary": "Det norska oljebolaget Equinor uppdaterar sin produktionsprognos till följd av specifika tillfälliga produktionsstopp och driftproblem. Det framgår av ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Equinor lowers growth forecast",
-        "summary": "The Norwegian oil company Equinor is updating its production forecast due to specific temporary production stoppages and operational problems. This is according to a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T17:31:19+01:00"
-      }
-    },
-    {
-      "id": "8f24455f0b00",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/analytiker-ser-koplage-i-miljardarens-bjasse",
-      "guid": "b03a8a28-3041-4667-9707-5e9770262c80",
-      "published_at": "2026-11-25T17:13:33+01:00",
-      "fetched_at": "2026-11-25T17:15:53+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/99e5f4ac-b272-4056-a566-b5081c8e548b.jpeg?width=600",
-      "sv": {
-        "title": "Analytiker ser köpläge i miljardärens bjässe",
-        "summary": "Börsrallyt för tankrederier har förbytts i kursfall efter att oljefraktpriserna rasat från rekordnivåerna. DNB Carnegie ser dock köpläge i jätterederiet Frontline, vars vd är optimistisk om ny rekordvinst under fjärde kvartalet. Även svenska Stena Bulk seglar mot sin största vinst någonsin.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Analysts see buying opportunity in billionaire's giant",
-        "summary": "The stock rally for tanker shipping companies has turned into price falls after oil freight rates dropped from record levels. DNB Carnegie nevertheless sees a buying opportunity in shipping giant Frontline, whose CEO is optimistic about another record profit in the fourth quarter. Swedish Stena Bulk is also heading for its biggest profit ever."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T17:16:07+01:00"
       }
     }
   ]

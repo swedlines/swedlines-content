@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T21:45:50+01:00",
+  "generated_at": "2026-11-26T22:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6654d0eeb1c2",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/LoA8wJ/zelenskyj-ryssland-forbereder-nya-massiva-anfall",
+      "guid": "https://www.aftonbladet.se/nyheter/a/LoA8wJ/zelenskyj-ryssland-forbereder-nya-massiva-anfall?utm_medium=rss",
+      "published_at": "2026-11-26T21:46:43+01:00",
+      "fetched_at": "2026-11-26T22:01:12+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/569da4b5-3bbd-36ee-8880-df0a16337701?format=auto&s=8975954871d4ce641e7fc5d4415cc9e91592e2f4&w=1000",
+      "sv": {
+        "title": "Zelenskyj: Ryssland förbereder nya massiva anfall",
+        "summary": "Ryssland gör sig klart för nya massiva anfall mot Ukraina och i synnerhet mot kraftverk.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Zelenskyj: Russia preparing new massive attacks",
+        "summary": "Russia is preparing new massive attacks against Ukraine, in particular against power plants."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T22:01:19+01:00"
+      }
+    },
     {
       "id": "6e0724ff999c",
       "schema_version": 1,
@@ -5303,33 +5330,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T03:31:02+01:00"
-      }
-    },
-    {
-      "id": "b3577a1c2104",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/KL35A5/huawei-doms-i-usa",
-      "guid": "https://www.svd.se/a/KL35A5/huawei-doms-i-usa?utm_medium=rss",
-      "published_at": "2026-11-25T01:04:33+01:00",
-      "fetched_at": "2026-11-25T01:15:45+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/b3b498f1-7590-3446-956d-e89baab5eaf4?format=auto&s=89ca3c91d4d2bdc341f9d7021b1de8d41fc8f83d&w=1000",
-      "sv": {
-        "title": "Huawei döms i USA",
-        "summary": "Huawei har bland annat dömts för att ha haft upplägg för att stjäla handelshemligheter, rapporterar…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Huawei convicted in the US",
-        "summary": "Huawei has, among other things, been convicted of having schemes to steal trade secrets, reports…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T01:15:49+01:00"
       }
     }
   ]

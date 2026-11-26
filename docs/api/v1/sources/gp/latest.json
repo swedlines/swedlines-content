@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-11-26T21:45:50+01:00",
+  "generated_at": "2026-11-26T22:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "099140325d87",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kulturkronika/kroner-sanker-sig-sjalv-i-kvallens-forradarna.075ddfd1-4919-54aa-8b95-1a92432c4f2e",
+      "guid": "075ddfd1-4919-54aa-8b95-1a92432c4f2e",
+      "published_at": "2026-11-26T21:46:46+01:00",
+      "fetched_at": "2026-11-26T22:01:14+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kulturkrönika",
+        "Tagg: Lasse Kronér",
+        "Tagg: Roy Fares",
+        "Tagg: Johan Pehrson",
+        "Tagg: Jessica Almenäs",
+        "Tagg: TV4",
+        "Tagg: Förrädarna (tv-program)",
+        "Tagg: Kulturkrönika"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/62421737-8b81-3f52-af50-a85f8a700b22",
+      "sv": {
+        "title": "Lasse Kronér sjönk som en djungelgris i ”Förrädarna”",
+        "summary": "Men till slut fick göteborgaren en livlina. Undrens tid är inte förbi.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lasse Kronér sank like a djungelgris in \"Förrädarna\"",
+        "summary": "But in the end the Göteborg native was thrown a lifeline. The age of miracles is not over."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T22:01:19+01:00"
+      }
+    },
     {
       "id": "0089eb5df7de",
       "schema_version": 1,
@@ -6806,38 +6843,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T19:31:08+01:00"
-      }
-    },
-    {
-      "id": "27bb1e3282a0",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/ishockey/frolunda/tobias-normann-spikade-igen-for-frolunda-hyllar-lagkamraterna.ae8755ce-8205-53bb-bcfb-6b2ab68d7ffe",
-      "guid": "ae8755ce-8205-53bb-bcfb-6b2ab68d7ffe",
-      "published_at": "2026-11-21T18:53:40+01:00",
-      "fetched_at": "2026-11-21T19:01:09+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Frölunda",
-        "Tagg: Scandinavium",
-        "Tagg: Frölunda HC"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/41085261-a848-3e22-8033-6df5aa1ba672",
-      "sv": {
-        "title": "Hyllningen efter hållna nollan för Frölunda: ”Ska inte säga kär, men ...”",
-        "summary": "Tobias Normann hyllar laget efter nollan mot Brynäs.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reaction after Frölunda's shutout: \"Shouldn't say love, but ...\"",
-        "summary": "Tobias Normann praises the team after the shutout against Brynäs."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T19:01:17+01:00"
       }
     }
   ]

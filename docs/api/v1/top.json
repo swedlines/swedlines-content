@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:45:50+01:00",
+  "generated_at": "2026-11-26T22:01:22+01:00",
   "count": 30,
   "stories": [
     {
@@ -1909,97 +1909,64 @@
       ]
     },
     {
-      "id": "ab789aeedc63",
-      "source_count": 3,
+      "id": "6654d0eeb1c2",
+      "source_count": 2,
       "sources": [
-        "svd",
-        "expressen",
-        "sr"
+        "aftonbladet",
+        "di"
       ],
-      "first_published_at": "2026-11-26T09:29:15+01:00",
-      "last_published_at": "2026-11-26T09:50:00+01:00",
+      "first_published_at": "2026-11-26T21:46:43+01:00",
+      "last_published_at": "2026-11-26T21:54:22+01:00",
       "lead": {
-        "id": "ab789aeedc63",
+        "id": "6654d0eeb1c2",
         "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326",
-        "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326&utm_medium=rss",
-        "published_at": "2026-11-26T09:29:15+01:00",
-        "fetched_at": "2026-11-26T09:45:46+01:00",
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/LoA8wJ/zelenskyj-ryssland-forbereder-nya-massiva-anfall",
+        "guid": "https://www.aftonbladet.se/nyheter/a/LoA8wJ/zelenskyj-ryssland-forbereder-nya-massiva-anfall?utm_medium=rss",
+        "published_at": "2026-11-26T21:46:43+01:00",
+        "fetched_at": "2026-11-26T22:01:12+01:00",
         "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/569da4b5-3bbd-36ee-8880-df0a16337701?format=auto&s=8975954871d4ce641e7fc5d4415cc9e91592e2f4&w=1000",
         "sv": {
-          "title": "Explosion på oljeanläggning"
+          "title": "Zelenskyj: Ryssland förbereder nya massiva anfall",
+          "summary": "Ryssland gör sig klart för nya massiva anfall mot Ukraina och i synnerhet mot kraftverk.",
+          "summary_origin": "feed"
         },
         "en": {
-          "title": "Explosion at oil facility"
+          "title": "Zelenskyj: Russia preparing new massive attacks",
+          "summary": "Russia is preparing new massive attacks against Ukraine, in particular against power plants."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T09:45:55+01:00"
+          "translated_at": "2026-11-26T22:01:19+01:00"
         }
       },
       "items": [
         {
-          "id": "ffb8f6ef29bb",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9350493",
-          "published_at": "2026-11-26T09:50:00+01:00",
+          "id": "ee5c12a60a66",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/zelenskyj-ryssland-forbereder-nya-massiva-anfall",
+          "published_at": "2026-11-26T21:54:22+01:00",
           "sv": {
-            "title": "Kraftig explosion i Bangkok"
+            "title": "Zelenskyj: Ryssland förbereder nya massiva anfall"
           },
           "en": {
-            "title": "Powerful explosion in Bangkok"
+            "title": "Zelenskyj: Russia preparing new massive attacks"
           }
         },
         {
-          "id": "fa10527a05a1",
-          "source": "svd",
-          "url": "https://www.svd.se/a/KL3owo/explosion-pa-oljeanlaggning",
-          "published_at": "2026-11-26T09:45:28+01:00",
+          "id": "6654d0eeb1c2",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/LoA8wJ/zelenskyj-ryssland-forbereder-nya-massiva-anfall",
+          "published_at": "2026-11-26T21:46:43+01:00",
           "sv": {
-            "title": "Explosion på oljeanläggning"
+            "title": "Zelenskyj: Ryssland förbereder nya massiva anfall"
           },
           "en": {
-            "title": "Explosion at oil facility"
-          }
-        },
-        {
-          "id": "abd1a58da1c8",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=08fe095e-e0f9-42a2-9ca6-5327f35a9ef2",
-          "published_at": "2026-11-26T09:33:14+01:00",
-          "sv": {
-            "title": "Stor explosion"
-          },
-          "en": {
-            "title": "Major explosion"
-          }
-        },
-        {
-          "id": "5e92d9b49e0e",
-          "source": "expressen",
-          "url": "https://www.expressen.se/tv/nyheter/varlden/enorm-explosion-i-bangkok",
-          "published_at": "2026-11-26T09:33:14+01:00",
-          "sv": {
-            "title": "Stor explosion"
-          },
-          "en": {
-            "title": "Major explosion"
-          }
-        },
-        {
-          "id": "ab789aeedc63",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326",
-          "published_at": "2026-11-26T09:29:15+01:00",
-          "sv": {
-            "title": "Explosion på oljeanläggning"
-          },
-          "en": {
-            "title": "Explosion at oil facility"
+            "title": "Zelenskyj: Russia preparing new massive attacks"
           }
         }
       ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T21:45:50+01:00",
+  "generated_at": "2026-11-26T22:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7a03f709780c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/anna-lasses-c-arg-och-valdigt-valdigt-ledsen",
+      "guid": "https://www.expressen.se/nyheter/politik/anna-lasses-c-arg-och-valdigt-valdigt-ledsen/",
+      "published_at": "2026-11-26T21:54:44+01:00",
+      "fetched_at": "2026-11-26T22:01:13+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Anna Lasses (C): ”Arg och väldigt, väldigt ledsen”",
+        "summary": "C-ledamoten Anna Lasses kommer att rösta rött till Ulf Kristersson på måndag. Hon tror att ungefär en tredjedel av riksdagsgruppen kan komma att göra detsamma. – Jag är arg och väldigt, väldigt ledsen, säger hon i SVT:s ”Aktuellt”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anna Lasses (C): \"Angry and very, very sad\"",
+        "summary": "C member Anna Lasses will vote red for Ulf Kristersson (M) on Monday. She believes that roughly a third of the parliamentary group may do the same. \"I am angry and very, very sad,\" she says on SVT's \"Aktuellt\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T22:01:19+01:00"
+      }
+    },
     {
       "id": "a06afee804d8",
       "schema_version": 1,
@@ -5351,32 +5377,6 @@
       "en": {
         "title": "Migration Agency pauses deportations of young adults",
         "summary": "The Migration Agency's decision covers young adults who may be deported even though their parents and underage siblings have the right to stay in Sweden. The announcement follows last week's decision by the Riksdag parties on the direction of a temporary \"stop law\" against the deportations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T08:24:31+01:00"
-      }
-    },
-    {
-      "id": "b837704b8e63",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-om-braken-med-v-for-dumt",
-      "guid": "https://www.expressen.se/nyheter/politik/magdalena-andersson-om-braken-med-v-for-dumt/",
-      "published_at": "2026-11-25T08:13:16+01:00",
-      "fetched_at": "2026-11-25T08:24:26+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Magdalena Andersson om bråken med V: ”För dumt”",
-        "summary": "Magdalena Andersson är inte imponerad av Vänsterpartiets sätt att förhandla om regeringsfrågan. – Det är för dumt, om man inte är beredd att röra sig en millimeter och försöka lösa det här, säger hon i SVT:s ”Morgonstudion”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Magdalena Andersson on the row with the Left Party: \"Too stupid\"",
-        "summary": "Magdalena Andersson is not impressed by the Left Party's way of negotiating the government question. \"It's too stupid, if you're not willing to move an inch and try to solve this,\" she says on SVT's \"Morgonstudion\"."
       },
       "translation": {
         "status": "done",
