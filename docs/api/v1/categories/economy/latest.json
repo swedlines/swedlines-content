@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T18:31:24+01:00",
+  "generated_at": "2026-11-26T18:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1e9f6aca028f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/nordea-forsvarar-kontorskravet-starker-relationer",
+      "guid": "a32a877a-c8d4-4c94-827a-dbf5092a851a",
+      "published_at": "2026-11-26T18:36:31+01:00",
+      "fetched_at": "2026-11-26T18:45:42+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6d6c5177-8fff-4f60-8bbc-6882b66fc3ff.jpeg?width=600",
+      "sv": {
+        "title": "Nordea försvarar kontorskravet: ”Stärker relationer”",
+        "summary": "Efter hård kritik från Finansförbundet försvarar Nordea beslutet att skrota sin modell för hybridarbete. ”Vi säger inte att distansarbete i sig har varit ett problem.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Nordea defends office requirement: “Strengthens relationships”",
+        "summary": "After harsh criticism from Finansförbundet, Nordea defends its decision to scrap its hybrid work model. “We are not saying that remote work in itself has been a problem."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T18:45:46+01:00"
+      }
+    },
     {
       "id": "c83d9ff67dc7",
       "schema_version": 1,
@@ -5251,33 +5278,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T06:31:14+01:00"
-      }
-    },
-    {
-      "id": "6a2c3ba2f047",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/rekordhog-risk-for-besvikelse",
-      "guid": "3dc9e313-e1d1-4ba2-908b-fcaa01da22c3",
-      "published_at": "2026-11-26T05:59:39+01:00",
-      "fetched_at": "2026-11-26T06:04:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7e2b4c66-85e7-4d39-a5fd-d6137f6e3f49.jpeg?width=600",
-      "sv": {
-        "title": "Rekordhög risk för besvikelse",
-        "summary": "Investors historiska svit fortsätter och dess nästa ”ten bagger” står för dörren. Men familjen Wallenbergs aktie befinner sig på otrampad mark som kräver mycket optimistiska antaganden och dess ”svarta låda” är nu väldigt liten. Folkaktien har aldrig lockat så här lite till köp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Record-high risk of disappointment",
-        "summary": "Investor's historic run continues and its next \"ten bagger\" is right around the corner. But the Wallenberg family's share is on untrodden ground that requires very optimistic assumptions, and its \"black box\" is now very small. The people's stock has never attracted so few buyers."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T06:04:21+01:00"
       }
     }
   ]
