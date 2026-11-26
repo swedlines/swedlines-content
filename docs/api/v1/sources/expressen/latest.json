@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T14:31:09+01:00",
+  "generated_at": "2026-11-26T14:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "01229e19fff0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/falldins-anka-tar-stallning-om-centerns-vagval",
+      "guid": "https://www.expressen.se/nyheter/politik/falldins-anka-tar-stallning-om-centerns-vagval/",
+      "published_at": "2026-11-26T14:40:43+01:00",
+      "fetched_at": "2026-11-26T14:45:48+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Fälldins änka tar ställning om Centerns vägval",
+        "summary": "Tidigare centerledaren Thorbjörn Fälldins änka Solveig Fälldin, 91, vill inte att Centerpartiet ingår i en Moderatledd regering. – Nej, vi håller gränsen, säger hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fälldin's widow takes a stand on the Centre Party's path",
+        "summary": "Former Centre Party leader Thorbjörn Fälldin's widow Solveig Fälldin, 91, does not want the Centre Party to join a Moderate-led government. – No, we hold the line, she says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T14:45:57+01:00"
+      }
+    },
     {
       "id": "d18d2eeb78c2",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T13:31:20+01:00"
-      }
-    },
-    {
-      "id": "2a76f53e9ac9",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=dc68a609-2c45-4d04-b741-8c6da96b2953",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=dc68a609-2c45-4d04-b741-8c6da96b2953",
-      "published_at": "2026-11-23T12:38:59+01:00",
-      "fetched_at": "2026-11-23T12:45:48+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Värnpliktig skjuten under övning",
-        "summary": "Träffad av skott under övning, enligt Aftonbladet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Conscript shot during exercise",
-        "summary": "Hit by gunfire during exercise, according to Aftonbladet"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T12:46:02+01:00"
       }
     }
   ]
