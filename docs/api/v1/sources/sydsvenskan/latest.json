@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T00:45:49+01:00",
+  "generated_at": "2026-11-27T00:58:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cc27c4166853",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/fiasko-for-budgetmote-sverige-vagrade-vara-med",
+      "guid": "7ede6fb4-346e-455c-a874-153885c570f9",
+      "published_at": "2026-11-27T00:52:52+01:00",
+      "fetched_at": "2026-11-27T00:58:05+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/6d4e7647-893d-468d-8bea-f3aebbd457d1.jpg?width=600",
+      "sv": {
+        "title": "Fiasko för budgetmöte – Sverige vägrade vara med",
+        "summary": "Protester och oenighet präglade EU-ländernas försök att enas om nästa långtidsbudget och stöd till Ukraina. Nu krävs nya möten och nya förslag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Budget Meeting Fiasco – Sweden Refused to Take Part",
+        "summary": "Protests and disagreement marked EU countries' attempts to agree on the next long-term budget and support for Ukraine. New meetings and new proposals are now needed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T00:58:08+01:00"
+      }
+    },
     {
       "id": "02be540a6cb6",
       "schema_version": 1,
@@ -5190,30 +5217,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T10:01:21+01:00"
-      }
-    },
-    {
-      "id": "87d58c535165",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/malmo-straffar-den-som-satsar-pa-simidrott",
-      "guid": "859827fc-cbd0-450b-8b0c-d6df5a2e884b",
-      "published_at": "2026-11-24T09:30:00+01:00",
-      "fetched_at": "2026-11-24T09:31:04+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/33bac8fc-c990-46d1-ac9e-ce6c2d18caee.jpeg?width=600",
-      "sv": {
-        "title": "Malmö straffar den som satsar på simidrott"
-      },
-      "en": {
-        "title": "Malmö punishes those who invest in swimming and diving"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T09:31:07+01:00"
       }
     }
   ]
