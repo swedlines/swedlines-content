@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-26T06:15:57+01:00",
+  "generated_at": "2026-11-26T06:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dd6b2772babf",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350291",
+      "guid": "rss:sr.se/article/9350291",
+      "published_at": "2026-11-26T06:23:00+01:00",
+      "fetched_at": "2026-11-26T06:30:58+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ukrainastöd i fokus när EU diskuterar ny långtidsbudget",
+        "summary": "EU:s stats- och regeringschefer samlas i Bryssel för att försöka närma sig en överenskommelse om långtidsbudgeten för 2028–2034. Målet är att nå en uppgörelse före årsskiftet. Sverige och sex andra medlemsländer anser att det senaste kompromissförslaget är för dyrt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ukraine aid in focus as EU discusses new long-term budget",
+        "summary": "EU heads of state and government gather in Brussels to try to reach an agreement on the long-term budget for 2028–2034. The goal is to reach a deal before the turn of the year. Sweden and six other member states consider the latest compromise proposal too expensive."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:31:14+01:00"
+      }
+    },
+    {
+      "id": "417a8efc7bf8",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/utlovar-hamnd-pekar-ut-trippla-mal",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/utlovar-hamnd-pekar-ut-trippla-mal",
+      "published_at": "2026-11-26T06:19:58+01:00",
+      "fetched_at": "2026-11-26T06:31:00+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Varnar för trippelhämnd",
+        "summary": "Hotar Putin efter nya attackerna: ”Legitima måltavlor”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Warns of triple revenge",
+        "summary": "Threatens Putin after new attacks: ”Legitimate targets”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:31:14+01:00"
+      }
+    },
     {
       "id": "38da8eee5d74",
       "schema_version": 1,
@@ -54,6 +106,41 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T06:15:55+01:00"
+      }
+    },
+    {
+      "id": "5b0633efe6b6",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kulturkronika/minnet-av-forintelsen-forvanskas-till-ljudet-av-applader.47daf6d3-6171-5f5e-a28c-440cfc627a29",
+      "guid": "47daf6d3-6171-5f5e-a28c-440cfc627a29",
+      "published_at": "2026-11-26T06:05:47+01:00",
+      "fetched_at": "2026-11-26T06:31:00+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Kulturkrönika",
+        "Tagg: Antisemitism",
+        "Tagg: Norge",
+        "Tagg: Israel",
+        "Tagg: Sionism",
+        "Tagg: Förintelsen"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/07cbf99a-852d-3bad-a077-d409179e2160",
+      "sv": {
+        "title": "Minnet av Förintelsen förvrängs – till ljudet av applåder",
+        "summary": "En norsk debatt sätter fingret på hur utsatt den judiska befolkningen är.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Memory of the Holocaust distorted – to the sound of applause",
+        "summary": "A Norwegian debate highlights how vulnerable the Jewish population is."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:31:14+01:00"
       }
     },
     {
@@ -5271,84 +5358,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T04:01:15+01:00"
-      }
-    },
-    {
-      "id": "bf29c6449a3c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/nya-chocksiffror-om-antalet-doda-ryssar-i-kriget",
-      "guid": "https://www.expressen.se/nyheter/varlden/nya-chocksiffror-om-antalet-doda-ryssar-i-kriget/",
-      "published_at": "2026-11-24T02:44:59+01:00",
-      "fetched_at": "2026-11-24T03:01:09+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Nya chocksiffror om antalet döda ryssar i kriget",
-        "summary": "De ryska förlusterna i kriget är betydligt högre än man tidigare trott, enligt nya bedömningar från ryska exilmedierna Meduza och Mediazona. Över 700 000 ryska soldater uppges ha dödats.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New shocking figures on the number of Russians killed in the war",
-        "summary": "Russian losses in the war are significantly higher than previously thought, according to new assessments from the Russian exile media Meduza and Mediazona. More than 700,000 Russian soldiers are reported to have been killed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T03:01:12+01:00"
-      }
-    },
-    {
-      "id": "1f0ecd654234",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348701",
-      "guid": "rss:sr.se/article/9348701",
-      "published_at": "2026-11-24T01:52:00+01:00",
-      "fetched_at": "2026-11-24T02:01:09+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Israeliskt flyganfall mot Gaza – minst tre dödade",
-        "summary": "I södra Gazaremsan har minst tre palestinier dödats i ett israeliskt flyganfall, enligt lokal sjukvårdspersonal, rapporterar Reuters. Ytterligare fem personer ska ha skadats i attacken, som skedde i närheten av en polisstation i staden Khan Yunis.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Israeli airstrike on Gaza – at least three killed",
-        "summary": "At least three Palestinians have been killed in an Israeli airstrike in the southern Gaza Strip, according to local health care workers, Reuters reports. Another five people are reported to have been injured in the attack, which took place near a police station in the city of Khan Yunis."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T02:01:15+01:00"
-      }
-    },
-    {
-      "id": "d3dd528f57e4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/fembarnsmamman-dod-av-optisk-illusion",
-      "guid": "https://www.expressen.se/nyheter/varlden/fembarnsmamman-dod-av-optisk-illusion/",
-      "published_at": "2026-11-24T01:43:03+01:00",
-      "fetched_at": "2026-11-24T01:45:49+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Fembarnsmamman död av ”optisk illusion”",
-        "summary": "Jody Brown tog fel på en ”optisk illusion”, skriver Daily Mail. Det blev den 38-åriga fembarnsmammans död. Nu höjs krav på förändring för att förhindra framtida dödsfall.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mother of five dies after ”optical illusion”",
-        "summary": "Jody Brown misjudged an ”optical illusion”, Daily Mail reports. The 38-year-old mother of five died as a result. Calls are now growing for changes to prevent future deaths."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T01:45:53+01:00"
       }
     }
   ]

@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-26T06:15:57+01:00",
+  "generated_at": "2026-11-26T06:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "91c1aa563be8",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/dygnet-runt/sa-lagar-stjarnkockarna-sina-favoritratter-det-ska-vara-moffigt",
+      "guid": "a5d3f276-8d16-4533-9237-0e8a0c0c645b",
+      "published_at": "2026-11-26T06:30:00+01:00",
+      "fetched_at": "2026-11-26T06:31:01+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Så lagar stjärnkockarna sina favoriträtter: ”Det ska vara moffigt”",
+        "summary": "På kvällarna serverar de avsmakningsmenyer och placerar ut maten med pincett. Men vad äter kockarna när de ska laga mat till sig själva? Då vill de ha enkel och \"moffig\" mat. Fläskpannkana, kroppkakor, raggmunk och wallenbergare.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "How star chefs cook their favourite dishes: ”It has to be moffig”",
+        "summary": "In the evenings they serve tasting menus and arrange the food with tweezers. But what do the chefs eat when they cook for themselves? Then they want simple and “moffig” food: pork pancake, kroppkakor, raggmunk and wallenbergare."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:31:14+01:00"
+      }
+    },
+    {
+      "id": "425ee8375a17",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/dygnet-runt/nar-kockarna-lagar-mat-till-sig-sjalva-da-blir-det-fucking-wallenbergare",
+      "guid": "40742900-11e3-4645-bdc0-a214e6a5f8e3",
+      "published_at": "2026-11-26T06:23:21+01:00",
+      "fetched_at": "2026-11-26T06:31:01+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/2a4bd9cf-2956-4a54-8ef6-5a1cb60b076d.jpeg?width=600",
+      "sv": {
+        "title": "När kockarna lagar mat till sig själva: ”Då blir det fucking wallenbergare”",
+        "summary": "På kvällarna är det avsmakningsmeny för flera tusen kronor. Men när kockarna på den hyllade restaurangen Smörtaxen lagar mat till personalen blir det betydligt enklare. Nu delar de med sig av rätterna de själva älskar. – Vi försöker göra ”moffig” mat, gärna skedvänlig.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "When chefs cook for themselves: ”Then it’s fucking wallenbergare”",
+        "summary": "In the evenings it is a tasting menu costing several thousand SEK. But when the chefs at the acclaimed restaurant Smörtaxen cook for the staff, it becomes much simpler. Now they share the dishes they love most themselves. – We try to make “moffig” food, preferably spoon-friendly."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:31:14+01:00"
+      }
+    },
     {
       "id": "79381eee211c",
       "schema_version": 1,
@@ -108,6 +161,40 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T06:01:21+01:00"
+      }
+    },
+    {
+      "id": "9e5c3f15086a",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/200-malningar-pa-sju-ar-sa-funkar-plankkonsten-i-goteborg.ffc12288-8223-5d7c-b598-150eb5562370",
+      "guid": "ffc12288-8223-5d7c-b598-150eb5562370",
+      "published_at": "2026-11-26T05:52:03+01:00",
+      "fetched_at": "2026-11-26T06:31:00+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: Trafikverket",
+        "Tagg: Västlänken",
+        "Tagg: Konst",
+        "Tagg: Konstepidemin"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/34b4653d-7dfb-3f2c-9fac-32aae6de8098",
+      "sv": {
+        "title": "Konst för 25 miljoner ska förstöras",
+        "summary": "”Kan nog bli starkare verk för att de bara är här en specifik period.”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Art worth 25 million to be destroyed",
+        "summary": "”It could probably become stronger works because they are only here for a specific period.”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:31:14+01:00"
       }
     },
     {
@@ -5605,93 +5692,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T13:15:53+01:00"
-      }
-    },
-    {
-      "id": "6967a83d12c3",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/kanske-hade-det-rackt-att-bara-beratta-sagan",
-      "guid": "a2d475f5-44f0-4ef3-9440-a067f9f5183c",
-      "published_at": "2026-11-22T12:32:42+01:00",
-      "fetched_at": "2026-11-22T12:45:46+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/11650888-9b1d-4af2-a018-60f07828bba0.jpeg?width=600",
-      "sv": {
-        "title": "Kanske hade det räckt att bara berätta sagan",
-        "summary": "Hanna Höglund ser en ”Rusalka” på Malmö opera som vill mycket. Höjderna finns där i enskilda sångprestationer och i scenografin, men i den andra akten fastnar uppsättningen i ett sövande tempo.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Perhaps it would have been enough to just tell the story",
-        "summary": "Hanna Höglund sees a \"Rusalka\" at Malmö Opera that wants a lot. The heights are there in individual vocal performances and in the set design, but in the second act the production gets stuck at a sleep-inducing tempo."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T12:45:52+01:00"
-      }
-    },
-    {
-      "id": "c6baa138bf26",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/OypPdw/matilda-sterby-ger-nymfen-en-fin-rost",
-      "guid": "https://www.svd.se/a/OypPdw/matilda-sterby-ger-nymfen-en-fin-rost?utm_medium=rss",
-      "published_at": "2026-11-22T12:19:36+01:00",
-      "fetched_at": "2026-11-22T12:30:59+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/50803f94-3b7c-3e95-ab86-4fd4135a6921?format=auto&s=6ef1c101bcc46f9f36fa31107ecb360c34ba5023&w=1000",
-      "sv": {
-        "title": "Matilda Sterby ger nymfen en fin röst",
-        "summary": "Irländska regissören Orpha Phelan gör med ”Rusalka” sin femte uppsättning på Malmö Opera.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Matilda Sterby gives the nymph a fine voice",
-        "summary": "Irish director Orpha Phelan makes her fifth production at Malmö Opera with \"Rusalka\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T12:31:05+01:00"
-      }
-    },
-    {
-      "id": "51ba1f2cbe9a",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/julen-sparkar-igang-pa-gunnebo-slott.ecfbe858-e032-572e-b862-152c76128eab",
-      "guid": "ecfbe858-e032-572e-b862-152c76128eab",
-      "published_at": "2026-11-22T12:15:43+01:00",
-      "fetched_at": "2026-11-22T12:45:45+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: Jul",
-        "Tagg: Julmarknad",
-        "Tagg: Gunnebo slott och trädgårdar"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/0f78f959-f8d2-31da-be74-56d440045d41",
-      "sv": {
-        "title": "Julmys på slottet med dödskorv och lyxpraliner",
-        "summary": "Vad kan väl vara bättre för att komma i julstämning än att besöka en julmarknad?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Christmas market at the castle with deadly sausage and luxury pralines",
-        "summary": "What could be better for getting into the Christmas mood than visiting a Christmas market?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T12:45:52+01:00"
       }
     }
   ]

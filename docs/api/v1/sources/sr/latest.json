@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T06:15:57+01:00",
+  "generated_at": "2026-11-26T06:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dd6b2772babf",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350291",
+      "guid": "rss:sr.se/article/9350291",
+      "published_at": "2026-11-26T06:23:00+01:00",
+      "fetched_at": "2026-11-26T06:30:58+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ukrainastöd i fokus när EU diskuterar ny långtidsbudget",
+        "summary": "EU:s stats- och regeringschefer samlas i Bryssel för att försöka närma sig en överenskommelse om långtidsbudgeten för 2028–2034. Målet är att nå en uppgörelse före årsskiftet. Sverige och sex andra medlemsländer anser att det senaste kompromissförslaget är för dyrt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ukraine aid in focus as EU discusses new long-term budget",
+        "summary": "EU heads of state and government gather in Brussels to try to reach an agreement on the long-term budget for 2028–2034. The goal is to reach a deal before the turn of the year. Sweden and six other member states consider the latest compromise proposal too expensive."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:31:14+01:00"
+      }
+    },
     {
       "id": "ddc96cee13ed",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T14:01:29+01:00"
-      }
-    },
-    {
-      "id": "bccdf1572cef",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347118",
-      "guid": "rss:sr.se/article/9347118",
-      "published_at": "2026-11-20T13:16:00+01:00",
-      "fetched_at": "2026-11-20T13:31:00+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ulf Kristersson om Donald Trumps samtal: ”Skällde inte”",
-        "summary": "Donald Trump ska via ett telefonsamtal ha uppmanat länder att avsluta sitt Ukrainastöd, rapporterar The Telegraph. Ulf Kristersson (M) bekräftar telefonsamtalet: ”Det är lite udda”, säger statsministern i P4 Extra och fortsätter: ”Men han skällde absolut inte ut någon”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ulf Kristersson on Donald Trump's call: “He didn't rant”",
-        "summary": "Donald Trump is reported by The Telegraph to have urged countries via a phone call to end their Ukraine aid. Ulf Kristersson (M) confirms the phone call: “It's a bit odd”, the prime minister says on P4 Extra, and continues: “But he absolutely didn't rant at anyone.”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:31:20+01:00"
       }
     }
   ]
