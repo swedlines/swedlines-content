@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T08:23:06+01:00",
+  "generated_at": "2026-11-26T08:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "285171ac1934",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/ebba-busch-kd-inte-gamla-alliansen",
+      "guid": "https://www.svt.se/nyheter/inrikes/ebba-busch-kd-inte-gamla-alliansen",
+      "published_at": "2026-11-26T08:24:47+01:00",
+      "fetched_at": "2026-11-26T08:30:59+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Ebba Busch (KD): Inte gamla Alliansen",
+        "summary": "På måndag kan Ulf Kristersson (M) få grönt ljus att leda Sveriges regering i fyra år till – förutsatt att han får med sig Centerpartiet. Centern har under veckan fört samtal med M, L och KD. – Det går bra, säger KD-ledaren Ebba Busch om kontakterna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ebba Busch (KD): Not the old Alliance",
+        "summary": "On Monday Ulf Kristersson (M) may get the green light to lead the Swedish government for four years – provided he brings the Centre Party along. The Centre Party has held talks with the M, L and KD this week. – It's going well, says KD leader Ebba Busch about the contacts."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:31:08+01:00"
+      }
+    },
     {
       "id": "2d6d20039bdf",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T09:15:53+01:00"
-      }
-    },
-    {
-      "id": "21fd19b6f002",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/langdskidor/beskedet-redan-stopp-for-visum-till-ryska-idrottare",
-      "guid": "https://www.svt.se/sport/langdskidor/beskedet-redan-stopp-for-visum-till-ryska-idrottare",
-      "published_at": "2026-11-20T08:08:58+01:00",
-      "fetched_at": "2026-11-20T08:15:39+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Beskedet: Redan stopp för visum till ryska idrottare",
-        "summary": "Ryska idrottare kommer inte att beviljas visum till Sverige. Och de har inte beviljats det tidigare heller, enligt Migrationsverket.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Already a stop to visas for Russian athletes",
-        "summary": "Russian athletes will not be granted visas to Sweden. And they have not been granted them before either, according to the Migration Agency."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T08:15:49+01:00"
       }
     }
   ]

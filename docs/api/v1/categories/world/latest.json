@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T08:23:06+01:00",
+  "generated_at": "2026-11-26T08:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bfbba4e0d8bf",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/trumps-utspel-mitt-i-ceremonin",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/trumps-utspel-mitt-i-ceremonin",
+      "published_at": "2026-11-26T08:22:18+01:00",
+      "fetched_at": "2026-11-26T08:31:01+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Avbryter ceremonin – Trumps förvirring",
+        "summary": "”Vad hände?”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Cancels ceremony – Trump's confusion",
+        "summary": "“What happened?”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:31:08+01:00"
+      }
+    },
     {
       "id": "dfd24e2b1d90",
       "schema_version": 1,
@@ -5312,50 +5338,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T06:01:24+01:00"
-      }
-    },
-    {
-      "id": "818927b5fb69",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/varlden/skracken-i-ostersjon-hot-fran-ryska-skuggflottan.7a0a2da0-9575-5e7c-810f-3fc94f86f93b",
-      "guid": "7a0a2da0-9575-5e7c-810f-3fc94f86f93b",
-      "published_at": "2026-11-24T05:45:56+01:00",
-      "fetched_at": "2026-11-24T06:15:48+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Världen",
-        "Tagg: Åland",
-        "Tagg: Finland",
-        "Tagg: Fartyg",
-        "Tagg: Östersjön",
-        "Tagg: Beredskap",
-        "Tagg: Olycka",
-        "Tagg: Sanering",
-        "Tagg: Katastrofer",
-        "Tagg: Färjor",
-        "Tagg: Miljö",
-        "Tagg: Turism",
-        "Tagg: Ryssland",
-        "Tagg: Olyckor",
-        "Tagg: Samhällsredaktionen"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/bf490059-67d3-3e80-9a23-25abb361524a",
-      "sv": {
-        "title": "Skräcken i Östersjön: Hot från ryska skuggflottan",
-        "summary": "Regeringschefen om situationen i Östersjön.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fear in the Baltic Sea: Threat from Russia's shadow fleet",
-        "summary": "The head of government on the situation in the Baltic Sea."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T06:16:05+01:00"
       }
     }
   ]
