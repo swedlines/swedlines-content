@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-26T10:45:54+01:00",
-  "count": 256,
+  "generated_at": "2026-11-26T10:53:28+01:00",
+  "count": 262,
   "items": [
+    {
+      "id": "177618068e9c",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/dJO6nj/kopplingar-till-kriminella-vid-statliga-inkop",
+      "guid": "https://www.aftonbladet.se/nyheter/a/dJO6nj/kopplingar-till-kriminella-vid-statliga-inkop?utm_medium=rss",
+      "published_at": "2026-11-26T10:51:19+01:00",
+      "fetched_at": "2026-11-26T10:53:19+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/e4f8b09a-0f1c-352f-a00e-83acacf49dde?format=auto&s=a139b861e571e354099b006e0e14d2ffdea18f0e&w=1000",
+      "sv": {
+        "title": "Kopplingar till kriminella vid statliga inköp",
+        "summary": "Varje år gör statliga myndigheter inköp för stora belopp. Men man tar inte tillräcklig hänsyn till…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Links to criminals in state procurement",
+        "summary": "Every year government agencies make purchases worth large sums. But insufficient consideration is given to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:53:25+01:00"
+      }
+    },
+    {
+      "id": "d64e0ee5d46a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/dyra-december-klart-det-ar-tuffa-tider",
+      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/dyra-december-klart-det-ar-tuffa-tider",
+      "published_at": "2026-11-26T10:45:23+01:00",
+      "fetched_at": "2026-11-26T10:53:16+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Dyra december: ”Klart det är tuffa tider”",
+        "summary": "För många brukar december bli en dyr månad när julklappar och julmat ska inhandlas. Men i år kan det bli en extra kostsam månad eftersom också flera krisstöd försvinner. – Klart att man tänker efter för det är mycket som är dyrare nu, säger Sara Mähler, Strömsund.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expensive December: \"Of course it's tough times\"",
+        "summary": "For many, December is an expensive month when Christmas presents and Christmas food have to be bought. But this year it could be an extra costly month as several crisis support schemes are also disappearing. – Of course you think twice because a lot is more expensive now, says Sara Mähler, Strömsund."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:53:25+01:00"
+      }
+    },
     {
       "id": "ccd9918ddd41",
       "schema_version": 1,
@@ -77,6 +130,59 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T10:45:50+01:00"
+      }
+    },
+    {
+      "id": "7053b6eefaf8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/brak-om-ukrainastod-i-eu-det-blir-en-batalj",
+      "guid": "44e8dce7-4ac7-4fb1-8e48-c3ac144ab66a",
+      "published_at": "2026-11-26T10:33:53+01:00",
+      "fetched_at": "2026-11-26T10:53:20+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/aaf027c2-1551-43a6-bb7a-64e63d527830.jpeg?width=600",
+      "sv": {
+        "title": "Bråk om Ukrainastöd i EU: ”Det blir en batalj”",
+        "summary": "Ett rejält bråk väntar när EU-ländernas ledare ska försöka enas om såväl budget som Ukrainastöd. ”Det kommer att bli en batalj i dag”, konstaterar statsminister Ulf Kristersson (M) i Bryssel.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dispute over Ukraine aid in the EU: \"It will be a battle\"",
+        "summary": "A serious dispute awaits when EU member states' leaders try to agree on both the budget and Ukraine aid. \"It will be a battle today\", says Prime Minister Ulf Kristersson (M) in Brussels."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:53:25+01:00"
+      }
+    },
+    {
+      "id": "f53c5b11f591",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/smaland/hot-om-skolskjutning-i-hultsfred-polis-pa-plats",
+      "guid": "https://www.svt.se/nyheter/lokalt/smaland/hot-om-skolskjutning-i-hultsfred-polis-pa-plats",
+      "published_at": "2026-11-26T10:32:39+01:00",
+      "fetched_at": "2026-11-26T10:53:16+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Hot om skolskjutning i Hultsfred – polis på plats",
+        "summary": "Polis och räddningstjänst finns under torsdagsförmiddagen på plats på Allbäcksskolan i Hultsfred efter att att ett hot om skolskjutning upptäckts skrivet på en toalettvägg på skolan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Threat of school shooting in Hultsfred – police on site",
+        "summary": "Police and the rescue service are on site on Thursday morning at Allbäcksskolan in Hultsfred after a threat of a school shooting, written on a toilet wall at the school, was discovered."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:53:25+01:00"
       }
     },
     {
@@ -243,6 +349,33 @@
       }
     },
     {
+      "id": "7a1d11c50af5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/spansk-kedja-sager-upp-avtalet-med-securitas",
+      "guid": "eacf0536-5108-4c6e-bbf2-37840a02c782",
+      "published_at": "2026-11-26T10:26:21+01:00",
+      "fetched_at": "2026-11-26T10:53:20+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2576a40c-24c8-4e5f-b3d8-d20ac5e2123f.jpeg?width=600",
+      "sv": {
+        "title": "Spansk kedja säger upp avtalet med Securitas",
+        "summary": "Den spanska varuhuskedjan El Corte Inglés kommer att säga upp sitt kontrakt med säkerhetsföretaget Securitas efter att avtalet om branden i Windsorbyggnaden i Madrid 2005 löper ut. Det skriver Dagens PS med hänvisning till spanska El Confidencial.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Spanish chain terminates agreement with Securitas",
+        "summary": "The Spanish department store chain El Corte Inglés will terminate its contract with the security company Securitas after the agreement concerning the 2005 fire in the Windsor building in Madrid expires. Dagens PS reports this, citing the Spanish El Confidencial."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:53:25+01:00"
+      }
+    },
+    {
       "id": "8bdb643d5588",
       "schema_version": 1,
       "source": "di",
@@ -372,6 +505,43 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T10:31:14+01:00"
+      }
+    },
+    {
+      "id": "a7c661233b90",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/film/filmrecension/recension-paper-tiger-i-regi-av-james-gray.6930c025-267d-51b2-ae6a-851e5849ac74",
+      "guid": "6930c025-267d-51b2-ae6a-851e5849ac74",
+      "published_at": "2026-11-26T10:22:38+01:00",
+      "fetched_at": "2026-11-26T10:53:20+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Filmrecension",
+        "Tagg: Adam Driver",
+        "Tagg: Miles Teller",
+        "Tagg: Scarlett Johansson",
+        "Tagg: New York",
+        "Tagg: Thriller",
+        "Tagg: Polisen",
+        "Tagg: Recension"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/9ba6a095-4f3d-3153-804a-2886fe58ea35",
+      "sv": {
+        "title": "Thrillern ”Paper tiger” är nerkvittlande",
+        "summary": "Adam Driver imponerar som avhoppad New York-polis på glid.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The thriller \"Paper Tiger\" is unimpressive",
+        "summary": "Adam Driver impresses as a former New York police officer who has gone off the rails."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:53:25+01:00"
       }
     },
     {

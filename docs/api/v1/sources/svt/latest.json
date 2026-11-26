@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-26T10:45:54+01:00",
+  "generated_at": "2026-11-26T10:53:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d64e0ee5d46a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/dyra-december-klart-det-ar-tuffa-tider",
+      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/dyra-december-klart-det-ar-tuffa-tider",
+      "published_at": "2026-11-26T10:45:23+01:00",
+      "fetched_at": "2026-11-26T10:53:16+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Dyra december: ”Klart det är tuffa tider”",
+        "summary": "För många brukar december bli en dyr månad när julklappar och julmat ska inhandlas. Men i år kan det bli en extra kostsam månad eftersom också flera krisstöd försvinner. – Klart att man tänker efter för det är mycket som är dyrare nu, säger Sara Mähler, Strömsund.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expensive December: \"Of course it's tough times\"",
+        "summary": "For many, December is an expensive month when Christmas presents and Christmas food have to be bought. But this year it could be an extra costly month as several crisis support schemes are also disappearing. – Of course you think twice because a lot is more expensive now, says Sara Mähler, Strömsund."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:53:25+01:00"
+      }
+    },
+    {
+      "id": "f53c5b11f591",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/smaland/hot-om-skolskjutning-i-hultsfred-polis-pa-plats",
+      "guid": "https://www.svt.se/nyheter/lokalt/smaland/hot-om-skolskjutning-i-hultsfred-polis-pa-plats",
+      "published_at": "2026-11-26T10:32:39+01:00",
+      "fetched_at": "2026-11-26T10:53:16+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Hot om skolskjutning i Hultsfred – polis på plats",
+        "summary": "Polis och räddningstjänst finns under torsdagsförmiddagen på plats på Allbäcksskolan i Hultsfred efter att att ett hot om skolskjutning upptäckts skrivet på en toalettvägg på skolan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Threat of school shooting in Hultsfred – police on site",
+        "summary": "Police and the rescue service are on site on Thursday morning at Allbäcksskolan in Hultsfred after a threat of a school shooting, written on a toilet wall at the school, was discovered."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:53:25+01:00"
+      }
+    },
     {
       "id": "74d4b48d363b",
       "schema_version": 1,
@@ -5145,58 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T13:15:53+01:00"
-      }
-    },
-    {
-      "id": "58fa91a31bd9",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/regionradet-vill-utreda-krav-pa-aterbetalning-fran-frohm-sticker-i-ogonen",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/regionradet-vill-utreda-krav-pa-aterbetalning-fran-frohm-sticker-i-ogonen",
-      "published_at": "2026-11-20T11:52:07+01:00",
-      "fetched_at": "2026-11-20T12:01:12+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Regionrådet vill utreda krav på återbetalning från Frohm: ”Sticker i ögonen”",
-        "summary": "Regionrådet Anders Öberg (S) vill pröva om Region Norrbotten kan kräva tillbaka arvode från Linda Frohm (M). Han kritiserar att Frohm behållit uppdraget som oppositionsråd samtidigt som hon är heltidsarvoderad riksdagsledamot.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Regional council wants to investigate demand for repayment from Frohm: \"Sticks in the eye\"",
-        "summary": "Regional councillor Anders Öberg (S) wants to examine whether Region Norrbotten can demand repayment of fees from Linda Frohm (M). He criticises Frohm for keeping her role as opposition commissioner while also being a full-time salaried Riksdag member."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T12:01:25+01:00"
-      }
-    },
-    {
-      "id": "58fb11050de1",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sormland/verkstad-pa-volvo-ce-i-eskilstuna-utrymd-efter-larm-om-lackage",
-      "guid": "https://www.svt.se/nyheter/lokalt/sormland/verkstad-pa-volvo-ce-i-eskilstuna-utrymd-efter-larm-om-lackage",
-      "published_at": "2026-11-20T11:37:23+01:00",
-      "fetched_at": "2026-11-20T11:45:48+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Verkstad på Volvo CE i Eskilstuna utrymd efter larm om läckage",
-        "summary": "Volvo CE har utrymt samtliga medarbetare från en byggnad där det ska ha läckt ut en mindre mängd av ämnet pikrinsyra. – Vi vidtog åtgärder omedelbart och utrymde samtliga medarbetare från byggnaden.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Workshop at Volvo CE in Eskilstuna evacuated after leak alarm",
-        "summary": "Volvo CE has evacuated all employees from a building where a small amount of the substance picric acid is reported to have leaked. – We took measures immediately and evacuated all employees from the building."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:45:57+01:00"
       }
     }
   ]
