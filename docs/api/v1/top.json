@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:46:02+01:00",
+  "generated_at": "2026-11-26T09:48:00+01:00",
   "count": 25,
   "stories": [
     {
@@ -1237,6 +1237,77 @@
       ]
     },
     {
+      "id": "ab789aeedc63",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-26T09:29:15+01:00",
+      "last_published_at": "2026-11-26T09:45:28+01:00",
+      "lead": {
+        "id": "ab789aeedc63",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326",
+        "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326&utm_medium=rss",
+        "published_at": "2026-11-26T09:29:15+01:00",
+        "fetched_at": "2026-11-26T09:45:46+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Explosion på oljeanläggning"
+        },
+        "en": {
+          "title": "Explosion at oil facility"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:45:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "fa10527a05a1",
+          "source": "svd",
+          "url": "https://www.svd.se/a/KL3owo/explosion-pa-oljeanlaggning",
+          "published_at": "2026-11-26T09:45:28+01:00",
+          "sv": {
+            "title": "Explosion på oljeanläggning"
+          },
+          "en": {
+            "title": "Explosion at oil facility"
+          }
+        },
+        {
+          "id": "abd1a58da1c8",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=08fe095e-e0f9-42a2-9ca6-5327f35a9ef2",
+          "published_at": "2026-11-26T09:33:14+01:00",
+          "sv": {
+            "title": "Stor explosion"
+          },
+          "en": {
+            "title": "Major explosion"
+          }
+        },
+        {
+          "id": "ab789aeedc63",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326",
+          "published_at": "2026-11-26T09:29:15+01:00",
+          "sv": {
+            "title": "Explosion på oljeanläggning"
+          },
+          "en": {
+            "title": "Explosion at oil facility"
+          }
+        }
+      ]
+    },
+    {
       "id": "ed574169a1d8",
       "source_count": 2,
       "sources": [
@@ -1357,65 +1428,6 @@
           },
           "en": {
             "title": "EU leaders clash in Brussels: \"It's going to be a battle\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "ab789aeedc63",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-26T09:29:15+01:00",
-      "last_published_at": "2026-11-26T09:33:14+01:00",
-      "lead": {
-        "id": "ab789aeedc63",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326",
-        "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326&utm_medium=rss",
-        "published_at": "2026-11-26T09:29:15+01:00",
-        "fetched_at": "2026-11-26T09:45:46+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Explosion på oljeanläggning"
-        },
-        "en": {
-          "title": "Explosion at oil facility"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T09:45:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "abd1a58da1c8",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=08fe095e-e0f9-42a2-9ca6-5327f35a9ef2",
-          "published_at": "2026-11-26T09:33:14+01:00",
-          "sv": {
-            "title": "Stor explosion"
-          },
-          "en": {
-            "title": "Major explosion"
-          }
-        },
-        {
-          "id": "ab789aeedc63",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326",
-          "published_at": "2026-11-26T09:29:15+01:00",
-          "sv": {
-            "title": "Explosion på oljeanläggning"
-          },
-          "en": {
-            "title": "Explosion at oil facility"
           }
         }
       ]

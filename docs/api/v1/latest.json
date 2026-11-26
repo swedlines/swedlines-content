@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-26T09:46:02+01:00",
+  "generated_at": "2026-11-26T09:48:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fa10527a05a1",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/KL3owo/explosion-pa-oljeanlaggning",
+      "guid": "https://www.svd.se/a/KL3owo/explosion-pa-oljeanlaggning?utm_medium=rss",
+      "published_at": "2026-11-26T09:45:28+01:00",
+      "fetched_at": "2026-11-26T09:47:52+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/34032f77-a8f8-380b-897c-eb4149382136?format=auto&s=8c57295476c4a3a8e10156cbafdee6927d2c3e33&w=1000",
+      "sv": {
+        "title": "Explosion på oljeanläggning"
+      },
+      "en": {
+        "title": "Explosion at oil facility"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:47:57+01:00"
+      }
+    },
     {
       "id": "690b10236099",
       "schema_version": 1,
@@ -5323,32 +5347,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T03:45:48+01:00"
-      }
-    },
-    {
-      "id": "218604132ce7",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9350269",
-      "guid": "rss:sr.se/article/9350269",
-      "published_at": "2026-11-26T03:06:00+01:00",
-      "fetched_at": "2026-11-26T03:15:46+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Kvinnomorden skakar landet – Zondekas dotter kom aldrig hem",
-        "summary": "En våg av kvinnomord har drabbat Johannesburg i Sydafrika. Offren har hittats dumpade utomhus och anhöriga riktar hård kritik mot polisens insats. Polisen har gripit åtta personer som kopplas till morden. Mellan juli och september mördades nästan 600 kvinnor i Sydafrika.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Femicides shake the country – Zondeka's daughter never came home",
-        "summary": "A wave of femicides has hit Johannesburg in South Africa. The victims have been found dumped outdoors, and relatives are harshly criticising the police response. Police have arrested eight people linked to the murders. Between July and September, almost 600 women were murdered in South Africa."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T03:15:52+01:00"
       }
     }
   ]
