@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T09:01:24+01:00",
+  "generated_at": "2026-11-26T09:16:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6fc96e42a962",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/skepp-med-7-000-ton-diesel-har-sjunkit-vid-ibiza",
+      "guid": "1e2d8d66-d97c-4dda-bc02-6459e7d31184",
+      "published_at": "2026-11-26T09:13:32+01:00",
+      "fetched_at": "2026-11-26T09:15:52+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Skepp med 7 000 ton diesel har sjunkit vid Ibiza",
+        "summary": "Ett skepp lastat med 7 000 ton diesel har sjunkit utanför kusten vid den spanska Medelhavsön Ibiza.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza",
+        "summary": "A ship loaded with 7,000 tonnes of diesel has sunk off the coast of the Spanish Mediterranean island of Ibiza."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:16:07+01:00"
+      }
+    },
     {
       "id": "e5201574417b",
       "schema_version": 1,
@@ -5152,33 +5178,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T14:45:56+01:00"
-      }
-    },
-    {
-      "id": "7239a1d5eeaf",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/over-20-doda-i-utbrunnen-godisfabrik",
-      "guid": "07f8038d-66bf-465f-9cb3-ee626b42cca9",
-      "published_at": "2026-11-23T14:23:53+01:00",
-      "fetched_at": "2026-11-23T14:30:58+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/fc78d81d-8197-446d-8d71-29982206841b.jpg?width=600",
-      "sv": {
-        "title": "Över 20 döda i utbrunnen godisfabrik",
-        "summary": "En omfattande brand i en godisfabrik i Indonesien har skördat över 20 människoliv.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Over 20 dead in burned-out candy factory",
-        "summary": "A massive fire at a candy factory in Indonesia has killed more than 20 people."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T14:31:03+01:00"
       }
     }
   ]

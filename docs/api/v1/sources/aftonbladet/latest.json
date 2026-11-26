@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T09:01:24+01:00",
+  "generated_at": "2026-11-26T09:16:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0e9a36d1e907",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Vxb0Jl/skepp-med-7000-ton-diesel-har-sjunkit-vid-ibiza",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Vxb0Jl/skepp-med-7000-ton-diesel-har-sjunkit-vid-ibiza?utm_medium=rss",
+      "published_at": "2026-11-26T09:10:20+01:00",
+      "fetched_at": "2026-11-26T09:15:49+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Skepp med 7 000 ton diesel har sjunkit vid Ibiza",
+        "summary": "Ett skepp lastat med 7 000 ton diesel har sjunkit utanför kusten vid den spanska Medelhavsön Ibiza.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza",
+        "summary": "A ship loaded with 7,000 tonnes of diesel has sunk off the coast of the Spanish Mediterranean island of Ibiza."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:16:07+01:00"
+      }
+    },
     {
       "id": "db07267d430b",
       "schema_version": 1,
@@ -5348,33 +5374,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T15:10:54+01:00"
-      }
-    },
-    {
-      "id": "efe14e07b5e1",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Pv9Jvb/jensen-huang-gor-comeback-som-vd",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Pv9Jvb/jensen-huang-gor-comeback-som-vd?utm_medium=rss",
-      "published_at": "2026-11-23T15:00:27+01:00",
-      "fetched_at": "2026-11-23T15:31:05+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/a073ee57-f5d9-3243-b60d-f5eefef21489?format=auto&s=72a80629304ad65803884df3d5b90bb03e932482&w=1000",
-      "sv": {
-        "title": "Jensen Huang gör comeback som vd",
-        "summary": "”Tillräckligt uppriktig” ✓Aktien rusar",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jensen Huang makes comeback as CEO",
-        "summary": "“Sufficiently candid” ✓The stock soars"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T15:31:20+01:00"
       }
     }
   ]

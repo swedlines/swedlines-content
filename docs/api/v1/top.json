@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:01:24+01:00",
+  "generated_at": "2026-11-26T09:16:14+01:00",
   "count": 23,
   "stories": [
     {
@@ -706,6 +706,81 @@
           },
           "en": {
             "title": "Increased support for a rightward turn in the Centre Party"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0e9a36d1e907",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "di",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-26T09:10:20+01:00",
+      "last_published_at": "2026-11-26T09:13:32+01:00",
+      "lead": {
+        "id": "0e9a36d1e907",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/Vxb0Jl/skepp-med-7000-ton-diesel-har-sjunkit-vid-ibiza",
+        "guid": "https://www.aftonbladet.se/nyheter/a/Vxb0Jl/skepp-med-7000-ton-diesel-har-sjunkit-vid-ibiza?utm_medium=rss",
+        "published_at": "2026-11-26T09:10:20+01:00",
+        "fetched_at": "2026-11-26T09:15:49+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Skepp med 7 000 ton diesel har sjunkit vid Ibiza",
+          "summary": "Ett skepp lastat med 7 000 ton diesel har sjunkit utanför kusten vid den spanska Medelhavsön Ibiza.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza",
+          "summary": "A ship loaded with 7,000 tonnes of diesel has sunk off the coast of the Spanish Mediterranean island of Ibiza."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:16:07+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "6fc96e42a962",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/skepp-med-7-000-ton-diesel-har-sjunkit-vid-ibiza",
+          "published_at": "2026-11-26T09:13:32+01:00",
+          "sv": {
+            "title": "Skepp med 7 000 ton diesel har sjunkit vid Ibiza"
+          },
+          "en": {
+            "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza"
+          }
+        },
+        {
+          "id": "f76a3f587edd",
+          "source": "di",
+          "url": "https://www.di.se/live/skepp-med-7-000-ton-diesel-har-sjunkit-vid-ibiza",
+          "published_at": "2026-11-26T09:12:16+01:00",
+          "sv": {
+            "title": "Skepp med 7.000 ton diesel har sjunkit vid Ibiza"
+          },
+          "en": {
+            "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza"
+          }
+        },
+        {
+          "id": "0e9a36d1e907",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Vxb0Jl/skepp-med-7000-ton-diesel-har-sjunkit-vid-ibiza",
+          "published_at": "2026-11-26T09:10:20+01:00",
+          "sv": {
+            "title": "Skepp med 7 000 ton diesel har sjunkit vid Ibiza"
+          },
+          "en": {
+            "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza"
           }
         }
       ]
@@ -1726,69 +1801,6 @@
           },
           "en": {
             "title": "The C leader warns of snap election in leaked recording"
-          }
-        }
-      ]
-    },
-    {
-      "id": "2f733edc5ddc",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svt"
-      ],
-      "first_published_at": "2026-11-25T19:57:01+01:00",
-      "last_published_at": "2026-11-25T21:03:00+01:00",
-      "lead": {
-        "id": "2f733edc5ddc",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/4Eq9l9/nytt-fall-av-algsjuka-i-sverige",
-        "guid": "https://www.aftonbladet.se/nyheter/a/4Eq9l9/nytt-fall-av-algsjuka-i-sverige?utm_medium=rss",
-        "published_at": "2026-11-25T19:57:01+01:00",
-        "fetched_at": "2026-11-25T20:01:19+01:00",
-        "category": "sweden",
-        "image_url": "https://akamai.vgc.no/v2/images/52893911-c706-38d9-a08b-1c658ac65bfd?format=auto&s=5e0b72a6b75e8f91a1f3e1f8b8c16e76b4125bcb&w=1000",
-        "sv": {
-          "title": "Nytt fall av älgsjuka i Sverige",
-          "summary": "Ett nytt misstänkt fall av avmagringssjuka hos älg har konstaterats i Dalarna, enligt Statens…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "New case of wasting disease in moose in Sweden",
-          "summary": "A new suspected case of wasting disease in moose has been confirmed in Dalarna, according to the Swedish..."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T20:01:25+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "a0263da2d383",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/dalarna/nytt-fall-av-algsjuka-i-sverige",
-          "published_at": "2026-11-25T21:03:00+01:00",
-          "sv": {
-            "title": "Nytt fall av älgsjuka i Sverige"
-          },
-          "en": {
-            "title": "New case of moose wasting disease in Sweden"
-          }
-        },
-        {
-          "id": "2f733edc5ddc",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/4Eq9l9/nytt-fall-av-algsjuka-i-sverige",
-          "published_at": "2026-11-25T19:57:01+01:00",
-          "sv": {
-            "title": "Nytt fall av älgsjuka i Sverige"
-          },
-          "en": {
-            "title": "New case of wasting disease in moose in Sweden"
           }
         }
       ]
