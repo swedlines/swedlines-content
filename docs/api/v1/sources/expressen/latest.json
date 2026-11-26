@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T14:16:22+01:00",
+  "generated_at": "2026-11-26T14:26:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "87f81c5c82cd",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=da463dc0-8b7b-4d9f-b0df-8062603150c3",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=da463dc0-8b7b-4d9f-b0df-8062603150c3",
+      "published_at": "2026-11-26T14:18:26+01:00",
+      "fetched_at": "2026-11-26T14:26:19+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisens varning – på rim",
+        "summary": "Poetiska uppmaningen: ”Låt lågan få skina”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police warning – in rhyme",
+        "summary": "Poetic appeal: \"Let the flame shine\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T14:26:28+01:00"
+      }
+    },
     {
       "id": "d7132fb5a39d",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T12:46:02+01:00"
-      }
-    },
-    {
-      "id": "caa442df05f0",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=544a8032-2b8f-4f9f-b072-18ac42ab5784",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=544a8032-2b8f-4f9f-b072-18ac42ab5784",
-      "published_at": "2026-11-23T12:04:01+01:00",
-      "fetched_at": "2026-11-23T12:15:46+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Totalstopp på E4 efter olycka",
-        "summary": "Lastbil i olycka",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Total stop on E4 after accident",
-        "summary": "Lorry in accident"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T12:15:54+01:00"
       }
     }
   ]

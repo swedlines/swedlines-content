@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T14:16:22+01:00",
+  "generated_at": "2026-11-26T14:26:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "87f81c5c82cd",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=da463dc0-8b7b-4d9f-b0df-8062603150c3",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=da463dc0-8b7b-4d9f-b0df-8062603150c3",
+      "published_at": "2026-11-26T14:18:26+01:00",
+      "fetched_at": "2026-11-26T14:26:19+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisens varning – på rim",
+        "summary": "Poetiska uppmaningen: ”Låt lågan få skina”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police warning – in rhyme",
+        "summary": "Poetic appeal: \"Let the flame shine\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T14:26:28+01:00"
+      }
+    },
     {
       "id": "91ee9cde9285",
       "schema_version": 1,
@@ -5387,33 +5413,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T22:31:05+01:00"
-      }
-    },
-    {
-      "id": "0145f8b99d8f",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/411039/cyberterrorist-gripen-slog-till-mot-sverige",
-      "guid": "https://tv.aftonbladet.se/video/411039/cyberterrorist-gripen-slog-till-mot-sverige?utm_medium=rss",
-      "published_at": "2026-11-21T19:19:55+01:00",
-      "fetched_at": "2026-11-21T23:01:09+01:00",
-      "category": "crime",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/5f5642842a0be0d5dd4a7c603304df0b.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "Cyberterrorist gripen – slog till mot Sverige",
-        "summary": "Misstänkt cyberterrorist ✓ Sverige drabbat",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Cyberterrorist arrested – struck against Sweden",
-        "summary": "Suspected cyberterrorist ✓ Sweden affected"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T23:01:14+01:00"
       }
     }
   ]

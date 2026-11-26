@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T14:16:22+01:00",
+  "generated_at": "2026-11-26T14:26:30+01:00",
   "count": 30,
   "stories": [
     {
@@ -1939,6 +1939,69 @@
       ]
     },
     {
+      "id": "217d96849f07",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-26T14:21:29+01:00",
+      "last_published_at": "2026-11-26T14:24:30+01:00",
+      "lead": {
+        "id": "217d96849f07",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/nytt-besked-lattare-att-returnera-temu-paket",
+        "guid": "b2b2fb79-71d6-4fff-896a-a8e907650975",
+        "published_at": "2026-11-26T14:21:29+01:00",
+        "fetched_at": "2026-11-26T14:26:20+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/1529392b-0048-498f-8580-599cfb684084.jpg?width=600",
+        "sv": {
+          "title": "Nytt besked: Lättare att returnera Temu-paket",
+          "summary": "Det ska bli lättare för missnöjda kunder att returnera paket från kinesiska Temu. Företaget ska också sluta locka till köp med olika spel på hemsidan.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "New update: Easier to return Temu parcels",
+          "summary": "It will be easier for dissatisfied customers to return parcels from the Chinese company Temu. The company will also stop enticing purchases with various games on its website."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T14:26:28+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "dd37d08799b1",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/nytt-besked-lattare-att-returnera-temu-paket",
+          "published_at": "2026-11-26T14:24:30+01:00",
+          "sv": {
+            "title": "Nytt besked: Lättare att returnera Temu-paket"
+          },
+          "en": {
+            "title": "New update: Easier to return Temu parcels"
+          }
+        },
+        {
+          "id": "217d96849f07",
+          "source": "di",
+          "url": "https://www.di.se/live/nytt-besked-lattare-att-returnera-temu-paket",
+          "published_at": "2026-11-26T14:21:29+01:00",
+          "sv": {
+            "title": "Nytt besked: Lättare att returnera Temu-paket"
+          },
+          "en": {
+            "title": "New update: Easier to return Temu parcels"
+          }
+        }
+      ]
+    },
+    {
       "id": "f116565121bb",
       "source_count": 2,
       "sources": [
@@ -2451,68 +2514,6 @@
           },
           "en": {
             "title": "Links to criminals in state procurement"
-          }
-        }
-      ]
-    },
-    {
-      "id": "4bd2d8ea1b03",
-      "source_count": 2,
-      "sources": [
-        "sr",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-26T07:32:00+01:00",
-      "last_published_at": "2026-11-26T10:37:46+01:00",
-      "lead": {
-        "id": "4bd2d8ea1b03",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9350238",
-        "guid": "rss:sr.se/article/9350238",
-        "published_at": "2026-11-26T07:32:00+01:00",
-        "fetched_at": "2026-11-26T07:45:46+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Efter flodvågen i Nepal – nära 5 000 saknas fortfarande",
-          "summary": "Närmare 5 000 människor är fortfarande försvunna efter en av Nepals värsta översvämningskatastrofer. Regeringen har lovat ekonomisk kompensation men den har inte nått alla. Det är också oklart var de drabbade ska bo i framtiden.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "After the flood in Nepal – nearly 5,000 still missing",
-          "summary": "Nearly 5,000 people are still missing after one of Nepal's worst flood disasters. The government has promised financial compensation but it has not reached everyone. It is also unclear where those affected will live in the future."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T07:46:03+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "beeb9f8e066c",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/dJO6OX/nepal-borjar-dodforklara-tusentals-skredoffer",
-          "published_at": "2026-11-26T10:37:46+01:00",
-          "sv": {
-            "title": "Nepal börjar dödförklara tusentals skredoffer"
-          },
-          "en": {
-            "title": "Nepal begins declaring thousands of landslide victims dead"
-          }
-        },
-        {
-          "id": "4bd2d8ea1b03",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9350238",
-          "published_at": "2026-11-26T07:32:00+01:00",
-          "sv": {
-            "title": "Efter flodvågen i Nepal – nära 5 000 saknas fortfarande"
-          },
-          "en": {
-            "title": "After the flood in Nepal – nearly 5,000 still missing"
           }
         }
       ]
