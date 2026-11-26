@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-26T11:31:14+01:00",
+  "generated_at": "2026-11-26T11:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a95d62560c30",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7xNk61rVdS05bOcnJQD1Ag/jaktapp-hackad-vapenlicenser-laeckta-mycket-allvarligt",
+      "guid": "7xNk61rVdS05bOcnJQD1Ag",
+      "published_at": "2026-11-26T11:22:39+01:00",
+      "fetched_at": "2026-11-26T11:45:51+01:00",
+      "category": "science_tech",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Jaktapp hackad – vapenlicenser läckta: ”Mycket allvarligt”",
+        "summary": "Jaktappen WeHunt har upptäckt en säkerhetsbrist som gjort det möjligt för användare att komma åt andra jaktlags material. Bristen uppmärksammades och åtgärdades den 23 november. – Vi ser mycket allvarligt på det inträffade.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Hunting app hacked – gun licences leaked: “Very serious”",
+        "summary": "The hunting app WeHunt has discovered a security flaw that allowed users to access other hunting groups' material. The flaw was noticed and fixed on 23 November. – We take what happened very seriously."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T11:45:56+01:00"
+      }
+    },
     {
       "id": "d29246309666",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T11:16:04+01:00"
-      }
-    },
-    {
-      "id": "3777fc66915e",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5BlRkm6uCFUkGdfkpxpnWB/al-bara-mejri-21-misstaenks-ge-order-at-foxtrots-barnsoldater",
-      "guid": "5BlRkm6uCFUkGdfkpxpnWB",
-      "published_at": "2026-11-18T10:56:20+01:00",
-      "fetched_at": "2026-11-18T11:01:10+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Brott och straff"
-      ],
-      "sv": {
-        "title": "Al-Bara Mejri, 21, misstänks ge order åt Foxtrots barnsoldater",
-        "summary": "Ghaith, 18, sköts ihjäl på eftermiddagen den 25 mars på bussen hem från Tyresö gymnasium. Polisen har inte kunnat se att han är kopplad till kriminalitet – mordet var riktat mot en annan elev på samma skola som har en gängkriminell bror, enligt åklagaren.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Al-Bara Mejri, 21, suspected of giving orders to Foxtrot's child soldiers",
-        "summary": "Ghaith, 18, was shot dead in the afternoon of 25 March on the bus home from Tyresö upper secondary school. The police have not been able to establish that he is linked to criminality – the murder was aimed at another pupil at the same school who has a gang-criminal brother, according to the prosecutor."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T11:01:17+01:00"
       }
     }
   ]
