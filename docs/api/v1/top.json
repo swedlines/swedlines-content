@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T10:31:20+01:00",
+  "generated_at": "2026-11-26T10:45:54+01:00",
   "count": 25,
   "stories": [
     {
@@ -124,6 +124,107 @@
           },
           "en": {
             "title": "17 sailors in the water off Iceland"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6fd95f0ec79f",
+      "source_count": 5,
+      "sources": [
+        "svd",
+        "sydsvenskan",
+        "di",
+        "expressen",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-26T08:58:13+01:00",
+      "last_published_at": "2026-11-26T10:42:57+01:00",
+      "lead": {
+        "id": "6fd95f0ec79f",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg",
+        "guid": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg?utm_medium=rss",
+        "published_at": "2026-11-26T08:58:13+01:00",
+        "fetched_at": "2026-11-26T09:01:16+01:00",
+        "category": "economy",
+        "sv": {
+          "title": "Norska flygbolaget ställer in samtliga flyg",
+          "summary": "Krisande norska flygbolaget Norse ställer in samtliga flyg under torsdagen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Norwegian airline cancels all flights",
+          "summary": "The struggling Norwegian airline Norse is cancelling all flights on Thursday."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:01:21+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "ccd9918ddd41",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/3BJveA/norse-atlantic-i-akut-ekonomisk-kris-flera-flyg-installda",
+          "published_at": "2026-11-26T10:42:57+01:00",
+          "sv": {
+            "title": "Flygbolaget i kris – ställer in flyg"
+          },
+          "en": {
+            "title": "Airline in crisis – cancels flights"
+          }
+        },
+        {
+          "id": "b9df44423d20",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/norska-flygbolaget-staller-in-samtliga-flyg",
+          "published_at": "2026-11-26T10:31:01+01:00",
+          "sv": {
+            "title": "Norska flygbolaget ställer in samtliga flyg"
+          },
+          "en": {
+            "title": "Norwegian airline cancels all flights"
+          }
+        },
+        {
+          "id": "c2fef6b3d320",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/konkurshotat-flygbolag-staller-in-alla-flyg",
+          "published_at": "2026-11-26T09:19:51+01:00",
+          "sv": {
+            "title": "Konkurshotat flygbolag ställer in alla flyg"
+          },
+          "en": {
+            "title": "Bankrupt-threatened airline cancels all flights"
+          }
+        },
+        {
+          "id": "0b06185d18b1",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/norska-flygbolaget-staller-in-samtliga-flyg",
+          "published_at": "2026-11-26T08:58:16+01:00",
+          "sv": {
+            "title": "Norska flygbolaget ställer in samtliga flyg"
+          },
+          "en": {
+            "title": "Norwegian airline cancels all flights"
+          }
+        },
+        {
+          "id": "6fd95f0ec79f",
+          "source": "svd",
+          "url": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg",
+          "published_at": "2026-11-26T08:58:13+01:00",
+          "sv": {
+            "title": "Norska flygbolaget ställer in samtliga flyg"
+          },
+          "en": {
+            "title": "Norwegian airline cancels all flights"
           }
         }
       ]
@@ -1223,81 +1324,6 @@
       ]
     },
     {
-      "id": "6fd95f0ec79f",
-      "source_count": 3,
-      "sources": [
-        "svd",
-        "sydsvenskan",
-        "di"
-      ],
-      "first_published_at": "2026-11-26T08:58:13+01:00",
-      "last_published_at": "2026-11-26T09:19:51+01:00",
-      "lead": {
-        "id": "6fd95f0ec79f",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg",
-        "guid": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg?utm_medium=rss",
-        "published_at": "2026-11-26T08:58:13+01:00",
-        "fetched_at": "2026-11-26T09:01:16+01:00",
-        "category": "economy",
-        "sv": {
-          "title": "Norska flygbolaget ställer in samtliga flyg",
-          "summary": "Krisande norska flygbolaget Norse ställer in samtliga flyg under torsdagen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Norwegian airline cancels all flights",
-          "summary": "The struggling Norwegian airline Norse is cancelling all flights on Thursday."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T09:01:21+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "c2fef6b3d320",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/konkurshotat-flygbolag-staller-in-alla-flyg",
-          "published_at": "2026-11-26T09:19:51+01:00",
-          "sv": {
-            "title": "Konkurshotat flygbolag ställer in alla flyg"
-          },
-          "en": {
-            "title": "Bankrupt-threatened airline cancels all flights"
-          }
-        },
-        {
-          "id": "0b06185d18b1",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/norska-flygbolaget-staller-in-samtliga-flyg",
-          "published_at": "2026-11-26T08:58:16+01:00",
-          "sv": {
-            "title": "Norska flygbolaget ställer in samtliga flyg"
-          },
-          "en": {
-            "title": "Norwegian airline cancels all flights"
-          }
-        },
-        {
-          "id": "6fd95f0ec79f",
-          "source": "svd",
-          "url": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg",
-          "published_at": "2026-11-26T08:58:13+01:00",
-          "sv": {
-            "title": "Norska flygbolaget ställer in samtliga flyg"
-          },
-          "en": {
-            "title": "Norwegian airline cancels all flights"
-          }
-        }
-      ]
-    },
-    {
       "id": "0e9a36d1e907",
       "source_count": 3,
       "sources": [
@@ -1673,6 +1699,68 @@
       ]
     },
     {
+      "id": "4bd2d8ea1b03",
+      "source_count": 2,
+      "sources": [
+        "sr",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-26T07:32:00+01:00",
+      "last_published_at": "2026-11-26T10:37:46+01:00",
+      "lead": {
+        "id": "4bd2d8ea1b03",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9350238",
+        "guid": "rss:sr.se/article/9350238",
+        "published_at": "2026-11-26T07:32:00+01:00",
+        "fetched_at": "2026-11-26T07:45:46+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Efter flodvågen i Nepal – nära 5 000 saknas fortfarande",
+          "summary": "Närmare 5 000 människor är fortfarande försvunna efter en av Nepals värsta översvämningskatastrofer. Regeringen har lovat ekonomisk kompensation men den har inte nått alla. Det är också oklart var de drabbade ska bo i framtiden.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "After the flood in Nepal – nearly 5,000 still missing",
+          "summary": "Nearly 5,000 people are still missing after one of Nepal's worst flood disasters. The government has promised financial compensation but it has not reached everyone. It is also unclear where those affected will live in the future."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T07:46:03+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "beeb9f8e066c",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/dJO6OX/nepal-borjar-dodforklara-tusentals-skredoffer",
+          "published_at": "2026-11-26T10:37:46+01:00",
+          "sv": {
+            "title": "Nepal börjar dödförklara tusentals skredoffer"
+          },
+          "en": {
+            "title": "Nepal begins declaring thousands of landslide victims dead"
+          }
+        },
+        {
+          "id": "4bd2d8ea1b03",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9350238",
+          "published_at": "2026-11-26T07:32:00+01:00",
+          "sv": {
+            "title": "Efter flodvågen i Nepal – nära 5 000 saknas fortfarande"
+          },
+          "en": {
+            "title": "After the flood in Nepal – nearly 5,000 still missing"
+          }
+        }
+      ]
+    },
+    {
       "id": "01ec06ca11f2",
       "source_count": 2,
       "sources": [
@@ -1981,68 +2069,6 @@
           },
           "en": {
             "title": "Elon Musk gets green light for data centres in space"
-          }
-        }
-      ]
-    },
-    {
-      "id": "4e99c4e9ddf1",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "tv4"
-      ],
-      "first_published_at": "2026-11-25T20:19:00+01:00",
-      "last_published_at": "2026-11-25T22:37:01+01:00",
-      "lead": {
-        "id": "4e99c4e9ddf1",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri",
-        "guid": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri",
-        "published_at": "2026-11-25T20:19:00+01:00",
-        "fetched_at": "2026-11-25T20:31:03+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Spricka mellan C-topparna inför vägvalet: ”Slöseri”",
-          "summary": "Inom C pågår interna strider om vägvalet i regeringsfrågan. Motståndare till en Kristersson-lösning mobiliserar för ett annat alternativ – och källor varnar för en framtid med partisplittring och avhopp.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Rift between Centre Party top figures ahead of route choice: ”Waste”",
-          "summary": "Within the Centre Party, internal battles are under way over the route choice in the government question. Opponents of a Kristersson solution are mobilising for another alternative – and sources warn of a future with party splits and defections."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T20:31:22+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "eaf004f284fd",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/1NdcZxhVKDU0gevNpEBmvN/sprickan-inom-centerpartiet-kunde-inte-varit-djupare",
-          "published_at": "2026-11-25T22:37:01+01:00",
-          "sv": {
-            "title": "Sprickan i C kunde inte varit djupare"
-          },
-          "en": {
-            "title": "The rift in C could not have been deeper"
-          }
-        },
-        {
-          "id": "4e99c4e9ddf1",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri",
-          "published_at": "2026-11-25T20:19:00+01:00",
-          "sv": {
-            "title": "Spricka mellan C-topparna inför vägvalet: ”Slöseri”"
-          },
-          "en": {
-            "title": "Rift between Centre Party top figures ahead of route choice: ”Waste”"
           }
         }
       ]

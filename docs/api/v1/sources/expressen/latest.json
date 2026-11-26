@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T10:31:20+01:00",
+  "generated_at": "2026-11-26T10:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b9df44423d20",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/norska-flygbolaget-staller-in-samtliga-flyg",
+      "guid": "https://www.expressen.se/nyheter/varlden/norska-flygbolaget-staller-in-samtliga-flyg/",
+      "published_at": "2026-11-26T10:31:01+01:00",
+      "fetched_at": "2026-11-26T10:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Norska flygbolaget ställer in samtliga flyg",
+        "summary": "Det krisande norska flygbolaget Norse ställer in samtliga flyg under torsdagen, enligt ett pressmeddelande. Bolaget flyger bland annat Stockholm–Bangkok.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian airline cancels all flights",
+        "summary": "The struggling Norwegian airline Norse is cancelling all flights on Thursday, according to a press release. The airline flies, among other routes, Stockholm–Bangkok."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:45:50+01:00"
+      }
+    },
     {
       "id": "3160a7f86612",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T09:45:55+01:00"
-      }
-    },
-    {
-      "id": "caf27203c3f2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/v-ville-stoppa-utspelet-s-toppens-svar",
-      "guid": "https://www.expressen.se/nyheter/politik/v-ville-stoppa-utspelet-s-toppens-svar/",
-      "published_at": "2026-11-23T08:25:34+01:00",
-      "fetched_at": "2026-11-23T08:31:03+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "V ville stoppa utspelet – S-toppens svar",
-        "summary": "S-ledaren Magdalena Andersson gick ut i Expressen med sitt bud till Vänsterpartiet. Men innan det vädjade Vänsterpartiet till S att inte publicera debattartikeln. ”Obegripligt”, skriver Ida Gabrielsson (V) på X om S-draget.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "V wanted to stop the move – S leadership responds",
-        "summary": "S leader Magdalena Andersson went out in Expressen with her offer to the Left Party. But before that, the Left Party appealed to S not to publish the debate article. “Incomprehensible”, writes Ida Gabrielsson (V) on X about the S move."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T08:31:18+01:00"
       }
     }
   ]
