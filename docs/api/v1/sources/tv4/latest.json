@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-26T10:01:27+01:00",
+  "generated_at": "2026-11-26T10:16:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0413154a6dae",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5lM521Odngu0YHq8J7MMmI/kristersson-skyr-inte-extra-val",
+      "guid": "5lM521Odngu0YHq8J7MMmI",
+      "published_at": "2026-11-26T10:01:39+01:00",
+      "fetched_at": "2026-11-26T10:15:51+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Kristersson: ”Skyr inte extra val”",
+        "summary": "Hoppfull inför måndag • Tror på sina chanser",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson: \"Won't shy away from snap election\"",
+        "summary": "Hopeful ahead of Monday • Believes in his chances"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:16:07+01:00"
+      }
+    },
     {
       "id": "d89496b66d2f",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T10:01:25+01:00"
-      }
-    },
-    {
-      "id": "10f9d19f19f8",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5wG3eu8GIrZQGX1VSjKiS0/kycklinggryta-med-oliver-kapris-och-matvetesallad",
-      "guid": "5wG3eu8GIrZQGX1VSjKiS0",
-      "published_at": "2026-11-18T08:51:18+01:00",
-      "fetched_at": "2026-11-18T09:01:13+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Mat"
-      ],
-      "sv": {
-        "title": "Kycklinggryta med oliver, kapris och matvetesallad",
-        "summary": "Dagens middagstips bjuder på en kycklinggryta med sardeller, kapris och gröna oliver, serverad med en ljummen matvetesallad med fetaost, citron och dill. Perfekt middag när du vill ha mycket smak på tallriken! Se Stefan Ekengrens recept",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Chicken stew with olives, capers and bulgur salad",
-        "summary": "Today's dinner tip is a chicken stew with anchovies, capers and green olives, served with a lukewarm bulgur salad with feta, lemon and dill. Perfect dinner when you want lots of flavour on the plate! See Stefan Ekengren's recipe"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T09:01:20+01:00"
       }
     }
   ]

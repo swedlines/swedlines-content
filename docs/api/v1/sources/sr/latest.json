@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T10:01:27+01:00",
+  "generated_at": "2026-11-26T10:16:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "51606e104a7d",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350522",
+      "guid": "rss:sr.se/article/9350522",
+      "published_at": "2026-11-26T10:11:00+01:00",
+      "fetched_at": "2026-11-26T10:15:48+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-partistyrelse kallar till nytt möte",
+        "summary": "Centerpartiets partistyrelse har kallats till ett extrainsatt möte idag. Enligt SVT:s uppgifter ska mötet ske vid lunch och handla om huruvida det finns stöd för att partiet ska välja en ny slags Alliansregering, ledd av Kristersson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party board calls new meeting",
+        "summary": "The Centre Party's board has been called to an extra meeting today. According to SVT, the meeting is to take place at lunchtime and will address whether there is support for the party to choose a new kind of Alliance government, led by Kristersson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:16:07+01:00"
+      }
+    },
     {
       "id": "ffb8f6ef29bb",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Naila Saleem: This is why India's young are rising up",
         "summary": "India's Election Commission has struck millions of names from the country's electoral rolls, leading to large protests where people demand their voting rights be restored. But there are also several other reasons why people are demonstrating."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T17:01:35+01:00"
-      }
-    },
-    {
-      "id": "f332e3c8782d",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346474",
-      "guid": "rss:sr.se/article/9346474",
-      "published_at": "2026-11-20T16:55:00+01:00",
-      "fetched_at": "2026-11-20T17:01:21+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Demonstranter tältar i Lissabon för att protestera mot bostadskrisen",
-        "summary": "Tiotusentals portugiser har demonstrerat mot höga hyror, stigande bostadspriser och låga löner. I flera städer har demonstranter också slagit upp tältläger. Demonstranterna vill stoppa ett lagförslag som regeringen menar ska få fler bostäder att hyras ut.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Demonstrators camp in Lisbon to protest the housing crisis",
-        "summary": "Tens of thousands of Portuguese have demonstrated against high rents, rising house prices and low wages. In several cities, demonstrators have also set up tent camps. The demonstrators want to stop a bill that the government says will get more homes rented out."
       },
       "translation": {
         "status": "done",

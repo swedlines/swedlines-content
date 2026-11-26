@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T10:01:27+01:00",
-  "count": 24,
+  "generated_at": "2026-11-26T10:16:14+01:00",
+  "count": 25,
   "stories": [
     {
       "id": "bca5b56324c1",
@@ -1420,6 +1420,132 @@
       ]
     },
     {
+      "id": "4aa97b8988a1",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-26T10:10:38+01:00",
+      "last_published_at": "2026-11-26T10:10:38+01:00",
+      "lead": {
+        "id": "4aa97b8988a1",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/7P0WXo/smaorterna-blir-farre-och-storstaderna-storre",
+        "guid": "https://www.aftonbladet.se/nyheter/a/7P0WXo/smaorterna-blir-farre-och-storstaderna-storre?utm_medium=rss",
+        "published_at": "2026-11-26T10:10:38+01:00",
+        "fetched_at": "2026-11-26T10:15:50+01:00",
+        "category": "sweden",
+        "image_url": "https://akamai.vgc.no/v2/images/95b5da5f-73a5-3864-9788-16cf5cd33582?format=auto&s=37e76bfe16790227ccdd5ff720d22d3fb4a32bb3&w=1000",
+        "sv": {
+          "title": "Småorterna blir färre och storstäderna större",
+          "summary": "Antalet tätorter och småorter i Sverige blir färre, visar nya siffror från SCB.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Small localities become fewer and big cities larger",
+          "summary": "The number of urban areas and small localities in Sweden is decreasing, new figures from SCB show."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T10:16:07+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "81f8e2a19a49",
+          "source": "svd",
+          "url": "https://www.svd.se/a/GPGpzJ/smaorterna-blir-farre-och-storstaderna-storre",
+          "published_at": "2026-11-26T10:10:38+01:00",
+          "sv": {
+            "title": "Småorterna blir färre och storstäderna större"
+          },
+          "en": {
+            "title": "Small localities become fewer and big cities larger"
+          }
+        },
+        {
+          "id": "4aa97b8988a1",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/7P0WXo/smaorterna-blir-farre-och-storstaderna-storre",
+          "published_at": "2026-11-26T10:10:38+01:00",
+          "sv": {
+            "title": "Småorterna blir färre och storstäderna större"
+          },
+          "en": {
+            "title": "Small localities become fewer and big cities larger"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3b0bf2c57d8",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-26T09:21:48+01:00",
+      "last_published_at": "2026-11-26T10:06:48+01:00",
+      "lead": {
+        "id": "b3b0bf2c57d8",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/1vnKAJ/stor-explosion-i-bangkok",
+        "guid": "https://www.aftonbladet.se/nyheter/a/1vnKAJ/stor-explosion-i-bangkok?utm_medium=rss",
+        "published_at": "2026-11-26T09:21:48+01:00",
+        "fetched_at": "2026-11-26T10:01:16+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/0db0bf7d-125b-36e3-8553-c286deaa874e?format=auto&s=797e5e5beda4ac1a0f1f648a7ea2419b06ecb2ed&w=1000",
+        "sv": {
+          "title": "Stor explosion i Bangkok – invånare evakueras",
+          "summary": "Invånarna varnas",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Major explosion in Bangkok – residents evacuated",
+          "summary": "Residents are warned"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T10:01:24+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "6ffa640dd016",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/stor-explosion-i-bangkok",
+          "published_at": "2026-11-26T10:06:48+01:00",
+          "sv": {
+            "title": "Stor explosion i Bangkok"
+          },
+          "en": {
+            "title": "Major explosion in Bangkok"
+          }
+        },
+        {
+          "id": "b3b0bf2c57d8",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/1vnKAJ/stor-explosion-i-bangkok",
+          "published_at": "2026-11-26T09:21:48+01:00",
+          "sv": {
+            "title": "Stor explosion i Bangkok – invånare evakueras"
+          },
+          "en": {
+            "title": "Major explosion in Bangkok – residents evacuated"
+          }
+        }
+      ]
+    },
+    {
       "id": "25ab12ad7cdb",
       "source_count": 2,
       "sources": [
@@ -1853,105 +1979,6 @@
           },
           "en": {
             "title": "Rift between Centre Party top figures ahead of route choice: ”Waste”"
-          }
-        }
-      ]
-    },
-    {
-      "id": "75c4841be7db",
-      "source_count": 2,
-      "sources": [
-        "di",
-        "svd"
-      ],
-      "first_published_at": "2026-11-25T15:31:21+01:00",
-      "last_published_at": "2026-11-25T22:08:08+01:00",
-      "lead": {
-        "id": "75c4841be7db",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/ai-rasar-pa-knallrott-wall-street-vilt-dar-ute-nu",
-        "guid": "50d234dc-dbce-48da-ac64-e1a497e6c530",
-        "published_at": "2026-11-25T15:31:21+01:00",
-        "fetched_at": "2026-11-25T15:45:48+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/437a2488-b503-4c22-a7d5-649c25715111.jpeg?width=600",
-        "sv": {
-          "title": "AI rasar på knallrött Wall Street: ”Vilt där ute nu”",
-          "summary": "Wall Street åker på en ny kalldusch där flera AI-jättar rasar förbi förra fredagens bottennivåer. ”Det är ganska vilt där ute just nu och riskviljan har försvunnit igen”, säger Deutsche Banks makroanalyschef Jim Reid till Financial Times.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "AI stocks plunge on deep-red Wall Street: “Wild out there now”",
-          "summary": "Wall Street is taking another cold shower as several AI giants fall past last Friday's lows. “It's quite wild out there right now and risk appetite has disappeared again,” says Deutsche Bank's macro analysis chief Jim Reid to the Financial Times."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T15:46:04+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "f3816c420cb5",
-          "source": "di",
-          "url": "https://www.di.se/live/wall-street-aterhamtade-stora-delar-av-tappet",
-          "published_at": "2026-11-25T22:08:08+01:00",
-          "sv": {
-            "title": "Wall Street återhämtade stora delar av tappet"
-          },
-          "en": {
-            "title": "Wall Street recovers most of its losses"
-          }
-        },
-        {
-          "id": "f39eca24c802",
-          "source": "di",
-          "url": "https://www.di.se/live/stark-aterhamtning-pa-wall-street",
-          "published_at": "2026-11-25T20:31:31+01:00",
-          "sv": {
-            "title": "Stark återhämtning på Wall Street"
-          },
-          "en": {
-            "title": "Strong recovery on Wall Street"
-          }
-        },
-        {
-          "id": "fef9bfa48b82",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80310",
-          "published_at": "2026-11-25T17:09:43+01:00",
-          "sv": {
-            "title": "Nya AI-fall på Wall Street"
-          },
-          "en": {
-            "title": "New AI cases on Wall Street"
-          }
-        },
-        {
-          "id": "b74dbb09ccac",
-          "source": "di",
-          "url": "https://www.di.se/live/stockholmsborsen-tyngs-av-ai-raset-pa-wall-street",
-          "published_at": "2026-11-25T15:53:56+01:00",
-          "sv": {
-            "title": "Stockholmsbörsen tyngs av AI-raset på Wall Street"
-          },
-          "en": {
-            "title": "Stockholm stock exchange weighed down by AI sell-off on Wall Street"
-          }
-        },
-        {
-          "id": "75c4841be7db",
-          "source": "di",
-          "url": "https://www.di.se/live/ai-rasar-pa-knallrott-wall-street-vilt-dar-ute-nu",
-          "published_at": "2026-11-25T15:31:21+01:00",
-          "sv": {
-            "title": "AI rasar på knallrött Wall Street: ”Vilt där ute nu”"
-          },
-          "en": {
-            "title": "AI stocks plunge on deep-red Wall Street: “Wild out there now”"
           }
         }
       ]

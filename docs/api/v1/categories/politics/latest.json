@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-26T10:01:27+01:00",
+  "generated_at": "2026-11-26T10:16:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "51606e104a7d",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350522",
+      "guid": "rss:sr.se/article/9350522",
+      "published_at": "2026-11-26T10:11:00+01:00",
+      "fetched_at": "2026-11-26T10:15:48+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-partistyrelse kallar till nytt möte",
+        "summary": "Centerpartiets partistyrelse har kallats till ett extrainsatt möte idag. Enligt SVT:s uppgifter ska mötet ske vid lunch och handla om huruvida det finns stöd för att partiet ska välja en ny slags Alliansregering, ledd av Kristersson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party board calls new meeting",
+        "summary": "The Centre Party's board has been called to an extra meeting today. According to SVT, the meeting is to take place at lunchtime and will address whether there is support for the party to choose a new kind of Alliance government, led by Kristersson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:16:07+01:00"
+      }
+    },
+    {
+      "id": "0413154a6dae",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5lM521Odngu0YHq8J7MMmI/kristersson-skyr-inte-extra-val",
+      "guid": "5lM521Odngu0YHq8J7MMmI",
+      "published_at": "2026-11-26T10:01:39+01:00",
+      "fetched_at": "2026-11-26T10:15:51+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Kristersson: ”Skyr inte extra val”",
+        "summary": "Hoppfull inför måndag • Tror på sina chanser",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson: \"Won't shy away from snap election\"",
+        "summary": "Hopeful ahead of Monday • Believes in his chances"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:16:07+01:00"
+      }
+    },
     {
       "id": "82a358783b1c",
       "schema_version": 1,
@@ -5320,59 +5375,6 @@
       "en": {
         "title": "Confirmed: Here are the politicians who will run Lund – and those who will oppose them",
         "summary": "The Moderates take over the chair of the committee responsible for Lund's compulsory schools and preschools. M also keeps the leading post at the scandal-hit company LKP, but Mats Helmfrid is replaced by a party colleague. All of Lund's municipal companies are to be led by men. Here are those who get key assignments in Lund politics."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:16:06+01:00"
-      }
-    },
-    {
-      "id": "128132127b08",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/nu-bor-magdalena-anderssons-ledarskap-ifragasattas",
-      "guid": "https://www.dn.se/insandare/nu-bor-magdalena-anderssons-ledarskap-ifragasattas/",
-      "published_at": "2026-11-24T14:09:28+01:00",
-      "fetched_at": "2026-11-24T14:15:48+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/1b4a746a-632e-444b-af8a-4708bc1d8f22.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Nu bör Magdalena Anderssons ledarskap ifrågasättas",
-        "summary": "INSÄNDARE. Vi som röstade för förändring riskerar nu ytterligare fyra år med högerstyre. Om förhandlingarna med V, MP och C kollapsar bör Magdalena Andersson och de andra ansvariga i S-ledningen fråga sig om de fortfarande är rätt personer att leda partiet, skriver den tidigare S-riksdagsledamoten…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Letter. Now Magdalena Andersson's leadership should be questioned",
-        "summary": "LETTER. We who voted for change risk another four years of right-wing rule. If negotiations with V, MP and C collapse, Magdalena Andersson and the others responsible in the S leadership should ask themselves whether they are still the right people to lead the party, writes the former S Riksdag member…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:16:06+01:00"
-      }
-    },
-    {
-      "id": "8331940cdf6c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/s-tappar-m-snart-ikapp",
-      "guid": "https://www.expressen.se/nyheter/politik/s-tappar-m-snart-ikapp/",
-      "published_at": "2026-11-24T14:03:57+01:00",
-      "fetched_at": "2026-11-24T14:15:50+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "S tappar – M snart ikapp",
-        "summary": "Moderaterna får sin högsta notering på åtta år i DN/Ipsos opinionsundersökning. Samtidigt fortsätter Socialdemokraterna att tappa – tillsammans med Centerpartiet. – Centerpartiet har satt sig i en väldigt svår sits, säger Nicklas Källebring vid Ipsos till DN.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "S falling – M soon catching up",
-        "summary": "The Moderates get their highest rating in eight years in the DN/Ipsos opinion poll. At the same time the Social Democrats continue to fall, together with the Centre Party. – The Centre Party has got itself into a very difficult situation, says Nicklas Källebring at Ipsos to DN."
       },
       "translation": {
         "status": "done",

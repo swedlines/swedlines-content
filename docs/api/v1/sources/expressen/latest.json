@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T10:01:27+01:00",
+  "generated_at": "2026-11-26T10:16:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6ffa640dd016",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/stor-explosion-i-bangkok",
+      "guid": "https://www.expressen.se/nyheter/varlden/stor-explosion-i-bangkok/",
+      "published_at": "2026-11-26T10:06:48+01:00",
+      "fetched_at": "2026-11-26T10:15:51+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Stor explosion i Bangkok",
+        "summary": "En stor explosion har inträffat vid en oljedepå i Bangkok. Boende i området evakueras och svart rök sprider sig över den Thailändska huvudstaden.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major explosion in Bangkok",
+        "summary": "A major explosion has occurred at an oil depot in Bangkok. Residents in the area are being evacuated and black smoke is spreading over the Thai capital."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:16:07+01:00"
+      }
+    },
     {
       "id": "dbfe12f1aff8",
       "schema_version": 1,
@@ -5161,32 +5187,6 @@
       "en": {
         "title": "Accident on E4",
         "summary": "Truck is facing the wrong way"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T08:01:25+01:00"
-      }
-    },
-    {
-      "id": "634935cd4993",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2cf35a4f-dc87-42d7-a1ed-43dafff3543a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2cf35a4f-dc87-42d7-a1ed-43dafff3543a",
-      "published_at": "2026-11-23T07:47:23+01:00",
-      "fetched_at": "2026-11-23T08:01:15+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Trippla olyckor på E4",
-        "summary": "Halt i trafiken",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Triple accidents on E4",
-        "summary": "Slippery traffic"
       },
       "translation": {
         "status": "done",

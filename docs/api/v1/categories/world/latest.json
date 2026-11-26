@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-26T10:01:27+01:00",
+  "generated_at": "2026-11-26T10:16:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6ffa640dd016",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/stor-explosion-i-bangkok",
+      "guid": "https://www.expressen.se/nyheter/varlden/stor-explosion-i-bangkok/",
+      "published_at": "2026-11-26T10:06:48+01:00",
+      "fetched_at": "2026-11-26T10:15:51+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Stor explosion i Bangkok",
+        "summary": "En stor explosion har inträffat vid en oljedepå i Bangkok. Boende i området evakueras och svart rök sprider sig över den Thailändska huvudstaden.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major explosion in Bangkok",
+        "summary": "A major explosion has occurred at an oil depot in Bangkok. Residents in the area are being evacuated and black smoke is spreading over the Thai capital."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:16:07+01:00"
+      }
+    },
+    {
+      "id": "255cd0c0877e",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/EbW63A/sverige-ansluter-till-globalt-havsavtal",
+      "guid": "https://www.aftonbladet.se/nyheter/a/EbW63A/sverige-ansluter-till-globalt-havsavtal?utm_medium=rss",
+      "published_at": "2026-11-26T10:06:22+01:00",
+      "fetched_at": "2026-11-26T10:15:50+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/0fbed8c6-9177-3bd4-8cf4-dff3977d901f?format=auto&s=dde8b10286dc2108bda30141bbf5c33aa18038c4&w=1000",
+      "sv": {
+        "title": "Sverige ansluter till globalt havsavtal",
+        "summary": "Sverige ansluter sig till FN:s globala havsavtal till skydd för biologisk mångfald…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sweden joins global ocean agreement",
+        "summary": "Sweden is joining the UN's global ocean agreement for the protection of biological diversity…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:16:07+01:00"
+      }
+    },
     {
       "id": "ffb8f6ef29bb",
       "schema_version": 1,
@@ -5284,60 +5337,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T11:31:16+01:00"
-      }
-    },
-    {
-      "id": "2746f8276933",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/z0GBew/manga-israeliska-soldater-soker-stod-for-ptsd",
-      "guid": "https://www.aftonbladet.se/nyheter/a/z0GBew/manga-israeliska-soldater-soker-stod-for-ptsd?utm_medium=rss",
-      "published_at": "2026-11-24T10:24:02+01:00",
-      "fetched_at": "2026-11-24T10:31:01+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/5a84cc0a-5a5f-3de1-b2d3-6ef787be72c9?format=auto&s=2a82b2e2f7ee9b424ffea7cdcdac5a67986577b0&w=1000",
-      "sv": {
-        "title": "Många israeliska soldater söker stöd för ptsd",
-        "summary": "Drygt 19 000 israeliska soldater har sökt hjälp för psykiska besvär genom försvarsdepartementet…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Many Israeli soldiers seek help for PTSD",
-        "summary": "Just over 19,000 Israeli soldiers have sought help for psychological problems through the defence ministry…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T10:31:08+01:00"
-      }
-    },
-    {
-      "id": "465f820d762b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ARd1Q5/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ARd1Q5/rapport-fem-kvinnor-i-timmen-dodas-av-en-anhorig?utm_medium=rss",
-      "published_at": "2026-11-24T10:07:25+01:00",
-      "fetched_at": "2026-11-24T10:15:46+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/2216072f-d74c-350f-baae-12b681590d78?format=auto&s=2a97a56b1cb9d597671d2678a9c65f788cdd2145&w=1000",
-      "sv": {
-        "title": "Rapport: Fem kvinnor i timmen dödas av en anhörig",
-        "summary": "2025 dödades 47 000 kvinnor av sin partner eller en nära anhörig, enligt FN-siffror.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Report: Five women an hour killed by a relative",
-        "summary": "In 2025, 47,000 women were killed by their partner or a close relative, according to UN figures."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T10:16:00+01:00"
       }
     }
   ]
