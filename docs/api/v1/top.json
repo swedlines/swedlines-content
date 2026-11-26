@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T20:31:05+01:00",
+  "generated_at": "2026-11-26T20:45:56+01:00",
   "count": 30,
   "stories": [
     {
@@ -2068,6 +2068,80 @@
       ]
     },
     {
+      "id": "d536142df81a",
+      "source_count": 2,
+      "sources": [
+        "sr",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-26T16:52:00+01:00",
+      "last_published_at": "2026-11-26T20:34:34+01:00",
+      "lead": {
+        "id": "d536142df81a",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9351018",
+        "guid": "rss:sr.se/article/9351018",
+        "published_at": "2026-11-26T16:52:00+01:00",
+        "fetched_at": "2026-11-26T17:01:14+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Gissén: Majoriteten inom C är för Kristersson-spåret",
+          "summary": "I dag torsdag möts Centerpartiet, där partistyrelsen och riksdagsgruppen deltar, för att besluta om ödesvalet som partiet står inför i regeringsbildningen.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Gissén: Majority within the Centre Party favours the Kristersson track",
+          "summary": "Today, Thursday, the Centre Party meets, with its party board and parliamentary group taking part, to decide on the fateful choice the party faces in the government formation."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T17:01:25+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "87b61126c019",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/skansk-centertopp-om-sitt-livs-svaraste-politiska-beslut-ratt-for-sverige",
+          "published_at": "2026-11-26T20:34:34+01:00",
+          "sv": {
+            "title": "Skånsk Centertopp om sitt livs svåraste politiska beslut – ”rätt för Sverige”"
+          },
+          "en": {
+            "title": "Skåne Centre Party top on his life's toughest political decision – \"right for Sweden\""
+          }
+        },
+        {
+          "id": "60a3db489739",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351126",
+          "published_at": "2026-11-26T19:49:00+01:00",
+          "sv": {
+            "title": "Gissén: ”Ett omvälvande beslut för Centerpartiet”"
+          },
+          "en": {
+            "title": "Gissén: “A momentous decision for the Centre Party”"
+          }
+        },
+        {
+          "id": "d536142df81a",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351018",
+          "published_at": "2026-11-26T16:52:00+01:00",
+          "sv": {
+            "title": "Gissén: Majoriteten inom C är för Kristersson-spåret"
+          },
+          "en": {
+            "title": "Gissén: Majority within the Centre Party favours the Kristersson track"
+          }
+        }
+      ]
+    },
+    {
       "id": "078953f4dc47",
       "source_count": 2,
       "sources": [
@@ -2732,68 +2806,6 @@
           },
           "en": {
             "title": "Teenagers charged with murder face twelve years in prison"
-          }
-        }
-      ]
-    },
-    {
-      "id": "5d1e00c10c38",
-      "source_count": 2,
-      "sources": [
-        "sr",
-        "svd"
-      ],
-      "first_published_at": "2026-11-26T11:34:00+01:00",
-      "last_published_at": "2026-11-26T12:57:27+01:00",
-      "lead": {
-        "id": "5d1e00c10c38",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9350612",
-        "guid": "rss:sr.se/article/9350612",
-        "published_at": "2026-11-26T11:34:00+01:00",
-        "fetched_at": "2026-11-26T11:45:49+01:00",
-        "category": "culture",
-        "sv": {
-          "title": "Inget får glömmas när Operan flyttar – ”enormt mycket prylar”",
-          "summary": "Den här veckan sjungs sista arian på Kungliga Operan vid Gustav Adolfs torg i Stockholm, inför flytten till tillfälliga lokaler i Norra Djurgårdsstaden. En historisk flytt ur 1400 rum som har sina utmaningar, säger operans VD Fredrik Lindgren.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Nothing may be forgotten as the Opera moves – “enormous amounts of props”",
-          "summary": "This week the last aria is sung at the Royal Opera on Gustav Adolfs torg in Stockholm, ahead of the move to temporary premises in Norra Djurgårdsstaden. A historic move out of 1,400 rooms that has its challenges, says Opera CEO Fredrik Lindgren."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T11:45:56+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "8b52e54b001d",
-          "source": "svd",
-          "url": "https://www.svd.se/a/kMJ2LL/hart-tryck-pa-operan-infor-det-stora-avskedet",
-          "published_at": "2026-11-26T12:57:27+01:00",
-          "sv": {
-            "title": "Hårt tryck på Operan inför det stora avskedet"
-          },
-          "en": {
-            "title": "Heavy rush at the Opera ahead of the big farewell"
-          }
-        },
-        {
-          "id": "5d1e00c10c38",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9350612",
-          "published_at": "2026-11-26T11:34:00+01:00",
-          "sv": {
-            "title": "Inget får glömmas när Operan flyttar – ”enormt mycket prylar”"
-          },
-          "en": {
-            "title": "Nothing may be forgotten as the Opera moves – “enormous amounts of props”"
           }
         }
       ]
