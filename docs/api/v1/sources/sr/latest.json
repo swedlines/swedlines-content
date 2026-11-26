@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T19:31:28+01:00",
+  "generated_at": "2026-11-26T19:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eb7f4797a2a2",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351056",
+      "guid": "rss:sr.se/article/9351056",
+      "published_at": "2026-11-26T19:33:00+01:00",
+      "fetched_at": "2026-11-26T19:45:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Rysk attackvåg hotar: ”Vill vakna när det är över”",
+        "summary": "Ukraina uppger att man genomfört nya attacker inne i Ryssland, bland annat mot en flygbas och en oljeanläggning. Zelenskyj varnar för en ny rysk attackvåg mot energiförsörjning, transporter och annan kritisk infrastruktur, och efterlyser fler luftvärnsrobotar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Russian attack wave looms: \"Want to wake up when it's over\"",
+        "summary": "Ukraine says it has carried out new attacks inside Russia, including against an air base and an oil facility. Zelenskyy warns of a new Russian attack wave against energy supply, transport and other critical infrastructure, and calls for more air defence missiles."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:45:53+01:00"
+      }
+    },
     {
       "id": "04e0e941b3b0",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T04:31:02+01:00"
-      }
-    },
-    {
-      "id": "6caefcda2c4d",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347232",
-      "guid": "rss:sr.se/article/9347232",
-      "published_at": "2026-11-21T03:00:00+01:00",
-      "fetched_at": "2026-11-21T03:15:41+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Staten vinnare på högre elpriser: ”Välkomna inkomster”",
-        "summary": "Både elpriset och elnätsavgifterna kan komma att höjas de kommande veckorna. ”Det är åt helvete”, säger Göran i Borgholm. Vinnaren är staten. För högre priser och avgifter betyder högre momsintäkter.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "State a winner as electricity prices rise: \"Welcome income\"",
-        "summary": "Both the electricity price and grid fees may rise in the coming weeks. \"It's bloody awful,\" says Göran in Borgholm. The winner is the state. Higher prices and fees mean higher VAT revenue."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T03:15:50+01:00"
       }
     }
   ]

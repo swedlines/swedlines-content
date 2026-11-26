@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T19:31:28+01:00",
+  "generated_at": "2026-11-26T19:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ec4b5e1101c2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/engla-nilsson-missar-hela-inomhussasongen",
+      "guid": "6ad479ac-3b0d-4da3-a13a-474b35a515c5",
+      "published_at": "2026-11-26T19:44:17+01:00",
+      "fetched_at": "2026-11-26T19:45:49+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/d90a563d-79c5-4e99-be76-256d8551b1c9.jpg?width=600",
+      "sv": {
+        "title": "Engla Nilsson missar hela inomhussäsongen",
+        "summary": "Höjdhopparen Engla Nilsson missar hela inomhussäsongen till följd av en skada, skriver hon på Instagram.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Engla Nilsson misses the entire indoor season",
+        "summary": "High jumper Engla Nilsson misses the entire indoor season due to an injury, she writes on Instagram."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:45:53+01:00"
+      }
+    },
     {
       "id": "f8233367453a",
       "schema_version": 1,
@@ -5555,40 +5582,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T13:01:21+01:00"
-      }
-    },
-    {
-      "id": "03456a3b763a",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/gais/gais-basen-stefan-tilk-inom-tre-ar-ska-vi-ha-vunnit-sm-guld.d3d7b3a4-41cc-57f9-82b1-1cf4568d3489",
-      "guid": "d3d7b3a4-41cc-57f9-82b1-1cf4568d3489",
-      "published_at": "2026-11-20T10:43:58+01:00",
-      "fetched_at": "2026-11-20T11:01:13+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Gais",
-        "Tagg: Stefan Tilk",
-        "Tagg: Gais",
-        "Tagg: Magnus Sköldmark",
-        "Tagg: Fredrik Holmberg"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/3b04edac-cd69-375b-902c-bf75ca9ac074",
-      "sv": {
-        "title": "Gais-pampens kaxiga utspel: ”SM-guld inom tre år”",
-        "summary": "Löfter för framtiden: ”Då är vi tillbaka”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Gais boss's cheeky statement: “Swedish championship gold within three years”",
-        "summary": "Promises for the future: “Then we are back.”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:01:27+01:00"
       }
     }
   ]
