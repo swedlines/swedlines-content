@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T19:45:56+01:00",
+  "generated_at": "2026-11-26T20:01:26+01:00",
   "count": 200,
   "items": [
     {
@@ -58,6 +58,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T16:31:09+01:00"
+      }
+    },
+    {
+      "id": "892db1a16a21",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/tt-261126-elnatsavgift1-edc98c32/vattenfall-hojer-elnatsavgiften-igen",
+      "guid": "tt-261126-elnatsavgift1-edc98c32",
+      "published_at": "2026-11-26T15:14:57+01:00",
+      "fetched_at": "2026-11-26T20:01:16+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Privatekonomi"
+      ],
+      "sv": {
+        "title": "Vattenfall höjer elnätsavgiften igen – så mycket mer får du betala",
+        "summary": "Enligt Vattenfall kommer såväl fasta som rörliga avgifter att höjas vid årsskiftet, vilket för en lägenhetskund innebär omkring 14 kronor mer i månaden och för en villakund som värmer huset helt eller delvis med el, omkring 68 kronor mer i månaden.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Vattenfall raises grid fee again – here is how much more you will pay",
+        "summary": "According to Vattenfall, both fixed and variable fees will rise at the turn of the year, which for an apartment customer means about 14 kronor more per month and for a house customer who heats the home wholly or partly with electricity, about 68 kronor more per month."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T20:01:23+01:00"
       }
     },
     {
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T16:16:01+01:00"
-      }
-    },
-    {
-      "id": "6af851ed948e",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/47Autf56IgjOr5RkL29Voe/oecd-kritisk-mot-svensk-bistandreform",
-      "guid": "47Autf56IgjOr5RkL29Voe",
-      "published_at": "2026-11-18T15:05:45+01:00",
-      "fetched_at": "2026-11-18T15:15:45+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "OECD kritisk mot svensk biståndreform",
-        "summary": "Sverige har i internationella sammanhang setts som en stark aktör för bistånd och utveckling. Enligt en ny rapport av OECD (organisationen för ekonomiskt samarbete och utveckling), var Sverige det första landet i världen som nådde FN:s mål, att 0,7 % av BNI ska gå till utvecklingsbistånd.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "OECD critical of Swedish aid reform",
-        "summary": "Sweden has internationally been seen as a strong actor in aid and development. According to a new OECD (Organisation for Economic Co-operation and Development) report, Sweden was the first country in the world to reach the UN target of 0.7% of GNI going to development aid."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T15:15:52+01:00"
       }
     }
   ]

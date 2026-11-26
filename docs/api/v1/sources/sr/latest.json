@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T19:45:56+01:00",
+  "generated_at": "2026-11-26T20:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "60a3db489739",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351126",
+      "guid": "rss:sr.se/article/9351126",
+      "published_at": "2026-11-26T19:49:00+01:00",
+      "fetched_at": "2026-11-26T20:01:13+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Gissén: ”Ett omvälvande beslut för Centerpartiet”",
+        "summary": "Centerpartiet vill ingå i en fyrpartiregering ledd av Ulf Kristersson, men förtroenderådet måste först säga ja. ”I teorin kan beslut ändras där, sen är det få som tror att det blir så.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Gissén: “A momentous decision for the Centre Party”",
+        "summary": "The Centre Party wants to join a four-party government led by Ulf Kristersson, but the trust council must first say yes. “In theory the decision can be changed there, but few believe it will be."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T20:01:23+01:00"
+      }
+    },
     {
       "id": "eb7f4797a2a2",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T06:45:50+01:00"
-      }
-    },
-    {
-      "id": "1b606fd3d2ff",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347583",
-      "guid": "rss:sr.se/article/9347583",
-      "published_at": "2026-11-21T04:16:00+01:00",
-      "fetched_at": "2026-11-21T04:30:56+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "CNN: FBI har hackade igen – databaser angripna",
-        "summary": "I USA har en av den federala polisen FBI:s databaser hackats. Källor uppger för CNN att intrånget riktats mot en databas med brottsregister och efterlysningar, något som FBI inte bekräftat. Det är andra gången på en månad som den avdelningen inom FBI hackats.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "CNN: FBI hacked again – databases attacked",
-        "summary": "In the US, one of the federal police agency FBI's databases has been hacked. Sources tell CNN that the intrusion targeted a database of criminal records and wanted persons, something the FBI has not confirmed. It is the second time in a month that this FBI division has been hacked."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T04:31:02+01:00"
       }
     }
   ]

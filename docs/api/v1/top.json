@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T19:45:56+01:00",
+  "generated_at": "2026-11-26T20:01:26+01:00",
   "count": 30,
   "stories": [
     {
       "id": "4181c790877f",
-      "source_count": 7,
+      "source_count": 8,
       "sources": [
         "svt",
         "gp",
@@ -12,10 +12,11 @@
         "expressen",
         "dn",
         "aftonbladet",
-        "di"
+        "di",
+        "sydsvenskan"
       ],
       "first_published_at": "2026-11-26T12:20:22+01:00",
-      "last_published_at": "2026-11-26T19:34:20+01:00",
+      "last_published_at": "2026-11-26T19:52:01+01:00",
       "lead": {
         "id": "4181c790877f",
         "schema_version": 1,
@@ -43,6 +44,18 @@
         }
       },
       "items": [
+        {
+          "id": "bad74a138632",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/statsvetaren-c-riskerar-svekdebatt-oavsett",
+          "published_at": "2026-11-26T19:52:01+01:00",
+          "sv": {
+            "title": "Statsvetaren: C riskerar svekdebatt oavsett"
+          },
+          "en": {
+            "title": "Political scientist: C risks a betrayal debate regardless"
+          }
+        },
         {
           "id": "f29e8794603e",
           "source": "svd",
@@ -814,6 +827,107 @@
       ]
     },
     {
+      "id": "0645cad11f96",
+      "source_count": 5,
+      "sources": [
+        "sr",
+        "tv4",
+        "svd",
+        "di",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-26T15:04:00+01:00",
+      "last_published_at": "2026-11-26T15:22:14+01:00",
+      "lead": {
+        "id": "0645cad11f96",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9350859",
+        "guid": "rss:sr.se/article/9350859",
+        "published_at": "2026-11-26T15:04:00+01:00",
+        "fetched_at": "2026-11-26T15:15:49+01:00",
+        "category": "economy",
+        "sv": {
+          "title": "Elnätsavgiften höjs för nära 900 000 hushåll och företag",
+          "summary": "Vattenfall eldistribution höjer elnätsavgiften nästa år med i snitt fem procent för omkring 900 000 hushåll och företag i Sverige. Det uppger bolaget för Ekot. Bolaget hänvisar till högre kostnader för investeringar i elnäten.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Grid fee rises for nearly 900,000 households and businesses",
+          "summary": "Vattenfall Eldistribution is raising its grid fee next year by an average of five percent for around 900,000 households and businesses in Sweden. The company tells Ekot. The company points to higher costs for investments in the electricity grids."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T15:15:57+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "0fa50b536dc8",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2f1532ae-5c9d-438d-8261-086bd19b6fa9",
+          "published_at": "2026-11-26T15:22:14+01:00",
+          "sv": {
+            "title": "Vattenfalls höjer priset för 900 000 hushåll"
+          },
+          "en": {
+            "title": "Vattenfall raises price for 900,000 households"
+          }
+        },
+        {
+          "id": "aa66b5b058ce",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/mitt-i-elchocken-jatten-hojer-elnatsavgifterna",
+          "published_at": "2026-11-26T15:21:38+01:00",
+          "sv": {
+            "title": "Mitt i elchocken: Jätten höjer elnätsavgifterna"
+          },
+          "en": {
+            "title": "Amid electricity shock: Giant raises grid fees"
+          }
+        },
+        {
+          "id": "82470f1500cd",
+          "source": "svd",
+          "url": "https://www.svd.se/a/mMRXR4/vattenfall-hojer-elnatsavgiften",
+          "published_at": "2026-11-26T15:15:05+01:00",
+          "sv": {
+            "title": "Vattenfall höjer elnätsavgiften"
+          },
+          "en": {
+            "title": "Vattenfall raises grid fee"
+          }
+        },
+        {
+          "id": "892db1a16a21",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/tt-261126-elnatsavgift1-edc98c32/vattenfall-hojer-elnatsavgiften-igen",
+          "published_at": "2026-11-26T15:14:57+01:00",
+          "sv": {
+            "title": "Vattenfall höjer elnätsavgiften igen – så mycket mer får du betala"
+          },
+          "en": {
+            "title": "Vattenfall raises grid fee again – here is how much more you will pay"
+          }
+        },
+        {
+          "id": "0645cad11f96",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9350859",
+          "published_at": "2026-11-26T15:04:00+01:00",
+          "sv": {
+            "title": "Elnätsavgiften höjs för nära 900 000 hushåll och företag"
+          },
+          "en": {
+            "title": "Grid fee rises for nearly 900,000 households and businesses"
+          }
+        }
+      ]
+    },
+    {
       "id": "25ab12ad7cdb",
       "source_count": 5,
       "sources": [
@@ -1000,94 +1114,6 @@
           },
           "en": {
             "title": "Trump to Putin: End all aggression in Europe"
-          }
-        }
-      ]
-    },
-    {
-      "id": "0645cad11f96",
-      "source_count": 4,
-      "sources": [
-        "sr",
-        "svd",
-        "di",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-26T15:04:00+01:00",
-      "last_published_at": "2026-11-26T15:22:14+01:00",
-      "lead": {
-        "id": "0645cad11f96",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9350859",
-        "guid": "rss:sr.se/article/9350859",
-        "published_at": "2026-11-26T15:04:00+01:00",
-        "fetched_at": "2026-11-26T15:15:49+01:00",
-        "category": "economy",
-        "sv": {
-          "title": "Elnätsavgiften höjs för nära 900 000 hushåll och företag",
-          "summary": "Vattenfall eldistribution höjer elnätsavgiften nästa år med i snitt fem procent för omkring 900 000 hushåll och företag i Sverige. Det uppger bolaget för Ekot. Bolaget hänvisar till högre kostnader för investeringar i elnäten.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Grid fee rises for nearly 900,000 households and businesses",
-          "summary": "Vattenfall Eldistribution is raising its grid fee next year by an average of five percent for around 900,000 households and businesses in Sweden. The company tells Ekot. The company points to higher costs for investments in the electricity grids."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T15:15:57+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "0fa50b536dc8",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2f1532ae-5c9d-438d-8261-086bd19b6fa9",
-          "published_at": "2026-11-26T15:22:14+01:00",
-          "sv": {
-            "title": "Vattenfalls höjer priset för 900 000 hushåll"
-          },
-          "en": {
-            "title": "Vattenfall raises price for 900,000 households"
-          }
-        },
-        {
-          "id": "aa66b5b058ce",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/mitt-i-elchocken-jatten-hojer-elnatsavgifterna",
-          "published_at": "2026-11-26T15:21:38+01:00",
-          "sv": {
-            "title": "Mitt i elchocken: Jätten höjer elnätsavgifterna"
-          },
-          "en": {
-            "title": "Amid electricity shock: Giant raises grid fees"
-          }
-        },
-        {
-          "id": "82470f1500cd",
-          "source": "svd",
-          "url": "https://www.svd.se/a/mMRXR4/vattenfall-hojer-elnatsavgiften",
-          "published_at": "2026-11-26T15:15:05+01:00",
-          "sv": {
-            "title": "Vattenfall höjer elnätsavgiften"
-          },
-          "en": {
-            "title": "Vattenfall raises grid fee"
-          }
-        },
-        {
-          "id": "0645cad11f96",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9350859",
-          "published_at": "2026-11-26T15:04:00+01:00",
-          "sv": {
-            "title": "Elnätsavgiften höjs för nära 900 000 hushåll och företag"
-          },
-          "en": {
-            "title": "Grid fee rises for nearly 900,000 households and businesses"
           }
         }
       ]
@@ -1359,6 +1385,118 @@
       ]
     },
     {
+      "id": "b3b0bf2c57d8",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "expressen",
+        "di"
+      ],
+      "first_published_at": "2026-11-26T09:21:48+01:00",
+      "last_published_at": "2026-11-26T19:57:31+01:00",
+      "lead": {
+        "id": "b3b0bf2c57d8",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/1vnKAJ/stor-explosion-i-bangkok",
+        "guid": "https://www.aftonbladet.se/nyheter/a/1vnKAJ/stor-explosion-i-bangkok?utm_medium=rss",
+        "published_at": "2026-11-26T09:21:48+01:00",
+        "fetched_at": "2026-11-26T10:01:16+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/0db0bf7d-125b-36e3-8553-c286deaa874e?format=auto&s=797e5e5beda4ac1a0f1f648a7ea2419b06ecb2ed&w=1000",
+        "sv": {
+          "title": "Stor explosion i Bangkok – invånare evakueras",
+          "summary": "Invånarna varnas",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Major explosion in Bangkok – residents evacuated",
+          "summary": "Residents are warned"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T10:01:24+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "c5ccdc568c39",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/r8ABJR/dodlig-attack-mot-saudiskt-oljeraffinaderi",
+          "published_at": "2026-11-26T19:57:31+01:00",
+          "sv": {
+            "title": "Dödlig attack mot saudiskt oljeraffinaderi"
+          },
+          "en": {
+            "title": "Fatal attack on Saudi oil refinery"
+          }
+        },
+        {
+          "id": "6461838017a4",
+          "source": "aftonbladet",
+          "url": "https://tv.aftonbladet.se/video/411288",
+          "published_at": "2026-11-26T10:26:41+01:00",
+          "sv": {
+            "title": "Stor explosion i Bangkok"
+          },
+          "en": {
+            "title": "Major explosion in Bangkok"
+          }
+        },
+        {
+          "id": "54e4a54f6de1",
+          "source": "di",
+          "url": "https://www.di.se/live/stor-explosion-vid-oljeraffinaderi-flera-skadade",
+          "published_at": "2026-11-26T10:23:17+01:00",
+          "sv": {
+            "title": "Stor explosion vid oljeraffinaderi – flera skadade"
+          },
+          "en": {
+            "title": "Major explosion at oil refinery – several injured"
+          }
+        },
+        {
+          "id": "ff7226869f84",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/KL3oE4/bangkok-flera-kritiskt-skadade-efter-oljeexplosion",
+          "published_at": "2026-11-26T10:19:59+01:00",
+          "sv": {
+            "title": "Bangkok: Flera kritiskt skadade efter oljeexplosion"
+          },
+          "en": {
+            "title": "Bangkok: Several critically injured after oil explosion"
+          }
+        },
+        {
+          "id": "6ffa640dd016",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/stor-explosion-i-bangkok",
+          "published_at": "2026-11-26T10:06:48+01:00",
+          "sv": {
+            "title": "Stor explosion i Bangkok"
+          },
+          "en": {
+            "title": "Major explosion in Bangkok"
+          }
+        },
+        {
+          "id": "b3b0bf2c57d8",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/1vnKAJ/stor-explosion-i-bangkok",
+          "published_at": "2026-11-26T09:21:48+01:00",
+          "sv": {
+            "title": "Stor explosion i Bangkok – invånare evakueras"
+          },
+          "en": {
+            "title": "Major explosion in Bangkok – residents evacuated"
+          }
+        }
+      ]
+    },
+    {
       "id": "60b3851d6893",
       "source_count": 3,
       "sources": [
@@ -1591,106 +1729,6 @@
           },
           "en": {
             "title": "Billion-kronor order for BAE Systems Hägglunds"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b3b0bf2c57d8",
-      "source_count": 3,
-      "sources": [
-        "aftonbladet",
-        "expressen",
-        "di"
-      ],
-      "first_published_at": "2026-11-26T09:21:48+01:00",
-      "last_published_at": "2026-11-26T10:26:41+01:00",
-      "lead": {
-        "id": "b3b0bf2c57d8",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/1vnKAJ/stor-explosion-i-bangkok",
-        "guid": "https://www.aftonbladet.se/nyheter/a/1vnKAJ/stor-explosion-i-bangkok?utm_medium=rss",
-        "published_at": "2026-11-26T09:21:48+01:00",
-        "fetched_at": "2026-11-26T10:01:16+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/0db0bf7d-125b-36e3-8553-c286deaa874e?format=auto&s=797e5e5beda4ac1a0f1f648a7ea2419b06ecb2ed&w=1000",
-        "sv": {
-          "title": "Stor explosion i Bangkok – invånare evakueras",
-          "summary": "Invånarna varnas",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Major explosion in Bangkok – residents evacuated",
-          "summary": "Residents are warned"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T10:01:24+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "6461838017a4",
-          "source": "aftonbladet",
-          "url": "https://tv.aftonbladet.se/video/411288",
-          "published_at": "2026-11-26T10:26:41+01:00",
-          "sv": {
-            "title": "Stor explosion i Bangkok"
-          },
-          "en": {
-            "title": "Major explosion in Bangkok"
-          }
-        },
-        {
-          "id": "54e4a54f6de1",
-          "source": "di",
-          "url": "https://www.di.se/live/stor-explosion-vid-oljeraffinaderi-flera-skadade",
-          "published_at": "2026-11-26T10:23:17+01:00",
-          "sv": {
-            "title": "Stor explosion vid oljeraffinaderi – flera skadade"
-          },
-          "en": {
-            "title": "Major explosion at oil refinery – several injured"
-          }
-        },
-        {
-          "id": "ff7226869f84",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/KL3oE4/bangkok-flera-kritiskt-skadade-efter-oljeexplosion",
-          "published_at": "2026-11-26T10:19:59+01:00",
-          "sv": {
-            "title": "Bangkok: Flera kritiskt skadade efter oljeexplosion"
-          },
-          "en": {
-            "title": "Bangkok: Several critically injured after oil explosion"
-          }
-        },
-        {
-          "id": "6ffa640dd016",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/stor-explosion-i-bangkok",
-          "published_at": "2026-11-26T10:06:48+01:00",
-          "sv": {
-            "title": "Stor explosion i Bangkok"
-          },
-          "en": {
-            "title": "Major explosion in Bangkok"
-          }
-        },
-        {
-          "id": "b3b0bf2c57d8",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/1vnKAJ/stor-explosion-i-bangkok",
-          "published_at": "2026-11-26T09:21:48+01:00",
-          "sv": {
-            "title": "Stor explosion i Bangkok – invånare evakueras"
-          },
-          "en": {
-            "title": "Major explosion in Bangkok – residents evacuated"
           }
         }
       ]
@@ -2090,6 +2128,71 @@
           },
           "en": {
             "title": "Thousands of Swedes at risk of drug dependence"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d9d2b33a2235",
+      "source_count": 2,
+      "sources": [
+        "tv4",
+        "gp"
+      ],
+      "first_published_at": "2026-11-26T13:52:49+01:00",
+      "last_published_at": "2026-11-26T19:35:40+01:00",
+      "lead": {
+        "id": "d9d2b33a2235",
+        "schema_version": 1,
+        "source": "tv4",
+        "url": "https://www.tv4.se/artikel/2PsvmJe4rihgg7tqIW2hfR/mellostjaernan-stal-bild-pa-sig-sjaelv-fick-tusentals-i-boeter",
+        "guid": "2PsvmJe4rihgg7tqIW2hfR",
+        "published_at": "2026-11-26T13:52:49+01:00",
+        "fetched_at": "2026-11-26T14:01:26+01:00",
+        "category": "culture",
+        "feed_categories": [
+          "Nöje"
+        ],
+        "sv": {
+          "title": "Mellostjärnan stal bild på sig själv – fick tusentals i böter",
+          "summary": "På Facebook delade artisten Robin Bengtsson en bild på sig själv från Melodifestivalens efterfest i Sundsvall. Det skulle visa sig bli ett dyrt misstag. Trots att det var en bild på honom själv var den inte hans att dela vidare.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Melodifestivalen Star Stole Picture of Himself – Fined Thousands",
+          "summary": "On Facebook, the artist Robin Bengtsson shared a picture of himself from the Melodifestivalen after-party in Sundsvall. It turned out to be an expensive mistake. Even though it was a picture of him, it was not his to share further."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T14:01:33+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "598626eb5e9f",
+          "source": "gp",
+          "url": "https://www.gp.se/kultur/robin-bengtssons-miss-fick-boter-for-bild-pa-sig-sjalv.5af8cf12-5fe6-5265-81ea-3d64ca9601d5",
+          "published_at": "2026-11-26T19:35:40+01:00",
+          "sv": {
+            "title": "Stjärnan får böter – efter bild på sig själv"
+          },
+          "en": {
+            "title": "Star fined – after picture of himself"
+          }
+        },
+        {
+          "id": "d9d2b33a2235",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/2PsvmJe4rihgg7tqIW2hfR/mellostjaernan-stal-bild-pa-sig-sjaelv-fick-tusentals-i-boeter",
+          "published_at": "2026-11-26T13:52:49+01:00",
+          "sv": {
+            "title": "Mellostjärnan stal bild på sig själv – fick tusentals i böter"
+          },
+          "en": {
+            "title": "Melodifestivalen Star Stole Picture of Himself – Fined Thousands"
           }
         }
       ]
@@ -2693,68 +2796,6 @@
           },
           "en": {
             "title": "Teenagers charged with murder face twelve years in prison"
-          }
-        }
-      ]
-    },
-    {
-      "id": "5d1e00c10c38",
-      "source_count": 2,
-      "sources": [
-        "sr",
-        "svd"
-      ],
-      "first_published_at": "2026-11-26T11:34:00+01:00",
-      "last_published_at": "2026-11-26T12:57:27+01:00",
-      "lead": {
-        "id": "5d1e00c10c38",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9350612",
-        "guid": "rss:sr.se/article/9350612",
-        "published_at": "2026-11-26T11:34:00+01:00",
-        "fetched_at": "2026-11-26T11:45:49+01:00",
-        "category": "culture",
-        "sv": {
-          "title": "Inget får glömmas när Operan flyttar – ”enormt mycket prylar”",
-          "summary": "Den här veckan sjungs sista arian på Kungliga Operan vid Gustav Adolfs torg i Stockholm, inför flytten till tillfälliga lokaler i Norra Djurgårdsstaden. En historisk flytt ur 1400 rum som har sina utmaningar, säger operans VD Fredrik Lindgren.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Nothing may be forgotten as the Opera moves – “enormous amounts of props”",
-          "summary": "This week the last aria is sung at the Royal Opera on Gustav Adolfs torg in Stockholm, ahead of the move to temporary premises in Norra Djurgårdsstaden. A historic move out of 1,400 rooms that has its challenges, says Opera CEO Fredrik Lindgren."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T11:45:56+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "8b52e54b001d",
-          "source": "svd",
-          "url": "https://www.svd.se/a/kMJ2LL/hart-tryck-pa-operan-infor-det-stora-avskedet",
-          "published_at": "2026-11-26T12:57:27+01:00",
-          "sv": {
-            "title": "Hårt tryck på Operan inför det stora avskedet"
-          },
-          "en": {
-            "title": "Heavy rush at the Opera ahead of the big farewell"
-          }
-        },
-        {
-          "id": "5d1e00c10c38",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9350612",
-          "published_at": "2026-11-26T11:34:00+01:00",
-          "sv": {
-            "title": "Inget får glömmas när Operan flyttar – ”enormt mycket prylar”"
-          },
-          "en": {
-            "title": "Nothing may be forgotten as the Opera moves – “enormous amounts of props”"
           }
         }
       ]
