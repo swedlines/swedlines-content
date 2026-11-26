@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T13:04:42+01:00",
+  "generated_at": "2026-11-26T13:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "696febb6821f",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350634",
+      "guid": "rss:sr.se/article/9350634",
+      "published_at": "2026-11-26T13:11:00+01:00",
+      "fetched_at": "2026-11-26T13:15:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Dödliga attacker i Gaza – samtidigt varnas för epidemi",
+        "summary": "Minst nio palestinier har dödats i israeliska attacker i Gaza sedan i natt, bland dem Hamasstyrets biträdande utbildningsminister och hans fru. Den senaste veckan har flera attacker riktats mot personer inom Hamasstyrets civila förvaltning och även krävt andra civila liv.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Deadly Attacks in Gaza – Epidemic Warning Issued at the Same Time",
+        "summary": "At least nine Palestinians have been killed in Israeli attacks in Gaza since last night, among them the deputy education minister of the Hamas government and his wife. Over the past week, several attacks have targeted people within the Hamas government's civil administration and have also killed other civilians."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:15:53+01:00"
+      }
+    },
     {
       "id": "090feeb2f3f2",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T21:01:22+01:00"
-      }
-    },
-    {
-      "id": "bafd7d5ae7e5",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347171",
-      "guid": "rss:sr.se/article/9347171",
-      "published_at": "2026-11-20T20:39:00+01:00",
-      "fetched_at": "2026-11-20T20:45:46+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Så gör du om du blivit lurad",
-        "summary": "Agera så fort du märker att du blivit lurad, säger Christine Fransholm på Sveriges konsumenter. Om du inte fått beställd vara behöver du klaga skriftligt till företaget. Hör mer om hur du ska gå tillväga om du ångrar ett köp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "What to do if you've been scammed",
-        "summary": "Act as soon as you notice you've been scammed, says Christine Fransholm at Sveriges konsumenter. If you have not received the ordered goods, you need to complain in writing to the company. Read more about how to proceed if you regret a purchase."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T20:45:55+01:00"
       }
     }
   ]
