@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T06:31:17+01:00",
+  "generated_at": "2026-11-26T06:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cefb60db47ac",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/ARdn43/makens-jobb-i-forsvarsmakten-laser-upp-livet-for-matilda-42",
+      "guid": "https://www.aftonbladet.se/nyheter/a/ARdn43/makens-jobb-i-forsvarsmakten-laser-upp-livet-for-matilda-42?utm_medium=rss",
+      "published_at": "2026-11-26T06:42:50+01:00",
+      "fetched_at": "2026-11-26T06:45:52+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/4de7e48b-f6f6-3a5e-a7ca-19b0e7a51cbf?format=auto&s=324492625a5d2a9bfd89401fedea6eba97e74cef&w=1000",
+      "sv": {
+        "title": "Matilda sköter hemmet när maken försvarar Sverige",
+        "summary": "Fick tacka nej till topptjänst ✓ ”Alltid nåbar”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Matilda takes care of the home while her husband defends Sweden",
+        "summary": "Turned down a top job ✓ “Always reachable”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:45:58+01:00"
+      }
+    },
     {
       "id": "91c1aa563be8",
       "schema_version": 1,
@@ -5665,33 +5692,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T14:15:53+01:00"
-      }
-    },
-    {
-      "id": "1261fc32349f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/timbuktus-megakonsert-ar-lysande-men-alldeles-for-lang",
-      "guid": "fafd9eb2-e4e5-45f5-92e3-4ad39f0610eb",
-      "published_at": "2026-11-22T13:07:36+01:00",
-      "fetched_at": "2026-11-22T13:15:49+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/3128b27e-ef96-4834-9c95-d6bda4ae7a1d.jpeg?width=600",
-      "sv": {
-        "title": "Timbuktus megakonsert är lysande – men alldeles för lång",
-        "summary": "Timbuktus största konsert någonsin är ett tre och en halv timme långt kärleksbrev till Skåne. Men trots gästspel från Sveriges hiphopelit och en svängig andra halva med Damn! på scenen tappar publiken till slut orken.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Timbuktu's mega concert is brilliant – but far too long",
-        "summary": "Timbuktu's biggest concert ever is a three and a half hour long love letter to Skåne. But despite guest appearances from Sweden's hip-hop elite and a swinging second half with Damn! on stage, the audience eventually runs out of energy."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T13:15:53+01:00"
       }
     }
   ]
