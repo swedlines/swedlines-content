@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T14:46:00+01:00",
+  "generated_at": "2026-11-26T15:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a6365b2ffd0e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/turistens-angestdrag-blir-kaos-direkt",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/turistens-angestdrag-blir-kaos-direkt",
+      "published_at": "2026-11-26T14:51:29+01:00",
+      "fetched_at": "2026-11-26T15:01:14+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Turistens ångestdrag – blir kaos direkt",
+        "summary": "Ger sig ut på bron i chilenska nationalparken – borde ha låtit bli",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tourist's panic move – chaos immediately",
+        "summary": "Heads out onto the bridge in the Chilean national park – should have stayed away"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:01:26+01:00"
+      }
+    },
     {
       "id": "510d127c3cdf",
       "schema_version": 1,
@@ -5297,33 +5323,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T18:31:07+01:00"
-      }
-    },
-    {
-      "id": "1370fa89f28d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/nal-och-trad-ar-vart-fredliga-motstand",
-      "guid": "d4e6b6b4-2ebd-46b4-a949-563a95ba20de",
-      "published_at": "2026-11-24T17:30:00+01:00",
-      "fetched_at": "2026-11-24T17:31:00+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/50d883e7-7c41-4c22-af81-5af624e2dd19.jpeg?width=600",
-      "sv": {
-        "title": "”Nål och tråd är vårt fredliga motstånd”",
-        "summary": "Fönsterkarmen i syateljén på Folkets hus på Rosengård är full av färdiga tygdockor. En av dem saknar ben – precis som barn i Gaza stympas av bomber, förklarar Kristina Längby. Här träffas ett femtontal kvinnor för att sy och dela sorgen över vad som händer i Gaza.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "”Needle and thread are our peaceful resistance”",
-        "summary": "The window frame in the sewing studio at Folkets hus in Rosengård is full of finished cloth dolls. One of them has no legs – just as children in Gaza are maimed by bombs, explains Kristina Längby. Here about fifteen women gather to sew and share their grief over what is happening in Gaza."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T17:31:10+01:00"
       }
     }
   ]

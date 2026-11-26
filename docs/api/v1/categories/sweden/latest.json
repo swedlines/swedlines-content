@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-26T14:46:00+01:00",
+  "generated_at": "2026-11-26T15:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5843aa0f6d4b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/pMLwQ1/krisen-for-europeisk-bilindustri-kan-sla-mot-resandet-i-sverige",
+      "guid": "https://www.svd.se/a/pMLwQ1/krisen-for-europeisk-bilindustri-kan-sla-mot-resandet-i-sverige?utm_medium=rss",
+      "published_at": "2026-11-26T14:59:35+01:00",
+      "fetched_at": "2026-11-26T15:01:14+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/3ded3ad5-b49a-3464-98cf-d738f4b703fc?format=auto&s=b729472123f9fbe5112f759cb002033ab3b01899&w=1000",
+      "sv": {
+        "title": "Trafikverket varnar: väg och järnväg allt dyrare",
+        "summary": "Elbilar gör resandet billigare • Säkerhetshoten ökar kostnaderna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Transport Administration warns: roads and railways increasingly expensive",
+        "summary": "Electric cars make travel cheaper • Security threats are increasing costs"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:01:26+01:00"
+      }
+    },
+    {
+      "id": "15f9a95d5123",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Oypw9b/utdomda-katolska-skolan-i-goteborg-kan-raddas",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Oypw9b/utdomda-katolska-skolan-i-goteborg-kan-raddas?utm_medium=rss",
+      "published_at": "2026-11-26T14:49:41+01:00",
+      "fetched_at": "2026-11-26T15:01:14+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/2afa3cc1-9338-3a62-a301-3418a72b4a37?format=auto&s=e31be05d92da87cba5aacf5dced421ba42b0c915&w=1000",
+      "sv": {
+        "title": "De tar över utdömd Göteborgsskola",
+        "summary": "Räddning nära för 350 elever på Göteborgsskola",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "They take over condemned Göteborg school",
+        "summary": "Rescue near for 350 pupils at Göteborg school"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:01:26+01:00"
+      }
+    },
     {
       "id": "8704d4f5dc94",
       "schema_version": 1,
@@ -5443,59 +5497,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T18:01:21+01:00"
-      }
-    },
-    {
-      "id": "3854b387874b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/fjarrvarmeavbrott-i-hela-gavle",
-      "guid": "https://www.expressen.se/nyheter/sverige/fjarrvarmeavbrott-i-hela-gavle/",
-      "published_at": "2026-11-22T17:32:37+01:00",
-      "fetched_at": "2026-11-22T17:45:42+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Fjärrvärmeavbrott i hela Gävle",
-        "summary": "Hela Gävle har drabbats av problem med fjärrvärmen. Driftstörningen kan påverka både värme och varmvatten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "District heating outage across all of Gävle",
-        "summary": "All of Gävle has been affected by problems with district heating. The operational disruption may affect both heating and hot water."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T17:45:48+01:00"
-      }
-    },
-    {
-      "id": "3c4ac5e4b927",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/motor/har-testas-en-vatgasdriven-plogbil",
-      "guid": "https://www.dn.se/motor/har-testas-en-vatgasdriven-plogbil/",
-      "published_at": "2026-11-22T17:16:17+01:00",
-      "fetched_at": "2026-11-22T17:30:59+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/69f2101b-dcc3-482c-8847-670f3672bef5.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Här testas en vätgasdriven plogbil",
-        "summary": "I vinter ska för första gången en bränslecellsdriven plogbil testas i skarpt läge efter upphandlingskrav från Trafikverket. Snöröjningen sker runt Borlänge där Maserfrakt har en vätgasmack. – Viktigt att testa vätgas på riktigt, säger Tony Sandberg på Scania som levererat plogbilen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here a hydrogen-powered snowplough is being tested",
-        "summary": "This winter a fuel-cell-powered snowplough is to be tested in real conditions for the first time, following procurement requirements from the Transport Administration. Snow clearing takes place around Borlänge, where Maserfrakt has a hydrogen station. – It is important to test hydrogen for real, says Tony Sandberg at Scania, which supplied the snowplough."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T17:31:08+01:00"
       }
     }
   ]
