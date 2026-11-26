@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-26T21:10:03+01:00",
+  "generated_at": "2026-11-26T21:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "643b83423ff8",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7MrwJJ9iWuSp5d8d43V6o5/140-000-pensionaerer-kan-missa-tusentals-kronor-i-bidrag",
+      "guid": "7MrwJJ9iWuSp5d8d43V6o5",
+      "published_at": "2026-11-26T21:12:44+01:00",
+      "fetched_at": "2026-11-26T21:15:47+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Bostadstillägg"
+      ],
+      "sv": {
+        "title": "140 000 pensionärer kan missa tusentals kronor i bidrag",
+        "summary": "Bostadstillägget är ett skattefritt stöd från staten för pensionärer med låga inkomster och höga boendekostnader. Men långt ifrån alla som har rätt till pengarna söker stödet. Enligt beräkningar som Hyresgästföreningen och PRO är det en stor del av pensionärerna som går miste om bostadstillägget.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "140,000 pensioners may miss thousands of kronor in benefits",
+        "summary": "The housing supplement is a tax-free state support for pensioners with low incomes and high housing costs. But far from all those entitled to the money apply for the support. According to calculations by the Tenants' Association and PRO, a large share of pensioners miss out on the housing supplement."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T21:15:52+01:00"
+      }
+    },
     {
       "id": "d27172f0c72e",
       "schema_version": 1,
@@ -5245,33 +5274,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T07:15:55+01:00"
-      }
-    },
-    {
-      "id": "db4b77482d87",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nvidia-stoppar-leveranser-till-flera-lander-i-asien",
-      "guid": "aaff7193-3c14-498e-85de-3644eff287d8",
-      "published_at": "2026-11-26T06:52:39+01:00",
-      "fetched_at": "2026-11-26T07:00:18+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a78802d5-94fb-4e95-9c41-d3c0b86c0be7.jpeg?width=600",
-      "sv": {
-        "title": "Nvidia stoppar leveranser till flera länder i Asien",
-        "summary": "Nvidia stoppar partners från att leverera servrar med Nvidiachip till flera sydostasiatiska länder, enligt uppgifter till Financial Times.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nvidia halts deliveries to several countries in Asia",
-        "summary": "Nvidia is stopping partners from delivering servers with Nvidia chips to several Southeast Asian countries, according to information given to the Financial Times."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T07:00:25+01:00"
       }
     }
   ]
