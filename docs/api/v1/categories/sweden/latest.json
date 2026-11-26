@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T10:53:28+01:00",
+  "generated_at": "2026-11-26T11:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e161afb59040",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/77-ariga-yvonne-bad-om-hjalp-med-julpynt-far-vanta-i-tva-veckor",
+      "guid": "addfa05e-e423-4126-b372-13af80ce7fdf",
+      "published_at": "2026-11-26T11:00:00+01:00",
+      "fetched_at": "2026-11-26T11:01:23+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/3496c2bf-46cb-45a3-8223-8da3daf349b8.jpeg?width=600",
+      "sv": {
+        "title": "77-åriga Yvonne bad om hjälp med julpynt – får vänta i två veckor",
+        "summary": "Yvonne Lindström, 77, behövde hjälp att hämta en låda med julpynt från vinden. När hon kontaktade kommunens hemmafixare fick hon beskedet att hon måste vänta i över två veckor. – Det är tråkigt, säger hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "77-year-old Yvonne asked for help with Christmas decorations – has to wait two weeks",
+        "summary": "Yvonne Lindström, 77, needed help bringing down a box of Christmas decorations from the attic. When she contacted the municipality's handyman service, she was told she would have to wait more than two weeks. – It's sad, she says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T11:01:26+01:00"
+      }
+    },
     {
       "id": "3160a7f86612",
       "schema_version": 1,
@@ -5475,33 +5502,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T07:45:45+01:00"
-      }
-    },
-    {
-      "id": "fe8abc4f7409",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/har-ar-fordomarna-som-moter-skaningarna-som-lever-med-hiv-i-dag",
-      "guid": "d9b7b9ae-2345-47e2-900e-e1c2bc1474b8",
-      "published_at": "2026-11-22T06:00:00+01:00",
-      "fetched_at": "2026-11-22T06:01:15+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/0f912ac7-a26a-406a-94fe-4acd167d6e0f.jpeg?width=600",
-      "sv": {
-        "title": "Här är fördomarna som möter skåningarna som lever med hiv i dag",
-        "summary": "Runt 9 000 människor lever med hiv i Sverige idag. Det är fler än någonsin. Men trots att nya läkemedel helt förändrat vad diagnosen innebär så lever fördomar och rädsla kvar. Vi pratade med Joost, Victor och Fatu om att leva med hiv.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here are the prejudices facing Skåne residents living with HIV today",
-        "summary": "Around 9,000 people live with HIV in Sweden today. That is more than ever. But although new medicines have completely changed what the diagnosis means, prejudice and fear remain. We spoke with Joost, Victor and Fatu about living with HIV."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T06:01:20+01:00"
       }
     }
   ]

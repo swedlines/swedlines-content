@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T10:53:28+01:00",
+  "generated_at": "2026-11-26T11:01:29+01:00",
   "count": 200,
   "items": [
     {
@@ -80,6 +80,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T10:31:14+01:00"
+      }
+    },
+    {
+      "id": "01779eec4765",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/KL3oR5/datalacka-hos-jaktapp",
+      "guid": "https://www.aftonbladet.se/nyheter/a/KL3oR5/datalacka-hos-jaktapp?utm_medium=rss",
+      "published_at": "2026-11-26T08:41:13+01:00",
+      "fetched_at": "2026-11-26T11:01:20+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/ae538f69-be4c-315d-8af1-9f9e06b4726c?format=auto&s=ae855940028495af39f538db4f284c3984f5bb7e&w=1000",
+      "sv": {
+        "title": "Hackerattack mot jaktapp – vapenlicenser har läckt",
+        "summary": "”Mycket allvarligt”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hacker attack on hunting app – gun licences have leaked",
+        "summary": "“Very serious”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T11:01:26+01:00"
       }
     },
     {
@@ -5405,32 +5432,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T13:15:56+01:00"
-      }
-    },
-    {
-      "id": "37b7b6c0bfbf",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/byggarbetare-korde-full-i-skelleftea-krockade-med-elskap",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/byggarbetare-korde-full-i-skelleftea-krockade-med-elskap",
-      "published_at": "2026-11-21T12:57:09+01:00",
-      "fetched_at": "2026-11-21T13:01:09+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Byggarbetare körde full i Skellefteå – krockade med elskåp",
-        "summary": "Mannen var nära att köra av vägen med skåpbilen två gånger – tillslut körde han in i ett elskåp i Skellefteå. När han stoppades hade han 2,42 promille i blodet. Nu döms han för grovt rattfylleri.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Construction worker drove drunk in Skellefteå – crashed into electricity cabinet",
-        "summary": "The man nearly drove the van off the road twice before finally driving into an electricity cabinet in Skellefteå. When he was stopped he had 2.42 per mille alcohol in his blood. He is now convicted of aggravated drink-driving."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T13:01:30+01:00"
       }
     }
   ]
