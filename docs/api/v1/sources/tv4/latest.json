@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-26T06:04:24+01:00",
+  "generated_at": "2026-11-26T06:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "68febc927a0e",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2DCUrINsVf5s9kYDque9in/chauffoer-rattsurfade-i-tio-minuter-med-fullsatt-buss",
+      "guid": "2DCUrINsVf5s9kYDque9in",
+      "published_at": "2026-11-26T06:14:40+01:00",
+      "fetched_at": "2026-11-26T06:15:44+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Chaufför rattsurfade i tio minuter – med fullsatt buss",
+        "summary": "Anita Spaak åker nästintill dagligen med Jönköpings länstrafiks bussar från sitt hem i Brandstorp i Habo kommun. Under sina år som bussresenär har hon otaliga gånger sett chaufförer prata i telefon eller surfa på mobilen under färden.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Bus driver browsed on phone at the wheel for ten minutes – with a full bus",
+        "summary": "Anita Spaak rides Jönköpings länstrafik buses almost daily from her home in Brandstorp in Habo municipality. During her years as a bus passenger, she has countless times seen drivers talking on the phone or browsing on their mobile during the journey."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:15:55+01:00"
+      }
+    },
     {
       "id": "eaf004f284fd",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T21:45:53+01:00"
-      }
-    },
-    {
-      "id": "f0a39ed1475a",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2X8OIBB8BphvTJiubI53R6/ai-datacenter-slaepper-ut-lika-mycket-som-hela-danmark",
-      "guid": "2X8OIBB8BphvTJiubI53R6",
-      "published_at": "2026-11-17T21:04:44+01:00",
-      "fetched_at": "2026-11-17T21:16:04+01:00",
-      "category": "science_tech",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "AI-datacenter släpper ut lika mycket som hela Danmark",
-        "summary": "Att processa AI-data kräver stora mängder el, och skapar stora utsläpp. En ny studie från Harvard, där man har gått igenom de 403 största datacentren i USA, visar att de under ett år släppte ut omkring 25,7 miljoner ton koldioxid.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "AI data centres emit as much as all of Denmark",
-        "summary": "Processing AI data requires large amounts of electricity and creates significant emissions. A new study from Harvard, which examined the 403 largest data centres in the US, shows that they emitted around 25.7 million tonnes of carbon dioxide over one year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T21:16:10+01:00"
       }
     }
   ]
