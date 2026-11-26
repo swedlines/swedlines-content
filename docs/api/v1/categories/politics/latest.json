@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T11:46:00+01:00",
+  "generated_at": "2026-11-26T12:01:40+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "feea0eeb67d2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/baudin-i-internt-mejl-forbered-er-for-extraval",
+      "guid": "https://www.expressen.se/nyheter/politik/baudin-i-internt-mejl-forbered-er-for-extraval/",
+      "published_at": "2026-11-26T11:54:07+01:00",
+      "fetched_at": "2026-11-26T12:01:21+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Baudin i internt mejl: Förbered er för extraval",
+        "summary": "Socialdemokraterna förbereder sig för ett extraval om Ulf Kristersson får bilda regering. I ett internt mejl som Expressen tagit del av uppmanar partisekreteraren Tobias Baudin till höjd beredskap. ”Vi följer utvecklingen noga”, skriver han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Baudin in internal email: Prepare for snap election",
+        "summary": "The Social Democrats are preparing for a snap election if Ulf Kristersson gets to form a government. In an internal email seen by Expressen, party secretary Tobias Baudin calls for high alert. \"We are following developments closely,\" he writes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T12:01:36+01:00"
+      }
+    },
     {
       "id": "a9356328515b",
       "schema_version": 1,
@@ -5362,30 +5388,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T15:31:10+01:00"
-      }
-    },
-    {
-      "id": "2b02b413a1bc",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/c-kan-ocksa-gora-som-sd",
-      "guid": "ad24abcf-72d3-4adf-a52f-d12cae5b2456",
-      "published_at": "2026-11-24T15:12:28+01:00",
-      "fetched_at": "2026-11-24T15:15:51+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/13c2b3d0-6a89-4579-b9e9-323c83075e88.jpeg?width=600",
-      "sv": {
-        "title": "C kan också göra som SD"
-      },
-      "en": {
-        "title": "C can also do as SD"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T15:15:56+01:00"
       }
     }
   ]
