@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T18:45:50+01:00",
+  "generated_at": "2026-11-26T18:58:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0269cefaf2a7",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-26-november-3",
+      "guid": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-26-november-3/",
+      "published_at": "2026-11-26T18:53:19+01:00",
+      "fetched_at": "2026-11-26T18:58:12+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/86e46845-58d9-4543-9e67-a08bf76aee89.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Noterat av DN:s läsare den 26 november",
+        "summary": "INSÄNDARE. Dagens Nyheters läsare ger sin syn på läget i Sverige och världen samt DN:s innehåll torsdagen den 25 november.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letters. Noted by DN readers on 26 November",
+        "summary": "LETTERS. Readers of Dagens Nyheter give their views on the situation in Sweden and the world, and on DN's content, Thursday 25 November."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T18:58:22+01:00"
+      }
+    },
     {
       "id": "d9008263ee99",
       "schema_version": 1,
@@ -5499,33 +5526,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T10:45:55+01:00"
-      }
-    },
-    {
-      "id": "2f3bd619b22d",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/forenta-nationerna-bor-styra-pa-manen",
-      "guid": "https://www.dn.se/insandare/forenta-nationerna-bor-styra-pa-manen/",
-      "published_at": "2026-11-17T10:30:03+01:00",
-      "fetched_at": "2026-11-17T10:30:57+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/4fefbcf3-31bd-41cc-a333-97b25c69aeff.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Förenta nationerna bör styra på månen",
-        "summary": "INSÄNDARE. Uppbyggnaden av en permanent bemannad rymdbas kan få människan att tänka på annat än konflikterna mellan nationer. Det är dags för politikerna att börja agera för att månen och dess användning regleras av ett organ underställt FN, skriver Dag Lindgren.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letter. The United Nations should govern the Moon",
-        "summary": "LETTER. The build-up of a permanent manned space base may make people think about something other than conflicts between nations. It is time for politicians to start acting so that the Moon and its use are regulated by a body under the UN, writes Dag Lindgren."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T10:31:17+01:00"
       }
     }
   ]

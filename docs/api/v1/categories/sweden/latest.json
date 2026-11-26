@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-26T18:45:50+01:00",
+  "generated_at": "2026-11-26T18:58:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "672a9abafbe0",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/darfor-knackar-polisen-dorr-i-vastsverige.396bbd47-2839-50e5-8331-986d76e1f943",
+      "guid": "396bbd47-2839-50e5-8331-986d76e1f943",
+      "published_at": "2026-11-26T18:38:25+01:00",
+      "fetched_at": "2026-11-26T18:58:16+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Krim",
+        "Tagg: Brott och straff",
+        "Tagg: Polisen",
+        "Tagg: Ge mig kunskap - BEHOV"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/babf4d25-c919-3309-8c32-8ef85c9e42de",
+      "sv": {
+        "title": "Därför kan polisen knacka på hemma hos dig",
+        "summary": "”Att man lägger sig i kan rädda någons liv”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is why the police may knock on your door",
+        "summary": "\"Getting involved can save someone's life\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T18:58:22+01:00"
+      }
+    },
     {
       "id": "f6a7012c3965",
       "schema_version": 1,
@@ -5449,32 +5482,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T06:56:44+01:00"
-      }
-    },
-    {
-      "id": "268b7746619e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/har-far-vanvardad-ponny-i-sundsvall-nytt-hem-hos-maggan",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/har-far-vanvardad-ponny-i-sundsvall-nytt-hem-hos-maggan",
-      "published_at": "2026-11-23T05:30:01+01:00",
-      "fetched_at": "2026-11-23T08:31:00+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Här får vanvårdad ponny i Sundsvall nytt hem hos Maggan och Neelia",
-        "summary": "Nio veckor har gjort underverk. Den treårige lille hingsten Ed var en av ponnyerna som vanvårdats hos en hästägare i Sundsvallstrakten. Nu mår han som en prins på Näsets ridcenter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mistreated pony in Sundsvall finds new home with Maggan and Neelia",
-        "summary": "Nine weeks have worked wonders. The three-year-old stallion Ed was one of the ponies mistreated by a horse owner in the Sundsvall area. Now he is living like a prince at Näset riding centre."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T08:31:18+01:00"
       }
     }
   ]
