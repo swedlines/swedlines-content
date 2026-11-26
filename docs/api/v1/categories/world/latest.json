@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-26T01:01:18+01:00",
+  "generated_at": "2026-11-26T01:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8e04e582feb0",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350341",
+      "guid": "rss:sr.se/article/9350341",
+      "published_at": "2026-11-26T01:11:00+01:00",
+      "fetched_at": "2026-11-26T01:15:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Sjödrama utanför Island – 17 personer hamnade i vattnet",
+        "summary": "Utanför Islands nordöstra kust pågick under gårdagskvällen ett sjödrama efter att ett fiskefartyg sjunkit och samtliga 17 i besättningen hamnat i vattnet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Sea drama off Iceland – 17 people end up in the water",
+        "summary": "Off Iceland's northeastern coast, a sea drama unfolded yesterday evening after a fishing vessel sank and all 17 crew members ended up in the water."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T01:15:52+01:00"
+      }
+    },
+    {
+      "id": "f36566d05e44",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/fartyg-i-sjonod-utanfor-island",
+      "guid": "https://www.dn.se/varlden/fartyg-i-sjonod-utanfor-island/",
+      "published_at": "2026-11-26T01:09:28+01:00",
+      "fetched_at": "2026-11-26T01:15:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fartyg i sjönöd utanför Island",
+        "summary": "Ett fiskefartyg med en besättning på 17 personer hamnade under onsdagseftermiddagen i sjönöd utanför Islands kust, rapporterar det isländska public service-bolaget Rúv.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Vessel in distress off Iceland",
+        "summary": "A fishing vessel with a crew of 17 got into distress off Iceland's coast on Wednesday afternoon, reports the Icelandic public service broadcaster Rúv."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T01:15:52+01:00"
+      }
+    },
     {
       "id": "47c252ba4fb5",
       "schema_version": 1,
@@ -5302,58 +5354,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T20:31:03+01:00"
-      }
-    },
-    {
-      "id": "db82489a8dc5",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/islamiska-forbundet-i-sverige-terrorstamplat-i-egypten",
-      "guid": "https://www.expressen.se/nyheter/sverige/islamiska-forbundet-i-sverige-terrorstamplat-i-egypten/",
-      "published_at": "2026-11-23T19:23:08+01:00",
-      "fetched_at": "2026-11-23T19:30:15+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Islamiska förbundet i Sverige terrorstämplat i Egypten",
-        "summary": "Islamiska förbundet i Sverige har terrorstämplats av Egypten som del av Muslimska brödraskapet. Nu uppmanar föreningen den svenska regeringen att agera.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Islamic Association in Sweden designated as terrorist in Egypt",
-        "summary": "The Islamic Association in Sweden has been designated a terrorist organisation by Egypt as part of the Muslim Brotherhood. The association now urges the Swedish government to act."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T19:30:27+01:00"
-      }
-    },
-    {
-      "id": "008d62c0dbb7",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348600",
-      "guid": "rss:sr.se/article/9348600",
-      "published_at": "2026-11-23T18:46:00+01:00",
-      "fetched_at": "2026-11-23T19:01:12+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Fem döda i misstänkt gasläcka i Tyskland",
-        "summary": "Två vuxna och tre barn hittades på måndagen döda i en lägenhet i Kehl i västra Tyskland efter en misstänkt gasläcka, rapporterar AFP. Två andra barn vårdas för skador. Polis larmades när barnen saknades i skolan.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Five dead in suspected gas leak in Germany",
-        "summary": "Two adults and three children were found dead on Monday in an apartment in Kehl in western Germany after a suspected gas leak, reports AFP. Two other children are being treated for injuries. Police were alerted when the children were missing from school."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T19:01:29+01:00"
       }
     }
   ]

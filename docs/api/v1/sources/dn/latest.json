@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T01:01:18+01:00",
+  "generated_at": "2026-11-26T01:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f36566d05e44",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/fartyg-i-sjonod-utanfor-island",
+      "guid": "https://www.dn.se/varlden/fartyg-i-sjonod-utanfor-island/",
+      "published_at": "2026-11-26T01:09:28+01:00",
+      "fetched_at": "2026-11-26T01:15:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fartyg i sjönöd utanför Island",
+        "summary": "Ett fiskefartyg med en besättning på 17 personer hamnade under onsdagseftermiddagen i sjönöd utanför Islands kust, rapporterar det isländska public service-bolaget Rúv.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Vessel in distress off Iceland",
+        "summary": "A fishing vessel with a crew of 17 got into distress off Iceland's coast on Wednesday afternoon, reports the Icelandic public service broadcaster Rúv."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T01:15:52+01:00"
+      }
+    },
     {
       "id": "8c0878fdf9a1",
       "schema_version": 1,
@@ -5363,33 +5389,6 @@
       "en": {
         "title": "C leader: \"This is the Left Party's last chance\"",
         "summary": "The ball and the responsibility now lie with the Left Party after the offer that the Centre Party, the Social Democrats and the Green Party made to the Left Party on Saturday, says Centre Party deputy leader Rickard Nordin. Ida Gabrielsson (V) considers it unserious of the Social Democrats to negotiate via opinion pieces, but Annika Strandhäll (S) hits back on X."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T20:15:48+01:00"
-      }
-    },
-    {
-      "id": "e04cb721579e",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ekonomi/hogt-elpris-kan-ge-guldlage-for-bluffmakare",
-      "guid": "https://www.dn.se/ekonomi/hogt-elpris-kan-ge-guldlage-for-bluffmakare/",
-      "published_at": "2026-11-22T20:12:30+01:00",
-      "fetched_at": "2026-11-22T20:15:40+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0f210600-3d83-4585-bdec-875980bd7cc6.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Högt elpris kan ge guldläge för bluffmakare",
-        "summary": "Just nu kommer det dagligen nyheter om höga elpriser. Det ökar risken för att oseriösa aktörer och rena bedragare dyker upp. – Ringer någon nu bör man vara väldigt vaksam, säger Thomas Björkström, vd på Konsumenternas Energimarknadsbyrå.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "High electricity prices could create a golden opportunity for scammers",
-        "summary": "News about high electricity prices is coming in daily. This increases the risk that unscrupulous actors and outright fraudsters will appear. – If someone calls now, you should be very vigilant, says Thomas Björkström, CEO of the Consumers' Energy Market Bureau."
       },
       "translation": {
         "status": "done",
