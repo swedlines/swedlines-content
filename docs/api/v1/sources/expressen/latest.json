@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T22:16:06+01:00",
+  "generated_at": "2026-11-26T22:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "23d26073a48e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/c-toppens-tarar-efter-beskedet-hur-ar-det-mojligt",
+      "guid": "https://www.expressen.se/nyheter/politik/c-toppens-tarar-efter-beskedet-hur-ar-det-mojligt/",
+      "published_at": "2026-11-26T22:28:07+01:00",
+      "fetched_at": "2026-11-26T22:31:00+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-toppens tårar efter beskedet: ”Hur är det möjligt”",
+        "summary": "Faluns oppositionsråd Fredrik Adolphson reagerade starkt på beskedet att Centerpartiet vill rösta ja till Ulf Kristersson som statsminister. I ett klipp från Falu-Kuriren brister C-toppen ut i gråt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C-top's tears after the announcement: \"How is this possible\"",
+        "summary": "Falun opposition councillor Fredrik Adolphson reacted strongly to the news that the Centre Party (C) wants to vote yes to Ulf Kristersson (M) as prime minister. In a clip from Falu-Kuriren, the C leadership breaks down in tears."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T22:31:06+01:00"
+      }
+    },
     {
       "id": "7a03f709780c",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T20:40:13+01:00"
-      }
-    },
-    {
-      "id": "3ce2ff089da4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/kronikorer/fredrik-sjoshult/chockstraffet-for-sven-tolv-ars-fangelse",
-      "guid": "https://www.expressen.se/kronikorer/fredrik-sjoshult/chockstraffet-for-sven-tolv-ars-fangelse/",
-      "published_at": "2026-11-23T19:50:02+01:00",
-      "fetched_at": "2026-11-23T20:01:13+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Chockstraffet för ”Sven”: Tolv års fängelse",
-        "summary": "Tolv års fängelse blir det nya gängstraffet för en kille som kallades Sven innan han gick i polisens fälla. Han döms bara för hantering av tre vapen – brott som tidigare gett två-tre års fängelse. Så motiveras det extremt hårda straffet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Harsh sentence for \"Sven\": Twelve years in prison",
-        "summary": "Twelve years in prison is the new gang sentence for a man known as Sven before he walked into a police trap. He was convicted only for handling three weapons – offences that previously led to two to three years in prison. This is how the extremely harsh sentence is justified."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T20:01:24+01:00"
       }
     }
   ]

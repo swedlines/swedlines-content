@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T22:16:06+01:00",
+  "generated_at": "2026-11-26T22:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "23d26073a48e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/c-toppens-tarar-efter-beskedet-hur-ar-det-mojligt",
+      "guid": "https://www.expressen.se/nyheter/politik/c-toppens-tarar-efter-beskedet-hur-ar-det-mojligt/",
+      "published_at": "2026-11-26T22:28:07+01:00",
+      "fetched_at": "2026-11-26T22:31:00+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-toppens tårar efter beskedet: ”Hur är det möjligt”",
+        "summary": "Faluns oppositionsråd Fredrik Adolphson reagerade starkt på beskedet att Centerpartiet vill rösta ja till Ulf Kristersson som statsminister. I ett klipp från Falu-Kuriren brister C-toppen ut i gråt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C-top's tears after the announcement: \"How is this possible\"",
+        "summary": "Falun opposition councillor Fredrik Adolphson reacted strongly to the news that the Centre Party (C) wants to vote yes to Ulf Kristersson (M) as prime minister. In a clip from Falu-Kuriren, the C leadership breaks down in tears."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T22:31:06+01:00"
+      }
+    },
     {
       "id": "7a03f709780c",
       "schema_version": 1,
@@ -5355,35 +5381,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T08:45:49+01:00"
-      }
-    },
-    {
-      "id": "c47db2c442ec",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/tt-261125-tonarsutvisningar1-24b72eaa/migrationsverket-pausar-utvisningar-av-unga-vuxna",
-      "guid": "tt-261125-tonarsutvisningar1-24b72eaa",
-      "published_at": "2026-11-25T08:23:27+01:00",
-      "fetched_at": "2026-11-25T08:24:27+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Socialdemokraterna"
-      ],
-      "sv": {
-        "title": "Migrationsverket pausar utvisningar av unga vuxna",
-        "summary": "Migrationsverkets beslut omfattar unga vuxna som kan komma att utvisas trots att deras föräldrar och minderåriga syskon har rätt att stanna i Sverige. Beskedet kommer efter att riksdagspartierna i förra veckan beslutade om inriktningen för en tillfällig ”stopplag” mot utvisningarna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Migration Agency pauses deportations of young adults",
-        "summary": "The Migration Agency's decision covers young adults who may be deported even though their parents and underage siblings have the right to stay in Sweden. The announcement follows last week's decision by the Riksdag parties on the direction of a temporary \"stop law\" against the deportations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T08:24:31+01:00"
       }
     }
   ]

@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-26T22:16:06+01:00",
+  "generated_at": "2026-11-26T22:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c3ddbf257537",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/ishockey/frolunda/islossning-for-samuel-fagemo.da74f054-c853-5a0c-9d2c-221edd66c4aa",
+      "guid": "da74f054-c853-5a0c-9d2c-221edd66c4aa",
+      "published_at": "2026-11-26T22:24:40+01:00",
+      "fetched_at": "2026-11-26T22:31:01+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Frölunda",
+        "Tagg: Samuel Fagemo",
+        "Tagg: Scandinavium",
+        "Tagg: Frölunda HC",
+        "Tagg: Henrik Tömmernes",
+        "Tagg: Robert Ohlsson",
+        "Tagg: Växjö"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/ae144939-21f4-33dc-8bfa-448abf59b994",
+      "sv": {
+        "title": "Islossning för Samuel Fagemo",
+        "summary": "Hattrick för hemvändaren när Frölunda vann igen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ice break for Samuel Fagemo",
+        "summary": "Hat trick for the returnee as Frölunda won again"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T22:31:06+01:00"
+      }
+    },
     {
       "id": "02be540a6cb6",
       "schema_version": 1,
@@ -5547,33 +5583,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T14:16:02+01:00"
-      }
-    },
-    {
-      "id": "da399c151c79",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/snokaos-riskerar-skjuta-upp-sirius-djurgarden",
-      "guid": "0bc27e69-de95-4ab7-9eaa-dc482fc4e9bf",
-      "published_at": "2026-11-20T13:49:06+01:00",
-      "fetched_at": "2026-11-20T14:01:22+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/c975e709-5c54-4dce-bd5b-d6c03ef37cf7.jpg?width=600",
-      "sv": {
-        "title": "Snökaos riskerar skjuta upp Sirius–Djurgården",
-        "summary": "Sirius slåss om SM-guldet i fotbollsallsvenskan. Men nu hotar ett snöoväder att skjuta upp söndagens hemmamöte med Djurgården. – Det finns absolut en risk för det, säger Stefan Wittberg, affärsområdeschef på Uppsala arenor och fastigheter, till UNT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Snow chaos risks postponing Sirius–Djurgården",
-        "summary": "Sirius are fighting for the SM gold in the Allsvenskan football league. But now a snowstorm threatens to postpone Sunday's home match against Djurgården. \"There is absolutely a risk of that,\" says Stefan Wittberg, business area manager at Uppsala arenor och fastigheter, to UNT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T14:01:29+01:00"
       }
     }
   ]
