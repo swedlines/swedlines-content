@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T05:45:56+01:00",
+  "generated_at": "2026-11-26T06:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b6b74f324cad",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=c74d89f6-ab6b-4059-8ac7-8f84d3e93253",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c74d89f6-ab6b-4059-8ac7-8f84d3e93253",
+      "published_at": "2026-11-26T05:48:19+01:00",
+      "fetched_at": "2026-11-26T06:01:14+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps och Ruttes vädjan till Putin",
+        "summary": "Uppmaningen till ”vännen”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump and Rutte's appeal to Putin",
+        "summary": "The appeal to \"friend\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T06:01:21+01:00"
+      }
+    },
     {
       "id": "e5cbbfbecfc4",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T21:15:49+01:00"
-      }
-    },
-    {
-      "id": "03fbcf7a85f3",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/har-dyker-boras-upp-i-gta-6-hur-gick-det-har-till",
-      "guid": "https://www.expressen.se/nyheter/sverige/har-dyker-boras-upp-i-gta-6-hur-gick-det-har-till/",
-      "published_at": "2026-11-22T20:55:08+01:00",
-      "fetched_at": "2026-11-22T21:01:08+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Här dyker Borås upp i GTA 6: ”Hur gick det här till?”",
-        "summary": "En udda Sverigekoppling har hittats i det nya GTA 6. Nämligen: Borås. – Hur gick det här till? undrar kommunstyrelsens ordförande Cecilie Tenfjord Toftby.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Borås shows up in GTA 6: \"How did this happen?\"",
-        "summary": "An odd Swedish connection has been found in the new GTA 6. Namely: Borås. \"How did this happen?\" asks Cecilie Tenfjord Toftby, chair of the municipal executive board."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T21:01:15+01:00"
       }
     }
   ]
