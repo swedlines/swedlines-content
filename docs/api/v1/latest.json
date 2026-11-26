@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T15:41:41+01:00",
+  "generated_at": "2026-11-26T15:45:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "60f9d8a98897",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/depardieu-infor-ratta-for-misstankt-valdtakt",
+      "guid": "e87e962f-3c15-4b53-8da4-ffc78aea3a9b",
+      "published_at": "2026-11-26T15:43:57+01:00",
+      "fetched_at": "2026-11-26T15:45:44+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/a66cf3fd-68ae-49d1-8ad6-b22423298a1e.jpg?width=600",
+      "sv": {
+        "title": "Depardieu inför rätta för misstänkt våldtäkt",
+        "summary": "Fransk domstol har under torsdagen bestämt att skådespelaren Gérard Depardieu ställs inför rätta för misstänkta våldtäkter mot skådespelaren Charlotte Arnould 2018.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Depardieu to stand trial for alleged rape",
+        "summary": "A French court has on Thursday ordered that actor Gérard Depardieu be brought to trial for alleged rapes of actress Charlotte Arnould in 2018."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:45:46+01:00"
+      }
+    },
     {
       "id": "298191a05829",
       "schema_version": 1,
@@ -186,6 +213,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T15:31:15+01:00"
+      }
+    },
+    {
+      "id": "988556fd6b52",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/ord-kan-forstora-nhl-proffs-pratade-om-anorexia-i-myrviken",
+      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/ord-kan-forstora-nhl-proffs-pratade-om-anorexia-i-myrviken",
+      "published_at": "2026-11-26T15:20:38+01:00",
+      "fetched_at": "2026-11-26T15:45:39+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "”Ord kan förstöra” – NHL-proffs pratade om anorexia i Myrviken",
+        "summary": "Vikten av att vara en bra lagkompis, ätstörningar, missbruk. Det var några teman som togs upp när Myrvikens skol IF och RF-Sisu i Jämtland Härjedalen bjöd in 250 elever på en in inspirationsföreläsning i Myrviken.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Words can destroy\" – NHL pros talked about anorexia in Myrviken",
+        "summary": "Being a good teammate, eating disorders, substance abuse. These were some of the themes addressed when Myrvikens skol IF and RF-Sisu in Jämtland Härjedalen invited 250 pupils to an inspirational lecture in Myrviken."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:45:46+01:00"
       }
     },
     {
@@ -5330,60 +5383,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T10:31:14+01:00"
-      }
-    },
-    {
-      "id": "e04130cdb1cf",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/yz3Qvg/nya-anklagelser-om-antisemitism-mot-bardella",
-      "guid": "https://www.aftonbladet.se/nyheter/a/yz3Qvg/nya-anklagelser-om-antisemitism-mot-bardella?utm_medium=rss",
-      "published_at": "2026-11-26T10:26:48+01:00",
-      "fetched_at": "2026-11-26T10:31:06+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/bb5571b8-d352-3c8c-bffd-bbae836a66d5?format=auto&s=2ba24de7b4e0a0e5b44f14490f869682a184860c&w=1000",
-      "sv": {
-        "title": "Nya anklagelser om antisemitism mot Bardella",
-        "summary": "Andremannen i det franska ytterhögerpartiet Nationell samling, Jordan Bardella, anklagas på nytt för…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New allegations of antisemitism against Bardella",
-        "summary": "Jordan Bardella, number two in the French far-right party National Rally (Nationell samling), is again accused of…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T10:31:14+01:00"
-      }
-    },
-    {
-      "id": "6461838017a4",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/411288",
-      "guid": "https://tv.aftonbladet.se/video/411288?utm_medium=rss",
-      "published_at": "2026-11-26T10:26:41+01:00",
-      "fetched_at": "2026-11-26T13:01:23+01:00",
-      "category": "world",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/bd57b46e1806b379d51ca8320a889bac.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "Stor explosion i Bangkok",
-        "summary": "Minst sju kritiskt skadade",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Major explosion in Bangkok",
-        "summary": "At least seven critically injured"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T13:01:40+01:00"
       }
     }
   ]
