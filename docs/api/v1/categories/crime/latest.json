@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T14:01:36+01:00",
+  "generated_at": "2026-11-26T14:16:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "91ee9cde9285",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/tre-haktade-efter-sommarens-grythyttan-kupper",
+      "guid": "efaea46c-77a6-42d1-85cf-ce975e041a6b",
+      "published_at": "2026-11-26T14:12:21+01:00",
+      "fetched_at": "2026-11-26T14:15:52+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/5530cdb1-1237-4093-a902-f4b39f6ad4fd.png?width=600",
+      "sv": {
+        "title": "Tre häktade efter sommarens Grythyttan-kupper",
+        "summary": "Sommarens omfattande stölder av exklusiva utemöbler från restauranger ser ut att klaras upp. Tre skånska män har häktats, misstänkta för grovt häleri. – Det är ett nätverk som håller på med omfattande häleriverksamhet, säger Ulrika Hjorthorn, biträdande chef för Malmöpolisen i city.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Three remanded in custody after summer's Grythyttan thefts",
+        "summary": "The summer's extensive thefts of exclusive outdoor furniture from restaurants appear to be being solved. Three men from Skåne have been remanded in custody, suspected of aggravated handling of stolen goods. “It's a network carrying out extensive fencing operations,” says Ulrika Hjorthorn, deputy head of the Malmö police in the city centre."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T14:16:14+01:00"
+      }
+    },
     {
       "id": "6e6f281f48c8",
       "schema_version": 1,
@@ -5387,33 +5414,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T23:01:14+01:00"
-      }
-    },
-    {
-      "id": "22f6b4132a04",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/kvinnlig-hastforetagare-doms-for-valdtakt",
-      "guid": "a71593cb-6655-4072-8477-7793c59ac2e4",
-      "published_at": "2026-11-21T19:00:00+01:00",
-      "fetched_at": "2026-11-21T19:01:09+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/46561085-d49f-4a6f-9259-0cebdee6ecd1.png?width=600",
-      "sv": {
-        "title": "Kvinnlig hästföretagare döms för våldtäkt",
-        "summary": "När Matilda vaknar i sin egen säng känner hon först smärtan från det skadade benet. Sedan inser hon vad hennes nära vän gör mot henne. Nu har den tidigare vännen, skånska hästföretagaren Caroline, dömts till tre års fängelse för våldtäkt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Female horse business owner convicted of rape",
-        "summary": "When Matilda wakes up in her own bed, she first feels pain from her injured leg. Then she realises what her close friend has done to her. Now the former friend, Skåne horse business owner Caroline, has been sentenced to three years in prison for rape."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T19:01:17+01:00"
       }
     }
   ]

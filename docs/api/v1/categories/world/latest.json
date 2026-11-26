@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-26T14:01:36+01:00",
+  "generated_at": "2026-11-26T14:16:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "510d127c3cdf",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/krav-i-eu-slapp-dawit-isaak",
+      "guid": "af3fe85d-ad8c-4981-919c-0b1cf1a48cb5",
+      "published_at": "2026-11-26T14:11:20+01:00",
+      "fetched_at": "2026-11-26T14:15:52+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/84ed4712-77a9-4519-9f6d-0a95c3bd9351.jpg?width=600",
+      "sv": {
+        "title": "Krav i EU: Släpp Dawit Isaak",
+        "summary": "EU-parlamentet kräver återigen att den i Eritrea fängslade journalisten Dawit Isaak ska släppas.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Demand in EU: Release Dawit Isaak",
+        "summary": "The European Parliament once again demands that journalist Dawit Isaak, imprisoned in Eritrea, be released."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T14:16:14+01:00"
+      }
+    },
+    {
+      "id": "c656b7c24524",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/vkQaWp/panikdraget-avslojat-gav-lofte-till-putin",
+      "guid": "https://www.aftonbladet.se/nyheter/a/vkQaWp/panikdraget-avslojat-gav-lofte-till-putin?utm_medium=rss",
+      "published_at": "2026-11-26T14:04:10+01:00",
+      "fetched_at": "2026-11-26T14:15:50+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/ad335d6a-91c0-38c5-ac9d-29d2dcfd9e04?format=auto&s=9cb595e79b90864e3bd828d36d7431ab099faf2c&w=1000",
+      "sv": {
+        "title": "Panikdraget avslöjat: Gav löfte till Putin",
+        "summary": "Nya uppgifter om samtalet: ”Kan du lita på”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Panic move revealed: Made promise to Putin",
+        "summary": "New details about the call: “Can you trust”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T14:16:14+01:00"
+      }
+    },
     {
       "id": "b39fa901770d",
       "schema_version": 1,
@@ -5270,59 +5324,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T17:31:10+01:00"
-      }
-    },
-    {
-      "id": "7f6a60e2ee0d",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/kultur/piskstraffet-mot-parastoo-ahmadi-har-verkstallts",
-      "guid": "https://www.svt.se/kultur/piskstraffet-mot-parastoo-ahmadi-har-verkstallts",
-      "published_at": "2026-11-24T16:18:01+01:00",
-      "fetched_at": "2026-11-24T16:31:00+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Piskstraffet mot Parastoo Ahmadi har verkställts",
-        "summary": "När en iransk sångerska dömdes till piskstraff för att ha framträtt utan hijab väckte det starka protester. Straffet har nu utdelats.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Parastoo Ahmadi's whipping sentence has been carried out",
-        "summary": "When an Iranian singer was sentenced to whipping for performing without a hijab, it sparked strong protests. The punishment has now been carried out."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:31:09+01:00"
-      }
-    },
-    {
-      "id": "7daa7b7b9ffe",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/ingen-messar-langre-kreml-under-bordet-sa-har-bryssel-forandrats-sedan-orbans-exit",
-      "guid": "https://www.dn.se/varlden/ingen-messar-langre-kreml-under-bordet-sa-har-bryssel-forandrats-sedan-orbans-exit/",
-      "published_at": "2026-11-24T16:04:10+01:00",
-      "fetched_at": "2026-11-24T16:15:46+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/56aa1260-dfda-450e-8976-2a53c273a5e0.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "”Ingen messar längre Kreml under bordet” – Så har Bryssel förändrats sedan Orbáns exit",
-        "summary": "BRYSSEL. Ständiga veton, fientliga utfall mot allierade och ministrar som messade Kreml under bordet – direkt från EU-möten. Efter att Viktor Orbáns ungerska regim fallit har Bryssel vänt blad. – Äntligen har ryssarnas direktlina till Bryssel tystnat, säger en EU-diplomat.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"No one texts the Kremlin under the table anymore\" – How Brussels has changed since Orbán's exit",
-        "summary": "BRUSSELS. Constant vetoes, hostile outbursts against allies and ministers who texted the Kremlin under the table – straight from EU meetings. After Viktor Orbán's Hungarian regime fell, Brussels has turned a new page. – Finally, the Russians' direct line to Brussels has gone silent, says an EU diplomat."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:15:55+01:00"
       }
     }
   ]

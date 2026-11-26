@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T14:01:36+01:00",
+  "generated_at": "2026-11-26T14:16:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "85543bf98220",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/VxbVxp/guld-vart-miljoner-har-gravts-ned-pa-svenska-kyrkogardar",
+      "guid": "https://www.aftonbladet.se/nyheter/a/VxbVxp/guld-vart-miljoner-har-gravts-ned-pa-svenska-kyrkogardar?utm_medium=rss",
+      "published_at": "2026-11-26T14:12:07+01:00",
+      "fetched_at": "2026-11-26T14:15:50+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/af4bc548-dd2d-32d2-be48-bc9731e58adb?format=auto&s=597dd35d4c872934828dcc275b63eecdcd38a834&w=1000",
+      "sv": {
+        "title": "Guld för miljoner är nedgrävt på svenska kyrkogårdar",
+        "summary": "Värt många miljoner ✓ ”Inte etiskt hållbart”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gold worth millions is buried in Swedish cemeteries",
+        "summary": "Worth many millions ✓ “Not ethically sustainable”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T14:16:14+01:00"
+      }
+    },
     {
       "id": "115c91459c0a",
       "schema_version": 1,
@@ -5475,32 +5502,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T13:31:15+01:00"
-      }
-    },
-    {
-      "id": "c4d4ff1808c3",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=9021639c-749f-4804-ba48-0e5bba187e7a",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9021639c-749f-4804-ba48-0e5bba187e7a",
-      "published_at": "2026-11-22T12:06:35+01:00",
-      "fetched_at": "2026-11-22T12:15:47+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "”Extremt halt”",
-        "summary": "Fyra bilar i krock på E18",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Extremely slippery\"",
-        "summary": "Four cars in collision on E18"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T12:16:00+01:00"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T14:01:36+01:00",
+  "generated_at": "2026-11-26T14:16:22+01:00",
   "count": 30,
   "stories": [
     {
@@ -1128,6 +1128,82 @@
       ]
     },
     {
+      "id": "acad5f58e2e0",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svt",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-26T12:12:34+01:00",
+      "last_published_at": "2026-11-26T14:11:20+01:00",
+      "lead": {
+        "id": "acad5f58e2e0",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/BrRome/krav-i-eu-slapp-dawit-isaak",
+        "guid": "https://www.aftonbladet.se/nyheter/a/BrRome/krav-i-eu-slapp-dawit-isaak?utm_medium=rss",
+        "published_at": "2026-11-26T12:12:34+01:00",
+        "fetched_at": "2026-11-26T12:15:43+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/079a9b62-ce02-3edb-aef2-5d96d479cd52?format=auto&s=aa5a2e77cc45862b5721d248e69ade89dc49e6f5&w=1000",
+        "sv": {
+          "title": "Krav i EU: Släpp Dawit Isaak",
+          "summary": "EU-parlamentet kräver återigen att den i Eritrea fängslade journalisten Dawit Isaak ska släppas.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "EU calls for release of Dawit Isaak",
+          "summary": "The European Parliament once again demands that journalist Dawit Isaak, imprisoned in Eritrea, be released."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T12:15:51+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "510d127c3cdf",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/krav-i-eu-slapp-dawit-isaak",
+          "published_at": "2026-11-26T14:11:20+01:00",
+          "sv": {
+            "title": "Krav i EU: Släpp Dawit Isaak"
+          },
+          "en": {
+            "title": "Demand in EU: Release Dawit Isaak"
+          }
+        },
+        {
+          "id": "c985eeb95123",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vast/krav-i-eu-slapp-dawit-isaak",
+          "published_at": "2026-11-26T13:43:17+01:00",
+          "sv": {
+            "title": "Krav i EU: Släpp Dawit Isaak"
+          },
+          "en": {
+            "title": "EU demands: Release Dawit Isaak"
+          }
+        },
+        {
+          "id": "acad5f58e2e0",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/BrRome/krav-i-eu-slapp-dawit-isaak",
+          "published_at": "2026-11-26T12:12:34+01:00",
+          "sv": {
+            "title": "Krav i EU: Släpp Dawit Isaak"
+          },
+          "en": {
+            "title": "EU calls for release of Dawit Isaak"
+          }
+        }
+      ]
+    },
+    {
       "id": "4181c790877f",
       "source_count": 3,
       "sources": [
@@ -1986,69 +2062,6 @@
           },
           "en": {
             "title": "Police warn about scam texts"
-          }
-        }
-      ]
-    },
-    {
-      "id": "acad5f58e2e0",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svt"
-      ],
-      "first_published_at": "2026-11-26T12:12:34+01:00",
-      "last_published_at": "2026-11-26T13:43:17+01:00",
-      "lead": {
-        "id": "acad5f58e2e0",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/BrRome/krav-i-eu-slapp-dawit-isaak",
-        "guid": "https://www.aftonbladet.se/nyheter/a/BrRome/krav-i-eu-slapp-dawit-isaak?utm_medium=rss",
-        "published_at": "2026-11-26T12:12:34+01:00",
-        "fetched_at": "2026-11-26T12:15:43+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/079a9b62-ce02-3edb-aef2-5d96d479cd52?format=auto&s=aa5a2e77cc45862b5721d248e69ade89dc49e6f5&w=1000",
-        "sv": {
-          "title": "Krav i EU: Släpp Dawit Isaak",
-          "summary": "EU-parlamentet kräver återigen att den i Eritrea fängslade journalisten Dawit Isaak ska släppas.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "EU calls for release of Dawit Isaak",
-          "summary": "The European Parliament once again demands that journalist Dawit Isaak, imprisoned in Eritrea, be released."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T12:15:51+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "c985eeb95123",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vast/krav-i-eu-slapp-dawit-isaak",
-          "published_at": "2026-11-26T13:43:17+01:00",
-          "sv": {
-            "title": "Krav i EU: Släpp Dawit Isaak"
-          },
-          "en": {
-            "title": "EU demands: Release Dawit Isaak"
-          }
-        },
-        {
-          "id": "acad5f58e2e0",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/BrRome/krav-i-eu-slapp-dawit-isaak",
-          "published_at": "2026-11-26T12:12:34+01:00",
-          "sv": {
-            "title": "Krav i EU: Släpp Dawit Isaak"
-          },
-          "en": {
-            "title": "EU calls for release of Dawit Isaak"
           }
         }
       ]
