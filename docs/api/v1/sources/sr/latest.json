@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T23:31:02+01:00",
+  "generated_at": "2026-11-26T23:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c6e1b445207b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351198",
+      "guid": "rss:sr.se/article/9351198",
+      "published_at": "2026-11-26T23:35:00+01:00",
+      "fetched_at": "2026-11-26T23:45:42+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Furtenbach om C:s besked: ”En kris för Socialdemokraterna”",
+        "summary": "Centerpartiets styrelse vill ingå i en borgerlig regering och vill att partiet nu på måndag röstar fram Ulf Kristersson som statsminister. Det beskedet gav partiledaren Elisabeth Thand Ringqvist under torsdagen efter ett flera timmar långt möte med partistyrelsen och riksdagsgruppen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Furtenbach on C's decision: \"A crisis for the Social Democrats\"",
+        "summary": "The Centre Party's board wants to join a centre-right government and wants the party to vote in Ulf Kristersson (M) as prime minister next Monday. Party leader Elisabeth Thand Ringqvist announced this on Thursday after a meeting of several hours with the party board and the Riksdag group."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T23:45:50+01:00"
+      }
+    },
     {
       "id": "a17298de6e1b",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T14:01:24+01:00"
-      }
-    },
-    {
-      "id": "65de14e2468b",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347647",
-      "guid": "rss:sr.se/article/9347647",
-      "published_at": "2026-11-21T12:58:00+01:00",
-      "fetched_at": "2026-11-21T13:01:11+01:00",
-      "category": "world",
-      "sv": {
-        "title": "600 kvinnor har mördats på tre månader i Sydafrika",
-        "summary": "Det pågår landsomfattande protester i Sydafrika mot den senaste tidens våg av kvinnomord. De senaste siffrorna visar att minst 600 kvinnor mördats i landet mellan juli och september i år.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "600 women have been murdered in three months in South Africa",
-        "summary": "Nationwide protests are under way in South Africa against the recent wave of femicides. The latest figures show that at least 600 women were murdered in the country between July and September this year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T13:01:30+01:00"
       }
     }
   ]
