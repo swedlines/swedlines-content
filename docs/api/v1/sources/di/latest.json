@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-26T19:01:25+01:00",
+  "generated_at": "2026-11-26T19:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6cbc0d2e223f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/marknaden-nara-stensaker-pa-nasta-statsminister",
+      "guid": "52e5bf3b-b292-41c3-9793-85ae8ec5adbb",
+      "published_at": "2026-11-26T19:12:47+01:00",
+      "fetched_at": "2026-11-26T19:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/15822072-4bed-4db8-a843-bd2abf0ea442.jpeg?width=600",
+      "sv": {
+        "title": "Marknaden nära stensäker på nästa statsminister",
+        "summary": "Handlarna på prognosmarknaden Polymarket är närmast stensäkra på att nästa statsminister heter Ulf Kristersson. Det efter torsdagskvällens besked om att Centerpartiets partistyrelse och riksdagsgrupp vill rösta ja till Moderatledaren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Market almost certain on next prime minister",
+        "summary": "Traders on the forecasting market Polymarket are almost certain that the next prime minister will be Ulf Kristersson. This follows Thursday evening's announcement that the Centre Party's party board and parliamentary group want to vote yes to the Moderates' leader."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:15:52+01:00"
+      }
+    },
+    {
+      "id": "c892381be892",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/thand-ringqvist-darfor-vill-vi-regera-med-kristersson",
+      "guid": "cb70178c-d27e-42bd-a1b8-2c7d737d450e",
+      "published_at": "2026-11-26T19:01:53+01:00",
+      "fetched_at": "2026-11-26T19:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a8979e2c-c5c0-47c1-9139-240a4c748b2c.jpeg?width=600",
+      "sv": {
+        "title": "Thand Ringqvist: Därför vill vi regera med Kristersson",
+        "summary": "Partiledare Elisabeth Thand Ringqvist ger beskedet att en splittrad partiledning rekommenderar sitt parti att säga ja till en M-ledd regering. ”Det här är det bästa förslaget”, säger C-ledaren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Thand Ringqvist: This is why we want to govern with Kristersson",
+        "summary": "Party leader Elisabeth Thand Ringqvist announces that a split party leadership recommends that its party say yes to a Moderate-led government. “This is the best proposal”, says the C leader."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:15:52+01:00"
+      }
+    },
     {
       "id": "1e9f6aca028f",
       "schema_version": 1,
@@ -5275,60 +5329,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T16:45:57+01:00"
-      }
-    },
-    {
-      "id": "0563de0aad4d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nya-uppgifter-i-budryktet-kring-verisure",
-      "guid": "521f0775-9033-415d-85e0-9231d1e140fd",
-      "published_at": "2026-11-25T16:24:26+01:00",
-      "fetched_at": "2026-11-25T16:31:11+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a3b8034e-f7cc-4a7c-a8e4-227be5c817dd.jpeg?width=600",
-      "sv": {
-        "title": "Nya uppgifter i budryktet kring Verisure",
-        "summary": "Banker uppges erbjuda riskkapitalbolaget CVC Capital Partners mångmiljardlån för att köpa ut Stockholmsnoterade Verisure – som nu stiger kraftigt efter Bloombergs publicering.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New details in the buyout rumour surrounding Verisure",
-        "summary": "Banks are reportedly offering the private equity firm CVC Capital Partners multi-billion loans to buy out the Stockholm-listed Verisure – whose shares are now rising sharply after Bloomberg's report."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T16:31:17+01:00"
-      }
-    },
-    {
-      "id": "8ebe8d473e90",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/usa-siffror-i-hetaste-laget-for-fed",
-      "guid": "a396f67f-1537-4ab7-95bb-d94abab45b36",
-      "published_at": "2026-11-25T16:22:06+01:00",
-      "fetched_at": "2026-11-25T16:31:11+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/5fd73ea1-65d7-427d-b402-932ca41e8c5e.jpeg?width=600",
-      "sv": {
-        "title": "USA-siffror i hetaste laget för Fed",
-        "summary": "USA överraskar med hetare siffror än väntat för både inflation och tillväxt. På centralbanken Fed får räntehökarna övertaget.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "US figures among the hottest for the Fed",
-        "summary": "The US surprises with hotter-than-expected figures for both inflation and growth. At the Fed, the rate hawks gain the upper hand."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T16:31:17+01:00"
       }
     }
   ]

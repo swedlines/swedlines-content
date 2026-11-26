@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-26T19:01:25+01:00",
+  "generated_at": "2026-11-26T19:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6cbc0d2e223f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/marknaden-nara-stensaker-pa-nasta-statsminister",
+      "guid": "52e5bf3b-b292-41c3-9793-85ae8ec5adbb",
+      "published_at": "2026-11-26T19:12:47+01:00",
+      "fetched_at": "2026-11-26T19:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/15822072-4bed-4db8-a843-bd2abf0ea442.jpeg?width=600",
+      "sv": {
+        "title": "Marknaden nära stensäker på nästa statsminister",
+        "summary": "Handlarna på prognosmarknaden Polymarket är närmast stensäkra på att nästa statsminister heter Ulf Kristersson. Det efter torsdagskvällens besked om att Centerpartiets partistyrelse och riksdagsgrupp vill rösta ja till Moderatledaren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Market almost certain on next prime minister",
+        "summary": "Traders on the forecasting market Polymarket are almost certain that the next prime minister will be Ulf Kristersson. This follows Thursday evening's announcement that the Centre Party's party board and parliamentary group want to vote yes to the Moderates' leader."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:15:52+01:00"
+      }
+    },
+    {
+      "id": "c892381be892",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/thand-ringqvist-darfor-vill-vi-regera-med-kristersson",
+      "guid": "cb70178c-d27e-42bd-a1b8-2c7d737d450e",
+      "published_at": "2026-11-26T19:01:53+01:00",
+      "fetched_at": "2026-11-26T19:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a8979e2c-c5c0-47c1-9139-240a4c748b2c.jpeg?width=600",
+      "sv": {
+        "title": "Thand Ringqvist: Därför vill vi regera med Kristersson",
+        "summary": "Partiledare Elisabeth Thand Ringqvist ger beskedet att en splittrad partiledning rekommenderar sitt parti att säga ja till en M-ledd regering. ”Det här är det bästa förslaget”, säger C-ledaren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Thand Ringqvist: This is why we want to govern with Kristersson",
+        "summary": "Party leader Elisabeth Thand Ringqvist announces that a split party leadership recommends that its party say yes to a Moderate-led government. “This is the best proposal”, says the C leader."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T19:15:52+01:00"
+      }
+    },
     {
       "id": "1e9f6aca028f",
       "schema_version": 1,
@@ -5216,68 +5270,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T06:15:55+01:00"
-      }
-    },
-    {
-      "id": "26a3bb798fa5",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/forskare-kaoset-tar-pa-fortroendet",
-      "guid": "2715312b-3527-4c74-baf3-bf285190fc24",
-      "published_at": "2026-11-26T06:05:00+01:00",
-      "fetched_at": "2026-11-26T06:15:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3a457dd0-abfa-4403-adc7-4c5cca798e1c.jpg?width=600",
-      "sv": {
-        "title": "Forskare: Kaoset tär på förtroendet",
-        "summary": "Den utdragna regeringsbildningen skadar förtroendet för politikerna – och på sikt kanske även demokratin, enligt varumärkesforskaren Eva Ossiansson. ”Det här katt och råtta-spelet som går ut på att säkra sin egen makt är inte så trevligt för väljarna”, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Researcher: Chaos erodes trust",
-        "summary": "The protracted government formation is damaging trust in politicians – and in time perhaps also democracy, according to brand researcher Eva Ossiansson. “This cat-and-mouse game that is about securing one's own power is not very pleasant for voters,” she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T06:15:55+01:00"
-      }
-    },
-    {
-      "id": "63778a6aba4c",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/ekonomi/da-hamnar-du-hos-hr-efter-julfesten.6edcd3c5-e88e-51c5-bf56-3a9bff34ead6",
-      "guid": "6edcd3c5-e88e-51c5-bf56-3a9bff34ead6",
-      "published_at": "2026-11-26T06:01:15+01:00",
-      "fetched_at": "2026-11-26T06:31:00+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Ekonomi",
-        "Tagg: Arbetsgivare",
-        "Tagg: Alkohol",
-        "Tagg: Kränkningar",
-        "Tagg: Otrygghet",
-        "Tagg: Arbetsplatser"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/e1598e50-8173-310f-bdbc-9e7be79c8454",
-      "sv": {
-        "title": "Då väntar HR efter julfesten",
-        "summary": "Experten om arbetsplatserna där risken är störst.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Then HR is in for it after the Christmas party",
-        "summary": "The expert on the workplaces where the risk is greatest."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T06:31:14+01:00"
       }
     }
   ]

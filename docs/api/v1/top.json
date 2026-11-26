@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T19:01:25+01:00",
+  "generated_at": "2026-11-26T19:16:00+01:00",
   "count": 30,
   "stories": [
     {
@@ -15,7 +15,7 @@
         "gp"
       ],
       "first_published_at": "2026-11-26T09:32:28+01:00",
-      "last_published_at": "2026-11-26T16:59:25+01:00",
+      "last_published_at": "2026-11-26T19:11:34+01:00",
       "lead": {
         "id": "ed574169a1d8",
         "schema_version": 1,
@@ -43,6 +43,18 @@
         }
       },
       "items": [
+        {
+          "id": "997ab0b28c5c",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/ilska-och-besvikelse-bland-c-toppar-efter-beslutet-kanner-mig-bedrovad",
+          "published_at": "2026-11-26T19:11:34+01:00",
+          "sv": {
+            "title": "Ilska och besvikelse bland C-toppar efter beslutet: ”Känner mig bedrövad”"
+          },
+          "en": {
+            "title": "Anger and disappointment among C leaders after decision: “I feel devastated”"
+          }
+        },
         {
           "id": "f2b24294f377",
           "source": "gp",
@@ -179,17 +191,18 @@
     },
     {
       "id": "4181c790877f",
-      "source_count": 6,
+      "source_count": 7,
       "sources": [
         "svt",
         "gp",
         "svd",
         "expressen",
         "dn",
-        "aftonbladet"
+        "aftonbladet",
+        "di"
       ],
       "first_published_at": "2026-11-26T12:20:22+01:00",
-      "last_published_at": "2026-11-26T18:53:42+01:00",
+      "last_published_at": "2026-11-26T19:02:32+01:00",
       "lead": {
         "id": "4181c790877f",
         "schema_version": 1,
@@ -217,6 +230,30 @@
         }
       },
       "items": [
+        {
+          "id": "bb326115ca27",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/tomas-ramberg-det-blev-thand-ringqvist-som-holl-i-yxan",
+          "published_at": "2026-11-26T19:02:32+01:00",
+          "sv": {
+            "title": "Tomas Ramberg: Det blev Thand Ringqvist som höll i yxan"
+          },
+          "en": {
+            "title": "Tomas Ramberg: Thand Ringqvist was the one who held the axe"
+          }
+        },
+        {
+          "id": "c892381be892",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/thand-ringqvist-darfor-vill-vi-regera-med-kristersson",
+          "published_at": "2026-11-26T19:01:53+01:00",
+          "sv": {
+            "title": "Thand Ringqvist: Därför vill vi regera med Kristersson"
+          },
+          "en": {
+            "title": "Thand Ringqvist: This is why we want to govern with Kristersson"
+          }
+        },
         {
           "id": "9e7055e6722b",
           "source": "gp",
@@ -2086,6 +2123,131 @@
       ]
     },
     {
+      "id": "290af9680691",
+      "source_count": 2,
+      "sources": [
+        "dn",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-26T09:06:45+01:00",
+      "last_published_at": "2026-11-26T19:12:21+01:00",
+      "lead": {
+        "id": "290af9680691",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/varlden/ovader-drabbar-thanksgiving-pa-usas-bada-kuster",
+        "guid": "https://www.dn.se/varlden/ovader-drabbar-thanksgiving-pa-usas-bada-kuster/",
+        "published_at": "2026-11-26T09:06:45+01:00",
+        "fetched_at": "2026-11-26T09:15:47+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Oväder drabbar thanksgiving på USA:s båda kuster",
+          "summary": "Stormar på amerikanska väst- och östkusten riskerar att orsaka fortsatt kaos på en av USA:s mest trafikerade storhelger, thanksgiving. Redan på onsdagen försenades över 6 000 flyg och den ikoniska paraden i New York har flyttats.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Storms hit Thanksgiving on both US coasts",
+          "summary": "Storms on the American west and east coasts risk causing continued chaos on one of the USA's busiest holidays, Thanksgiving. Already on Wednesday, over 6,000 flights were delayed and the iconic parade in New York has been moved."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:16:07+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "3228f5674deb",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/yz3kpK/stormvarning-stor-usa-s-thanksgiving-firande",
+          "published_at": "2026-11-26T19:12:21+01:00",
+          "sv": {
+            "title": "Stormvarning stör USA:s Thanksgiving-firande"
+          },
+          "en": {
+            "title": "Storm warning disrupts US Thanksgiving celebrations"
+          }
+        },
+        {
+          "id": "290af9680691",
+          "source": "dn",
+          "url": "https://www.dn.se/varlden/ovader-drabbar-thanksgiving-pa-usas-bada-kuster",
+          "published_at": "2026-11-26T09:06:45+01:00",
+          "sv": {
+            "title": "Oväder drabbar thanksgiving på USA:s båda kuster"
+          },
+          "en": {
+            "title": "Storms hit Thanksgiving on both US coasts"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8b3cffc4be5a",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-26T19:00:37+01:00",
+      "last_published_at": "2026-11-26T19:00:37+01:00",
+      "lead": {
+        "id": "8b3cffc4be5a",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/oMpjyB/ohlsson-c-inte-for-sent-for-v-att-backa",
+        "guid": "https://www.aftonbladet.se/nyheter/a/oMpjyB/ohlsson-c-inte-for-sent-for-v-att-backa?utm_medium=rss",
+        "published_at": "2026-11-26T19:00:37+01:00",
+        "fetched_at": "2026-11-26T19:01:17+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/061491a1-da62-32ff-8567-4ee77da76adb?format=auto&s=96e130c75bb6512cdd5a1ad9526354cfb7fd6488&w=1000",
+        "sv": {
+          "title": "Ohlsson (C): Inte för sent för V att backa",
+          "summary": "Ännu är det inte för sent för en rödgrön regering, enligt riksdagsledamoten Birgitta Ohlsson (C).",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Ohlsson (C): Not too late for V to back down",
+          "summary": "It is not yet too late for a red-green government, according to Riksdag member Birgitta Ohlsson (C)."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T19:01:23+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "edcae0cd9c95",
+          "source": "svd",
+          "url": "https://www.svd.se/a/2vGLw4/ohlsson-c-inte-for-sent-for-v-att-backa",
+          "published_at": "2026-11-26T19:00:37+01:00",
+          "sv": {
+            "title": "Ohlsson (C): Inte för sent för V att backa"
+          },
+          "en": {
+            "title": "Ohlsson (C): It is not too late for V to back down"
+          }
+        },
+        {
+          "id": "8b3cffc4be5a",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/oMpjyB/ohlsson-c-inte-for-sent-for-v-att-backa",
+          "published_at": "2026-11-26T19:00:37+01:00",
+          "sv": {
+            "title": "Ohlsson (C): Inte för sent för V att backa"
+          },
+          "en": {
+            "title": "Ohlsson (C): Not too late for V to back down"
+          }
+        }
+      ]
+    },
+    {
       "id": "ebcb1813e8fb",
       "source_count": 2,
       "sources": [
@@ -2559,132 +2721,6 @@
           },
           "en": {
             "title": "Nothing may be forgotten as the Opera moves – “enormous amounts of props”"
-          }
-        }
-      ]
-    },
-    {
-      "id": "01779eec4765",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "tv4"
-      ],
-      "first_published_at": "2026-11-26T08:41:13+01:00",
-      "last_published_at": "2026-11-26T11:22:39+01:00",
-      "lead": {
-        "id": "01779eec4765",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/KL3oR5/datalacka-hos-jaktapp",
-        "guid": "https://www.aftonbladet.se/nyheter/a/KL3oR5/datalacka-hos-jaktapp?utm_medium=rss",
-        "published_at": "2026-11-26T08:41:13+01:00",
-        "fetched_at": "2026-11-26T11:01:20+01:00",
-        "category": "crime",
-        "image_url": "https://akamai.vgc.no/v2/images/ae538f69-be4c-315d-8af1-9f9e06b4726c?format=auto&s=ae855940028495af39f538db4f284c3984f5bb7e&w=1000",
-        "sv": {
-          "title": "Hackerattack mot jaktapp – vapenlicenser har läckt",
-          "summary": "”Mycket allvarligt”",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Hacker attack on hunting app – gun licences have leaked",
-          "summary": "“Very serious”"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T11:01:26+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "a95d62560c30",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/7xNk61rVdS05bOcnJQD1Ag/jaktapp-hackad-vapenlicenser-laeckta-mycket-allvarligt",
-          "published_at": "2026-11-26T11:22:39+01:00",
-          "sv": {
-            "title": "Jaktapp hackad – vapenlicenser läckta: ”Mycket allvarligt”"
-          },
-          "en": {
-            "title": "Hunting app hacked – gun licences leaked: “Very serious”"
-          }
-        },
-        {
-          "id": "01779eec4765",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/KL3oR5/datalacka-hos-jaktapp",
-          "published_at": "2026-11-26T08:41:13+01:00",
-          "sv": {
-            "title": "Hackerattack mot jaktapp – vapenlicenser har läckt"
-          },
-          "en": {
-            "title": "Hacker attack on hunting app – gun licences have leaked"
-          }
-        }
-      ]
-    },
-    {
-      "id": "177618068e9c",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "di"
-      ],
-      "first_published_at": "2026-11-26T10:51:19+01:00",
-      "last_published_at": "2026-11-26T11:12:01+01:00",
-      "lead": {
-        "id": "177618068e9c",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/dJO6nj/kopplingar-till-kriminella-vid-statliga-inkop",
-        "guid": "https://www.aftonbladet.se/nyheter/a/dJO6nj/kopplingar-till-kriminella-vid-statliga-inkop?utm_medium=rss",
-        "published_at": "2026-11-26T10:51:19+01:00",
-        "fetched_at": "2026-11-26T10:53:19+01:00",
-        "category": "crime",
-        "image_url": "https://akamai.vgc.no/v2/images/e4f8b09a-0f1c-352f-a00e-83acacf49dde?format=auto&s=a139b861e571e354099b006e0e14d2ffdea18f0e&w=1000",
-        "sv": {
-          "title": "Kopplingar till kriminella vid statliga inköp",
-          "summary": "Varje år gör statliga myndigheter inköp för stora belopp. Men man tar inte tillräcklig hänsyn till…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Links to criminals in state procurement",
-          "summary": "Every year government agencies make purchases worth large sums. But insufficient consideration is given to…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T10:53:25+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "dbf797bfef34",
-          "source": "di",
-          "url": "https://www.di.se/live/kopplingar-till-kriminella-vid-statliga-inkop",
-          "published_at": "2026-11-26T11:12:01+01:00",
-          "sv": {
-            "title": "Kopplingar till kriminella vid statliga inköp"
-          },
-          "en": {
-            "title": "Links to criminals in government procurement"
-          }
-        },
-        {
-          "id": "177618068e9c",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/dJO6nj/kopplingar-till-kriminella-vid-statliga-inkop",
-          "published_at": "2026-11-26T10:51:19+01:00",
-          "sv": {
-            "title": "Kopplingar till kriminella vid statliga inköp"
-          },
-          "en": {
-            "title": "Links to criminals in state procurement"
           }
         }
       ]
