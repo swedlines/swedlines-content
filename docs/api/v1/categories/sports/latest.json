@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T21:01:22+01:00",
+  "generated_at": "2026-11-26T21:10:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "998c4b5b394d",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/friidrott/prisas-efter-att-ha-hjalpt-lopare-som-kollapsade-pa-boston-marathon",
+      "guid": "https://www.svt.se/sport/friidrott/prisas-efter-att-ha-hjalpt-lopare-som-kollapsade-pa-boston-marathon",
+      "published_at": "2026-11-26T20:47:28+01:00",
+      "fetched_at": "2026-11-26T21:09:50+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Prisas efter att ha hjälpt löpare som kollapsade på Boston Marathon",
+        "summary": "Ajay Haridasse kollapsade 300 meter från målgång i Boston Marathon. Då fick han hjälp av två medlöpare – nu prisas duon av det internationella friidrottsförbundet för sin insats. – Jag trodde aldrig i livet att vi skulle vinna, säger Aaron Beggs.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Praised for helping runners who collapsed at the Boston Marathon",
+        "summary": "Ajay Haridasse collapsed 300 metres from the finish line at the Boston Marathon. He was then helped by two fellow runners – now the duo is being praised by the International Association of Athletics Federations for their efforts. \"I never thought in my life that we would win,\" says Aaron Beggs."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T21:10:00+01:00"
+      }
+    },
     {
       "id": "042f798a6ade",
       "schema_version": 1,
@@ -5553,33 +5579,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:45:52+01:00"
-      }
-    },
-    {
-      "id": "454daad532b7",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/helstrups-drag-ser-ut-att-fa-chansen-mot-mjallby",
-      "guid": "550ded1f-8001-4c7c-b090-7c834a5c726b",
-      "published_at": "2026-11-20T13:01:05+01:00",
-      "fetched_at": "2026-11-20T13:01:15+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/adefa56c-45a5-4ec0-a7bf-4210c58cc2bf.jpeg?width=600",
-      "sv": {
-        "title": "Helstrups drag – ser ut att få chansen mot Mjällby",
-        "summary": "Mayckel Lahdo har bara startat en match för MFF sedan han anslöt den siste augusti. Men nu talar mycket för att han får chansen på nytt. – Både kroppen och allt annat med honom är på väg uppåt, säger MFF-tränaren Gaute Helstrup.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Helstrup's view – appears set to get chance against Mjällby",
-        "summary": "Mayckel Lahdo has started only one match for MFF since joining at the end of August. But much suggests he will get the chance again. – Both his body and everything else about him are heading upwards, says MFF coach Gaute Helstrup."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:01:21+01:00"
       }
     }
   ]

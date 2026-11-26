@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T21:01:22+01:00",
+  "generated_at": "2026-11-26T21:10:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6e0724ff999c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/dieselfartyg-har-valt-vid-ibiza",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/dieselfartyg-har-valt-vid-ibiza",
+      "published_at": "2026-11-26T21:06:54+01:00",
+      "fetched_at": "2026-11-26T21:09:54+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Dieselfartyg har vält",
+        "summary": "7 000 ton olja ombord • En person död vid Ibiza",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Diesel ship capsizes",
+        "summary": "7,000 tonnes of oil on board • One person dead off Ibiza"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T21:10:00+01:00"
+      }
+    },
     {
       "id": "8aefc947d27b",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T19:45:54+01:00"
-      }
-    },
-    {
-      "id": "0171a5941ad6",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/centerpartiet-har-mote-om-hogersvang",
-      "guid": "https://www.expressen.se/nyheter/politik/centerpartiet-har-mote-om-hogersvang/",
-      "published_at": "2026-11-23T19:27:27+01:00",
-      "fetched_at": "2026-11-23T19:30:15+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Centerpartiet har möte om högersväng",
-        "summary": "Centerpartiet har möte på måndagskvällen för att diskutera ett regeringssamarbete högerut, erfar Expressen. Partistyrelsen och riksdagsgruppen deltar. Samtidigt går 35 lokala C-politiker ut och säger nej till en högersväng i en debattartikel.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Centre Party to hold meeting on rightward shift",
-        "summary": "The Centre Party is holding a meeting on Monday evening to discuss a government cooperation further to the right, Expressen learns. The party board and the parliamentary group are taking part. Meanwhile, 35 local C politicians have said no to a rightward shift in a debate article."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T19:30:27+01:00"
       }
     }
   ]

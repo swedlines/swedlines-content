@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T21:01:22+01:00",
+  "generated_at": "2026-11-26T21:10:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "998c4b5b394d",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/friidrott/prisas-efter-att-ha-hjalpt-lopare-som-kollapsade-pa-boston-marathon",
+      "guid": "https://www.svt.se/sport/friidrott/prisas-efter-att-ha-hjalpt-lopare-som-kollapsade-pa-boston-marathon",
+      "published_at": "2026-11-26T20:47:28+01:00",
+      "fetched_at": "2026-11-26T21:09:50+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Prisas efter att ha hjälpt löpare som kollapsade på Boston Marathon",
+        "summary": "Ajay Haridasse kollapsade 300 meter från målgång i Boston Marathon. Då fick han hjälp av två medlöpare – nu prisas duon av det internationella friidrottsförbundet för sin insats. – Jag trodde aldrig i livet att vi skulle vinna, säger Aaron Beggs.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Praised for helping runners who collapsed at the Boston Marathon",
+        "summary": "Ajay Haridasse collapsed 300 metres from the finish line at the Boston Marathon. He was then helped by two fellow runners – now the duo is being praised by the International Association of Athletics Federations for their efforts. \"I never thought in my life that we would win,\" says Aaron Beggs."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T21:10:00+01:00"
+      }
+    },
     {
       "id": "26d783ad4160",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T20:01:21+01:00"
-      }
-    },
-    {
-      "id": "3bbde8801ff2",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/professorn-allting-pekar-pa-ukrainska-dronare",
-      "guid": "https://www.svt.se/nyheter/utrikes/professorn-allting-pekar-pa-ukrainska-dronare",
-      "published_at": "2026-11-21T19:17:33+01:00",
-      "fetched_at": "2026-11-21T19:30:58+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Professorn: ”Allting pekar på ukrainska drönare”",
-        "summary": "Det ryska lastfartyget Sparta II träffades av drönare i Finska viken – och började brinna. Fartyget har evakuerats. Enligt Hans Liwång, professor vid Försvarshögskolan, pekar mycket på att Ukraina ligger bakom attacken.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Professor: ”Everything points to Ukrainian drones”",
-        "summary": "The Russian cargo ship Sparta II was hit by drones in the Gulf of Finland – and began to burn. The vessel has been evacuated. According to Hans Liwång, professor at the Swedish Defence University, much points to Ukraine being behind the attack."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T19:31:08+01:00"
       }
     }
   ]

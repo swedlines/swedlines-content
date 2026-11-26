@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:01:22+01:00",
+  "generated_at": "2026-11-26T21:10:03+01:00",
   "count": 30,
   "stories": [
     {
@@ -1043,6 +1043,94 @@
       ]
     },
     {
+      "id": "0e9a36d1e907",
+      "source_count": 4,
+      "sources": [
+        "aftonbladet",
+        "di",
+        "sydsvenskan",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-26T09:10:20+01:00",
+      "last_published_at": "2026-11-26T21:06:54+01:00",
+      "lead": {
+        "id": "0e9a36d1e907",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/Vxb0Jl/skepp-med-7000-ton-diesel-har-sjunkit-vid-ibiza",
+        "guid": "https://www.aftonbladet.se/nyheter/a/Vxb0Jl/skepp-med-7000-ton-diesel-har-sjunkit-vid-ibiza?utm_medium=rss",
+        "published_at": "2026-11-26T09:10:20+01:00",
+        "fetched_at": "2026-11-26T09:15:49+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Skepp med 7 000 ton diesel har sjunkit vid Ibiza",
+          "summary": "Ett skepp lastat med 7 000 ton diesel har sjunkit utanför kusten vid den spanska Medelhavsön Ibiza.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza",
+          "summary": "A ship loaded with 7,000 tonnes of diesel has sunk off the coast of the Spanish Mediterranean island of Ibiza."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:16:07+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "6e0724ff999c",
+          "source": "expressen",
+          "url": "https://www.expressen.se/tv/nyheter/varlden/dieselfartyg-har-valt-vid-ibiza",
+          "published_at": "2026-11-26T21:06:54+01:00",
+          "sv": {
+            "title": "Dieselfartyg har vält"
+          },
+          "en": {
+            "title": "Diesel ship capsizes"
+          }
+        },
+        {
+          "id": "6fc96e42a962",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/skepp-med-7-000-ton-diesel-har-sjunkit-vid-ibiza",
+          "published_at": "2026-11-26T09:13:32+01:00",
+          "sv": {
+            "title": "Skepp med 7 000 ton diesel har sjunkit vid Ibiza"
+          },
+          "en": {
+            "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza"
+          }
+        },
+        {
+          "id": "f76a3f587edd",
+          "source": "di",
+          "url": "https://www.di.se/live/skepp-med-7-000-ton-diesel-har-sjunkit-vid-ibiza",
+          "published_at": "2026-11-26T09:12:16+01:00",
+          "sv": {
+            "title": "Skepp med 7.000 ton diesel har sjunkit vid Ibiza"
+          },
+          "en": {
+            "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza"
+          }
+        },
+        {
+          "id": "0e9a36d1e907",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Vxb0Jl/skepp-med-7000-ton-diesel-har-sjunkit-vid-ibiza",
+          "published_at": "2026-11-26T09:10:20+01:00",
+          "sv": {
+            "title": "Skepp med 7 000 ton diesel har sjunkit vid Ibiza"
+          },
+          "en": {
+            "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza"
+          }
+        }
+      ]
+    },
+    {
       "id": "a7132c44a83b",
       "source_count": 4,
       "sources": [
@@ -1912,81 +2000,6 @@
           },
           "en": {
             "title": "Kristersson believes he has a “realistic chance”"
-          }
-        }
-      ]
-    },
-    {
-      "id": "0e9a36d1e907",
-      "source_count": 3,
-      "sources": [
-        "aftonbladet",
-        "di",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-26T09:10:20+01:00",
-      "last_published_at": "2026-11-26T09:13:32+01:00",
-      "lead": {
-        "id": "0e9a36d1e907",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/Vxb0Jl/skepp-med-7000-ton-diesel-har-sjunkit-vid-ibiza",
-        "guid": "https://www.aftonbladet.se/nyheter/a/Vxb0Jl/skepp-med-7000-ton-diesel-har-sjunkit-vid-ibiza?utm_medium=rss",
-        "published_at": "2026-11-26T09:10:20+01:00",
-        "fetched_at": "2026-11-26T09:15:49+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Skepp med 7 000 ton diesel har sjunkit vid Ibiza",
-          "summary": "Ett skepp lastat med 7 000 ton diesel har sjunkit utanför kusten vid den spanska Medelhavsön Ibiza.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza",
-          "summary": "A ship loaded with 7,000 tonnes of diesel has sunk off the coast of the Spanish Mediterranean island of Ibiza."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T09:16:07+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "6fc96e42a962",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/skepp-med-7-000-ton-diesel-har-sjunkit-vid-ibiza",
-          "published_at": "2026-11-26T09:13:32+01:00",
-          "sv": {
-            "title": "Skepp med 7 000 ton diesel har sjunkit vid Ibiza"
-          },
-          "en": {
-            "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza"
-          }
-        },
-        {
-          "id": "f76a3f587edd",
-          "source": "di",
-          "url": "https://www.di.se/live/skepp-med-7-000-ton-diesel-har-sjunkit-vid-ibiza",
-          "published_at": "2026-11-26T09:12:16+01:00",
-          "sv": {
-            "title": "Skepp med 7.000 ton diesel har sjunkit vid Ibiza"
-          },
-          "en": {
-            "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza"
-          }
-        },
-        {
-          "id": "0e9a36d1e907",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Vxb0Jl/skepp-med-7000-ton-diesel-har-sjunkit-vid-ibiza",
-          "published_at": "2026-11-26T09:10:20+01:00",
-          "sv": {
-            "title": "Skepp med 7 000 ton diesel har sjunkit vid Ibiza"
-          },
-          "en": {
-            "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza"
           }
         }
       ]
