@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T16:15:57+01:00",
+  "generated_at": "2026-11-26T16:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cf991ce76a24",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/sakerhetsforvaring-kan-bli-aktuellt-for-mordmisstankt-i-kiruna",
+      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/sakerhetsforvaring-kan-bli-aktuellt-for-mordmisstankt-i-kiruna",
+      "published_at": "2026-11-26T16:01:43+01:00",
+      "fetched_at": "2026-11-26T16:31:00+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Säkerhetsförvaring kan bli aktuellt för mordmisstänkt i Kiruna",
+        "summary": "Åklagarna vill att tingsrätten hämtar in en särskild riskutredning för mannen som misstänks ha mördat en annan man i Kiruna. Utredningen kan bli avgörande för om den nya påföljden säkerhetsförvaring blir aktuell – men i annat fall yrkar åklagarna på 18 års fängelse och utvisning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Preventive detention may become relevant for murder suspect in Kiruna",
+        "summary": "The prosecutors want the district court to obtain a special risk assessment for the man suspected of murdering another man in Kiruna. The assessment could be decisive for whether the new sanction of preventive detention becomes relevant – but otherwise the prosecutors are seeking 18 years in prison and deportation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T16:31:09+01:00"
+      }
+    },
     {
       "id": "b1eefdad14eb",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T13:15:56+01:00"
-      }
-    },
-    {
-      "id": "37b7b6c0bfbf",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/byggarbetare-korde-full-i-skelleftea-krockade-med-elskap",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/byggarbetare-korde-full-i-skelleftea-krockade-med-elskap",
-      "published_at": "2026-11-21T12:57:09+01:00",
-      "fetched_at": "2026-11-21T13:01:09+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Byggarbetare körde full i Skellefteå – krockade med elskåp",
-        "summary": "Mannen var nära att köra av vägen med skåpbilen två gånger – tillslut körde han in i ett elskåp i Skellefteå. När han stoppades hade han 2,42 promille i blodet. Nu döms han för grovt rattfylleri.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Construction worker drove drunk in Skellefteå – crashed into electricity cabinet",
-        "summary": "The man nearly drove the van off the road twice before finally driving into an electricity cabinet in Skellefteå. When he was stopped he had 2.42 per mille alcohol in his blood. He is now convicted of aggravated drink-driving."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T13:01:30+01:00"
       }
     }
   ]

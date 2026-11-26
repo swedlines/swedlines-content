@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T16:15:57+01:00",
+  "generated_at": "2026-11-26T16:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "83d9ff69bc92",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/sverige/slow-tv-folj-gavlebocken-direkt-fran-stortorget",
+      "guid": "https://www.expressen.se/tv/nyheter/sverige/slow-tv-folj-gavlebocken-direkt-fran-stortorget",
+      "published_at": "2026-11-26T16:16:21+01:00",
+      "fetched_at": "2026-11-26T16:31:02+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Slow-tv: Följ Gävlebocken live",
+        "summary": "Kommer bocken brinna upp? • Live direkt från Stortorget",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Slow TV: Follow the Gävle goat live",
+        "summary": "Will the goat burn up? • Live directly from Stortorget"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T16:31:09+01:00"
+      }
+    },
     {
       "id": "298191a05829",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T15:10:54+01:00"
-      }
-    },
-    {
-      "id": "1df3dce49ead",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=13b48a0c-3a8b-4d15-845f-02a2747249cf",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=13b48a0c-3a8b-4d15-845f-02a2747249cf",
-      "published_at": "2026-11-23T13:52:15+01:00",
-      "fetched_at": "2026-11-23T14:01:12+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Ung person hittad död i Falun",
-        "summary": "Förundersökning inledd i Falun",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Young person found dead in Falun",
-        "summary": "Preliminary investigation opened in Falun"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T14:01:30+01:00"
       }
     }
   ]

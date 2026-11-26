@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:15:57+01:00",
+  "generated_at": "2026-11-26T16:31:11+01:00",
   "count": 200,
   "items": [
     {
@@ -27,6 +27,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T16:15:54+01:00"
+      }
+    },
+    {
+      "id": "cf991ce76a24",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/sakerhetsforvaring-kan-bli-aktuellt-for-mordmisstankt-i-kiruna",
+      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/sakerhetsforvaring-kan-bli-aktuellt-for-mordmisstankt-i-kiruna",
+      "published_at": "2026-11-26T16:01:43+01:00",
+      "fetched_at": "2026-11-26T16:31:00+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Säkerhetsförvaring kan bli aktuellt för mordmisstänkt i Kiruna",
+        "summary": "Åklagarna vill att tingsrätten hämtar in en särskild riskutredning för mannen som misstänks ha mördat en annan man i Kiruna. Utredningen kan bli avgörande för om den nya påföljden säkerhetsförvaring blir aktuell – men i annat fall yrkar åklagarna på 18 års fängelse och utvisning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Preventive detention may become relevant for murder suspect in Kiruna",
+        "summary": "The prosecutors want the district court to obtain a special risk assessment for the man suspected of murdering another man in Kiruna. The assessment could be decisive for whether the new sanction of preventive detention becomes relevant – but otherwise the prosecutors are seeking 18 years in prison and deportation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T16:31:09+01:00"
       }
     },
     {
@@ -5386,33 +5412,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T20:15:50+01:00"
-      }
-    },
-    {
-      "id": "fb6dbafedaf7",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/j3dJ0A/farligt-foremal-hittat-i-malmo",
-      "guid": "https://www.aftonbladet.se/nyheter/a/j3dJ0A/farligt-foremal-hittat-i-malmo?utm_medium=rss",
-      "published_at": "2026-11-21T19:46:22+01:00",
-      "fetched_at": "2026-11-21T20:01:16+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/42d9f423-d8aa-3d9a-9c45-4af6f66c649e?format=auto&s=77e75c9799dce15c3679660fd63d36857bc3f752&w=1000",
-      "sv": {
-        "title": "Farligt föremål hittat i Malmö",
-        "summary": "Ett farligt föremål har hittats i ett bostadsområde i Hyllie i Malmö. Polisen har spärrat av platsen…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dangerous object found in Malmö",
-        "summary": "A dangerous object has been found in a residential area in Hyllie in Malmö. Police have cordoned off the site…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T20:01:21+01:00"
       }
     }
   ]

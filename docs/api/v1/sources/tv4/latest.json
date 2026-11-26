@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-26T16:15:57+01:00",
+  "generated_at": "2026-11-26T16:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e3226fca352e",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7LyyTvy4dymGkGgCnbgd0L/celine-och-texas-kan-aeta-ihjael-sig-kaenner-ingen-maettnadskaensla",
+      "guid": "7LyyTvy4dymGkGgCnbgd0L",
+      "published_at": "2026-11-26T16:16:53+01:00",
+      "fetched_at": "2026-11-26T16:31:03+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Céline och Texas kan äta ihjäl sig: ”Känner ingen mättnadskänsla”",
+        "summary": "Ett nytt boende för personer med syndromet har öppnat i Mölndal utanför Göteborg, det enda i Västsverige. Där bor bland andra 28-åriga Céline Denont och 21-årige Texas Bygdestå. Prader-Willis syndrom är medfött och genetiskt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Céline and Texas could eat themselves to death: \"I don't feel any sense of fullness\"",
+        "summary": "A new housing facility for people with the syndrome has opened in Mölndal outside Göteborg, the only one in western Sweden. Among the residents are 28-year-old Céline Denont and 21-year-old Texas Bygdestå. Prader-Willi syndrome is congenital and genetic."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T16:31:09+01:00"
+      }
+    },
     {
       "id": "d9d2b33a2235",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T18:01:26+01:00"
-      }
-    },
-    {
-      "id": "b17733df03fb",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6l4C28DIjUQ2tU3Nb3uh8e/mattias-48-misshandlades-till-doeds-tva-maen-atalas",
-      "guid": "6l4C28DIjUQ2tU3Nb3uh8e",
-      "published_at": "2026-11-18T14:07:30+01:00",
-      "fetched_at": "2026-11-18T14:15:47+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Brott och straff"
-      ],
-      "sv": {
-        "title": "Mattias, 48, misshandlades till döds – två män åtalas",
-        "summary": "Två män i 20-årsåldern åtalas nu för dråp efter att ha misshandlat 48-årige Mattias till döds. Misshandeln skedde inför hans familj utanför en snabbmatsrestaurang i Karlstad i slutet av augusti.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Mattias, 48, beaten to death – two men charged",
-        "summary": "Two men in their 20s have now been charged with manslaughter after beating 48-year-old Mattias to death. The assault took place in front of his family outside a fast-food restaurant in Karlstad in late August."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T14:15:54+01:00"
       }
     }
   ]
