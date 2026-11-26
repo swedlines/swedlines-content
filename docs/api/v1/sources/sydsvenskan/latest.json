@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-26T12:45:47+01:00",
+  "generated_at": "2026-11-26T13:01:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "847bf029c9f7",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/chefredaktor-lena-philipson/ingemar-du-fattas-mig",
+      "guid": "746b75a3-00bc-433e-bade-2a7d3265e154",
+      "published_at": "2026-11-26T13:00:00+01:00",
+      "fetched_at": "2026-11-26T13:01:25+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/1234c570-15dd-4d57-bbe5-68952152ff51.jpeg?width=600",
+      "sv": {
+        "title": "Ingemar – du fattas mig"
+      },
+      "en": {
+        "title": "Ingemar – you are missed"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:01:40+01:00"
+      }
+    },
+    {
+      "id": "3165acab7852",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/man-hittad-dod-pa-hakte-Sbu5_",
+      "guid": "87f6d9e3-ba7c-44e9-9234-2a833c9be002",
+      "published_at": "2026-11-26T12:57:14+01:00",
+      "fetched_at": "2026-11-26T13:01:25+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man hittad död på häkte",
+        "summary": "En intagen man har hittats död i sin cell på häktet i Flemingsberg söder om Stockholm.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man found dead in remand prison",
+        "summary": "An inmate has been found dead in his cell at the remand prison in Flemingsberg, south of Stockholm."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T13:01:40+01:00"
+      }
+    },
     {
       "id": "56251a3b736b",
       "schema_version": 1,
@@ -5131,56 +5181,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T18:15:53+01:00"
-      }
-    },
-    {
-      "id": "ee3bd827b80f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-130-kvm-saldes-for-5-4-miljoner",
-      "guid": "fb0d0853-4e66-4f4e-9add-e51ddd273edf",
-      "published_at": "2026-11-23T18:01:51+01:00",
-      "fetched_at": "2026-11-23T18:15:47+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Hus på 130 kvm såldes för 5,4 miljoner"
-      },
-      "en": {
-        "title": "130 sq m house sold for SEK 5.4 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T18:15:53+01:00"
-      }
-    },
-    {
-      "id": "05f20e9d1fe5",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/har-sparar-konsertkvallen-pa-plan-b-ur-se-filmerna-fran-punkbraket",
-      "guid": "dab7a36d-3823-4ad4-aba1-48440cbdd676",
-      "published_at": "2026-11-23T18:00:00+01:00",
-      "fetched_at": "2026-11-23T18:01:18+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/ac989e70-2a7a-4ee4-b0cc-d87ea8fbad93.png?width=600",
-      "sv": {
-        "title": "Här spårar konsertkvällen på Plan B ur – se filmerna från punkbråket",
-        "summary": "Punkfesten på Plan B slutade i upplopp, men vad hände egentligen? Nu kan Sydsvenskan för första gången visa filmmaterial från den kaotiska kvällen och berätta vad som hände – minut för minut.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here the concert evening at Plan B derails – see the videos from the punk brawl",
-        "summary": "The punk party at Plan B ended in riots, but what actually happened? For the first time, Sydsvenskan can now show filmed material from the chaotic evening and tell what happened – minute by minute."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T18:01:23+01:00"
       }
     }
   ]
