@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-26T01:15:55+01:00",
-  "count": 8,
+  "generated_at": "2026-11-26T01:31:07+01:00",
+  "count": 10,
   "items": [
+    {
+      "id": "d9d407c07bf9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/gatan-kring--putins-sex-supervapen",
+      "guid": "https://www.expressen.se/nyheter/varlden/gatan-kring--putins-sex-supervapen/",
+      "published_at": "2026-11-26T01:19:13+01:00",
+      "fetched_at": "2026-11-26T01:31:02+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Gåtan kring Putins sex supervapen",
+        "summary": "Putin skröt om sina sex ”supervapen”. Åtta år senare försöker Newsweek reda ut frågan ”vad hände egentligen med Putins kärnvapen?”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Mystery of Putin's Six Super-Weapons",
+        "summary": "Putin boasted about his six \"super-weapons\". Eight years later, Newsweek tries to untangle the question \"what actually happened to Putin's nuclear weapons?\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T01:31:06+01:00"
+      }
+    },
+    {
+      "id": "f0adfb0ae38f",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350340",
+      "guid": "rss:sr.se/article/9350340",
+      "published_at": "2026-11-26T01:17:00+01:00",
+      "fetched_at": "2026-11-26T01:31:01+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Irländska kyrkfönster smyckas om till minne av aidsoffer",
+        "summary": "I Dublin har kyrkfönster smyckats med röda band till minne av dem som dog under den världsomfattande aidsepidemin på 80-talet. Enligt den irländska public service-kanalen RTÉ avtäcktes installationen i St Teresa's kyrka i samband med kyrkans 100-årsjubileum och inför Världsaidsdagen den 1…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Irish Church Windows Redressed in Memory of AIDS Victims",
+        "summary": "In Dublin, church windows have been decorated with red ribbons in memory of those who died during the global AIDS epidemic of the 1980s. According to the Irish public service broadcaster RTÉ, the installation was unveiled at St Teresa's Church in connection with the church's 100th anniversary and ahead of World AIDS Day on 1…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T01:31:06+01:00"
+      }
+    },
     {
       "id": "8e04e582feb0",
       "schema_version": 1,

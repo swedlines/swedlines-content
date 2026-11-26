@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T01:15:55+01:00",
+  "generated_at": "2026-11-26T01:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d9d407c07bf9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/gatan-kring--putins-sex-supervapen",
+      "guid": "https://www.expressen.se/nyheter/varlden/gatan-kring--putins-sex-supervapen/",
+      "published_at": "2026-11-26T01:19:13+01:00",
+      "fetched_at": "2026-11-26T01:31:02+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Gåtan kring Putins sex supervapen",
+        "summary": "Putin skröt om sina sex ”supervapen”. Åtta år senare försöker Newsweek reda ut frågan ”vad hände egentligen med Putins kärnvapen?”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Mystery of Putin's Six Super-Weapons",
+        "summary": "Putin boasted about his six \"super-weapons\". Eight years later, Newsweek tries to untangle the question \"what actually happened to Putin's nuclear weapons?\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T01:31:06+01:00"
+      }
+    },
     {
       "id": "8e04e582feb0",
       "schema_version": 1,
@@ -5328,32 +5354,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T20:40:13+01:00"
-      }
-    },
-    {
-      "id": "c2aaa9b18027",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/kMJgWL/artist-i-iran-utdelades-dussintal-spostraff",
-      "guid": "https://www.aftonbladet.se/nyheter/a/kMJgWL/artist-i-iran-utdelades-dussintal-spostraff?utm_medium=rss",
-      "published_at": "2026-11-23T20:21:23+01:00",
-      "fetched_at": "2026-11-23T20:30:57+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Artist i Iran utdelades dussintal spöstraff",
-        "summary": "Iran har verkställt domen mot den kvinnliga artisten Parastoo Ahmadi och ytterligare fyra personer…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Artist in Iran given dozens of lashes",
-        "summary": "Iran has carried out the sentence against the female artist Parastoo Ahmadi and four other people…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T20:31:03+01:00"
       }
     }
   ]
