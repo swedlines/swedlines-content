@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T07:31:09+01:00",
+  "generated_at": "2026-11-26T07:46:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2d6d20039bdf",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/ekonomi/sa-paverkas-din-pension-av-usa-borsen",
+      "guid": "https://www.svt.se/nyheter/ekonomi/sa-paverkas-din-pension-av-usa-borsen",
+      "published_at": "2026-11-26T07:29:12+01:00",
+      "fetched_at": "2026-11-26T07:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Så påverkas din pension av USA-börsen",
+        "summary": "De stora svängningarna på USA-börsen påverkar pensionssparande även i Sverige. – Nu är en bra tid att se över sitt innehav, säger ekonomijournalisten Klara Matsdotter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is how your pension is affected by the US stock market",
+        "summary": "The large swings on the US stock market also affect pension savings in Sweden. – Now is a good time to review your holdings, says economics journalist Klara Matsdotter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T07:46:03+01:00"
+      }
+    },
     {
       "id": "0d3e0d9b3ce7",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T08:15:49+01:00"
-      }
-    },
-    {
-      "id": "d2fae409ec5f",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/halland/efter-dodsolycka-pa-sodra-atal-vackt",
-      "guid": "https://www.svt.se/nyheter/lokalt/halland/efter-dodsolycka-pa-sodra-atal-vackt",
-      "published_at": "2026-11-20T07:45:14+01:00",
-      "fetched_at": "2026-11-20T07:56:01+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Efter dödsolycka på Södra – åtal väckt",
-        "summary": "Södra skogsägarna krävs på en företagsbot på drygt 7 miljoner kronor efter dödsolyckan 2022 vid Södra cell Värö i Varbergs kommun då en lokförare omkom i en olycka. Enligt Haverikommissionen hade Södra brustit i sin riskhantering.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After fatal accident at Södra – charges filed",
-        "summary": "Södra skogsägarna is facing a corporate fine of just over SEK 7 million after the 2022 fatal accident at Södra cell Värö in Varbergs kommun, when a train driver died in an accident. According to Haverikommissionen, Södra had failed in its risk management."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:56:15+01:00"
       }
     }
   ]
