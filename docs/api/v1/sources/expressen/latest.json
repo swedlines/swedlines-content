@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T10:16:14+01:00",
+  "generated_at": "2026-11-26T10:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3160a7f86612",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=4b02c857-6061-47b1-8080-c286c9f512a5",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4b02c857-6061-47b1-8080-c286c9f512a5",
+      "published_at": "2026-11-26T10:23:16+01:00",
+      "fetched_at": "2026-11-26T10:31:06+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Stort svart rökmoln",
+        "summary": "Elbuss brinner i Göteborg",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Large black smoke cloud",
+        "summary": "Electric bus on fire in Göteborg"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:31:14+01:00"
+      }
+    },
     {
       "id": "6ffa640dd016",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T08:31:18+01:00"
-      }
-    },
-    {
-      "id": "a4ff86785878",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=6787a2c3-a438-499a-a8db-e419dd0a8e92",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6787a2c3-a438-499a-a8db-e419dd0a8e92",
-      "published_at": "2026-11-23T07:50:22+01:00",
-      "fetched_at": "2026-11-23T08:01:15+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Olycka på E4",
-        "summary": "Lastbil står i fel färdriktning",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Accident on E4",
-        "summary": "Truck is facing the wrong way"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T08:01:25+01:00"
       }
     }
   ]

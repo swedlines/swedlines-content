@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T10:16:14+01:00",
+  "generated_at": "2026-11-26T10:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f64698db3df7",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/ovanlig-rattegang-i-lund-man-staller-aklagare-infor-ratta",
+      "guid": "b3acdbca-05dc-4fc3-aa41-4e6a652ecea1",
+      "published_at": "2026-11-26T10:30:38+01:00",
+      "fetched_at": "2026-11-26T10:31:08+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/361711e2-01f0-46f8-bb6a-f55352fa3bad.jpeg?width=600",
+      "sv": {
+        "title": "Ovanlig rättegång i Lund – man ställer åklagare inför rätta",
+        "summary": "På torsdagen inleddes en ovanlig rättegång där rollerna är ombytta. En man i 60-årsåldern har nämligen dragit en åklagare inför rätta för obefogat åtal. Han menar att åklagaren felaktigt har åtalat honom för misshandel vid ett tidigare tillfälle.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Unusual trial in Lund – man takes prosecutor to court",
+        "summary": "An unusual trial with roles reversed began on Thursday. A man in his 60s has sued a prosecutor for unjustified charges. He argues that the prosecutor wrongly charged him with assault on an earlier occasion."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:31:14+01:00"
+      }
+    },
     {
       "id": "d5f4a8abde2d",
       "schema_version": 1,
@@ -5404,33 +5431,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T12:01:23+01:00"
-      }
-    },
-    {
-      "id": "9a3899bdb8e2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/410897/goer-high-five-sen-stjael-de-en-halv-miljon",
-      "guid": "https://tv.aftonbladet.se/video/410897/goer-high-five-sen-stjael-de-en-halv-miljon?utm_medium=rss",
-      "published_at": "2026-11-21T11:40:54+01:00",
-      "fetched_at": "2026-11-21T11:45:45+01:00",
-      "category": "crime",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/fdb5751781fa32fbf5b1ad35ed422f65.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "High five – sen stjäl de en halv miljon",
-        "summary": "Bedragarna döms i hovrätten",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "High five – then they steal half a million",
-        "summary": "The fraudsters are convicted in the court of appeal"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T11:45:53+01:00"
       }
     }
   ]

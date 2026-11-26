@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T10:16:14+01:00",
+  "generated_at": "2026-11-26T10:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2eee4a9b0990",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/bekraftar-mff-pausar-samarbete-med-olympic",
+      "guid": "7aedbaef-48ab-4e13-a6f9-370c41e8b55c",
+      "published_at": "2026-11-26T10:30:54+01:00",
+      "fetched_at": "2026-11-26T10:31:08+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/e2144b21-8dec-439d-91d2-143b68c54b54.jpeg?width=600",
+      "sv": {
+        "title": "Bekräftar: MFF pausar samarbetet med Olympic",
+        "summary": "Malmö FF sätter samarbetet med BK Olympic på paus. – Det kommande året kör vi själva och så ser vi vad vi vill sen, säger Ahmed Chahrour, sportchef i BK Olympic.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Confirmed: MFF pauses cooperation with Olympic",
+        "summary": "Malmö FF is putting its cooperation with BK Olympic on hold. \"For the coming year we will go it alone, and then we'll see what we want after that,\" says Ahmed Chahrour, sporting director at BK Olympic."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:31:14+01:00"
+      }
+    },
     {
       "id": "4bb8985b90cb",
       "schema_version": 1,
@@ -5551,38 +5578,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:56:15+01:00"
-      }
-    },
-    {
-      "id": "48f8e2125fa1",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/frida-karlsson-utmanar-sprintstjarnorna-vill-in-i-varldens-basta-lag.e836341c-e203-5ca9-bfdd-59b7818c60ec",
-      "guid": "e836341c-e203-5ca9-bfdd-59b7818c60ec",
-      "published_at": "2026-11-20T07:06:52+01:00",
-      "fetched_at": "2026-11-20T07:31:08+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Sport",
-        "Tagg: Frida Karlsson",
-        "Tagg: Fokus sport"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/f9a13068-662f-35c4-8765-ceeb89b30cdb",
-      "sv": {
-        "title": "Frida Karlsson vill slå sig in i svenska sprintlaget",
-        "summary": "Skidstjärnan Frida Karlsson vill ta nästa steg och köra sprint: ”Ganska solklart vad som behövs”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Frida Karlsson wants to break into the Swedish sprint team",
-        "summary": "Ski star Frida Karlsson wants to take the next step and race sprints: “Pretty clear what's needed.”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:31:23+01:00"
       }
     }
   ]

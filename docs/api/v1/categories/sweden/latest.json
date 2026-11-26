@@ -1,7 +1,93 @@
 {
-  "generated_at": "2026-11-26T10:16:14+01:00",
+  "generated_at": "2026-11-26T10:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3160a7f86612",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=4b02c857-6061-47b1-8080-c286c9f512a5",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4b02c857-6061-47b1-8080-c286c9f512a5",
+      "published_at": "2026-11-26T10:23:16+01:00",
+      "fetched_at": "2026-11-26T10:31:06+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Stort svart rökmoln",
+        "summary": "Elbuss brinner i Göteborg",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Large black smoke cloud",
+        "summary": "Electric bus on fire in Göteborg"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:31:14+01:00"
+      }
+    },
+    {
+      "id": "278c97a65c6a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/smaorterna-blir-farre-och-storstaderna-storre",
+      "guid": "e13905b5-7784-43ab-9d35-e80481f0ae30",
+      "published_at": "2026-11-26T10:23:12+01:00",
+      "fetched_at": "2026-11-26T10:31:08+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/0a8c1e28-cf9a-4ce1-bf10-1585fe2894a6.jpg?width=600",
+      "sv": {
+        "title": "Småorterna blir färre och storstäderna större – Lund har passerat 100 000",
+        "summary": "Antalet tätorter och småorter i Sverige blir färre, visar nya siffror från SCB. Samtidigt växer storstäderna, och Lund har passerat 100 000 invånare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Small localities are shrinking and big cities growing – Lund has passed 100,000",
+        "summary": "The number of urban areas and small localities in Sweden is decreasing, according to new figures from Statistics Sweden (SCB). At the same time, the big cities are growing, and Lund has passed 100,000 inhabitants."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:31:14+01:00"
+      }
+    },
+    {
+      "id": "3c89cc0b0866",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/brinnande-elbuss-i-save-stort-svart-rokmoln.8af8d498-e46f-57c3-8dd0-1b68526cf242",
+      "guid": "8af8d498-e46f-57c3-8dd0-1b68526cf242",
+      "published_at": "2026-11-26T10:14:57+01:00",
+      "fetched_at": "2026-11-26T10:31:07+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Västtrafik",
+        "Tagg: Säve flygplats"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/0230b878-4eba-3378-8c09-5562a21b0b76",
+      "sv": {
+        "title": "Buss brinner – stor rökpelare över Göteborg",
+        "summary": "Räddningstjänsten på plats.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bus on fire – large smoke column over Göteborg",
+        "summary": "The rescue service is on site."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T10:31:14+01:00"
+      }
+    },
     {
       "id": "4aa97b8988a1",
       "schema_version": 1,
@@ -5416,93 +5502,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T06:01:20+01:00"
-      }
-    },
-    {
-      "id": "a99c58259413",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/ekonomi/kopte-hus-i-varberg-blir-av-med-hyresratten-i-goteborg.7f2858d4-22db-5ce2-a6f5-c31474184476",
-      "guid": "7f2858d4-22db-5ce2-a6f5-c31474184476",
-      "published_at": "2026-11-22T05:59:39+01:00",
-      "fetched_at": "2026-11-22T06:15:48+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Ekonomi",
-        "Tagg: Hyresvärd",
-        "Tagg: Hyresnämnden",
-        "Tagg: Göteborg",
-        "Tagg: Bostad"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/337221a1-1dca-3d78-ada7-a7af50e5d15c",
-      "sv": {
-        "title": "Blir av med hyresrätt i Göteborg efter husköp i Varberg",
-        "summary": "Hyresnämnden anser att kvinnan kan pendla.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Loses rental flat in Göteborg after buying house in Varberg",
-        "summary": "The Rent Tribunal considers that the woman can commute."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T06:15:54+01:00"
-      }
-    },
-    {
-      "id": "e1125cd1c300",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/varmland/fran-fiasko-till-succe-hundratals-kilo-frukt-donerades-i-saffle",
-      "guid": "https://www.svt.se/nyheter/lokalt/varmland/fran-fiasko-till-succe-hundratals-kilo-frukt-donerades-i-saffle",
-      "published_at": "2026-11-22T05:30:00+01:00",
-      "fetched_at": "2026-11-22T05:45:38+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Från fiasko till succé – hundratals kilo frukt donerades i Säffle",
-        "summary": "Efter en trög start med knappt någon som donerade frukt vände det. Efter att september övergått i oktober lämnades över totalt 300 kilo frukt in till kommunens kök runtom i Säffle. – Nu känns det mycket bättre, säger kocken Sandra som först var besviken över att så lite frukt lämnades in.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "From fiasco to success – hundreds of kilos of fruit donated in Säffle",
-        "summary": "After a sluggish start with almost no one donating fruit, things turned around. After September turned into October, a total of 300 kilos of fruit were handed in to the municipality's kitchens across Säffle. \"Now it feels much better,\" says chef Sandra, who was initially disappointed that so little fruit had been handed in."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T05:45:45+01:00"
-      }
-    },
-    {
-      "id": "1d616614f8c4",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/M5RkbB/dalig-manad-for-persontagens-punktlighet",
-      "guid": "https://www.aftonbladet.se/nyheter/a/M5RkbB/dalig-manad-for-persontagens-punktlighet?utm_medium=rss",
-      "published_at": "2026-11-22T05:00:10+01:00",
-      "fetched_at": "2026-11-22T05:01:07+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/c01ff5b8-c3be-304f-a760-9e6c3966510d?format=auto&s=c79502e618c9faafe917a8fdfcf685b480c58141&w=1000",
-      "sv": {
-        "title": "Dålig månad för persontågens punktlighet",
-        "summary": "I oktober föll persontågens punktlighet till 86,5 procent. Nedsatt hastighet och obehöriga personer…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Poor month for passenger train punctuality",
-        "summary": "In October, passenger train punctuality fell to 86.5 percent. Reduced speed and unauthorised persons…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T05:01:12+01:00"
       }
     }
   ]
