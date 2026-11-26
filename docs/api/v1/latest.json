@@ -1,7 +1,238 @@
 {
-  "generated_at": "2026-11-26T08:01:29+01:00",
+  "generated_at": "2026-11-26T08:16:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f3f973cb24ff",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/corem-har-salt-kyrka-i-malmo",
+      "guid": "cdd4a04c-16e9-45c5-9ef3-afdbaa8585cb",
+      "published_at": "2026-11-26T08:14:04+01:00",
+      "fetched_at": "2026-11-26T08:15:53+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Corem har sålt kyrka i Malmö",
+        "summary": "Rutger Arnhults fastighetsbolag Corem fortsätter att sälja fastigheter. Bland annat har bolaget avyttrat en kyrka i Malmö.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Corem has sold church in Malmö",
+        "summary": "Rutger Arnhult's property company Corem continues to sell properties. The company has, among other things, divested a church in Malmö."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
+    {
+      "id": "71ba41511b5b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80325",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80325&utm_medium=rss",
+      "published_at": "2026-11-26T08:12:20+01:00",
+      "fetched_at": "2026-11-26T08:15:51+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Arbetsplatsolycka vid Slussen – föll fem meter"
+      },
+      "en": {
+        "title": "Workplace accident at Slussen – fell five metres"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
+    {
+      "id": "01ec06ca11f2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ba7f7754-85d1-4824-ac93-8ca1d50a0a4a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ba7f7754-85d1-4824-ac93-8ca1d50a0a4a",
+      "published_at": "2026-11-26T08:10:21+01:00",
+      "fetched_at": "2026-11-26T08:15:53+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Man föll fem meter",
+        "summary": "Olycka i centrala Stockholm",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man fell five metres",
+        "summary": "Accident in central Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
+    {
+      "id": "e34b95368c07",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/tusentals-svenskar-riskerar-lakemedelsberoende",
+      "guid": "0294a750-1858-46cf-afc6-d9858526dc3e",
+      "published_at": "2026-11-26T08:09:42+01:00",
+      "fetched_at": "2026-11-26T08:15:55+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/672204eb-0038-4c6f-aa00-95c6d30def53.jpg?width=600",
+      "sv": {
+        "title": "Tusentals svenskar riskerar läkemedelsberoende",
+        "summary": "Många patienter som får opioider utskrivna efter en operation fortsätter att hämta ut dem långt senare. Det ökar risken för beroende och överdosering. – Det handlar om runt 7 000 personer om året i Sverige, säger narkosläkaren Claes Gedda.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Thousands of Swedes at risk of drug dependence",
+        "summary": "Many patients who are prescribed opioids after surgery continue to collect them long afterwards. This increases the risk of dependence and overdose. – It concerns around 7,000 people a year in Sweden, says anaesthetist Claes Gedda."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
+    {
+      "id": "01be779c7ddf",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/kMJlx6/tusentals-svenskar-riskerar-lakemedelsberoende",
+      "guid": "https://www.aftonbladet.se/nyheter/a/kMJlx6/tusentals-svenskar-riskerar-lakemedelsberoende?utm_medium=rss",
+      "published_at": "2026-11-26T08:09:32+01:00",
+      "fetched_at": "2026-11-26T08:15:52+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/ac676421-26c6-3410-8876-877d17906aef?format=auto&s=0ff98853759ebd41c7a5d5abe5941786f32edb2d&w=1000",
+      "sv": {
+        "title": "Tusentals svenskar riskerar läkemedelsberoende",
+        "summary": "Många patienter som får opioider utskrivna efter en operation fortsätter att hämta ut dem långt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Thousands of Swedes at risk of drug dependence",
+        "summary": "Many patients who are prescribed opioids after surgery continue to collect them long afterwards…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
+    {
+      "id": "de60350cdcd9",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/JnojXb/tusentals-svenskar-riskerar-lakemedelsberoende",
+      "guid": "https://www.svd.se/a/JnojXb/tusentals-svenskar-riskerar-lakemedelsberoende?utm_medium=rss",
+      "published_at": "2026-11-26T08:09:32+01:00",
+      "fetched_at": "2026-11-26T08:15:51+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/ac676421-26c6-3410-8876-877d17906aef?format=auto&s=0ff98853759ebd41c7a5d5abe5941786f32edb2d&w=1000",
+      "sv": {
+        "title": "Tusentals svenskar riskerar läkemedelsberoende",
+        "summary": "Många patienter som får opioider utskrivna efter en operation fortsätter att hämta ut dem långt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Thousands of Swedes at risk of drug dependence",
+        "summary": "Many patients who are prescribed opioids after surgery continue to collect them long afterwards…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
+    {
+      "id": "1ffe6b2ccd99",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/resultatet-sjonk-for-saniona",
+      "guid": "b32c5ca0-a45d-483c-92d3-0695af59c092",
+      "published_at": "2026-11-26T08:08:27+01:00",
+      "fetched_at": "2026-11-26T08:15:53+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Resultatet sjönk för Saniona",
+        "summary": "Forskningsbolaget Saniona redovisar ett rörelseresultat på minus 26,7 miljoner kronor (360) för det tredje kvartalet 2026.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Saniona's result falls",
+        "summary": "Research company Saniona reports an operating result of minus SEK 26.7 million (360) for the third quarter of 2026."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
+    {
+      "id": "cf0b3675ede6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/addtech-koper-italiensk-kabeltillverkare",
+      "guid": "1e110406-7d5e-4014-b5b2-ed0b7d8e2f5c",
+      "published_at": "2026-11-26T08:04:44+01:00",
+      "fetched_at": "2026-11-26T08:15:53+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Addtech köper italiensk kabeltillverkare",
+        "summary": "Serieförvärvaren Addtech, med drygt 150 dotterbolag, köper ännu ett: italienska kabeltillverkaren Nuova Beta Cavi, med en årsomsättning på 19 miljoner euro.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Addtech buys Italian cable manufacturer",
+        "summary": "Serial acquirer Addtech, with just over 150 subsidiaries, buys another: Italian cable manufacturer Nuova Beta Cavi, with annual turnover of EUR 19 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
+    {
+      "id": "2f424177db52",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/live-borsmorgon-26-november",
+      "guid": "1210e910-bc24-58e4-b937-9b0456574080",
+      "published_at": "2026-11-26T08:00:00+01:00",
+      "fetched_at": "2026-11-26T08:15:53+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "LIVE: Börsmorgon 26 november"
+      },
+      "en": {
+        "title": "LIVE: Stock market morning 26 November"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
     {
       "id": "54c63f048c32",
       "schema_version": 1,
@@ -24,6 +255,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T08:01:26+01:00"
+      }
+    },
+    {
+      "id": "07fbdef9ff4d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/fem-saker-att-ha-koll-pa-innan-borsen-oppnar-4mfeC",
+      "guid": "88b45200-e65f-431b-a880-48d5b122f6aa",
+      "published_at": "2026-11-26T07:57:55+01:00",
+      "fetched_at": "2026-11-26T08:15:53+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e8a29188-417c-4f2d-a7f2-8af7f1cb6dbe.jpeg?width=600",
+      "sv": {
+        "title": "Fem saker att ha koll på innan börsen öppnar",
+        "summary": "Tydliga uppgångar är att vänta på Stockholmsbörsen på torsdagsmorgonen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Five things to keep an eye on before the stock market opens",
+        "summary": "Clear gains are expected on the Stockholm Stock Exchange on Thursday morning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
       }
     },
     {
@@ -3621,6 +3879,33 @@
       }
     },
     {
+      "id": "17f3aa9ab338",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/411274/julpynt-foer-en-halv-miljon-kopplas-till-rysk-attack",
+      "guid": "https://tv.aftonbladet.se/video/411274/julpynt-foer-en-halv-miljon-kopplas-till-rysk-attack?utm_medium=rss",
+      "published_at": "2026-11-25T23:48:20+01:00",
+      "fetched_at": "2026-11-26T08:15:52+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/3a11c9123fb9692b0b2cfed71a4409bb.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Julpynt för en halv miljon — kopplas till rysk attack",
+        "summary": "Spolades upp på stranden",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Christmas decorations worth half a million — linked to Russian attack",
+        "summary": "Washed up on the beach"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
+    {
       "id": "d06bf72359b5",
       "schema_version": 1,
       "source": "sr",
@@ -5084,308 +5369,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T20:37:08+01:00"
-      }
-    },
-    {
-      "id": "f39eca24c802",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/stark-aterhamtning-pa-wall-street",
-      "guid": "6af1e744-6335-42e3-9f53-ad104008fa5a",
-      "published_at": "2026-11-25T20:31:31+01:00",
-      "fetched_at": "2026-11-25T20:37:05+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7404840d-0f18-4790-840e-eb0b27c82ee2.jpeg?width=600",
-      "sv": {
-        "title": "Stark återhämtning på Wall Street",
-        "summary": "De kraftiga nedgångarna på Wall Street har mildrats rejält. Dow Jones handlas på plus samtidigt som S&P 500 klättrar mot nollan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Strong recovery on Wall Street",
-        "summary": "The steep declines on Wall Street have been substantially eased. The Dow Jones is trading in positive territory while the S&P 500 is climbing toward zero."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T20:37:08+01:00"
-      }
-    },
-    {
-      "id": "d7efa95b7125",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/unik-vit-panda-fangad-pa-bild",
-      "guid": "d108bf7b-75ae-4cf6-83b7-b085f8db0a4f",
-      "published_at": "2026-11-25T20:30:00+01:00",
-      "fetched_at": "2026-11-25T20:31:08+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/3992d01d-c4f6-4e4b-b756-5f40ea95c285.jpg?width=600",
-      "sv": {
-        "title": "Unik vit panda fångad på bild",
-        "summary": "Världens enda vilda vita panda har fångats på bild för första gången sedan 2019.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unique white panda caught on camera",
-        "summary": "The world's only wild white panda has been caught on camera for the first time since 2019."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T20:31:22+01:00"
-      }
-    },
-    {
-      "id": "f0849d64828b",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9350089",
-      "guid": "rss:sr.se/article/9350089",
-      "published_at": "2026-11-25T20:30:00+01:00",
-      "fetched_at": "2026-11-25T20:31:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Utvisningar av vissa unga vuxna pausas – SD kritiserar",
-        "summary": "Efter att politikerna aviserat en ny stopplag pausar Migrationsverket vissa utvisningar av unga vuxna. Sverigedemokraternas migrationspolitiska talesperson Jessika Stegrud är kritisk. ”Det är för vitt och brett och för många oklarheter.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Deportations of some young adults paused – SD criticises",
-        "summary": "After politicians announced a new stop law, the Migration Agency is pausing some deportations of young adults. The Sweden Democrats' migration policy spokesperson Jessika Stegrud is critical. ”It is too sweeping and too broad and there are too many uncertainties."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T20:31:22+01:00"
-      }
-    },
-    {
-      "id": "c9569f352a63",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/grona-rehab-tvingas-lamna-anggarden-men-forst-om-ett-ar.d8c80d7e-14d6-55b7-a96c-3a675f63070e",
-      "guid": "d8c80d7e-14d6-55b7-a96c-3a675f63070e",
-      "published_at": "2026-11-25T20:26:29+01:00",
-      "fetched_at": "2026-11-25T21:01:18+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: Samhällsredaktionen",
-        "Tagg: Änggården",
-        "Tagg: Göteborgs stad",
-        "Tagg: Kulturförvaltningen",
-        "Tagg: Rehabilitering",
-        "Tagg: Botaniska trädgården",
-        "Tagg: Träd"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/804d4f3c-e3cf-373d-a869-f86526051f91",
-      "sv": {
-        "title": "Hyllad verksamhet tvingas lämna Änggården",
-        "summary": "Då måste Gröna rehab ha flyttat ut.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Acclaimed operation forced to leave Änggården",
-        "summary": "Then Gröna rehab will have to move out."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T21:01:22+01:00"
-      }
-    },
-    {
-      "id": "708d2cc028e2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/4Eq9Jo/minst-30-doda-nar-tankbil-valte-i-kairo",
-      "guid": "https://www.aftonbladet.se/nyheter/a/4Eq9Jo/minst-30-doda-nar-tankbil-valte-i-kairo?utm_medium=rss",
-      "published_at": "2026-11-25T20:26:20+01:00",
-      "fetched_at": "2026-11-25T20:31:06+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/7dc62c85-48d6-30be-bb8a-76da0860894a?format=auto&s=adcddbcc9fc72492f2936b1d9f8d74e30fbd756c&w=1000",
-      "sv": {
-        "title": "Minst 30 döda när tankbil välte i Kairo",
-        "summary": "Minst 30 personer har dött i en stor trafikolycka utanför Kairo, rapporterar nyhetsbyrån Reuters.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "At least 30 dead as tanker truck overturns in Cairo",
-        "summary": "At least 30 people have died in a major traffic accident outside Cairo, reports the news agency Reuters."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T20:31:22+01:00"
-      }
-    },
-    {
-      "id": "a91bc6c46d5b",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9350281",
-      "guid": "rss:sr.se/article/9350281",
-      "published_at": "2026-11-25T20:26:00+01:00",
-      "fetched_at": "2026-11-25T20:31:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Polen inför flygförbudzon efter flera kränkningar",
-        "summary": "Polen kommer till slutet av december eller början av januari införa en flygförbudszon nära gränsen till Ukraina, uppger landets biträdande försvarsminister Cezary Tomczyk, enligt AFP. Beskedet kommer efter flera kränkningar av polskt luftrum, som Polen anklagar Ryssland för att ligga bakom.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Poland to introduce no-fly zone after several violations",
-        "summary": "Poland will introduce a no-fly zone near the border with Ukraine at the end of December or beginning of January, says the country's deputy defence minister Cezary Tomczyk, according to AFP. The announcement follows several violations of Polish airspace, which Poland accuses Russia of being behind."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T20:31:22+01:00"
-      }
-    },
-    {
-      "id": "763a5af427e0",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/har-ar-10-evenemang-och-premiarer-du-inte-ska-missa",
-      "guid": "https://www.dn.se/kultur/har-ar-10-evenemang-och-premiarer-du-inte-ska-missa/",
-      "published_at": "2026-11-25T20:22:38+01:00",
-      "fetched_at": "2026-11-25T20:31:05+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/af40cf35-1eda-40af-aeed-77333c4b7e50.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Här är 10 evenemang och premiärer du inte ska missa",
-        "summary": "Så ser framtidens hus ut, hotet från rymden år 2029 och snart kan just du spela huvudrollen på Dramaten. DN:s Anders Haraldsson guidar till de mest sevärda konserterna, utställningarna och premiärerna – boka innan det är för sent. Se ännu fler tips och evenemang här – nya varje dag",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here are 10 events and premieres you shouldn't miss",
-        "summary": "Here's what future homes look like, the threat from space in 2029, and soon you could play the lead role at Dramaten. DN's Anders Haraldsson guides you to the most worth-seeing concerts, exhibitions and premieres – book before it's too late. See even more tips and events here – new every day"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T20:31:22+01:00"
-      }
-    },
-    {
-      "id": "b0a734619fed",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/raki-alayoub-smugglade--dottern-till-syrien-utvisas-",
-      "guid": "https://www.expressen.se/nyheter/sverige/raki-alayoub-smugglade--dottern-till-syrien-utvisas-/",
-      "published_at": "2026-11-25T20:20:40+01:00",
-      "fetched_at": "2026-11-25T20:31:06+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Raki Alayoub smugglade dottern till Syrien – utvisas",
-        "summary": "Raki Alayoub, 41, dömdes för att ha fört sin LVU-placerade dotter till Syrien – men slapp utvisning eftersom det ansågs för farligt för honom. Nu drar Migrationsverket in Alayoubs skyddsstatus och utvisar honom – vilket han själv går med på.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Raki Alayoub smuggled daughter to Syria – to be deported",
-        "summary": "Raki Alayoub, 41, was convicted of taking his LVU-placed daughter to Syria – but escaped deportation because it was deemed too dangerous for him. Now the Migration Agency is withdrawing Alayoub's protected status and deporting him – which he himself agrees to."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T20:31:22+01:00"
-      }
-    },
-    {
-      "id": "ee6cebfbcaa8",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/1vnE3X/skyltningen-pa-sveavagen-68-svik-inte-era-valjare",
-      "guid": "https://www.aftonbladet.se/nyheter/a/1vnE3X/skyltningen-pa-sveavagen-68-svik-inte-era-valjare?utm_medium=rss",
-      "published_at": "2026-11-25T20:20:26+01:00",
-      "fetched_at": "2026-11-26T05:31:03+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/ba9beaf3-3c8d-3f75-a9d5-1405d7fcafa7?format=auto&s=826a0d07d73a2264df167264deb422e94b15bff1&w=1000",
-      "sv": {
-        "title": "Skyltningen på Sveavägen 68: ”Svik inte era väljare”",
-        "summary": "Skyltar i fönstret – när Alliansen förhandlar",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The signage on Sveavägen 68: ”Don't betray your voters”",
-        "summary": "Signs in the window – as the Alliance negotiates"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T05:31:19+01:00"
-      }
-    },
-    {
-      "id": "4e99c4e9ddf1",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri",
-      "guid": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri",
-      "published_at": "2026-11-25T20:19:00+01:00",
-      "fetched_at": "2026-11-25T20:31:03+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Spricka mellan C-topparna inför vägvalet: ”Slöseri”",
-        "summary": "Inom C pågår interna strider om vägvalet i regeringsfrågan. Motståndare till en Kristersson-lösning mobiliserar för ett annat alternativ – och källor varnar för en framtid med partisplittring och avhopp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Rift between Centre Party top figures ahead of route choice: ”Waste”",
-        "summary": "Within the Centre Party, internal battles are under way over the route choice in the government question. Opponents of a Kristersson solution are mobilising for another alternative – and sources warn of a future with party splits and defections."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T20:31:22+01:00"
-      }
-    },
-    {
-      "id": "ce75b1bc5f1e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/har-ar-c-overens-med-de-forna-allianspartierna-och-inte",
-      "guid": "https://www.svt.se/nyheter/har-ar-c-overens-med-de-forna-allianspartierna-och-inte",
-      "published_at": "2026-11-25T20:18:58+01:00",
-      "fetched_at": "2026-11-25T20:31:03+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Här är C överens med de forna allianspartierna – och inte",
-        "summary": "På måndag röstar riksdagen om en borgerlig fyrpartiregering – de forna allianspartierna. Men hur lika tycker de i sakfrågor idag?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here is where the Centre Party agrees with the former Alliance parties – and where not",
-        "summary": "On Monday the Riksdag votes on a centre-right four-party government – the former Alliance parties. But how alike are they on policy issues today?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T20:31:22+01:00"
       }
     }
   ]

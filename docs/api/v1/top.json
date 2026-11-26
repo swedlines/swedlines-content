@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T08:01:29+01:00",
-  "count": 21,
+  "generated_at": "2026-11-26T08:16:04+01:00",
+  "count": 23,
   "stories": [
     {
       "id": "bca5b56324c1",
@@ -622,6 +622,82 @@
       ]
     },
     {
+      "id": "01be779c7ddf",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-26T08:09:32+01:00",
+      "last_published_at": "2026-11-26T08:09:42+01:00",
+      "lead": {
+        "id": "01be779c7ddf",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/kMJlx6/tusentals-svenskar-riskerar-lakemedelsberoende",
+        "guid": "https://www.aftonbladet.se/nyheter/a/kMJlx6/tusentals-svenskar-riskerar-lakemedelsberoende?utm_medium=rss",
+        "published_at": "2026-11-26T08:09:32+01:00",
+        "fetched_at": "2026-11-26T08:15:52+01:00",
+        "category": "sweden",
+        "image_url": "https://akamai.vgc.no/v2/images/ac676421-26c6-3410-8876-877d17906aef?format=auto&s=0ff98853759ebd41c7a5d5abe5941786f32edb2d&w=1000",
+        "sv": {
+          "title": "Tusentals svenskar riskerar läkemedelsberoende",
+          "summary": "Många patienter som får opioider utskrivna efter en operation fortsätter att hämta ut dem långt…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Thousands of Swedes at risk of drug dependence",
+          "summary": "Many patients who are prescribed opioids after surgery continue to collect them long afterwards…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T08:15:59+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "e34b95368c07",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/tusentals-svenskar-riskerar-lakemedelsberoende",
+          "published_at": "2026-11-26T08:09:42+01:00",
+          "sv": {
+            "title": "Tusentals svenskar riskerar läkemedelsberoende"
+          },
+          "en": {
+            "title": "Thousands of Swedes at risk of drug dependence"
+          }
+        },
+        {
+          "id": "de60350cdcd9",
+          "source": "svd",
+          "url": "https://www.svd.se/a/JnojXb/tusentals-svenskar-riskerar-lakemedelsberoende",
+          "published_at": "2026-11-26T08:09:32+01:00",
+          "sv": {
+            "title": "Tusentals svenskar riskerar läkemedelsberoende"
+          },
+          "en": {
+            "title": "Thousands of Swedes at risk of drug dependence"
+          }
+        },
+        {
+          "id": "01be779c7ddf",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/kMJlx6/tusentals-svenskar-riskerar-lakemedelsberoende",
+          "published_at": "2026-11-26T08:09:32+01:00",
+          "sv": {
+            "title": "Tusentals svenskar riskerar läkemedelsberoende"
+          },
+          "en": {
+            "title": "Thousands of Swedes at risk of drug dependence"
+          }
+        }
+      ]
+    },
+    {
       "id": "7217c5420673",
       "source_count": 3,
       "sources": [
@@ -841,6 +917,68 @@
           },
           "en": {
             "title": "Duran Duran's Andy Taylor dead"
+          }
+        }
+      ]
+    },
+    {
+      "id": "01ec06ca11f2",
+      "source_count": 2,
+      "sources": [
+        "expressen",
+        "svd"
+      ],
+      "first_published_at": "2026-11-26T08:10:21+01:00",
+      "last_published_at": "2026-11-26T08:12:20+01:00",
+      "lead": {
+        "id": "01ec06ca11f2",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ba7f7754-85d1-4824-ac93-8ca1d50a0a4a",
+        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ba7f7754-85d1-4824-ac93-8ca1d50a0a4a",
+        "published_at": "2026-11-26T08:10:21+01:00",
+        "fetched_at": "2026-11-26T08:15:53+01:00",
+        "category": "sweden",
+        "sv": {
+          "title": "Man föll fem meter",
+          "summary": "Olycka i centrala Stockholm",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Man fell five metres",
+          "summary": "Accident in central Stockholm"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T08:15:59+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "71ba41511b5b",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80325",
+          "published_at": "2026-11-26T08:12:20+01:00",
+          "sv": {
+            "title": "Arbetsplatsolycka vid Slussen – föll fem meter"
+          },
+          "en": {
+            "title": "Workplace accident at Slussen – fell five metres"
+          }
+        },
+        {
+          "id": "01ec06ca11f2",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ba7f7754-85d1-4824-ac93-8ca1d50a0a4a",
+          "published_at": "2026-11-26T08:10:21+01:00",
+          "sv": {
+            "title": "Man föll fem meter"
+          },
+          "en": {
+            "title": "Man fell five metres"
           }
         }
       ]

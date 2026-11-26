@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-26T08:01:29+01:00",
+  "generated_at": "2026-11-26T08:16:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "71ba41511b5b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80325",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80325&utm_medium=rss",
+      "published_at": "2026-11-26T08:12:20+01:00",
+      "fetched_at": "2026-11-26T08:15:51+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Arbetsplatsolycka vid Slussen – föll fem meter"
+      },
+      "en": {
+        "title": "Workplace accident at Slussen – fell five metres"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
+    {
+      "id": "de60350cdcd9",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/JnojXb/tusentals-svenskar-riskerar-lakemedelsberoende",
+      "guid": "https://www.svd.se/a/JnojXb/tusentals-svenskar-riskerar-lakemedelsberoende?utm_medium=rss",
+      "published_at": "2026-11-26T08:09:32+01:00",
+      "fetched_at": "2026-11-26T08:15:51+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/ac676421-26c6-3410-8876-877d17906aef?format=auto&s=0ff98853759ebd41c7a5d5abe5941786f32edb2d&w=1000",
+      "sv": {
+        "title": "Tusentals svenskar riskerar läkemedelsberoende",
+        "summary": "Många patienter som får opioider utskrivna efter en operation fortsätter att hämta ut dem långt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Thousands of Swedes at risk of drug dependence",
+        "summary": "Many patients who are prescribed opioids after surgery continue to collect them long afterwards…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
     {
       "id": "6fd79cce1027",
       "schema_version": 1,
@@ -5196,60 +5246,6 @@
       "en": {
         "title": "This is what the internet gets wrong about Russell Brand",
         "summary": "In the wake of the verdict against Russell Brand, the comedian's old rape jokes have started circulating again."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:44+01:00"
-      }
-    },
-    {
-      "id": "138c13475a53",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/644V18/boolis-vd-slar-tillbaka-mot-hemnets-kritik",
-      "guid": "https://www.svd.se/a/644V18/boolis-vd-slar-tillbaka-mot-hemnets-kritik?utm_medium=rss",
-      "published_at": "2026-11-23T05:57:23+01:00",
-      "fetched_at": "2026-11-23T06:56:00+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/f1ed4aab-8a9c-3b38-968b-d0260f7bc5ee?format=auto&s=672f6c3444d7414907c6582288bacbaaa1a25eda&w=1000",
-      "sv": {
-        "title": "Boolis vd slår tillbaka mot Hemnets kritik",
-        "summary": "Booli har blivit en allt starkare utmanare till Hemnet. Men trots tillväxten har bostadssajten…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Booli CEO hits back at Hemnet's criticism",
-        "summary": "Booli has become an increasingly strong challenger to Hemnet. But despite the growth, the housing site…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:44+01:00"
-      }
-    },
-    {
-      "id": "364d7b31bb32",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/bk5rjg/familjens-sorg-efter-ronningemordet-smarta-varje-dag",
-      "guid": "https://www.svd.se/a/bk5rjg/familjens-sorg-efter-ronningemordet-smarta-varje-dag?utm_medium=rss",
-      "published_at": "2026-11-23T05:45:11+01:00",
-      "fetched_at": "2026-11-23T06:56:00+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/0f619edb-4157-39ca-b2bf-12b72a9b1b5d?format=auto&s=94c0819134aa35a47271e226a6d01b1320d38332&w=1000",
-      "sv": {
-        "title": "Familjen tackar för stöd – vädjar om utrymme",
-        "summary": "Den 25-åriga kvinnan fördes bort och mördades under julhelgen förra året.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Family thanks for support – pleads for space",
-        "summary": "The 25-year-old woman was abducted and murdered over the Christmas holiday last year."
       },
       "translation": {
         "status": "done",

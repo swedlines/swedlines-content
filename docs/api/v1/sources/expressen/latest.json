@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T08:01:29+01:00",
+  "generated_at": "2026-11-26T08:16:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "01ec06ca11f2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ba7f7754-85d1-4824-ac93-8ca1d50a0a4a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ba7f7754-85d1-4824-ac93-8ca1d50a0a4a",
+      "published_at": "2026-11-26T08:10:21+01:00",
+      "fetched_at": "2026-11-26T08:15:53+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Man föll fem meter",
+        "summary": "Olycka i centrala Stockholm",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man fell five metres",
+        "summary": "Accident in central Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
     {
       "id": "dfd24e2b1d90",
       "schema_version": 1,
@@ -5161,32 +5187,6 @@
       "en": {
         "title": "Kim Jong-Un avoids Donald Trump – dodges all calls",
         "summary": "Donald Trump has tried in every possible and impossible way to get in contact with Kim Jong-Un. The North Korean dictator responds with silence. Meanwhile, he is expanding his nuclear arsenal."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T04:41:25+01:00"
-      }
-    },
-    {
-      "id": "75be5c543e23",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/ministern-skulle-fa-sparken-da-donerade-han-250-miljoner",
-      "guid": "https://www.expressen.se/nyheter/varlden/ministern-skulle-fa-sparken-da-donerade-han-250-miljoner/",
-      "published_at": "2026-11-23T03:14:20+01:00",
-      "fetched_at": "2026-11-23T04:41:19+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ministern skulle få sparken – då ”donerade” han 250 miljoner",
-        "summary": "USA:s handelsminister Howard Lutnick var på väg att få sparken av Donald Trump. Då donerade han 250 miljoner kronor till Trumps presidentbibliotek. Han fick behålla jobbet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Minister was about to be fired – then \"donated\" 250 million",
-        "summary": "US Commerce Secretary Howard Lutnick was about to be fired by Donald Trump. He then donated SEK 250 million to Trump's presidential library. He kept his job."
       },
       "translation": {
         "status": "done",

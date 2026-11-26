@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:01:29+01:00",
+  "generated_at": "2026-11-26T08:16:04+01:00",
   "count": 200,
   "items": [
     {
@@ -924,6 +924,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T00:15:53+01:00"
+      }
+    },
+    {
+      "id": "17f3aa9ab338",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/411274/julpynt-foer-en-halv-miljon-kopplas-till-rysk-attack",
+      "guid": "https://tv.aftonbladet.se/video/411274/julpynt-foer-en-halv-miljon-kopplas-till-rysk-attack?utm_medium=rss",
+      "published_at": "2026-11-25T23:48:20+01:00",
+      "fetched_at": "2026-11-26T08:15:52+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/3a11c9123fb9692b0b2cfed71a4409bb.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Julpynt för en halv miljon — kopplas till rysk attack",
+        "summary": "Spolades upp på stranden",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Christmas decorations worth half a million — linked to Russian attack",
+        "summary": "Washed up on the beach"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
       }
     },
     {
@@ -5329,32 +5356,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T06:16:05+01:00"
-      }
-    },
-    {
-      "id": "66a6c757f4c6",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348679",
-      "guid": "rss:sr.se/article/9348679",
-      "published_at": "2026-11-24T05:39:00+01:00",
-      "fetched_at": "2026-11-24T05:45:38+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Migranter strömmar till Kreta – oroar turistindustrin",
-        "summary": "Rekordmånga migranter och flyktingar kommer nu till den grekiska ön Kreta efter den riskfyllda färden över Medelhavet från Libyen. Minst 25 000 personer har anlänt hittills i år. Samtidigt är den växande migrationen förvånansvärt osynlig för många av öns invånare.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Migrants flow into Crete – worrying the tourism industry",
-        "summary": "A record number of migrants and refugees are now arriving on the Greek island of Crete after the risky crossing of the Mediterranean from Libya. At least 25,000 people have arrived so far this year. Meanwhile, the growing migration is surprisingly invisible to many of the island's residents."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T05:45:51+01:00"
       }
     }
   ]

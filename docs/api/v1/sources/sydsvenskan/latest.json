@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T08:01:29+01:00",
+  "generated_at": "2026-11-26T08:16:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e34b95368c07",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/tusentals-svenskar-riskerar-lakemedelsberoende",
+      "guid": "0294a750-1858-46cf-afc6-d9858526dc3e",
+      "published_at": "2026-11-26T08:09:42+01:00",
+      "fetched_at": "2026-11-26T08:15:55+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/672204eb-0038-4c6f-aa00-95c6d30def53.jpg?width=600",
+      "sv": {
+        "title": "Tusentals svenskar riskerar läkemedelsberoende",
+        "summary": "Många patienter som får opioider utskrivna efter en operation fortsätter att hämta ut dem långt senare. Det ökar risken för beroende och överdosering. – Det handlar om runt 7 000 personer om året i Sverige, säger narkosläkaren Claes Gedda.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Thousands of Swedes at risk of drug dependence",
+        "summary": "Many patients who are prescribed opioids after surgery continue to collect them long afterwards. This increases the risk of dependence and overdose. – It concerns around 7,000 people a year in Sweden, says anaesthetist Claes Gedda."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:15:59+01:00"
+      }
+    },
     {
       "id": "081bc89f88ae",
       "schema_version": 1,
@@ -5152,33 +5179,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T14:31:03+01:00"
-      }
-    },
-    {
-      "id": "fea311e8353b",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/bred-uppslutning-bakom-vansterns-ledning",
-      "guid": "0e4d8148-54b6-444b-a5f3-d5998c91f056",
-      "published_at": "2026-11-23T14:09:00+01:00",
-      "fetched_at": "2026-11-23T14:15:53+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/97fbfcff-3a1e-42db-bd47-ec970e019f8f.jpg?width=600",
-      "sv": {
-        "title": "Bred uppslutning bakom Vänsterns ledning",
-        "summary": "Flera av Vänsterpartiets distrikt sluter upp bakom partiledningens besked att inte backa från kravet på ministerposter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Broad support behind the Left Party leadership",
-        "summary": "Several of the Left Party's districts are rallying behind the party leadership's decision not to back down from the demand for ministerial posts."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T14:16:05+01:00"
       }
     }
   ]
