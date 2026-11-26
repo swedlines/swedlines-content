@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T00:20:52+01:00",
+  "generated_at": "2026-11-27T00:31:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a14f7cb44a86",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/pizza-hut-grundaren-dan-carney-ar-dod",
+      "guid": "https://www.expressen.se/nyheter/varlden/pizza-hut-grundaren-dan-carney-ar-dod/",
+      "published_at": "2026-11-27T00:21:22+01:00",
+      "fetched_at": "2026-11-27T00:31:08+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Pizza Hut-grundaren Dan Carney är död",
+        "summary": "Pizza Hut-grundaren Dan Carney är död, skriver Daily Mail. Han blev 95 år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pizza Hut founder Dan Carney is dead",
+        "summary": "Pizza Hut founder Dan Carney is dead, according to the Daily Mail. He was 95 years old."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T00:31:12+01:00"
+      }
+    },
     {
       "id": "acc105770de5",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T21:36:24+01:00"
-      }
-    },
-    {
-      "id": "7719072a3882",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/rasar-mot-trumps-inblandning-i-huangs-comeback",
-      "guid": "https://www.expressen.se/nyheter/varlden/rasar-mot-trumps-inblandning-i-huangs-comeback/",
-      "published_at": "2026-11-23T21:22:45+01:00",
-      "fetched_at": "2026-11-23T21:31:02+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Rasar mot Trumps inblandning i Huangs comeback",
-        "summary": "Donald Trump tryckte personligen på för att Jensen Huang skulle återvända som vd för Nvidia. Nu möter beslutet hård kritik från både republikaner och demokrater i kongressen. ”Ingen risk för nationell säkerhet? Baserat på vad?”, frågar den republikanske senatorn John Cornyn.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Outrage over Trump's involvement in Huang's comeback",
-        "summary": "Donald Trump personally pushed for Jensen Huang to return as CEO of Nvidia. The decision now meets harsh criticism from both Republicans and Democrats in Congress. \"No risk to national security? Based on what?\" asks Republican senator John Cornyn."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T21:31:09+01:00"
       }
     }
   ]
