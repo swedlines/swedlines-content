@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T20:16:05+01:00",
+  "generated_at": "2026-11-26T20:31:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cf5e15536a1a",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351129",
+      "guid": "rss:sr.se/article/9351129",
+      "published_at": "2026-11-26T20:18:00+01:00",
+      "fetched_at": "2026-11-26T20:30:56+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Kristersson (M): ”Ett mycket välkommet besked”",
+        "summary": "Moderatledaren Ulf Kristersson välkomnar beskedet från Elisabeth Thand Ringqvist om att Centerpartiet rekommenderar sitt förtroenderåd att gå vidare med en borgerlig fyrpartiregering i mitten. ”Ett mycket välkommet besked”, säger Moderatledaren.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Kristersson (M): \"A very welcome message\"",
+        "summary": "Moderates leader Ulf Kristersson welcomes the message from Elisabeth Thand Ringqvist that the Centre Party recommends its trust council proceed with a bourgeois four-party government in the middle. \"A very welcome message\", says the Moderates leader."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T20:31:03+01:00"
+      }
+    },
     {
       "id": "6f2b8b53b7a8",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T11:15:50+01:00"
-      }
-    },
-    {
-      "id": "3102e3f37f4c",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347619",
-      "guid": "rss:sr.se/article/9347619",
-      "published_at": "2026-11-21T10:46:00+01:00",
-      "fetched_at": "2026-11-21T11:01:10+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "SMHI vädervarnar igen – gul varning för snö",
-        "summary": "SMHI utökar snövarningen för delar av östra Svealand. Gul varning råder från söndag 05.00 till 12.00 på måndagen, då fem till 15 centimeter snö väntas komma. SMHI skriver att vädret kan medföra problem i trafiken.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "SMHI weather warnings again – yellow warning for snow",
-        "summary": "SMHI is expanding the snow warning for parts of eastern Svealand. A yellow warning applies from Sunday 05.00 to Monday 12.00, when five to 15 centimetres of snow are expected. SMHI writes that the weather may cause problems in traffic."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T11:01:21+01:00"
       }
     }
   ]
