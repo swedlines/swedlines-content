@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T18:01:22+01:00",
+  "generated_at": "2026-11-26T18:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c6dec8e5bd69",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/helsingborg/man-knivskuren-i-helsingborg-ford-till-sjukhus",
+      "guid": "https://www.svt.se/nyheter/lokalt/helsingborg/man-knivskuren-i-helsingborg-ford-till-sjukhus",
+      "published_at": "2026-11-26T18:01:15+01:00",
+      "fetched_at": "2026-11-26T18:15:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man knivskuren i Helsingborg – förd till sjukhus",
+        "summary": "En konflikt mellan två män vid en matvagn på Sundstorget i Helsingborg slutade med att en av dem skars i armen och fördes sedan till sjukhus.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man cut with knife in Helsingborg – taken to hospital",
+        "summary": "A conflict between two men at a food cart on Sundstorget in Helsingborg ended with one of them cut in the arm and then taken to hospital."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T18:15:51+01:00"
+      }
+    },
     {
       "id": "ddbbe0631793",
       "schema_version": 1,
@@ -5389,32 +5415,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T23:45:50+01:00"
-      }
-    },
-    {
-      "id": "bc1851d4c797",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/sport/fotboll/huliganbrak-i-stockholm-minst-tva-till-sjukhus",
-      "guid": "https://www.expressen.se/sport/fotboll/huliganbrak-i-stockholm-minst-tva-till-sjukhus/",
-      "published_at": "2026-11-21T23:36:49+01:00",
-      "fetched_at": "2026-11-22T12:31:00+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Huliganbråk i Stockholm – minst två till sjukhus",
-        "summary": "Minst två personer har förts till sjukhus efter ett bråk mellan fotbollssupportrar. Skadeläget på minst en av dem bedöms vara allvarlig. Bråket uppstod när AIK:are tagit sig till en fest med Djurgårdssupportrar. – Fruktansvärt tråkigt, säger Järnkaminernas styrelse.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hooligan clash in Stockholm – at least two taken to hospital",
-        "summary": "At least two people have been taken to hospital after a clash between football supporters. The injuries to at least one of them are assessed as serious. The clash broke out when AIK fans went to a party with Djurgården supporters. – Terribly sad, says the board of Järnkaminerna."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T12:31:05+01:00"
       }
     }
   ]

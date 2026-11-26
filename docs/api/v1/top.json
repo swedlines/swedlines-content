@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:01:22+01:00",
+  "generated_at": "2026-11-26T18:15:58+01:00",
   "count": 30,
   "stories": [
     {
@@ -437,6 +437,119 @@
           },
           "en": {
             "title": "Norwegian airline cancels all flights"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0b9fd1570f21",
+      "source_count": 5,
+      "sources": [
+        "expressen",
+        "di",
+        "sr",
+        "dn",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-26T17:33:56+01:00",
+      "last_published_at": "2026-11-26T18:13:38+01:00",
+      "lead": {
+        "id": "0b9fd1570f21",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/centerpartiet-har-presstraff-efter-odesmotet-",
+        "guid": "https://www.expressen.se/nyheter/politik/centerpartiet-har-presstraff-efter-odesmotet-/",
+        "published_at": "2026-11-26T17:33:56+01:00",
+        "fetched_at": "2026-11-26T17:45:45+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Centerpartiet har pressträff – efter ödesmötet",
+          "summary": "Centerpartiets riksdagsgrupp och partistyrelse har haft ett flera timmar långt möte om vägvalet i regeringsfrågan. Vid 17:40 håller C-ledaren Elisabeth Thand Ringqvist en pressträff i riksdagen. – Vi ses på presskonferensen, sa hon när hon lämnade mötet.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Centre Party holds press briefing – after decisive meeting",
+          "summary": "The Centre Party's Riksdag group and party board have held a meeting lasting several hours about the choice of course on the government question. At 17:40, C leader Elisabeth Thand Ringqvist holds a press conference in the Riksdag. – See you at the press conference, she said as she left the meeting."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T17:45:53+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "05d746bc712d",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/opinion/huvudledare/nya-alliansen-ar-en-falla-och-centern-klev-rakt-i-den",
+          "published_at": "2026-11-26T18:13:38+01:00",
+          "sv": {
+            "title": "Nya ”alliansen” är en fälla – och Centern klev rakt i den"
+          },
+          "en": {
+            "title": "New \"alliance\" is a trap – and the Centre Party walked right into it"
+          }
+        },
+        {
+          "id": "4a51ed9ee2a8",
+          "source": "dn",
+          "url": "https://www.dn.se/ledare/susanne-nystrom-centerpartiet-ar-pa-vag-mot-fullt-inbordeskrig",
+          "published_at": "2026-11-26T18:12:02+01:00",
+          "sv": {
+            "title": "Susanne Nyström: Centerpartiet är på väg mot fullt inbördeskrig"
+          },
+          "en": {
+            "title": "Susanne Nyström: The Centre Party is heading towards full civil war"
+          }
+        },
+        {
+          "id": "a11b723e80e6",
+          "source": "di",
+          "url": "https://www.di.se/ditv/nyheter/thand-ringqvist-c-rekommenderar-ja-till-kristersson",
+          "published_at": "2026-11-26T17:56:23+01:00",
+          "sv": {
+            "title": "Thand Ringqvist (C): Rekommenderar ja till Kristersson"
+          },
+          "en": {
+            "title": "Thand Ringqvist (C): Recommends yes to Kristersson"
+          }
+        },
+        {
+          "id": "acd9cf020e0b",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351049",
+          "published_at": "2026-11-26T17:49:00+01:00",
+          "sv": {
+            "title": "Thand Ringqvist vill att Centerpartiet röstar ja till Kristersson"
+          },
+          "en": {
+            "title": "Thand Ringqvist wants the Centre Party to vote yes to Kristersson"
+          }
+        },
+        {
+          "id": "7969ae2e7bc0",
+          "source": "di",
+          "url": "https://www.di.se/ditv/borsmorgon/live-centerpartiet-haller-presskonferens-i-riksdagen",
+          "published_at": "2026-11-26T17:35:00+01:00",
+          "sv": {
+            "title": "LIVE: Centerpartiet håller presskonferens i riksdagen"
+          },
+          "en": {
+            "title": "LIVE: Centre Party holds press conference in the Riksdag"
+          }
+        },
+        {
+          "id": "0b9fd1570f21",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/centerpartiet-har-presstraff-efter-odesmotet-",
+          "published_at": "2026-11-26T17:33:56+01:00",
+          "sv": {
+            "title": "Centerpartiet har pressträff – efter ödesmötet"
+          },
+          "en": {
+            "title": "Centre Party holds press briefing – after decisive meeting"
           }
         }
       ]
@@ -1083,170 +1196,6 @@
           },
           "en": {
             "title": "Researcher: Government chaos erodes trust"
-          }
-        }
-      ]
-    },
-    {
-      "id": "d13121388d5d",
-      "source_count": 4,
-      "sources": [
-        "aftonbladet",
-        "svd",
-        "di",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-26T05:45:12+01:00",
-      "last_published_at": "2026-11-26T06:07:27+01:00",
-      "lead": {
-        "id": "d13121388d5d",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/wdPa3L/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu",
-        "guid": "https://www.aftonbladet.se/nyheter/a/wdPa3L/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu?utm_medium=rss",
-        "published_at": "2026-11-26T05:45:12+01:00",
-        "fetched_at": "2026-11-26T06:01:13+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/ae13ed26-98f6-3cb4-a17c-e1007fa4ec09?format=auto&s=25dbbb1731bda2b48c7aaa8404522095ee608bd9&w=1000",
-        "sv": {
-          "title": "Väntad högergir i Spanien – allt färre S-ledare i EU",
-          "summary": "Ytterhögern har fler ledare vid bordet än socialdemokraterna när EU-länderna håller ännu ett…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Expected right-wing shift in Spain – fewer S leaders in the EU",
-          "summary": "The far right has more leaders at the table than the Social Democrats when EU countries hold yet another…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T06:01:21+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "61414dbd4a3b",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu",
-          "published_at": "2026-11-26T06:07:27+01:00",
-          "sv": {
-            "title": "Väntad högergir i Spanien – allt färre S-ledare i EU"
-          },
-          "en": {
-            "title": "Expected swing to the right in Spain – fewer S leaders in the EU"
-          }
-        },
-        {
-          "id": "100eacfab290",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu",
-          "published_at": "2026-11-26T05:59:16+01:00",
-          "sv": {
-            "title": "Väntad högergir i Spanien – allt färre S-ledare i EU"
-          },
-          "en": {
-            "title": "Expected right-wing shift in Spain – fewer Social Democrat leaders in the EU"
-          }
-        },
-        {
-          "id": "7f2efb838a6c",
-          "source": "svd",
-          "url": "https://www.svd.se/a/KL3or7/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu",
-          "published_at": "2026-11-26T05:45:13+01:00",
-          "sv": {
-            "title": "Väntad högergir i Spanien – allt färre S-ledare i EU"
-          },
-          "en": {
-            "title": "Expected right-wing shift in Spain – fewer S leaders in the EU"
-          }
-        },
-        {
-          "id": "d13121388d5d",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/wdPa3L/vantad-hogergir-i-spanien-allt-farre-s-ledare-i-eu",
-          "published_at": "2026-11-26T05:45:12+01:00",
-          "sv": {
-            "title": "Väntad högergir i Spanien – allt färre S-ledare i EU"
-          },
-          "en": {
-            "title": "Expected right-wing shift in Spain – fewer S leaders in the EU"
-          }
-        }
-      ]
-    },
-    {
-      "id": "0b9fd1570f21",
-      "source_count": 3,
-      "sources": [
-        "expressen",
-        "di",
-        "sr"
-      ],
-      "first_published_at": "2026-11-26T17:33:56+01:00",
-      "last_published_at": "2026-11-26T17:49:00+01:00",
-      "lead": {
-        "id": "0b9fd1570f21",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/centerpartiet-har-presstraff-efter-odesmotet-",
-        "guid": "https://www.expressen.se/nyheter/politik/centerpartiet-har-presstraff-efter-odesmotet-/",
-        "published_at": "2026-11-26T17:33:56+01:00",
-        "fetched_at": "2026-11-26T17:45:45+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Centerpartiet har pressträff – efter ödesmötet",
-          "summary": "Centerpartiets riksdagsgrupp och partistyrelse har haft ett flera timmar långt möte om vägvalet i regeringsfrågan. Vid 17:40 håller C-ledaren Elisabeth Thand Ringqvist en pressträff i riksdagen. – Vi ses på presskonferensen, sa hon när hon lämnade mötet.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Centre Party holds press briefing – after decisive meeting",
-          "summary": "The Centre Party's Riksdag group and party board have held a meeting lasting several hours about the choice of course on the government question. At 17:40, C leader Elisabeth Thand Ringqvist holds a press conference in the Riksdag. – See you at the press conference, she said as she left the meeting."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T17:45:53+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "acd9cf020e0b",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351049",
-          "published_at": "2026-11-26T17:49:00+01:00",
-          "sv": {
-            "title": "Thand Ringqvist vill att Centerpartiet röstar ja till Kristersson"
-          },
-          "en": {
-            "title": "Thand Ringqvist wants the Centre Party to vote yes to Kristersson"
-          }
-        },
-        {
-          "id": "7969ae2e7bc0",
-          "source": "di",
-          "url": "https://www.di.se/ditv/borsmorgon/live-centerpartiet-haller-presskonferens-i-riksdagen",
-          "published_at": "2026-11-26T17:35:00+01:00",
-          "sv": {
-            "title": "LIVE: Centerpartiet håller presskonferens i riksdagen"
-          },
-          "en": {
-            "title": "LIVE: Centre Party holds press conference in the Riksdag"
-          }
-        },
-        {
-          "id": "0b9fd1570f21",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/centerpartiet-har-presstraff-efter-odesmotet-",
-          "published_at": "2026-11-26T17:33:56+01:00",
-          "sv": {
-            "title": "Centerpartiet har pressträff – efter ödesmötet"
-          },
-          "en": {
-            "title": "Centre Party holds press briefing – after decisive meeting"
           }
         }
       ]
@@ -2070,6 +2019,69 @@
           },
           "en": {
             "title": "Space X gets to launch one million satellites"
+          }
+        }
+      ]
+    },
+    {
+      "id": "60b3851d6893",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-26T18:04:05+01:00",
+      "last_published_at": "2026-11-26T18:04:05+01:00",
+      "lead": {
+        "id": "60b3851d6893",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/ARd6QA/mp-beklagar-centers-hogersvang",
+        "guid": "https://www.svd.se/a/ARd6QA/mp-beklagar-centers-hogersvang?utm_medium=rss",
+        "published_at": "2026-11-26T18:04:05+01:00",
+        "fetched_at": "2026-11-26T18:15:43+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/dbfc42bb-3584-3430-92e5-45ded320197b?format=auto&s=4f04c585b2e94b60f4bcd47c8fdfb5fa6b43b52a&w=1000",
+        "sv": {
+          "title": "Andersson: Skulle vara historisk svag regering",
+          "summary": "En regering ledd av Ulf Kristersson (M) skulle vara ”historisk svag och sakna möjligheter att…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Andersson: It would be a historically weak government",
+          "summary": "A government led by Ulf Kristersson (M) would be \"historically weak and lack opportunities to…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T18:15:51+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "b4488e818997",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/6Pjm8O/mp-beklagar-centers-hogersvang",
+          "published_at": "2026-11-26T18:04:05+01:00",
+          "sv": {
+            "title": "Andersson: Skulle vara historisk svag regering"
+          },
+          "en": {
+            "title": "Andersson: It would be a historically weak government"
+          }
+        },
+        {
+          "id": "60b3851d6893",
+          "source": "svd",
+          "url": "https://www.svd.se/a/ARd6QA/mp-beklagar-centers-hogersvang",
+          "published_at": "2026-11-26T18:04:05+01:00",
+          "sv": {
+            "title": "Andersson: Skulle vara historisk svag regering"
+          },
+          "en": {
+            "title": "Andersson: It would be a historically weak government"
           }
         }
       ]
