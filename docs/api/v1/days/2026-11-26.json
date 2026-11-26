@@ -1,7 +1,165 @@
 {
-  "generated_at": "2026-11-26T12:15:53+01:00",
-  "count": 317,
+  "generated_at": "2026-11-26T12:31:15+01:00",
+  "count": 323,
   "items": [
+    {
+      "id": "13c744d226cd",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/ariana-grande-har-noll-komisk-tajmning-i-dammiga-meet-the-parents-4",
+      "guid": "https://www.dn.se/kultur/ariana-grande-har-noll-komisk-tajmning-i-dammiga-meet-the-parents-4/",
+      "published_at": "2026-11-26T12:29:21+01:00",
+      "fetched_at": "2026-11-26T12:31:04+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/fe0bd584-6cd2-455f-9166-ab426a050501.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Ariana Grande har noll komisk tajmning i dammiga ”Meet the parents 4”",
+        "summary": "Krocken mellan Robert De Niros stenhårda svärfar och Ben Stillers mjukisman var en gång receptet på humorguld. Men i den fjärde, plågsamt oinspirerade återträffen har skämten surnat. Inte ens en desperat inkallad Ariana Grande lyckas blåsa liv i den komiska reliken, skriver Helena Lindblad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ariana Grande has zero comic timing in dusty \"Meet the Parents 4\"",
+        "summary": "The clash between Robert De Niro's stern father-in-law and Ben Stiller's soft-hearted everyman was once the recipe for comedy gold. But in the fourth, painfully uninspired reunion, the jokes have gone sour. Not even a desperately summoned Ariana Grande manages to breathe life into the comedic relic, writes Helena Lindblad."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T12:31:12+01:00"
+      }
+    },
+    {
+      "id": "b14f22c7d5cb",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=3ef70eaf-99f3-410c-bace-cc67b095ed94",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3ef70eaf-99f3-410c-bace-cc67b095ed94",
+      "published_at": "2026-11-26T12:21:08+01:00",
+      "fetched_at": "2026-11-26T12:31:06+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man hittad svårt skadad",
+        "summary": "Grov misshandel utreds",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man found seriously injured",
+        "summary": "Aggravated assault under investigation"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T12:31:12+01:00"
+      }
+    },
+    {
+      "id": "4181c790877f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/allianspartierna-har-slutit-ny-overenskommelse-fokus-pa-tillvaxt-och-valfard",
+      "guid": "https://www.svt.se/nyheter/inrikes/allianspartierna-har-slutit-ny-overenskommelse-fokus-pa-tillvaxt-och-valfard",
+      "published_at": "2026-11-26T12:20:22+01:00",
+      "fetched_at": "2026-11-26T12:31:02+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Allianspartierna har slutit ny överenskommelse – fokus på tillväxt och välfärd",
+        "summary": "Sent igår nådde de fyra borgerliga partierna den överenskommelse som Centerpartiet nu har att ta ställning till. Inriktningen blir en helt annan än under de gångna fyra åren, enligt vad SVT erfar, och inom Moderaterna räknar man med att Thand Ringqvist vinner striden i sitt parti.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alliance parties reach new agreement – focus on growth and welfare",
+        "summary": "Late yesterday the four centre-right parties reached the agreement that the Centre Party now has to take a position on. The direction will be quite different from the past four years, according to SVT, and within the Moderates they expect Thand Ringqvist to win the battle within his party."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T12:31:12+01:00"
+      }
+    },
+    {
+      "id": "9ac7e5cd787c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/bakslag-for-saab-kanada-borjar-betala-for-f-35",
+      "guid": "d4d519bd-af6d-48cd-abbd-d7248509b3d1",
+      "published_at": "2026-11-26T12:16:09+01:00",
+      "fetched_at": "2026-11-26T12:31:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6ad8a9f0-e0be-43e5-8cbc-d9b2218b76f2.jpeg?width=600",
+      "sv": {
+        "title": "Bakslag för Saab: Kanada börjar betala för F-35",
+        "summary": "Kanadas regering har gjort vissa långsiktiga betalningar rörande komponenter till stridsflygplanet F-35 från det amerikanska försvarsbolaget Lockheed Martin, trots att Kanada hittills inte har beslutat om att gå vidare med planerna på att köpa alla de 88 flygplan som ursprungligen planerades.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Setback for Saab: Canada starts paying for F-35",
+        "summary": "Canada's government has made certain long-term payments for components for the F-35 fighter aircraft from the American defence company Lockheed Martin, even though Canada has so far not decided to go ahead with plans to buy all 88 aircraft that were originally planned."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T12:31:12+01:00"
+      }
+    },
+    {
+      "id": "8ca33efd5576",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/opec-plus-overvager-kvotforlangning",
+      "guid": "f6b9ce86-6d7f-4c11-89d8-98ff528640a5",
+      "published_at": "2026-11-26T12:15:38+01:00",
+      "fetched_at": "2026-11-26T12:31:07+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Opec plus överväger kvotförlängning",
+        "summary": "Opec plus överväger att förlänga dagens kvotnivåer till januari. Det uppger delegater enligt Bloomberg News. Opec plus har möte på söndagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Opec plus considers extending quota",
+        "summary": "Opec plus is considering extending current quota levels into January. Delegates say, according to Bloomberg News. Opec plus has a meeting on Sunday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T12:31:12+01:00"
+      }
+    },
+    {
+      "id": "2bfb82396a10",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vast/cyklande-skraddare-uppmanar-till-hemlagat",
+      "guid": "https://www.svt.se/nyheter/lokalt/vast/cyklande-skraddare-uppmanar-till-hemlagat",
+      "published_at": "2026-11-26T12:14:18+01:00",
+      "fetched_at": "2026-11-26T12:31:02+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Här cyklar skräddare runt i Göteborg – fixar kläder och uppmanar till hemlagat",
+        "summary": "Har du kanske ett jacka som behöver lagas eller ett par byxor som är för korta? Då kan du under Black week få en skräddare hemcyklad till dig, på uppdrag av Göteborgs Stad. – Man kan laga i princip allting, men på olika sätt, säger Moa Tegström, en av de ambulerande skräddarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here tailors cycle around Göteborg – mending clothes and urging home-cooking",
+        "summary": "Do you perhaps have a jacket that needs mending or a pair of trousers that are too short? Then during Black Week you can have a tailor cycled to your home, on behalf of Göteborgs Stad. – You can repair basically anything, but in different ways, says Moa Tegström, one of the mobile tailors."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T12:31:12+01:00"
+      }
+    },
     {
       "id": "acad5f58e2e0",
       "schema_version": 1,

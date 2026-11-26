@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T12:15:53+01:00",
+  "generated_at": "2026-11-26T12:31:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b14f22c7d5cb",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=3ef70eaf-99f3-410c-bace-cc67b095ed94",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3ef70eaf-99f3-410c-bace-cc67b095ed94",
+      "published_at": "2026-11-26T12:21:08+01:00",
+      "fetched_at": "2026-11-26T12:31:06+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man hittad svårt skadad",
+        "summary": "Grov misshandel utreds",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man found seriously injured",
+        "summary": "Aggravated assault under investigation"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T12:31:12+01:00"
+      }
+    },
     {
       "id": "e1010c6cead0",
       "schema_version": 1,
@@ -5402,36 +5428,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T14:01:24+01:00"
-      }
-    },
-    {
-      "id": "0862beef5d88",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/svenska-massans-system-hackat-tusentals-uppgifter-kan-ha-lackt.ba14172f-8232-5752-b056-8ee9a623df08",
-      "guid": "ba14172f-8232-5752-b056-8ee9a623df08",
-      "published_at": "2026-11-21T13:25:55+01:00",
-      "fetched_at": "2026-11-21T13:31:04+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: Svenska Mässan",
-        "Tagg: IT-brott",
-        "Tagg: Göteborg"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/5e1aa09a-26a1-3f26-8ec7-5323152d5db5",
-      "sv": {
-        "title": "Svenska mässan Gothia Towers system hackat – tusentals uppgifter kan ha läckt"
-      },
-      "en": {
-        "title": "Gothia Towers trade fair system hacked – thousands of records may have leaked"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T13:31:08+01:00"
       }
     }
   ]

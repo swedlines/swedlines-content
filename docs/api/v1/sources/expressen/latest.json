@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T12:15:53+01:00",
+  "generated_at": "2026-11-26T12:31:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b14f22c7d5cb",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=3ef70eaf-99f3-410c-bace-cc67b095ed94",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3ef70eaf-99f3-410c-bace-cc67b095ed94",
+      "published_at": "2026-11-26T12:21:08+01:00",
+      "fetched_at": "2026-11-26T12:31:06+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man hittad svårt skadad",
+        "summary": "Grov misshandel utreds",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man found seriously injured",
+        "summary": "Aggravated assault under investigation"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T12:31:12+01:00"
+      }
+    },
     {
       "id": "feea0eeb67d2",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T11:15:59+01:00"
-      }
-    },
-    {
-      "id": "0c9d042634e6",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/techreporter-mats-karlsson-tipsar-om-vilka-prylar-du-ska-kopa-s2c4j",
-      "guid": "https://www.expressen.se/nyheter/sverige/techreporter-mats-karlsson-tipsar-om-vilka-prylar-du-ska-kopa-s2c4j/",
-      "published_at": "2026-11-23T11:00:00+01:00",
-      "fetched_at": "2026-11-23T11:01:08+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Chatta med Expressens techreporter om Black week",
-        "summary": "Black week är i gång. Om du fnular på lurar, en ny mobil eller en smartklocka – då ska du vara med och chatta med Expressens techreporter Mats Karlsson. Chatten drar i gång klockan 12 – men du kan ställa dina frågor redan nu.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Chat with Expressen's tech reporter about Black Week",
-        "summary": "Black Week is under way. If you are looking for headphones, a new phone or a smartwatch, then join the chat with Expressen tech reporter Mats Karlsson. The chat starts at 12 – but you can submit your questions already now."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T11:01:15+01:00"
       }
     }
   ]
