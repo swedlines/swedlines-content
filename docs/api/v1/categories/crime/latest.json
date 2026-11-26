@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T03:01:18+01:00",
+  "generated_at": "2026-11-26T03:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "218604132ce7",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350269",
+      "guid": "rss:sr.se/article/9350269",
+      "published_at": "2026-11-26T03:06:00+01:00",
+      "fetched_at": "2026-11-26T03:15:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Kvinnomorden skakar landet – Zondekas dotter kom aldrig hem",
+        "summary": "En våg av kvinnomord har drabbat Johannesburg i Sydafrika. Offren har hittats dumpade utomhus och anhöriga riktar hård kritik mot polisens insats. Polisen har gripit åtta personer som kopplas till morden. Mellan juli och september mördades nästan 600 kvinnor i Sydafrika.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Femicides shake the country – Zondeka's daughter never came home",
+        "summary": "A wave of femicides has hit Johannesburg in South Africa. The victims have been found dumped outdoors, and relatives are harshly criticising the police response. Police have arrested eight people linked to the murders. Between July and September, almost 600 women were murdered in South Africa."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T03:15:52+01:00"
+      }
+    },
     {
       "id": "9689e6896817",
       "schema_version": 1,
@@ -5408,33 +5434,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T09:31:15+01:00"
-      }
-    },
-    {
-      "id": "2db06e9a0024",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/bk5Bg3/man-livshotande-skadad-efter-pakorning",
-      "guid": "https://www.aftonbladet.se/nyheter/a/bk5Bg3/man-livshotande-skadad-efter-pakorning?utm_medium=rss",
-      "published_at": "2026-11-21T09:12:53+01:00",
-      "fetched_at": "2026-11-21T09:15:44+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/8d477e0e-87ce-39c8-a5bc-2b2d976f7565?format=auto&s=41c224d40a3b8ac65a6a1897dd85608827b95367&w=1000",
-      "sv": {
-        "title": "Man livshotande skadad efter påkörning",
-        "summary": "En man i 40-årsåldern är livshotande skadad efter att ha blivit påkörd av en bil i centrala…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man in his 40s critically injured after being hit by car",
-        "summary": "A man in his 40s is critically injured after being hit by a car in central…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:15:50+01:00"
       }
     }
   ]
