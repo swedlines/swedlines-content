@@ -1,7 +1,113 @@
 {
-  "generated_at": "2026-11-26T17:01:28+01:00",
-  "count": 499,
+  "generated_at": "2026-11-26T17:16:03+01:00",
+  "count": 506,
   "items": [
+    {
+      "id": "1e89107fa873",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/strandhall-s-rasar-mot-v-toppen-du-ar-klar-nu-ida",
+      "guid": "https://www.expressen.se/nyheter/politik/strandhall-s-rasar-mot-v-toppen-du-ar-klar-nu-ida/",
+      "published_at": "2026-11-26T17:11:46+01:00",
+      "fetched_at": "2026-11-26T17:15:54+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Strandhäll (S) rasar mot V-toppen: ”Du är klar nu Ida”",
+        "summary": "S-toppen Annika Strandhäll fortsätter att rasa mot vänsterpartister på X. Hon går hårt åt V:s vicepartiledare Ida Gabrielsson. ”Du är klar nu Ida. Du och den här vänsterledningen kommer åtminstone bli historisk”, skriver hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Strandhäll (S) slams the Left Party leadership: \"You're finished now Ida\"",
+        "summary": "The Social Democrats' Annika Strandhäll keeps attacking Left Party members on X. She goes hard at V deputy party leader Ida Gabrielsson. \"You're finished now Ida. You and this leadership will at least become historic\", she writes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:16:01+01:00"
+      }
+    },
+    {
+      "id": "2191ae24cf88",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/6Pjmlo/trump-putin-borde-dra-tillbaka-hoten-mot-europa",
+      "guid": "https://www.svd.se/a/6Pjmlo/trump-putin-borde-dra-tillbaka-hoten-mot-europa?utm_medium=rss",
+      "published_at": "2026-11-26T17:08:22+01:00",
+      "fetched_at": "2026-11-26T17:15:52+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/cd9a8b6e-891e-3087-b633-ba48f301e5c5?format=auto&s=1a9ad65064e00ede6ca97160d15946929b1ecb80&w=1000",
+      "sv": {
+        "title": "Trump: Putin borde dra tillbaka hot mot Europa",
+        "summary": "Vladimir Putin bör dra tillbaka all militär aggression mot europeiska territorier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump: Putin should withdraw threats against Europe",
+        "summary": "Vladimir Putin should withdraw all military aggression against European territories."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:16:01+01:00"
+      }
+    },
+    {
+      "id": "deab372eae74",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/oMpj9V/italien-tva-medborgare-doda-i-dronarangrepp-i-kuwait",
+      "guid": "https://www.aftonbladet.se/nyheter/a/oMpj9V/italien-tva-medborgare-doda-i-dronarangrepp-i-kuwait?utm_medium=rss",
+      "published_at": "2026-11-26T17:03:00+01:00",
+      "fetched_at": "2026-11-26T17:15:53+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Italien: Två medborgare döda i drönarangrepp i Kuwait",
+        "summary": "Två italienska medborgare har dödats i en iransk drönarattack mot Kuwait, uppger Italiens…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Italy: Two citizens killed in drone attack in Kuwait",
+        "summary": "Two Italian citizens have been killed in an Iranian drone attack on Kuwait, according to Italy's..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:16:01+01:00"
+      }
+    },
+    {
+      "id": "0a321f028ef9",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/lMAp9M/trump-putin-borde-dra-tillbaka-hoten-mot-europa",
+      "guid": "https://www.aftonbladet.se/nyheter/a/lMAp9M/trump-putin-borde-dra-tillbaka-hoten-mot-europa?utm_medium=rss",
+      "published_at": "2026-11-26T17:02:01+01:00",
+      "fetched_at": "2026-11-26T17:15:53+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/cd9a8b6e-891e-3087-b633-ba48f301e5c5?format=auto&s=1a9ad65064e00ede6ca97160d15946929b1ecb80&w=1000",
+      "sv": {
+        "title": "Trump: Putin borde dra tillbaka hoten mot Europa",
+        "summary": "Vladimir Putin bör dra tillbaka all militär aggression mot europeiska territorier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump: Putin should withdraw threats against Europe",
+        "summary": "Vladimir Putin should withdraw all military aggression against European territories."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:16:01+01:00"
+      }
+    },
     {
       "id": "e42d088e7df4",
       "schema_version": 1,
@@ -110,6 +216,33 @@
       }
     },
     {
+      "id": "cc29e50e3c78",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/soderfjell-efter-nvidia-besoket-styrelsen-borde-avga",
+      "guid": "0fcde42b-faf2-48e8-9693-3eda09752012",
+      "published_at": "2026-11-26T16:59:05+01:00",
+      "fetched_at": "2026-11-26T17:15:55+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a2391083-5ab6-4ade-9463-1557e5d060e3.jpeg?width=600",
+      "sv": {
+        "title": "Söderfjell efter Nvidia-besöket: ”Styrelsen borde avgå”",
+        "summary": "Förra veckan, mitt under vd-turbulensen, besökte en grupp välkända svenska investerare halvledarjätten Nvidia i Silicon Valley. Slutsatsen från medresenären Lars Söderfjell: ”Jag tycker personligen att styrelsen borde avgå”, säger Ålandsbankens aktiechef.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Söderfjell after Nvidia visit: \"The board should resign\"",
+        "summary": "Last week, in the middle of the CEO turmoil, a group of well-known Swedish investors visited the semiconductor giant Nvidia in Silicon Valley. The conclusion from fellow traveller Lars Söderfjell: \"Personally, I think the board should resign\", says the head of equities at Ålandsbanken."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:16:01+01:00"
+      }
+    },
+    {
       "id": "ddbbe0631793",
       "schema_version": 1,
       "source": "aftonbladet",
@@ -134,6 +267,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T17:01:25+01:00"
+      }
+    },
+    {
+      "id": "83578b911918",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/weekend/hochm-s-stjarnskott-siktar-mot-varldstoppen",
+      "guid": "400f80aa-b0fc-52fe-8594-8b1e5f0f0333",
+      "published_at": "2026-11-26T16:58:37+01:00",
+      "fetched_at": "2026-11-26T17:15:55+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "H&M:s stjärnskott siktar mot världstoppen",
+        "summary": "Nicole Holmén har fått det många drömmer om – en plats i H&M:s hopplag. ”Jag skulle säga att hon har de två viktigaste egenskaperna – talangen och attityden”, säger lagkamraten Peder Fredricson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "H&M's rising star aims for the world top",
+        "summary": "Nicole Holmén has got what many dream of – a place in H&M's hopeful team. \"I would say she has the two most important qualities – the talent and the attitude\", says teammate Peder Fredricson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:16:01+01:00"
       }
     },
     {
@@ -188,6 +347,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T17:01:25+01:00"
+      }
+    },
+    {
+      "id": "43d1a95671dc",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/huangs-chipstopp-kan-vara-forsta-steget-mot-ny-kina-kurs",
+      "guid": "eed83c43-2468-422a-b06c-c9e93a09fb40",
+      "published_at": "2026-11-26T16:56:55+01:00",
+      "fetched_at": "2026-11-26T17:15:55+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f3f0cbd9-c1eb-4516-be42-8e701dc87073.jpeg?width=600",
+      "sv": {
+        "title": "Huangs chipstopp kan vara första steget mot ny Kina-kurs",
+        "summary": "Nvidia uppges ha bett sina tillverkningspartner att sluta leverera servrar till fyra sydostasiatiska länder, enligt uppgifter till Financial Times. Beslutet kan tyda på att vd Jensen Huang förbereder en ny Kina-hållning inför sitt första kongressförhör på tisdag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Huang's chip stop may be first step toward new China course",
+        "summary": "Nvidia is reported to have asked its manufacturing partners to stop delivering servers to four Southeast Asian countries, according to information given to the Financial Times. The decision may indicate that CEO Jensen Huang is preparing a new China stance ahead of his first congressional hearing on Tuesday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:16:01+01:00"
       }
     },
     {

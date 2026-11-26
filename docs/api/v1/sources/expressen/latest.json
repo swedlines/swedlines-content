@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T17:01:28+01:00",
+  "generated_at": "2026-11-26T17:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1e89107fa873",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/strandhall-s-rasar-mot-v-toppen-du-ar-klar-nu-ida",
+      "guid": "https://www.expressen.se/nyheter/politik/strandhall-s-rasar-mot-v-toppen-du-ar-klar-nu-ida/",
+      "published_at": "2026-11-26T17:11:46+01:00",
+      "fetched_at": "2026-11-26T17:15:54+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Strandhäll (S) rasar mot V-toppen: ”Du är klar nu Ida”",
+        "summary": "S-toppen Annika Strandhäll fortsätter att rasa mot vänsterpartister på X. Hon går hårt åt V:s vicepartiledare Ida Gabrielsson. ”Du är klar nu Ida. Du och den här vänsterledningen kommer åtminstone bli historisk”, skriver hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Strandhäll (S) slams the Left Party leadership: \"You're finished now Ida\"",
+        "summary": "The Social Democrats' Annika Strandhäll keeps attacking Left Party members on X. She goes hard at V deputy party leader Ida Gabrielsson. \"You're finished now Ida. You and this leadership will at least become historic\", she writes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:16:01+01:00"
+      }
+    },
     {
       "id": "19eb87a38b27",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T15:31:20+01:00"
-      }
-    },
-    {
-      "id": "fa1301352e5a",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/podcast/politikrummet-1/stor-stress-i-c-infor-odesvalet",
-      "guid": "https://www.expressen.se/podcast/politikrummet-1/stor-stress-i-c-infor-odesvalet/",
-      "published_at": "2026-11-23T15:11:51+01:00",
-      "fetched_at": "2026-11-23T15:15:46+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Stor stress i C – inför ödesvalet",
-        "summary": "Magdalena Andersson lämnar ett bud till Vänsterpartiet. Är det ett startbud, slutbud eller ett skambud? Och vart är Centerpartiet på väg? Lyssna på ”Politikrummet”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Major stress in C – ahead of the fateful election",
-        "summary": "Magdalena Andersson makes an offer to the Left Party. Is it an opening bid, a final bid or a shameful bid? And where is the Centre Party heading? Listen to “Politikrummet”."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T15:15:53+01:00"
       }
     }
   ]

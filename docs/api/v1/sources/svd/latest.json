@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T17:01:28+01:00",
+  "generated_at": "2026-11-26T17:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2191ae24cf88",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/6Pjmlo/trump-putin-borde-dra-tillbaka-hoten-mot-europa",
+      "guid": "https://www.svd.se/a/6Pjmlo/trump-putin-borde-dra-tillbaka-hoten-mot-europa?utm_medium=rss",
+      "published_at": "2026-11-26T17:08:22+01:00",
+      "fetched_at": "2026-11-26T17:15:52+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/cd9a8b6e-891e-3087-b633-ba48f301e5c5?format=auto&s=1a9ad65064e00ede6ca97160d15946929b1ecb80&w=1000",
+      "sv": {
+        "title": "Trump: Putin borde dra tillbaka hot mot Europa",
+        "summary": "Vladimir Putin bör dra tillbaka all militär aggression mot europeiska territorier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump: Putin should withdraw threats against Europe",
+        "summary": "Vladimir Putin should withdraw all military aggression against European territories."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T17:16:01+01:00"
+      }
+    },
     {
       "id": "a42d7a744186",
       "schema_version": 1,
@@ -5227,33 +5254,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T14:16:05+01:00"
-      }
-    },
-    {
-      "id": "37da946eba6f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Xog7Ar/anderssons-bud-till-vansterpartiet-ar-inte-slutgiltigt",
-      "guid": "https://www.svd.se/a/Xog7Ar/anderssons-bud-till-vansterpartiet-ar-inte-slutgiltigt?utm_medium=rss",
-      "published_at": "2026-11-23T13:54:38+01:00",
-      "fetched_at": "2026-11-23T14:01:12+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/6b9da41f-605b-352e-8f61-82c38596b311?format=auto&s=68e03dde480a70079e64941f425b61c3e4a15e44&w=1000",
-      "sv": {
-        "title": "”V måste välja – Tidö eller förhandlingar”",
-        "summary": "Vänsterpartiet sa nej direkt. Trots det ska Magdalena Anderssons paket till V inte ses som ett sista…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"V must choose – Tidö or negotiations\"",
-        "summary": "The Left Party said no immediately. Despite that, Magdalena Andersson's package to V is not to be seen as a final…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T14:01:30+01:00"
       }
     }
   ]
