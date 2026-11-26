@@ -1,7 +1,113 @@
 {
-  "generated_at": "2026-11-26T15:01:29+01:00",
+  "generated_at": "2026-11-26T15:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "de7af55760a3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/debatt/storstadsmajoriteterna-gar-vilse-i-valfarden",
+      "guid": "c576fadb-1945-4e5f-9789-1567e18a0ae9",
+      "published_at": "2026-11-26T15:06:15+01:00",
+      "fetched_at": "2026-11-26T15:15:52+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/19e59c08-df96-4139-b541-99ccae8fb283.jpeg?width=600",
+      "sv": {
+        "title": "Storstadsmajoriteterna går vilse i välfärden",
+        "summary": "Både Stockholm och Göteborg vill nu avskaffa valfriheten i hemtjänsten. Efter sjutton år som hemtjänstföretagare vet jag vad det leder till: när konkurrensen dör blir omsorgen sämre för alla – även för dem som har valt kommunen, skriver Kayhan Utkutug",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Metropolitan majorities lose their way on welfare",
+        "summary": "Both Stockholm and Göteborg now want to abolish freedom of choice in home care. After seventeen years as a home care company owner, I know where that leads: when competition dies, care gets worse for everyone – including those who chose the municipality, writes Kayhan Utkutug"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:15:57+01:00"
+      }
+    },
+    {
+      "id": "aba08ab42be7",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/marine-le-pen-ar-bryssels-huvudvark",
+      "guid": "11d8864d-ef7d-4071-b89c-33ce64859a70",
+      "published_at": "2026-11-26T15:04:55+01:00",
+      "fetched_at": "2026-11-26T15:15:52+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/37ba8b28-665a-4597-94a1-1cee05579411.jpeg?width=600",
+      "sv": {
+        "title": "Marine Le Pen är Bryssels huvudvärk",
+        "summary": "Hotet om ett franskt maktskifte används som påtryckningsmedel i de tuffa förhandlingarna om EU:s nästa långtidsbudget. Men de största bidragsgivarna håller huvudet kallt – med all rätt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Marine Le Pen is Brussels' headache",
+        "summary": "The threat of a French change of power is being used as leverage in the tough negotiations over the EU's next long-term budget. But the largest contributors are keeping a cool head – and rightly so."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:15:57+01:00"
+      }
+    },
+    {
+      "id": "0645cad11f96",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350859",
+      "guid": "rss:sr.se/article/9350859",
+      "published_at": "2026-11-26T15:04:00+01:00",
+      "fetched_at": "2026-11-26T15:15:49+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Elnätsavgiften höjs för nära 900 000 hushåll och företag",
+        "summary": "Vattenfall eldistribution höjer elnätsavgiften nästa år med i snitt fem procent för omkring 900 000 hushåll och företag i Sverige. Det uppger bolaget för Ekot. Bolaget hänvisar till högre kostnader för investeringar i elnäten.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Grid fee rises for nearly 900,000 households and businesses",
+        "summary": "Vattenfall Eldistribution is raising its grid fee next year by an average of five percent for around 900,000 households and businesses in Sweden. The company tells Ekot. The company points to higher costs for investments in the electricity grids."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:15:57+01:00"
+      }
+    },
+    {
+      "id": "3290b640494d",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/granskning/ug/richard-och-sofia-fick-psykoser-under-adhd-medicineringen",
+      "guid": "https://www.svt.se/nyheter/granskning/ug/richard-och-sofia-fick-psykoser-under-adhd-medicineringen",
+      "published_at": "2026-11-26T15:02:23+01:00",
+      "fetched_at": "2026-11-26T15:15:48+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Richard och Sofia fick psykoser under adhd-medicineringen",
+        "summary": "Sofia och Richard drabbades av psykoser när de åt adhd-medicin. Trots att antalet diagnoser har ökat lavinartat har antalet rapporterade psykoser, en av medicinens ovanliga men kända biverkningar, legat stilla.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Richard and Sofia developed psychoses during ADHD medication",
+        "summary": "Sofia and Richard suffered psychoses while taking ADHD medication. Although the number of diagnoses has increased explosively, the number of reported psychoses, one of the medication's rare but known side effects, has remained flat."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:15:57+01:00"
+      }
+    },
     {
       "id": "5843aa0f6d4b",
       "schema_version": 1,
@@ -54,6 +160,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T15:01:26+01:00"
+      }
+    },
+    {
+      "id": "944d937b4062",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/skolinspektionen-inleder-tillsyn-efter-valdet-pa-ostra-skolan",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/skolinspektionen-inleder-tillsyn-efter-valdet-pa-ostra-skolan",
+      "published_at": "2026-11-26T14:59:25+01:00",
+      "fetched_at": "2026-11-26T15:15:48+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Skolinspektionen inleder tillsyn efter våldet på Östra skolan",
+        "summary": "Efter elevernas våld och hot på Östra skolan i Vaggeryd inleder nu Skolinspektionen en tillsyn, det skriver Värnamo Nyheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Schools Inspectorate opens supervision after violence at Östra skolan",
+        "summary": "After pupils' violence and threats at Östra skolan in Vaggeryd, the Schools Inspectorate is now opening supervision, Värnamo Nyheter reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:15:57+01:00"
       }
     },
     {
@@ -5255,138 +5387,6 @@
       "en": {
         "title": "Centre Party board calls new meeting",
         "summary": "The Centre Party's board has been called to an extra meeting today. According to SVT, the meeting is to take place at lunchtime and will address whether there is support for the party to choose a new kind of Alliance government, led by Kristersson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T10:16:07+01:00"
-      }
-    },
-    {
-      "id": "4aa97b8988a1",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/7P0WXo/smaorterna-blir-farre-och-storstaderna-storre",
-      "guid": "https://www.aftonbladet.se/nyheter/a/7P0WXo/smaorterna-blir-farre-och-storstaderna-storre?utm_medium=rss",
-      "published_at": "2026-11-26T10:10:38+01:00",
-      "fetched_at": "2026-11-26T10:15:50+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/95b5da5f-73a5-3864-9788-16cf5cd33582?format=auto&s=37e76bfe16790227ccdd5ff720d22d3fb4a32bb3&w=1000",
-      "sv": {
-        "title": "Småorterna blir färre och storstäderna större",
-        "summary": "Antalet tätorter och småorter i Sverige blir färre, visar nya siffror från SCB.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Small localities become fewer and big cities larger",
-        "summary": "The number of urban areas and small localities in Sweden is decreasing, new figures from SCB show."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T10:16:07+01:00"
-      }
-    },
-    {
-      "id": "81f8e2a19a49",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/GPGpzJ/smaorterna-blir-farre-och-storstaderna-storre",
-      "guid": "https://www.svd.se/a/GPGpzJ/smaorterna-blir-farre-och-storstaderna-storre?utm_medium=rss",
-      "published_at": "2026-11-26T10:10:38+01:00",
-      "fetched_at": "2026-11-26T10:15:49+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/95b5da5f-73a5-3864-9788-16cf5cd33582?format=auto&s=37e76bfe16790227ccdd5ff720d22d3fb4a32bb3&w=1000",
-      "sv": {
-        "title": "Småorterna blir färre och storstäderna större",
-        "summary": "Antalet tätorter och småorter i Sverige blir färre, visar nya siffror från SCB.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Small localities become fewer and big cities larger",
-        "summary": "The number of urban areas and small localities in Sweden is decreasing, new figures from SCB show."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T10:16:07+01:00"
-      }
-    },
-    {
-      "id": "ba4ebede9f44",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/vargen-risk-for-budgetkaos-mitt-i-tomterallyt",
-      "guid": "ad59ef79-1877-57f4-aad8-f584f62df2a8",
-      "published_at": "2026-11-26T10:08:52+01:00",
-      "fetched_at": "2026-11-26T10:15:52+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Vargen: Risk för budgetkaos mitt i tomterallyt",
-        "summary": "Di:s analytiker Ulf Petersson går igenom torsdagens ”Vargen” och vad som ”ylar i skogen”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Wolf: Risk of budget chaos amid the tomte rally",
-        "summary": "Di analyst Ulf Petersson goes through Thursday's \"Vargen\" and what is \"howling in the forest\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T10:16:07+01:00"
-      }
-    },
-    {
-      "id": "f18068e5d5bc",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/1-miljon-i-intakter-for-rmd",
-      "guid": "fb465fcb-58d6-4aed-97b6-f92beff176c2",
-      "published_at": "2026-11-26T10:08:23+01:00",
-      "fetched_at": "2026-11-26T10:15:52+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "1 miljon i intäkter för RMD",
-        "summary": "RMD, ett bolag som utvecklar en systemplattform för analys och övervakning av transport och infrastruktur i realtid, redovisar ett rörelseresultat om minus 2,5 miljoner kronor (minus 2,7) för det tredje kvartalet 2026.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "1 million in revenue for RMD",
-        "summary": "RMD, a company that develops a system platform for real-time analysis and monitoring of transport and infrastructure, reports an operating result of minus SEK 2.5 million (minus 2.7) for the third quarter of 2026."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T10:16:07+01:00"
-      }
-    },
-    {
-      "id": "6ffa640dd016",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/stor-explosion-i-bangkok",
-      "guid": "https://www.expressen.se/nyheter/varlden/stor-explosion-i-bangkok/",
-      "published_at": "2026-11-26T10:06:48+01:00",
-      "fetched_at": "2026-11-26T10:15:51+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Stor explosion i Bangkok",
-        "summary": "En stor explosion har inträffat vid en oljedepå i Bangkok. Boende i området evakueras och svart rök sprider sig över den Thailändska huvudstaden.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Major explosion in Bangkok",
-        "summary": "A major explosion has occurred at an oil depot in Bangkok. Residents in the area are being evacuated and black smoke is spreading over the Thai capital."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-26T15:01:29+01:00",
+  "generated_at": "2026-11-26T15:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3290b640494d",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/granskning/ug/richard-och-sofia-fick-psykoser-under-adhd-medicineringen",
+      "guid": "https://www.svt.se/nyheter/granskning/ug/richard-och-sofia-fick-psykoser-under-adhd-medicineringen",
+      "published_at": "2026-11-26T15:02:23+01:00",
+      "fetched_at": "2026-11-26T15:15:48+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Richard och Sofia fick psykoser under adhd-medicineringen",
+        "summary": "Sofia och Richard drabbades av psykoser när de åt adhd-medicin. Trots att antalet diagnoser har ökat lavinartat har antalet rapporterade psykoser, en av medicinens ovanliga men kända biverkningar, legat stilla.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Richard and Sofia developed psychoses during ADHD medication",
+        "summary": "Sofia and Richard suffered psychoses while taking ADHD medication. Although the number of diagnoses has increased explosively, the number of reported psychoses, one of the medication's rare but known side effects, has remained flat."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:15:57+01:00"
+      }
+    },
+    {
+      "id": "944d937b4062",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/skolinspektionen-inleder-tillsyn-efter-valdet-pa-ostra-skolan",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/skolinspektionen-inleder-tillsyn-efter-valdet-pa-ostra-skolan",
+      "published_at": "2026-11-26T14:59:25+01:00",
+      "fetched_at": "2026-11-26T15:15:48+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Skolinspektionen inleder tillsyn efter våldet på Östra skolan",
+        "summary": "Efter elevernas våld och hot på Östra skolan i Vaggeryd inleder nu Skolinspektionen en tillsyn, det skriver Värnamo Nyheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Schools Inspectorate opens supervision after violence at Östra skolan",
+        "summary": "After pupils' violence and threats at Östra skolan in Vaggeryd, the Schools Inspectorate is now opening supervision, Värnamo Nyheter reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:15:57+01:00"
+      }
+    },
     {
       "id": "0e0cf8bb1712",
       "schema_version": 1,
@@ -5145,58 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:45:53+01:00"
-      }
-    },
-    {
-      "id": "0b86454b378e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/darfor-backar-inte-v",
-      "guid": "https://www.svt.se/nyheter/inrikes/darfor-backar-inte-v",
-      "published_at": "2026-11-21T06:13:07+01:00",
-      "fetched_at": "2026-11-21T06:15:46+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Därför backar inte V",
-        "summary": "Vänsterpartiet kräver att få sitta i en rödgrön regering – men pressen att de ska backa ökar. Varför är det så viktigt för V med ministerposter? Och finns det något som talar för att de kommer vika ner sig?",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Why V Won't Back Down",
-        "summary": "The Left Party demands to sit in a red-green government, but pressure on them to back down is growing. Why is it so important for V to have ministerial posts? And is there anything suggesting they will give in?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T06:16:04+01:00"
-      }
-    },
-    {
-      "id": "091b25632ba6",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/tvillingarna-ester-och-hugo-i-umea-foddes-for-tidigt-deltar-i-unik-studie",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/tvillingarna-ester-och-hugo-i-umea-foddes-for-tidigt-deltar-i-unik-studie",
-      "published_at": "2026-11-21T05:30:04+01:00",
-      "fetched_at": "2026-11-21T05:45:40+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Tvillingarna Ester och Hugo i Umeå föddes för tidigt – deltar i unik studie",
-        "summary": "Josefin Israelsson och William Hamrin i Holmsund skulle bli tvillingföräldrar lagom till sommaren. När värkarbetet startade tre månader för tidigt slutade det med ett akut kejsarsnitt – och flera veckor på sjukhus med övervakning dygnet runt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Twins Ester and Hugo in Umeå born prematurely – take part in unique study",
-        "summary": "Josefin Israelsson and William Hamrin in Holmsund were due to become parents of twins just before the summer. When labour started three months early, it ended in an emergency caesarean section – and several weeks in hospital under round-the-clock monitoring."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T05:45:50+01:00"
       }
     }
   ]

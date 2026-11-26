@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:01:29+01:00",
+  "generated_at": "2026-11-26T15:16:01+01:00",
   "count": 200,
   "items": [
     {
@@ -27,6 +27,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T15:01:26+01:00"
+      }
+    },
+    {
+      "id": "944d937b4062",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/skolinspektionen-inleder-tillsyn-efter-valdet-pa-ostra-skolan",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/skolinspektionen-inleder-tillsyn-efter-valdet-pa-ostra-skolan",
+      "published_at": "2026-11-26T14:59:25+01:00",
+      "fetched_at": "2026-11-26T15:15:48+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Skolinspektionen inleder tillsyn efter våldet på Östra skolan",
+        "summary": "Efter elevernas våld och hot på Östra skolan i Vaggeryd inleder nu Skolinspektionen en tillsyn, det skriver Värnamo Nyheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Schools Inspectorate opens supervision after violence at Östra skolan",
+        "summary": "After pupils' violence and threats at Östra skolan in Vaggeryd, the Schools Inspectorate is now opening supervision, Värnamo Nyheter reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:15:57+01:00"
       }
     },
     {
@@ -5470,33 +5496,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T19:45:54+01:00"
-      }
-    },
-    {
-      "id": "35f16b4a25ff",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/nya-sjukhuset-i-helsingborg-blir-flera-miljarder-dyrare-an-uppskattat",
-      "guid": "a11b0048-668f-4a5c-854f-2ddfdec50452",
-      "published_at": "2026-11-22T18:00:00+01:00",
-      "fetched_at": "2026-11-22T18:01:18+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/40bb8563-3538-40b8-bfac-22f417589bc3.jpeg?width=600",
-      "sv": {
-        "title": "Nya sjukhuset i Helsingborg blir flera miljarder dyrare än uppskattat",
-        "summary": "Har du också kört förbi Östra Ramlösa, blickat ut över åkermarkerna och undrat: Hur går det med Helsingborgs nya sjukhus som ska byggas här? Sydsvenskan ger idag senaste nytt om tidsplanen, kostnad, storlek och innehåll.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New Helsingborg hospital set to cost several billion more than estimated",
-        "summary": "Have you also driven past Östra Ramlösa, looked out over the farmland and wondered: how is Helsingborg's new hospital going to be built here? Sydsvenskan brings the latest news on timeline, cost, size and content."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T18:01:21+01:00"
       }
     }
   ]
