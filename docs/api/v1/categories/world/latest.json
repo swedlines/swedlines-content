@@ -1,7 +1,79 @@
 {
-  "generated_at": "2026-11-26T05:31:21+01:00",
+  "generated_at": "2026-11-26T05:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0b3a87061c43",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80321",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80321&utm_medium=rss",
+      "published_at": "2026-11-26T05:40:58+01:00",
+      "fetched_at": "2026-11-26T05:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump och Rutte: Utvidga inte kriget"
+      },
+      "en": {
+        "title": "Trump and Rutte: Don't expand the war"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T05:45:52+01:00"
+      }
+    },
+    {
+      "id": "e5cbbfbecfc4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=51d16d29-a1df-4a23-a3ee-44a4d60bfbd3",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=51d16d29-a1df-4a23-a3ee-44a4d60bfbd3",
+      "published_at": "2026-11-26T05:32:58+01:00",
+      "fetched_at": "2026-11-26T05:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fiskeolycka – 17 till sjukhus",
+        "summary": "Fartyg i sjönöd utanför Island",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fishing accident – 17 to hospital",
+        "summary": "Vessels in distress off Iceland"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T05:45:52+01:00"
+      }
+    },
+    {
+      "id": "360638b68ffd",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80320",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80320&utm_medium=rss",
+      "published_at": "2026-11-26T05:32:01+01:00",
+      "fetched_at": "2026-11-26T05:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "31 döda när tankbil exploderade"
+      },
+      "en": {
+        "title": "31 dead when tanker truck exploded"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T05:45:52+01:00"
+      }
+    },
     {
       "id": "2648f974c9a0",
       "schema_version": 1,
@@ -5273,86 +5345,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T22:30:34+01:00"
-      }
-    },
-    {
-      "id": "e0013e91c868",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/finland-lat-ryssland-hamta-attackerade-fartyget-vacker-kritik",
-      "guid": "https://www.dn.se/varlden/finland-lat-ryssland-hamta-attackerade-fartyget-vacker-kritik/",
-      "published_at": "2026-11-23T22:13:37+01:00",
-      "fetched_at": "2026-11-23T22:15:47+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/d518922e-648f-4265-9c95-6b603b0b47f6.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Finland lät Ryssland hämta attackerade fartyget – väcker kritik",
-        "summary": "Varför lät Finland Ryssland bogsera bort det attackerade lastfartyget Sparta II? Och vad fanns i lasten? Ryska myndigheter uppgav att lasten bestod av ”brandfarliga vätskor”, men gav inget tydligare svar, rapporterar Yle.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Finland let Russia tow away attacked ship – draws criticism",
-        "summary": "Why did Finland let Russia tow away the attacked cargo ship Sparta II? And what was in the cargo? Russian authorities said the cargo consisted of \"flammable liquids\" but gave no clearer answer, reports Yle."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:15:55+01:00"
-      }
-    },
-    {
-      "id": "c7fc65872e01",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348682",
-      "guid": "rss:sr.se/article/9348682",
-      "published_at": "2026-11-23T22:03:00+01:00",
-      "fetched_at": "2026-11-23T22:15:46+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Rapport: Striderna i Gaza förgiftar miljön – ökar risk för cancer",
-        "summary": "Efter förstörelsen och striderna i Gaza är miljön så förgiftad att den kommer att utgöra en fara för befolkningen i årtionden. I en rapport kallad \"giftig ödemark\", som bland andra Oxfam ligger bakom, konstateras det att tungmetaller, rester av sprängämnen och asbest från förstörda byggnader…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Report: Fighting in Gaza poisons the environment – increases cancer risk",
-        "summary": "After the destruction and fighting in Gaza, the environment is so poisoned that it will pose a danger to the population for decades. A report called \"Toxic Wasteland\", backed by Oxfam among others, states that heavy metals, explosive residues and asbestos from destroyed buildings…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:15:55+01:00"
-      }
-    },
-    {
-      "id": "a08732e09dc4",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/g37l0k/nordiska-guldet-kan-hotas-efter-fler-bombhot",
-      "guid": "https://www.svd.se/a/g37l0k/nordiska-guldet-kan-hotas-efter-fler-bombhot?utm_medium=rss",
-      "published_at": "2026-11-23T21:56:39+01:00",
-      "fetched_at": "2026-11-23T22:01:13+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/b4cdebe9-86af-37ea-849c-35491dc0cc2a?format=auto&s=85dbaf15613af94216396f3f02e269b2a9c824c8&w=1000",
-      "sv": {
-        "title": "”Nordiska guldet” kan hotas efter fler bombhot",
-        "summary": "Ytterligare hundratals bombhot har skickats mot europeiska skolor under måndagen, denna gång i…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "”Nordic gold” may be threatened after more bomb threats",
-        "summary": "Hundreds more bomb threats have been sent to European schools on Monday, this time in…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:01:21+01:00"
       }
     }
   ]
