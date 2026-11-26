@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T07:46:05+01:00",
+  "generated_at": "2026-11-26T08:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8fd7c1aa7451",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/fortsatta-forluster-for-nextcell-pharma-ska-ta-in-nya-pengar",
+      "guid": "4ecc417b-a0df-4fdf-8d6c-aeed2afa3971",
+      "published_at": "2026-11-26T07:48:36+01:00",
+      "fetched_at": "2026-11-26T08:01:21+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Fortsatta förluster för Nextcell Pharma – ska ta in nya pengar",
+        "summary": "Forskningsbolaget Nextcell Pharma redovisar ett rörelseresultat på minus 7,5 miljoner kronor (minus 7,0) för det tredje kvartalet 2026.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Continued losses for Nextcell Pharma – to raise new funds",
+        "summary": "The research company Nextcell Pharma reports an operating loss of minus SEK 7.5 million (minus 7.0) for the third quarter of 2026."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:01:26+01:00"
+      }
+    },
     {
       "id": "141f69656796",
       "schema_version": 1,
@@ -5271,33 +5297,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T08:24:31+01:00"
-      }
-    },
-    {
-      "id": "e6c56cc97cc1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/ellos-vill-losa-in-krisobligationen",
-      "guid": "2b01258c-6519-46f6-af52-f9f916113fb0",
-      "published_at": "2026-11-25T08:13:50+01:00",
-      "fetched_at": "2026-11-25T08:15:42+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/360ce37c-9b1f-4c57-87db-4dba25eaa784.jpeg?width=600",
-      "sv": {
-        "title": "Ellos vill lösa in krisobligationen",
-        "summary": "E-handlaren Ellos vill i förtid lösa in den obligation som en gång i tiden fick bolaget på fall. Flera av obligationsinnehavarna är desamma som vid konkursen 2024 – och sitter även som storägare med ett lock up-avtal som löper ut i januari.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ellos wants to redeem the crisis bond",
-        "summary": "The e-retailer Ellos wants to redeem early the bond the company once issued to itself. Several bondholders are the same as at the 2024 bankruptcy and are also major shareholders with a lock-up agreement that expires in January."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T08:15:50+01:00"
       }
     }
   ]

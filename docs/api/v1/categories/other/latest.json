@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-11-26T07:46:05+01:00",
+  "generated_at": "2026-11-26T08:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "54c63f048c32",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/mMRbBv/veckans-plusquiz",
+      "guid": "https://www.aftonbladet.se/nyheter/a/mMRbBv/veckans-plusquiz?utm_medium=rss",
+      "published_at": "2026-11-26T08:00:00+01:00",
+      "fetched_at": "2026-11-26T08:01:19+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/21a4a027-9e46-34a0-bf6b-f1887c58ceaf?format=auto&s=78e3042f5238b373a7633727dc0d753fb2117260&w=960",
+      "sv": {
+        "title": "Veckans Plusquiz"
+      },
+      "en": {
+        "title": "Weekly Plusquiz"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:01:26+01:00"
+      }
+    },
+    {
+      "id": "acf2d668f46b",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/gp-historia/fraga-wedel-stammer-det-envisa-ryktet-om-ostindiefararen-gotheborg.18ebb025-a7aa-5def-affe-879ea2f407da",
+      "guid": "18ebb025-a7aa-5def-affe-879ea2f407da",
+      "published_at": "2026-11-26T07:39:33+01:00",
+      "fetched_at": "2026-11-26T08:01:21+01:00",
+      "category": "other",
+      "feed_categories": [
+        "GP Historia",
+        "Tagg: GP Historia",
+        "Tagg: Kristian Wedel"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/b6c4a97e-e4de-3dd7-8b4e-9394eb9a8992",
+      "sv": {
+        "title": "Fråga Wedel: Stämmer det envisa ryktet om ostindiefararen ”Götheborg”?",
+        "summary": "Har vi kommit ett bisarrt lokalt särdrag på spåret?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ask Wedel: Is the persistent rumour about the East Indiaman \"Götheborg\" true?",
+        "summary": "Have we stumbled upon a bizarre local peculiarity?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:01:26+01:00"
+      }
+    },
     {
       "id": "53e30d5911d5",
       "schema_version": 1,
@@ -5471,59 +5527,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:16:22+01:00"
-      }
-    },
-    {
-      "id": "2e754e2ea66e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/vem-ringer-telias-sista-samtal",
-      "guid": "https://www.expressen.se/nyheter/sverige/vem-ringer-telias-sista-samtal/",
-      "published_at": "2026-11-16T15:38:41+01:00",
-      "fetched_at": "2026-11-16T15:45:42+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Vem ringer Telias sista samtal?",
-        "summary": "Det har funnit i 150 år. Men sista november släcker Telia sitt nät – för alltid. Och du har chans att bli den som ringer sist av alla.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Who makes Telia's last call?",
-        "summary": "It has existed for 150 years. But on the last day of November, Telia switches off its network – for good. And you have a chance to be the one who makes the last call of all."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:45:48+01:00"
-      }
-    },
-    {
-      "id": "b7d52bb45db1",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/danmark/firades-som-danmarks-aldsta-hade-morkt-forflutet",
-      "guid": "08370f90-9d96-4994-8596-d86b823c4e3b",
-      "published_at": "2026-11-16T14:45:04+01:00",
-      "fetched_at": "2026-11-16T14:45:51+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/627f3a94-077e-40ed-ade5-74fcc6e00c51.jpg?width=600",
-      "sv": {
-        "title": "Firades som Danmarks äldsta – hade mörkt förflutet",
-        "summary": "Hon har under hösten firats som den äldsta personen i Danmarks historia. Men av uppmärksamheten följde avslöjanden från en mörkare del av hennes liv.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Celebrated as Denmark's oldest – had a dark past",
-        "summary": "She has been celebrated as the oldest person in Danish history this autumn. But the attention has been followed by revelations from a darker part of her life."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:45:56+01:00"
       }
     }
   ]

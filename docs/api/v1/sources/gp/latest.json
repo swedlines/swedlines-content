@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-26T07:46:05+01:00",
+  "generated_at": "2026-11-26T08:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "acf2d668f46b",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/gp-historia/fraga-wedel-stammer-det-envisa-ryktet-om-ostindiefararen-gotheborg.18ebb025-a7aa-5def-affe-879ea2f407da",
+      "guid": "18ebb025-a7aa-5def-affe-879ea2f407da",
+      "published_at": "2026-11-26T07:39:33+01:00",
+      "fetched_at": "2026-11-26T08:01:21+01:00",
+      "category": "other",
+      "feed_categories": [
+        "GP Historia",
+        "Tagg: GP Historia",
+        "Tagg: Kristian Wedel"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/b6c4a97e-e4de-3dd7-8b4e-9394eb9a8992",
+      "sv": {
+        "title": "Fråga Wedel: Stämmer det envisa ryktet om ostindiefararen ”Götheborg”?",
+        "summary": "Har vi kommit ett bisarrt lokalt särdrag på spåret?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ask Wedel: Is the persistent rumour about the East Indiaman \"Götheborg\" true?",
+        "summary": "Have we stumbled upon a bizarre local peculiarity?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T08:01:26+01:00"
+      }
+    },
     {
       "id": "53e30d5911d5",
       "schema_version": 1,
@@ -6837,45 +6869,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T21:31:05+01:00"
-      }
-    },
-    {
-      "id": "eeede86a1abe",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/kulturdebatt/allt-ar-kandiskulturens-fel.d24a63cc-6149-5adb-8a2d-21ad4c0427a1",
-      "guid": "d24a63cc-6149-5adb-8a2d-21ad4c0427a1",
-      "published_at": "2026-11-20T20:26:37+01:00",
-      "fetched_at": "2026-11-20T21:01:15+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Kulturdebatt",
-        "Tagg: Författare",
-        "Tagg: Litteratur",
-        "Tagg: Caroline Ringskog Ferrada-Noli",
-        "Tagg: Tone Schunnesson",
-        "Tagg: Café Bambino",
-        "Tagg: Böcker",
-        "Tagg: Recension",
-        "Tagg: Autofiktion",
-        "Tagg: Sandra Beijer"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/ad7fa0cc-2591-37df-8e1b-a33b6ecb0338",
-      "sv": {
-        "title": "Problemet med Beijer, Schunnesson och CRFN stavas kändiskultur",
-        "summary": "När författare blir kändisar står vi inför en ny litterär offentlighet skriver Mikaela Pejković.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The problem with Beijer, Schunnesson and CRFN is called celebrity culture",
-        "summary": "When authors become celebrities, we face a new literary public sphere, writes Mikaela Pejković."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T21:01:22+01:00"
       }
     }
   ]
