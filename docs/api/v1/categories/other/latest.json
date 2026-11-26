@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-26T06:46:00+01:00",
+  "generated_at": "2026-11-26T07:00:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "53e30d5911d5",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/asikt-och-debatt/fria-ord/foraldrarna-bryr-sig-inte-om-att-deras-barn-slass-och-kastar-gatsten.ad6a7015-7c70-5baa-81ae-c6861a25af13",
+      "guid": "ad6a7015-7c70-5baa-81ae-c6861a25af13",
+      "published_at": "2026-11-26T06:45:00+01:00",
+      "fetched_at": "2026-11-26T07:00:18+01:00",
+      "category": "other",
+      "feed_categories": [
+        "Fria ord",
+        "Tagg: Kränkningar",
+        "Tagg: Barn",
+        "Tagg: Skola"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/169537a8-bec1-3354-aff8-f737b26f38ed",
+      "sv": {
+        "title": "Föräldrarna bryr sig inte om att deras barn sparkar och biter oss lärare",
+        "summary": "När vi kontaktar hemmet möts vi ofta av bortförklaringar och misstro, skriver insändarskribenten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Parents don't care that their children kick and bite us teachers",
+        "summary": "When we contact the home, we are often met with excuses and disbelief, writes the letter writer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T07:00:25+01:00"
+      }
+    },
     {
       "id": "f706535ef339",
       "schema_version": 1,
@@ -5491,33 +5524,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T14:45:56+01:00"
-      }
-    },
-    {
-      "id": "af5d8f20f892",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/410701/stal-jesus-och-har-soender",
-      "guid": "https://tv.aftonbladet.se/video/410701/stal-jesus-och-har-soender?utm_medium=rss",
-      "published_at": "2026-11-16T13:49:44+01:00",
-      "fetched_at": "2026-11-16T21:15:46+01:00",
-      "category": "other",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/b3603b280dc5a4b25915839281702a9b.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "Stjäl Jesus – går sönder: ”Jösses!”",
-        "summary": "Stölden fångas på video",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Steals Jesus – breaks down: \"Jeez!\"",
-        "summary": "The theft is caught on video"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T21:15:56+01:00"
       }
     }
   ]

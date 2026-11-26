@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T06:46:00+01:00",
+  "generated_at": "2026-11-26T07:00:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "208f7524639b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/polisens-interna-varning-risk-for-branslebrist",
+      "guid": "https://www.expressen.se/nyheter/sverige/polisens-interna-varning-risk-for-branslebrist/",
+      "published_at": "2026-11-26T06:47:27+01:00",
+      "fetched_at": "2026-11-26T07:00:17+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Polisens interna varning: Risk för bränslebrist",
+        "summary": "Svenska polisen uppmanar sina anställda att tanka upp polisbilarna. Anledningen är risken för bränslebrist i Sverige, rapporterar Aftonbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Internal police warning: Risk of fuel shortage",
+        "summary": "Swedish police urge their employees to fill up the police cars. The reason is the risk of a fuel shortage in Sweden, reports Aftonbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T07:00:25+01:00"
+      }
+    },
     {
       "id": "b3591d98b7aa",
       "schema_version": 1,
@@ -5482,32 +5508,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "3278bf813be2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/christoffer-ar-cyklande-skraddare-under-black-week",
-      "guid": "https://www.expressen.se/nyheter/sverige/christoffer-ar-cyklande-skraddare-under-black-week/",
-      "published_at": "2026-11-21T16:30:05+01:00",
-      "fetched_at": "2026-11-21T16:45:43+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Christoffer är cyklande skräddare under black week",
-        "summary": "Mitt under Black Weeks köphets ska Göteborgs skräddare vara en motvikt. Med symaskiner på cyklarna åker de hem till folk och lagar kläder gratis. – Vi har så otroligt mycket kläder i vårt land, säger cykelskräddaren Christoffer Gissy.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Christoffer is a cycling tailor during Black Week",
-        "summary": "In the middle of Black Week's shopping frenzy, Göteborg's tailors are meant to be a counterweight. With sewing machines on their bicycles, they travel to people's homes and mend clothes for free. – We have so incredibly much clothing in our country, says bicycle tailor Christoffer Gissy."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T16:45:50+01:00"
       }
     }
   ]

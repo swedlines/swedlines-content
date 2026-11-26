@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T06:46:00+01:00",
+  "generated_at": "2026-11-26T07:00:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e71c2929fab6",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350176",
+      "guid": "rss:sr.se/article/9350176",
+      "published_at": "2026-11-26T06:50:00+01:00",
+      "fetched_at": "2026-11-26T07:00:13+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Branschorganisation vill se elstöd till småföretagare",
+        "summary": "Höga elpriser kan tvinga småföretag att pausa eller lägga ner verksamheten, den varningen kommer från branschorganisationen Företagarna. Regeringens elprisstöd gäller hushåll, medan storindustrin har skattelättnader. Företagarna kritiserar att att småföretagarna inte omfattas av elstödet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Trade organisation wants electricity subsidies for small businesses",
+        "summary": "High electricity prices may force small businesses to pause or shut down operations, the trade organisation Företagarna warns. The government's electricity price subsidy applies to households, while heavy industry has tax relief. Företagarna criticises that small businesses are not covered by the electricity subsidy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T07:00:25+01:00"
+      }
+    },
     {
       "id": "b893f7957a68",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T14:31:08+01:00"
-      }
-    },
-    {
-      "id": "3b21a88c3b9a",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347166",
-      "guid": "rss:sr.se/article/9347166",
-      "published_at": "2026-11-20T13:59:00+01:00",
-      "fetched_at": "2026-11-20T14:01:18+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Ekot erfar: S har lämnat bud till V och fått nobben",
-        "summary": "Enligt flera källor till Ekot ska Socialdemokraterna under de pågående regeringsförhandlingarna ha lämnat över ett bud till Vänsterpartiet som partiet nu ska ha tackat nej till.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Ekot learns: S has made offer to V and been turned down",
-        "summary": "According to several sources to Ekot, the Social Democrats have, during the ongoing government negotiations, submitted an offer to the Left Party, which the party now reportedly has rejected."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T14:01:29+01:00"
       }
     }
   ]
