@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T22:01:22+01:00",
+  "generated_at": "2026-11-26T22:15:40+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a3bcbf0c2781",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/bedomare-han-ar-centralbankirernas-centralbankir",
+      "guid": "3f6b4f74-ce50-4f28-ab65-f8c502a9f6bd",
+      "published_at": "2026-11-26T22:03:55+01:00",
+      "fetched_at": "2026-11-26T22:15:34+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1a71ecda-65ea-40b3-b121-ddb5b2e1ef6a.jpeg?width=600",
+      "sv": {
+        "title": "Bedömare: Han är ”centralbankirernas centralbankir”",
+        "summary": "Ledare i Bryssel har rekommenderat att spanjoren Pablo Hernandez de Cos ska bli nästa ECB-chef. CNBC skriver att analytikerkåren ser honom som måttligt duvaktig. ”Hernández de Cos stödde ECB:s extremt duvaktiga penningpolitik”, uppger valuta- och räntechefen Christian Kopf för nyhetskanalen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Analysts: He is \"the central bankers' central banker\"",
+        "summary": "Leaders in Brussels have recommended Spaniard Pablo Hernandez de Cos to become the next ECB president. CNBC writes that analysts see him as moderately dovish. \"Hernández de Cos supported the ECB's extremely dovish monetary policy\", says currency and interest rate chief Christian Kopf to the news channel."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T22:15:38+01:00"
+      }
+    },
     {
       "id": "ee5c12a60a66",
       "schema_version": 1,
@@ -5294,33 +5321,6 @@
       "en": {
         "title": "Cars against the current on red European exchanges",
         "summary": "Early gains on European exchanges reversed during the trading day, as declines on Wall Street spilled over into European sentiment and pulled the indices down."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T17:45:55+01:00"
-      }
-    },
-    {
-      "id": "20b3cfa28015",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/ai-oron-sankte-stockholmsborsen-igen",
-      "guid": "a70487e4-ffb6-4a34-9087-79eb0c1c91f7",
-      "published_at": "2026-11-25T17:37:54+01:00",
-      "fetched_at": "2026-11-25T17:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/cf6c248e-abba-4520-badf-851d3ddc60bf.jpeg?width=600",
-      "sv": {
-        "title": "AI-oron sänkte Stockholmsbörsen – igen",
-        "summary": "Stockholmsbörsen inledde onsdagen på grönt. Men i takt med att humöret surnade till på Wall Street, och framför allt i AI-sektorn, vände indexen till rött.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "AI worries sink the Stockholm Stock Exchange – again",
-        "summary": "The Stockholm Stock Exchange opened Wednesday in green. But as sentiment soured on Wall Street, and especially in the AI sector, the indices turned red."
       },
       "translation": {
         "status": "done",

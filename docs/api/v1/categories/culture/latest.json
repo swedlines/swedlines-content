@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T22:01:22+01:00",
+  "generated_at": "2026-11-26T22:15:40+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0b7186fd6b9a",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/M5ROvB/insikten-svarare-att-hjalpa-sig-sjalv-an-andra",
+      "guid": "https://www.svd.se/a/M5ROvB/insikten-svarare-att-hjalpa-sig-sjalv-an-andra?utm_medium=rss",
+      "published_at": "2026-11-26T22:00:00+01:00",
+      "fetched_at": "2026-11-26T22:15:33+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/43048262-7589-32b6-90c8-c7998e9a439f?format=auto&s=9ebea3e4511fabf3710b6d482512850dc6c6545f&w=1000",
+      "sv": {
+        "title": "Insikten – svårare att hjälpa sig själv än andra",
+        "summary": "”Lust for life” går från att vara en drabbande berättelse om flykt till ett högst allmänmänskligt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Insight – harder to help yourself than others",
+        "summary": "\"Lust for life\" goes from being a moving story of flight to a highly universal…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T22:15:38+01:00"
+      }
+    },
     {
       "id": "099140325d87",
       "schema_version": 1,
@@ -5671,33 +5698,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T12:23:12+01:00"
-      }
-    },
-    {
-      "id": "748e9c429172",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/nar-nojesteatern-och-elysee-laggs-ned-gar-det-gamla-malmo-i-graven",
-      "guid": "44b60242-3bd0-4955-9762-5ab5354409eb",
-      "published_at": "2026-11-23T12:08:15+01:00",
-      "fetched_at": "2026-11-23T12:15:48+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/fd5cd8c6-cb7c-4f5d-a7ac-6955d0e8e152.jpeg?width=600",
-      "sv": {
-        "title": "När Nöjesteatern och Elysée läggs ned går det gamla Malmö i graven",
-        "summary": "Svårt med parkering och en snål medelklass som inte vill betala för kultur. Det kan vara några av anledningarna till att Nöjesteatern tvingats lägga ner, skriver Kalle Lind.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "When Nöjesteatern and Elysée close, old Malmö goes to the grave",
-        "summary": "Difficult parking and a stingy middle class that does not want to pay for culture. These may be some of the reasons Nöjesteatern was forced to close, writes Kalle Lind."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T12:15:54+01:00"
       }
     }
   ]
