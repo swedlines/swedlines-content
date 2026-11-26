@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T23:45:56+01:00",
+  "generated_at": "2026-11-27T00:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f0e9473de381",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/namn-och-nytt-muminmugg-och-nora-misse",
+      "guid": "https://www.dn.se/kultur/namn-och-nytt-muminmugg-och-nora-misse/",
+      "published_at": "2026-11-27T00:00:00+01:00",
+      "fetched_at": "2026-11-27T00:01:13+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/bb841c85-d6b8-4742-be22-fb91b95ed722.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Namn och Nytt: Muminmugg och Nora-Misse",
+        "summary": "Här är dagens Namn och Nytt. En klassisk avdelning i DN – varje dag sedan 1909. Nuförtiden med kåserier, serier och läsarnas bidrag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Namn och Nytt: Muminmugg and Nora-Misse",
+        "summary": "Here is today's Namn och Nytt. A classic DN feature, every day since 1909. These days with columns, comics and reader contributions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T00:01:18+01:00"
+      }
+    },
     {
       "id": "3f3d8cec1b1c",
       "schema_version": 1,
@@ -5499,32 +5526,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T11:45:46+01:00"
-      }
-    },
-    {
-      "id": "b39d399cc158",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/vad-undrar-du-om--regeringsbildningen-",
-      "guid": "https://www.expressen.se/nyheter/politik/vad-undrar-du-om--regeringsbildningen-/",
-      "published_at": "2026-11-17T11:00:00+01:00",
-      "fetched_at": "2026-11-17T11:15:46+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Vad undrar du om regeringsbildningen?",
-        "summary": "Centerpartiet har valt Magdalena Anderssons ”totalpaket”. Gör det att vi närmar oss en lösning – efter 65 dagar utan ny regering? Viktor Barth-Kron chattar med läsarna från klockan 11.30 i dag – redan nu kan du skicka in dina frågor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "What Do You Want to Ask About the Government Formation?",
-        "summary": "The Centre Party has chosen Magdalena Andersson's \"total package\". Does this mean we are approaching a solution – after 65 days without a new government? Viktor Barth-Kron chats with readers from 11:30 today – you can already send in your questions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T11:15:55+01:00"
       }
     }
   ]

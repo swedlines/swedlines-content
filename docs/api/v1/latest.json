@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T23:45:56+01:00",
+  "generated_at": "2026-11-27T00:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f0e9473de381",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/namn-och-nytt-muminmugg-och-nora-misse",
+      "guid": "https://www.dn.se/kultur/namn-och-nytt-muminmugg-och-nora-misse/",
+      "published_at": "2026-11-27T00:00:00+01:00",
+      "fetched_at": "2026-11-27T00:01:13+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/bb841c85-d6b8-4742-be22-fb91b95ed722.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Namn och Nytt: Muminmugg och Nora-Misse",
+        "summary": "Här är dagens Namn och Nytt. En klassisk avdelning i DN – varje dag sedan 1909. Nuförtiden med kåserier, serier och läsarnas bidrag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Namn och Nytt: Muminmugg and Nora-Misse",
+        "summary": "Here is today's Namn och Nytt. A classic DN feature, every day since 1909. These days with columns, comics and reader contributions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T00:01:18+01:00"
+      }
+    },
     {
       "id": "8ec34306d9a8",
       "schema_version": 1,
@@ -5438,32 +5465,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T16:15:54+01:00"
-      }
-    },
-    {
-      "id": "cf991ce76a24",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/sakerhetsforvaring-kan-bli-aktuellt-for-mordmisstankt-i-kiruna",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/sakerhetsforvaring-kan-bli-aktuellt-for-mordmisstankt-i-kiruna",
-      "published_at": "2026-11-26T16:01:43+01:00",
-      "fetched_at": "2026-11-26T16:31:00+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Säkerhetsförvaring kan bli aktuellt för mordmisstänkt i Kiruna",
-        "summary": "Åklagarna vill att tingsrätten hämtar in en särskild riskutredning för mannen som misstänks ha mördat en annan man i Kiruna. Utredningen kan bli avgörande för om den nya påföljden säkerhetsförvaring blir aktuell – men i annat fall yrkar åklagarna på 18 års fängelse och utvisning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Preventive detention may become relevant for murder suspect in Kiruna",
-        "summary": "The prosecutors want the district court to obtain a special risk assessment for the man suspected of murdering another man in Kiruna. The assessment could be decisive for whether the new sanction of preventive detention becomes relevant – but otherwise the prosecutors are seeking 18 years in prison and deportation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T16:31:09+01:00"
       }
     }
   ]
