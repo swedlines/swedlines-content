@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T12:02:15+01:00",
+  "generated_at": "2026-11-26T12:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "acad5f58e2e0",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/BrRome/krav-i-eu-slapp-dawit-isaak",
+      "guid": "https://www.aftonbladet.se/nyheter/a/BrRome/krav-i-eu-slapp-dawit-isaak?utm_medium=rss",
+      "published_at": "2026-11-26T12:12:34+01:00",
+      "fetched_at": "2026-11-26T12:15:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/079a9b62-ce02-3edb-aef2-5d96d479cd52?format=auto&s=aa5a2e77cc45862b5721d248e69ade89dc49e6f5&w=1000",
+      "sv": {
+        "title": "Krav i EU: Släpp Dawit Isaak",
+        "summary": "EU-parlamentet kräver återigen att den i Eritrea fängslade journalisten Dawit Isaak ska släppas.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU calls for release of Dawit Isaak",
+        "summary": "The European Parliament once again demands that journalist Dawit Isaak, imprisoned in Eritrea, be released."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T12:15:51+01:00"
+      }
+    },
     {
       "id": "ca6851c6ad70",
       "schema_version": 1,
@@ -5348,33 +5375,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T22:45:50+01:00"
-      }
-    },
-    {
-      "id": "bd9da38c8e1c",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/2vGzm4/utredningen-avslojar-bestraffningsmetoderna-pa-sigtunaskolan",
-      "guid": "https://www.aftonbladet.se/nyheter/a/2vGzm4/utredningen-avslojar-bestraffningsmetoderna-pa-sigtunaskolan?utm_medium=rss",
-      "published_at": "2026-11-23T20:03:17+01:00",
-      "fetched_at": "2026-11-23T20:15:45+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/1a70a08f-b02a-31e8-ac97-e12599785349?format=auto&s=ebcd9f4fd839ec0c8a299a7872c9120b8bd6640a&w=1000",
-      "sv": {
-        "title": "Utredningen avslöjar bestraffningsmetoderna på Sigtunaskolan",
-        "summary": "Larm om tortyr, sexövergrepp och förnedring",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Investigation Reveals Punishment Methods at Sigtuna School",
-        "summary": "Reports of torture, sexual abuse and humiliation"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T20:15:50+01:00"
       }
     }
   ]

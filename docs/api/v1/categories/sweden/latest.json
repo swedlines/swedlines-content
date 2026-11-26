@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T12:02:15+01:00",
+  "generated_at": "2026-11-26T12:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "37e88b0795f5",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/tjejjourer-varnar-for-att-fler-unga-soker-rad-hos-ai",
+      "guid": "https://www.svt.se/nyheter/lokalt/ost/tjejjourer-varnar-for-att-fler-unga-soker-rad-hos-ai",
+      "published_at": "2026-11-26T12:00:07+01:00",
+      "fetched_at": "2026-11-26T12:15:42+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Tjejjourer varnar för att fler unga söker råd hos AI",
+        "summary": "Tjejjourerna runt om i landet har gått ut med en gemensam kampanj där de vill få fler att söka mänsklig kontakt istället för olika AI-tjänster. Tjejjouren i Öst är inget undantag – här syns också ett ökat användande av AI.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Girls' helplines warn more young people are seeking advice from AI",
+        "summary": "Girls' helplines across the country have launched a joint campaign aiming to get more people to seek human contact instead of various AI services. The Öst girls' helpline is no exception – here too an increased use of AI is visible."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T12:15:51+01:00"
+      }
+    },
     {
       "id": "56251a3b736b",
       "schema_version": 1,
@@ -5489,33 +5515,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T14:31:07+01:00"
-      }
-    },
-    {
-      "id": "dbace59a1853",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/vkQP4l/invasiv-filtsjopung-sprids-akutinsats-pa-vastkusten",
-      "guid": "https://www.aftonbladet.se/nyheter/a/vkQP4l/invasiv-filtsjopung-sprids-akutinsats-pa-vastkusten?utm_medium=rss",
-      "published_at": "2026-11-22T10:03:28+01:00",
-      "fetched_at": "2026-11-22T10:15:38+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/6d004ec1-66ac-3b85-ab90-c87306f8c6cb?format=auto&s=2160b81947c5016bfa5f0cbc739fe334b40d4751&w=1000",
-      "sv": {
-        "title": "Invasiv filtsjöpung sprids – akutinsats på västkusten",
-        "summary": "Den invasiva arten filtsjöpung har spridit sig explosionsartat runt Kosteröarna i Bohuslän under…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Invasive filtsjöpung spreading – emergency action on the west coast",
-        "summary": "The invasive species filtsjöpung has spread explosively around the Koster Islands in Bohuslän during…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T10:15:43+01:00"
       }
     }
   ]
