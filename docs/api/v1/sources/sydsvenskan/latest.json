@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T05:15:51+01:00",
+  "generated_at": "2026-11-26T05:31:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b7bc0866a16c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/lunds-klimatmal-ar-redan-natt-eller",
+      "guid": "cb22e6e0-ba37-4cdf-b359-6fd7145e57f9",
+      "published_at": "2026-11-26T05:30:00+01:00",
+      "fetched_at": "2026-11-26T05:31:05+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/765c6a9c-b3cb-4ff9-bdf6-f36414dd567a.jpeg?width=600",
+      "sv": {
+        "title": "”Lunds klimatmål är redan nått, eller?”",
+        "summary": "Vi ser vad Lund redan gör bra, men också vad som håller på att hända och vad som behöver göras, skriver Martin Nihlgård och Kerstin Johnsson, företrädare för Miljöpartiet i Lund.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”Lund's climate goals already met, right?”",
+        "summary": "We see what Lund is already doing well, but also what is happening and what needs to be done, write Martin Nihlgård and Kerstin Johnsson, representatives of the Green Party in Lund."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T05:31:19+01:00"
+      }
+    },
     {
       "id": "7c7cea65a0a8",
       "schema_version": 1,
@@ -5176,32 +5203,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T11:15:59+01:00"
-      }
-    },
-    {
-      "id": "c0bc1befa9ae",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/71-dagar-utan-regering-detta-har-hant",
-      "guid": "9eeb9bd8-e712-4f0f-8c18-6f7ecfb16ed6",
-      "published_at": "2026-11-23T11:00:50+01:00",
-      "fetched_at": "2026-11-23T11:01:09+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "71 dagar utan regering – detta har hänt",
-        "summary": "Det har nu gått 71 dagar sedan valdagen. Ännu är det oklart vilken regering Sverige ska få.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "71 days without a government – here is what has happened",
-        "summary": "It has now been 71 days since election day. It is still unclear which government Sweden will get."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T11:01:15+01:00"
       }
     }
   ]

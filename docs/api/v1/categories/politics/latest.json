@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T05:15:51+01:00",
+  "generated_at": "2026-11-26T05:31:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b7bc0866a16c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/lunds-klimatmal-ar-redan-natt-eller",
+      "guid": "cb22e6e0-ba37-4cdf-b359-6fd7145e57f9",
+      "published_at": "2026-11-26T05:30:00+01:00",
+      "fetched_at": "2026-11-26T05:31:05+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/765c6a9c-b3cb-4ff9-bdf6-f36414dd567a.jpeg?width=600",
+      "sv": {
+        "title": "”Lunds klimatmål är redan nått, eller?”",
+        "summary": "Vi ser vad Lund redan gör bra, men också vad som håller på att hända och vad som behöver göras, skriver Martin Nihlgård och Kerstin Johnsson, företrädare för Miljöpartiet i Lund.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”Lund's climate goals already met, right?”",
+        "summary": "We see what Lund is already doing well, but also what is happening and what needs to be done, write Martin Nihlgård and Kerstin Johnsson, representatives of the Green Party in Lund."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T05:31:19+01:00"
+      }
+    },
     {
       "id": "33119f2dea09",
       "schema_version": 1,
@@ -421,6 +448,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T20:31:22+01:00"
+      }
+    },
+    {
+      "id": "ee6cebfbcaa8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/1vnE3X/skyltningen-pa-sveavagen-68-svik-inte-era-valjare",
+      "guid": "https://www.aftonbladet.se/nyheter/a/1vnE3X/skyltningen-pa-sveavagen-68-svik-inte-era-valjare?utm_medium=rss",
+      "published_at": "2026-11-25T20:20:26+01:00",
+      "fetched_at": "2026-11-26T05:31:03+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/ba9beaf3-3c8d-3f75-a9d5-1405d7fcafa7?format=auto&s=826a0d07d73a2264df167264deb422e94b15bff1&w=1000",
+      "sv": {
+        "title": "Skyltningen på Sveavägen 68: ”Svik inte era väljare”",
+        "summary": "Skyltar i fönstret – när Alliansen förhandlar",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The signage on Sveavägen 68: ”Don't betray your voters”",
+        "summary": "Signs in the window – as the Alliance negotiates"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T05:31:19+01:00"
       }
     },
     {
@@ -5342,58 +5396,6 @@
       "en": {
         "title": "Kristersson ready to be tested – after C's change of sides",
         "summary": "Ulf Kristersson is ready to be tested in a prime minister vote after C's change of sides."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T11:46:03+01:00"
-      }
-    },
-    {
-      "id": "6156a31feff4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/nooshi-dadgostar-v-haller-presstraff",
-      "guid": "https://www.expressen.se/nyheter/politik/nooshi-dadgostar-v-haller-presstraff/",
-      "published_at": "2026-11-24T11:33:49+01:00",
-      "fetched_at": "2026-11-24T11:45:46+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Nooshi Dadgostar (V) håller pressträff",
-        "summary": "Nooshi Dadgostar håller pressträff efter sitt möte med talmannen. Vänsterpartiet kommer rösta nej till Kristersson, inleder hon. – Vi är inte i mål, säger hon om de rödgröna förhandlingarna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nooshi Dadgostar (V) holds press conference",
-        "summary": "Nooshi Dadgostar holds a press conference after her meeting with the Speaker. The Left Party will vote no to Kristersson, she begins. – We are not there yet, she says of the red-green negotiations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T11:46:03+01:00"
-      }
-    },
-    {
-      "id": "1f766bfefd36",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/kristersson-m-beredd-att-provas-som-statsminister",
-      "guid": "https://www.svt.se/nyheter/inrikes/kristersson-m-beredd-att-provas-som-statsminister",
-      "published_at": "2026-11-24T11:33:34+01:00",
-      "fetched_at": "2026-11-24T11:45:43+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Kristersson (M): Beredd att prövas som statsminister",
-        "summary": "Ulf Kristersson (M), som har haft sonderingsuppdraget de senaste veckorna, är beredd att prövas som statsminister för en borgerlig regering med M, KD, L och C – när talmannen anser att tiden är rätt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Ulf Kristersson (M): Ready to be tested as prime minister",
-        "summary": "Ulf Kristersson (M), who has held the exploratory mission in recent weeks, is ready to be tested as prime minister for a bourgeois government with M, KD, L and C – when the Speaker considers the time is right."
       },
       "translation": {
         "status": "done",
