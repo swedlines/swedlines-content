@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T12:01:40+01:00",
+  "generated_at": "2026-11-26T12:02:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e1010c6cead0",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/nLa8LL/ranare-brot-sig-in-mitt-i-natten-hos-ungt-par-i-centrala-stockholm-polisen-extremt-ovanligt",
+      "guid": "https://www.svd.se/a/nLa8LL/ranare-brot-sig-in-mitt-i-natten-hos-ungt-par-i-centrala-stockholm-polisen-extremt-ovanligt?utm_medium=rss",
+      "published_at": "2026-11-26T12:01:24+01:00",
+      "fetched_at": "2026-11-26T12:02:08+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/3570bb3b-c731-36f0-b358-2c5598fe16a4?format=auto&s=f873d4ec85fa07305146385f4554a9f734cd3daf&w=1000",
+      "sv": {
+        "title": "Par rånades i hemmet – ”Extremt ovanligt”",
+        "summary": "Det unga paret väcktes av en inbrottstjuv beväpnad med järnrör och rånades på sina mobiltelefoner…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Couple robbed at home – ”Extremely unusual”",
+        "summary": "The young couple was woken by a burglar armed with an iron pipe and robbed of their mobile phones…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T12:02:12+01:00"
+      }
+    },
     {
       "id": "a9356328515b",
       "schema_version": 1,
@@ -5222,33 +5249,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T09:31:16+01:00"
-      }
-    },
-    {
-      "id": "1022675102e8",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0vnq2o/hon-gick-fran-hyllningar-till-skyddat-boende",
-      "guid": "https://www.svd.se/a/0vnq2o/hon-gick-fran-hyllningar-till-skyddat-boende?utm_medium=rss",
-      "published_at": "2026-11-23T08:30:00+01:00",
-      "fetched_at": "2026-11-23T08:31:02+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/72db2939-2692-3f83-a1ce-c76db16ed116?format=auto&s=24056f2ebcbab8fae08d10a4b85c0da4f77b2cc2&w=1000",
-      "sv": {
-        "title": "Hon gick från hyllningar till skyddat boende",
-        "summary": "Först tokhyllad och kärleksbombad. Sedan inlåst på skyddat boende för att undkomma stalkers.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "She went from praise to protected housing",
-        "summary": "First hailed and showered with love. Then locked into protected housing to escape stalkers."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T08:31:18+01:00"
       }
     }
   ]

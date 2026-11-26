@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T12:01:40+01:00",
+  "generated_at": "2026-11-26T12:02:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e1010c6cead0",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/nLa8LL/ranare-brot-sig-in-mitt-i-natten-hos-ungt-par-i-centrala-stockholm-polisen-extremt-ovanligt",
+      "guid": "https://www.svd.se/a/nLa8LL/ranare-brot-sig-in-mitt-i-natten-hos-ungt-par-i-centrala-stockholm-polisen-extremt-ovanligt?utm_medium=rss",
+      "published_at": "2026-11-26T12:01:24+01:00",
+      "fetched_at": "2026-11-26T12:02:08+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/3570bb3b-c731-36f0-b358-2c5598fe16a4?format=auto&s=f873d4ec85fa07305146385f4554a9f734cd3daf&w=1000",
+      "sv": {
+        "title": "Par rånades i hemmet – ”Extremt ovanligt”",
+        "summary": "Det unga paret väcktes av en inbrottstjuv beväpnad med järnrör och rånades på sina mobiltelefoner…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Couple robbed at home – ”Extremely unusual”",
+        "summary": "The young couple was woken by a burglar armed with an iron pipe and robbed of their mobile phones…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T12:02:12+01:00"
+      }
+    },
     {
       "id": "7b9d39ac9139",
       "schema_version": 1,
@@ -5405,33 +5432,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T13:31:08+01:00"
-      }
-    },
-    {
-      "id": "ae25cb440e6d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/XogB3g/riksdagsledamoter-kan-ha-drabbats-i-taxiintranget",
-      "guid": "https://www.aftonbladet.se/nyheter/a/XogB3g/riksdagsledamoter-kan-ha-drabbats-i-taxiintranget?utm_medium=rss",
-      "published_at": "2026-11-21T13:12:08+01:00",
-      "fetched_at": "2026-11-21T13:15:49+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/d6647e3a-dfae-3273-9d37-04ddfbb45c07?format=auto&s=017e61e45acd5034a9eb1669771c4245b30b530a&w=1000",
-      "sv": {
-        "title": "Riksdagsledamöter kan ha drabbats i taxiintrånget",
-        "summary": "Bland de drabbade i dataintrånget mot taxibolaget Cabonline kan det finnas…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Members of the Riksdag may have been affected by taxi data breach",
-        "summary": "Among those affected by the data breach at the taxi company Cabonline there may be..."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T13:15:56+01:00"
       }
     }
   ]
