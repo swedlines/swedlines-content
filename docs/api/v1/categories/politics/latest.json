@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-26T20:02:07+01:00",
+  "generated_at": "2026-11-26T20:16:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "caeef3f3049d",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351143",
+      "guid": "rss:sr.se/article/9351143",
+      "published_at": "2026-11-26T20:07:00+01:00",
+      "fetched_at": "2026-11-26T20:15:41+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-kvinnornas ordförande: ”Klart att jag är besviken”",
+        "summary": "Flera Centertoppar är besvikna efter dagens möte där partiets riksdagsgrupp och partistyrelse beslutat att förorda en borgerlig minoritetsregeringen ledd av Ulf Kristersson. ”Vi vill absolut inte ha ett samröre med SD”, säger Mari-Louise Wernersson är ordförande för partiets kvinnoförbund.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Chair of the Centre Party women's league: “Of course I'm disappointed”",
+        "summary": "Several Centre Party leaders are disappointed after today's meeting, where the party's parliamentary group and party board decided to back a bourgeois minority government led by Ulf Kristersson. “We absolutely do not want any cooperation with the SD,” says Mari-Louise Wernersson, chair of the party's women's association."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T20:15:59+01:00"
+      }
+    },
+    {
+      "id": "8bce2412914c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/thand-ringqvists-interna-brev-efter-vagvalet-en-tuff-sits",
+      "guid": "https://www.expressen.se/nyheter/politik/thand-ringqvists-interna-brev-efter-vagvalet-en-tuff-sits/",
+      "published_at": "2026-11-26T20:03:11+01:00",
+      "fetched_at": "2026-11-26T20:15:45+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Thand Ringqvists interna brev efter vägvalet: ”En tuff sits”",
+        "summary": "Centerpartiets partiledning vill att C ingår i en borgerlig regering. I ett internt brev till partimedlemmarna – som Expressen tagit del av – säger Elisabeth Thand Ringqvist att hon förstår att vägvalet väcker känslor.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Thand Ringqvist's internal letter after the crossroads: “A tough spot”",
+        "summary": "The Centre Party leadership wants the Centre Party to join a bourgeois government. In an internal letter to party members – which Expressen has seen – Elisabeth Thand Ringqvist says she understands that the choice is stirring emotions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T20:15:59+01:00"
+      }
+    },
     {
       "id": "bad74a138632",
       "schema_version": 1,
@@ -5326,59 +5378,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T07:15:56+01:00"
-      }
-    },
-    {
-      "id": "471452761117",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/ARdAlq/migrationsverket-pausar-utvisningar-av-unga-vuxna",
-      "guid": "https://www.svd.se/a/ARdAlq/migrationsverket-pausar-utvisningar-av-unga-vuxna?utm_medium=rss",
-      "published_at": "2026-11-25T07:01:47+01:00",
-      "fetched_at": "2026-11-25T07:15:41+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/bd4dde83-d9a0-30c1-bd75-91bb27bb453c?format=auto&s=10212b766fa9931978c66c215b4ce01c5a682f2b&w=1000",
-      "sv": {
-        "title": "Migrationsverket pausar utvisningar av unga vuxna",
-        "summary": "Migrationsverket pausar tills vidare utvisningar av unga vuxna, så kallade tonårsutvisningar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Migration Agency pauses deportations of young adults",
-        "summary": "The Migration Agency is pausing deportations of young adults, so-called teen deportations, until further notice."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T07:15:56+01:00"
-      }
-    },
-    {
-      "id": "adfcf6526c82",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9349490",
-      "guid": "rss:sr.se/article/9349490",
-      "published_at": "2026-11-25T07:00:00+01:00",
-      "fetched_at": "2026-11-25T07:01:35+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Migrationsverket pausar vissa tonårsutvisningar",
-        "summary": "Migrationsverket pausar tills vidare vissa så kallade tonårsutvisningar. Det handlar om utvisningar av unga vuxna vars föräldrar och minderåriga syskon har rätt att stanna i Sverige. Bakgrunden är aviserade lagändringar som kan ge fler i gruppen rätt att stanna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Migration Agency pauses certain teen deportations",
-        "summary": "The Migration Agency is temporarily pausing certain so-called teen deportations. This concerns deportations of young adults whose parents and underage siblings have the right to remain in Sweden. The background is announced legislative changes that could give more people in this group the right to stay."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T07:01:40+01:00"
       }
     }
   ]

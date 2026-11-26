@@ -1,7 +1,231 @@
 {
-  "generated_at": "2026-11-26T20:02:07+01:00",
+  "generated_at": "2026-11-26T20:16:05+01:00",
   "count": 30,
   "stories": [
+    {
+      "id": "ed574169a1d8",
+      "source_count": 8,
+      "sources": [
+        "svt",
+        "aftonbladet",
+        "expressen",
+        "dn",
+        "svd",
+        "sydsvenskan",
+        "gp",
+        "sr"
+      ],
+      "first_published_at": "2026-11-26T09:32:28+01:00",
+      "last_published_at": "2026-11-26T20:07:00+01:00",
+      "lead": {
+        "id": "ed574169a1d8",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
+        "guid": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
+        "published_at": "2026-11-26T09:32:28+01:00",
+        "fetched_at": "2026-11-26T09:45:44+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "C-toppar möts i dag – i blixtinkallat möte",
+          "summary": "Centerpartiet har kallat till ett extrainsatt möte med partistyrelsen och riksdagsgruppen under dagen. Syftet är, enligt SVT:s uppgifter, att undersöka om det finns ett stöd för att rösta grönt till Ulf Kristersson på måndag.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "C leaders meet today – at snap meeting",
+          "summary": "The Centre Party has called an extra meeting with the party board and the Riksdag group during the day. The aim is, according to SVT's information, to examine whether there is support for voting green for Ulf Kristersson (M) on Monday."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:45:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "caeef3f3049d",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351143",
+          "published_at": "2026-11-26T20:07:00+01:00",
+          "sv": {
+            "title": "C-kvinnornas ordförande: ”Klart att jag är besviken”"
+          },
+          "en": {
+            "title": "Chair of the Centre Party women's league: “Of course I'm disappointed”"
+          }
+        },
+        {
+          "id": "5587d6419efd",
+          "source": "gp",
+          "url": "https://www.gp.se/politik/c-kommunalradet-jag-kanner-mig-bedrovad.7133cb9f-8adb-5b14-8755-1016240ce2bb",
+          "published_at": "2026-11-26T19:12:58+01:00",
+          "sv": {
+            "title": "C-politikern: ”Jag känner mig bedrövad”"
+          },
+          "en": {
+            "title": "C politician: “I feel dismayed”"
+          }
+        },
+        {
+          "id": "997ab0b28c5c",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/ilska-och-besvikelse-bland-c-toppar-efter-beslutet-kanner-mig-bedrovad",
+          "published_at": "2026-11-26T19:11:34+01:00",
+          "sv": {
+            "title": "Ilska och besvikelse bland C-toppar efter beslutet: ”Känner mig bedrövad”"
+          },
+          "en": {
+            "title": "Anger and disappointment among C leaders after decision: “I feel devastated”"
+          }
+        },
+        {
+          "id": "81dec31ce409",
+          "source": "gp",
+          "url": "https://www.gp.se/politik/centerpartiet-hade-inga-bra-alternativ-kvar.746e0e9b-617e-5d9b-a054-239948f996c5",
+          "published_at": "2026-11-26T18:59:12+01:00",
+          "sv": {
+            "title": "Centerpartiet hade inga bra alternativ kvar"
+          },
+          "en": {
+            "title": "The Centre Party had no good options left"
+          }
+        },
+        {
+          "id": "f2b24294f377",
+          "source": "gp",
+          "url": "https://www.gp.se/asikt-och-debatt/ledare/centerns-val-kan-bli-slutet-for-symbolpolitiken.cbdf7be0-90fd-5bba-ae56-8bba2fcce389",
+          "published_at": "2026-11-26T16:59:25+01:00",
+          "sv": {
+            "title": "Håkan Boström: Centerns val kan bli slutet för symbolpolitiken"
+          },
+          "en": {
+            "title": "Håkan Boström: The Centre Party's choice could mark the end of symbolic politics"
+          }
+        },
+        {
+          "id": "2f9aaf1dcf3b",
+          "source": "svd",
+          "url": "https://www.svd.se/a/2vGWKa/locket-pa-i-stockholms-stadshus-om-dubbdacken-trafikborgarradet-gor-skillnad-pa-folk-och-folk",
+          "published_at": "2026-11-26T16:57:04+01:00",
+          "sv": {
+            "title": "Locket på om S-topparnas dubbdäck"
+          },
+          "en": {
+            "title": "Lid on the Social Democrats' studded tyres"
+          }
+        },
+        {
+          "id": "ce1a01678204",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/c-ledaren-kallar-till-presstraff-efter-odesmotet",
+          "published_at": "2026-11-26T16:43:38+01:00",
+          "sv": {
+            "title": "C-ledaren kallar till pressträff efter ödesmötet"
+          },
+          "en": {
+            "title": "Centre leader calls press conference after make-or-break meeting"
+          }
+        },
+        {
+          "id": "9e497db53da0",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wdP7v5/c-ledaren-kallar-till-presstraff-efter-odesmotet",
+          "published_at": "2026-11-26T16:43:31+01:00",
+          "sv": {
+            "title": "C-ledaren kallar till pressträff efter ödesmötet"
+          },
+          "en": {
+            "title": "Centre leader calls press conference after make-or-break meeting"
+          }
+        },
+        {
+          "id": "933d5d171574",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/z0Gd4b/c-ledaren-kallar-till-presstraff-efter-odesmotet",
+          "published_at": "2026-11-26T16:43:31+01:00",
+          "sv": {
+            "title": "C-ledaren kallar till pressträff efter ödesmötet"
+          },
+          "en": {
+            "title": "Centre leader calls press conference after make-or-break meeting"
+          }
+        },
+        {
+          "id": "a9aff6773022",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=154b6100-7d26-4d2d-88c8-d2e3d59eb1f7",
+          "published_at": "2026-11-26T16:40:58+01:00",
+          "sv": {
+            "title": "Centerpartiet blixtinkallar till pressträff"
+          },
+          "en": {
+            "title": "Centre Party calls snap press conference"
+          }
+        },
+        {
+          "id": "55d50c80826d",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/centerpartiet-blixtinkallar-till-mote-oppen-splittring-i-partiet",
+          "published_at": "2026-11-26T11:19:38+01:00",
+          "sv": {
+            "title": "Centerpartiet blixtinkallar till möte – öppen splittring i partiet"
+          },
+          "en": {
+            "title": "Centre Party calls emergency meeting – open split in the party"
+          }
+        },
+        {
+          "id": "dbfe12f1aff8",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/centerpartiet-blixtinkallar-till-mote",
+          "published_at": "2026-11-26T09:56:19+01:00",
+          "sv": {
+            "title": "Centerpartiet blixtinkallar till möte"
+          },
+          "en": {
+            "title": "Centre Party calls snap meeting"
+          }
+        },
+        {
+          "id": "3209bcfe334c",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ddec57c2-1d59-4079-ae61-f1df4f8fefc7",
+          "published_at": "2026-11-26T09:41:10+01:00",
+          "sv": {
+            "title": "C blixtinkallar till möte"
+          },
+          "en": {
+            "title": "C calls snap meeting"
+          }
+        },
+        {
+          "id": "48b1d3641113",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/xJPaql/centerpartiet-blixinkallar-till-mote",
+          "published_at": "2026-11-26T09:35:15+01:00",
+          "sv": {
+            "title": "C-toppar möts i blixtinkallat möte"
+          },
+          "en": {
+            "title": "Centre Party leaders meet in snap meeting"
+          }
+        },
+        {
+          "id": "ed574169a1d8",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
+          "published_at": "2026-11-26T09:32:28+01:00",
+          "sv": {
+            "title": "C-toppar möts i dag – i blixtinkallat möte"
+          },
+          "en": {
+            "title": "C leaders meet today – at snap meeting"
+          }
+        }
+      ]
+    },
     {
       "id": "4181c790877f",
       "source_count": 8,
@@ -234,217 +458,6 @@
           },
           "en": {
             "title": "Alliance parties reach new agreement – focus on growth and welfare"
-          }
-        }
-      ]
-    },
-    {
-      "id": "ed574169a1d8",
-      "source_count": 7,
-      "sources": [
-        "svt",
-        "aftonbladet",
-        "expressen",
-        "dn",
-        "svd",
-        "sydsvenskan",
-        "gp"
-      ],
-      "first_published_at": "2026-11-26T09:32:28+01:00",
-      "last_published_at": "2026-11-26T19:12:58+01:00",
-      "lead": {
-        "id": "ed574169a1d8",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
-        "guid": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
-        "published_at": "2026-11-26T09:32:28+01:00",
-        "fetched_at": "2026-11-26T09:45:44+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "C-toppar möts i dag – i blixtinkallat möte",
-          "summary": "Centerpartiet har kallat till ett extrainsatt möte med partistyrelsen och riksdagsgruppen under dagen. Syftet är, enligt SVT:s uppgifter, att undersöka om det finns ett stöd för att rösta grönt till Ulf Kristersson på måndag.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "C leaders meet today – at snap meeting",
-          "summary": "The Centre Party has called an extra meeting with the party board and the Riksdag group during the day. The aim is, according to SVT's information, to examine whether there is support for voting green for Ulf Kristersson (M) on Monday."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T09:45:55+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "5587d6419efd",
-          "source": "gp",
-          "url": "https://www.gp.se/politik/c-kommunalradet-jag-kanner-mig-bedrovad.7133cb9f-8adb-5b14-8755-1016240ce2bb",
-          "published_at": "2026-11-26T19:12:58+01:00",
-          "sv": {
-            "title": "C-politikern: ”Jag känner mig bedrövad”"
-          },
-          "en": {
-            "title": "C politician: “I feel dismayed”"
-          }
-        },
-        {
-          "id": "997ab0b28c5c",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/ilska-och-besvikelse-bland-c-toppar-efter-beslutet-kanner-mig-bedrovad",
-          "published_at": "2026-11-26T19:11:34+01:00",
-          "sv": {
-            "title": "Ilska och besvikelse bland C-toppar efter beslutet: ”Känner mig bedrövad”"
-          },
-          "en": {
-            "title": "Anger and disappointment among C leaders after decision: “I feel devastated”"
-          }
-        },
-        {
-          "id": "81dec31ce409",
-          "source": "gp",
-          "url": "https://www.gp.se/politik/centerpartiet-hade-inga-bra-alternativ-kvar.746e0e9b-617e-5d9b-a054-239948f996c5",
-          "published_at": "2026-11-26T18:59:12+01:00",
-          "sv": {
-            "title": "Centerpartiet hade inga bra alternativ kvar"
-          },
-          "en": {
-            "title": "The Centre Party had no good options left"
-          }
-        },
-        {
-          "id": "f2b24294f377",
-          "source": "gp",
-          "url": "https://www.gp.se/asikt-och-debatt/ledare/centerns-val-kan-bli-slutet-for-symbolpolitiken.cbdf7be0-90fd-5bba-ae56-8bba2fcce389",
-          "published_at": "2026-11-26T16:59:25+01:00",
-          "sv": {
-            "title": "Håkan Boström: Centerns val kan bli slutet för symbolpolitiken"
-          },
-          "en": {
-            "title": "Håkan Boström: The Centre Party's choice could mark the end of symbolic politics"
-          }
-        },
-        {
-          "id": "2f9aaf1dcf3b",
-          "source": "svd",
-          "url": "https://www.svd.se/a/2vGWKa/locket-pa-i-stockholms-stadshus-om-dubbdacken-trafikborgarradet-gor-skillnad-pa-folk-och-folk",
-          "published_at": "2026-11-26T16:57:04+01:00",
-          "sv": {
-            "title": "Locket på om S-topparnas dubbdäck"
-          },
-          "en": {
-            "title": "Lid on the Social Democrats' studded tyres"
-          }
-        },
-        {
-          "id": "ce1a01678204",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/c-ledaren-kallar-till-presstraff-efter-odesmotet",
-          "published_at": "2026-11-26T16:43:38+01:00",
-          "sv": {
-            "title": "C-ledaren kallar till pressträff efter ödesmötet"
-          },
-          "en": {
-            "title": "Centre leader calls press conference after make-or-break meeting"
-          }
-        },
-        {
-          "id": "9e497db53da0",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wdP7v5/c-ledaren-kallar-till-presstraff-efter-odesmotet",
-          "published_at": "2026-11-26T16:43:31+01:00",
-          "sv": {
-            "title": "C-ledaren kallar till pressträff efter ödesmötet"
-          },
-          "en": {
-            "title": "Centre leader calls press conference after make-or-break meeting"
-          }
-        },
-        {
-          "id": "933d5d171574",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/z0Gd4b/c-ledaren-kallar-till-presstraff-efter-odesmotet",
-          "published_at": "2026-11-26T16:43:31+01:00",
-          "sv": {
-            "title": "C-ledaren kallar till pressträff efter ödesmötet"
-          },
-          "en": {
-            "title": "Centre leader calls press conference after make-or-break meeting"
-          }
-        },
-        {
-          "id": "a9aff6773022",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=154b6100-7d26-4d2d-88c8-d2e3d59eb1f7",
-          "published_at": "2026-11-26T16:40:58+01:00",
-          "sv": {
-            "title": "Centerpartiet blixtinkallar till pressträff"
-          },
-          "en": {
-            "title": "Centre Party calls snap press conference"
-          }
-        },
-        {
-          "id": "55d50c80826d",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/centerpartiet-blixtinkallar-till-mote-oppen-splittring-i-partiet",
-          "published_at": "2026-11-26T11:19:38+01:00",
-          "sv": {
-            "title": "Centerpartiet blixtinkallar till möte – öppen splittring i partiet"
-          },
-          "en": {
-            "title": "Centre Party calls emergency meeting – open split in the party"
-          }
-        },
-        {
-          "id": "dbfe12f1aff8",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/centerpartiet-blixtinkallar-till-mote",
-          "published_at": "2026-11-26T09:56:19+01:00",
-          "sv": {
-            "title": "Centerpartiet blixtinkallar till möte"
-          },
-          "en": {
-            "title": "Centre Party calls snap meeting"
-          }
-        },
-        {
-          "id": "3209bcfe334c",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ddec57c2-1d59-4079-ae61-f1df4f8fefc7",
-          "published_at": "2026-11-26T09:41:10+01:00",
-          "sv": {
-            "title": "C blixtinkallar till möte"
-          },
-          "en": {
-            "title": "C calls snap meeting"
-          }
-        },
-        {
-          "id": "48b1d3641113",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/xJPaql/centerpartiet-blixinkallar-till-mote",
-          "published_at": "2026-11-26T09:35:15+01:00",
-          "sv": {
-            "title": "C-toppar möts i blixtinkallat möte"
-          },
-          "en": {
-            "title": "Centre Party leaders meet in snap meeting"
-          }
-        },
-        {
-          "id": "ed574169a1d8",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
-          "published_at": "2026-11-26T09:32:28+01:00",
-          "sv": {
-            "title": "C-toppar möts i dag – i blixtinkallat möte"
-          },
-          "en": {
-            "title": "C leaders meet today – at snap meeting"
           }
         }
       ]
@@ -1393,7 +1406,7 @@
         "di"
       ],
       "first_published_at": "2026-11-26T09:21:48+01:00",
-      "last_published_at": "2026-11-26T19:57:31+01:00",
+      "last_published_at": "2026-11-26T20:04:54+01:00",
       "lead": {
         "id": "b3b0bf2c57d8",
         "schema_version": 1,
@@ -1422,6 +1435,18 @@
         }
       },
       "items": [
+        {
+          "id": "bd18d0d68b99",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/dodlig-attack-mot-saudiskt-oljeraffinaderi",
+          "published_at": "2026-11-26T20:04:54+01:00",
+          "sv": {
+            "title": "Dödlig attack mot saudiskt oljeraffinaderi"
+          },
+          "en": {
+            "title": "Deadly attack on Saudi oil refinery"
+          }
+        },
         {
           "id": "c5ccdc568c39",
           "source": "aftonbladet",
@@ -2057,77 +2082,64 @@
       ]
     },
     {
-      "id": "01be779c7ddf",
-      "source_count": 3,
+      "id": "078953f4dc47",
+      "source_count": 2,
       "sources": [
         "aftonbladet",
-        "svd",
         "sydsvenskan"
       ],
-      "first_published_at": "2026-11-26T08:09:32+01:00",
-      "last_published_at": "2026-11-26T08:09:42+01:00",
+      "first_published_at": "2026-11-26T18:47:43+01:00",
+      "last_published_at": "2026-11-26T20:09:30+01:00",
       "lead": {
-        "id": "01be779c7ddf",
+        "id": "078953f4dc47",
         "schema_version": 1,
         "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/kMJlx6/tusentals-svenskar-riskerar-lakemedelsberoende",
-        "guid": "https://www.aftonbladet.se/nyheter/a/kMJlx6/tusentals-svenskar-riskerar-lakemedelsberoende?utm_medium=rss",
-        "published_at": "2026-11-26T08:09:32+01:00",
-        "fetched_at": "2026-11-26T08:15:52+01:00",
-        "category": "sweden",
-        "image_url": "https://akamai.vgc.no/v2/images/ac676421-26c6-3410-8876-877d17906aef?format=auto&s=0ff98853759ebd41c7a5d5abe5941786f32edb2d&w=1000",
+        "url": "https://www.aftonbladet.se/nyheter/a/kMJAx9/ud-kallade-upp-rysslands-ambassador",
+        "guid": "https://www.aftonbladet.se/nyheter/a/kMJAx9/ud-kallade-upp-rysslands-ambassador?utm_medium=rss",
+        "published_at": "2026-11-26T18:47:43+01:00",
+        "fetched_at": "2026-11-26T18:58:14+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/e0e3de7f-61b0-3bf2-9ea6-3fc75ffe15a7?format=auto&s=418fae874a4411fae898ec08b59d0d5c239ec7d1&w=1000",
         "sv": {
-          "title": "Tusentals svenskar riskerar läkemedelsberoende",
-          "summary": "Många patienter som får opioider utskrivna efter en operation fortsätter att hämta ut dem långt…",
+          "title": "UD kallade upp Rysslands ambassadör",
+          "summary": "Svenska utrikesdepartementet kallade på torsdagen upp Rysslands ambassadör i Stockholm.",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Thousands of Swedes at risk of drug dependence",
-          "summary": "Many patients who are prescribed opioids after surgery continue to collect them long afterwards…"
+          "title": "Foreign Ministry summons Russian ambassador",
+          "summary": "The Swedish Ministry for Foreign Affairs summoned Russia's ambassador in Stockholm on Thursday."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T08:15:59+01:00"
+          "translated_at": "2026-11-26T18:58:22+01:00"
         }
       },
       "items": [
         {
-          "id": "e34b95368c07",
+          "id": "570fe2970c92",
           "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/tusentals-svenskar-riskerar-lakemedelsberoende",
-          "published_at": "2026-11-26T08:09:42+01:00",
+          "url": "https://www.sydsvenskan.se/sverige/ud-kallade-upp-rysslands-ambassador",
+          "published_at": "2026-11-26T20:09:30+01:00",
           "sv": {
-            "title": "Tusentals svenskar riskerar läkemedelsberoende"
+            "title": "UD kallade upp Rysslands ambassadör"
           },
           "en": {
-            "title": "Thousands of Swedes at risk of drug dependence"
+            "title": "Foreign Ministry summons Russia's ambassador"
           }
         },
         {
-          "id": "de60350cdcd9",
-          "source": "svd",
-          "url": "https://www.svd.se/a/JnojXb/tusentals-svenskar-riskerar-lakemedelsberoende",
-          "published_at": "2026-11-26T08:09:32+01:00",
-          "sv": {
-            "title": "Tusentals svenskar riskerar läkemedelsberoende"
-          },
-          "en": {
-            "title": "Thousands of Swedes at risk of drug dependence"
-          }
-        },
-        {
-          "id": "01be779c7ddf",
+          "id": "078953f4dc47",
           "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/kMJlx6/tusentals-svenskar-riskerar-lakemedelsberoende",
-          "published_at": "2026-11-26T08:09:32+01:00",
+          "url": "https://www.aftonbladet.se/nyheter/a/kMJAx9/ud-kallade-upp-rysslands-ambassador",
+          "published_at": "2026-11-26T18:47:43+01:00",
           "sv": {
-            "title": "Tusentals svenskar riskerar läkemedelsberoende"
+            "title": "UD kallade upp Rysslands ambassadör"
           },
           "en": {
-            "title": "Thousands of Swedes at risk of drug dependence"
+            "title": "Foreign Ministry summons Russian ambassador"
           }
         }
       ]
