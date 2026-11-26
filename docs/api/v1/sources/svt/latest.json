@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T15:16:01+01:00",
+  "generated_at": "2026-11-26T15:31:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4468c3d35b89",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/stora-driftstorningar-pa-stadsbibliotekens-hemsidor-nykoping-drabbat",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/stora-driftstorningar-pa-stadsbibliotekens-hemsidor-nykoping-drabbat",
+      "published_at": "2026-11-26T15:17:46+01:00",
+      "fetched_at": "2026-11-26T15:31:04+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Stora driftstörningar på stadsbibliotekens hemsidor – Nyköping drabbat",
+        "summary": "Under torsdagen gick det inte att komma åt stadsbiblioteket i Nyköpings hemsida. Även andra bibliotek runt om i landet hade liknande problem.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major outages on city libraries' websites – Nyköping affected",
+        "summary": "On Thursday it was not possible to access the Nyköping city library's website. Other libraries across the country also had similar problems."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:31:15+01:00"
+      }
+    },
     {
       "id": "3290b640494d",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T13:31:08+01:00"
-      }
-    },
-    {
-      "id": "72eaf9fef5df",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/langdskidor/alvar-myhlbacks-gladjebesked-kor-10-kilometer-klassiskt",
-      "guid": "https://www.svt.se/sport/langdskidor/alvar-myhlbacks-gladjebesked-kor-10-kilometer-klassiskt",
-      "published_at": "2026-11-21T10:23:50+01:00",
-      "fetched_at": "2026-11-21T10:45:44+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Alvar Myhlbacks glädjebesked: Kör 10 kilometer klassiskt",
-        "summary": "Under fredagen kastade Alvar Myhlback in handduken till sprinten, på grund av sjukdom. Men nu får det vara färdigvilat – 20-åringen kommer till start under 10 kilometer klassiskt i Bruksvallarna. – Han mår bättre idag och kommer att testa, säger hans pappa Petter Myhlback till SVT Sport.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Alvar Myhlback's good news: Skiing 10 kilometres classic",
-        "summary": "On Friday Alvar Myhlback withdrew from the sprint due to illness. But now it's back on – the 20-year-old will start in the 10 kilometres classic in Bruksvallarna. \"He feels better today and will try, says his father Petter Myhlback to SVT Sport."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T10:45:53+01:00"
       }
     }
   ]

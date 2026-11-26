@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T15:16:01+01:00",
+  "generated_at": "2026-11-26T15:31:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4468c3d35b89",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/stora-driftstorningar-pa-stadsbibliotekens-hemsidor-nykoping-drabbat",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/stora-driftstorningar-pa-stadsbibliotekens-hemsidor-nykoping-drabbat",
+      "published_at": "2026-11-26T15:17:46+01:00",
+      "fetched_at": "2026-11-26T15:31:04+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Stora driftstörningar på stadsbibliotekens hemsidor – Nyköping drabbat",
+        "summary": "Under torsdagen gick det inte att komma åt stadsbiblioteket i Nyköpings hemsida. Även andra bibliotek runt om i landet hade liknande problem.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major outages on city libraries' websites – Nyköping affected",
+        "summary": "On Thursday it was not possible to access the Nyköping city library's website. Other libraries across the country also had similar problems."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:31:15+01:00"
+      }
+    },
     {
       "id": "5843aa0f6d4b",
       "schema_version": 1,
@@ -5470,32 +5496,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T20:45:53+01:00"
-      }
-    },
-    {
-      "id": "142fa25aad50",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/bakslag-lussebullar-stoppas-pa-forskolor",
-      "guid": "https://www.expressen.se/nyheter/sverige/bakslag-lussebullar-stoppas-pa-forskolor/",
-      "published_at": "2026-11-22T19:32:01+01:00",
-      "fetched_at": "2026-11-22T19:45:47+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Bakslag: Lussebullar stoppas på förskolor",
-        "summary": "Några förskolor i Majorna i Göteborg har satt stopp för årets lussebak. En av rektorerna tycker att barnen ska baka saltdeg eller playdoh i stället. – Det är tråkigt om man landar i att det inte blir något lussebak alls, säger Blerta Hoti Singh (S), kommunalråd med ansvar för förskolefrågor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Setback: Lucia buns banned at preschools",
-        "summary": "Several preschools in Majorna in Göteborg have stopped this year's Lucia baking. One of the principals thinks the children should bake salt dough or Play-Doh instead. – It would be sad if it ends with no Lucia baking at all, says Blerta Hoti Singh (S), municipal commissioner responsible for preschool matters."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T19:45:54+01:00"
       }
     }
   ]

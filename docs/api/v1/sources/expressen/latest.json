@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T15:16:01+01:00",
+  "generated_at": "2026-11-26T15:31:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0fa50b536dc8",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2f1532ae-5c9d-438d-8261-086bd19b6fa9",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2f1532ae-5c9d-438d-8261-086bd19b6fa9",
+      "published_at": "2026-11-26T15:22:14+01:00",
+      "fetched_at": "2026-11-26T15:31:07+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Vattenfalls höjer priset för 900 000 hushåll",
+        "summary": "Elnätsavgiften höjs med flera procent",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Vattenfall raises price for 900,000 households",
+        "summary": "The grid fee is being raised by several percent"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:31:15+01:00"
+      }
+    },
     {
       "id": "a6365b2ffd0e",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T14:01:30+01:00"
-      }
-    },
-    {
-      "id": "d9fbe92d9fcb",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=901a062b-d9fa-4139-afbb-7e0e9174d353",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=901a062b-d9fa-4139-afbb-7e0e9174d353",
-      "published_at": "2026-11-23T13:39:15+01:00",
-      "fetched_at": "2026-11-23T13:45:51+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Greta Thunberg döms i Danmark",
-        "summary": "Straffas efter aktioner i Danmark",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Greta Thunberg convicted in Denmark",
-        "summary": "Sentenced for actions in Denmark"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T13:45:56+01:00"
       }
     }
   ]

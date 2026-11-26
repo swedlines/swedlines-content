@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-26T15:16:01+01:00",
+  "generated_at": "2026-11-26T15:31:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "66b3027d597d",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/bk-hacken/david-seger-svarar-pa-uppgifterna-om-en-flytt-till-aik.fb132b67-2865-5d12-b713-18543063ebe7",
+      "guid": "fb132b67-2865-5d12-b713-18543063ebe7",
+      "published_at": "2026-11-26T15:05:05+01:00",
+      "fetched_at": "2026-11-26T15:31:08+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "BK Häcken",
+        "Tagg: BK Häcken",
+        "Tagg: Allsvenskan",
+        "Tagg: AIK"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/d28a8d8c-1014-3ba4-8d7c-004e1fbd46e7",
+      "sv": {
+        "title": "David Seger svarar på uppgifterna om AIK",
+        "summary": "Uppges vara överens med allsvensk konkurrent: ”Finns folk som är bättre på matte som får räkna ut det”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "David Seger responds to reports about AIK",
+        "summary": "Reportedly in agreement with an Allsvenskan rival: \"There are people who are better at maths who can work that out\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T15:31:15+01:00"
+      }
+    },
     {
       "id": "347671387928",
       "schema_version": 1,
@@ -6826,38 +6859,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T11:01:21+01:00"
-      }
-    },
-    {
-      "id": "4db225e079f6",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/orgryte-is/sa-slutar-bottenstriden-det-har-talar-for-och-emot-ois.6c5252c4-ae17-5f00-a1aa-e65a23941364",
-      "guid": "6c5252c4-ae17-5f00-a1aa-e65a23941364",
-      "published_at": "2026-11-21T10:08:46+01:00",
-      "fetched_at": "2026-11-21T10:31:08+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Örgryte IS",
-        "Tagg: Öis",
-        "Tagg: Örgryte IS"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/3017223f-7366-3c6d-a2d7-ae63d9709484",
-      "sv": {
-        "title": "Så slutar galna bottendramat för Öis: ”Deras största hopp”",
-        "summary": "Det här talar för och emot Öis i kampen om nytt kontrakt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is how the crazy relegation drama for Öis ends: ”Their biggest hope”",
-        "summary": "This is what speaks for and against Öis in the fight for a new contract."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T10:31:13+01:00"
       }
     }
   ]
