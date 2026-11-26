@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T09:16:14+01:00",
+  "generated_at": "2026-11-26T09:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4d8ed7e60437",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/henrik-vinge-hoppas-kunna-fa-ett-inflytande",
+      "guid": "https://www.svt.se/nyheter/inrikes/henrik-vinge-hoppas-kunna-fa-ett-inflytande",
+      "published_at": "2026-11-26T09:13:04+01:00",
+      "fetched_at": "2026-11-26T09:31:00+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Henrik Vinge: Hoppas kunna få ett inflytande",
+        "summary": "SD deltar inte i några förhandlingar med de övriga partierna och har sedan valet gått i opposition. – Men vi hoppas på att kunna få ett inflytande genom förhandlingar, säger Henrik Vinge (SD).",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Henrik Vinge: Hopes to gain influence",
+        "summary": "The Sweden Democrats are not taking part in any negotiations with the other parties and have been in opposition since the election. – But we hope to gain influence through negotiations, says Henrik Vinge (SD)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:31:12+01:00"
+      }
+    },
     {
       "id": "285171ac1934",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T10:16:00+01:00"
-      }
-    },
-    {
-      "id": "f11ecfdf6496",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/langdskidor/johanna-hagstroms-drama-infor-premiaren-nerprejad-av-lastbil",
-      "guid": "https://www.svt.se/sport/langdskidor/johanna-hagstroms-drama-infor-premiaren-nerprejad-av-lastbil",
-      "published_at": "2026-11-20T09:07:59+01:00",
-      "fetched_at": "2026-11-20T09:15:42+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Johanna Hagströms drama inför premiären: ”Nerprejad av lastbil”",
-        "summary": "Johanna Hagström fick en dramatisk uppladdning inför helgens Sverigepremiär. En bilfärd ner i diket, ihop med klubbkamraten Emilia Eriksson. – Vi blev typ nerprejade av en lastbil, säger Hagström.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Johanna Hagström's drama ahead of the premiere: \"Nearly run over by a truck\"",
-        "summary": "Johanna Hagström had a dramatic build-up ahead of the weekend's Swedish season opener. A car ride ending in the ditch, together with club teammate Emilia Eriksson. \"We were basically nearly run over by a truck,\" says Hagström."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T09:15:53+01:00"
       }
     }
   ]

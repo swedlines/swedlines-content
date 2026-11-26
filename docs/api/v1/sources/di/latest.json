@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-26T09:16:14+01:00",
+  "generated_at": "2026-11-26T09:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c2fef6b3d320",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/konkurshotat-flygbolag-staller-in-alla-flyg",
+      "guid": "7d9394a2-ec46-448f-8c74-c790b2f2a0d9",
+      "published_at": "2026-11-26T09:19:51+01:00",
+      "fetched_at": "2026-11-26T09:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2c7c3c09-1a71-4ee0-9523-02dc2c51958b.jpg?width=600",
+      "sv": {
+        "title": "Konkurshotat flygbolag ställer in alla flyg",
+        "summary": "Det krisande norska flygbolaget Norse ställer in samtliga flyg under torsdagen, enligt ett pressmeddelande. Bolaget flyger bland annat sträckan Stockholm–Bangkok.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bankrupt-threatened airline cancels all flights",
+        "summary": "The struggling Norwegian airline Norse cancels all flights on Thursday, according to a press release. The company flies, among other routes, Stockholm–Bangkok."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:31:12+01:00"
+      }
+    },
+    {
+      "id": "83ae5af10f6e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/positiv-borsoppning-note-faller-efter-vd-nyhet",
+      "guid": "1eb08666-4d51-5155-a033-31c23e54c9c1",
+      "published_at": "2026-11-26T09:17:42+01:00",
+      "fetched_at": "2026-11-26T09:31:05+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Positiv börsöppning – Note faller efter vd-nyhet"
+      },
+      "en": {
+        "title": "Positive stock market opening – Note falls after CEO news"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:31:12+01:00"
+      }
+    },
     {
       "id": "38eb1304ad71",
       "schema_version": 1,
@@ -5262,60 +5312,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T08:01:20+01:00"
-      }
-    },
-    {
-      "id": "c71ad974e77b",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/resultatkross-fran-elekta",
-      "guid": "48f6c669-1429-47ef-9a1e-48ee76ad94f0",
-      "published_at": "2026-11-25T07:41:43+01:00",
-      "fetched_at": "2026-11-25T07:45:42+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/adb63bd2-fec6-48aa-8325-46047882ea49.jpeg?width=600",
-      "sv": {
-        "title": "Resultatkross från Elekta",
-        "summary": "Medicinteknikbolaget Elekta ökar vinsten mer än väntat, samtidigt som orderingången kom in något över förhandstipsen. ”Ett starkt andra kvartal”, konstaterar vd:n Jakob Just-Bomholt, som uppger att kostnadsbesparingarna biter bättre än väntat. Jakob Just-Bomholt intervjuas i Di klockan 08.20.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Elekta Beats Earnings Expectations",
-        "summary": "Medical technology company Elekta increases profit more than expected, while order intake came in slightly above pre-market forecasts. \"A strong second quarter,\" says CEO Jakob Just-Bomholt, who states that cost savings are working better than expected. Jakob Just-Bomholt is interviewed in Di at 08.20."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T07:45:54+01:00"
-      }
-    },
-    {
-      "id": "62fb7457ed23",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/hasko-overtecknades-flera-ganger",
-      "guid": "dd327a5f-032e-4e5a-b29d-00e3e50901b9",
-      "published_at": "2026-11-25T07:41:16+01:00",
-      "fetched_at": "2026-11-25T07:45:42+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/27502f74-e1a7-44ed-952c-0c43eb2118da.jpeg?width=600",
-      "sv": {
-        "title": "Hasko övertecknades flera gånger",
-        "summary": "Det erbjudande bestående av både befintliga och nytryckta aktier som Hasko Invest, en aktiv ägare av nischproduktbolag, gjorde inför sin notering på Stockholmsbörsen övertecknades flera gånger. Bolaget tillförs omkring 3.000 nya aktieägare.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Hasko Oversubscribed Several Times",
-        "summary": "The offering of both existing and newly printed shares that Hasko Invest, an active owner of niche product companies, made ahead of its listing on the Stockholm Stock Exchange was oversubscribed several times. The company is adding around 3,000 new shareholders."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T07:45:54+01:00"
       }
     }
   ]

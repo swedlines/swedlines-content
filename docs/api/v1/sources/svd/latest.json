@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T09:16:14+01:00",
+  "generated_at": "2026-11-26T09:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "45a9cb400b91",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/QroGvA/kristersson-tror-han-har-realistisk-chans",
+      "guid": "https://www.svd.se/a/QroGvA/kristersson-tror-han-har-realistisk-chans?utm_medium=rss",
+      "published_at": "2026-11-26T09:27:35+01:00",
+      "fetched_at": "2026-11-26T09:31:02+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/9b03e675-3141-365d-b52a-dde8688bea73?format=auto&s=0cf43c92287a77d94b34b9e4202d493ed111e4f0&w=1000",
+      "sv": {
+        "title": "Kristersson tror han har ”realistisk chans”",
+        "summary": "Moderatledaren Ulf Kristersson säger att han inte är rädd för extra val, om det skulle behövas.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson believes he has a “realistic chance”",
+        "summary": "Moderate leader Ulf Kristersson (M) says he is not afraid of a snap election, should one be needed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:31:12+01:00"
+      }
+    },
     {
       "id": "6fd95f0ec79f",
       "schema_version": 1,
@@ -5222,33 +5249,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T07:04:12+01:00"
-      }
-    },
-    {
-      "id": "03c90f98e08f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/WmbKaQ/sa-mycket-dyrare-blir-csn-lanet-nasta-ar",
-      "guid": "https://www.svd.se/a/WmbKaQ/sa-mycket-dyrare-blir-csn-lanet-nasta-ar?utm_medium=rss",
-      "published_at": "2026-11-23T06:00:10+01:00",
-      "fetched_at": "2026-11-23T06:56:00+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/cca7756b-35a6-301f-bcfd-46df4ea1997b?format=auto&s=b27b97a1df1014c79a044e874f21350fbda23559&w=1000",
-      "sv": {
-        "title": "Så mycket dyrare blir CSN-lånet nästa år",
-        "summary": "Räkna med att få betala mer på CSN-lånet nästa år. Detta trots att räntan faktiskt tros sjunka.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is how much more expensive the CSN loan becomes next year",
-        "summary": "Expect to pay more on the CSN loan next year. This is despite the interest rate being expected to fall."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:44+01:00"
       }
     }
   ]

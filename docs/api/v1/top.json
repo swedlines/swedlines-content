@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T09:16:14+01:00",
-  "count": 23,
+  "generated_at": "2026-11-26T09:31:17+01:00",
+  "count": 24,
   "stories": [
     {
       "id": "bca5b56324c1",
@@ -711,6 +711,157 @@
       ]
     },
     {
+      "id": "45a9cb400b91",
+      "source_count": 3,
+      "sources": [
+        "svd",
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-26T09:27:35+01:00",
+      "last_published_at": "2026-11-26T09:29:28+01:00",
+      "lead": {
+        "id": "45a9cb400b91",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/QroGvA/kristersson-tror-han-har-realistisk-chans",
+        "guid": "https://www.svd.se/a/QroGvA/kristersson-tror-han-har-realistisk-chans?utm_medium=rss",
+        "published_at": "2026-11-26T09:27:35+01:00",
+        "fetched_at": "2026-11-26T09:31:02+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/9b03e675-3141-365d-b52a-dde8688bea73?format=auto&s=0cf43c92287a77d94b34b9e4202d493ed111e4f0&w=1000",
+        "sv": {
+          "title": "Kristersson tror han har ”realistisk chans”",
+          "summary": "Moderatledaren Ulf Kristersson säger att han inte är rädd för extra val, om det skulle behövas.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Kristersson believes he has a “realistic chance”",
+          "summary": "Moderate leader Ulf Kristersson (M) says he is not afraid of a snap election, should one be needed."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:31:12+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "6fdfb8e6d4bf",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/kristersson-tror-han-har-realistisk-chans",
+          "published_at": "2026-11-26T09:29:28+01:00",
+          "sv": {
+            "title": "Kristersson tror han har ”realistisk chans”"
+          },
+          "en": {
+            "title": "Kristersson believes he has a “realistic chance”"
+          }
+        },
+        {
+          "id": "77907425446c",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/KL3oJ7/kristersson-tror-han-har-realistisk-chans",
+          "published_at": "2026-11-26T09:27:35+01:00",
+          "sv": {
+            "title": "Kristersson tror han har ”realistisk chans”"
+          },
+          "en": {
+            "title": "Kristersson believes he has a “realistic chance”"
+          }
+        },
+        {
+          "id": "45a9cb400b91",
+          "source": "svd",
+          "url": "https://www.svd.se/a/QroGvA/kristersson-tror-han-har-realistisk-chans",
+          "published_at": "2026-11-26T09:27:35+01:00",
+          "sv": {
+            "title": "Kristersson tror han har ”realistisk chans”"
+          },
+          "en": {
+            "title": "Kristersson believes he has a “realistic chance”"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6fd95f0ec79f",
+      "source_count": 3,
+      "sources": [
+        "svd",
+        "sydsvenskan",
+        "di"
+      ],
+      "first_published_at": "2026-11-26T08:58:13+01:00",
+      "last_published_at": "2026-11-26T09:19:51+01:00",
+      "lead": {
+        "id": "6fd95f0ec79f",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg",
+        "guid": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg?utm_medium=rss",
+        "published_at": "2026-11-26T08:58:13+01:00",
+        "fetched_at": "2026-11-26T09:01:16+01:00",
+        "category": "economy",
+        "sv": {
+          "title": "Norska flygbolaget ställer in samtliga flyg",
+          "summary": "Krisande norska flygbolaget Norse ställer in samtliga flyg under torsdagen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Norwegian airline cancels all flights",
+          "summary": "The struggling Norwegian airline Norse is cancelling all flights on Thursday."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:01:21+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "c2fef6b3d320",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/konkurshotat-flygbolag-staller-in-alla-flyg",
+          "published_at": "2026-11-26T09:19:51+01:00",
+          "sv": {
+            "title": "Konkurshotat flygbolag ställer in alla flyg"
+          },
+          "en": {
+            "title": "Bankrupt-threatened airline cancels all flights"
+          }
+        },
+        {
+          "id": "0b06185d18b1",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/norska-flygbolaget-staller-in-samtliga-flyg",
+          "published_at": "2026-11-26T08:58:16+01:00",
+          "sv": {
+            "title": "Norska flygbolaget ställer in samtliga flyg"
+          },
+          "en": {
+            "title": "Norwegian airline cancels all flights"
+          }
+        },
+        {
+          "id": "6fd95f0ec79f",
+          "source": "svd",
+          "url": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg",
+          "published_at": "2026-11-26T08:58:13+01:00",
+          "sv": {
+            "title": "Norska flygbolaget ställer in samtliga flyg"
+          },
+          "en": {
+            "title": "Norwegian airline cancels all flights"
+          }
+        }
+      ]
+    },
+    {
       "id": "0e9a36d1e907",
       "source_count": 3,
       "sources": [
@@ -1081,68 +1232,6 @@
           },
           "en": {
             "title": "Duran Duran's Andy Taylor dead"
-          }
-        }
-      ]
-    },
-    {
-      "id": "6fd95f0ec79f",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-26T08:58:13+01:00",
-      "last_published_at": "2026-11-26T08:58:16+01:00",
-      "lead": {
-        "id": "6fd95f0ec79f",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg",
-        "guid": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg?utm_medium=rss",
-        "published_at": "2026-11-26T08:58:13+01:00",
-        "fetched_at": "2026-11-26T09:01:16+01:00",
-        "category": "economy",
-        "sv": {
-          "title": "Norska flygbolaget ställer in samtliga flyg",
-          "summary": "Krisande norska flygbolaget Norse ställer in samtliga flyg under torsdagen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Norwegian airline cancels all flights",
-          "summary": "The struggling Norwegian airline Norse is cancelling all flights on Thursday."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T09:01:21+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "0b06185d18b1",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/norska-flygbolaget-staller-in-samtliga-flyg",
-          "published_at": "2026-11-26T08:58:16+01:00",
-          "sv": {
-            "title": "Norska flygbolaget ställer in samtliga flyg"
-          },
-          "en": {
-            "title": "Norwegian airline cancels all flights"
-          }
-        },
-        {
-          "id": "6fd95f0ec79f",
-          "source": "svd",
-          "url": "https://www.svd.se/a/vkQaj5/norska-flygbolaget-staller-in-samtliga-flyg",
-          "published_at": "2026-11-26T08:58:13+01:00",
-          "sv": {
-            "title": "Norska flygbolaget ställer in samtliga flyg"
-          },
-          "en": {
-            "title": "Norwegian airline cancels all flights"
           }
         }
       ]

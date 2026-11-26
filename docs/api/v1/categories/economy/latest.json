@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-26T09:16:14+01:00",
+  "generated_at": "2026-11-26T09:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c2fef6b3d320",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/konkurshotat-flygbolag-staller-in-alla-flyg",
+      "guid": "7d9394a2-ec46-448f-8c74-c790b2f2a0d9",
+      "published_at": "2026-11-26T09:19:51+01:00",
+      "fetched_at": "2026-11-26T09:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2c7c3c09-1a71-4ee0-9523-02dc2c51958b.jpg?width=600",
+      "sv": {
+        "title": "Konkurshotat flygbolag ställer in alla flyg",
+        "summary": "Det krisande norska flygbolaget Norse ställer in samtliga flyg under torsdagen, enligt ett pressmeddelande. Bolaget flyger bland annat sträckan Stockholm–Bangkok.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bankrupt-threatened airline cancels all flights",
+        "summary": "The struggling Norwegian airline Norse cancels all flights on Thursday, according to a press release. The company flies, among other routes, Stockholm–Bangkok."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:31:12+01:00"
+      }
+    },
+    {
+      "id": "83ae5af10f6e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/positiv-borsoppning-note-faller-efter-vd-nyhet",
+      "guid": "1eb08666-4d51-5155-a033-31c23e54c9c1",
+      "published_at": "2026-11-26T09:17:42+01:00",
+      "fetched_at": "2026-11-26T09:31:05+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Positiv börsöppning – Note faller efter vd-nyhet"
+      },
+      "en": {
+        "title": "Positive stock market opening – Note falls after CEO news"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:31:12+01:00"
+      }
+    },
+    {
+      "id": "0b126d7fa32e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/kraftig-uppgang-pa-stockholmsborsen",
+      "guid": "67dec3a5-fe4f-4e8e-9da2-23a4b17845b4",
+      "published_at": "2026-11-26T09:17:20+01:00",
+      "fetched_at": "2026-11-26T09:31:06+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e141a77c-7c6a-4c9d-bad0-f12b781daa63.jpg?width=600",
+      "sv": {
+        "title": "Kraftig uppgång på Stockholmsbörsen",
+        "summary": "Stockholmsbörsen studsar upp rejält. Vid öppning är OMXS-index upp 1,4 procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sharp rise on the Stockholm Stock Exchange",
+        "summary": "The Stockholm Stock Exchange bounces up sharply. At opening, the OMXS index is up 1.4 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:31:12+01:00"
+      }
+    },
     {
       "id": "38eb1304ad71",
       "schema_version": 1,
@@ -5198,85 +5275,6 @@
       "en": {
         "title": "Haskö CEO: \"Just these two legs that drive growth over time\"",
         "summary": "Interview with series acquirer's CEO Joakim Tengzelius after the stock market listing."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:15:50+01:00"
-      }
-    },
-    {
-      "id": "3dcb4dc29174",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/sensys-gatso-tar-kontrakt-vart-87-miljoner",
-      "guid": "0cb22fcb-bd8a-4b2e-a21d-a79eebbf7ed3",
-      "published_at": "2026-11-25T10:11:54+01:00",
-      "fetched_at": "2026-11-25T10:15:42+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Sensys Gatso tar kontrakt värt 87 miljoner",
-        "summary": "Sensys Gatso, verksamt inom trafiksäkerhetslösningar, har tecknat ett tjänstekontrakt i Kanada om att leverera, installera och underhålla fordonsmonterade trafiksäkerhetskameror samt kameror för rödljusövervakning till ett värde av upp till 12,2 miljoner kanadadollar, motsvarande cirka 87 miljoner…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sensys Gatso wins contract worth SEK 87 million",
-        "summary": "Sensys Gatso, which operates in road safety solutions, has signed a service contract in Canada to deliver, install and maintain vehicle-mounted road safety cameras and red-light enforcement cameras worth up to CAD 12.2 million, equivalent to about SEK 87 million…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:15:50+01:00"
-      }
-    },
-    {
-      "id": "150424917c1b",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/forst-gardell-rusning-sen-mardromssvit",
-      "guid": "d6bf360f-5846-4425-ba1d-f97926621089",
-      "published_at": "2026-11-25T10:09:46+01:00",
-      "fetched_at": "2026-11-25T10:15:42+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7d4f14ce-831f-425d-82bf-376d8c37492e.jpeg?width=600",
-      "sv": {
-        "title": "Först Gardell-rusning – sen mardrömssvit",
-        "summary": "Fastighetsbolaget Episurf rusade på nyheten att Christer Gardells fastighetsbolag flaggat upp. Sedan följde tolv raka nedgångsdagar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "First Gardell rush – then a nightmare streak",
-        "summary": "Property company Episurf surged on the news that Christer Gardell's property company had flagged up. Then followed twelve consecutive days of decline."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:15:50+01:00"
-      }
-    },
-    {
-      "id": "03facf9b1d1e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/intakterna-vaxte-6-procent-for-talkpool",
-      "guid": "d38d5e18-cf19-4d80-9a2b-9b51433e9313",
-      "published_at": "2026-11-25T10:09:27+01:00",
-      "fetched_at": "2026-11-25T10:15:42+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Intäkterna växte 6 procent för Talkpool",
-        "summary": "Talkpool, ett IoT-bolag inom kommunikationsnätverk, hade en nettoomsättning på 4,6 miljoner euro under tredje kvartalet 2026 (4,3), motsvarande en intäktstillväxt på 6 procent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Talkpool revenue grew 6 percent",
-        "summary": "Talkpool, an IoT company in communications networks, had net sales of EUR 4.6 million in the third quarter of 2026 (4.3), equivalent to revenue growth of 6 percent."
       },
       "translation": {
         "status": "done",
