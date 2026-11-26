@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T09:31:17+01:00",
+  "generated_at": "2026-11-26T09:46:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4bb8985b90cb",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/skidskyttarnas-nya-sits-kontorsarbetarlandslaget-ja-varfor-inte",
+      "guid": "https://www.dn.se/sport/skidskyttarnas-nya-sits-kontorsarbetarlandslaget-ja-varfor-inte/",
+      "published_at": "2026-11-26T09:40:52+01:00",
+      "fetched_at": "2026-11-26T09:45:45+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/72183bbd-cf02-49ff-9648-87ad521e1e34.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Skidskyttarnas nya sits: ”Kontorsarbetarlandslaget ... ja, varför inte?”",
+        "summary": "För majoriteten av svenska folket är det standard. För skidskyttestjärnan Sebastian Samuelsson något helt nytt. Småbarnspappan har i sommar tränat kontorstider – måndag till fredag med två dagars helg. – Det har varit fantastiskt! utbrister han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Biathletes' new routine: \"Office workers' national team ... yes, why not?\"",
+        "summary": "For most Swedes it is standard. For biathlon star Sebastian Samuelsson it is something entirely new. The young-child father has this summer trained office hours – Monday to Friday with two days off. – It has been fantastic! he exclaims."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:45:55+01:00"
+      }
+    },
     {
       "id": "d2f618ea87f8",
       "schema_version": 1,
@@ -5556,32 +5583,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:31:23+01:00"
-      }
-    },
-    {
-      "id": "4ee96079ca89",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/ishockey/rasmus-dahlin-med-drommal-mot-washington",
-      "guid": "https://www.svt.se/sport/ishockey/rasmus-dahlin-med-drommal-mot-washington",
-      "published_at": "2026-11-20T07:02:07+01:00",
-      "fetched_at": "2026-11-20T07:15:40+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Rasmus Dahlin med drömmål mot Washington",
-        "summary": "Han har gjort det igen. I natt stod Rasmus Dahlin för ett drömmål – efter soloåkning över hela isen. – Ett magiskt mål, säger kommentatorn Dan Dunleavy.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Rasmus Dahlin scores dream goal against Washington",
-        "summary": "He has done it again. Last night Rasmus Dahlin scored a dream goal – after a solo rush across the entire ice. – A magical goal, says commentator Dan Dunleavy."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:15:49+01:00"
       }
     }
   ]

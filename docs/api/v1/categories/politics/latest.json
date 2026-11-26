@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-26T09:31:17+01:00",
+  "generated_at": "2026-11-26T09:46:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3209bcfe334c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ddec57c2-1d59-4079-ae61-f1df4f8fefc7",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ddec57c2-1d59-4079-ae61-f1df4f8fefc7",
+      "published_at": "2026-11-26T09:41:10+01:00",
+      "fetched_at": "2026-11-26T09:45:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C blixtinkallar till möte",
+        "summary": "Ska diskutera partiets vägval",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C calls snap meeting",
+        "summary": "Will discuss the party's strategic choices"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:45:55+01:00"
+      }
+    },
+    {
+      "id": "ed574169a1d8",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
+      "guid": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
+      "published_at": "2026-11-26T09:32:28+01:00",
+      "fetched_at": "2026-11-26T09:45:44+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-toppar möts i dag – i blixtinkallat möte",
+        "summary": "Centerpartiet har kallat till ett extrainsatt möte med partistyrelsen och riksdagsgruppen under dagen. Syftet är, enligt SVT:s uppgifter, att undersöka om det finns ett stöd för att rösta grönt till Ulf Kristersson på måndag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C leaders meet today – at snap meeting",
+        "summary": "The Centre Party has called an extra meeting with the party board and the Riksdag group during the day. The aim is, according to SVT's information, to examine whether there is support for voting green for Ulf Kristersson (M) on Monday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:45:55+01:00"
+      }
+    },
     {
       "id": "6fdfb8e6d4bf",
       "schema_version": 1,
@@ -5327,58 +5379,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T13:45:53+01:00"
-      }
-    },
-    {
-      "id": "300cdca2daaf",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9349018",
-      "guid": "rss:sr.se/article/9349018",
-      "published_at": "2026-11-24T13:28:00+01:00",
-      "fetched_at": "2026-11-24T13:31:01+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Två statsvetare: Det lutar åt Kristersson-regering",
-        "summary": "En regering ledd av Ulf Kristersson framstår som mer sannolik efter Vänsterpartiets nej till det rödgröna startpaketet, enligt två statsvetare som Ekot talat med. Statsvetarna bedömer ett extraval som osannolikt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Two political scientists: Kristersson-led government looks likely",
-        "summary": "A government led by Ulf Kristersson appears more likely after the Left Party's rejection of the red-greens' starter package, according to two political scientists whom Ekot has spoken to. The political scientists consider a snap election unlikely."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T13:31:19+01:00"
-      }
-    },
-    {
-      "id": "298904f30b5e",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9349060",
-      "guid": "rss:sr.se/article/9349060",
-      "published_at": "2026-11-24T13:23:00+01:00",
-      "fetched_at": "2026-11-24T13:31:01+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Furtenbach: Ser mörkt ut för de rödgröna",
-        "summary": "Magdalena Andersson visade inte upp någon optimistisk fasad, utan lät både irriterad och pessimistisk, när hon träffade pressen efter sitt samtal med talman Andreas Norlén. ”Hon kritiserade Centerpartiet men framförallt Vänsterpartiet, och V tar heder och ära av C.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Furtenbach: Things look dark for the red-greens",
-        "summary": "Magdalena Andersson showed no optimistic facade, instead sounding both irritated and pessimistic, when she met the press after her talks with Speaker Andreas Norlén. \"She criticised the Centre Party but mainly the Left Party, and the Left Party (V) takes all the credit from the Centre Party (C)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T13:31:19+01:00"
       }
     }
   ]

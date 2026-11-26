@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T09:31:17+01:00",
-  "count": 24,
+  "generated_at": "2026-11-26T09:46:02+01:00",
+  "count": 25,
   "stories": [
     {
       "id": "bca5b56324c1",
@@ -1237,6 +1237,190 @@
       ]
     },
     {
+      "id": "ed574169a1d8",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-26T09:32:28+01:00",
+      "last_published_at": "2026-11-26T09:41:10+01:00",
+      "lead": {
+        "id": "ed574169a1d8",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
+        "guid": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
+        "published_at": "2026-11-26T09:32:28+01:00",
+        "fetched_at": "2026-11-26T09:45:44+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "C-toppar möts i dag – i blixtinkallat möte",
+          "summary": "Centerpartiet har kallat till ett extrainsatt möte med partistyrelsen och riksdagsgruppen under dagen. Syftet är, enligt SVT:s uppgifter, att undersöka om det finns ett stöd för att rösta grönt till Ulf Kristersson på måndag.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "C leaders meet today – at snap meeting",
+          "summary": "The Centre Party has called an extra meeting with the party board and the Riksdag group during the day. The aim is, according to SVT's information, to examine whether there is support for voting green for Ulf Kristersson (M) on Monday."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:45:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "3209bcfe334c",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ddec57c2-1d59-4079-ae61-f1df4f8fefc7",
+          "published_at": "2026-11-26T09:41:10+01:00",
+          "sv": {
+            "title": "C blixtinkallar till möte"
+          },
+          "en": {
+            "title": "C calls snap meeting"
+          }
+        },
+        {
+          "id": "ed574169a1d8",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
+          "published_at": "2026-11-26T09:32:28+01:00",
+          "sv": {
+            "title": "C-toppar möts i dag – i blixtinkallat möte"
+          },
+          "en": {
+            "title": "C leaders meet today – at snap meeting"
+          }
+        }
+      ]
+    },
+    {
+      "id": "25ab12ad7cdb",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-26T09:40:47+01:00",
+      "last_published_at": "2026-11-26T09:40:48+01:00",
+      "lead": {
+        "id": "25ab12ad7cdb",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/bk5Epk/eu-ledare-brakar-i-bryssel-det-blir-en-batalj",
+        "guid": "https://www.aftonbladet.se/nyheter/a/bk5Epk/eu-ledare-brakar-i-bryssel-det-blir-en-batalj?utm_medium=rss",
+        "published_at": "2026-11-26T09:40:47+01:00",
+        "fetched_at": "2026-11-26T09:45:46+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/8db5e01c-1829-34b4-82aa-1806a6de506d?format=auto&s=6737c34d6d1e4bc23fed6c66c0cd39c48297baa7&w=1000",
+        "sv": {
+          "title": "EU-ledare bråkar i Bryssel: ”Det blir en batalj”",
+          "summary": "Ett rejält bråk väntar när EU-ländernas ledare ska försöka enas om såväl budget som Ukrainastöd.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "EU leaders clash in Brussels: \"It's going to be a battle\"",
+          "summary": "A serious row awaits as EU member states' leaders try to agree on both the budget and support for Ukraine."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:45:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "5443cd710143",
+          "source": "svd",
+          "url": "https://www.svd.se/a/ez89ja/eu-ledare-brakar-i-bryssel-det-blir-en-batalj",
+          "published_at": "2026-11-26T09:40:48+01:00",
+          "sv": {
+            "title": "EU-ledare bråkar i Bryssel: ”Det blir en batalj”"
+          },
+          "en": {
+            "title": "EU leaders clash in Brussels: \"It's going to be a battle\""
+          }
+        },
+        {
+          "id": "25ab12ad7cdb",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/bk5Epk/eu-ledare-brakar-i-bryssel-det-blir-en-batalj",
+          "published_at": "2026-11-26T09:40:47+01:00",
+          "sv": {
+            "title": "EU-ledare bråkar i Bryssel: ”Det blir en batalj”"
+          },
+          "en": {
+            "title": "EU leaders clash in Brussels: \"It's going to be a battle\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "ab789aeedc63",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-26T09:29:15+01:00",
+      "last_published_at": "2026-11-26T09:33:14+01:00",
+      "lead": {
+        "id": "ab789aeedc63",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326",
+        "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326&utm_medium=rss",
+        "published_at": "2026-11-26T09:29:15+01:00",
+        "fetched_at": "2026-11-26T09:45:46+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Explosion på oljeanläggning"
+        },
+        "en": {
+          "title": "Explosion at oil facility"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T09:45:55+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "abd1a58da1c8",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=08fe095e-e0f9-42a2-9ca6-5327f35a9ef2",
+          "published_at": "2026-11-26T09:33:14+01:00",
+          "sv": {
+            "title": "Stor explosion"
+          },
+          "en": {
+            "title": "Major explosion"
+          }
+        },
+        {
+          "id": "ab789aeedc63",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80326",
+          "published_at": "2026-11-26T09:29:15+01:00",
+          "sv": {
+            "title": "Explosion på oljeanläggning"
+          },
+          "en": {
+            "title": "Explosion at oil facility"
+          }
+        }
+      ]
+    },
+    {
       "id": "01ec06ca11f2",
       "source_count": 2,
       "sources": [
@@ -1765,131 +1949,6 @@
           },
           "en": {
             "title": "Coup at the Social Democrats' headquarters"
-          }
-        }
-      ]
-    },
-    {
-      "id": "641401af237a",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-25T21:15:29+01:00",
-      "last_published_at": "2026-11-25T21:39:54+01:00",
-      "lead": {
-        "id": "641401af237a",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/sport/fotboll/alexander-isak-slar-till-i-champions-league",
-        "guid": "https://www.svt.se/sport/fotboll/alexander-isak-slar-till-i-champions-league",
-        "published_at": "2026-11-25T21:15:29+01:00",
-        "fetched_at": "2026-11-25T21:31:03+01:00",
-        "category": "sports",
-        "sv": {
-          "title": "Alexander Isak slår till i Champions League",
-          "summary": "Alexander Isak, 27, är stekhet. Anfallsstjärnan gav Liverpool ledningen borta mot Club Brügge i Champions League.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Alexander Isak strikes in Champions League",
-          "summary": "Alexander Isak, 27, is on fire. The striker gave Liverpool the lead away to Club Brügge in the Champions League."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T21:31:12+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "a4a6361bce54",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sport/isak-ger-liverpool-ledningen-i-champions-league",
-          "published_at": "2026-11-25T21:39:54+01:00",
-          "sv": {
-            "title": "Isak ger Liverpool ledningen i Champions League"
-          },
-          "en": {
-            "title": "Isak gives Liverpool the lead in the Champions League"
-          }
-        },
-        {
-          "id": "641401af237a",
-          "source": "svt",
-          "url": "https://www.svt.se/sport/fotboll/alexander-isak-slar-till-i-champions-league",
-          "published_at": "2026-11-25T21:15:29+01:00",
-          "sv": {
-            "title": "Alexander Isak slår till i Champions League"
-          },
-          "en": {
-            "title": "Alexander Isak strikes in Champions League"
-          }
-        }
-      ]
-    },
-    {
-      "id": "443346030b60",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "tv4"
-      ],
-      "first_published_at": "2026-11-25T11:52:27+01:00",
-      "last_published_at": "2026-11-25T21:32:29+01:00",
-      "lead": {
-        "id": "443346030b60",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/EbWGQ3/c-ledaren-varnar-for-extraval-i-lackt-inspelning",
-        "guid": "https://www.aftonbladet.se/nyheter/a/EbWGQ3/c-ledaren-varnar-for-extraval-i-lackt-inspelning?utm_medium=rss",
-        "published_at": "2026-11-25T11:52:27+01:00",
-        "fetched_at": "2026-11-25T12:31:02+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/dcde2e4a-dfc0-34e0-b0df-7a5291b4f50b?format=auto&s=f08842a26c31c32da11cdf6f4c46f07a3fd0bc68&w=1000",
-        "sv": {
-          "title": "C-ledaren varnar för extraval i läckt inspelning",
-          "summary": "Spreds från internt stormöte",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "The C leader warns of snap election in leaked recording",
-          "summary": "Leaked from internal stormy meeting"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T12:31:13+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "6a0048e068a6",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/3tuJ0JgjMjAyPD8bAA4zhK/thand-ringqvist-varnar-foer-extraval-i-laeckt-inspelning",
-          "published_at": "2026-11-25T21:32:29+01:00",
-          "sv": {
-            "title": "Thand Ringqvist varnar för extraval i läckt inspelning"
-          },
-          "en": {
-            "title": "Thand Ringqvist warns of snap election in leaked recording"
-          }
-        },
-        {
-          "id": "443346030b60",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/EbWGQ3/c-ledaren-varnar-for-extraval-i-lackt-inspelning",
-          "published_at": "2026-11-25T11:52:27+01:00",
-          "sv": {
-            "title": "C-ledaren varnar för extraval i läckt inspelning"
-          },
-          "en": {
-            "title": "The C leader warns of snap election in leaked recording"
           }
         }
       ]

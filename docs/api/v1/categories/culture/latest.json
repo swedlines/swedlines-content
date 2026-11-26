@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T09:31:17+01:00",
+  "generated_at": "2026-11-26T09:46:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "74d4b48d363b",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/kultur/gina-tricot-anklagas-for-plagiat-i-julkampanj",
+      "guid": "https://www.svt.se/kultur/gina-tricot-anklagas-for-plagiat-i-julkampanj",
+      "published_at": "2026-11-26T09:38:36+01:00",
+      "fetched_at": "2026-11-26T09:45:44+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Gina Tricot anklagas för plagiat i julkampanj",
+        "summary": "Influencern Elin Warn anklagar klädkedjan Gina Tricot för att ha kopierat hennes bildidéer i sin nya julkampanj. Nu ber företaget om ursäkt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gina Tricot accused of plagiarism in Christmas campaign",
+        "summary": "Influencer Elin Warn accuses the clothing chain Gina Tricot of copying her image ideas in its new Christmas campaign. The company now apologises."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:45:55+01:00"
+      }
+    },
     {
       "id": "04d79dcb87b4",
       "schema_version": 1,
@@ -27,6 +53,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T09:31:12+01:00"
+      }
+    },
+    {
+      "id": "d89496b66d2f",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/g9fTGZlO5vSEgfwMTYSiB/pannbiff-med-graeddsas-och-raroerda-lingon",
+      "guid": "g9fTGZlO5vSEgfwMTYSiB",
+      "published_at": "2026-11-26T09:03:22+01:00",
+      "fetched_at": "2026-11-26T09:45:46+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Mat"
+      ],
+      "sv": {
+        "title": "Pannbiff med gräddsås och rårörda lingon",
+        "summary": "Dagens middagstips bjuder på saftiga pannbiffar som får sjuda klart i en krämig gräddsås med dijonsenap och svartvinbärsgelé. Med kokt potatis och rårörda lingon blir det husmanskost när den är som bäst! Se Albin Edbergs recept",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pan-fried beef patties with cream sauce and raw-stirred lingonberries",
+        "summary": "Today's dinner tip features juicy pan-fried beef patties simmered until done in a creamy cream sauce with Dijon mustard and blackcurrant jelly. Served with boiled potatoes and raw-stirred lingonberries, it becomes home cooking at its best! See Albin Edberg's recipe"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:45:55+01:00"
       }
     },
     {
@@ -5622,70 +5677,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T17:15:59+01:00"
-      }
-    },
-    {
-      "id": "536e3fa12ee1",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/hundra-tusen-trad-far-malmos-skonhetspris",
-      "guid": "fffc1725-8007-4e57-b2d5-30deb156496f",
-      "published_at": "2026-11-22T16:15:19+01:00",
-      "fetched_at": "2026-11-22T16:15:45+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/0db30b5c-1a78-4f5f-8da6-c473b7561b56.jpeg?width=600",
-      "sv": {
-        "title": "Hundra tusen träd får Malmös skönhetspris",
-        "summary": "Varje år delar Skönhetsrådet i Malmö ut ett pris till någon som bidragit till en vacker och hållbar stad. På söndagen avslöjades årets vinnare.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "A hundred thousand trees earn Malmö its beauty prize",
-        "summary": "Every year the Beauty Council in Malmö awards a prize to someone who has contributed to a beautiful and sustainable city. On Sunday, this year's winner was announced."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T16:15:48+01:00"
-      }
-    },
-    {
-      "id": "50d6271323dc",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/vastsverige/musbajs-pa-tv-kockens-pizzeria.d40e2b2a-dcdf-551c-8254-41a0e0d9b04b",
-      "guid": "d40e2b2a-dcdf-551c-8254-41a0e0d9b04b",
-      "published_at": "2026-11-22T16:04:31+01:00",
-      "fetched_at": "2026-11-22T16:45:48+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Västsverige",
-        "Tagg: Skadedjur",
-        "Tagg: Restauranger",
-        "Tagg: Lisa Lemke",
-        "Tagg: Falkenberg",
-        "Tagg: Kockar",
-        "Tagg: Möss",
-        "Tagg: fb_x_exkludera"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/6d01e0ec-76a9-3d5f-acd6-71abb0dd4737",
-      "sv": {
-        "title": "Musbajs på tv-kockens pizzeria",
-        "summary": "”Vi gör ett jättearbete, men kommer aldrig kunna stoppa dem”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mouse droppings at TV chef's pizzeria",
-        "summary": "”We are doing a tremendous job, but we will never be able to stop them”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T16:45:53+01:00"
       }
     }
   ]

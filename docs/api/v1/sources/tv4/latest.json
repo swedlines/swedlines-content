@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-26T09:31:17+01:00",
+  "generated_at": "2026-11-26T09:46:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d89496b66d2f",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/g9fTGZlO5vSEgfwMTYSiB/pannbiff-med-graeddsas-och-raroerda-lingon",
+      "guid": "g9fTGZlO5vSEgfwMTYSiB",
+      "published_at": "2026-11-26T09:03:22+01:00",
+      "fetched_at": "2026-11-26T09:45:46+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Mat"
+      ],
+      "sv": {
+        "title": "Pannbiff med gräddsås och rårörda lingon",
+        "summary": "Dagens middagstips bjuder på saftiga pannbiffar som får sjuda klart i en krämig gräddsås med dijonsenap och svartvinbärsgelé. Med kokt potatis och rårörda lingon blir det husmanskost när den är som bäst! Se Albin Edbergs recept",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pan-fried beef patties with cream sauce and raw-stirred lingonberries",
+        "summary": "Today's dinner tip features juicy pan-fried beef patties simmered until done in a creamy cream sauce with Dijon mustard and blackcurrant jelly. Served with boiled potatoes and raw-stirred lingonberries, it becomes home cooking at its best! See Albin Edberg's recipe"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:45:55+01:00"
+      }
+    },
     {
       "id": "eae639be841c",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T08:31:09+01:00"
-      }
-    },
-    {
-      "id": "f6d313f5b272",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/LRUojkEYb9hjOyV6sBXMo/haer-aer-arets-julklapp",
-      "guid": "LRUojkEYb9hjOyV6sBXMo",
-      "published_at": "2026-11-18T06:58:24+01:00",
-      "fetched_at": "2026-11-18T07:01:19+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nyhetsmorgon"
-      ],
-      "sv": {
-        "title": "Här är årets julklapp",
-        "summary": "För att bli årets julklapp ska vissa kriterier uppfyllas. Det handlar om att spegla vår samtid, sälja bra i handeln och även vara något nytt eller ett nyväckt intresse. I år har valet fallit på ”startnumret” – alltså en biljett till ett motionslopp.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Here is this year's Christmas gift",
-        "summary": "For something to become this year's Christmas gift, certain criteria must be met. It is about reflecting our time, selling well in retail and also being something new or a renewed interest. This year the choice has fallen on the “start number” – that is, a ticket to a fun run."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:01:37+01:00"
       }
     }
   ]

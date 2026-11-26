@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-26T09:31:17+01:00",
+  "generated_at": "2026-11-26T09:46:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8287b490fc07",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/kMJkBA/vem-bar-ekonomin-nar-vi-blir-gamla",
+      "guid": "https://www.svd.se/a/kMJkBA/vem-bar-ekonomin-nar-vi-blir-gamla?utm_medium=rss",
+      "published_at": "2026-11-26T09:30:00+01:00",
+      "fetched_at": "2026-11-26T09:45:46+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/5c087a75-8c09-3de1-9725-3504b2c7b2c9?format=auto&s=ff132da9bf990dc3d4c52ce4dbcba4f8ccb68e3f&w=1000",
+      "sv": {
+        "title": "Vem bär ekonomin när vi blir gamla?",
+        "summary": "Vykortet | Barcelona",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Who bears the economy when we grow old?",
+        "summary": "Postcard | Barcelona"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T09:45:55+01:00"
+      }
+    },
     {
       "id": "54c63f048c32",
       "schema_version": 1,
@@ -5499,32 +5526,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T20:15:51+01:00"
-      }
-    },
-    {
-      "id": "bdbb4d85883e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/elakuten",
-      "guid": "18023747-cecf-4759-8b99-91bcf7723f2a",
-      "published_at": "2026-11-16T17:00:00+01:00",
-      "fetched_at": "2026-11-16T17:01:15+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Elakuten",
-        "summary": "Elpriserna skjuter i höjden och så även förvirringen. Vems fel är det? Hur ska det lösas? Sydsvenskans el-akut är din guide i vintermörkret. Kommentera med dina frågor, tips och tricks eller funderingar. Du kan också mejla elakuten@sydsvenskan.se.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Elakuten",
-        "summary": "Electricity prices are soaring, and so is the confusion. Whose fault is it? How can it be solved? Sydsvenskan's electricity emergency desk is your guide through the winter darkness. Comment with your questions, tips and tricks or thoughts. You can also email elakuten@sydsvenskan.se."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T17:01:20+01:00"
       }
     }
   ]
