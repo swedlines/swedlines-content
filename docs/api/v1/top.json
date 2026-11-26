@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T07:15:58+01:00",
-  "count": 24,
+  "generated_at": "2026-11-26T07:31:09+01:00",
+  "count": 23,
   "stories": [
     {
       "id": "bca5b56324c1",
@@ -622,6 +622,82 @@
       ]
     },
     {
+      "id": "7217c5420673",
+      "source_count": 3,
+      "sources": [
+        "di",
+        "sr",
+        "svd"
+      ],
+      "first_published_at": "2026-11-25T21:09:20+01:00",
+      "last_published_at": "2026-11-26T07:26:03+01:00",
+      "lead": {
+        "id": "7217c5420673",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/space-x-far-skjuta-upp-en-miljon-satelliter",
+        "guid": "ae43ec8e-38bb-45f5-8b56-4929f391f154",
+        "published_at": "2026-11-25T21:09:20+01:00",
+        "fetched_at": "2026-11-25T21:15:50+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/9ee108eb-67c7-42d3-b4e1-d009ed85fada.jpeg?width=600",
+        "sv": {
+          "title": "Space X får skjuta upp en miljon satelliter",
+          "summary": "Space X har fått tillstånd att skjuta upp en miljon satelliter för datacenter i omloppsbana runt jorden.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Space X gets to launch one million satellites",
+          "summary": "Space X has received permission to launch one million satellites for data centres in orbit around the Earth."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-25T21:16:02+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "6fd79cce1027",
+          "source": "svd",
+          "url": "https://www.svd.se/a/ARdeEx/musks-drom-en-miljon-ai-satelliter",
+          "published_at": "2026-11-26T07:26:03+01:00",
+          "sv": {
+            "title": "Musks dröm: En miljon AI-satelliter"
+          },
+          "en": {
+            "title": "Musk's dream: One million AI satellites"
+          }
+        },
+        {
+          "id": "429e54e0ce12",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9350317",
+          "published_at": "2026-11-25T22:15:00+01:00",
+          "sv": {
+            "title": "Elon Musks Space X får skjuta upp en miljon satelliter"
+          },
+          "en": {
+            "title": "Elon Musk's Space X allowed to launch one million satellites"
+          }
+        },
+        {
+          "id": "7217c5420673",
+          "source": "di",
+          "url": "https://www.di.se/live/space-x-far-skjuta-upp-en-miljon-satelliter",
+          "published_at": "2026-11-25T21:09:20+01:00",
+          "sv": {
+            "title": "Space X får skjuta upp en miljon satelliter"
+          },
+          "en": {
+            "title": "Space X gets to launch one million satellites"
+          }
+        }
+      ]
+    },
+    {
       "id": "2648f974c9a0",
       "source_count": 3,
       "sources": [
@@ -841,93 +917,6 @@
           },
           "en": {
             "title": "Migrants overwhelm small Canary island"
-          }
-        }
-      ]
-    },
-    {
-      "id": "86e0fb463739",
-      "source_count": 3,
-      "sources": [
-        "expressen",
-        "svd",
-        "di"
-      ],
-      "first_published_at": "2026-11-24T22:30:48+01:00",
-      "last_published_at": "2026-11-25T19:17:12+01:00",
-      "lead": {
-        "id": "86e0fb463739",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia",
-        "guid": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia/",
-        "published_at": "2026-11-24T22:30:48+01:00",
-        "fetched_at": "2026-11-24T22:41:51+01:00",
-        "category": "economy",
-        "sv": {
-          "title": "Trumps stora vinst på Jensen Huangs comeback på Nvidia",
-          "summary": "Donald Trump såg till Jensen Huang fick tillbaka jobbet som Nvidia vd. Enligt The Guardian hade han 150 miljoner anledningar att hjälpa till. – Jag övertalade dem, säger Trump.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Trump's big win on Jensen Huang's comeback at Nvidia",
-          "summary": "Donald Trump made sure Jensen Huang got his job back as Nvidia CEO. According to The Guardian, he had 150 million reasons to help. – I persuaded them, says Trump."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-24T22:41:56+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "7fec3fd6b2ac",
-          "source": "di",
-          "url": "https://www.di.se/live/nvidia-pa-jakt-efter-nya-kunder-efter-kina-restriktioner",
-          "published_at": "2026-11-25T19:17:12+01:00",
-          "sv": {
-            "title": "Nvidia på jakt efter nya kunder efter Kina-restriktioner"
-          },
-          "en": {
-            "title": "Nvidia hunts for new customers after China restrictions"
-          }
-        },
-        {
-          "id": "e086a7441b8e",
-          "source": "di",
-          "url": "https://www.di.se/live/experten-om-nvidia-solklart-tecken-pa-korruption",
-          "published_at": "2026-11-25T08:13:24+01:00",
-          "sv": {
-            "title": "Experten om Nvidia: ”Solklart tecken på korruption”"
-          },
-          "en": {
-            "title": "Expert on Nvidia: \"Clear sign of corruption\""
-          }
-        },
-        {
-          "id": "d32276d69f5f",
-          "source": "svd",
-          "url": "https://www.svd.se/a/4EqPOg/nvidia-solklart-tecken-pa-korruption",
-          "published_at": "2026-11-25T08:04:03+01:00",
-          "sv": {
-            "title": "Nvidia – ”Solklart tecken på korruption”"
-          },
-          "en": {
-            "title": "Nvidia – \"Clear sign of corruption\""
-          }
-        },
-        {
-          "id": "86e0fb463739",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia",
-          "published_at": "2026-11-24T22:30:48+01:00",
-          "sv": {
-            "title": "Trumps stora vinst på Jensen Huangs comeback på Nvidia"
-          },
-          "en": {
-            "title": "Trump's big win on Jensen Huang's comeback at Nvidia"
           }
         }
       ]
@@ -1241,69 +1230,6 @@
           },
           "en": {
             "title": "Rift between Centre Party top figures ahead of route choice: ”Waste”"
-          }
-        }
-      ]
-    },
-    {
-      "id": "7217c5420673",
-      "source_count": 2,
-      "sources": [
-        "di",
-        "sr"
-      ],
-      "first_published_at": "2026-11-25T21:09:20+01:00",
-      "last_published_at": "2026-11-25T22:15:00+01:00",
-      "lead": {
-        "id": "7217c5420673",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/space-x-far-skjuta-upp-en-miljon-satelliter",
-        "guid": "ae43ec8e-38bb-45f5-8b56-4929f391f154",
-        "published_at": "2026-11-25T21:09:20+01:00",
-        "fetched_at": "2026-11-25T21:15:50+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/9ee108eb-67c7-42d3-b4e1-d009ed85fada.jpeg?width=600",
-        "sv": {
-          "title": "Space X får skjuta upp en miljon satelliter",
-          "summary": "Space X har fått tillstånd att skjuta upp en miljon satelliter för datacenter i omloppsbana runt jorden.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Space X gets to launch one million satellites",
-          "summary": "Space X has received permission to launch one million satellites for data centres in orbit around the Earth."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-25T21:16:02+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "429e54e0ce12",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9350317",
-          "published_at": "2026-11-25T22:15:00+01:00",
-          "sv": {
-            "title": "Elon Musks Space X får skjuta upp en miljon satelliter"
-          },
-          "en": {
-            "title": "Elon Musk's Space X allowed to launch one million satellites"
-          }
-        },
-        {
-          "id": "7217c5420673",
-          "source": "di",
-          "url": "https://www.di.se/live/space-x-far-skjuta-upp-en-miljon-satelliter",
-          "published_at": "2026-11-25T21:09:20+01:00",
-          "sv": {
-            "title": "Space X får skjuta upp en miljon satelliter"
-          },
-          "en": {
-            "title": "Space X gets to launch one million satellites"
           }
         }
       ]

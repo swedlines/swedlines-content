@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T07:15:58+01:00",
+  "generated_at": "2026-11-26T07:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "04f9801243d4",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350373",
+      "guid": "rss:sr.se/article/9350373",
+      "published_at": "2026-11-26T07:22:00+01:00",
+      "fetched_at": "2026-11-26T07:30:58+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Minst två döda i Charkiv efter ryska attacker",
+        "summary": "Ryssland har riktat nya attacker mot Ukraina under natten. I storstaden Charkiv har ett flerfamiljshus träffats av en drönare och två personer har dödats, uppger regionens guvernör.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "At least two dead in Kharkiv after Russian attacks",
+        "summary": "Russia has launched new attacks against Ukraine overnight. In the city of Kharkiv, a multi-family building was hit by a drone and two people have been killed, the regional governor says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T07:31:07+01:00"
+      }
+    },
     {
       "id": "e71c2929fab6",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T15:31:09+01:00"
-      }
-    },
-    {
-      "id": "5ed71c48f6da",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347224",
-      "guid": "rss:sr.se/article/9347224",
-      "published_at": "2026-11-20T14:24:00+01:00",
-      "fetched_at": "2026-11-20T14:30:57+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Folkmordsdom mot Myanmar väcker debatt i Israel",
-        "summary": "I Israel har Internationella brottmålsdomstolens dom att Myanmar begått folkmord mot rohingyerna väckt diskussion. Politiker, kommentatorer och jurister i Israel befarar att den kan få betydelse för Sydafrikas folkmordsåtal mot Israel för krigföringen i Gaza.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Genocide ruling against Myanmar sparks debate in Israel",
-        "summary": "In Israel, the International Court of Justice's ruling that Myanmar committed genocide against the Rohingya has sparked discussion. Politicians, commentators and lawyers in Israel fear it could affect South Africa's genocide case against Israel over the fighting in Gaza."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T14:31:08+01:00"
       }
     }
   ]

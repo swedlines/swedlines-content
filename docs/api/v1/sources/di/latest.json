@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T07:15:58+01:00",
+  "generated_at": "2026-11-26T07:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4bcde37e4fe8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/bitcoinbolagets-vinst-100-000-kronor",
+      "guid": "e915a3c5-8108-404e-b7e9-369e45d90582",
+      "published_at": "2026-11-26T07:22:53+01:00",
+      "fetched_at": "2026-11-26T07:31:01+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Bitcoinbolagets vinst: 100.000 kronor",
+        "summary": "K33, verksamt inom digitala tillgångar, redovisar ett ebitda-resultat om 0,1 miljon kronor för det tredje kvartalet 2026, jämfört med 2,1 miljoner kronor under motsvarande kvartal i fjol och upp från minus 4,6 miljoner under andra kvartalet 2026.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bitcoin company's profit: SEK 100,000",
+        "summary": "K33, which operates in digital assets, reports EBITDA of SEK 0.1 million for the third quarter of 2026, compared with SEK 2.1 million in the same quarter last year and up from minus SEK 4.6 million in the second quarter of 2026."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-26T07:31:07+01:00"
+      }
+    },
     {
       "id": "8fb750af1eec",
       "schema_version": 1,
@@ -5307,33 +5333,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T18:15:57+01:00"
-      }
-    },
-    {
-      "id": "0342affb4212",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/xi-rensar-ut-potentiell-eftertradare-utreds",
-      "guid": "ea463d1b-2f79-4463-8312-8d8e8135bd80",
-      "published_at": "2026-11-24T17:47:21+01:00",
-      "fetched_at": "2026-11-24T18:01:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3958fa48-ba8b-4148-8381-31fcf064ed91.jpeg?width=600",
-      "sv": {
-        "title": "Xi rensar ut – potentiell efterträdare utreds",
-        "summary": "Kinas ledare Xi Jinping har slagit till mot en fjärde medlem av kommunistpartiets politbyrå på mindre än två år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Xi purges – potential successor under investigation",
-        "summary": "China's leader Xi Jinping has moved against a fourth member of the Communist Party's Politburo in less than two years."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T18:01:28+01:00"
       }
     }
   ]
