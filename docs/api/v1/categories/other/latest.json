@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T10:31:10+01:00",
+  "generated_at": "2026-11-27T10:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "62f01c8f6525",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/chatt-vad-hander-efter-cs-hogersvang",
+      "guid": "https://www.dn.se/sverige/chatt-vad-hander-efter-cs-hogersvang/",
+      "published_at": "2026-11-27T10:38:12+01:00",
+      "fetched_at": "2026-11-27T10:45:44+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/9cfcb8fc-f5a5-4c54-a0e2-a43eb246ec45.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Chatt: Vad händer efter C:s högersväng?",
+        "summary": "Centerpartiet blickar högerut och väljer att ingå i en regering ledd av Ulf Kristersson (M). Vad betyder det? Kommer budgeten att gå igenom? Hur ska samarbetet med SD se ut? Kommer Magdalena Andersson att sitta kvar? Ställ dina frågor till DN:s politiske kommentator Tomas Ramberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Live chat: What happens after C's right turn?",
+        "summary": "The Centre Party is turning right and chooses to join a government led by Ulf Kristersson (M). What does it mean? Will the budget pass? What will cooperation with the SD look like? Will Magdalena Andersson stay on? Put your questions to DN's political commentator Tomas Ramberg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:45:52+01:00"
+      }
+    },
     {
       "id": "7c4026f386bf",
       "schema_version": 1,
@@ -5501,35 +5528,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T21:01:25+01:00"
-      }
-    },
-    {
-      "id": "3c6a0e54d1e5",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/7CR7287HQm5RClOn9TJsZS/soeren-bestaellde-jaetteslaede-till-jul-fick-en-pytteliten-oeverraskning",
-      "guid": "7CR7287HQm5RClOn9TJsZS",
-      "published_at": "2026-11-17T20:41:19+01:00",
-      "fetched_at": "2026-11-17T21:16:04+01:00",
-      "category": "other",
-      "feed_categories": [
-        "Efter fem"
-      ],
-      "sv": {
-        "title": "Sören beställde jättesläde till jul – fick en pytteliten överraskning",
-        "summary": "Sören Johansson från Levene föll för en Facebookannons som visade en gigantisk, glittrande tomtesläde. Han beställde två exemplar från ett kinesiskt företag, ett till sig själv och ett till sin bästa vän. Efter flera månaders väntan kom leveransen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sören ordered a giant sleigh for Christmas – got a tiny surprise",
-        "summary": "Sören Johansson from Levene fell for a Facebook ad showing a gigantic, glittering Santa sleigh. He ordered two copies from a Chinese company, one for himself and one for his best friend. After several months of waiting, the delivery arrived."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T21:16:10+01:00"
       }
     }
   ]

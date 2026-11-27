@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-27T10:31:10+01:00",
+  "generated_at": "2026-11-27T10:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3107ebe0a91d",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8228019a-a6a7-4b32-b931-f53a276be637",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8228019a-a6a7-4b32-b931-f53a276be637",
+      "published_at": "2026-11-27T10:39:49+01:00",
+      "fetched_at": "2026-11-27T10:45:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Kommer rösta nej",
+        "summary": "Birgitta Ohlssons besked",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Will vote no",
+        "summary": "Birgitta Ohlsson's announcement"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:45:52+01:00"
+      }
+    },
+    {
+      "id": "01bb294491f2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2811d372-855d-4bae-895c-6e0377f8198b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2811d372-855d-4bae-895c-6e0377f8198b",
+      "published_at": "2026-11-27T10:35:48+01:00",
+      "fetched_at": "2026-11-27T10:45:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Anderssons ord om C",
+        "summary": "”Låt mig vara glasklar”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Andersson's words on the Centre Party",
+        "summary": "\"Let me be crystal clear\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:45:52+01:00"
+      }
+    },
     {
       "id": "c01b34e328ae",
       "schema_version": 1,
@@ -5144,58 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T08:45:53+01:00"
-      }
-    },
-    {
-      "id": "f99ff749c8a2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7035a9f3-0b2c-4121-8f27-70aad18e270f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7035a9f3-0b2c-4121-8f27-70aad18e270f",
-      "published_at": "2026-11-24T08:02:58+01:00",
-      "fetched_at": "2026-11-24T08:15:46+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Häst har frusit fast",
-        "summary": "Räddningstjänsten på plats på åker",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Horse has frozen fast",
-        "summary": "Rescue service on site at field"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T08:15:52+01:00"
-      }
-    },
-    {
-      "id": "6a133141aba4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f10cd898-c316-42a5-8f44-7cd8fdc8752e",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f10cd898-c316-42a5-8f44-7cd8fdc8752e",
-      "published_at": "2026-11-24T07:34:56+01:00",
-      "fetched_at": "2026-11-24T07:45:43+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "M ökar i regeringskaoset",
-        "summary": "Nya glädjesiffror för Kristersson i Demoskop",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "M rises amid government chaos",
-        "summary": "New good news for Kristersson in Demoskop"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T07:45:50+01:00"
       }
     }
   ]

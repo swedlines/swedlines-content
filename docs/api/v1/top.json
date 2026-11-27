@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T10:31:10+01:00",
+  "generated_at": "2026-11-27T10:45:58+01:00",
   "count": 30,
   "stories": [
     {
@@ -1480,6 +1480,93 @@
       ]
     },
     {
+      "id": "7251854c98aa",
+      "source_count": 2,
+      "sources": [
+        "dn",
+        "svt"
+      ],
+      "first_published_at": "2026-11-27T08:37:25+01:00",
+      "last_published_at": "2026-11-27T10:38:12+01:00",
+      "lead": {
+        "id": "7251854c98aa",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/sverige/efter-cs-vagval-hogerut-det-hander-nu",
+        "guid": "https://www.dn.se/sverige/efter-cs-vagval-hogerut-det-hander-nu/",
+        "published_at": "2026-11-27T08:37:25+01:00",
+        "fetched_at": "2026-11-27T08:45:44+01:00",
+        "category": "politics",
+        "image_url": "https://static.bonniernews.se/ba/1683e7cf-a6b3-49ab-8867-3c9132346ecc.jpeg?io=1&width=1000",
+        "sv": {
+          "title": "Efter C:s vägval högerut: Det händer nu",
+          "summary": "Centerpartiets partistyrelse har valt att gå högerut i regeringsfrågan, men för att få tyngd bakom beslutet har partiet valt att under helgen kalla in det så kallade förtroenderådet. Så här ser den närmaste tiden ut för Sveriges politiska ledning.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "After C's rightward turn: What happens now",
+          "summary": "The Centre Party's board has chosen to move to the right on the government question, but to give the decision weight the party has chosen to convene the so-called trust council over the weekend. Here is what the coming period looks like for Sweden's political leadership."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T08:46:05+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "62f01c8f6525",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/chatt-vad-hander-efter-cs-hogersvang",
+          "published_at": "2026-11-27T10:38:12+01:00",
+          "sv": {
+            "title": "Chatt: Vad händer efter C:s högersväng?"
+          },
+          "en": {
+            "title": "Live chat: What happens after C's right turn?"
+          }
+        },
+        {
+          "id": "bded9a1bef7f",
+          "source": "dn",
+          "url": "https://www.dn.se/kultur/johanna-franden-bonderna-kunde-bara-titta-pa-nar-centern-sankte-helror-pa-stureplan",
+          "published_at": "2026-11-27T10:02:36+01:00",
+          "sv": {
+            "title": "Johanna Frändén: Bönderna kunde bara titta på när Centern sänkte helrör på Stureplan"
+          },
+          "en": {
+            "title": "Johanna Frändén: Farmers could only watch as the Centre Party sank into the city-centre at Stureplan"
+          }
+        },
+        {
+          "id": "3ec65032fd86",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/ost/centerpartister-efter-hogersvangen-ledsen-och-besviken",
+          "published_at": "2026-11-27T09:32:10+01:00",
+          "sv": {
+            "title": "Centerpartister efter högersvängen: ”Ledsen och besviken”"
+          },
+          "en": {
+            "title": "Centre Party members after the rightward turn: \"Sad and disappointed\""
+          }
+        },
+        {
+          "id": "7251854c98aa",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/efter-cs-vagval-hogerut-det-hander-nu",
+          "published_at": "2026-11-27T08:37:25+01:00",
+          "sv": {
+            "title": "Efter C:s vägval högerut: Det händer nu"
+          },
+          "en": {
+            "title": "After C's rightward turn: What happens now"
+          }
+        }
+      ]
+    },
+    {
       "id": "4ca99c8467fe",
       "source_count": 2,
       "sources": [
@@ -1538,81 +1625,6 @@
           },
           "en": {
             "title": "Reports: North Korea halts support for Russia"
-          }
-        }
-      ]
-    },
-    {
-      "id": "7251854c98aa",
-      "source_count": 2,
-      "sources": [
-        "dn",
-        "svt"
-      ],
-      "first_published_at": "2026-11-27T08:37:25+01:00",
-      "last_published_at": "2026-11-27T10:02:36+01:00",
-      "lead": {
-        "id": "7251854c98aa",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/sverige/efter-cs-vagval-hogerut-det-hander-nu",
-        "guid": "https://www.dn.se/sverige/efter-cs-vagval-hogerut-det-hander-nu/",
-        "published_at": "2026-11-27T08:37:25+01:00",
-        "fetched_at": "2026-11-27T08:45:44+01:00",
-        "category": "politics",
-        "image_url": "https://static.bonniernews.se/ba/1683e7cf-a6b3-49ab-8867-3c9132346ecc.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Efter C:s vägval högerut: Det händer nu",
-          "summary": "Centerpartiets partistyrelse har valt att gå högerut i regeringsfrågan, men för att få tyngd bakom beslutet har partiet valt att under helgen kalla in det så kallade förtroenderådet. Så här ser den närmaste tiden ut för Sveriges politiska ledning.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "After C's rightward turn: What happens now",
-          "summary": "The Centre Party's board has chosen to move to the right on the government question, but to give the decision weight the party has chosen to convene the so-called trust council over the weekend. Here is what the coming period looks like for Sweden's political leadership."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T08:46:05+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "bded9a1bef7f",
-          "source": "dn",
-          "url": "https://www.dn.se/kultur/johanna-franden-bonderna-kunde-bara-titta-pa-nar-centern-sankte-helror-pa-stureplan",
-          "published_at": "2026-11-27T10:02:36+01:00",
-          "sv": {
-            "title": "Johanna Frändén: Bönderna kunde bara titta på när Centern sänkte helrör på Stureplan"
-          },
-          "en": {
-            "title": "Johanna Frändén: Farmers could only watch as the Centre Party sank into the city-centre at Stureplan"
-          }
-        },
-        {
-          "id": "3ec65032fd86",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/ost/centerpartister-efter-hogersvangen-ledsen-och-besviken",
-          "published_at": "2026-11-27T09:32:10+01:00",
-          "sv": {
-            "title": "Centerpartister efter högersvängen: ”Ledsen och besviken”"
-          },
-          "en": {
-            "title": "Centre Party members after the rightward turn: \"Sad and disappointed\""
-          }
-        },
-        {
-          "id": "7251854c98aa",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/efter-cs-vagval-hogerut-det-hander-nu",
-          "published_at": "2026-11-27T08:37:25+01:00",
-          "sv": {
-            "title": "Efter C:s vägval högerut: Det händer nu"
-          },
-          "en": {
-            "title": "After C's rightward turn: What happens now"
           }
         }
       ]

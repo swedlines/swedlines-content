@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T10:31:10+01:00",
+  "generated_at": "2026-11-27T10:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4b199d1acb11",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9348977",
+      "guid": "rss:sr.se/article/9348977",
+      "published_at": "2026-11-27T10:30:00+01:00",
+      "fetched_at": "2026-11-27T10:45:43+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "M-oppositionsråd rasar över SHIS oskäliga hyror",
+        "summary": "Ekots granskning av överhyrorna hos Stockholms stads bostadsstiftelse SHIS väcker nu skarp kritik från Moderaternas oppositionsråd i Stockholm, Christofer Fjellner.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Moderate opposition commissioner fumes over SHIS's unreasonable rents",
+        "summary": "Ekot's investigation into excessive rents at Stockholm city's housing foundation SHIS is now drawing sharp criticism from Moderate opposition commissioner in Stockholm, Christofer Fjellner."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:45:52+01:00"
+      }
+    },
     {
       "id": "14e336abec15",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T13:01:22+01:00"
-      }
-    },
-    {
-      "id": "8389ba21a310",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347770",
-      "guid": "rss:sr.se/article/9347770",
-      "published_at": "2026-11-22T12:40:00+01:00",
-      "fetched_at": "2026-11-22T12:45:43+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Risken vid extraval: Hybridattacker från främmande makt",
-        "summary": "Om det blir ett extraval i Sverige kan främmande makt utföra fler hybridattacker, exempelvis genom att sprida desinformation i sociala medier. Svenska myndigheter måste då starta upp förebyggande åtgärder mot valpåverkan igen, säger Magnus Hjort, generaldirektör vid Myndigheten för psykologiskt…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Risk of snap election: Hybrid attacks from foreign powers",
-        "summary": "If there is a snap election in Sweden, foreign powers could carry out more hybrid attacks, for example by spreading disinformation on social media. Swedish authorities would then have to start preventive measures against election interference again, says Magnus Hjort, Director-General of the Psychological Defence Agency…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T12:45:52+01:00"
       }
     }
   ]
