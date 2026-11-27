@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:45:58+01:00",
+  "generated_at": "2026-11-27T11:46:29+01:00",
   "count": 30,
   "stories": [
     {
@@ -1568,6 +1568,68 @@
       ]
     },
     {
+      "id": "145c024c0e2d",
+      "source_count": 2,
+      "sources": [
+        "sydsvenskan",
+        "dn"
+      ],
+      "first_published_at": "2026-11-27T11:28:13+01:00",
+      "last_published_at": "2026-11-27T11:45:42+01:00",
+      "lead": {
+        "id": "145c024c0e2d",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/sport/andersson-vann-vc-premiaren-svensk-trippel",
+        "guid": "88b93a0d-eb8d-455b-88bd-b6d392a3f851",
+        "published_at": "2026-11-27T11:28:13+01:00",
+        "fetched_at": "2026-11-27T11:31:05+01:00",
+        "category": "sports",
+        "sv": {
+          "title": "Andersson vann VC-premiären – svensk trippel",
+          "summary": "Ebba Andersson vann längdskidåkarnas världscuppremiär i Ruka. Tvåan Linn Svahn och trean Frida Karlsson ordnade en svensk trippel i det klassiska milloppet – och snuvade ryska fyran Natalja Terentjeva på en pallplats.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Andersson wins World Cup opener – Swedish triple",
+          "summary": "Ebba Andersson won the cross-country skiers' World Cup opener in Ruka. Runner-up Linn Svahn and third-placed Frida Karlsson completed a Swedish triple in the classic distance – and pipped Russian fourth-placed Natalja Terentjeva to a podium place."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T11:31:21+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "d14581ee597f",
+          "source": "dn",
+          "url": "https://www.dn.se/sport/svenska-premiarsuccen-trippel-i-ruka",
+          "published_at": "2026-11-27T11:45:42+01:00",
+          "sv": {
+            "title": "Svenska premiärsuccén – trippel i Ruka"
+          },
+          "en": {
+            "title": "Swedish success continues – triple in Ruka"
+          }
+        },
+        {
+          "id": "145c024c0e2d",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/andersson-vann-vc-premiaren-svensk-trippel",
+          "published_at": "2026-11-27T11:28:13+01:00",
+          "sv": {
+            "title": "Andersson vann VC-premiären – svensk trippel"
+          },
+          "en": {
+            "title": "Andersson wins World Cup opener – Swedish triple"
+          }
+        }
+      ]
+    },
+    {
       "id": "3aca2bf70ab4",
       "source_count": 2,
       "sources": [
@@ -2493,68 +2555,6 @@
           },
           "en": {
             "title": "Was the climate summit in Turkey a fiasco?"
-          }
-        }
-      ]
-    },
-    {
-      "id": "051f6d59dca2",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-27T01:07:04+01:00",
-      "last_published_at": "2026-11-27T01:07:04+01:00",
-      "lead": {
-        "id": "051f6d59dca2",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/Pv9WyR/flera-doda-i-terrorattack-i-niger",
-        "guid": "https://www.svd.se/a/Pv9WyR/flera-doda-i-terrorattack-i-niger?utm_medium=rss",
-        "published_at": "2026-11-27T01:07:04+01:00",
-        "fetched_at": "2026-11-27T01:15:44+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Flera döda i terrorattack i Niger",
-          "summary": "Minst 13 personer ur Nigers nationalgarde dödades och ytterligare 20 skadades i en ”terrorattack” i…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Several dead in terror attack in Niger",
-          "summary": "At least 13 members of Niger's National Guard were killed and another 20 injured in a “terror attack” in…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T01:15:51+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "800b67345034",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/nLa5wa/flera-doda-i-terrorattack-i-niger",
-          "published_at": "2026-11-27T01:07:04+01:00",
-          "sv": {
-            "title": "Flera döda i terrorattack i Niger"
-          },
-          "en": {
-            "title": "Several dead in terror attack in Niger"
-          }
-        },
-        {
-          "id": "051f6d59dca2",
-          "source": "svd",
-          "url": "https://www.svd.se/a/Pv9WyR/flera-doda-i-terrorattack-i-niger",
-          "published_at": "2026-11-27T01:07:04+01:00",
-          "sv": {
-            "title": "Flera döda i terrorattack i Niger"
-          },
-          "en": {
-            "title": "Several dead in terror attack in Niger"
           }
         }
       ]
