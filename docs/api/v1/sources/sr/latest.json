@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T04:01:21+01:00",
+  "generated_at": "2026-11-27T04:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5ab566e46498",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351197",
+      "guid": "rss:sr.se/article/9351197",
+      "published_at": "2026-11-27T04:01:00+01:00",
+      "fetched_at": "2026-11-27T04:15:43+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-sprickan – ”Riskerar att bryta isär partiet”",
+        "summary": "Det kommer hård kritik inifrån Centerpartiet mot ledningens nya linje att partiet bör ingå i en regering ledd av Ulf Kristersson. ”Det går ju rakt emot det som vi lovade väljarna i valrörelsen, att SD inte ska få inflytande.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "C-split – ”Risks splitting the party”",
+        "summary": "Harsh criticism is coming from within the Centre Party against the leadership's new line that the party should join a government led by Ulf Kristersson (M). ”It goes straight against what we promised voters in the election campaign, that the SD should not gain influence."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T04:15:47+01:00"
+      }
+    },
     {
       "id": "ed6fd5443ea5",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T17:01:20+01:00"
-      }
-    },
-    {
-      "id": "a76df3d00273",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347702",
-      "guid": "rss:sr.se/article/9347702",
-      "published_at": "2026-11-21T16:43:00+01:00",
-      "fetched_at": "2026-11-21T16:45:42+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Svenska försvaret om ryska kränkningen: ”En pågående insats”",
-        "summary": "En rysk helikopter misstänks under lördagen ha kränkt det finska luftrummet, enligt Finlands försvarsdepartement. Detta efter att ett ryskt lastfartyg attackerats i Finska viken under natten till lördagen, vilket SVT Nyheter var först med att rapportera om.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Swedish military on Russian violation: “An ongoing operation”",
-        "summary": "A Russian helicopter is suspected of having violated Finnish airspace on Saturday, according to the Finnish Ministry of Defence. This follows an attack on a Russian cargo ship in the Gulf of Finland during the night to Saturday, which SVT Nyheter was first to report."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T16:45:50+01:00"
       }
     }
   ]

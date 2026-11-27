@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T04:01:21+01:00",
+  "generated_at": "2026-11-27T04:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5ab566e46498",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351197",
+      "guid": "rss:sr.se/article/9351197",
+      "published_at": "2026-11-27T04:01:00+01:00",
+      "fetched_at": "2026-11-27T04:15:43+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-sprickan – ”Riskerar att bryta isär partiet”",
+        "summary": "Det kommer hård kritik inifrån Centerpartiet mot ledningens nya linje att partiet bör ingå i en regering ledd av Ulf Kristersson. ”Det går ju rakt emot det som vi lovade väljarna i valrörelsen, att SD inte ska få inflytande.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "C-split – ”Risks splitting the party”",
+        "summary": "Harsh criticism is coming from within the Centre Party against the leadership's new line that the party should join a government led by Ulf Kristersson (M). ”It goes straight against what we promised voters in the election campaign, that the SD should not gain influence."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T04:15:47+01:00"
+      }
+    },
     {
       "id": "8ec34306d9a8",
       "schema_version": 1,
@@ -5369,33 +5395,6 @@
       "en": {
         "title": "Counter-proposal being prepared in the Centre Party: “The leadership is trying to stage a coup”",
         "summary": "The Centre Party leadership gives the party two options: move right toward Ulf Kristersson (M) – or face a risky snap election. Now the faction that does not want to cooperate with the Sweden Democrats (SD) is preparing a counter-proposal ahead of the final decision, DN has learned."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:45:48+01:00"
-      }
-    },
-    {
-      "id": "5c76c34880f2",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/borgerlig-fyrklover-skulle-ge-sd-en-genvag-till-rosenbad",
-      "guid": "https://www.dn.se/insandare/borgerlig-fyrklover-skulle-ge-sd-en-genvag-till-rosenbad/",
-      "published_at": "2026-11-25T10:41:26+01:00",
-      "fetched_at": "2026-11-25T10:45:41+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/f641f9b5-dad6-422e-9952-6f660cfb5adf.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Borgerlig fyrklöver skulle ge SD en genväg till Rosenbad",
-        "summary": "INSÄNDARE. En alliansregering i minoritet är dömd att haverera under sina egna motsättningar. Den som röstar fram ett så bräckligt regeringsunderlag stoppar inte SD – man ger dem nycklarna till Rosenbad, skriver Kenneth Nilsson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letter. Bourgeois four-party alliance would give SD a shortcut to Rosenbad",
-        "summary": "LETTER. A minority Alliance government is doomed to collapse under its own internal tensions. Those who vote for such a fragile government base do not stop the Sweden Democrats – they hand them the keys to Rosenbad, writes Kenneth Nilsson."
       },
       "translation": {
         "status": "done",
