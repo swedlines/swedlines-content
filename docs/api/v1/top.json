@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T06:45:59+01:00",
+  "generated_at": "2026-11-27T07:01:31+01:00",
   "count": 29,
   "stories": [
     {
@@ -463,6 +463,120 @@
       ]
     },
     {
+      "id": "619ebfd7e394",
+      "source_count": 5,
+      "sources": [
+        "aftonbladet",
+        "di",
+        "expressen",
+        "svd",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-27T05:42:54+01:00",
+      "last_published_at": "2026-11-27T06:53:14+01:00",
+      "lead": {
+        "id": "619ebfd7e394",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/qOLGmL/massling-har-upptackts-pa-ett-flyg-fran-bangkok-till-stockholm-nu-varnar-fhm",
+        "guid": "https://www.aftonbladet.se/nyheter/a/qOLGmL/massling-har-upptackts-pa-ett-flyg-fran-bangkok-till-stockholm-nu-varnar-fhm?utm_medium=rss",
+        "published_at": "2026-11-27T05:42:54+01:00",
+        "fetched_at": "2026-11-27T05:45:43+01:00",
+        "category": "sweden",
+        "image_url": "https://akamai.vgc.no/v2/images/ce6328fc-7615-3151-bd8f-3cd209bd7475?format=auto&s=7f2e5cd02b297979a629885056b434203e2dddd2&w=1000",
+        "sv": {
+          "title": "Mässlingsutbrott på Thailandsflyg: ”Inte kul att bli sjuk till jul”",
+          "summary": "Flygbolaget och FHM varnar",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Measles outbreak on Thailand flight: “Not fun to get sick by Christmas”",
+          "summary": "The airline and the Public Health Agency warn"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T05:46:02+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "71c4dd188d8a",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/varningen-massling-upptackt-pa-flyg-fran-thailand",
+          "published_at": "2026-11-27T06:53:14+01:00",
+          "sv": {
+            "title": "Varningen: Mässling upptäckt på flyg från Thailand"
+          },
+          "en": {
+            "title": "Warning: Measles detected on flight from Thailand"
+          }
+        },
+        {
+          "id": "9cd5d8499fc3",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80362",
+          "published_at": "2026-11-27T06:14:24+01:00",
+          "sv": {
+            "title": "Misstänkt mässling på flyg till Stockholm"
+          },
+          "en": {
+            "title": "Suspected measles on flight to Stockholm"
+          }
+        },
+        {
+          "id": "431de3b76397",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/varningen-massling-upptack-pa-flyg-till-thailand",
+          "published_at": "2026-11-27T06:07:20+01:00",
+          "sv": {
+            "title": "Varningen: Mässling upptäck på flyg till Thailand"
+          },
+          "en": {
+            "title": "Warning: Measles detected on flight to Thailand"
+          }
+        },
+        {
+          "id": "deefea55adca",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/varningen-massling-upptack-pa-flyg-till-thailand",
+          "published_at": "2026-11-27T06:05:18+01:00",
+          "sv": {
+            "title": "Varningen: Mässling upptäck på flyg till Thailand"
+          },
+          "en": {
+            "title": "Warning: Measles detected on flight to Thailand"
+          }
+        },
+        {
+          "id": "917e9c3678e6",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/xJP15p/varningen-massling-upptack-pa-flyg-till-thailand",
+          "published_at": "2026-11-27T06:02:37+01:00",
+          "sv": {
+            "title": "Varningen: Mässling upptäck på flyg till Thailand"
+          },
+          "en": {
+            "title": "Warning: Measles detected on flight to Thailand"
+          }
+        },
+        {
+          "id": "619ebfd7e394",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/qOLGmL/massling-har-upptackts-pa-ett-flyg-fran-bangkok-till-stockholm-nu-varnar-fhm",
+          "published_at": "2026-11-27T05:42:54+01:00",
+          "sv": {
+            "title": "Mässlingsutbrott på Thailandsflyg: ”Inte kul att bli sjuk till jul”"
+          },
+          "en": {
+            "title": "Measles outbreak on Thailand flight: “Not fun to get sick by Christmas”"
+          }
+        }
+      ]
+    },
+    {
       "id": "6b6dd770954b",
       "source_count": 5,
       "sources": [
@@ -560,107 +674,6 @@
           },
           "en": {
             "title": "Budget Meeting Fiasco – Sweden Refused to Take Part"
-          }
-        }
-      ]
-    },
-    {
-      "id": "619ebfd7e394",
-      "source_count": 4,
-      "sources": [
-        "aftonbladet",
-        "di",
-        "expressen",
-        "svd"
-      ],
-      "first_published_at": "2026-11-27T05:42:54+01:00",
-      "last_published_at": "2026-11-27T06:14:24+01:00",
-      "lead": {
-        "id": "619ebfd7e394",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/qOLGmL/massling-har-upptackts-pa-ett-flyg-fran-bangkok-till-stockholm-nu-varnar-fhm",
-        "guid": "https://www.aftonbladet.se/nyheter/a/qOLGmL/massling-har-upptackts-pa-ett-flyg-fran-bangkok-till-stockholm-nu-varnar-fhm?utm_medium=rss",
-        "published_at": "2026-11-27T05:42:54+01:00",
-        "fetched_at": "2026-11-27T05:45:43+01:00",
-        "category": "sweden",
-        "image_url": "https://akamai.vgc.no/v2/images/ce6328fc-7615-3151-bd8f-3cd209bd7475?format=auto&s=7f2e5cd02b297979a629885056b434203e2dddd2&w=1000",
-        "sv": {
-          "title": "Mässlingsutbrott på Thailandsflyg: ”Inte kul att bli sjuk till jul”",
-          "summary": "Flygbolaget och FHM varnar",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Measles outbreak on Thailand flight: “Not fun to get sick by Christmas”",
-          "summary": "The airline and the Public Health Agency warn"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T05:46:02+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "9cd5d8499fc3",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80362",
-          "published_at": "2026-11-27T06:14:24+01:00",
-          "sv": {
-            "title": "Misstänkt mässling på flyg till Stockholm"
-          },
-          "en": {
-            "title": "Suspected measles on flight to Stockholm"
-          }
-        },
-        {
-          "id": "431de3b76397",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/varningen-massling-upptack-pa-flyg-till-thailand",
-          "published_at": "2026-11-27T06:07:20+01:00",
-          "sv": {
-            "title": "Varningen: Mässling upptäck på flyg till Thailand"
-          },
-          "en": {
-            "title": "Warning: Measles detected on flight to Thailand"
-          }
-        },
-        {
-          "id": "deefea55adca",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/varningen-massling-upptack-pa-flyg-till-thailand",
-          "published_at": "2026-11-27T06:05:18+01:00",
-          "sv": {
-            "title": "Varningen: Mässling upptäck på flyg till Thailand"
-          },
-          "en": {
-            "title": "Warning: Measles detected on flight to Thailand"
-          }
-        },
-        {
-          "id": "917e9c3678e6",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/xJP15p/varningen-massling-upptack-pa-flyg-till-thailand",
-          "published_at": "2026-11-27T06:02:37+01:00",
-          "sv": {
-            "title": "Varningen: Mässling upptäck på flyg till Thailand"
-          },
-          "en": {
-            "title": "Warning: Measles detected on flight to Thailand"
-          }
-        },
-        {
-          "id": "619ebfd7e394",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/qOLGmL/massling-har-upptackts-pa-ett-flyg-fran-bangkok-till-stockholm-nu-varnar-fhm",
-          "published_at": "2026-11-27T05:42:54+01:00",
-          "sv": {
-            "title": "Mässlingsutbrott på Thailandsflyg: ”Inte kul att bli sjuk till jul”"
-          },
-          "en": {
-            "title": "Measles outbreak on Thailand flight: “Not fun to get sick by Christmas”"
           }
         }
       ]
@@ -1165,95 +1178,6 @@
       ]
     },
     {
-      "id": "60b3851d6893",
-      "source_count": 4,
-      "sources": [
-        "svd",
-        "aftonbladet",
-        "sydsvenskan",
-        "tv4"
-      ],
-      "first_published_at": "2026-11-26T18:04:05+01:00",
-      "last_published_at": "2026-11-26T18:53:08+01:00",
-      "lead": {
-        "id": "60b3851d6893",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/ARd6QA/mp-beklagar-centers-hogersvang",
-        "guid": "https://www.svd.se/a/ARd6QA/mp-beklagar-centers-hogersvang?utm_medium=rss",
-        "published_at": "2026-11-26T18:04:05+01:00",
-        "fetched_at": "2026-11-26T18:15:43+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/dbfc42bb-3584-3430-92e5-45ded320197b?format=auto&s=4f04c585b2e94b60f4bcd47c8fdfb5fa6b43b52a&w=1000",
-        "sv": {
-          "title": "Andersson: Skulle vara historisk svag regering",
-          "summary": "En regering ledd av Ulf Kristersson (M) skulle vara ”historisk svag och sakna möjligheter att…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Andersson: It would be a historically weak government",
-          "summary": "A government led by Ulf Kristersson (M) would be \"historically weak and lack opportunities to…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T18:15:51+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "334b097a5edb",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/5346t2uKL2Qh1ljWweoIOn/s-ledaren-kommer-bli-en-historiskt-svag-regering",
-          "published_at": "2026-11-26T18:53:08+01:00",
-          "sv": {
-            "title": "S-ledaren: ”Kommer bli en historiskt svag regering”"
-          },
-          "en": {
-            "title": "S leader: \"Will become a historically weak government\""
-          }
-        },
-        {
-          "id": "cdbeb751ea10",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/andersson-skulle-vara-historisk-svag-regering",
-          "published_at": "2026-11-26T18:17:05+01:00",
-          "sv": {
-            "title": "Andersson: Skulle vara historisk svag regering"
-          },
-          "en": {
-            "title": "Andersson: Would be a historically weak government"
-          }
-        },
-        {
-          "id": "b4488e818997",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/6Pjm8O/mp-beklagar-centers-hogersvang",
-          "published_at": "2026-11-26T18:04:05+01:00",
-          "sv": {
-            "title": "Andersson: Skulle vara historisk svag regering"
-          },
-          "en": {
-            "title": "Andersson: It would be a historically weak government"
-          }
-        },
-        {
-          "id": "60b3851d6893",
-          "source": "svd",
-          "url": "https://www.svd.se/a/ARd6QA/mp-beklagar-centers-hogersvang",
-          "published_at": "2026-11-26T18:04:05+01:00",
-          "sv": {
-            "title": "Andersson: Skulle vara historisk svag regering"
-          },
-          "en": {
-            "title": "Andersson: It would be a historically weak government"
-          }
-        }
-      ]
-    },
-    {
       "id": "15f9d06075b5",
       "source_count": 3,
       "sources": [
@@ -1677,6 +1601,132 @@
           },
           "en": {
             "title": "Major explosion in Bangkok – residents evacuated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "50e9df5bf0dc",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-27T07:00:11+01:00",
+      "last_published_at": "2026-11-27T07:00:18+01:00",
+      "lead": {
+        "id": "50e9df5bf0dc",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/8Pm371/da-kan-d-vitaminbrist-vara-en-risk",
+        "guid": "https://www.aftonbladet.se/nyheter/a/8Pm371/da-kan-d-vitaminbrist-vara-en-risk?utm_medium=rss",
+        "published_at": "2026-11-27T07:00:11+01:00",
+        "fetched_at": "2026-11-27T07:01:16+01:00",
+        "category": "sweden",
+        "image_url": "https://akamai.vgc.no/v2/images/af8af005-09f1-33ae-9d9b-be6ede8fa8b8?format=auto&s=39bb368acd27d5d16067f65d8bdd748809c12280&w=1000",
+        "sv": {
+          "title": "Då kan D-vitaminbrist vara en risk",
+          "summary": "Så här års är det många som tar tillskott av D-vitamin. Men det är den som har brist under sommaren…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Then vitamin D deficiency may be a risk",
+          "summary": "At this time of year many people take vitamin D supplements. But those who are deficient during the summer…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T07:01:26+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "9c4332d2aaee",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/da-kan-d-vitaminbrist-vara-en-risk",
+          "published_at": "2026-11-27T07:00:18+01:00",
+          "sv": {
+            "title": "Då kan D-vitaminbrist vara en risk"
+          },
+          "en": {
+            "title": "Then vitamin D deficiency may be a risk"
+          }
+        },
+        {
+          "id": "50e9df5bf0dc",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/8Pm371/da-kan-d-vitaminbrist-vara-en-risk",
+          "published_at": "2026-11-27T07:00:11+01:00",
+          "sv": {
+            "title": "Då kan D-vitaminbrist vara en risk"
+          },
+          "en": {
+            "title": "Then vitamin D deficiency may be a risk"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fc5eca1186ec",
+      "source_count": 2,
+      "sources": [
+        "dn",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-27T06:05:16+01:00",
+      "last_published_at": "2026-11-27T06:52:12+01:00",
+      "lead": {
+        "id": "fc5eca1186ec",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/sverige/andersson-rasar-kristersson-ny-etta-i-fortroendeligan",
+        "guid": "https://www.dn.se/sverige/andersson-rasar-kristersson-ny-etta-i-fortroendeligan/",
+        "published_at": "2026-11-27T06:05:16+01:00",
+        "fetched_at": "2026-11-27T06:15:47+01:00",
+        "category": "politics",
+        "image_url": "https://static.bonniernews.se/ba/5f93cf17-c526-4b95-baba-3741ee778ec8.jpeg?io=1&width=1000",
+        "sv": {
+          "title": "Andersson rasar – Kristersson ny etta i förtroendeligan",
+          "summary": "Magdalena Anderssons försök att bilda en ny regering har kraschat. Det har hennes förtroendesiffror också. I en ny mätning från DN/Ipsos rasar hon till plats fyra bland partiledarna. – Det är slående hur snabbt man kan förbruka sitt förtroendekapital, säger Nicklas Källebring på Ipsos.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Andersson plummets – Kristersson new number one in trust poll",
+          "summary": "Magdalena Andersson's attempt to form a new government has collapsed. So has her trust rating. In a new poll from DN/Ipsos she falls to fourth place among party leaders. – It is striking how quickly one can use up one's trust capital, says Nicklas Källebring at Ipsos."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T06:15:59+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "932c5c6973be",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/andersson-rasar-i-ny-matning-slaende",
+          "published_at": "2026-11-27T06:52:12+01:00",
+          "sv": {
+            "title": "Andersson rasar i ny mätning: ”Slående”"
+          },
+          "en": {
+            "title": "Andersson plunges in new poll: \"Striking\""
+          }
+        },
+        {
+          "id": "fc5eca1186ec",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/andersson-rasar-kristersson-ny-etta-i-fortroendeligan",
+          "published_at": "2026-11-27T06:05:16+01:00",
+          "sv": {
+            "title": "Andersson rasar – Kristersson ny etta i förtroendeligan"
+          },
+          "en": {
+            "title": "Andersson plummets – Kristersson new number one in trust poll"
           }
         }
       ]
@@ -2513,69 +2563,6 @@
           },
           "en": {
             "title": "Storms hit Thanksgiving on both US coasts"
-          }
-        }
-      ]
-    },
-    {
-      "id": "8b3cffc4be5a",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-26T19:00:37+01:00",
-      "last_published_at": "2026-11-26T19:00:37+01:00",
-      "lead": {
-        "id": "8b3cffc4be5a",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/oMpjyB/ohlsson-c-inte-for-sent-for-v-att-backa",
-        "guid": "https://www.aftonbladet.se/nyheter/a/oMpjyB/ohlsson-c-inte-for-sent-for-v-att-backa?utm_medium=rss",
-        "published_at": "2026-11-26T19:00:37+01:00",
-        "fetched_at": "2026-11-26T19:01:17+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/061491a1-da62-32ff-8567-4ee77da76adb?format=auto&s=96e130c75bb6512cdd5a1ad9526354cfb7fd6488&w=1000",
-        "sv": {
-          "title": "Ohlsson (C): Inte för sent för V att backa",
-          "summary": "Ännu är det inte för sent för en rödgrön regering, enligt riksdagsledamoten Birgitta Ohlsson (C).",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Ohlsson (C): Not too late for V to back down",
-          "summary": "It is not yet too late for a red-green government, according to Riksdag member Birgitta Ohlsson (C)."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T19:01:23+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "edcae0cd9c95",
-          "source": "svd",
-          "url": "https://www.svd.se/a/2vGLw4/ohlsson-c-inte-for-sent-for-v-att-backa",
-          "published_at": "2026-11-26T19:00:37+01:00",
-          "sv": {
-            "title": "Ohlsson (C): Inte för sent för V att backa"
-          },
-          "en": {
-            "title": "Ohlsson (C): It is not too late for V to back down"
-          }
-        },
-        {
-          "id": "8b3cffc4be5a",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/oMpjyB/ohlsson-c-inte-for-sent-for-v-att-backa",
-          "published_at": "2026-11-26T19:00:37+01:00",
-          "sv": {
-            "title": "Ohlsson (C): Inte för sent för V att backa"
-          },
-          "en": {
-            "title": "Ohlsson (C): Not too late for V to back down"
           }
         }
       ]

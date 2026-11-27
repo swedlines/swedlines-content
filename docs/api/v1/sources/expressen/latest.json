@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-27T06:45:59+01:00",
+  "generated_at": "2026-11-27T07:01:31+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "932c5c6973be",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/andersson-rasar-i-ny-matning-slaende",
+      "guid": "https://www.expressen.se/nyheter/politik/andersson-rasar-i-ny-matning-slaende/",
+      "published_at": "2026-11-27T06:52:12+01:00",
+      "fetched_at": "2026-11-27T07:01:16+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Andersson rasar i ny mätning: ”Slående”",
+        "summary": "Väljarnas förtroende för S-ledaren har länge varit det högsta. Men under regeringsbildningen har det rasat. – Det är slående hur snabbt man kan förbruka sitt förtroendekapital, säger Nicklas Källebring, opinionsanalytiker på Ipsos till DN.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Andersson plunges in new poll: \"Striking\"",
+        "summary": "Voters' trust in the S leader has long been the highest. But during the government formation it has plummeted. – It is striking how quickly one can use up one's trust capital, says Nicklas Källebring, opinion analyst at Ipsos to DN."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T07:01:26+01:00"
+      }
+    },
+    {
+      "id": "8a5d1afcba08",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/splittring-infor-cs-odesmote-pa-sondag-inte-toppstyrt",
+      "guid": "https://www.expressen.se/nyheter/politik/splittring-infor-cs-odesmote-pa-sondag-inte-toppstyrt/",
+      "published_at": "2026-11-27T06:47:16+01:00",
+      "fetched_at": "2026-11-27T07:01:16+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Splittring inför C:s ödesmöte på söndag: ”Inte toppstyrt”",
+        "summary": "Centern säger ja till Ulf Kristersson i statsministeromröstningen på måndag. Men bakom partiledaren finns ett djupt splittrat parti. Cirka 15 av de totalt 35 personer som utgör Centerns partistyrelse och riksdagsgrupp, som motsatte sig beslutet. Men avgör, det gör partiets förtroenderåd.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Split ahead of C's make-or-break meeting on Sunday: \"Not top-down\"",
+        "summary": "The Centre Party says yes to Ulf Kristersson (M) in the prime ministerial vote on Monday. But behind the party leader is a deeply divided party. About 15 of the 35 people who make up the party board and Riksdag group of the Centre Party opposed the decision. But the decision lies with the party's council of trust."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T07:01:26+01:00"
+      }
+    },
     {
       "id": "431de3b76397",
       "schema_version": 1,
@@ -5142,58 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T01:31:01+01:00"
-      }
-    },
-    {
-      "id": "8fd42a41f126",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/satellitbilderna--pekar-ut-putins--skrackvapen",
-      "guid": "https://www.expressen.se/nyheter/varlden/satellitbilderna--pekar-ut-putins--skrackvapen/",
-      "published_at": "2026-11-24T01:16:08+01:00",
-      "fetched_at": "2026-11-24T01:30:57+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Satellitbilderna pekar ut Putins skräckvapen",
-        "summary": "Putins skräckvapen Satan II kan ha tagits i bruk. Det visar en ny analys från tankesmedjan IISS som granskat satellitbilder av ryska militära anläggningar, skriver Newsweek.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Satellite images point to Putin's dreaded weapon",
-        "summary": "Putin's dreaded weapon Satan II may have been put into use. This is shown by a new analysis from the think tank IISS, which has examined satellite images of Russian military facilities, Newsweek writes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T01:31:01+01:00"
-      }
-    },
-    {
-      "id": "c5a098561885",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/24-ariga-turistens-mystiska-dod-pa-semestern-i-istanbul",
-      "guid": "https://www.expressen.se/nyheter/varlden/24-ariga-turistens-mystiska-dod-pa-semestern-i-istanbul/",
-      "published_at": "2026-11-24T00:16:00+01:00",
-      "fetched_at": "2026-11-24T00:28:46+01:00",
-      "category": "world",
-      "sv": {
-        "title": "24-åriga turistens mystiska död på semestern i Istanbul",
-        "summary": "24-åriga Bérengère Deveaux-Cattino dog på semestern. Men dödsorsaken som angivits stämmer inte överens med bevisen, enligt familjen. – Jag tänkte: ”Det här är inte normalt, något är fel”, säger systern Éléonore Deveaux-Cattino till kanadensiska CBC.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mysterious death of 24-year-old tourist on holiday in Istanbul",
-        "summary": "24-year-old Bérengère Deveaux-Cattino died while on holiday. But the stated cause of death does not match the evidence, according to the family. – I thought: “This is not normal, something is wrong”, says her sister Éléonore Deveaux-Cattino to the Canadian broadcaster CBC."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T00:28:53+01:00"
       }
     }
   ]
