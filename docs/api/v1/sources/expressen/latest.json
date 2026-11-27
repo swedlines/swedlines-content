@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T02:15:52+01:00",
+  "generated_at": "2026-11-27T02:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3bbabe5d6c90",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/varnade-sedan-dog-sex-i-familjen",
+      "guid": "https://www.expressen.se/nyheter/varlden/varnade-sedan-dog-sex-i-familjen/",
+      "published_at": "2026-11-27T02:14:38+01:00",
+      "fetched_at": "2026-11-27T02:30:59+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Varnade – sedan dog sex i familjen",
+        "summary": "Piloten varnades för dåligt väder under flygresan med familjemedlemmarna. Kort därefter kraschade planet i vattnet. Alla sex ombord dog, skriver Mirror.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Warned – then six family members died",
+        "summary": "The pilot was warned about bad weather during the flight with the family members. Shortly afterwards the plane crashed into the water. All six on board died, according to Mirror."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T02:31:04+01:00"
+      }
+    },
     {
       "id": "1d94c8004bef",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T22:45:50+01:00"
-      }
-    },
-    {
-      "id": "1f2ba9f001e6",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/saftiga-priset-for-bilden-pa-melania",
-      "guid": "https://www.expressen.se/nyheter/varlden/saftiga-priset-for-bilden-pa-melania/",
-      "published_at": "2026-11-23T22:25:03+01:00",
-      "fetched_at": "2026-11-23T22:30:28+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Saftiga priset för bilden på Melania",
-        "summary": "Sugen på att köpa en ”exklusiv” bild på presidentfrun Melania Trump? Priset: 1 500 kronor, skriver Independet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Steep price for picture of Melania",
-        "summary": "Keen to buy an “exclusive” picture of First Lady Melania Trump? The price: SEK 1,500, writes Independent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:30:34+01:00"
       }
     }
   ]
