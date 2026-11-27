@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T07:03:09+01:00",
-  "count": 29,
+  "generated_at": "2026-11-27T07:15:59+01:00",
+  "count": 28,
   "stories": [
     {
       "id": "ed574169a1d8",
@@ -679,6 +679,95 @@
       ]
     },
     {
+      "id": "15f9d06075b5",
+      "source_count": 4,
+      "sources": [
+        "svd",
+        "sydsvenskan",
+        "dn",
+        "di"
+      ],
+      "first_published_at": "2026-11-27T06:10:12+01:00",
+      "last_published_at": "2026-11-27T07:13:19+01:00",
+      "lead": {
+        "id": "15f9d06075b5",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/Qron8P/elprischocken-dyraste-rakningen-pa-fyra-ar",
+        "guid": "https://www.svd.se/a/Qron8P/elprischocken-dyraste-rakningen-pa-fyra-ar?utm_medium=rss",
+        "published_at": "2026-11-27T06:10:12+01:00",
+        "fetched_at": "2026-11-27T06:15:48+01:00",
+        "category": "economy",
+        "image_url": "https://akamai.vgc.no/v2/images/96caf7e1-d3d3-3f01-b9ee-a57f54fff05b?format=auto&s=6a7498aca2d080df39df516480512fa9ba381e05&w=1000",
+        "sv": {
+          "title": "Elprischocken – dyraste räkningen på fyra år",
+          "summary": "En elprischock slår nu till med full kraft mot södra Sverige. Elräkningen för november kommer att…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Electricity price shock – most expensive bill in four years",
+          "summary": "An electricity price shock is now hitting southern Sweden with full force. The electricity bill for November will…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T06:15:59+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "905bcf3ca6d6",
+          "source": "di",
+          "url": "https://www.di.se/live/elprischocken-dyraste-rakningen-pa-fyra-ar",
+          "published_at": "2026-11-27T07:13:19+01:00",
+          "sv": {
+            "title": "Elprischocken – dyraste räkningen på fyra år"
+          },
+          "en": {
+            "title": "Electricity price shock – most expensive bill in four years"
+          }
+        },
+        {
+          "id": "d2c4ddf8f133",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/elprischocken-dyraste-rakningen-pa-fyra-ar",
+          "published_at": "2026-11-27T06:28:12+01:00",
+          "sv": {
+            "title": "Elprischocken: Nu kommer dyraste räkningen på fyra år"
+          },
+          "en": {
+            "title": "Electricity price shock: Now comes the most expensive bill in four years"
+          }
+        },
+        {
+          "id": "45fefac3c8ec",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/elprischocken-dyraste-rakningen-pa-fyra-ar",
+          "published_at": "2026-11-27T06:10:50+01:00",
+          "sv": {
+            "title": "Elprischocken – dyraste räkningen på fyra år"
+          },
+          "en": {
+            "title": "Electricity price shock – most expensive bill in four years"
+          }
+        },
+        {
+          "id": "15f9d06075b5",
+          "source": "svd",
+          "url": "https://www.svd.se/a/Qron8P/elprischocken-dyraste-rakningen-pa-fyra-ar",
+          "published_at": "2026-11-27T06:10:12+01:00",
+          "sv": {
+            "title": "Elprischocken – dyraste räkningen på fyra år"
+          },
+          "en": {
+            "title": "Electricity price shock – most expensive bill in four years"
+          }
+        }
+      ]
+    },
+    {
       "id": "909ab8776cc6",
       "source_count": 4,
       "sources": [
@@ -1249,82 +1338,6 @@
           },
           "en": {
             "title": "Then vitamin D deficiency may be a risk"
-          }
-        }
-      ]
-    },
-    {
-      "id": "15f9d06075b5",
-      "source_count": 3,
-      "sources": [
-        "svd",
-        "sydsvenskan",
-        "dn"
-      ],
-      "first_published_at": "2026-11-27T06:10:12+01:00",
-      "last_published_at": "2026-11-27T06:28:12+01:00",
-      "lead": {
-        "id": "15f9d06075b5",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/Qron8P/elprischocken-dyraste-rakningen-pa-fyra-ar",
-        "guid": "https://www.svd.se/a/Qron8P/elprischocken-dyraste-rakningen-pa-fyra-ar?utm_medium=rss",
-        "published_at": "2026-11-27T06:10:12+01:00",
-        "fetched_at": "2026-11-27T06:15:48+01:00",
-        "category": "economy",
-        "image_url": "https://akamai.vgc.no/v2/images/96caf7e1-d3d3-3f01-b9ee-a57f54fff05b?format=auto&s=6a7498aca2d080df39df516480512fa9ba381e05&w=1000",
-        "sv": {
-          "title": "Elprischocken – dyraste räkningen på fyra år",
-          "summary": "En elprischock slår nu till med full kraft mot södra Sverige. Elräkningen för november kommer att…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Electricity price shock – most expensive bill in four years",
-          "summary": "An electricity price shock is now hitting southern Sweden with full force. The electricity bill for November will…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T06:15:59+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "d2c4ddf8f133",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/elprischocken-dyraste-rakningen-pa-fyra-ar",
-          "published_at": "2026-11-27T06:28:12+01:00",
-          "sv": {
-            "title": "Elprischocken: Nu kommer dyraste räkningen på fyra år"
-          },
-          "en": {
-            "title": "Electricity price shock: Now comes the most expensive bill in four years"
-          }
-        },
-        {
-          "id": "45fefac3c8ec",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/elprischocken-dyraste-rakningen-pa-fyra-ar",
-          "published_at": "2026-11-27T06:10:50+01:00",
-          "sv": {
-            "title": "Elprischocken – dyraste räkningen på fyra år"
-          },
-          "en": {
-            "title": "Electricity price shock – most expensive bill in four years"
-          }
-        },
-        {
-          "id": "15f9d06075b5",
-          "source": "svd",
-          "url": "https://www.svd.se/a/Qron8P/elprischocken-dyraste-rakningen-pa-fyra-ar",
-          "published_at": "2026-11-27T06:10:12+01:00",
-          "sv": {
-            "title": "Elprischocken – dyraste räkningen på fyra år"
-          },
-          "en": {
-            "title": "Electricity price shock – most expensive bill in four years"
           }
         }
       ]
@@ -2514,68 +2527,6 @@
           },
           "en": {
             "title": "Melodifestivalen Star Stole Picture of Himself – Fined Thousands"
-          }
-        }
-      ]
-    },
-    {
-      "id": "290af9680691",
-      "source_count": 2,
-      "sources": [
-        "dn",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-26T09:06:45+01:00",
-      "last_published_at": "2026-11-26T19:12:21+01:00",
-      "lead": {
-        "id": "290af9680691",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/varlden/ovader-drabbar-thanksgiving-pa-usas-bada-kuster",
-        "guid": "https://www.dn.se/varlden/ovader-drabbar-thanksgiving-pa-usas-bada-kuster/",
-        "published_at": "2026-11-26T09:06:45+01:00",
-        "fetched_at": "2026-11-26T09:15:47+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Oväder drabbar thanksgiving på USA:s båda kuster",
-          "summary": "Stormar på amerikanska väst- och östkusten riskerar att orsaka fortsatt kaos på en av USA:s mest trafikerade storhelger, thanksgiving. Redan på onsdagen försenades över 6 000 flyg och den ikoniska paraden i New York har flyttats.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Storms hit Thanksgiving on both US coasts",
-          "summary": "Storms on the American west and east coasts risk causing continued chaos on one of the USA's busiest holidays, Thanksgiving. Already on Wednesday, over 6,000 flights were delayed and the iconic parade in New York has been moved."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T09:16:07+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "3228f5674deb",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/yz3kpK/stormvarning-stor-usa-s-thanksgiving-firande",
-          "published_at": "2026-11-26T19:12:21+01:00",
-          "sv": {
-            "title": "Stormvarning stör USA:s Thanksgiving-firande"
-          },
-          "en": {
-            "title": "Storm warning disrupts US Thanksgiving celebrations"
-          }
-        },
-        {
-          "id": "290af9680691",
-          "source": "dn",
-          "url": "https://www.dn.se/varlden/ovader-drabbar-thanksgiving-pa-usas-bada-kuster",
-          "published_at": "2026-11-26T09:06:45+01:00",
-          "sv": {
-            "title": "Oväder drabbar thanksgiving på USA:s båda kuster"
-          },
-          "en": {
-            "title": "Storms hit Thanksgiving on both US coasts"
           }
         }
       ]

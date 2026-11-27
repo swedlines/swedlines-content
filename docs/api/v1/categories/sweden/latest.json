@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-11-27T07:03:09+01:00",
+  "generated_at": "2026-11-27T07:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2f8f624b913d",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=fbcb2b95-4cf0-49ea-95fe-e51352a4371c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=fbcb2b95-4cf0-49ea-95fe-e51352a4371c",
+      "published_at": "2026-11-27T07:07:16+01:00",
+      "fetched_at": "2026-11-27T07:15:49+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Dubbla signalfel drabbar pendeltågen i Stockholm",
+        "summary": "Dubbla signalfel drabbar pendeltågen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Double signal faults hit commuter trains in Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T07:15:56+01:00"
+      }
+    },
     {
       "id": "9c4332d2aaee",
       "schema_version": 1,
@@ -5462,33 +5487,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T11:45:51+01:00"
-      }
-    },
-    {
-      "id": "a9ddda1432e2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/j3dEMz/snart-i-mal-oljesanering-med-stort-hjarta",
-      "guid": "https://www.aftonbladet.se/nyheter/a/j3dEMz/snart-i-mal-oljesanering-med-stort-hjarta?utm_medium=rss",
-      "published_at": "2026-11-23T11:30:19+01:00",
-      "fetched_at": "2026-11-23T11:30:59+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/be7c34c1-b46d-3634-89bc-bd2b7820af03?format=auto&s=665d649df43f1ca51726925acd9095a150b2b0d3&w=1000",
-      "sv": {
-        "title": "Snart i mål: oljesanering med stort hjärta",
-        "summary": "Mer än två mil av Listerlandets kustlinje var indränkt i kletig olja efter färjan Marco Polos dubbla…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Almost there: oil clean-up with a big heart",
-        "summary": "More than two miles of the Listerland coastline was soaked in sticky oil after the ferry Marco Polo's double…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T11:31:07+01:00"
       }
     }
   ]
