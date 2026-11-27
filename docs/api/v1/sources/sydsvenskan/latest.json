@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T08:31:16+01:00",
+  "generated_at": "2026-11-27T08:46:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4f87fe38bba3",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/krisande-norska-flygbolaget-fortsatter-stalla-in",
+      "guid": "a85833bd-b502-4131-8c26-f2e3577a5651",
+      "published_at": "2026-11-27T08:34:02+01:00",
+      "fetched_at": "2026-11-27T08:45:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/12b8b66e-6d8e-4d26-a661-4addb8450f37.jpg?width=600",
+      "sv": {
+        "title": "Krisande norska flygbolaget fortsätter ställa in",
+        "summary": "Det norska flygbolaget Norse Atlantic ställer in flera avgångar även under fredagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Troubled Norwegian airline continues to cancel flights",
+        "summary": "Norwegian airline Norse Atlantic cancels several departures also on Friday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T08:46:05+01:00"
+      }
+    },
     {
       "id": "dc6245124a76",
       "schema_version": 1,
@@ -5178,33 +5205,6 @@
       "en": {
         "title": "Many injured in car bomb in Colombia",
         "summary": "At least 25 people have been injured in a powerful explosion in central Colombia."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:20:03+01:00"
-      }
-    },
-    {
-      "id": "e40a31841ddd",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/engelsman-tar-over-djurgarden-en-enorm-stolthet",
-      "guid": "10195460-2d95-4a90-90e3-9e6203a86962",
-      "published_at": "2026-11-24T14:16:54+01:00",
-      "fetched_at": "2026-11-24T14:20:00+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/59890f4a-9a48-4154-9e2a-efb024e5c642.jpg?width=600",
-      "sv": {
-        "title": "Engelsman tar över Djurgården: ”En enorm stolthet”",
-        "summary": "Djurgården har gjort klart med en ny tränare. Engelsmannen Sam Saunders tar över den fotbollsallsvenska klubben.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Englishman takes over Djurgården: \"A huge pride\"",
-        "summary": "Djurgården has finalised a new coach. Englishman Sam Saunders takes over the Allsvenskan club."
       },
       "translation": {
         "status": "done",

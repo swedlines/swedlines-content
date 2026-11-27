@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T08:31:16+01:00",
+  "generated_at": "2026-11-27T08:46:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4d2c1c24f75f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-i-bjorkdalsgruvan-raddningstjanst-pa-plats",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-i-bjorkdalsgruvan-raddningstjanst-pa-plats",
+      "published_at": "2026-11-27T08:36:40+01:00",
+      "fetched_at": "2026-11-27T08:45:42+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Brand i Björkdalsgruvan utanför Kåge – räddningstjänst på plats",
+        "summary": "Personal har tagit skydd i en räddningskammare efter att en personbil börjat brinna under jord i Björkdalsgruvan utanför Kåge. Räddningstjänsten har larmats till platsen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fire at Björkdalsgruvan outside Kåge – rescue service on site",
+        "summary": "Staff have taken shelter in a rescue chamber after a passenger car began burning underground in Björkdalsgruvan outside Kåge. The rescue service has been alerted to the site."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T08:46:05+01:00"
+      }
+    },
     {
       "id": "944a40394f58",
       "schema_version": 1,
@@ -5460,33 +5486,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T12:15:54+01:00"
-      }
-    },
-    {
-      "id": "19ad60ce75ca",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/vellinge/skyddet-runt-naset-tar-form-hoppas-att-vi-slipper-oversvamningar-i-vinter",
-      "guid": "435ca3c0-b808-4201-8194-ef013b813f7e",
-      "published_at": "2026-11-23T12:00:00+01:00",
-      "fetched_at": "2026-11-23T12:01:18+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/bf80bd29-7bfd-464a-a378-b79cc206f969.jpeg?width=600",
-      "sv": {
-        "title": "Skyddet runt Näset tar form: ”Hoppas att vi slipper översvämningar”",
-        "summary": "Skyddsvallarna ska skydda Falsterbonäset från översvämningar i takt med att havsnivån stiger. En tredjedel av sträckningen är nu färdigbyggd och jätteprojektet går in i nästa fas. – Den är mindre ful än jag hade tänkt mig, säger Pontus Block, som har fått en efterlängtad mur vid tomten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Protection around Näset takes shape: \"Hope we're spared floods\"",
-        "summary": "The protective embankments are to shield Falsterbonäset from flooding as the sea level rises. A third of the stretch is now completed and the huge project is entering its next phase. – It's less ugly than I had imagined, says Pontus Block, who has gotten a long-awaited wall by his plot."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T12:01:24+01:00"
       }
     }
   ]

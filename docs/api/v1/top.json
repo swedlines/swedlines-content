@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:31:16+01:00",
+  "generated_at": "2026-11-27T08:46:12+01:00",
   "count": 27,
   "stories": [
     {
@@ -70,6 +70,18 @@
           "id": "d2c4ddf8f133",
           "source": "dn",
           "url": "https://www.dn.se/sverige/elprischocken-dyraste-rakningen-pa-fyra-ar",
+          "published_at": "2026-11-27T06:28:12+01:00",
+          "sv": {
+            "title": "Elprischocken: Nu kommer dyraste räkningen på fyra år"
+          },
+          "en": {
+            "title": "Electricity price shock: Now comes the most expensive bill in four years"
+          }
+        },
+        {
+          "id": "5ae07b5fc533",
+          "source": "dn",
+          "url": "https://www.dn.se/ekonomi/elprischocken-nu-kommer-dyraste-rakningen-pa-fyra-ar",
           "published_at": "2026-11-27T06:28:12+01:00",
           "sv": {
             "title": "Elprischocken: Nu kommer dyraste räkningen på fyra år"
@@ -458,6 +470,106 @@
       ]
     },
     {
+      "id": "3f6874444123",
+      "source_count": 4,
+      "sources": [
+        "sr",
+        "expressen",
+        "svd",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-26T21:25:00+01:00",
+      "last_published_at": "2026-11-27T08:38:53+01:00",
+      "lead": {
+        "id": "3f6874444123",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9351171",
+        "guid": "rss:sr.se/article/9351171",
+        "published_at": "2026-11-26T21:25:00+01:00",
+        "fetched_at": "2026-11-26T21:31:02+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "C i Stockholm sågar beslutet – kommer inte rösta ja",
+          "summary": "Centerpartiets Stockholmsdistrikt säger nej till partiledningens linje i regeringsfrågan, uppger distriktsordförande Jonas Naddebo. Förtroenderådet fattar beslut på söndag om stödet till Ulf Kristerssons regering. I rådet kommer Stockholmsdistriktet att rösta nej till att gå högerut.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "C in Stockholm slams decision – will not vote yes",
+          "summary": "The Centre Party's Stockholm district says no to the party leadership's line on the government question, district chair Jonas Naddebo says. The trust council decides on support for Ulf Kristersson's government on Sunday. In the council, the Stockholm district will vote no to moving right."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T21:31:10+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "f0609dbd786a",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/LoAvOp/demirok-jag-rostade-nej-till-ulf-kristersson",
+          "published_at": "2026-11-27T08:38:53+01:00",
+          "sv": {
+            "title": "Demirok: Jag röstade nej till Ulf Kristersson"
+          },
+          "en": {
+            "title": "Demirok: I voted no to Ulf Kristersson"
+          }
+        },
+        {
+          "id": "317c3d70a8fb",
+          "source": "svd",
+          "url": "https://www.svd.se/a/Wmb9KL/demirok-jag-rostade-nej-till-ulf-kristersson",
+          "published_at": "2026-11-27T08:38:53+01:00",
+          "sv": {
+            "title": "Demirok: Jag röstade nej till Ulf Kristersson"
+          },
+          "en": {
+            "title": "Demirok: I voted no to Ulf Kristersson"
+          }
+        },
+        {
+          "id": "12a3718de474",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351273",
+          "published_at": "2026-11-27T08:21:00+01:00",
+          "sv": {
+            "title": "”Inte oväntat att det var ett kontroversiellt beslut”"
+          },
+          "en": {
+            "title": "\"Not surprising that it was a controversial decision\""
+          }
+        },
+        {
+          "id": "5915d75949c5",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/demirok-c-darfor-rostade-jag-nej",
+          "published_at": "2026-11-27T08:06:59+01:00",
+          "sv": {
+            "title": "Demirok (C): Därför röstade jag nej"
+          },
+          "en": {
+            "title": "Demirok (C): Why I voted no"
+          }
+        },
+        {
+          "id": "3f6874444123",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351171",
+          "published_at": "2026-11-26T21:25:00+01:00",
+          "sv": {
+            "title": "C i Stockholm sågar beslutet – kommer inte rösta ja"
+          },
+          "en": {
+            "title": "C in Stockholm slams decision – will not vote yes"
+          }
+        }
+      ]
+    },
+    {
       "id": "909ab8776cc6",
       "source_count": 4,
       "sources": [
@@ -828,6 +940,82 @@
           },
           "en": {
             "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza"
+          }
+        }
+      ]
+    },
+    {
+      "id": "726e8c1c842e",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "di"
+      ],
+      "first_published_at": "2026-11-27T08:09:05+01:00",
+      "last_published_at": "2026-11-27T08:33:04+01:00",
+      "lead": {
+        "id": "726e8c1c842e",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/Wmb92d/starshield-strulet-en-gata-som-pingpong",
+        "guid": "https://www.aftonbladet.se/nyheter/a/Wmb92d/starshield-strulet-en-gata-som-pingpong?utm_medium=rss",
+        "published_at": "2026-11-27T08:09:05+01:00",
+        "fetched_at": "2026-11-27T08:15:48+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/a4c94708-f934-36ea-9ffe-fd77b69ee71e?format=auto&s=5f039870d3f38a578bd8f223ec557c2ff1848886&w=1000",
+        "sv": {
+          "title": "Starshield-strulet en gåta: ”Som pingpong”",
+          "summary": "En svår vinter väntar för Ukraina, som försvarar sitt luftrum från ryska attacker med hjälp av…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Starshield mess a mystery: \"Like ping-pong\"",
+          "summary": "A difficult winter awaits Ukraine, which is defending its airspace from Russian attacks with the help of…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T08:15:58+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "64bcd67bede0",
+          "source": "di",
+          "url": "https://www.di.se/live/starshield-strulet-en-gata-som-pingpong",
+          "published_at": "2026-11-27T08:33:04+01:00",
+          "sv": {
+            "title": "Starshield-strulet en gåta: ”Som pingpong”"
+          },
+          "en": {
+            "title": "The Starshield glitch remains a mystery: “Like ping-pong”"
+          }
+        },
+        {
+          "id": "aadf01982a5c",
+          "source": "svd",
+          "url": "https://www.svd.se/a/nLa5Pn/starshield-strulet-en-gata-som-pingpong",
+          "published_at": "2026-11-27T08:09:05+01:00",
+          "sv": {
+            "title": "Starshield-strulet en gåta: ”Som pingpong”"
+          },
+          "en": {
+            "title": "Starshield mess a mystery: \"Like ping-pong\""
+          }
+        },
+        {
+          "id": "726e8c1c842e",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Wmb92d/starshield-strulet-en-gata-som-pingpong",
+          "published_at": "2026-11-27T08:09:05+01:00",
+          "sv": {
+            "title": "Starshield-strulet en gåta: ”Som pingpong”"
+          },
+          "en": {
+            "title": "Starshield mess a mystery: \"Like ping-pong\""
           }
         }
       ]
@@ -1213,138 +1401,64 @@
       ]
     },
     {
-      "id": "3f6874444123",
+      "id": "5595d21d00fa",
       "source_count": 2,
       "sources": [
-        "sr",
-        "expressen"
+        "di",
+        "sydsvenskan"
       ],
-      "first_published_at": "2026-11-26T21:25:00+01:00",
-      "last_published_at": "2026-11-27T08:21:00+01:00",
+      "first_published_at": "2026-11-27T08:30:48+01:00",
+      "last_published_at": "2026-11-27T08:34:02+01:00",
       "lead": {
-        "id": "3f6874444123",
+        "id": "5595d21d00fa",
         "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9351171",
-        "guid": "rss:sr.se/article/9351171",
-        "published_at": "2026-11-26T21:25:00+01:00",
-        "fetched_at": "2026-11-26T21:31:02+01:00",
-        "category": "politics",
+        "source": "di",
+        "url": "https://www.di.se/live/krisande-norska-flygbolaget-fortsatter-stalla-in",
+        "guid": "939570c4-f346-4ab0-8fe1-20a398998ac5",
+        "published_at": "2026-11-27T08:30:48+01:00",
+        "fetched_at": "2026-11-27T08:45:50+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/3f3f4ddb-7614-4b21-b5f2-12ed8b3fa155.jpg?width=600",
         "sv": {
-          "title": "C i Stockholm sågar beslutet – kommer inte rösta ja",
-          "summary": "Centerpartiets Stockholmsdistrikt säger nej till partiledningens linje i regeringsfrågan, uppger distriktsordförande Jonas Naddebo. Förtroenderådet fattar beslut på söndag om stödet till Ulf Kristerssons regering. I rådet kommer Stockholmsdistriktet att rösta nej till att gå högerut.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "C in Stockholm slams decision – will not vote yes",
-          "summary": "The Centre Party's Stockholm district says no to the party leadership's line on the government question, district chair Jonas Naddebo says. The trust council decides on support for Ulf Kristersson's government on Sunday. In the council, the Stockholm district will vote no to moving right."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T21:31:10+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "12a3718de474",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351273",
-          "published_at": "2026-11-27T08:21:00+01:00",
-          "sv": {
-            "title": "”Inte oväntat att det var ett kontroversiellt beslut”"
-          },
-          "en": {
-            "title": "\"Not surprising that it was a controversial decision\""
-          }
-        },
-        {
-          "id": "5915d75949c5",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/demirok-c-darfor-rostade-jag-nej",
-          "published_at": "2026-11-27T08:06:59+01:00",
-          "sv": {
-            "title": "Demirok (C): Därför röstade jag nej"
-          },
-          "en": {
-            "title": "Demirok (C): Why I voted no"
-          }
-        },
-        {
-          "id": "3f6874444123",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351171",
-          "published_at": "2026-11-26T21:25:00+01:00",
-          "sv": {
-            "title": "C i Stockholm sågar beslutet – kommer inte rösta ja"
-          },
-          "en": {
-            "title": "C in Stockholm slams decision – will not vote yes"
-          }
-        }
-      ]
-    },
-    {
-      "id": "726e8c1c842e",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-27T08:09:05+01:00",
-      "last_published_at": "2026-11-27T08:09:05+01:00",
-      "lead": {
-        "id": "726e8c1c842e",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/Wmb92d/starshield-strulet-en-gata-som-pingpong",
-        "guid": "https://www.aftonbladet.se/nyheter/a/Wmb92d/starshield-strulet-en-gata-som-pingpong?utm_medium=rss",
-        "published_at": "2026-11-27T08:09:05+01:00",
-        "fetched_at": "2026-11-27T08:15:48+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/a4c94708-f934-36ea-9ffe-fd77b69ee71e?format=auto&s=5f039870d3f38a578bd8f223ec557c2ff1848886&w=1000",
-        "sv": {
-          "title": "Starshield-strulet en gåta: ”Som pingpong”",
-          "summary": "En svår vinter väntar för Ukraina, som försvarar sitt luftrum från ryska attacker med hjälp av…",
+          "title": "Krisande norska flygbolaget fortsätter ställa in",
+          "summary": "Det norska flygbolaget Norse Atlantic ställer in flera avgångar även under fredagen.",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Starshield mess a mystery: \"Like ping-pong\"",
-          "summary": "A difficult winter awaits Ukraine, which is defending its airspace from Russian attacks with the help of…"
+          "title": "Troubled Norwegian airline continues to cancel flights",
+          "summary": "Norwegian airline Norse Atlantic cancels several departures also on Friday."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T08:15:58+01:00"
+          "translated_at": "2026-11-27T08:46:05+01:00"
         }
       },
       "items": [
         {
-          "id": "aadf01982a5c",
-          "source": "svd",
-          "url": "https://www.svd.se/a/nLa5Pn/starshield-strulet-en-gata-som-pingpong",
-          "published_at": "2026-11-27T08:09:05+01:00",
+          "id": "4f87fe38bba3",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/krisande-norska-flygbolaget-fortsatter-stalla-in",
+          "published_at": "2026-11-27T08:34:02+01:00",
           "sv": {
-            "title": "Starshield-strulet en gåta: ”Som pingpong”"
+            "title": "Krisande norska flygbolaget fortsätter ställa in"
           },
           "en": {
-            "title": "Starshield mess a mystery: \"Like ping-pong\""
+            "title": "Troubled Norwegian airline continues to cancel flights"
           }
         },
         {
-          "id": "726e8c1c842e",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Wmb92d/starshield-strulet-en-gata-som-pingpong",
-          "published_at": "2026-11-27T08:09:05+01:00",
+          "id": "5595d21d00fa",
+          "source": "di",
+          "url": "https://www.di.se/live/krisande-norska-flygbolaget-fortsatter-stalla-in",
+          "published_at": "2026-11-27T08:30:48+01:00",
           "sv": {
-            "title": "Starshield-strulet en gåta: ”Som pingpong”"
+            "title": "Krisande norska flygbolaget fortsätter ställa in"
           },
           "en": {
-            "title": "Starshield mess a mystery: \"Like ping-pong\""
+            "title": "Troubled Norwegian airline continues to cancel flights"
           }
         }
       ]
@@ -2043,80 +2157,6 @@
           },
           "en": {
             "title": "Kristersson: Parties won't sulk for four years"
-          }
-        }
-      ]
-    },
-    {
-      "id": "d536142df81a",
-      "source_count": 2,
-      "sources": [
-        "sr",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-26T16:52:00+01:00",
-      "last_published_at": "2026-11-26T20:34:34+01:00",
-      "lead": {
-        "id": "d536142df81a",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9351018",
-        "guid": "rss:sr.se/article/9351018",
-        "published_at": "2026-11-26T16:52:00+01:00",
-        "fetched_at": "2026-11-26T17:01:14+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Gissén: Majoriteten inom C är för Kristersson-spåret",
-          "summary": "I dag torsdag möts Centerpartiet, där partistyrelsen och riksdagsgruppen deltar, för att besluta om ödesvalet som partiet står inför i regeringsbildningen.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Gissén: Majority within the Centre Party favours the Kristersson track",
-          "summary": "Today, Thursday, the Centre Party meets, with its party board and parliamentary group taking part, to decide on the fateful choice the party faces in the government formation."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T17:01:25+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "87b61126c019",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/skansk-centertopp-om-sitt-livs-svaraste-politiska-beslut-ratt-for-sverige",
-          "published_at": "2026-11-26T20:34:34+01:00",
-          "sv": {
-            "title": "Skånsk Centertopp om sitt livs svåraste politiska beslut – ”rätt för Sverige”"
-          },
-          "en": {
-            "title": "Skåne Centre Party top on his life's toughest political decision – \"right for Sweden\""
-          }
-        },
-        {
-          "id": "60a3db489739",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351126",
-          "published_at": "2026-11-26T19:49:00+01:00",
-          "sv": {
-            "title": "Gissén: ”Ett omvälvande beslut för Centerpartiet”"
-          },
-          "en": {
-            "title": "Gissén: “A momentous decision for the Centre Party”"
-          }
-        },
-        {
-          "id": "d536142df81a",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351018",
-          "published_at": "2026-11-26T16:52:00+01:00",
-          "sv": {
-            "title": "Gissén: Majoriteten inom C är för Kristersson-spåret"
-          },
-          "en": {
-            "title": "Gissén: Majority within the Centre Party favours the Kristersson track"
           }
         }
       ]
