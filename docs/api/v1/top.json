@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:01:33+01:00",
+  "generated_at": "2026-11-27T16:06:11+01:00",
   "count": 30,
   "stories": [
     {
@@ -2247,6 +2247,68 @@
       ]
     },
     {
+      "id": "002d9ec18fd1",
+      "source_count": 2,
+      "sources": [
+        "expressen",
+        "dn"
+      ],
+      "first_published_at": "2026-11-27T15:40:26+01:00",
+      "last_published_at": "2026-11-27T16:05:26+01:00",
+      "lead": {
+        "id": "002d9ec18fd1",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c",
+        "guid": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c/",
+        "published_at": "2026-11-27T15:40:26+01:00",
+        "fetched_at": "2026-11-27T15:45:50+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Här är Kristerssons förslag: ”Samarbetsregering” med C",
+          "summary": "Centerpartiet står inför ett vägval. Nu presenterar M exakt vad deras sida kan erbjuda. På bordet finns bland annat utökad IVF, euroutredning och kyld dryck på Systembolaget.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Here is Kristersson's proposal: \"Cooperation government\" with C",
+          "summary": "The Centre Party faces a crossroads. Now the Moderates present exactly what their side can offer. On the table are, among other things, expanded IVF, a euro inquiry and chilled drinks at Systembolaget."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T15:45:57+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "f027d3ffab37",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/har-ar-kristerssons-erbjudande-till-centern",
+          "published_at": "2026-11-27T16:05:26+01:00",
+          "sv": {
+            "title": "Här är Kristerssons erbjudande till Centern"
+          },
+          "en": {
+            "title": "Here is Kristersson's offer to the Centre Party"
+          }
+        },
+        {
+          "id": "002d9ec18fd1",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c",
+          "published_at": "2026-11-27T15:40:26+01:00",
+          "sv": {
+            "title": "Här är Kristerssons förslag: ”Samarbetsregering” med C"
+          },
+          "en": {
+            "title": "Here is Kristersson's proposal: \"Cooperation government\" with C"
+          }
+        }
+      ]
+    },
+    {
       "id": "b04d865c2bb5",
       "source_count": 2,
       "sources": [
@@ -2680,69 +2742,6 @@
           },
           "en": {
             "title": "Alarm: Collective punishments for conscripts at I 21"
-          }
-        }
-      ]
-    },
-    {
-      "id": "e1bbe597eb52",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-27T12:15:55+01:00",
-      "last_published_at": "2026-11-27T12:27:05+01:00",
-      "lead": {
-        "id": "e1bbe597eb52",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/dJOgPw/kvinna-far-sankt-straff-for-misslyckad-mordplan",
-        "guid": "https://www.aftonbladet.se/nyheter/a/dJOgPw/kvinna-far-sankt-straff-for-misslyckad-mordplan?utm_medium=rss",
-        "published_at": "2026-11-27T12:15:55+01:00",
-        "fetched_at": "2026-11-27T12:30:58+01:00",
-        "category": "crime",
-        "image_url": "https://akamai.vgc.no/v2/images/135c4f08-a08d-3bb1-bc8d-edafb020911e?format=auto&s=8f840bf299957c86a1abbe23b3188785836bd9c9&w=1000",
-        "sv": {
-          "title": "Kvinna får sänkt straff för misslyckad mordplan",
-          "summary": "En kvinna i 20-årsåldern, som dömdes för mordförsök i Helsingborg i tingsrätten, får straffet nästan…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Woman's sentence reduced for failed murder plot",
-          "summary": "A woman in her 20s, who was convicted of attempted murder in Helsingborg by the district court, has her sentence almost…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T12:31:05+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "cb6bb004e59a",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/krim/kvinna-far-sankt-straff-for-misslyckad-mordplan",
-          "published_at": "2026-11-27T12:27:05+01:00",
-          "sv": {
-            "title": "Kvinna får sänkt straff för misslyckad mordplan"
-          },
-          "en": {
-            "title": "Woman's sentence reduced for failed murder plot"
-          }
-        },
-        {
-          "id": "e1bbe597eb52",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/dJOgPw/kvinna-far-sankt-straff-for-misslyckad-mordplan",
-          "published_at": "2026-11-27T12:15:55+01:00",
-          "sv": {
-            "title": "Kvinna får sänkt straff för misslyckad mordplan"
-          },
-          "en": {
-            "title": "Woman's sentence reduced for failed murder plot"
           }
         }
       ]
