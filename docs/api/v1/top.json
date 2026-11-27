@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:45:58+01:00",
+  "generated_at": "2026-11-27T22:01:21+01:00",
   "count": 30,
   "stories": [
     {
@@ -2157,6 +2157,69 @@
       ]
     },
     {
+      "id": "7f5adb830fc0",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "di"
+      ],
+      "first_published_at": "2026-11-27T21:41:56+01:00",
+      "last_published_at": "2026-11-27T21:55:26+01:00",
+      "lead": {
+        "id": "7f5adb830fc0",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/VxqlJp/putin-visade-upp-ny-atomubat",
+        "guid": "https://www.aftonbladet.se/nyheter/a/VxqlJp/putin-visade-upp-ny-atomubat?utm_medium=rss",
+        "published_at": "2026-11-27T21:41:56+01:00",
+        "fetched_at": "2026-11-27T21:45:45+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/fd2047e8-d82c-3466-88cc-12fe4e1c4087?format=auto&s=768f42b7a84f0332a2ff58d7737904647f85cfc8&w=1000",
+        "sv": {
+          "title": "Putin visade upp ny atomubåt",
+          "summary": "Rysslands president Vladimir Putin deltog på fredagen i en sjösättningsceremoni för landets nya…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Putin shows off new nuclear submarine",
+          "summary": "Russian President Vladimir Putin attended a launch ceremony for the country's new…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T21:45:52+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "ecafd035c1fa",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/putin-visade-upp-ny-atomubat",
+          "published_at": "2026-11-27T21:55:26+01:00",
+          "sv": {
+            "title": "Putin visade upp ny atomubåt"
+          },
+          "en": {
+            "title": "Putin unveils new nuclear submarine"
+          }
+        },
+        {
+          "id": "7f5adb830fc0",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/VxqlJp/putin-visade-upp-ny-atomubat",
+          "published_at": "2026-11-27T21:41:56+01:00",
+          "sv": {
+            "title": "Putin visade upp ny atomubåt"
+          },
+          "en": {
+            "title": "Putin shows off new nuclear submarine"
+          }
+        }
+      ]
+    },
+    {
       "id": "942eaae669c2",
       "source_count": 2,
       "sources": [
@@ -2666,69 +2729,6 @@
           },
           "en": {
             "title": "S sources on the party's future: Several will have to leave"
-          }
-        }
-      ]
-    },
-    {
-      "id": "08a8b19addd0",
-      "source_count": 2,
-      "sources": [
-        "svd",
-        "dn"
-      ],
-      "first_published_at": "2026-11-27T14:20:30+01:00",
-      "last_published_at": "2026-11-27T17:42:20+01:00",
-      "lead": {
-        "id": "08a8b19addd0",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/LoA2bR/christer-fuglesang-om-elon-musks-satellitplan",
-        "guid": "https://www.svd.se/a/LoA2bR/christer-fuglesang-om-elon-musks-satellitplan?utm_medium=rss",
-        "published_at": "2026-11-27T14:20:30+01:00",
-        "fetched_at": "2026-11-27T14:31:04+01:00",
-        "category": "science_tech",
-        "image_url": "https://akamai.vgc.no/v2/images/7c46d36e-1b51-3628-a4a8-980679f7c7da?format=auto&s=77ebe12f55aabcb7d4a2966936f48c00cd9c1be4&w=1000",
-        "sv": {
-          "title": "Fuglesang om Musks planer: ”Helt suveränt”",
-          "summary": "Elon Musk har fått tillstånd att bygga datacenter i rymden. Sveriges förste astronaut fascineras av…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Fuglesang on Musk's plans: \"Totally brilliant\"",
-          "summary": "Elon Musk has been granted permission to build data centres in space. Sweden's first astronaut is fascinated by…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T14:31:25+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "0e6673c9de0d",
-          "source": "dn",
-          "url": "https://www.dn.se/ekonomi/simon-campanello-ar-det-har-elon-musks-storsta-bluff-hittills",
-          "published_at": "2026-11-27T17:42:20+01:00",
-          "sv": {
-            "title": "Simon Campanello: Är det här Elon Musks största bluff hittills?"
-          },
-          "en": {
-            "title": "Simon Campanello: Is this Elon Musk's biggest bluff so far?"
-          }
-        },
-        {
-          "id": "08a8b19addd0",
-          "source": "svd",
-          "url": "https://www.svd.se/a/LoA2bR/christer-fuglesang-om-elon-musks-satellitplan",
-          "published_at": "2026-11-27T14:20:30+01:00",
-          "sv": {
-            "title": "Fuglesang om Musks planer: ”Helt suveränt”"
-          },
-          "en": {
-            "title": "Fuglesang on Musk's plans: \"Totally brilliant\""
           }
         }
       ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T21:45:58+01:00",
+  "generated_at": "2026-11-27T22:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "63c69a6efa36",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/dJO1yB/tror-pa-sina-egna-forbannade-logner",
+      "guid": "https://www.svd.se/a/dJO1yB/tror-pa-sina-egna-forbannade-logner?utm_medium=rss",
+      "published_at": "2026-11-27T22:00:00+01:00",
+      "fetched_at": "2026-11-27T22:01:11+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/34265289-d00c-3c15-9f12-c8d89feee109?format=auto&s=990da31f2476f7b06a1a463e8455a82c0423a790&w=1000",
+      "sv": {
+        "title": "Tror på sina egna förbannade lögner",
+        "summary": "Vad förenar Trump, Centerpartiets ledning och Elizabeth Holmes? De tycks alla ägna sig åt någon form…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Believe their own damned lies",
+        "summary": "What do Trump, the Centre Party leadership and Elizabeth Holmes have in common? They all seem to be engaged in some form…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T22:01:16+01:00"
+      }
+    },
     {
       "id": "313ad3d98a40",
       "schema_version": 1,
@@ -5481,38 +5508,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T10:45:55+01:00"
-      }
-    },
-    {
-      "id": "219efe5355b5",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/gp-historia/fraga-wedel-varfor-morkar-gp-goteborgs-svarta-historia.700b8279-626d-5024-8d7e-7e1304ae7585",
-      "guid": "700b8279-626d-5024-8d7e-7e1304ae7585",
-      "published_at": "2026-11-18T09:51:05+01:00",
-      "fetched_at": "2026-11-18T10:15:52+01:00",
-      "category": "other",
-      "feed_categories": [
-        "GP Historia",
-        "Tagg: GP Historia",
-        "Tagg: Kristian Wedel"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/c07d7b0f-4daf-34ef-ab6e-e6a6143f8bd2",
-      "sv": {
-        "title": "Fråga Wedel: Varför mörkar GP Göteborgs svarta historia?",
-        "summary": "Mellan raderna anas en helvetisk verklighet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ask Wedel: Why does GP hide Göteborg's dark history?",
-        "summary": "Between the lines, a hellish reality can be sensed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T10:15:58+01:00"
       }
     }
   ]
