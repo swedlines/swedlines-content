@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T11:46:29+01:00",
+  "generated_at": "2026-11-27T12:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3ef2869719ef",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/kristersson-siktar-pa-ny-regering-om-en-vecka",
+      "guid": "ff04919e-12fd-40b5-9da4-4cf9f89afbce",
+      "published_at": "2026-11-27T11:54:08+01:00",
+      "fetched_at": "2026-11-27T12:01:22+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/ffab787e-2203-4e53-a3c9-563d0a7b61cd.jpg?width=600",
+      "sv": {
+        "title": "Kristersson siktar på ny regering om en vecka",
+        "summary": "Om Centerpartiet säger ja till Moderatledaren Ulf Kristersson på måndag kan en ny regering presenteras redan på fredag nästa vecka, enligt uppgifter till TT.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson aims for new government within a week",
+        "summary": "If the Centre Party says yes to Moderate leader Ulf Kristersson on Monday, a new government could be presented as early as next Friday, according to information to TT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T12:01:25+01:00"
+      }
+    },
     {
       "id": "1ec104d0c300",
       "schema_version": 1,
@@ -5194,33 +5221,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T18:01:28+01:00"
-      }
-    },
-    {
-      "id": "1f3026ad4ac9",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/akesson-myser-c-och-s-ar-nara-kraschlandning",
-      "guid": "773698a6-bd29-4fb0-a6e7-5cc251c30072",
-      "published_at": "2026-11-24T17:36:50+01:00",
-      "fetched_at": "2026-11-24T17:45:51+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/e7f23188-314b-45a5-8d13-afeb019683c3.jpeg?width=600",
-      "sv": {
-        "title": "Åkesson myser – C och S är nära kraschlandning",
-        "summary": "Kristersson var syndabocken som nu håller på att bli hjälte. Åkesson är nära att pricka av ännu en skalp på sin partilista. Andersson och Thand Ringqvist är däremot på väg att kraschlanda.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Åkesson gloats – C and S are close to crash landing",
-        "summary": "Kristersson was the scapegoat who is now becoming a hero. Åkesson is close to ticking off yet another scalp on his party list. Andersson and Thand Ringqvist, on the other hand, are on course to crash land."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T17:45:55+01:00"
       }
     }
   ]

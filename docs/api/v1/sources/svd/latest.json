@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T11:46:29+01:00",
+  "generated_at": "2026-11-27T12:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3ed2d366b127",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/XogGao/kristersson-siktar-pa-ny-regering-om-en-vecka",
+      "guid": "https://www.svd.se/a/XogGao/kristersson-siktar-pa-ny-regering-om-en-vecka?utm_medium=rss",
+      "published_at": "2026-11-27T11:50:36+01:00",
+      "fetched_at": "2026-11-27T12:01:19+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/1f72cc8c-0244-3725-835e-9cef7b476655?format=auto&s=bc249423c7ae0434ca5bc85f78597ebdc6b2f985&w=1000",
+      "sv": {
+        "title": "Kristersson siktar på ny regering om en vecka",
+        "summary": "Om Centerpartiet säger ja till Moderatledaren Ulf Kristersson på måndag kan en ny regering…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson aims for new government within a week",
+        "summary": "If the Centre Party says yes to Moderate leader Ulf Kristersson on Monday, a new government could be presented as early as next Friday…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T12:01:25+01:00"
+      }
+    },
     {
       "id": "d122744e9bbb",
       "schema_version": 1,
@@ -5237,29 +5264,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T08:15:52+01:00"
-      }
-    },
-    {
-      "id": "dc3f7099e626",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80239",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80239&utm_medium=rss",
-      "published_at": "2026-11-24T07:31:28+01:00",
-      "fetched_at": "2026-11-24T07:45:41+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Kvinna gripen misstänkt för mordförsök i Stockholm"
-      },
-      "en": {
-        "title": "Woman arrested on suspicion of attempted murder in Stockholm"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T07:45:50+01:00"
       }
     }
   ]
