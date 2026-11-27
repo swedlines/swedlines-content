@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T17:45:57+01:00",
+  "generated_at": "2026-11-27T18:01:46+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eb94bf08f951",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/oMAL8g/ukrainskt-forslag-om-vapenvila-i-svarta-havet",
+      "guid": "https://www.svd.se/a/oMAL8g/ukrainskt-forslag-om-vapenvila-i-svarta-havet?utm_medium=rss",
+      "published_at": "2026-11-27T17:55:22+01:00",
+      "fetched_at": "2026-11-27T18:01:19+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/f03e5a87-4a65-39df-961d-28dc986fbb09?format=auto&s=9d0a88c45872c61c119c2e062b8e1dd28110f43a&w=1000",
+      "sv": {
+        "title": "Ukrainskt förslag om vapenvila i Svarta havet",
+        "summary": "Ukraina vill se en vapenvila i Svarta havet och har lämnat ett förslag till Ryssland.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ukrainian proposal for ceasefire in the Black Sea",
+        "summary": "Ukraine wants a ceasefire in the Black Sea and has submitted a proposal to Russia."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T18:01:39+01:00"
+      }
+    },
     {
       "id": "c901cae26e20",
       "schema_version": 1,
@@ -5246,33 +5273,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T15:01:21+01:00"
-      }
-    },
-    {
-      "id": "c9ac42604af1",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Wvwy9j/kreditkort-sa-valjer-du-ratt-kort",
-      "guid": "https://www.svd.se/a/Wvwy9j/kreditkort-sa-valjer-du-ratt-kort?utm_medium=rss",
-      "published_at": "2026-11-24T14:31:08+01:00",
-      "fetched_at": "2026-11-24T14:45:47+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/8081b295-e786-3174-b2f9-b2e5d3ddc250?format=auto&s=2cf72b581b0afc5a347ba1d8c1595673e72ec0f5&w=1000",
-      "sv": {
-        "title": "Det ska du tänka på när du väljer kreditkort",
-        "summary": "Kreditkort kan ge förmåner, bonuspoäng och rabatter – men det kan också bli dyrt om man inte betalar…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "What to consider when choosing a credit card",
-        "summary": "Credit cards can offer benefits, bonus points and discounts – but they can also become expensive if you don't pay in full…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:45:55+01:00"
       }
     }
   ]

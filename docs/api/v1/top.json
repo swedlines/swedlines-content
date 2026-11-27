@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:45:57+01:00",
+  "generated_at": "2026-11-27T18:01:46+01:00",
   "count": 30,
   "stories": [
     {
@@ -215,6 +215,134 @@
       ]
     },
     {
+      "id": "aa854b9847ee",
+      "source_count": 7,
+      "sources": [
+        "dn",
+        "di",
+        "aftonbladet",
+        "svd",
+        "sydsvenskan",
+        "svt",
+        "sr"
+      ],
+      "first_published_at": "2026-11-27T12:43:02+01:00",
+      "last_published_at": "2026-11-27T17:48:00+01:00",
+      "lead": {
+        "id": "aa854b9847ee",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder",
+        "guid": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder/",
+        "published_at": "2026-11-27T12:43:02+01:00",
+        "fetched_at": "2026-11-27T12:45:44+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/7879269f-7063-47d7-a997-4fcf27f0f1f3.jpeg?io=1&width=1000",
+        "sv": {
+          "title": "Svenska storaffären: stridsfordon för 60 miljarder",
+          "summary": "Försvarsföretaget BAE Hägglunds har landat sin största beställning genom tiderna. Stridsfordon till fem Natoländer – för över 60 miljarder. En rekordaffär som slår de franska fregatterna med hästlängder.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Swedish mega-deal: combat vehicles worth SEK 60 billion",
+          "summary": "Defence company BAE Hägglunds has landed its largest order ever. Combat vehicles for five NATO countries – worth over SEK 60 billion. A record deal that beats the French frigates by a mile."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T12:45:49+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "c4b668c38eae",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351862",
+          "published_at": "2026-11-27T17:48:00+01:00",
+          "sv": {
+            "title": "Historisk försvarsaffär – fem länder köper svenska CV90"
+          },
+          "en": {
+            "title": "Historic defence deal – five countries buy Swedish CV90"
+          }
+        },
+        {
+          "id": "ae1538cc5442",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/sa-paverkar-baes-jatteaffar-ornskoldsvik",
+          "published_at": "2026-11-27T17:39:03+01:00",
+          "sv": {
+            "title": "Så påverkar BAE:s jätteaffär Örnsköldsvik"
+          },
+          "en": {
+            "title": "How BAE's huge deal affects Örnsköldsvik"
+          }
+        },
+        {
+          "id": "9e717495702a",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/jatteordern-pa-svenska-stridsfordon-i-hamn",
+          "published_at": "2026-11-27T13:44:59+01:00",
+          "sv": {
+            "title": "Jätteordern på svenska stridsfordon i hamn"
+          },
+          "en": {
+            "title": "Huge order for Swedish combat vehicles in port"
+          }
+        },
+        {
+          "id": "8ee3c1e3286b",
+          "source": "svd",
+          "url": "https://www.svd.se/a/dJOgAz/jatteordern-pa-svenska-stridsfordon-i-hamn",
+          "published_at": "2026-11-27T13:41:29+01:00",
+          "sv": {
+            "title": "Jätteordern på svenska stridsfordon i hamn"
+          },
+          "en": {
+            "title": "Huge order for Swedish combat vehicles in port"
+          }
+        },
+        {
+          "id": "284447b60574",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/kMJqoX/jatteordern-pa-svenska-stridsfordon-i-hamn",
+          "published_at": "2026-11-27T13:41:29+01:00",
+          "sv": {
+            "title": "Jätteordern på svenska stridsfordon i hamn"
+          },
+          "en": {
+            "title": "Huge order for Swedish combat vehicles in port"
+          }
+        },
+        {
+          "id": "e2fe945298dd",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/historisk-forsvarsaffar-i-hamn-vard-60-miljarder",
+          "published_at": "2026-11-27T13:16:13+01:00",
+          "sv": {
+            "title": "Historisk försvarsaffär i hamn – värd 60 miljarder"
+          },
+          "en": {
+            "title": "Historic defence deal in the bag – worth 60 billion"
+          }
+        },
+        {
+          "id": "aa854b9847ee",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder",
+          "published_at": "2026-11-27T12:43:02+01:00",
+          "sv": {
+            "title": "Svenska storaffären: stridsfordon för 60 miljarder"
+          },
+          "en": {
+            "title": "Swedish mega-deal: combat vehicles worth SEK 60 billion"
+          }
+        }
+      ]
+    },
+    {
       "id": "b89299ed01c4",
       "source_count": 7,
       "sources": [
@@ -338,121 +466,6 @@
           },
           "en": {
             "title": "Officer at the Armed Forces suspected of crimes against Sweden's security"
-          }
-        }
-      ]
-    },
-    {
-      "id": "aa854b9847ee",
-      "source_count": 6,
-      "sources": [
-        "dn",
-        "di",
-        "aftonbladet",
-        "svd",
-        "sydsvenskan",
-        "svt"
-      ],
-      "first_published_at": "2026-11-27T12:43:02+01:00",
-      "last_published_at": "2026-11-27T17:39:03+01:00",
-      "lead": {
-        "id": "aa854b9847ee",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder",
-        "guid": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder/",
-        "published_at": "2026-11-27T12:43:02+01:00",
-        "fetched_at": "2026-11-27T12:45:44+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/7879269f-7063-47d7-a997-4fcf27f0f1f3.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Svenska storaffären: stridsfordon för 60 miljarder",
-          "summary": "Försvarsföretaget BAE Hägglunds har landat sin största beställning genom tiderna. Stridsfordon till fem Natoländer – för över 60 miljarder. En rekordaffär som slår de franska fregatterna med hästlängder.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Swedish mega-deal: combat vehicles worth SEK 60 billion",
-          "summary": "Defence company BAE Hägglunds has landed its largest order ever. Combat vehicles for five NATO countries – worth over SEK 60 billion. A record deal that beats the French frigates by a mile."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T12:45:49+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "ae1538cc5442",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/sa-paverkar-baes-jatteaffar-ornskoldsvik",
-          "published_at": "2026-11-27T17:39:03+01:00",
-          "sv": {
-            "title": "Så påverkar BAE:s jätteaffär Örnsköldsvik"
-          },
-          "en": {
-            "title": "How BAE's huge deal affects Örnsköldsvik"
-          }
-        },
-        {
-          "id": "9e717495702a",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/jatteordern-pa-svenska-stridsfordon-i-hamn",
-          "published_at": "2026-11-27T13:44:59+01:00",
-          "sv": {
-            "title": "Jätteordern på svenska stridsfordon i hamn"
-          },
-          "en": {
-            "title": "Huge order for Swedish combat vehicles in port"
-          }
-        },
-        {
-          "id": "8ee3c1e3286b",
-          "source": "svd",
-          "url": "https://www.svd.se/a/dJOgAz/jatteordern-pa-svenska-stridsfordon-i-hamn",
-          "published_at": "2026-11-27T13:41:29+01:00",
-          "sv": {
-            "title": "Jätteordern på svenska stridsfordon i hamn"
-          },
-          "en": {
-            "title": "Huge order for Swedish combat vehicles in port"
-          }
-        },
-        {
-          "id": "284447b60574",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/kMJqoX/jatteordern-pa-svenska-stridsfordon-i-hamn",
-          "published_at": "2026-11-27T13:41:29+01:00",
-          "sv": {
-            "title": "Jätteordern på svenska stridsfordon i hamn"
-          },
-          "en": {
-            "title": "Huge order for Swedish combat vehicles in port"
-          }
-        },
-        {
-          "id": "e2fe945298dd",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/historisk-forsvarsaffar-i-hamn-vard-60-miljarder",
-          "published_at": "2026-11-27T13:16:13+01:00",
-          "sv": {
-            "title": "Historisk försvarsaffär i hamn – värd 60 miljarder"
-          },
-          "en": {
-            "title": "Historic defence deal in the bag – worth 60 billion"
-          }
-        },
-        {
-          "id": "aa854b9847ee",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder",
-          "published_at": "2026-11-27T12:43:02+01:00",
-          "sv": {
-            "title": "Svenska storaffären: stridsfordon för 60 miljarder"
-          },
-          "en": {
-            "title": "Swedish mega-deal: combat vehicles worth SEK 60 billion"
           }
         }
       ]
@@ -1598,7 +1611,7 @@
         "tv4"
       ],
       "first_published_at": "2026-11-27T16:17:14+01:00",
-      "last_published_at": "2026-11-27T16:39:23+01:00",
+      "last_published_at": "2026-11-27T17:42:24+01:00",
       "lead": {
         "id": "accedf09d2d7",
         "schema_version": 1,
@@ -1626,6 +1639,18 @@
         }
       },
       "items": [
+        {
+          "id": "24dc0044b57e",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/borgerlig-budgetoffensiv-nya-skattesankningar-och-elstod",
+          "published_at": "2026-11-27T17:42:24+01:00",
+          "sv": {
+            "title": "Borgerlig budgetoffensiv – nya skattesänkningar och elstöd"
+          },
+          "en": {
+            "title": "Bourgeois budget offensive – new tax cuts and electricity support"
+          }
+        },
         {
           "id": "dd81a7798000",
           "source": "tv4",
@@ -2346,6 +2371,131 @@
       ]
     },
     {
+      "id": "b5a209c70700",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-27T17:27:10+01:00",
+      "last_published_at": "2026-11-27T17:59:41+01:00",
+      "lead": {
+        "id": "b5a209c70700",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/sport/skidskytte/elvira-oberg-vinner-i-varldscuppremiaren",
+        "guid": "https://www.svt.se/sport/skidskytte/elvira-oberg-vinner-i-varldscuppremiaren",
+        "published_at": "2026-11-27T17:27:10+01:00",
+        "fetched_at": "2026-11-27T17:31:02+01:00",
+        "category": "sports",
+        "sv": {
+          "title": "Elvira Öberg vinner i världscuppremiären",
+          "summary": "Svensk seger i världscuppremiären. Elvira Öberg vann distansloppet i Kontilax.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Elvira Öberg wins World Cup opener",
+          "summary": "Swedish victory in the World Cup opener. Elvira Öberg won the distance race in Kontilax."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T17:31:18+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "8c43ce3d508c",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/dromstart-for-moster-oberg-en-haftig-vecka",
+          "published_at": "2026-11-27T17:59:41+01:00",
+          "sv": {
+            "title": "Drömstart för moster Öberg: ”En häftig vecka”"
+          },
+          "en": {
+            "title": "Dream start for aunt Öberg: ”A great week”"
+          }
+        },
+        {
+          "id": "b5a209c70700",
+          "source": "svt",
+          "url": "https://www.svt.se/sport/skidskytte/elvira-oberg-vinner-i-varldscuppremiaren",
+          "published_at": "2026-11-27T17:27:10+01:00",
+          "sv": {
+            "title": "Elvira Öberg vinner i världscuppremiären"
+          },
+          "en": {
+            "title": "Elvira Öberg wins World Cup opener"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fa2f2b56ade3",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-27T17:55:21+01:00",
+      "last_published_at": "2026-11-27T17:55:22+01:00",
+      "lead": {
+        "id": "fa2f2b56ade3",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/j3B9pe/ukrainskt-forslag-om-vapenvila-i-svarta-havet",
+        "guid": "https://www.aftonbladet.se/nyheter/a/j3B9pe/ukrainskt-forslag-om-vapenvila-i-svarta-havet?utm_medium=rss",
+        "published_at": "2026-11-27T17:55:21+01:00",
+        "fetched_at": "2026-11-27T18:01:20+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/f03e5a87-4a65-39df-961d-28dc986fbb09?format=auto&s=9d0a88c45872c61c119c2e062b8e1dd28110f43a&w=1000",
+        "sv": {
+          "title": "Ukrainskt förslag om vapenvila i Svarta havet",
+          "summary": "Ukraina vill se en vapenvila i Svarta havet och har lämnat ett förslag till Ryssland.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Ukrainian proposal for ceasefire in the Black Sea",
+          "summary": "Ukraine wants a ceasefire in the Black Sea and has submitted a proposal to Russia."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T18:01:39+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "eb94bf08f951",
+          "source": "svd",
+          "url": "https://www.svd.se/a/oMAL8g/ukrainskt-forslag-om-vapenvila-i-svarta-havet",
+          "published_at": "2026-11-27T17:55:22+01:00",
+          "sv": {
+            "title": "Ukrainskt förslag om vapenvila i Svarta havet"
+          },
+          "en": {
+            "title": "Ukrainian proposal for ceasefire in the Black Sea"
+          }
+        },
+        {
+          "id": "fa2f2b56ade3",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/j3B9pe/ukrainskt-forslag-om-vapenvila-i-svarta-havet",
+          "published_at": "2026-11-27T17:55:21+01:00",
+          "sv": {
+            "title": "Ukrainskt förslag om vapenvila i Svarta havet"
+          },
+          "en": {
+            "title": "Ukrainian proposal for ceasefire in the Black Sea"
+          }
+        }
+      ]
+    },
+    {
       "id": "08a8b19addd0",
       "source_count": 2,
       "sources": [
@@ -2656,131 +2806,6 @@
           },
           "en": {
             "title": "Suspected mastermind of major VAT fraud arrested in Dubai"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b9184d1520e4",
-      "source_count": 2,
-      "sources": [
-        "sr",
-        "dn"
-      ],
-      "first_published_at": "2026-11-27T15:36:00+01:00",
-      "last_published_at": "2026-11-27T16:26:16+01:00",
-      "lead": {
-        "id": "b9184d1520e4",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9351799",
-        "guid": "rss:sr.se/article/9351799",
-        "published_at": "2026-11-27T15:36:00+01:00",
-        "fetched_at": "2026-11-27T15:45:47+01:00",
-        "category": "culture",
-        "sv": {
-          "title": "AI och mars inspirerar årets pepparkakshus",
-          "summary": "AI, flygande bilar och livet på Mars inspirerar årets pepparkakshustävling på Arkdes, där 161 bidrag gestaltar framtiden. Barn, proffs och andra bagare tävlar i tre kategorier. Projektledaren Johanna Gafvelin ser både mörka framtidsbilder och barnens mer positiva tolkningar.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "AI and Mars inspire this year's gingerbread houses",
-          "summary": "AI, flying cars and life on Mars inspire this year's gingerbread house competition at Arkdes, where 161 entries depict the future. Children, professionals and other bakers compete in three categories. Project manager Johanna Gafvelin sees both dark visions of the future and the children's more positive interpretations."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T15:45:57+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "d9a81ff6d5d1",
-          "source": "dn",
-          "url": "https://www.dn.se/kultur/se-arets-bidrag-till-hajpade-pepparkakshustavlingen-oppnar-julen-i-stockholm",
-          "published_at": "2026-11-27T16:26:16+01:00",
-          "sv": {
-            "title": "Se årets bidrag till hajpade pepparkakshustävlingen: ”Öppnar julen i Stockholm”"
-          },
-          "en": {
-            "title": "See this year's entries in the hyped gingerbread house competition: “Opens Christmas in Stockholm”"
-          }
-        },
-        {
-          "id": "b9184d1520e4",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351799",
-          "published_at": "2026-11-27T15:36:00+01:00",
-          "sv": {
-            "title": "AI och mars inspirerar årets pepparkakshus"
-          },
-          "en": {
-            "title": "AI and Mars inspire this year's gingerbread houses"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b04d865c2bb5",
-      "source_count": 2,
-      "sources": [
-        "dn",
-        "svd"
-      ],
-      "first_published_at": "2026-11-27T14:19:49+01:00",
-      "last_published_at": "2026-11-27T15:53:03+01:00",
-      "lead": {
-        "id": "b04d865c2bb5",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/kultur/tusentals-verk-brann-upp-nu-kan-grafikens-hus-fa-nytt-hem",
-        "guid": "https://www.dn.se/kultur/tusentals-verk-brann-upp-nu-kan-grafikens-hus-fa-nytt-hem/",
-        "published_at": "2026-11-27T14:19:49+01:00",
-        "fetched_at": "2026-11-27T14:31:04+01:00",
-        "category": "culture",
-        "image_url": "https://static.bonniernews.se/ba/bdca90c0-1820-467e-8075-5ccc2171e922.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Tusentals verk brann upp – nu kan Grafikens hus få nytt hem",
-          "summary": "När Grafikens hus i Mariefred brann ned för tolv år sedan gick en samling med tusentals verk upp i rök. Nu kan verksamheten ha hittat hem – i Skärholmen centrum. – Jag är glad att det här är en helt annan arkitektur, så att det händer något nytt på riktigt, säger museichefen Nina Beckmann.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Thousands of works burned – now Grafikens hus may get a new home",
-          "summary": "When Grafikens hus in Mariefred burned down twelve years ago, a collection of thousands of works went up in smoke. Now the operation may have found a home – in Skärholmen centre. \"I'm glad this is a completely different architecture, so that something new really happens,\" says museum director Nina Beckmann."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T14:31:25+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "b47290b310ac",
-          "source": "svd",
-          "url": "https://www.svd.se/a/g3WadB/tolv-ar-efter-branden-grafikens-hus-far-nytt-hem",
-          "published_at": "2026-11-27T15:53:03+01:00",
-          "sv": {
-            "title": "Tolv år efter branden: Grafikens hus får nytt hem"
-          },
-          "en": {
-            "title": "Twelve years after the fire: Grafikens hus gets a new home"
-          }
-        },
-        {
-          "id": "b04d865c2bb5",
-          "source": "dn",
-          "url": "https://www.dn.se/kultur/tusentals-verk-brann-upp-nu-kan-grafikens-hus-fa-nytt-hem",
-          "published_at": "2026-11-27T14:19:49+01:00",
-          "sv": {
-            "title": "Tusentals verk brann upp – nu kan Grafikens hus få nytt hem"
-          },
-          "en": {
-            "title": "Thousands of works burned – now Grafikens hus may get a new home"
           }
         }
       ]

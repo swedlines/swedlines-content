@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-11-27T17:45:57+01:00",
+  "generated_at": "2026-11-27T18:01:46+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dbb19a5193c4",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/tradgardsforeningens-palmhus-oppnar-igen.4eb47e16-9495-54bb-8cab-c29247b7c01e",
+      "guid": "4eb47e16-9495-54bb-8cab-c29247b7c01e",
+      "published_at": "2026-11-27T17:56:13+01:00",
+      "fetched_at": "2026-11-27T18:01:21+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: Växter",
+        "Tagg: Trädgårdsföreningen",
+        "Tagg: Växthus",
+        "Tagg: Renovering",
+        "Tagg: Samhällsredaktionen"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/45a92139-1752-3fac-a7a7-8b02ac5d375f",
+      "sv": {
+        "title": "Då öppnar klassiska huset i Göteborg",
+        "summary": "Efter fyra års renoveringsarbete öppnar Palmhuset i Trädgårdsföreningen igen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Then the classic house in Göteborg opens",
+        "summary": "After four years of renovation work, the Palm House in Trädgårdsföreningen opens again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T18:01:39+01:00"
+      }
+    },
     {
       "id": "67bbd3c27871",
       "schema_version": 1,
@@ -5474,33 +5509,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T22:01:21+01:00"
-      }
-    },
-    {
-      "id": "d0bd182197ea",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/lars-var-livlos-i-sju-minuter-nu-prisas-philippa",
-      "guid": "da68f52b-b7fa-4b86-9221-0c80349c682a",
-      "published_at": "2026-11-23T19:19:00+01:00",
-      "fetched_at": "2026-11-23T19:30:17+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/000e2827-aef9-4617-89d4-c42daf645917.jpeg?width=600",
-      "sv": {
-        "title": "Lars var livlös i sju minuter – nu prisas Philippa som räddade honom",
-        "summary": "Trots att Lundabon Lars Anderberg var livlös i sju minuter är han helt återställd i dag. Det har han Philippa Salomonsson att tacka för – och nu får hon en utmärkelse av landshövdingen. – Detta blir en påminnelse om att göra – det kan förändra livet, säger Philippa Salomonsson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lars was lifeless for seven minutes – now Philippa who saved him is praised",
-        "summary": "Although Lund resident Lars Anderberg was lifeless for seven minutes, he is fully recovered today. He has Philippa Salomonsson to thank for that – and now she is receiving an award from the county governor. – This will be a reminder to do it – it can change lives, says Philippa Salomonsson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T19:30:27+01:00"
       }
     }
   ]
