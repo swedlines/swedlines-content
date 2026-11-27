@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-27T09:31:22+01:00",
+  "generated_at": "2026-11-27T09:46:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3fb439aed1f3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/familjen-persson-shoppar-hochm-aktier-for-247-miljoner",
+      "guid": "531ff9c7-7cdc-45f5-b4b8-6bdc80bcb1e0",
+      "published_at": "2026-11-27T09:40:25+01:00",
+      "fetched_at": "2026-11-27T09:45:51+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Familjen Persson shoppar H&M-aktier för 247 miljoner",
+        "summary": "H&M:s huvudägare familjen Persson har köpt närmare 1,4 miljoner aktier i klädesbolaget för totalt 247 miljoner kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Persson family buys H&M shares for SEK 247 million",
+        "summary": "The Persson family, H&M's main owner, has bought nearly 1.4 million shares in the clothing company for a total of SEK 247 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T09:46:02+01:00"
+      }
+    },
+    {
+      "id": "b93be029f7e2",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/da-slapps-fetmapillret-i-sverige",
+      "guid": "bff0151f-0ac8-4ca4-ad01-08ab78f1cf6b",
+      "published_at": "2026-11-27T09:39:20+01:00",
+      "fetched_at": "2026-11-27T09:45:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/863da640-6a25-4cb0-b7e9-a99c67407105.jpg?width=600",
+      "sv": {
+        "title": "Då släpps fetmapillret i Sverige",
+        "summary": "Fetmaläkemedlet Wegovy lanseras i Sverige på julafton, meddelar det danska bolaget Novo.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fat-loss pill to be released in Sweden",
+        "summary": "Obesity drug Wegovy launches in Sweden on Christmas Eve, Novo, the Danish company, announces."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T09:46:02+01:00"
+      }
+    },
+    {
+      "id": "d426f0aaa2fb",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/novos-julklapp-slapper-fetmapiller-i-sverige",
+      "guid": "712b5d10-d52f-4900-8c99-171fb241cf71",
+      "published_at": "2026-11-27T09:39:13+01:00",
+      "fetched_at": "2026-11-27T09:45:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c01af365-1092-4a73-aae9-6ec1019d4663.jpeg?width=600",
+      "sv": {
+        "title": "Novos julklapp – släpper fetmapiller i Sverige",
+        "summary": "Bakom lucka 24 i den stundande adventskalendern döljer sig ett danskt fetmapiller. Den meddelar läkemedelsjätten Novo som på julafton lanserar fetmaläkemedlet Wegovy i tablettform i Sverige.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Novo's Christmas gift – releases fat-loss pill in Sweden",
+        "summary": "Behind window 24 of the upcoming Advent calendar lies a Danish fat-loss pill. Pharmaceutical giant Novo announces that on Christmas Eve it will launch the obesity drug Wegovy in tablet form in Sweden."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T09:46:02+01:00"
+      }
+    },
     {
       "id": "f2ade6df8fdc",
       "schema_version": 1,
@@ -5240,87 +5320,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T08:45:57+01:00"
-      }
-    },
-    {
-      "id": "038d7fb445e4",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/riksbankstoppen-sannolikt-tva-hojningar-narmsta-aret",
-      "guid": "b709986f-8b9e-42ea-8ce7-bf23d9d89a8b",
-      "published_at": "2026-11-26T08:22:34+01:00",
-      "fetched_at": "2026-11-26T08:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0f052567-3dc3-435b-997b-1a0dd58694af.jpeg?width=600",
-      "sv": {
-        "title": "Riksbankstoppen: Sannolikt två höjningar närmsta året",
-        "summary": "Svensk ekonomi uppvisar en robust återhämtning samtidigt som inflationsriskerna ökar. Styrräntan kommer sannolikt att höjas ytterligare två gånger det närmaste året. Det säger vice riksbankschef Per Jansson på torsdagen, enligt en sammanfattning från Riksbanken.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Riksbank top: Probably two hikes in the coming year",
-        "summary": "The Swedish economy shows a robust recovery while inflation risks are increasing. The policy rate is likely to be raised two more times in the coming year. Deputy Governor Per Jansson says on Thursday, according to a summary from the Riksbank."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T08:31:08+01:00"
-      }
-    },
-    {
-      "id": "30df3c615c6f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/hogre-riktkurser-for-elekta-har-ar-dagens-rekar",
-      "guid": "f034e5d0-2497-4566-b711-7ad371c95056",
-      "published_at": "2026-11-26T08:21:30+01:00",
-      "fetched_at": "2026-11-26T08:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d5089cbd-00b1-4db3-b937-96ed69cd51d2.jpeg?width=600",
-      "sv": {
-        "title": "Högre riktkurser för Elekta – här är dagens rekar",
-        "summary": "Elekta och Telia hör till bolagen som får höjda riktkurser på torsdagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Higher target prices for Elekta – here are today's ratings",
-        "summary": "Elekta and Telia are among the companies receiving raised target prices on Thursday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T08:31:08+01:00"
-      }
-    },
-    {
-      "id": "07f95b3a9eca",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/replik-mitten-ar-en-kyrkogard-for-politiska-visioner",
-      "guid": "e5b9a637-2a43-41e6-89f2-7c476d7003b1",
-      "published_at": "2026-11-26T08:21:09+01:00",
-      "fetched_at": "2026-11-26T08:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/2cf74f4c-11f8-4578-b2af-c7a92896dda5.jpeg?width=600",
-      "sv": {
-        "title": "Replik: Mitten är en kyrkogård för politiska visioner",
-        "summary": "Det är talande att det är totalt innehållslösa floskler som ”ordning och reda i ekonomin” och ”kortare köer” som står i fokus när det nya styret ska formulera sin plan, skriver Anna Sehlin (V) och Hannah Dahlbäck (V).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reply: The centre is a graveyard for political visions",
-        "summary": "It is telling that completely empty phrases such as “order and discipline in the economy” and “shorter queues” are in focus when the new government is to formulate its plan, write Anna Sehlin (V) and Hannah Dahlbäck (V)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T08:31:08+01:00"
       }
     }
   ]

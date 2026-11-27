@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T09:31:22+01:00",
+  "generated_at": "2026-11-27T09:46:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fc67b4488800",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/da-slapps-fetmapillret-i-sverige",
+      "guid": "ebb2aaa3-955e-4d52-8d60-6c7180030d71",
+      "published_at": "2026-11-27T09:44:06+01:00",
+      "fetched_at": "2026-11-27T09:45:52+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/95ecbc8f-f2e0-4d53-b1be-c4574eae5fd4.jpg?width=600",
+      "sv": {
+        "title": "Då släpps fetmapillret i Sverige",
+        "summary": "Fetmaläkemedlet Wegovy lanseras i Sverige på julafton, meddelar det danska bolaget Novo.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fat-loss pill to be released in Sweden",
+        "summary": "Obesity drug Wegovy launches in Sweden on Christmas Eve, Novo, the Danish company, announces."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T09:46:02+01:00"
+      }
+    },
     {
       "id": "aaef2c939c5d",
       "schema_version": 1,
@@ -5196,33 +5223,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "ac8d6db95ebc",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/beskedet-efter-kaosfinalen-senegal-far-titeln",
-      "guid": "9da615ad-3dac-4fad-9d6d-2e0737b5a766",
-      "published_at": "2026-11-24T15:30:19+01:00",
-      "fetched_at": "2026-11-24T15:31:05+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/cd676be6-2a9a-44be-b7f7-fbc55c7ad661.jpg?width=600",
-      "sv": {
-        "title": "Beskedet efter kaosfinalen – Senegal får titeln",
-        "summary": "Finalen slutade i kaos och förvirring – och nu, nästan ett år senare, har Idrottens skiljedomstol (Cas) kommit med sitt beslut: Senegal tilldelas segern i Afrikanska mästerskapen 2025.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Verdict after chaotic final – Senegal gets the title",
-        "summary": "The final ended in chaos and confusion – and now, almost a year later, the Court of Arbitration for Sport (Cas) has issued its ruling: Senegal is awarded victory in the 2025 Africa Cup of Nations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T15:31:10+01:00"
       }
     }
   ]

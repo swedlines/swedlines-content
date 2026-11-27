@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T09:31:22+01:00",
+  "generated_at": "2026-11-27T09:46:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "865a519c0bd9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=65647d38-5136-4b99-bf51-ca0492225787",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=65647d38-5136-4b99-bf51-ca0492225787",
+      "published_at": "2026-11-27T09:38:52+01:00",
+      "fetched_at": "2026-11-27T09:45:50+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Kvinna försvunnen",
+        "summary": "Stort sökpådrag i Värmland",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Woman missing",
+        "summary": "Large search operation in Värmland"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T09:46:02+01:00"
+      }
+    },
     {
       "id": "73d6499ae8e2",
       "schema_version": 1,
@@ -5460,32 +5486,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T13:01:23+01:00"
-      }
-    },
-    {
-      "id": "d26de0d5ad3a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/3BJb8X/varnpliktig-skjuten-under-ovning-traffad-i-foten",
-      "guid": "https://www.aftonbladet.se/nyheter/a/3BJb8X/varnpliktig-skjuten-under-ovning-traffad-i-foten?utm_medium=rss",
-      "published_at": "2026-11-23T12:43:19+01:00",
-      "fetched_at": "2026-11-23T12:45:47+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Värnpliktig skjuten under övning – träffad i foten",
-        "summary": "En värnpliktig träffades av ett skarpt skott under under en skjutövning på Horssjöns skjutfält under…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Conscript shot during exercise – hit in the foot",
-        "summary": "A conscript was hit by a live round during a shooting exercise at the Horssjön firing range under…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T12:46:02+01:00"
       }
     }
   ]

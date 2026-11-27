@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T09:31:22+01:00",
+  "generated_at": "2026-11-27T09:46:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "865a519c0bd9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=65647d38-5136-4b99-bf51-ca0492225787",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=65647d38-5136-4b99-bf51-ca0492225787",
+      "published_at": "2026-11-27T09:38:52+01:00",
+      "fetched_at": "2026-11-27T09:45:50+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Kvinna försvunnen",
+        "summary": "Stort sökpådrag i Värmland",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Woman missing",
+        "summary": "Large search operation in Värmland"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T09:46:02+01:00"
+      }
+    },
     {
       "id": "73d6499ae8e2",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T07:45:50+01:00"
-      }
-    },
-    {
-      "id": "f9c4a730f76e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/skulle-ut-pa-lyxkryssning-tvingades-vanda",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/skulle-ut-pa-lyxkryssning-tvingades-vanda",
-      "published_at": "2026-11-24T07:28:03+01:00",
-      "fetched_at": "2026-11-24T07:31:06+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Vänder direkt efter skräcken ombord",
-        "summary": "Vädjan på karibiska lyxkryssningen: Håll er i era hytter",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Turns around immediately after the terror on board",
-        "summary": "Appeal on the Caribbean luxury cruise: Stay in your cabins"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T07:31:15+01:00"
       }
     }
   ]
