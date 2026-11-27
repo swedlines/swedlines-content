@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-27T19:24:59+01:00",
+  "generated_at": "2026-11-27T19:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0051eb04d1ad",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/politiker-bjod-in-400-000-gaster-till-dotterns-brollop.eeaf239b-070e-5358-86da-e3802be075fa",
+      "guid": "eeaf239b-070e-5358-86da-e3802be075fa",
+      "published_at": "2026-11-27T19:24:58+01:00",
+      "fetched_at": "2026-11-27T19:31:08+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Bröllop",
+        "Tagg: Indien"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/214b4251-d307-34e3-86b6-28e346b1b00b",
+      "sv": {
+        "title": "Bjöd in 400 000 gäster till dotterns bröllop",
+        "summary": "En indisk politiker sparade inte på krutet inför sin dotters bröllop: han skickade hundratusentals inbjudan och anlade flera landningsplatser för helikoptrar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Invited 400,000 guests to daughter's wedding",
+        "summary": "An Indian politician spared no expense for his daughter's wedding: he sent out hundreds of thousands of invitations and set up several helicopter landing pads."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T19:31:10+01:00"
+      }
+    },
     {
       "id": "87682fb8575b",
       "schema_version": 1,
@@ -5433,33 +5465,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T14:01:28+01:00"
-      }
-    },
-    {
-      "id": "11e5088c7d8d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/clavister-tar-order-pa-halvmiljard-for-cyberarmour",
-      "guid": "f041b3be-35f6-434c-bf71-b0145e02856f",
-      "published_at": "2026-11-27T13:45:15+01:00",
-      "fetched_at": "2026-11-27T13:48:46+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/51580b3c-f2e7-4c79-b72a-b2366b9ff053.jpeg?width=600",
-      "sv": {
-        "title": "Clavister tar order på halvmiljard för ”cyberarmour”",
-        "summary": "Cybersäkerhetsbolaget Clavister har tilldelats ett kontrakt värt 450 miljoner kronor av BAE Systems för leverans av Clavister Cyberarmour i CV90-fordon inom det multinationella upphandlingsprogrammet ”Nordic Edition”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Clavister wins half-billion order for “Cyberarmour”",
-        "summary": "Cybersecurity company Clavister has been awarded a contract worth SEK 450 million by BAE Systems for delivery of Clavister Cyberarmour in CV90 vehicles within the multinational procurement programme “Nordic Edition”."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T13:48:51+01:00"
       }
     }
   ]

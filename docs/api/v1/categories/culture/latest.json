@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-27T19:24:59+01:00",
+  "generated_at": "2026-11-27T19:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0051eb04d1ad",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/politiker-bjod-in-400-000-gaster-till-dotterns-brollop.eeaf239b-070e-5358-86da-e3802be075fa",
+      "guid": "eeaf239b-070e-5358-86da-e3802be075fa",
+      "published_at": "2026-11-27T19:24:58+01:00",
+      "fetched_at": "2026-11-27T19:31:08+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Bröllop",
+        "Tagg: Indien"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/214b4251-d307-34e3-86b6-28e346b1b00b",
+      "sv": {
+        "title": "Bjöd in 400 000 gäster till dotterns bröllop",
+        "summary": "En indisk politiker sparade inte på krutet inför sin dotters bröllop: han skickade hundratusentals inbjudan och anlade flera landningsplatser för helikoptrar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Invited 400,000 guests to daughter's wedding",
+        "summary": "An Indian politician spared no expense for his daughter's wedding: he sent out hundreds of thousands of invitations and set up several helicopter landing pads."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T19:31:10+01:00"
+      }
+    },
     {
       "id": "0b465add5af8",
       "schema_version": 1,
@@ -5626,33 +5658,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T19:45:51+01:00"
-      }
-    },
-    {
-      "id": "db26a318ac7e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/lirar-i-en-helt-egen-liga-sa-bra-ar-gta-vi",
-      "guid": "d57604cc-e3ee-4511-bc7c-1340054d8632",
-      "published_at": "2026-11-24T19:00:00+01:00",
-      "fetched_at": "2026-11-24T19:01:10+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/591e05f1-42c2-40f6-a74b-d3d29d2667de.jpeg?width=600",
-      "sv": {
-        "title": "Ett spel som lirar i en helt egen liga – så bra är ”GTA VI”",
-        "summary": "Världens största spel är här. Fansen har väntat på nästa ”Grand theft auto” i 13 år och toppbetygen för Rockstar Games succé står som spön i backen. Niklas Sintorn har spelat spelet som lägger ribban så högt att ingen annan ens kan komma i närheten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "A game playing in a league of its own – this is how good \"GTA VI\" is",
-        "summary": "The world's biggest game is here. Fans have waited 13 years for the next \"Grand Theft Auto\", and top ratings for Rockstar Games' success are sky-high. Niklas Sintorn has played the game that sets the bar so high that no one else can even come close."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T19:01:15+01:00"
       }
     }
   ]
