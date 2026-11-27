@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T22:15:52+01:00",
+  "generated_at": "2026-11-27T22:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e637db2222ca",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/miljonvite-efter-brf-svang-i-lyxbygge-pa-kungsholmen",
+      "guid": "40bcfda2-c0bc-491b-ae07-b423db6d206a",
+      "published_at": "2026-11-27T22:24:44+01:00",
+      "fetched_at": "2026-11-27T22:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/30033a3c-ac74-4dbf-9140-1e9d688964cf.jpeg?width=600",
+      "sv": {
+        "title": "Miljonvite efter brf-sväng i lyxbygge på Kungsholmen",
+        "summary": "Bostadsutvecklaren Gillöga får betala vite på över 6 miljoner kronor efter att ha byggt bostadsrätter i stället för hyresrätter i sitt nya 17-våningshus i Stockholm, där lägenheter kostar upp till 25 Mkr med kvadratmeterpriser över 160.000 kronor.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Million-kronor penalty after condo switch in luxury development on Kungsholmen",
+        "summary": "Property developer Gillöga must pay a penalty of over SEK 6 million after building owner-occupied condominiums instead of rental apartments in its new 17-storey building in Stockholm, where apartments cost up to SEK 25 million with per-square-metre prices above SEK 160,000."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T22:31:09+01:00"
+      }
+    },
     {
       "id": "ecafd035c1fa",
       "schema_version": 1,
@@ -5292,33 +5319,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T14:45:57+01:00"
-      }
-    },
-    {
-      "id": "10e2925e2c9a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/han-blir-ny-rektor-for-handelshogskolan",
-      "guid": "1294d925-1b41-4686-9ab8-a4b06156dd0a",
-      "published_at": "2026-11-26T14:24:09+01:00",
-      "fetched_at": "2026-11-26T14:26:20+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/37b42a26-d81d-4893-8af8-3483dcd61968.jpeg?width=600",
-      "sv": {
-        "title": "Han blir ny rektor för Handelshögskolan",
-        "summary": "Magnus Dahlquist har utsetts till nästa rektor för Handelshögskolan i Stockholm och efterträder Lars Strannegård. ”Jag ser stora möjligheter”, kommenterar den nya rektorn.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "He becomes new head of Handelshögskolan",
-        "summary": "Magnus Dahlquist has been appointed the next head of Handelshögskolan i Stockholm, succeeding Lars Strannegård. \"I see great opportunities,\" comments the new head."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T14:26:28+01:00"
       }
     }
   ]
