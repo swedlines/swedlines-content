@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T18:31:04+01:00",
+  "generated_at": "2026-11-27T18:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "59ce6bd5ca34",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/sa-gor-du-for-att-ta-en-tiopoangare-i-pa-sparet",
+      "guid": "https://www.dn.se/kultur/sa-gor-du-for-att-ta-en-tiopoangare-i-pa-sparet/",
+      "published_at": "2026-11-27T18:41:05+01:00",
+      "fetched_at": "2026-11-27T18:45:43+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/19be596f-deaa-40f5-a4c1-626e664440e5.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Så gör du för att ta en tiopoängare i ”På spåret”",
+        "summary": "Nästan 40 år har gått sedan SVT:s ”På spåret” hade premiär – och tusentals frågor har ställts och besvarats. DN söker svaret på den viktigaste: Hur ska man egentligen bära sig åt för att dra en tiopoängare?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How to get a ten-pointer on ”På spåret”",
+        "summary": "Almost 40 years have passed since SVT's ”På spåret” premiered – and thousands of questions have been asked and answered. DN seeks the answer to the most important one: How should you actually go about scoring a ten-pointer?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T18:45:50+01:00"
+      }
+    },
     {
       "id": "9c2d3c3eb70c",
       "schema_version": 1,
@@ -5637,33 +5664,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T18:15:57+01:00"
-      }
-    },
-    {
-      "id": "218a87be5765",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/magi-i-varje-vra-nar-harry-potter-och-hogwarts-trollas-fram-pa-nytt",
-      "guid": "https://www.dn.se/kultur/magi-i-varje-vra-nar-harry-potter-och-hogwarts-trollas-fram-pa-nytt/",
-      "published_at": "2026-11-24T17:29:08+01:00",
-      "fetched_at": "2026-11-24T17:30:58+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/ace5b487-240c-4166-887e-6d2bec7e7a30.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Magi i varje vrå när Harry Potter och Hogwarts trollas fram på nytt",
-        "summary": "London. Tekoppar som fått ben, sammansmälta böcker och väggar som bär märken efter felriktade trollformler. När den nya Harry Potter-serien tar form växer en ny Hogwarts-värld fram, med en detaljrikedom som överträffar filmernas.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Magic in every corner as Harry Potter and Hogwarts are conjured anew",
-        "summary": "London. Teapots that have grown legs, fused books and walls bearing marks from misdirected spells. As the new Harry Potter series takes shape, a new Hogwarts world emerges, with a richness of detail that surpasses the films'."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T17:31:10+01:00"
       }
     }
   ]
