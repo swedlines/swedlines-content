@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T07:31:08+01:00",
+  "generated_at": "2026-11-27T07:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "abeae7f63b07",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/lastbilsolycka-stanger-e4-soderut",
+      "guid": "https://www.svt.se/nyheter/lokalt/ost/lastbilsolycka-stanger-e4-soderut",
+      "published_at": "2026-11-27T06:48:21+01:00",
+      "fetched_at": "2026-11-27T07:45:43+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Släp i diket efter olycka – E4 söderut stängd vid Mjölby",
+        "summary": "En lastbilsolycka har orsakat stopp på E4 i södergående riktning vid Mantorp. Olyckan inträffade tidigt på fredagsmorgonen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Truck in ditch after accident – E4 southbound closed at Mjölby",
+        "summary": "A truck accident has caused a stoppage on the E4 in the southbound direction at Mantorp. The accident occurred early on Friday morning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T07:45:52+01:00"
+      }
+    },
     {
       "id": "39e6656a8d0e",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T08:45:47+01:00"
-      }
-    },
-    {
-      "id": "5c9a965193b8",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/curling/heta-ordvaxlingen-mellan-lag-eriksson-och-kanadensarna-du-vet-allt",
-      "guid": "https://www.svt.se/sport/curling/heta-ordvaxlingen-mellan-lag-eriksson-och-kanadensarna-du-vet-allt",
-      "published_at": "2026-11-22T08:13:08+01:00",
-      "fetched_at": "2026-11-22T08:15:42+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Heta ordväxlingen mellan Lag Eriksson och kanadensarna: ”Du vet allt”",
-        "summary": "Det verkar fortsatt vara frostigt mellan Lag Eriksson och Lag Jacobs. Inför nattens Grand Slam-semifinal började spelarna tjafsa med varandra. – Du är den enda skippern som inte gör det, hörs Brad Jacobs säga till Oskar Eriksson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Heated exchange between Lag Eriksson and the Canadians: “You know everything”",
-        "summary": "Things still seem frosty between Lag Eriksson and Lag Jacobs. Ahead of tonight's Grand Slam semi-final, the players began bickering. – You're the only skip who isn't doing it, Brad Jacobs can be heard saying to Oskar Eriksson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T08:15:50+01:00"
       }
     }
   ]

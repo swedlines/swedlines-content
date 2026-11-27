@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-27T07:31:08+01:00",
+  "generated_at": "2026-11-27T07:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0402fc2012d0",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/2vGLAG/kinesisk-ai-utveckling-saktas-ned-av-usa-s-lagar",
+      "guid": "https://www.svd.se/a/2vGLAG/kinesisk-ai-utveckling-saktas-ned-av-usa-s-lagar?utm_medium=rss",
+      "published_at": "2026-11-27T07:31:13+01:00",
+      "fetched_at": "2026-11-27T07:45:45+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/459fa374-544b-3c02-8ac0-04adffd6ddd1?format=auto&s=e4d38bd99ead309c33b12189d010fee25a9904f2&w=1000",
+      "sv": {
+        "title": "Kinesisk AI drabbas av USA:s lagar"
+      },
+      "en": {
+        "title": "Chinese AI hit by US laws"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T07:45:52+01:00"
+      }
+    },
     {
       "id": "ecbfe0854f7c",
       "schema_version": 1,
@@ -5250,32 +5274,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T00:28:53+01:00"
-      }
-    },
-    {
-      "id": "accbebb8cef0",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/r8A79w/v-beklagar-c-s-sidbyte",
-      "guid": "https://www.svd.se/a/r8A79w/v-beklagar-c-s-sidbyte?utm_medium=rss",
-      "published_at": "2026-11-24T00:04:56+01:00",
-      "fetched_at": "2026-11-24T00:15:45+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "V: ”Beklagar C:s sidbyte”",
-        "summary": "De rödgröna borde ”synat” Centerpartiets röda linjer innan valet, skriver Vänsterpartiets vice…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "V: ”We regret C's switch of sides”",
-        "summary": "The red-greens should have ”checked” the Centre Party's red lines before the election, writes Left Party deputy leader…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T00:15:52+01:00"
       }
     }
   ]

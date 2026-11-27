@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-27T07:31:08+01:00",
+  "generated_at": "2026-11-27T07:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0402fc2012d0",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/2vGLAG/kinesisk-ai-utveckling-saktas-ned-av-usa-s-lagar",
+      "guid": "https://www.svd.se/a/2vGLAG/kinesisk-ai-utveckling-saktas-ned-av-usa-s-lagar?utm_medium=rss",
+      "published_at": "2026-11-27T07:31:13+01:00",
+      "fetched_at": "2026-11-27T07:45:45+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/459fa374-544b-3c02-8ac0-04adffd6ddd1?format=auto&s=e4d38bd99ead309c33b12189d010fee25a9904f2&w=1000",
+      "sv": {
+        "title": "Kinesisk AI drabbas av USA:s lagar"
+      },
+      "en": {
+        "title": "Chinese AI hit by US laws"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T07:45:52+01:00"
+      }
+    },
     {
       "id": "1dc36d3f72c4",
       "schema_version": 1,
@@ -5320,33 +5344,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T10:31:03+01:00"
-      }
-    },
-    {
-      "id": "627317d3af62",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/3BJn7L/ex-ledare-i-eu-anvand-rysslands-frysta-pengar",
-      "guid": "https://www.aftonbladet.se/nyheter/a/3BJn7L/ex-ledare-i-eu-anvand-rysslands-frysta-pengar?utm_medium=rss",
-      "published_at": "2026-11-25T09:23:28+01:00",
-      "fetched_at": "2026-11-25T09:31:01+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/6cbe4d70-3c91-3f3d-903f-1cdfb523d9f1?format=auto&s=3cde468b5c72aecc559dca9d371908312646bcd3&w=1000",
-      "sv": {
-        "title": "Ex-ledare i EU: Använd Rysslands frysta pengar",
-        "summary": "Använd Rysslands frysta statstillgångar i EU till stöd för Ukraina, uppmanar EU-kommissionens förre…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Former EU leader: Use Russia's frozen assets",
-        "summary": "Use Russia's frozen state assets in the EU to support Ukraine, urges the former European Commission…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T09:31:10+01:00"
       }
     }
   ]
