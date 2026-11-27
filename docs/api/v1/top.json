@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:07:26+01:00",
+  "generated_at": "2026-11-27T15:16:00+01:00",
   "count": 30,
   "stories": [
     {
@@ -1301,6 +1301,95 @@
       ]
     },
     {
+      "id": "b312f2a82334",
+      "source_count": 4,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "sydsvenskan",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-27T14:57:13+01:00",
+      "last_published_at": "2026-11-27T15:06:52+01:00",
+      "lead": {
+        "id": "b312f2a82334",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/1vBPnW/m-kd-l-och-c-overens-om-ny-klimatpolitik",
+        "guid": "https://www.aftonbladet.se/nyheter/a/1vBPnW/m-kd-l-och-c-overens-om-ny-klimatpolitik?utm_medium=rss",
+        "published_at": "2026-11-27T14:57:13+01:00",
+        "fetched_at": "2026-11-27T15:01:20+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/52589d07-7bf7-3e21-98a2-6d526a33fc76?format=auto&s=b8aeca18ad088dd392e11e9dc1805478375570d5&w=1000",
+        "sv": {
+          "title": "M, KD, L och C överens om ny klimatpolitik",
+          "summary": "Partiledarna för Moderaterna, Kristdemokraterna, Liberalerna och Centerpartiet är överens om hur…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "M, KD, L and C agree on new climate policy",
+          "summary": "The party leaders of the Moderates (M), Christian Democrats (KD), Liberals (L) and Centre Party (C) agree on how…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T15:01:36+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "f6fe4be6bdc7",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/m-kd-l-och-c-overens-om-ny-klimatpolitik",
+          "published_at": "2026-11-27T15:06:52+01:00",
+          "sv": {
+            "title": "M, KD, L och C överens om ny klimatpolitik"
+          },
+          "en": {
+            "title": "The Moderates, KD, L and C agree on new climate policy"
+          }
+        },
+        {
+          "id": "1159ef79adc2",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/m-kd-l-och-c-overens-om-ny-klimatpolitik",
+          "published_at": "2026-11-27T14:59:43+01:00",
+          "sv": {
+            "title": "M, KD, L och C överens om ny klimatpolitik"
+          },
+          "en": {
+            "title": "M, KD, L and C agree on new climate policy"
+          }
+        },
+        {
+          "id": "0d3007b2a0ca",
+          "source": "svd",
+          "url": "https://www.svd.se/a/WmOlba/m-kd-l-och-c-overens-om-ny-klimatpolitik",
+          "published_at": "2026-11-27T14:57:14+01:00",
+          "sv": {
+            "title": "M, KD, L och C överens om ny klimatpolitik"
+          },
+          "en": {
+            "title": "M, KD, L and C agree on new climate policy"
+          }
+        },
+        {
+          "id": "b312f2a82334",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/1vBPnW/m-kd-l-och-c-overens-om-ny-klimatpolitik",
+          "published_at": "2026-11-27T14:57:13+01:00",
+          "sv": {
+            "title": "M, KD, L och C överens om ny klimatpolitik"
+          },
+          "en": {
+            "title": "M, KD, L and C agree on new climate policy"
+          }
+        }
+      ]
+    },
+    {
       "id": "909ab8776cc6",
       "source_count": 4,
       "sources": [
@@ -1384,82 +1473,6 @@
           },
           "en": {
             "title": "Storms in USA – over 900,000 households without power"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b312f2a82334",
-      "source_count": 3,
-      "sources": [
-        "aftonbladet",
-        "svd",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-27T14:57:13+01:00",
-      "last_published_at": "2026-11-27T14:59:43+01:00",
-      "lead": {
-        "id": "b312f2a82334",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/1vBPnW/m-kd-l-och-c-overens-om-ny-klimatpolitik",
-        "guid": "https://www.aftonbladet.se/nyheter/a/1vBPnW/m-kd-l-och-c-overens-om-ny-klimatpolitik?utm_medium=rss",
-        "published_at": "2026-11-27T14:57:13+01:00",
-        "fetched_at": "2026-11-27T15:01:20+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/52589d07-7bf7-3e21-98a2-6d526a33fc76?format=auto&s=b8aeca18ad088dd392e11e9dc1805478375570d5&w=1000",
-        "sv": {
-          "title": "M, KD, L och C överens om ny klimatpolitik",
-          "summary": "Partiledarna för Moderaterna, Kristdemokraterna, Liberalerna och Centerpartiet är överens om hur…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "M, KD, L and C agree on new climate policy",
-          "summary": "The party leaders of the Moderates (M), Christian Democrats (KD), Liberals (L) and Centre Party (C) agree on how…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T15:01:36+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "1159ef79adc2",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/m-kd-l-och-c-overens-om-ny-klimatpolitik",
-          "published_at": "2026-11-27T14:59:43+01:00",
-          "sv": {
-            "title": "M, KD, L och C överens om ny klimatpolitik"
-          },
-          "en": {
-            "title": "M, KD, L and C agree on new climate policy"
-          }
-        },
-        {
-          "id": "0d3007b2a0ca",
-          "source": "svd",
-          "url": "https://www.svd.se/a/WmOlba/m-kd-l-och-c-overens-om-ny-klimatpolitik",
-          "published_at": "2026-11-27T14:57:14+01:00",
-          "sv": {
-            "title": "M, KD, L och C överens om ny klimatpolitik"
-          },
-          "en": {
-            "title": "M, KD, L and C agree on new climate policy"
-          }
-        },
-        {
-          "id": "b312f2a82334",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/1vBPnW/m-kd-l-och-c-overens-om-ny-klimatpolitik",
-          "published_at": "2026-11-27T14:57:13+01:00",
-          "sv": {
-            "title": "M, KD, L och C överens om ny klimatpolitik"
-          },
-          "en": {
-            "title": "M, KD, L and C agree on new climate policy"
           }
         }
       ]
@@ -2071,6 +2084,68 @@
       ]
     },
     {
+      "id": "9c38caceccba",
+      "source_count": 2,
+      "sources": [
+        "expressen",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-27T14:55:48+01:00",
+      "last_published_at": "2026-11-27T15:13:14+01:00",
+      "lead": {
+        "id": "9c38caceccba",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=cc0b6e84-84ae-4249-b9aa-d5b19def7b38",
+        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cc0b6e84-84ae-4249-b9aa-d5b19def7b38",
+        "published_at": "2026-11-27T14:55:48+01:00",
+        "fetched_at": "2026-11-27T15:01:20+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Dadgostar vädjar till C",
+          "summary": "”Jag loar”",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Dadgostar appeals to C",
+          "summary": "“I promise”"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T15:01:36+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "1aef313e62cc",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/4E1jzR/dadgostar-till-c-lovar-att-gora-vart-yttersta",
+          "published_at": "2026-11-27T15:13:14+01:00",
+          "sv": {
+            "title": "Dadgostar till C: Lovar att göra vårt yttersta"
+          },
+          "en": {
+            "title": "Dadgostar to C: Promises to do her utmost"
+          }
+        },
+        {
+          "id": "9c38caceccba",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=cc0b6e84-84ae-4249-b9aa-d5b19def7b38",
+          "published_at": "2026-11-27T14:55:48+01:00",
+          "sv": {
+            "title": "Dadgostar vädjar till C"
+          },
+          "en": {
+            "title": "Dadgostar appeals to C"
+          }
+        }
+      ]
+    },
+    {
       "id": "77b766a61022",
       "source_count": 2,
       "sources": [
@@ -2629,93 +2704,6 @@
           },
           "en": {
             "title": "NATO fighter jets scrambled after drone alarm"
-          }
-        }
-      ]
-    },
-    {
-      "id": "7251854c98aa",
-      "source_count": 2,
-      "sources": [
-        "dn",
-        "svt"
-      ],
-      "first_published_at": "2026-11-27T08:37:25+01:00",
-      "last_published_at": "2026-11-27T10:38:12+01:00",
-      "lead": {
-        "id": "7251854c98aa",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/sverige/efter-cs-vagval-hogerut-det-hander-nu",
-        "guid": "https://www.dn.se/sverige/efter-cs-vagval-hogerut-det-hander-nu/",
-        "published_at": "2026-11-27T08:37:25+01:00",
-        "fetched_at": "2026-11-27T08:45:44+01:00",
-        "category": "politics",
-        "image_url": "https://static.bonniernews.se/ba/1683e7cf-a6b3-49ab-8867-3c9132346ecc.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Efter C:s vägval högerut: Det händer nu",
-          "summary": "Centerpartiets partistyrelse har valt att gå högerut i regeringsfrågan, men för att få tyngd bakom beslutet har partiet valt att under helgen kalla in det så kallade förtroenderådet. Så här ser den närmaste tiden ut för Sveriges politiska ledning.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "After C's rightward turn: What happens now",
-          "summary": "The Centre Party's board has chosen to move to the right on the government question, but to give the decision weight the party has chosen to convene the so-called trust council over the weekend. Here is what the coming period looks like for Sweden's political leadership."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T08:46:05+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "62f01c8f6525",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/chatt-vad-hander-efter-cs-hogersvang",
-          "published_at": "2026-11-27T10:38:12+01:00",
-          "sv": {
-            "title": "Chatt: Vad händer efter C:s högersväng?"
-          },
-          "en": {
-            "title": "Live chat: What happens after C's right turn?"
-          }
-        },
-        {
-          "id": "bded9a1bef7f",
-          "source": "dn",
-          "url": "https://www.dn.se/kultur/johanna-franden-bonderna-kunde-bara-titta-pa-nar-centern-sankte-helror-pa-stureplan",
-          "published_at": "2026-11-27T10:02:36+01:00",
-          "sv": {
-            "title": "Johanna Frändén: Bönderna kunde bara titta på när Centern sänkte helrör på Stureplan"
-          },
-          "en": {
-            "title": "Johanna Frändén: Farmers could only watch as the Centre Party sank into the city-centre at Stureplan"
-          }
-        },
-        {
-          "id": "3ec65032fd86",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/ost/centerpartister-efter-hogersvangen-ledsen-och-besviken",
-          "published_at": "2026-11-27T09:32:10+01:00",
-          "sv": {
-            "title": "Centerpartister efter högersvängen: ”Ledsen och besviken”"
-          },
-          "en": {
-            "title": "Centre Party members after the rightward turn: \"Sad and disappointed\""
-          }
-        },
-        {
-          "id": "7251854c98aa",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/efter-cs-vagval-hogerut-det-hander-nu",
-          "published_at": "2026-11-27T08:37:25+01:00",
-          "sv": {
-            "title": "Efter C:s vägval högerut: Det händer nu"
-          },
-          "en": {
-            "title": "After C's rightward turn: What happens now"
           }
         }
       ]

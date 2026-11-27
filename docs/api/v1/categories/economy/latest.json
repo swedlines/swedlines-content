@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T15:07:26+01:00",
+  "generated_at": "2026-11-27T15:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0c3a9f9df250",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/antalet-paket-okar-kraftigt-i-umea-infor-black-friday-mer-utspritt",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/antalet-paket-okar-kraftigt-i-umea-infor-black-friday-mer-utspritt",
+      "published_at": "2026-11-27T15:10:57+01:00",
+      "fetched_at": "2026-11-27T15:15:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Antalet paket ökar kraftigt i Umeå – inför Black Friday: ”Mer utspritt”",
+        "summary": "Antalet paket har ökat med nära 30 procent hittills i november jämfört med i fjol, enligt Bring. Det är den största ökningen företaget har sett inför Black Friday. – Jag vet inte ens vart jag ska ställa paketen, säger Frida Gregorsson, på Monkey Business i Umeå.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Parcel volumes rise sharply in Umeå ahead of Black Friday – \"More spread out\"",
+        "summary": "Parcel volumes have risen by nearly 30 percent so far in November compared with last year, according to Bring. It is the biggest increase the company has seen ahead of Black Friday. \"I don't even know where to put the parcels,\" says Frida Gregorsson, at Monkey Business in Umeå."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:15:56+01:00"
+      }
+    },
     {
       "id": "b3ac1929dd2d",
       "schema_version": 1,
@@ -372,6 +398,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T14:31:25+01:00"
+      }
+    },
+    {
+      "id": "eb5145cbb5ed",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=5b77e282-f0c9-4b9a-92c2-5caaabad46bd",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5b77e282-f0c9-4b9a-92c2-5caaabad46bd",
+      "published_at": "2026-11-27T14:08:21+01:00",
+      "fetched_at": "2026-11-27T15:15:49+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Flygbolaget Norse ansöker om konkurs",
+        "summary": "Krisande flygbolaget har ställt in",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Airline Norse applies for bankruptcy",
+        "summary": "The struggling airline has cancelled flights"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:15:56+01:00"
       }
     },
     {
@@ -5252,62 +5304,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T15:31:15+01:00"
-      }
-    },
-    {
-      "id": "892db1a16a21",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/tt-261126-elnatsavgift1-edc98c32/vattenfall-hojer-elnatsavgiften-igen",
-      "guid": "tt-261126-elnatsavgift1-edc98c32",
-      "published_at": "2026-11-26T15:14:57+01:00",
-      "fetched_at": "2026-11-26T20:01:16+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Privatekonomi"
-      ],
-      "sv": {
-        "title": "Vattenfall höjer elnätsavgiften igen – så mycket mer får du betala",
-        "summary": "Enligt Vattenfall kommer såväl fasta som rörliga avgifter att höjas vid årsskiftet, vilket för en lägenhetskund innebär omkring 14 kronor mer i månaden och för en villakund som värmer huset helt eller delvis med el, omkring 68 kronor mer i månaden.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Vattenfall raises grid fee again – here is how much more you will pay",
-        "summary": "According to Vattenfall, both fixed and variable fees will rise at the turn of the year, which for an apartment customer means about 14 kronor more per month and for a house customer who heats the home wholly or partly with electricity, about 68 kronor more per month."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T20:01:23+01:00"
-      }
-    },
-    {
-      "id": "de7af55760a3",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/storstadsmajoriteterna-gar-vilse-i-valfarden",
-      "guid": "c576fadb-1945-4e5f-9789-1567e18a0ae9",
-      "published_at": "2026-11-26T15:06:15+01:00",
-      "fetched_at": "2026-11-26T15:15:52+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/19e59c08-df96-4139-b541-99ccae8fb283.jpeg?width=600",
-      "sv": {
-        "title": "Storstadsmajoriteterna går vilse i välfärden",
-        "summary": "Både Stockholm och Göteborg vill nu avskaffa valfriheten i hemtjänsten. Efter sjutton år som hemtjänstföretagare vet jag vad det leder till: när konkurrensen dör blir omsorgen sämre för alla – även för dem som har valt kommunen, skriver Kayhan Utkutug",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Metropolitan majorities lose their way on welfare",
-        "summary": "Both Stockholm and Göteborg now want to abolish freedom of choice in home care. After seventeen years as a home care company owner, I know where that leads: when competition dies, care gets worse for everyone – including those who chose the municipality, writes Kayhan Utkutug"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T15:15:57+01:00"
       }
     }
   ]

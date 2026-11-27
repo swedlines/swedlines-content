@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T15:07:26+01:00",
+  "generated_at": "2026-11-27T15:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0c3a9f9df250",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/antalet-paket-okar-kraftigt-i-umea-infor-black-friday-mer-utspritt",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/antalet-paket-okar-kraftigt-i-umea-infor-black-friday-mer-utspritt",
+      "published_at": "2026-11-27T15:10:57+01:00",
+      "fetched_at": "2026-11-27T15:15:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Antalet paket ökar kraftigt i Umeå – inför Black Friday: ”Mer utspritt”",
+        "summary": "Antalet paket har ökat med nära 30 procent hittills i november jämfört med i fjol, enligt Bring. Det är den största ökningen företaget har sett inför Black Friday. – Jag vet inte ens vart jag ska ställa paketen, säger Frida Gregorsson, på Monkey Business i Umeå.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Parcel volumes rise sharply in Umeå ahead of Black Friday – \"More spread out\"",
+        "summary": "Parcel volumes have risen by nearly 30 percent so far in November compared with last year, according to Bring. It is the biggest increase the company has seen ahead of Black Friday. \"I don't even know where to put the parcels,\" says Frida Gregorsson, at Monkey Business in Umeå."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:15:56+01:00"
+      }
+    },
     {
       "id": "6db2c7fbb4ab",
       "schema_version": 1,
@@ -5164,32 +5190,6 @@
       "en": {
         "title": "Sent threatening Christmas card to herself – woman from Luleå convicted",
         "summary": "A woman in her 35s reported a Christmas card containing death threats to the police. It later turned out that she had written the card herself, and she has now been convicted to a suspended sentence for tampering with evidence and false accusation. \"It was an unusual case,\" says prosecutor Moa Grahn."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:45:55+01:00"
-      }
-    },
-    {
-      "id": "11882184d773",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/gransbevakningen-maste-utga-fran-att-lasten-kan-vara-explosiv",
-      "guid": "https://www.svt.se/nyheter/utrikes/gransbevakningen-maste-utga-fran-att-lasten-kan-vara-explosiv",
-      "published_at": "2026-11-22T15:31:56+01:00",
-      "fetched_at": "2026-11-22T15:45:43+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Gränsbevakningen: ”Måste utgå från att lasten kan vara explosiv”",
-        "summary": "Alla personer har evakuerats från fraktfartyget som attackerades med drönare i Finska viken. Släckningsarbetet pågår – finns risk för omfattande miljöskador om branden ej fås under kontroll.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Border guard: \"Must assume the cargo may be explosive\"",
-        "summary": "All people have been evacuated from the cargo ship that was attacked with drones in the Gulf of Finland. Firefighting is ongoing – there is a risk of extensive environmental damage if the fire is not brought under control."
       },
       "translation": {
         "status": "done",
