@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-27T14:15:59+01:00",
+  "generated_at": "2026-11-27T14:31:31+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c797281a23bf",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1pQJDJpZ84LIcrzJ8EJqKP/inspelade-samtalet-kan-faella-paret-vi-aer-moerdare-fattar-du",
+      "guid": "1pQJDJpZ84LIcrzJ8EJqKP",
+      "published_at": "2026-11-27T14:29:18+01:00",
+      "fetched_at": "2026-11-27T14:31:05+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Inspelade samtalet kan fälla paret: ”Vi är mördare, fattar du?”",
+        "summary": "Kvarlevorna efter en man i 75-årsåldern hittades i hans utbrända bil i Sandnäset utanför Luleå en decembernatt förra året. Nu inleds rättegången mot ett par släktingar till mannen, som hyrde ett gårdshus av honom. De är åtalade misstänkta för bland annat mord och grovt gravfridsbrott.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Recorded conversation could convict the couple: \"We're murderers, you know?\"",
+        "summary": "The remains of a man in his 75s were found in his burnt-out car in Sandnäset outside Luleå one December night last year. Now the trial opens against a couple, relatives of the man, who rented a farmhouse from him. They are charged with, among other things, murder and aggravated violation of burial peace."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T14:31:25+01:00"
+      }
+    },
     {
       "id": "6b0cd9a112f1",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T10:01:25+01:00"
-      }
-    },
-    {
-      "id": "3a8860718c7d",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1b39J04paVCShuHoAH3b2w/kissade-pa-hans-vita-lacoste-da-skoet-han-katten",
-      "guid": "1b39J04paVCShuHoAH3b2w",
-      "published_at": "2026-11-19T09:13:50+01:00",
-      "fetched_at": "2026-11-19T09:15:42+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "Kissade på hans vita Lacoste – då sköt han katten",
-        "summary": "Carola Häggkvist berättade i början av 2010-talet att hennes exmake, den tidigare predikanten Runar Sögaard, hade skjutit hennes katt under tiden de var gifta. Det blev starten på en historia som än i dag blir till förstasidestoff så fort nya detaljer om skottet kommer fram.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Peed on his white Lacoste – then he shot the cat",
-        "summary": "Carola Häggkvist said in the early 2010s that her ex-husband, former preacher Runar Sögaard, had shot her cat while they were married. It was the start of a story that still makes front-page news whenever new details about the shooting emerge."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T09:15:58+01:00"
       }
     }
   ]

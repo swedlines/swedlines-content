@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-27T14:15:59+01:00",
+  "generated_at": "2026-11-27T14:31:31+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8dcd5b3c8c90",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/75-dagar-utan-regering-detta-har-hant",
+      "guid": "ddc0da5a-f81c-429a-ad87-488ac13cf1db",
+      "published_at": "2026-11-27T14:20:02+01:00",
+      "fetched_at": "2026-11-27T14:31:07+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "75 dagar utan regering – detta har hänt",
+        "summary": "Det har gått 75 dagar sedan valdagen. Det är fortfarande oklart vilken regering Sverige ska få. Här är turerna i regeringsbildningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "75 days without a government – here's what has happened",
+        "summary": "It has been 75 days since election day. It is still unclear which government Sweden will get. Here are the twists and turns of the government formation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T14:31:25+01:00"
+      }
+    },
+    {
+      "id": "f2302bf93ac7",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/mp-lagger-egen-budget-vill-dubbla-flygskatten",
+      "guid": "c768806e-c5a8-40b2-b6bd-486cb049e5bc",
+      "published_at": "2026-11-27T14:18:33+01:00",
+      "fetched_at": "2026-11-27T14:31:07+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/a500fbc5-d052-445f-bdf6-be2d1ffeb386.jpg?width=600",
+      "sv": {
+        "title": "MP lägger egen budget – vill dubbla flygskatten",
+        "summary": "Miljöpartiet går fram med en egen budget i riksdagen. De vill dubbla den avskaffade flygskatten, höja skatten för höginkomsttagare och satsa på billigare kollektivtrafik.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "MP presents own budget – wants to double the flight tax",
+        "summary": "The Green Party is putting forward its own budget in the Riksdag. It wants to double the abolished flight tax, raise tax on high earners and invest in cheaper public transport."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T14:31:25+01:00"
+      }
+    },
     {
       "id": "c114a536427f",
       "schema_version": 1,
@@ -5187,60 +5240,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T21:31:06+01:00"
-      }
-    },
-    {
-      "id": "53da231acb8d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/smittrisk-vid-tandvardsbesok-erbjuds-hivtest",
-      "guid": "33b1e79a-808f-479f-9dca-858ae29af6fc",
-      "published_at": "2026-11-24T20:34:00+01:00",
-      "fetched_at": "2026-11-24T20:45:47+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/166ccd6a-9159-45ca-a52a-efb57dad4c17.jpg?width=600",
-      "sv": {
-        "title": "Smittrisk vid tandvårdsbesök – erbjuds hivtest",
-        "summary": "Region Kronoberg kan inte utesluta att otillräckligt rengjorda instrument lett till smitta av hiv på en tandvårdsmottagning i Växjö. Nu erbjuds omkring 1 500 personer provtagning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Infection risk at dental visit – offered HIV test",
-        "summary": "Region Kronoberg cannot rule out that inadequately cleaned instruments led to HIV transmission at a dental clinic in Växjö. Around 1,500 people are now being offered sampling."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T20:45:50+01:00"
-      }
-    },
-    {
-      "id": "949514c64d07",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/magyars-ukrainabesok-nytt-kapitel-i-relationer",
-      "guid": "a093d181-a72d-442b-8acb-0a2e733bd057",
-      "published_at": "2026-11-24T20:05:28+01:00",
-      "fetched_at": "2026-11-24T20:15:49+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/cd7000d2-b7fd-494b-879c-261baf99a8f3.jpg?width=600",
-      "sv": {
-        "title": "Magyars Ukrainabesök ”nytt kapitel” i relationer",
-        "summary": "Péter Magyar träffade Ukrainas president Volodymyr Zelenskyj under sitt första besök i Ukraina i rollen som premiärminister. Tisdagens besök signalerar ett nytt kapitel i ländernas tidigare frostiga relationer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Magyar's Ukraine visit a \"new chapter\" in relations",
-        "summary": "Péter Magyar met Ukrainian President Volodymyr Zelenskyy during his first visit to Ukraine as prime minister. Tuesday's visit signals a new chapter in the countries' previously frosty relations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T20:15:53+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T14:15:59+01:00",
+  "generated_at": "2026-11-27T14:31:31+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "05a1b71c807e",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/530KQm/24-ariga-emma-skrev-ett-desperat-mejl-till-aftonbladet-nu-ar-hon-dod",
+      "guid": "https://www.aftonbladet.se/nyheter/a/530KQm/24-ariga-emma-skrev-ett-desperat-mejl-till-aftonbladet-nu-ar-hon-dod?utm_medium=rss",
+      "published_at": "2026-11-27T14:15:43+01:00",
+      "fetched_at": "2026-11-27T14:31:04+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/a045dcee-fc0f-36d9-9607-3decc4198b03?format=auto&s=65dbccc611f3f4d9972f113d166aa786204c4e53&w=887",
+      "sv": {
+        "title": "Familjen: ”Vi saknar vår levnadsglada Emma”",
+        "summary": "Mamma Anna: ”Alla skyller på alla”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The family: \"We miss our joyful Emma\"",
+        "summary": "Mum Anna: \"Everyone blames everyone\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T14:31:25+01:00"
+      }
+    },
     {
       "id": "2232c1d30ed1",
       "schema_version": 1,
@@ -5346,33 +5373,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T22:15:54+01:00"
-      }
-    },
-    {
-      "id": "30fe769bf230",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/6PjOBW/s-toppens-varning-blir-kung-i-riksdagen",
-      "guid": "https://www.aftonbladet.se/nyheter/a/6PjOBW/s-toppens-varning-blir-kung-i-riksdagen?utm_medium=rss",
-      "published_at": "2026-11-24T21:06:46+01:00",
-      "fetched_at": "2026-11-24T21:15:47+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/f4702e2d-29b8-3151-86b0-fe7672b79eb0?format=auto&s=e2bf210ca6267a850efbe2b7b529b78290dc6501&w=1000",
-      "sv": {
-        "title": "S-toppens varning: ”Blir kung i riksdagen”",
-        "summary": "S-toppen sågar Kristerssons bud",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Social Democrat leadership warns: ”Will be king in the Riksdag”",
-        "summary": "The Social Democrat leadership slams Kristersson's offer"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T21:15:59+01:00"
       }
     }
   ]

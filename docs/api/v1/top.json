@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:15:59+01:00",
+  "generated_at": "2026-11-27T14:31:31+01:00",
   "count": 30,
   "stories": [
     {
@@ -1376,6 +1376,157 @@
       ]
     },
     {
+      "id": "23ba2c6e80d0",
+      "source_count": 3,
+      "sources": [
+        "svd",
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-27T13:58:10+01:00",
+      "last_published_at": "2026-11-27T14:20:02+01:00",
+      "lead": {
+        "id": "23ba2c6e80d0",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/2vGM2a/75-dagar-utan-regering-detta-har-hant",
+        "guid": "https://www.svd.se/a/2vGM2a/75-dagar-utan-regering-detta-har-hant?utm_medium=rss",
+        "published_at": "2026-11-27T13:58:10+01:00",
+        "fetched_at": "2026-11-27T14:01:17+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "75 dagar utan regering – detta har hänt",
+          "summary": "Det har gått 75 dagar sedan valdagen. Det är fortfarande oklart vilken regering Sverige ska få.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "75 Days Without a Government – Here Is What Has Happened",
+          "summary": "It has been 75 days since election day. It is still unclear which government Sweden will get."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T14:01:28+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "8dcd5b3c8c90",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/75-dagar-utan-regering-detta-har-hant",
+          "published_at": "2026-11-27T14:20:02+01:00",
+          "sv": {
+            "title": "75 dagar utan regering – detta har hänt"
+          },
+          "en": {
+            "title": "75 days without a government – here's what has happened"
+          }
+        },
+        {
+          "id": "9d5904559e1d",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/oMpJ0g/75-dagar-utan-regering-detta-har-hant",
+          "published_at": "2026-11-27T13:58:10+01:00",
+          "sv": {
+            "title": "75 dagar utan regering – detta har hänt"
+          },
+          "en": {
+            "title": "75 Days Without a Government – Here Is What Has Happened"
+          }
+        },
+        {
+          "id": "23ba2c6e80d0",
+          "source": "svd",
+          "url": "https://www.svd.se/a/2vGM2a/75-dagar-utan-regering-detta-har-hant",
+          "published_at": "2026-11-27T13:58:10+01:00",
+          "sv": {
+            "title": "75 dagar utan regering – detta har hänt"
+          },
+          "en": {
+            "title": "75 Days Without a Government – Here Is What Has Happened"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2232c1d30ed1",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-27T14:12:05+01:00",
+      "last_published_at": "2026-11-27T14:18:33+01:00",
+      "lead": {
+        "id": "2232c1d30ed1",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/aGwrg7/mp-lagger-egen-budget-vill-dubbla-flygskatten",
+        "guid": "https://www.aftonbladet.se/nyheter/a/aGwrg7/mp-lagger-egen-budget-vill-dubbla-flygskatten?utm_medium=rss",
+        "published_at": "2026-11-27T14:12:05+01:00",
+        "fetched_at": "2026-11-27T14:15:45+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/803c2c6e-be1f-3647-8fc3-0ef68f54fcef?format=auto&s=88f36f623a7485ad9e2d189b51bbd830038b81cb&w=1000",
+        "sv": {
+          "title": "MP lägger egen budget – vill dubbla flygskatten",
+          "summary": "Miljöpartiet går fram med en egen budget i riksdagen. De vill dubbla den avskaffade…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "MP presents own budget – wants to double the aviation tax",
+          "summary": "The Green Party (MP) presents its own budget in the Riksdag. It wants to double the abolished…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T14:15:57+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "f2302bf93ac7",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/mp-lagger-egen-budget-vill-dubbla-flygskatten",
+          "published_at": "2026-11-27T14:18:33+01:00",
+          "sv": {
+            "title": "MP lägger egen budget – vill dubbla flygskatten"
+          },
+          "en": {
+            "title": "MP presents own budget – wants to double the flight tax"
+          }
+        },
+        {
+          "id": "04991e924107",
+          "source": "svd",
+          "url": "https://www.svd.se/a/qOLKG1/mp-lagger-egen-budget-vill-dubbla-flygskatten",
+          "published_at": "2026-11-27T14:12:07+01:00",
+          "sv": {
+            "title": "MP lägger egen budget – vill dubbla flygskatten"
+          },
+          "en": {
+            "title": "MP presents own budget – wants to double the aviation tax"
+          }
+        },
+        {
+          "id": "2232c1d30ed1",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/aGwrg7/mp-lagger-egen-budget-vill-dubbla-flygskatten",
+          "published_at": "2026-11-27T14:12:05+01:00",
+          "sv": {
+            "title": "MP lägger egen budget – vill dubbla flygskatten"
+          },
+          "en": {
+            "title": "MP presents own budget – wants to double the aviation tax"
+          }
+        }
+      ]
+    },
+    {
       "id": "6c76594ce7ce",
       "source_count": 3,
       "sources": [
@@ -1907,126 +2058,127 @@
       ]
     },
     {
-      "id": "2232c1d30ed1",
+      "id": "4dd878da46a5",
       "source_count": 2,
       "sources": [
-        "aftonbladet",
-        "svd"
+        "di",
+        "sr"
       ],
-      "first_published_at": "2026-11-27T14:12:05+01:00",
-      "last_published_at": "2026-11-27T14:12:07+01:00",
+      "first_published_at": "2026-11-27T14:13:15+01:00",
+      "last_published_at": "2026-11-27T14:17:00+01:00",
       "lead": {
-        "id": "2232c1d30ed1",
+        "id": "4dd878da46a5",
         "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/aGwrg7/mp-lagger-egen-budget-vill-dubbla-flygskatten",
-        "guid": "https://www.aftonbladet.se/nyheter/a/aGwrg7/mp-lagger-egen-budget-vill-dubbla-flygskatten?utm_medium=rss",
-        "published_at": "2026-11-27T14:12:05+01:00",
-        "fetched_at": "2026-11-27T14:15:45+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/803c2c6e-be1f-3647-8fc3-0ef68f54fcef?format=auto&s=88f36f623a7485ad9e2d189b51bbd830038b81cb&w=1000",
+        "source": "di",
+        "url": "https://www.di.se/live/klart-norse-ansoker-om-konkurs",
+        "guid": "47d65534-cc49-4fb8-9df9-771d5375ca81",
+        "published_at": "2026-11-27T14:13:15+01:00",
+        "fetched_at": "2026-11-27T14:31:05+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/ec308028-1dd4-4ca9-b036-eedec8f0cad8.jpeg?width=600",
         "sv": {
-          "title": "MP lägger egen budget – vill dubbla flygskatten",
-          "summary": "Miljöpartiet går fram med en egen budget i riksdagen. De vill dubbla den avskaffade…",
+          "title": "Klart: Norse ansöker om konkurs",
+          "summary": "Det norska lågprisflygbolaget Norse Atlantic har ansökt om konkurs vid Agders tingsrätt. Det framgår av ett pressmeddelande.",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "MP presents own budget – wants to double the aviation tax",
-          "summary": "The Green Party (MP) presents its own budget in the Riksdag. It wants to double the abolished…"
+          "title": "Confirmed: Norse files for bankruptcy",
+          "summary": "The Norwegian low-cost airline Norse Atlantic has filed for bankruptcy at the Agder District Court. This is shown in a press release."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T14:15:57+01:00"
+          "translated_at": "2026-11-27T14:31:25+01:00"
         }
       },
       "items": [
         {
-          "id": "04991e924107",
-          "source": "svd",
-          "url": "https://www.svd.se/a/qOLKG1/mp-lagger-egen-budget-vill-dubbla-flygskatten",
-          "published_at": "2026-11-27T14:12:07+01:00",
+          "id": "d795e45c3eea",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351732",
+          "published_at": "2026-11-27T14:17:00+01:00",
           "sv": {
-            "title": "MP lägger egen budget – vill dubbla flygskatten"
+            "title": "Norskt flygbolag ansöker om konkurs"
           },
           "en": {
-            "title": "MP presents own budget – wants to double the aviation tax"
+            "title": "Norwegian airline files for bankruptcy"
           }
         },
         {
-          "id": "2232c1d30ed1",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/aGwrg7/mp-lagger-egen-budget-vill-dubbla-flygskatten",
-          "published_at": "2026-11-27T14:12:05+01:00",
+          "id": "4dd878da46a5",
+          "source": "di",
+          "url": "https://www.di.se/live/klart-norse-ansoker-om-konkurs",
+          "published_at": "2026-11-27T14:13:15+01:00",
           "sv": {
-            "title": "MP lägger egen budget – vill dubbla flygskatten"
+            "title": "Klart: Norse ansöker om konkurs"
           },
           "en": {
-            "title": "MP presents own budget – wants to double the aviation tax"
+            "title": "Confirmed: Norse files for bankruptcy"
           }
         }
       ]
     },
     {
-      "id": "23ba2c6e80d0",
+      "id": "80f8d9973413",
       "source_count": 2,
       "sources": [
-        "svd",
-        "aftonbladet"
+        "sydsvenskan",
+        "gp"
       ],
-      "first_published_at": "2026-11-27T13:58:10+01:00",
-      "last_published_at": "2026-11-27T13:58:10+01:00",
+      "first_published_at": "2026-11-27T06:00:00+01:00",
+      "last_published_at": "2026-11-27T14:13:53+01:00",
       "lead": {
-        "id": "23ba2c6e80d0",
+        "id": "80f8d9973413",
         "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/2vGM2a/75-dagar-utan-regering-detta-har-hant",
-        "guid": "https://www.svd.se/a/2vGM2a/75-dagar-utan-regering-detta-har-hant?utm_medium=rss",
-        "published_at": "2026-11-27T13:58:10+01:00",
-        "fetched_at": "2026-11-27T14:01:17+01:00",
-        "category": "politics",
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/kultur/november-1963-snarkfest-nar-travolta-spelar-kennedys-mordare",
+        "guid": "318c6c60-1478-4b94-aebb-10a0a2332e1a",
+        "published_at": "2026-11-27T06:00:00+01:00",
+        "fetched_at": "2026-11-27T06:01:10+01:00",
+        "category": "culture",
+        "image_url": "https://static.bonniernews.se/ba/a961166c-cb07-4ca6-bd00-6a1768a592ca.jpeg?width=600",
         "sv": {
-          "title": "75 dagar utan regering – detta har hänt",
-          "summary": "Det har gått 75 dagar sedan valdagen. Det är fortfarande oklart vilken regering Sverige ska få.",
+          "title": "”November 1963”: Snarkfest när Travolta spelar Kennedys mördare",
+          "summary": "Filmen blir aldrig mer än en animerad bilderbok av ett spår bland många andra i mordutredningen.",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "75 Days Without a Government – Here Is What Has Happened",
-          "summary": "It has been 75 days since election day. It is still unclear which government Sweden will get."
+          "title": "\"November 1963\": Snoozefest as Travolta plays Kennedy's murderer",
+          "summary": "The film never becomes more than an animated picture book of one thread among many in the murder investigation."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T14:01:28+01:00"
+          "translated_at": "2026-11-27T06:01:20+01:00"
         }
       },
       "items": [
         {
-          "id": "9d5904559e1d",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/oMpJ0g/75-dagar-utan-regering-detta-har-hant",
-          "published_at": "2026-11-27T13:58:10+01:00",
+          "id": "1621738371bc",
+          "source": "gp",
+          "url": "https://www.gp.se/kultur/film/filmrecension/recension-november-63-i-regi-av-roland-joffe.1b0fa672-2e60-592b-b409-46ef3816fc27",
+          "published_at": "2026-11-27T14:13:53+01:00",
           "sv": {
-            "title": "75 dagar utan regering – detta har hänt"
+            "title": "Det enda svagare än den här JFK-teorin är Travoltas lösmustasch"
           },
           "en": {
-            "title": "75 Days Without a Government – Here Is What Has Happened"
+            "title": "The only thing weaker than this JFK theory is Travolta's fake moustache"
           }
         },
         {
-          "id": "23ba2c6e80d0",
-          "source": "svd",
-          "url": "https://www.svd.se/a/2vGM2a/75-dagar-utan-regering-detta-har-hant",
-          "published_at": "2026-11-27T13:58:10+01:00",
+          "id": "80f8d9973413",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/kultur/november-1963-snarkfest-nar-travolta-spelar-kennedys-mordare",
+          "published_at": "2026-11-27T06:00:00+01:00",
           "sv": {
-            "title": "75 dagar utan regering – detta har hänt"
+            "title": "”November 1963”: Snarkfest när Travolta spelar Kennedys mördare"
           },
           "en": {
-            "title": "75 Days Without a Government – Here Is What Has Happened"
+            "title": "\"November 1963\": Snoozefest as Travolta plays Kennedy's murderer"
           }
         }
       ]
@@ -2552,156 +2704,6 @@
           },
           "en": {
             "title": "Reports: North Korea halts support for Russia"
-          }
-        }
-      ]
-    },
-    {
-      "id": "5595d21d00fa",
-      "source_count": 2,
-      "sources": [
-        "di",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-27T08:30:48+01:00",
-      "last_published_at": "2026-11-27T09:51:47+01:00",
-      "lead": {
-        "id": "5595d21d00fa",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/krisande-norska-flygbolaget-fortsatter-stalla-in",
-        "guid": "939570c4-f346-4ab0-8fe1-20a398998ac5",
-        "published_at": "2026-11-27T08:30:48+01:00",
-        "fetched_at": "2026-11-27T08:45:50+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/3f3f4ddb-7614-4b21-b5f2-12ed8b3fa155.jpg?width=600",
-        "sv": {
-          "title": "Krisande norska flygbolaget fortsätter ställa in",
-          "summary": "Det norska flygbolaget Norse Atlantic ställer in flera avgångar även under fredagen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Troubled Norwegian airline continues to cancel flights",
-          "summary": "Norwegian airline Norse Atlantic cancels several departures also on Friday."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T08:46:05+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "d81300bf6cf1",
-          "source": "di",
-          "url": "https://www.di.se/live/norska-flygbolaget-blir-av-med-planen-schackmatt",
-          "published_at": "2026-11-27T09:51:47+01:00",
-          "sv": {
-            "title": "Norska flygbolaget blir av med planen: ”Schackmatt”"
-          },
-          "en": {
-            "title": "Norwegian airline loses its plane: \"Checkmate\""
-          }
-        },
-        {
-          "id": "4f87fe38bba3",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/krisande-norska-flygbolaget-fortsatter-stalla-in",
-          "published_at": "2026-11-27T08:34:02+01:00",
-          "sv": {
-            "title": "Krisande norska flygbolaget fortsätter ställa in"
-          },
-          "en": {
-            "title": "Troubled Norwegian airline continues to cancel flights"
-          }
-        },
-        {
-          "id": "5595d21d00fa",
-          "source": "di",
-          "url": "https://www.di.se/live/krisande-norska-flygbolaget-fortsatter-stalla-in",
-          "published_at": "2026-11-27T08:30:48+01:00",
-          "sv": {
-            "title": "Krisande norska flygbolaget fortsätter ställa in"
-          },
-          "en": {
-            "title": "Troubled Norwegian airline continues to cancel flights"
-          }
-        }
-      ]
-    },
-    {
-      "id": "d426f0aaa2fb",
-      "source_count": 2,
-      "sources": [
-        "di",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-27T09:39:13+01:00",
-      "last_published_at": "2026-11-27T09:44:06+01:00",
-      "lead": {
-        "id": "d426f0aaa2fb",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/novos-julklapp-slapper-fetmapiller-i-sverige",
-        "guid": "712b5d10-d52f-4900-8c99-171fb241cf71",
-        "published_at": "2026-11-27T09:39:13+01:00",
-        "fetched_at": "2026-11-27T09:45:51+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/c01af365-1092-4a73-aae9-6ec1019d4663.jpeg?width=600",
-        "sv": {
-          "title": "Novos julklapp – släpper fetmapiller i Sverige",
-          "summary": "Bakom lucka 24 i den stundande adventskalendern döljer sig ett danskt fetmapiller. Den meddelar läkemedelsjätten Novo som på julafton lanserar fetmaläkemedlet Wegovy i tablettform i Sverige.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Novo's Christmas gift – releases fat-loss pill in Sweden",
-          "summary": "Behind window 24 of the upcoming Advent calendar lies a Danish fat-loss pill. Pharmaceutical giant Novo announces that on Christmas Eve it will launch the obesity drug Wegovy in tablet form in Sweden."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T09:46:02+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "fc67b4488800",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/da-slapps-fetmapillret-i-sverige",
-          "published_at": "2026-11-27T09:44:06+01:00",
-          "sv": {
-            "title": "Då släpps fetmapillret i Sverige"
-          },
-          "en": {
-            "title": "Fat-loss pill to be released in Sweden"
-          }
-        },
-        {
-          "id": "b93be029f7e2",
-          "source": "di",
-          "url": "https://www.di.se/live/da-slapps-fetmapillret-i-sverige",
-          "published_at": "2026-11-27T09:39:20+01:00",
-          "sv": {
-            "title": "Då släpps fetmapillret i Sverige"
-          },
-          "en": {
-            "title": "Fat-loss pill to be released in Sweden"
-          }
-        },
-        {
-          "id": "d426f0aaa2fb",
-          "source": "di",
-          "url": "https://www.di.se/live/novos-julklapp-slapper-fetmapiller-i-sverige",
-          "published_at": "2026-11-27T09:39:13+01:00",
-          "sv": {
-            "title": "Novos julklapp – släpper fetmapiller i Sverige"
-          },
-          "en": {
-            "title": "Novo's Christmas gift – releases fat-loss pill in Sweden"
           }
         }
       ]
