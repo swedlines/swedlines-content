@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T02:31:06+01:00",
+  "generated_at": "2026-11-27T02:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "152394c50c4e",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/BrR5WQ/stormar-i-usa-900000-stromlosa",
+      "guid": "https://www.aftonbladet.se/nyheter/a/BrR5WQ/stormar-i-usa-900000-stromlosa?utm_medium=rss",
+      "published_at": "2026-11-27T02:32:56+01:00",
+      "fetched_at": "2026-11-27T02:45:50+01:00",
+      "category": "weather",
+      "image_url": "https://akamai.vgc.no/v2/images/57464cbc-423c-3ce7-b98d-97727cbcfaec?format=auto&s=02317515b65c7ed97b7a6e938f4dc91e7f17fd00&w=1000",
+      "sv": {
+        "title": "Stormar i USA – 900 000 strömlösa",
+        "summary": "Stormarna fortsätter att piska USA från två håll. Natten mot fredag svensk tid är 900 000 hushåll…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Storms in USA – 900,000 without power",
+        "summary": "The storms continue to lash the USA from two directions. By Friday night Swedish time, 900,000 households are…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T02:45:55+01:00"
+      }
+    },
     {
       "id": "aa6ba8dd6745",
       "schema_version": 1,
@@ -5348,33 +5375,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T11:59:14+01:00"
-      }
-    },
-    {
-      "id": "eef8cbeb0314",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Qro6xq/ilska-bland-centerpartister-efter-vandningen-svek",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Qro6xq/ilska-bland-centerpartister-efter-vandningen-svek?utm_medium=rss",
-      "published_at": "2026-11-24T10:55:29+01:00",
-      "fetched_at": "2026-11-24T11:01:08+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/1c2a80b3-c7f1-3513-8aa1-e46725cc4c32?format=auto&s=5c681a09e5c9125daad75e5536820c562e3ae6e3&w=1000",
-      "sv": {
-        "title": "Ilska bland centerpartister efter vändningen: ”Svek”",
-        "summary": "Ska samtala högerut ✓ Centerpartister rasar",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anger among Centre Party members after the turnaround: \"Betrayal\"",
-        "summary": "Will talk to the right ✓ Centre Party members rage"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T11:01:13+01:00"
       }
     }
   ]

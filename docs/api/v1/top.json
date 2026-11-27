@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T02:31:06+01:00",
-  "count": 26,
+  "generated_at": "2026-11-27T02:45:57+01:00",
+  "count": 27,
   "stories": [
     {
       "id": "ed574169a1d8",
@@ -1261,6 +1261,81 @@
           },
           "en": {
             "title": "Andersson: It would be a historically weak government"
+          }
+        }
+      ]
+    },
+    {
+      "id": "909ab8776cc6",
+      "source_count": 3,
+      "sources": [
+        "sr",
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-27T02:00:00+01:00",
+      "last_published_at": "2026-11-27T02:32:56+01:00",
+      "lead": {
+        "id": "909ab8776cc6",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9351204",
+        "guid": "rss:sr.se/article/9351204",
+        "published_at": "2026-11-27T02:00:00+01:00",
+        "fetched_at": "2026-11-27T02:14:07+01:00",
+        "category": "weather",
+        "sv": {
+          "title": "Oväder i USA – över 900 000 hushåll strömlösa",
+          "summary": "I USA är över 900 000 hushåll strömlösa på grund av det kraftiga oväder som nu har nått stora delar av landet, rapporterar CNN. Bara i delstaten Pennsylvania är över 200 000 hushåll utan ström.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Storms in USA – over 900,000 households without power",
+          "summary": "In the USA, over 900,000 households are without power due to the severe storm that has now reached large parts of the country, CNN reports. In the state of Pennsylvania alone, over 200,000 households are without electricity."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T02:14:14+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "f2ca609b946b",
+          "source": "svd",
+          "url": "https://www.svd.se/a/VxbyPV/stormar-i-usa-900000-stromlosa",
+          "published_at": "2026-11-27T02:32:56+01:00",
+          "sv": {
+            "title": "Stormar i USA – 900 000 strömlösa"
+          },
+          "en": {
+            "title": "Storms in USA – 900,000 without power"
+          }
+        },
+        {
+          "id": "152394c50c4e",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/BrR5WQ/stormar-i-usa-900000-stromlosa",
+          "published_at": "2026-11-27T02:32:56+01:00",
+          "sv": {
+            "title": "Stormar i USA – 900 000 strömlösa"
+          },
+          "en": {
+            "title": "Storms in USA – 900,000 without power"
+          }
+        },
+        {
+          "id": "909ab8776cc6",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351204",
+          "published_at": "2026-11-27T02:00:00+01:00",
+          "sv": {
+            "title": "Oväder i USA – över 900 000 hushåll strömlösa"
+          },
+          "en": {
+            "title": "Storms in USA – over 900,000 households without power"
           }
         }
       ]
