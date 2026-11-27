@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:01:31+01:00",
+  "generated_at": "2026-11-27T07:03:09+01:00",
   "count": 29,
   "stories": [
     {
@@ -1178,6 +1178,82 @@
       ]
     },
     {
+      "id": "50e9df5bf0dc",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-27T07:00:11+01:00",
+      "last_published_at": "2026-11-27T07:00:18+01:00",
+      "lead": {
+        "id": "50e9df5bf0dc",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/8Pm371/da-kan-d-vitaminbrist-vara-en-risk",
+        "guid": "https://www.aftonbladet.se/nyheter/a/8Pm371/da-kan-d-vitaminbrist-vara-en-risk?utm_medium=rss",
+        "published_at": "2026-11-27T07:00:11+01:00",
+        "fetched_at": "2026-11-27T07:01:16+01:00",
+        "category": "sweden",
+        "image_url": "https://akamai.vgc.no/v2/images/af8af005-09f1-33ae-9d9b-be6ede8fa8b8?format=auto&s=39bb368acd27d5d16067f65d8bdd748809c12280&w=1000",
+        "sv": {
+          "title": "Då kan D-vitaminbrist vara en risk",
+          "summary": "Så här års är det många som tar tillskott av D-vitamin. Men det är den som har brist under sommaren…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Then vitamin D deficiency may be a risk",
+          "summary": "At this time of year many people take vitamin D supplements. But those who are deficient during the summer…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T07:01:26+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "9c4332d2aaee",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/da-kan-d-vitaminbrist-vara-en-risk",
+          "published_at": "2026-11-27T07:00:18+01:00",
+          "sv": {
+            "title": "Då kan D-vitaminbrist vara en risk"
+          },
+          "en": {
+            "title": "Then vitamin D deficiency may be a risk"
+          }
+        },
+        {
+          "id": "15f3f1afc000",
+          "source": "svd",
+          "url": "https://www.svd.se/a/kMJ4yj/da-kan-d-vitaminbrist-vara-en-risk",
+          "published_at": "2026-11-27T07:00:12+01:00",
+          "sv": {
+            "title": "Då kan D-vitaminbrist vara en risk"
+          },
+          "en": {
+            "title": "Then vitamin D deficiency may be a risk"
+          }
+        },
+        {
+          "id": "50e9df5bf0dc",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/8Pm371/da-kan-d-vitaminbrist-vara-en-risk",
+          "published_at": "2026-11-27T07:00:11+01:00",
+          "sv": {
+            "title": "Då kan D-vitaminbrist vara en risk"
+          },
+          "en": {
+            "title": "Then vitamin D deficiency may be a risk"
+          }
+        }
+      ]
+    },
+    {
       "id": "15f9d06075b5",
       "source_count": 3,
       "sources": [
@@ -1601,69 +1677,6 @@
           },
           "en": {
             "title": "Major explosion in Bangkok – residents evacuated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "50e9df5bf0dc",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-27T07:00:11+01:00",
-      "last_published_at": "2026-11-27T07:00:18+01:00",
-      "lead": {
-        "id": "50e9df5bf0dc",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/8Pm371/da-kan-d-vitaminbrist-vara-en-risk",
-        "guid": "https://www.aftonbladet.se/nyheter/a/8Pm371/da-kan-d-vitaminbrist-vara-en-risk?utm_medium=rss",
-        "published_at": "2026-11-27T07:00:11+01:00",
-        "fetched_at": "2026-11-27T07:01:16+01:00",
-        "category": "sweden",
-        "image_url": "https://akamai.vgc.no/v2/images/af8af005-09f1-33ae-9d9b-be6ede8fa8b8?format=auto&s=39bb368acd27d5d16067f65d8bdd748809c12280&w=1000",
-        "sv": {
-          "title": "Då kan D-vitaminbrist vara en risk",
-          "summary": "Så här års är det många som tar tillskott av D-vitamin. Men det är den som har brist under sommaren…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Then vitamin D deficiency may be a risk",
-          "summary": "At this time of year many people take vitamin D supplements. But those who are deficient during the summer…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T07:01:26+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "9c4332d2aaee",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/da-kan-d-vitaminbrist-vara-en-risk",
-          "published_at": "2026-11-27T07:00:18+01:00",
-          "sv": {
-            "title": "Då kan D-vitaminbrist vara en risk"
-          },
-          "en": {
-            "title": "Then vitamin D deficiency may be a risk"
-          }
-        },
-        {
-          "id": "50e9df5bf0dc",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/8Pm371/da-kan-d-vitaminbrist-vara-en-risk",
-          "published_at": "2026-11-27T07:00:11+01:00",
-          "sv": {
-            "title": "Då kan D-vitaminbrist vara en risk"
-          },
-          "en": {
-            "title": "Then vitamin D deficiency may be a risk"
           }
         }
       ]
