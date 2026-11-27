@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T10:01:33+01:00",
+  "generated_at": "2026-11-27T10:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2267c95e8d3b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/officer-misstanks-for-brott-mot-landets-sakerhet",
+      "guid": "bac52b53-ca60-465f-a0b1-cb235b613b74",
+      "published_at": "2026-11-27T10:14:22+01:00",
+      "fetched_at": "2026-11-27T10:15:49+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Officer misstänks för brott mot landets säkerhet",
+        "summary": "En officer vid Sveriges försvarsmakt utreds av Säpo för grov obehörig befattning med hemlig uppgift, skriver DN. Den misstänkta brottsligheten ska ha ägt rum under 2025.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Officer suspected of crimes against the country's security",
+        "summary": "An officer with the Swedish Armed Forces is being investigated by Säpo for gross unauthorised handling of classified information, DN reports. The suspected crime is said to have taken place in 2025."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:15:55+01:00"
+      }
+    },
     {
       "id": "fc67b4488800",
       "schema_version": 1,
@@ -5189,33 +5215,6 @@
       "en": {
         "title": "”Mommifonden” to support vulnerable families in Lund: ”Many want to help”",
         "summary": "Lugi is honouring the memory of Louis ”Mommi” Flemister with a fund to help vulnerable children in Lund who want to play handball. – Members who are having a tough time financially will be able to apply for funds to get help with, for example, membership fees, says Emme Adébo, club manager at Lugi."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "5bd5c00ae4d2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/naringsliv/kraftverk-for-tre-miljarder-ska-byggas-i-malmo-kan-fa-ner-elpriset",
-      "guid": "fe7f07dd-65a9-402a-9dbe-af18d5b34c26",
-      "published_at": "2026-11-24T15:54:34+01:00",
-      "fetched_at": "2026-11-24T16:01:17+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0376c2f0-47e0-419e-8b46-c133c1c8bf90.jpeg?width=600",
-      "sv": {
-        "title": "Kraftverk för tre miljarder ska byggas i Malmö – kan få ner elpriset",
-        "summary": "Eon får 320 miljoner i statligt stöd för att bygga ett nytt kraftvärmeverk i Oljehamnen i Malmö. Tremiljardersbygget ska kunna producera el för uppemot 10 000 villor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Power plant worth three billion to be built in Malmö – could lower electricity prices",
-        "summary": "Eon receives SEK 320 million in state aid to build a new combined heat and power plant at Oljehamnen in Malmö. The multi-billion project is expected to produce electricity for up to 10,000 villas."
       },
       "translation": {
         "status": "done",

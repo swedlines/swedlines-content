@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T10:01:33+01:00",
+  "generated_at": "2026-11-27T10:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e50401939322",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/schroders-sorg-under-galakvallen-gjorde-det-for-mormor",
+      "guid": "https://www.dn.se/sport/schroders-sorg-under-galakvallen-gjorde-det-for-mormor/",
+      "published_at": "2026-11-27T10:02:53+01:00",
+      "fetched_at": "2026-11-27T10:15:45+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/88dfbba2-11c8-47b5-97f6-c0eaf82f9a92.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Schröders sorg under galakvällen: ”Gjorde det för mormor”",
+        "summary": "VALENCIA. Felicia Schröder har slagit igenom i Real Madrid och gått på röda mattan bland världsspelare. Fotbollshösten har varit intensiv – och mitt i allt, en sorg: – Mormor hade velat att jag gick på Ballon d'Or-galan, så jag gjorde det för henne, berättar 19-åringen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Schröder's grief during gala evening: “Did it for grandma”",
+        "summary": "VALENCIA. Felicia Schröder has broken through at Real Madrid and walked the red carpet among world-class players. The football autumn has been intense – and in the middle of it all, a sorrow: “Grandma would have wanted me to go to the Ballon d'Or gala, so I did it for her,” says the 19-year-old."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:15:55+01:00"
+      }
+    },
     {
       "id": "5d2554d26b6c",
       "schema_version": 1,
@@ -5565,37 +5592,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T20:45:55+01:00"
-      }
-    },
-    {
-      "id": "3cb9d936b486",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/gais/gais-om-nikola-vasics-framtid-da-kan-beskedet-komma.d5ccba14-99ed-52c4-8ee8-d9dd5673b7da",
-      "guid": "d5ccba14-99ed-52c4-8ee8-d9dd5673b7da",
-      "published_at": "2026-11-20T18:24:23+01:00",
-      "fetched_at": "2026-11-20T19:01:25+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Gais",
-        "Tagg: Gais"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/f337bdf9-8bb9-3d90-a28a-f1cff36c6338",
-      "sv": {
-        "title": "Gais-direktörens svar – om Nikola Vasic framtid",
-        "summary": "Kontraktet löper ut – blir anfallaren kvar eller inte?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Gais director's answer – on Nikola Vasic's future",
-        "summary": "The contract is running out – will the striker stay or not?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T19:01:29+01:00"
       }
     }
   ]

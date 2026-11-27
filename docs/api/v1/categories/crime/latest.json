@@ -1,7 +1,108 @@
 {
-  "generated_at": "2026-11-27T10:01:33+01:00",
+  "generated_at": "2026-11-27T10:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2267c95e8d3b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/officer-misstanks-for-brott-mot-landets-sakerhet",
+      "guid": "bac52b53-ca60-465f-a0b1-cb235b613b74",
+      "published_at": "2026-11-27T10:14:22+01:00",
+      "fetched_at": "2026-11-27T10:15:49+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Officer misstänks för brott mot landets säkerhet",
+        "summary": "En officer vid Sveriges försvarsmakt utreds av Säpo för grov obehörig befattning med hemlig uppgift, skriver DN. Den misstänkta brottsligheten ska ha ägt rum under 2025.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Officer suspected of crimes against the country's security",
+        "summary": "An officer with the Swedish Armed Forces is being investigated by Säpo for gross unauthorised handling of classified information, DN reports. The suspected crime is said to have taken place in 2025."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:15:55+01:00"
+      }
+    },
+    {
+      "id": "14e336abec15",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351373",
+      "guid": "rss:sr.se/article/9351373",
+      "published_at": "2026-11-27T10:10:00+01:00",
+      "fetched_at": "2026-11-27T10:15:44+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Uppgifter: Officer misstänks för brott som kan skada Sveriges säkerhet",
+        "summary": "En officer vid Sveriges försvarsmakt misstänks för brottslighet som kan skada mot Sveriges säkerhet. Officeren misstänks för grov obehörig befattning med hemlig uppgift, skriver DN. Den misstänkta brottsligheten ska ha ägt rum under 2025. Säkerhetspolisen uppger till DN att de utreder ärendet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Reports: Officer suspected of crimes that may harm Sweden's security",
+        "summary": "An officer with the Swedish Armed Forces is suspected of crimes that may harm Sweden's security. The officer is suspected of gross unauthorised handling of classified information, DN reports. The suspected crime is said to have taken place in 2025. The Security Service tells DN that it is investigating the case."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:15:55+01:00"
+      }
+    },
+    {
+      "id": "74ae1c8676a6",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80370",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80370&utm_medium=rss",
+      "published_at": "2026-11-27T10:06:18+01:00",
+      "fetched_at": "2026-11-27T10:15:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Officer misstänks för brott mot Sveriges säkerhet"
+      },
+      "en": {
+        "title": "Officer suspected of crimes against Sweden's security"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:15:55+01:00"
+      }
+    },
+    {
+      "id": "37348ce22871",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/mMRG7l/officer-misstanks-for-brott-mot-landets-sakerhet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/mMRG7l/officer-misstanks-for-brott-mot-landets-sakerhet?utm_medium=rss",
+      "published_at": "2026-11-27T10:04:54+01:00",
+      "fetched_at": "2026-11-27T10:15:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Officer misstänks för brott mot landets säkerhet",
+        "summary": "En officer vid Sveriges försvarsmakt utreds av Säpo för grov obehörig befattning med hemlig…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Officer suspected of crimes against the country's security",
+        "summary": "An officer with the Swedish Armed Forces is being investigated by Säpo for gross unauthorised handling of classified…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:15:55+01:00"
+      }
+    },
     {
       "id": "b89299ed01c4",
       "schema_version": 1,
@@ -5289,111 +5390,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T20:31:07+01:00"
-      }
-    },
-    {
-      "id": "072cb69e51e2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/QgEB1A/morddomde-rajabi-vill-bli-utvisad-men-kan-inte",
-      "guid": "https://www.aftonbladet.se/nyheter/a/QgEB1A/morddomde-rajabi-vill-bli-utvisad-men-kan-inte?utm_medium=rss",
-      "published_at": "2026-11-22T16:17:35+01:00",
-      "fetched_at": "2026-11-22T16:31:04+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/0306de04-2224-3679-90f0-bf62ef639dbd?format=auto&s=0428476a8c7d7cec0fff315df3f9199298c34132&w=1000",
-      "sv": {
-        "title": "Morddömde Rajabi vill bli utvisad – men kan inte",
-        "summary": "Mördarens inlåsning har kostat över en miljon",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Convicted murderer Rajabi wants to be deported – but cannot be",
-        "summary": "The murderer's imprisonment has cost over SEK 1 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T16:31:10+01:00"
-      }
-    },
-    {
-      "id": "f134ae16598a",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=c8eead01-9525-48f6-9117-45995530b2cf",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8eead01-9525-48f6-9117-45995530b2cf",
-      "published_at": "2026-11-22T15:37:51+01:00",
-      "fetched_at": "2026-11-22T15:45:47+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Lät avliva grannens katt – lämnade lapp i brevlådan",
-        "summary": "Kvinnan döms • La lapp i brevlådan",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Had neighbour's cat put down – left note in mailbox",
-        "summary": "Woman convicted • Left note in mailbox"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:45:55+01:00"
-      }
-    },
-    {
-      "id": "200d5984ecca",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/skickade-hotfullt-julkort-till-sig-sjalv-kvinna-fran-lulea-doms",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/skickade-hotfullt-julkort-till-sig-sjalv-kvinna-fran-lulea-doms",
-      "published_at": "2026-11-22T15:37:28+01:00",
-      "fetched_at": "2026-11-22T15:45:43+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Skickade hotfullt julkort till sig själv – kvinna från Luleå döms",
-        "summary": "En kvinna i 35-årsåldern polisanmälde ett julkort innehållande dödshot. Men det ska senare visa sig att hon själv författat kortet och nu döms kvinnan till villkorlig dom för bevisförvanskning och falsk angivelse. – Det var ett ovanligt ärende, säger åklagaren Moa Grahn.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sent threatening Christmas card to herself – woman from Luleå convicted",
-        "summary": "A woman in her 35s reported a Christmas card containing death threats to the police. It later turned out that she had written the card herself, and she has now been convicted to a suspended sentence for tampering with evidence and false accusation. \"It was an unusual case,\" says prosecutor Moa Grahn."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:45:55+01:00"
-      }
-    },
-    {
-      "id": "3c79fb1ea4a6",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/kvinna-sag-demoner-mordade-granne",
-      "guid": "https://www.expressen.se/nyheter/sverige/kvinna-sag-demoner-mordade-granne/",
-      "published_at": "2026-11-22T15:25:03+01:00",
-      "fetched_at": "2026-11-22T15:29:02+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Kvinna såg demoner – mördade granne",
-        "summary": "Kvinnan åt gryta och drack vin med sin 30 år äldre granne. Sen gick hon till attack. – Jag har inte knivhuggit någon, fattar du trögt. Jag är en healer, säger kvinnan – som också pratar om dimensioner och demoner – i förhör. Nu döms hon för mord.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Woman saw demons – murdered neighbour",
-        "summary": "The woman ate stew and drank wine with her neighbour, who was 30 years older. Then she attacked. – I haven't stabbed anyone, get it, you're slow. I'm a healer, says the woman – who also talks about dimensions and demons – in interrogation. She is now convicted of murder."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:29:12+01:00"
       }
     }
   ]
