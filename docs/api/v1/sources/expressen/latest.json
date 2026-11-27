@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T12:16:00+01:00",
+  "generated_at": "2026-11-27T12:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cb6bb004e59a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/krim/kvinna-far-sankt-straff-for-misslyckad-mordplan",
+      "guid": "https://www.expressen.se/nyheter/krim/kvinna-far-sankt-straff-for-misslyckad-mordplan/",
+      "published_at": "2026-11-27T12:27:05+01:00",
+      "fetched_at": "2026-11-27T12:30:58+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Kvinna får sänkt straff för misslyckad mordplan",
+        "summary": "En kvinna i 20-årsåldern, som dömdes för mordförsök i Helsingborg i tingsrätten, får straffet nästan halverat i hovrätten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Woman's sentence reduced for failed murder plot",
+        "summary": "A woman in her 20s, who was convicted of attempted murder in Helsingborg by the district court, has her sentence almost halved by the court of appeal."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T12:31:05+01:00"
+      }
+    },
     {
       "id": "20c1c78727ac",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T11:16:01+01:00"
-      }
-    },
-    {
-      "id": "32c1d7f04c46",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/expressen-klandras-for-hundgranskning",
-      "guid": "https://www.expressen.se/nyheter/sverige/expressen-klandras-for-hundgranskning/",
-      "published_at": "2026-11-24T10:50:52+01:00",
-      "fetched_at": "2026-11-24T10:52:37+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Expressen klandras för hundgranskning",
-        "summary": "Mediernas Etiknämnd klandrar Expressen för att ha brutit mot god publicistisk sed. I två artiklar anklagas Försvarsmaktens hundexpert för att ha plågat en hund med vad som påstods vara ett otillåtet halsband.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Expressen criticised over dog investigation",
-        "summary": "The Press Ethics Council criticises Expressen for having breached good press practice. In two articles, the Armed Forces' dog expert is accused of having tormented a dog with what was claimed to be an unauthorised collar."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T10:52:41+01:00"
       }
     }
   ]

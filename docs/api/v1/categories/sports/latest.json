@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-11-27T12:16:00+01:00",
+  "generated_at": "2026-11-27T12:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5410d36e9e9f",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/svensk-succe-i-premiaren-ebba-andersson-tog-hem-segern.f93a26b0-76b1-5652-ac21-52a64dcee426",
+      "guid": "f93a26b0-76b1-5652-ac21-52a64dcee426",
+      "published_at": "2026-11-27T11:58:38+01:00",
+      "fetched_at": "2026-11-27T12:31:00+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Sport",
+        "Tagg: Ebba Andersson",
+        "Tagg: Längdskidor",
+        "Tagg: Världscupen i längdskidor",
+        "Tagg: Linn Svahn",
+        "Tagg: Frida Karlsson",
+        "Tagg: Emma Ribom",
+        "Tagg: Moa Ilar"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/230bbdfe-2bd4-370f-9ccd-b378c12e6e5f",
+      "sv": {
+        "title": "Ebba Anderssons maktdemonstration – svensk trippel i premiären",
+        "summary": "Ryskan ledde halvvägs – sedan kom den svenska uppvisningen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ebba Andersson's show of strength – Swedish triple in the premiere",
+        "summary": "The Russian led halfway – then the Swedish performance came"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T12:31:05+01:00"
+      }
+    },
     {
       "id": "d14581ee597f",
       "schema_version": 1,
@@ -5562,30 +5599,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T05:31:06+01:00"
-      }
-    },
-    {
-      "id": "df71af958d91",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/bayern-harry-kane-borta-i-manader",
-      "guid": "76ef7eb7-13c1-49f1-b252-3dcd21307b4e",
-      "published_at": "2026-11-21T00:18:06+01:00",
-      "fetched_at": "2026-11-21T00:31:01+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/f08f6c2b-476e-4553-a97c-9548e05a8fd2.jpg?width=600",
-      "sv": {
-        "title": "Bayern: Harry Kane borta i månader"
-      },
-      "en": {
-        "title": "Bayern: Harry Kane out for months"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T00:31:03+01:00"
       }
     }
   ]

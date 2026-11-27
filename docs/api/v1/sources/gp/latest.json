@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-11-27T12:16:00+01:00",
+  "generated_at": "2026-11-27T12:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5410d36e9e9f",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/svensk-succe-i-premiaren-ebba-andersson-tog-hem-segern.f93a26b0-76b1-5652-ac21-52a64dcee426",
+      "guid": "f93a26b0-76b1-5652-ac21-52a64dcee426",
+      "published_at": "2026-11-27T11:58:38+01:00",
+      "fetched_at": "2026-11-27T12:31:00+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Sport",
+        "Tagg: Ebba Andersson",
+        "Tagg: Längdskidor",
+        "Tagg: Världscupen i längdskidor",
+        "Tagg: Linn Svahn",
+        "Tagg: Frida Karlsson",
+        "Tagg: Emma Ribom",
+        "Tagg: Moa Ilar"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/230bbdfe-2bd4-370f-9ccd-b378c12e6e5f",
+      "sv": {
+        "title": "Ebba Anderssons maktdemonstration – svensk trippel i premiären",
+        "summary": "Ryskan ledde halvvägs – sedan kom den svenska uppvisningen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ebba Andersson's show of strength – Swedish triple in the premiere",
+        "summary": "The Russian led halfway – then the Swedish performance came"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T12:31:05+01:00"
+      }
+    },
     {
       "id": "2173473eeff7",
       "schema_version": 1,
@@ -6835,39 +6872,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T14:15:53+01:00"
-      }
-    },
-    {
-      "id": "51ba1f2cbe9a",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/julen-sparkar-igang-pa-gunnebo-slott.ecfbe858-e032-572e-b862-152c76128eab",
-      "guid": "ecfbe858-e032-572e-b862-152c76128eab",
-      "published_at": "2026-11-22T12:15:43+01:00",
-      "fetched_at": "2026-11-22T12:45:45+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: Jul",
-        "Tagg: Julmarknad",
-        "Tagg: Gunnebo slott och trädgårdar"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/0f78f959-f8d2-31da-be74-56d440045d41",
-      "sv": {
-        "title": "Julmys på slottet med dödskorv och lyxpraliner",
-        "summary": "Vad kan väl vara bättre för att komma i julstämning än att besöka en julmarknad?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Christmas market at the castle with deadly sausage and luxury pralines",
-        "summary": "What could be better for getting into the Christmas mood than visiting a Christmas market?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T12:45:52+01:00"
       }
     }
   ]
