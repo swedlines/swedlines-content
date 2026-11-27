@@ -1,227 +1,140 @@
 {
-  "generated_at": "2026-11-27T08:01:24+01:00",
+  "generated_at": "2026-11-27T08:16:05+01:00",
   "count": 27,
   "stories": [
     {
-      "id": "ed574169a1d8",
-      "source_count": 8,
+      "id": "39b05fad3cef",
+      "source_count": 5,
       "sources": [
-        "svt",
-        "aftonbladet",
         "expressen",
-        "dn",
-        "svd",
-        "sydsvenskan",
-        "gp",
-        "sr"
+        "tv4",
+        "di",
+        "sr",
+        "dn"
       ],
-      "first_published_at": "2026-11-26T09:32:28+01:00",
-      "last_published_at": "2026-11-26T20:07:00+01:00",
+      "first_published_at": "2026-11-26T18:04:47+01:00",
+      "last_published_at": "2026-11-27T08:03:33+01:00",
       "lead": {
-        "id": "ed574169a1d8",
+        "id": "39b05fad3cef",
         "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
-        "guid": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
-        "published_at": "2026-11-26T09:32:28+01:00",
-        "fetched_at": "2026-11-26T09:45:44+01:00",
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/andersson-efter-c-beskedet-min-dorr-star-alltid-oppen",
+        "guid": "https://www.expressen.se/nyheter/politik/andersson-efter-c-beskedet-min-dorr-star-alltid-oppen/",
+        "published_at": "2026-11-26T18:04:47+01:00",
+        "fetched_at": "2026-11-26T18:15:44+01:00",
         "category": "politics",
         "sv": {
-          "title": "C-toppar möts i dag – i blixtinkallat möte",
-          "summary": "Centerpartiet har kallat till ett extrainsatt möte med partistyrelsen och riksdagsgruppen under dagen. Syftet är, enligt SVT:s uppgifter, att undersöka om det finns ett stöd för att rösta grönt till Ulf Kristersson på måndag.",
+          "title": "Andersson efter C-beskedet: ”Min dörr står alltid öppen”",
+          "summary": "Centerledningen vill att partiet röstar ja till en borgerlig fyrpartiregering med Ulf Kristersson som statsminister. Men Miljöpartiet och Socialdemokraterna hoppas fortfarande kunna vinna tillbaka centerpartisterna. ”Dörren står fortfarande öppen”, skriver S-ledaren Magdalena Andersson.",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "C leaders meet today – at snap meeting",
-          "summary": "The Centre Party has called an extra meeting with the party board and the Riksdag group during the day. The aim is, according to SVT's information, to examine whether there is support for voting green for Ulf Kristersson (M) on Monday."
+          "title": "Andersson on the Centre's decision: \"My door is always open\"",
+          "summary": "The Centre leadership wants the party to vote yes to a four-party bourgeois government with Ulf Kristersson as prime minister. But the Green Party and the Social Democrats still hope to win back Centre Party members. \"The door is still open\", writes S leader Magdalena Andersson."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T09:45:55+01:00"
+          "translated_at": "2026-11-26T18:15:51+01:00"
         }
       },
       "items": [
         {
-          "id": "caeef3f3049d",
+          "id": "c888f6afcf28",
+          "source": "dn",
+          "url": "https://www.dn.se/insandare/c-bor-slappa-fram-kristersson-och-ga-i-opposition",
+          "published_at": "2026-11-27T08:03:33+01:00",
+          "sv": {
+            "title": "Insändare. C bör släppa fram Kristersson – och gå i opposition"
+          },
+          "en": {
+            "title": "Letter: C should let Kristersson through – and go into opposition"
+          }
+        },
+        {
+          "id": "c6e1b445207b",
           "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351143",
-          "published_at": "2026-11-26T20:07:00+01:00",
+          "url": "https://www.sverigesradio.se/artikel/9351198",
+          "published_at": "2026-11-26T23:35:00+01:00",
           "sv": {
-            "title": "C-kvinnornas ordförande: ”Klart att jag är besviken”"
+            "title": "Furtenbach om C:s besked: ”En kris för Socialdemokraterna”"
           },
           "en": {
-            "title": "Chair of the Centre Party women's league: “Of course I'm disappointed”"
+            "title": "Furtenbach on C's decision: \"A crisis for the Social Democrats\""
           }
         },
         {
-          "id": "5587d6419efd",
-          "source": "gp",
-          "url": "https://www.gp.se/politik/c-kommunalradet-jag-kanner-mig-bedrovad.7133cb9f-8adb-5b14-8755-1016240ce2bb",
-          "published_at": "2026-11-26T19:12:58+01:00",
-          "sv": {
-            "title": "C-politikern: ”Jag känner mig bedrövad”"
-          },
-          "en": {
-            "title": "C politician: “I feel dismayed”"
-          }
-        },
-        {
-          "id": "997ab0b28c5c",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/ilska-och-besvikelse-bland-c-toppar-efter-beslutet-kanner-mig-bedrovad",
-          "published_at": "2026-11-26T19:11:34+01:00",
-          "sv": {
-            "title": "Ilska och besvikelse bland C-toppar efter beslutet: ”Känner mig bedrövad”"
-          },
-          "en": {
-            "title": "Anger and disappointment among C leaders after decision: “I feel devastated”"
-          }
-        },
-        {
-          "id": "81dec31ce409",
-          "source": "gp",
-          "url": "https://www.gp.se/politik/centerpartiet-hade-inga-bra-alternativ-kvar.746e0e9b-617e-5d9b-a054-239948f996c5",
-          "published_at": "2026-11-26T18:59:12+01:00",
-          "sv": {
-            "title": "Centerpartiet hade inga bra alternativ kvar"
-          },
-          "en": {
-            "title": "The Centre Party had no good options left"
-          }
-        },
-        {
-          "id": "f2b24294f377",
-          "source": "gp",
-          "url": "https://www.gp.se/asikt-och-debatt/ledare/centerns-val-kan-bli-slutet-for-symbolpolitiken.cbdf7be0-90fd-5bba-ae56-8bba2fcce389",
-          "published_at": "2026-11-26T16:59:25+01:00",
-          "sv": {
-            "title": "Håkan Boström: Centerns val kan bli slutet för symbolpolitiken"
-          },
-          "en": {
-            "title": "Håkan Boström: The Centre Party's choice could mark the end of symbolic politics"
-          }
-        },
-        {
-          "id": "2f9aaf1dcf3b",
-          "source": "svd",
-          "url": "https://www.svd.se/a/2vGWKa/locket-pa-i-stockholms-stadshus-om-dubbdacken-trafikborgarradet-gor-skillnad-pa-folk-och-folk",
-          "published_at": "2026-11-26T16:57:04+01:00",
-          "sv": {
-            "title": "Locket på om S-topparnas dubbdäck"
-          },
-          "en": {
-            "title": "Lid on the Social Democrats' studded tyres"
-          }
-        },
-        {
-          "id": "ce1a01678204",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/c-ledaren-kallar-till-presstraff-efter-odesmotet",
-          "published_at": "2026-11-26T16:43:38+01:00",
-          "sv": {
-            "title": "C-ledaren kallar till pressträff efter ödesmötet"
-          },
-          "en": {
-            "title": "Centre leader calls press conference after make-or-break meeting"
-          }
-        },
-        {
-          "id": "9e497db53da0",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wdP7v5/c-ledaren-kallar-till-presstraff-efter-odesmotet",
-          "published_at": "2026-11-26T16:43:31+01:00",
-          "sv": {
-            "title": "C-ledaren kallar till pressträff efter ödesmötet"
-          },
-          "en": {
-            "title": "Centre leader calls press conference after make-or-break meeting"
-          }
-        },
-        {
-          "id": "933d5d171574",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/z0Gd4b/c-ledaren-kallar-till-presstraff-efter-odesmotet",
-          "published_at": "2026-11-26T16:43:31+01:00",
-          "sv": {
-            "title": "C-ledaren kallar till pressträff efter ödesmötet"
-          },
-          "en": {
-            "title": "Centre leader calls press conference after make-or-break meeting"
-          }
-        },
-        {
-          "id": "a9aff6773022",
+          "id": "23d26073a48e",
           "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=154b6100-7d26-4d2d-88c8-d2e3d59eb1f7",
-          "published_at": "2026-11-26T16:40:58+01:00",
+          "url": "https://www.expressen.se/nyheter/politik/c-toppens-tarar-efter-beskedet-hur-ar-det-mojligt",
+          "published_at": "2026-11-26T22:28:07+01:00",
           "sv": {
-            "title": "Centerpartiet blixtinkallar till pressträff"
+            "title": "C-toppens tårar efter beskedet: ”Hur är det möjligt”"
           },
           "en": {
-            "title": "Centre Party calls snap press conference"
+            "title": "C-top's tears after the announcement: \"How is this possible\""
           }
         },
         {
-          "id": "55d50c80826d",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/centerpartiet-blixtinkallar-till-mote-oppen-splittring-i-partiet",
-          "published_at": "2026-11-26T11:19:38+01:00",
+          "id": "cf5e15536a1a",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351129",
+          "published_at": "2026-11-26T20:18:00+01:00",
           "sv": {
-            "title": "Centerpartiet blixtinkallar till möte – öppen splittring i partiet"
+            "title": "Kristersson (M): ”Ett mycket välkommet besked”"
           },
           "en": {
-            "title": "Centre Party calls emergency meeting – open split in the party"
+            "title": "Kristersson (M): \"A very welcome message\""
           }
         },
         {
-          "id": "dbfe12f1aff8",
+          "id": "44fc64346f68",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/1NhzURHX9CdlZptvFi4d2H/interna-ilskan-efter-c-ledarens-stoed-till-kristersson-katastrof",
+          "published_at": "2026-11-26T20:15:48+01:00",
+          "sv": {
+            "title": "Intern ilska efter C-ledarens besked: ”Katastrof”"
+          },
+          "en": {
+            "title": "Internal anger after C leader's announcement: \"Catastrophe\""
+          }
+        },
+        {
+          "id": "d4974e099086",
+          "source": "di",
+          "url": "https://www.di.se/ledare/ett-bra-besked-for-sverige",
+          "published_at": "2026-11-26T19:21:40+01:00",
+          "sv": {
+            "title": "Ett bra besked för Sverige"
+          },
+          "en": {
+            "title": "A good message for Sweden"
+          }
+        },
+        {
+          "id": "23517b033bce",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/2wAaw3nC7dDALbaMSpyOoi/beskedet-efter-75-dagar-c-vill-saega-ja-till-kristersson",
+          "published_at": "2026-11-26T18:19:48+01:00",
+          "sv": {
+            "title": "C-beskedet efter 75 dagar – vill säga ja till Kristersson"
+          },
+          "en": {
+            "title": "C announcement after 75 days – wants to say yes to Kristersson"
+          }
+        },
+        {
+          "id": "39b05fad3cef",
           "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/centerpartiet-blixtinkallar-till-mote",
-          "published_at": "2026-11-26T09:56:19+01:00",
+          "url": "https://www.expressen.se/nyheter/politik/andersson-efter-c-beskedet-min-dorr-star-alltid-oppen",
+          "published_at": "2026-11-26T18:04:47+01:00",
           "sv": {
-            "title": "Centerpartiet blixtinkallar till möte"
+            "title": "Andersson efter C-beskedet: ”Min dörr står alltid öppen”"
           },
           "en": {
-            "title": "Centre Party calls snap meeting"
-          }
-        },
-        {
-          "id": "3209bcfe334c",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ddec57c2-1d59-4079-ae61-f1df4f8fefc7",
-          "published_at": "2026-11-26T09:41:10+01:00",
-          "sv": {
-            "title": "C blixtinkallar till möte"
-          },
-          "en": {
-            "title": "C calls snap meeting"
-          }
-        },
-        {
-          "id": "48b1d3641113",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/xJPaql/centerpartiet-blixinkallar-till-mote",
-          "published_at": "2026-11-26T09:35:15+01:00",
-          "sv": {
-            "title": "C-toppar möts i blixtinkallat möte"
-          },
-          "en": {
-            "title": "Centre Party leaders meet in snap meeting"
-          }
-        },
-        {
-          "id": "ed574169a1d8",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/c-toppar-mots-i-dag-i-blixtinkallat-mote",
-          "published_at": "2026-11-26T09:32:28+01:00",
-          "sv": {
-            "title": "C-toppar möts i dag – i blixtinkallat möte"
-          },
-          "en": {
-            "title": "C leaders meet today – at snap meeting"
+            "title": "Andersson on the Centre's decision: \"My door is always open\""
           }
         }
       ]
@@ -716,130 +629,6 @@
           },
           "en": {
             "title": "Trump to Putin: End all aggression in Europe"
-          }
-        }
-      ]
-    },
-    {
-      "id": "39b05fad3cef",
-      "source_count": 4,
-      "sources": [
-        "expressen",
-        "tv4",
-        "di",
-        "sr"
-      ],
-      "first_published_at": "2026-11-26T18:04:47+01:00",
-      "last_published_at": "2026-11-26T23:35:00+01:00",
-      "lead": {
-        "id": "39b05fad3cef",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/andersson-efter-c-beskedet-min-dorr-star-alltid-oppen",
-        "guid": "https://www.expressen.se/nyheter/politik/andersson-efter-c-beskedet-min-dorr-star-alltid-oppen/",
-        "published_at": "2026-11-26T18:04:47+01:00",
-        "fetched_at": "2026-11-26T18:15:44+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Andersson efter C-beskedet: ”Min dörr står alltid öppen”",
-          "summary": "Centerledningen vill att partiet röstar ja till en borgerlig fyrpartiregering med Ulf Kristersson som statsminister. Men Miljöpartiet och Socialdemokraterna hoppas fortfarande kunna vinna tillbaka centerpartisterna. ”Dörren står fortfarande öppen”, skriver S-ledaren Magdalena Andersson.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Andersson on the Centre's decision: \"My door is always open\"",
-          "summary": "The Centre leadership wants the party to vote yes to a four-party bourgeois government with Ulf Kristersson as prime minister. But the Green Party and the Social Democrats still hope to win back Centre Party members. \"The door is still open\", writes S leader Magdalena Andersson."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T18:15:51+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "c6e1b445207b",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351198",
-          "published_at": "2026-11-26T23:35:00+01:00",
-          "sv": {
-            "title": "Furtenbach om C:s besked: ”En kris för Socialdemokraterna”"
-          },
-          "en": {
-            "title": "Furtenbach on C's decision: \"A crisis for the Social Democrats\""
-          }
-        },
-        {
-          "id": "23d26073a48e",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/c-toppens-tarar-efter-beskedet-hur-ar-det-mojligt",
-          "published_at": "2026-11-26T22:28:07+01:00",
-          "sv": {
-            "title": "C-toppens tårar efter beskedet: ”Hur är det möjligt”"
-          },
-          "en": {
-            "title": "C-top's tears after the announcement: \"How is this possible\""
-          }
-        },
-        {
-          "id": "cf5e15536a1a",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351129",
-          "published_at": "2026-11-26T20:18:00+01:00",
-          "sv": {
-            "title": "Kristersson (M): ”Ett mycket välkommet besked”"
-          },
-          "en": {
-            "title": "Kristersson (M): \"A very welcome message\""
-          }
-        },
-        {
-          "id": "44fc64346f68",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/1NhzURHX9CdlZptvFi4d2H/interna-ilskan-efter-c-ledarens-stoed-till-kristersson-katastrof",
-          "published_at": "2026-11-26T20:15:48+01:00",
-          "sv": {
-            "title": "Intern ilska efter C-ledarens besked: ”Katastrof”"
-          },
-          "en": {
-            "title": "Internal anger after C leader's announcement: \"Catastrophe\""
-          }
-        },
-        {
-          "id": "d4974e099086",
-          "source": "di",
-          "url": "https://www.di.se/ledare/ett-bra-besked-for-sverige",
-          "published_at": "2026-11-26T19:21:40+01:00",
-          "sv": {
-            "title": "Ett bra besked för Sverige"
-          },
-          "en": {
-            "title": "A good message for Sweden"
-          }
-        },
-        {
-          "id": "23517b033bce",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/2wAaw3nC7dDALbaMSpyOoi/beskedet-efter-75-dagar-c-vill-saega-ja-till-kristersson",
-          "published_at": "2026-11-26T18:19:48+01:00",
-          "sv": {
-            "title": "C-beskedet efter 75 dagar – vill säga ja till Kristersson"
-          },
-          "en": {
-            "title": "C announcement after 75 days – wants to say yes to Kristersson"
-          }
-        },
-        {
-          "id": "39b05fad3cef",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/andersson-efter-c-beskedet-min-dorr-star-alltid-oppen",
-          "published_at": "2026-11-26T18:04:47+01:00",
-          "sv": {
-            "title": "Andersson efter C-beskedet: ”Min dörr står alltid öppen”"
-          },
-          "en": {
-            "title": "Andersson on the Centre's decision: \"My door is always open\""
           }
         }
       ]
@@ -1411,125 +1200,189 @@
       ]
     },
     {
-      "id": "b3b0bf2c57d8",
-      "source_count": 3,
+      "id": "726e8c1c842e",
+      "source_count": 2,
       "sources": [
         "aftonbladet",
-        "expressen",
-        "di"
+        "svd"
       ],
-      "first_published_at": "2026-11-26T09:21:48+01:00",
-      "last_published_at": "2026-11-26T20:04:54+01:00",
+      "first_published_at": "2026-11-27T08:09:05+01:00",
+      "last_published_at": "2026-11-27T08:09:05+01:00",
       "lead": {
-        "id": "b3b0bf2c57d8",
+        "id": "726e8c1c842e",
         "schema_version": 1,
         "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/1vnKAJ/stor-explosion-i-bangkok",
-        "guid": "https://www.aftonbladet.se/nyheter/a/1vnKAJ/stor-explosion-i-bangkok?utm_medium=rss",
-        "published_at": "2026-11-26T09:21:48+01:00",
-        "fetched_at": "2026-11-26T10:01:16+01:00",
+        "url": "https://www.aftonbladet.se/nyheter/a/Wmb92d/starshield-strulet-en-gata-som-pingpong",
+        "guid": "https://www.aftonbladet.se/nyheter/a/Wmb92d/starshield-strulet-en-gata-som-pingpong?utm_medium=rss",
+        "published_at": "2026-11-27T08:09:05+01:00",
+        "fetched_at": "2026-11-27T08:15:48+01:00",
         "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/0db0bf7d-125b-36e3-8553-c286deaa874e?format=auto&s=797e5e5beda4ac1a0f1f648a7ea2419b06ecb2ed&w=1000",
+        "image_url": "https://akamai.vgc.no/v2/images/a4c94708-f934-36ea-9ffe-fd77b69ee71e?format=auto&s=5f039870d3f38a578bd8f223ec557c2ff1848886&w=1000",
         "sv": {
-          "title": "Stor explosion i Bangkok – invånare evakueras",
-          "summary": "Invånarna varnas",
+          "title": "Starshield-strulet en gåta: ”Som pingpong”",
+          "summary": "En svår vinter väntar för Ukraina, som försvarar sitt luftrum från ryska attacker med hjälp av…",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Major explosion in Bangkok – residents evacuated",
-          "summary": "Residents are warned"
+          "title": "Starshield mess a mystery: \"Like ping-pong\"",
+          "summary": "A difficult winter awaits Ukraine, which is defending its airspace from Russian attacks with the help of…"
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T10:01:24+01:00"
+          "translated_at": "2026-11-27T08:15:58+01:00"
         }
       },
       "items": [
         {
-          "id": "bd18d0d68b99",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/dodlig-attack-mot-saudiskt-oljeraffinaderi",
-          "published_at": "2026-11-26T20:04:54+01:00",
+          "id": "aadf01982a5c",
+          "source": "svd",
+          "url": "https://www.svd.se/a/nLa5Pn/starshield-strulet-en-gata-som-pingpong",
+          "published_at": "2026-11-27T08:09:05+01:00",
           "sv": {
-            "title": "Dödlig attack mot saudiskt oljeraffinaderi"
+            "title": "Starshield-strulet en gåta: ”Som pingpong”"
           },
           "en": {
-            "title": "Deadly attack on Saudi oil refinery"
+            "title": "Starshield mess a mystery: \"Like ping-pong\""
           }
         },
         {
-          "id": "c5ccdc568c39",
+          "id": "726e8c1c842e",
           "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/r8ABJR/dodlig-attack-mot-saudiskt-oljeraffinaderi",
-          "published_at": "2026-11-26T19:57:31+01:00",
+          "url": "https://www.aftonbladet.se/nyheter/a/Wmb92d/starshield-strulet-en-gata-som-pingpong",
+          "published_at": "2026-11-27T08:09:05+01:00",
           "sv": {
-            "title": "Dödlig attack mot saudiskt oljeraffinaderi"
+            "title": "Starshield-strulet en gåta: ”Som pingpong”"
           },
           "en": {
-            "title": "Fatal attack on Saudi oil refinery"
+            "title": "Starshield mess a mystery: \"Like ping-pong\""
           }
+        }
+      ]
+    },
+    {
+      "id": "3f6874444123",
+      "source_count": 2,
+      "sources": [
+        "sr",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-26T21:25:00+01:00",
+      "last_published_at": "2026-11-27T08:06:59+01:00",
+      "lead": {
+        "id": "3f6874444123",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9351171",
+        "guid": "rss:sr.se/article/9351171",
+        "published_at": "2026-11-26T21:25:00+01:00",
+        "fetched_at": "2026-11-26T21:31:02+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "C i Stockholm sågar beslutet – kommer inte rösta ja",
+          "summary": "Centerpartiets Stockholmsdistrikt säger nej till partiledningens linje i regeringsfrågan, uppger distriktsordförande Jonas Naddebo. Förtroenderådet fattar beslut på söndag om stödet till Ulf Kristerssons regering. I rådet kommer Stockholmsdistriktet att rösta nej till att gå högerut.",
+          "summary_origin": "truncated"
         },
-        {
-          "id": "6461838017a4",
-          "source": "aftonbladet",
-          "url": "https://tv.aftonbladet.se/video/411288",
-          "published_at": "2026-11-26T10:26:41+01:00",
-          "sv": {
-            "title": "Stor explosion i Bangkok"
-          },
-          "en": {
-            "title": "Major explosion in Bangkok"
-          }
+        "en": {
+          "title": "C in Stockholm slams decision – will not vote yes",
+          "summary": "The Centre Party's Stockholm district says no to the party leadership's line on the government question, district chair Jonas Naddebo says. The trust council decides on support for Ulf Kristersson's government on Sunday. In the council, the Stockholm district will vote no to moving right."
         },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T21:31:10+01:00"
+        }
+      },
+      "items": [
         {
-          "id": "54e4a54f6de1",
-          "source": "di",
-          "url": "https://www.di.se/live/stor-explosion-vid-oljeraffinaderi-flera-skadade",
-          "published_at": "2026-11-26T10:23:17+01:00",
-          "sv": {
-            "title": "Stor explosion vid oljeraffinaderi – flera skadade"
-          },
-          "en": {
-            "title": "Major explosion at oil refinery – several injured"
-          }
-        },
-        {
-          "id": "ff7226869f84",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/KL3oE4/bangkok-flera-kritiskt-skadade-efter-oljeexplosion",
-          "published_at": "2026-11-26T10:19:59+01:00",
-          "sv": {
-            "title": "Bangkok: Flera kritiskt skadade efter oljeexplosion"
-          },
-          "en": {
-            "title": "Bangkok: Several critically injured after oil explosion"
-          }
-        },
-        {
-          "id": "6ffa640dd016",
+          "id": "5915d75949c5",
           "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/stor-explosion-i-bangkok",
-          "published_at": "2026-11-26T10:06:48+01:00",
+          "url": "https://www.expressen.se/nyheter/politik/demirok-c-darfor-rostade-jag-nej",
+          "published_at": "2026-11-27T08:06:59+01:00",
           "sv": {
-            "title": "Stor explosion i Bangkok"
+            "title": "Demirok (C): Därför röstade jag nej"
           },
           "en": {
-            "title": "Major explosion in Bangkok"
+            "title": "Demirok (C): Why I voted no"
           }
         },
         {
-          "id": "b3b0bf2c57d8",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/1vnKAJ/stor-explosion-i-bangkok",
-          "published_at": "2026-11-26T09:21:48+01:00",
+          "id": "3f6874444123",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351171",
+          "published_at": "2026-11-26T21:25:00+01:00",
           "sv": {
-            "title": "Stor explosion i Bangkok – invånare evakueras"
+            "title": "C i Stockholm sågar beslutet – kommer inte rösta ja"
           },
           "en": {
-            "title": "Major explosion in Bangkok – residents evacuated"
+            "title": "C in Stockholm slams decision – will not vote yes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "944a40394f58",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-27T08:00:15+01:00",
+      "last_published_at": "2026-11-27T08:00:15+01:00",
+      "lead": {
+        "id": "944a40394f58",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/OypL13/inte-ett-enda-valdsutsatt-barn-ska-missas",
+        "guid": "https://www.aftonbladet.se/nyheter/a/OypL13/inte-ett-enda-valdsutsatt-barn-ska-missas?utm_medium=rss",
+        "published_at": "2026-11-27T08:00:15+01:00",
+        "fetched_at": "2026-11-27T08:01:16+01:00",
+        "category": "sweden",
+        "image_url": "https://akamai.vgc.no/v2/images/21dd0ff2-ccb5-3bfe-a12e-453dc5bb5748?format=auto&s=1f6cec9acb4c7e2f5a38c8b105d6a847bca5b733&w=1000",
+        "sv": {
+          "title": "”Inte ett enda våldsutsatt barn ska missas”",
+          "summary": "Vården måste bli bättre på att fånga upp våldsutsatta barn och unga, anser Socialstyrelsen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "”Not a single child exposed to violence must be missed”",
+          "summary": "Healthcare must get better at identifying children and young people exposed to violence, the National Board of Health and Welfare believes."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T08:01:22+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "fa6101d32979",
+          "source": "svd",
+          "url": "https://www.svd.se/a/8Pm3LQ/inte-ett-enda-valdsutsatt-barn-ska-missas",
+          "published_at": "2026-11-27T08:00:15+01:00",
+          "sv": {
+            "title": "”Inte ett enda våldsutsatt barn ska missas”"
+          },
+          "en": {
+            "title": "\"Not a single child exposed to violence should be missed\""
+          }
+        },
+        {
+          "id": "944a40394f58",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/OypL13/inte-ett-enda-valdsutsatt-barn-ska-missas",
+          "published_at": "2026-11-27T08:00:15+01:00",
+          "sv": {
+            "title": "”Inte ett enda våldsutsatt barn ska missas”"
+          },
+          "en": {
+            "title": "”Not a single child exposed to violence must be missed”"
           }
         }
       ]
@@ -2239,69 +2092,6 @@
           },
           "en": {
             "title": "Gissén: Majority within the Centre Party favours the Kristersson track"
-          }
-        }
-      ]
-    },
-    {
-      "id": "078953f4dc47",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-26T18:47:43+01:00",
-      "last_published_at": "2026-11-26T20:09:30+01:00",
-      "lead": {
-        "id": "078953f4dc47",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/kMJAx9/ud-kallade-upp-rysslands-ambassador",
-        "guid": "https://www.aftonbladet.se/nyheter/a/kMJAx9/ud-kallade-upp-rysslands-ambassador?utm_medium=rss",
-        "published_at": "2026-11-26T18:47:43+01:00",
-        "fetched_at": "2026-11-26T18:58:14+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/e0e3de7f-61b0-3bf2-9ea6-3fc75ffe15a7?format=auto&s=418fae874a4411fae898ec08b59d0d5c239ec7d1&w=1000",
-        "sv": {
-          "title": "UD kallade upp Rysslands ambassadör",
-          "summary": "Svenska utrikesdepartementet kallade på torsdagen upp Rysslands ambassadör i Stockholm.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Foreign Ministry summons Russian ambassador",
-          "summary": "The Swedish Ministry for Foreign Affairs summoned Russia's ambassador in Stockholm on Thursday."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T18:58:22+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "570fe2970c92",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/ud-kallade-upp-rysslands-ambassador",
-          "published_at": "2026-11-26T20:09:30+01:00",
-          "sv": {
-            "title": "UD kallade upp Rysslands ambassadör"
-          },
-          "en": {
-            "title": "Foreign Ministry summons Russia's ambassador"
-          }
-        },
-        {
-          "id": "078953f4dc47",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/kMJAx9/ud-kallade-upp-rysslands-ambassador",
-          "published_at": "2026-11-26T18:47:43+01:00",
-          "sv": {
-            "title": "UD kallade upp Rysslands ambassadör"
-          },
-          "en": {
-            "title": "Foreign Ministry summons Russian ambassador"
           }
         }
       ]
