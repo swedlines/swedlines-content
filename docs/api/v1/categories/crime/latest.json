@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T06:01:24+01:00",
+  "generated_at": "2026-11-27T06:04:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "112307a9bb2c",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350636",
+      "guid": "rss:sr.se/article/9350636",
+      "published_at": "2026-11-27T06:02:00+01:00",
+      "fetched_at": "2026-11-27T06:04:04+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Ryss utlämnad till USA – har erkänt sanktionsbrott",
+        "summary": "En rysk man som varit bosatt i Sverige har erkänt sanktionsbrott i USA. Han ska, enligt FBI och amerikanska åklagare, lett ett internationellt nätverk som smugglat känsliga elektroniska kompontenter som kan användas för militär kommunikation, radar och system för exakt positionering, till…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Russian man extradited to USA – has confessed to sanctions violations",
+        "summary": "A Russian man who has lived in Sweden has confessed to sanctions violations in the USA. According to the FBI and American prosecutors, he allegedly led an international network that smuggled sensitive electronic components that can be used for military communications, radar and precise positioning systems, to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:04:12+01:00"
+      }
+    },
     {
       "id": "af6c7b4b4b50",
       "schema_version": 1,
@@ -5370,33 +5396,6 @@
       "en": {
         "title": "I can't stop thinking about what the police missed",
         "summary": "The portrayal of how actors in Örebro want to \"own the narrative\" is absolutely pitch-black in its nihilism, writes Andreas Ekström."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T07:31:11+01:00"
-      }
-    },
-    {
-      "id": "f1bb2f6bd6b3",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/g370aa/sista-sparet-efter-karin-carlsson-40-ett-sms",
-      "guid": "https://www.aftonbladet.se/nyheter/a/g370aa/sista-sparet-efter-karin-carlsson-40-ett-sms?utm_medium=rss",
-      "published_at": "2026-11-22T07:25:00+01:00",
-      "fetched_at": "2026-11-22T07:31:02+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/1e1d823d-8700-36df-9f7a-4e4c96eb5c88?format=auto&s=2459028df6ec0c8c301b220642e7aa354e5c7ed2&w=1000",
-      "sv": {
-        "title": "Sista spåret efter Karin, 40: Ett sms",
-        "summary": "Försvunnen i ett år ✓ Mystiska sms:et",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Last trace of Karin, 40: A text message",
-        "summary": "Missing for a year ✓ Mysterious text message"
       },
       "translation": {
         "status": "done",
