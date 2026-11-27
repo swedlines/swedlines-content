@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T20:45:53+01:00",
+  "generated_at": "2026-11-27T21:01:22+01:00",
   "count": 30,
   "stories": [
     {
@@ -2157,6 +2157,69 @@
       ]
     },
     {
+      "id": "6963bc7dac27",
+      "source_count": 2,
+      "sources": [
+        "sydsvenskan",
+        "svd"
+      ],
+      "first_published_at": "2026-11-27T20:50:06+01:00",
+      "last_published_at": "2026-11-27T20:51:38+01:00",
+      "lead": {
+        "id": "6963bc7dac27",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/noje/dokumentar-om-sexdomd-bbc-profil-sagas",
+        "guid": "0acaa43f-0281-4c9a-97ef-2a0f29fa0657",
+        "published_at": "2026-11-27T20:50:06+01:00",
+        "fetched_at": "2026-11-27T21:01:15+01:00",
+        "category": "culture",
+        "image_url": "https://static.bonniernews.se/ba/64e3fb78-238e-45d3-a2a4-38906e0cd036.jpg?width=600",
+        "sv": {
+          "title": "Dokumentär om sexdömd BBC-profil sågas",
+          "summary": "En dokumentär där den skandalomsusade före detta BBC-profilen Huw Edwards intervjuas har väckt starka reaktioner i Storbritannien och nu har även premiärminister Andy Burnhams kansli sällat sig till kritikerna. ”Vi har inget intresse av att höra vad han har att säga”, heter det i ett uttalande.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Documentary about convicted BBC figure panned",
+          "summary": "A documentary in which the scandal-hit former BBC presenter Huw Edwards is interviewed has sparked strong reactions in the UK, and now prime minister Andy Burnham's office has also joined the critics. “We have no interest in hearing what he has to say,” says a statement"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T21:01:19+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "9c85ce6c6597",
+          "source": "svd",
+          "url": "https://www.svd.se/a/WmOlKK/serie-om-sexdomd-bbc-profil-sagas",
+          "published_at": "2026-11-27T20:51:38+01:00",
+          "sv": {
+            "title": "Serie om sex­dömd BBC-profil sågas"
+          },
+          "en": {
+            "title": "Series about convicted BBC figure panned"
+          }
+        },
+        {
+          "id": "6963bc7dac27",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/noje/dokumentar-om-sexdomd-bbc-profil-sagas",
+          "published_at": "2026-11-27T20:50:06+01:00",
+          "sv": {
+            "title": "Dokumentär om sexdömd BBC-profil sågas"
+          },
+          "en": {
+            "title": "Documentary about convicted BBC figure panned"
+          }
+        }
+      ]
+    },
+    {
       "id": "08c6dca86fc8",
       "source_count": 2,
       "sources": [
@@ -2665,68 +2728,6 @@
           },
           "en": {
             "title": "Suspected mastermind of major VAT fraud arrested in Dubai"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b9184d1520e4",
-      "source_count": 2,
-      "sources": [
-        "sr",
-        "dn"
-      ],
-      "first_published_at": "2026-11-27T15:36:00+01:00",
-      "last_published_at": "2026-11-27T16:26:16+01:00",
-      "lead": {
-        "id": "b9184d1520e4",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9351799",
-        "guid": "rss:sr.se/article/9351799",
-        "published_at": "2026-11-27T15:36:00+01:00",
-        "fetched_at": "2026-11-27T15:45:47+01:00",
-        "category": "culture",
-        "sv": {
-          "title": "AI och mars inspirerar årets pepparkakshus",
-          "summary": "AI, flygande bilar och livet på Mars inspirerar årets pepparkakshustävling på Arkdes, där 161 bidrag gestaltar framtiden. Barn, proffs och andra bagare tävlar i tre kategorier. Projektledaren Johanna Gafvelin ser både mörka framtidsbilder och barnens mer positiva tolkningar.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "AI and Mars inspire this year's gingerbread houses",
-          "summary": "AI, flying cars and life on Mars inspire this year's gingerbread house competition at Arkdes, where 161 entries depict the future. Children, professionals and other bakers compete in three categories. Project manager Johanna Gafvelin sees both dark visions of the future and the children's more positive interpretations."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T15:45:57+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "d9a81ff6d5d1",
-          "source": "dn",
-          "url": "https://www.dn.se/kultur/se-arets-bidrag-till-hajpade-pepparkakshustavlingen-oppnar-julen-i-stockholm",
-          "published_at": "2026-11-27T16:26:16+01:00",
-          "sv": {
-            "title": "Se årets bidrag till hajpade pepparkakshustävlingen: ”Öppnar julen i Stockholm”"
-          },
-          "en": {
-            "title": "See this year's entries in the hyped gingerbread house competition: “Opens Christmas in Stockholm”"
-          }
-        },
-        {
-          "id": "b9184d1520e4",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351799",
-          "published_at": "2026-11-27T15:36:00+01:00",
-          "sv": {
-            "title": "AI och mars inspirerar årets pepparkakshus"
-          },
-          "en": {
-            "title": "AI and Mars inspire this year's gingerbread houses"
           }
         }
       ]
