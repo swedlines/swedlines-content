@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T00:01:23+01:00",
+  "generated_at": "2026-11-28T00:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "36371c6d8a35",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/lejlands-motor/volvos-stora-varldssucce-designad-av-en-23-aring",
+      "guid": "f0ac32eb-d79a-5ca6-8dbc-df399aafa83d",
+      "published_at": "2026-11-28T00:00:00+01:00",
+      "fetched_at": "2026-11-28T00:15:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Volvos stora världssuccé – designad av en 23-åring",
+        "summary": "Volvo Amazon firar 70 år som en av Sveriges mest älskade bilar. I veckans Lejland Motor djupdyker vi i modellen som gjorde Volvo internationellt känd.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Volvo's big global hit – designed by a 23-year-old",
+        "summary": "The Volvo Amazon turns 70 as one of Sweden's most beloved cars. In this week's Lejland Motor, we take a deep dive into the model that made Volvo internationally known."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T00:15:50+01:00"
+      }
+    },
     {
       "id": "e637db2222ca",
       "schema_version": 1,
@@ -5287,33 +5313,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T21:10:00+01:00"
-      }
-    },
-    {
-      "id": "6db3adeff3a5",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/domer-ut-borsstudsen-fredag-blir-riktiga-testet",
-      "guid": "a174c01c-bc30-4114-a34b-87482ef57c6f",
-      "published_at": "2026-11-26T20:40:07+01:00",
-      "fetched_at": "2026-11-26T20:45:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b4d371de-4b00-451b-9f06-c5e80e1dbd7e.jpeg?width=600",
-      "sv": {
-        "title": "Dömer ut börsstudsen: ”Fredag blir riktiga testet”",
-        "summary": "Europabörserna rusade medan Wall Street-handlarna firade Thanksgiving. Men bedömare ifrågasätter om torsdagens uppstuds håller när USA öppnar i morgon. ”Fredagen blir det riktiga testet”, säger Panmure Liberum-strategen Joachim Klement till Bloomberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dismisses the market bounce: \"Friday will be the real test\"",
-        "summary": "European stock markets surged while Wall Street traders celebrated Thanksgiving. But analysts question whether Thursday's bounce will hold when the US opens tomorrow. \"Friday will be the real test,\" says Panmure Liberum strategist Joachim Klement to Bloomberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T20:45:52+01:00"
       }
     }
   ]
