@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T15:31:14+01:00",
+  "generated_at": "2026-11-27T15:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b7dde4d003fd",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/aven-hammarbyspelarna-kampar-om-biljetter-till-avgorandet-jattesvart-att-fixa",
+      "guid": "https://www.dn.se/sport/aven-hammarbyspelarna-kampar-om-biljetter-till-avgorandet-jattesvart-att-fixa/",
+      "published_at": "2026-11-27T15:32:22+01:00",
+      "fetched_at": "2026-11-27T15:45:48+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/891117b5-df64-4132-a88f-aeb55ddb8ba6.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Även Hammarbyspelarna kämpar om biljetter till avgörandet: ”Jättesvårt att fixa”",
+        "summary": "På söndag kan Hammarby säkra SM-guld och biljetter till matchen har lagts ut till andrahandsförsäljning för tusentals kronor. Men det är inte bara supportrar som jagar biljetter. – Jag försöker själv få tag i biljetter men det är svårt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Even Hammarby players struggle to get tickets for the decider: \"Extremely difficult to arrange\"",
+        "summary": "On Sunday Hammarby can secure the Swedish championship and tickets for the match have been put up for resale for thousands of kronor. But it is not only supporters chasing tickets. – I'm trying to get tickets myself but it's difficult."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:45:57+01:00"
+      }
+    },
     {
       "id": "0a6f997269a2",
       "schema_version": 1,
@@ -5575,33 +5602,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:31:13+01:00"
-      }
-    },
-    {
-      "id": "2c35d09305a6",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/sa-ska-mff-ta-revansch-efter-knocken-visat-bra-klipp-fran-england",
-      "guid": "44d6bfff-07de-455f-8148-9c93b90aca7d",
-      "published_at": "2026-11-21T10:00:00+01:00",
-      "fetched_at": "2026-11-21T10:01:14+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/41b94065-22a9-42b3-8412-d6f6c6151aa4.jpeg?width=600",
-      "sv": {
-        "title": "Så ska MFF ta revansch efter knocken: ”Visat bra klipp från England”",
-        "summary": "MFF blev krossat av Mjällby i cupen i våras. Och har inte vunnit på Strandvallen på fem år. Det vill laget ändra på. – Vi vill visa upp en ännu tydligare version av Malmö-identiteten, säger tränaren Gaute Helstrup.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is how MFF will get revenge after the knockout: “Showed good clips from England”",
-        "summary": "MFF was crushed by Mjällby in the cup in the spring. And has not won at Strandvallen in five years. The team wants to change that. – We want to show a even clearer version of the Malmö identity, says coach Gaute Helstrup."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T10:01:26+01:00"
       }
     }
   ]

@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-11-27T15:31:14+01:00",
+  "generated_at": "2026-11-27T15:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ad1ddeb72613",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/tyskland-antar-rekordstor-budget",
+      "guid": "f1ed2a82-5e9f-43ab-b9b9-eaf9be448bb7",
+      "published_at": "2026-11-27T15:35:27+01:00",
+      "fetched_at": "2026-11-27T15:45:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/732ed96c-2f58-47cc-8961-15cf1dcaf5ba.jpeg?width=600",
+      "sv": {
+        "title": "Tyskland antar rekordstor budget",
+        "summary": "Tysklands regering har antagit budgeten för 2027, som beskrivs vara rekordstor med utgifter på 556 miljarder euro.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Germany adopts record-large budget",
+        "summary": "The German government has adopted the budget for 2027, described as record-large with expenditure of 556 billion euros."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:45:57+01:00"
+      }
+    },
+    {
+      "id": "5d3713c49b9e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/wall-street-studsar-upp-rekylen-kan-ha-uthallighet",
+      "guid": "174e40e8-32cd-4e82-a4ca-810f46dcc509",
+      "published_at": "2026-11-27T15:32:26+01:00",
+      "fetched_at": "2026-11-27T15:45:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a1e5412c-aa68-4aaf-9c4a-2e46eb76ff80.jpeg?width=600",
+      "sv": {
+        "title": "Wall Street studsar upp: ”Rekylen kan ha uthållighet”",
+        "summary": "Wall Street inleder halvdagshandeln med kraftiga uppgångar efter att ha hållit stängt för Thanksgiving under torsdagen. Lyftet kommer efter att S&P 500 tappat 8,4 procent från toppen i oktober.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Wall Street bounces back: \"The recoil may have staying power\"",
+        "summary": "Wall Street opens the half-day trading session with strong gains after having been closed for Thanksgiving on Thursday. The rise comes after the S&P 500 fell 8.4 percent from its peak in October."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:45:57+01:00"
+      }
+    },
+    {
+      "id": "4fc8e918cee3",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/R19bz5/darfor-har-stockholmsborsen-statt-emot-ai-frossan",
+      "guid": "https://www.svd.se/a/R19bz5/darfor-har-stockholmsborsen-statt-emot-ai-frossan?utm_medium=rss",
+      "published_at": "2026-11-27T15:31:10+01:00",
+      "fetched_at": "2026-11-27T15:45:48+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/b603da05-aa5c-316f-91ac-efc81d70f394?format=auto&s=ecf2d9791549886275fb4d55942a12bac7acb62d&w=1000",
+      "sv": {
+        "title": "Därför har Stockholmsbörsen stått emot AI-frossan",
+        "summary": "AI-oron har fått världens börser att darra kraftigt den senaste tiden.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is why the Stockholm Stock Exchange has withstood the AI jitters",
+        "summary": "AI concerns have made the world's stock markets tremble sharply recently."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:45:57+01:00"
+      }
+    },
     {
       "id": "efaa2d979536",
       "schema_version": 1,
@@ -5217,86 +5298,6 @@
       "en": {
         "title": "Rheinmetall employees dead after Iranian attack",
         "summary": "Two Italian technicians at defence company Rheinmetall Italia, part of the German Rheinmetall group, have died in connection with an Iranian attack in Kuwait after being struck by drone debris, according to several Italian media outlets."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T15:31:15+01:00"
-      }
-    },
-    {
-      "id": "0fa50b536dc8",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2f1532ae-5c9d-438d-8261-086bd19b6fa9",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2f1532ae-5c9d-438d-8261-086bd19b6fa9",
-      "published_at": "2026-11-26T15:22:14+01:00",
-      "fetched_at": "2026-11-26T15:31:07+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Vattenfalls höjer priset för 900 000 hushåll",
-        "summary": "Elnätsavgiften höjs med flera procent",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Vattenfall raises price for 900,000 households",
-        "summary": "The grid fee is being raised by several percent"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T15:31:15+01:00"
-      }
-    },
-    {
-      "id": "aa66b5b058ce",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/mitt-i-elchocken-jatten-hojer-elnatsavgifterna",
-      "guid": "8dc9d07b-a563-464e-8628-7f265aa7ab26",
-      "published_at": "2026-11-26T15:21:38+01:00",
-      "fetched_at": "2026-11-26T15:31:08+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c365924a-153f-4ba3-a017-98d173b1b6dc.jpeg?width=600",
-      "sv": {
-        "title": "Mitt i elchocken: Jätten höjer elnätsavgifterna",
-        "summary": "Samtidigt som en elprischock slår mot landets elkunder meddelar nu statliga kraftbolaget Vattenfall att det höjer elnätsavgifterna för sina drygt 900.000 kunder i Sverige med fem procent. Höjningen, som berör både hushåll och företag, genomförs vid årsskiftet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Amid electricity shock: Giant raises grid fees",
-        "summary": "As an electricity price shock hits the country's electricity customers, state-owned power company Vattenfall announces it is raising grid fees for its just over 900,000 customers in Sweden by five percent. The increase, which affects both households and businesses, takes effect at the turn of the year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T15:31:15+01:00"
-      }
-    },
-    {
-      "id": "03239723c021",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kallor-corem-vill-salja-globenfastigheter",
-      "guid": "d2d1b82a-7c4b-44da-8201-fdc5106d5479",
-      "published_at": "2026-11-26T15:17:01+01:00",
-      "fetched_at": "2026-11-26T15:31:08+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ee2094c4-7564-4f2a-b359-fd121ec37e62.jpeg?width=600",
-      "sv": {
-        "title": "Källor: Corem vill sälja Globenfastigheter",
-        "summary": "Fastighetsbolaget Corem överväger att avyttra fyra större kontorsfastigheter i Stockholmsområdet – däribland fastigheter vid Globen där gallerian Globen Shopping ingår. Det rapporterar Fastighetsvärlden med hänvisning till källor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sources: Corem wants to sell Globen properties",
-        "summary": "Property company Corem is considering selling four larger office properties in the Stockholm area – including properties at Globen that include the Globen Shopping gallery. Fastighetsvärlden reports, citing sources."
       },
       "translation": {
         "status": "done",

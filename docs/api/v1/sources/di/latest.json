@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-27T15:31:14+01:00",
+  "generated_at": "2026-11-27T15:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ad1ddeb72613",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/tyskland-antar-rekordstor-budget",
+      "guid": "f1ed2a82-5e9f-43ab-b9b9-eaf9be448bb7",
+      "published_at": "2026-11-27T15:35:27+01:00",
+      "fetched_at": "2026-11-27T15:45:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/732ed96c-2f58-47cc-8961-15cf1dcaf5ba.jpeg?width=600",
+      "sv": {
+        "title": "Tyskland antar rekordstor budget",
+        "summary": "Tysklands regering har antagit budgeten för 2027, som beskrivs vara rekordstor med utgifter på 556 miljarder euro.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Germany adopts record-large budget",
+        "summary": "The German government has adopted the budget for 2027, described as record-large with expenditure of 556 billion euros."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:45:57+01:00"
+      }
+    },
+    {
+      "id": "5d3713c49b9e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/wall-street-studsar-upp-rekylen-kan-ha-uthallighet",
+      "guid": "174e40e8-32cd-4e82-a4ca-810f46dcc509",
+      "published_at": "2026-11-27T15:32:26+01:00",
+      "fetched_at": "2026-11-27T15:45:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a1e5412c-aa68-4aaf-9c4a-2e46eb76ff80.jpeg?width=600",
+      "sv": {
+        "title": "Wall Street studsar upp: ”Rekylen kan ha uthållighet”",
+        "summary": "Wall Street inleder halvdagshandeln med kraftiga uppgångar efter att ha hållit stängt för Thanksgiving under torsdagen. Lyftet kommer efter att S&P 500 tappat 8,4 procent från toppen i oktober.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Wall Street bounces back: \"The recoil may have staying power\"",
+        "summary": "Wall Street opens the half-day trading session with strong gains after having been closed for Thanksgiving on Thursday. The rise comes after the S&P 500 fell 8.4 percent from its peak in October."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:45:57+01:00"
+      }
+    },
     {
       "id": "efaa2d979536",
       "schema_version": 1,
@@ -5271,59 +5325,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T13:15:53+01:00"
-      }
-    },
-    {
-      "id": "0c881146effe",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/lakemedelsbjassen-vill-gora-jatteinvestering-i-kina",
-      "guid": "44f30e67-a177-459a-a64f-ceca60b2e78f",
-      "published_at": "2026-11-26T13:08:50+01:00",
-      "fetched_at": "2026-11-26T13:15:47+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Läkemedelsbjässen vill göra jätteinvestering i Kina",
-        "summary": "Tyska kemi- och läkemedelsbolaget Bayer planerar att investera upp till 500 miljoner euro, motsvarande 5,6 miljarder kronor, i en produktionsanläggning i Beijing. Det framgår av ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Pharmaceutical Giant Plans Huge Investment in China",
-        "summary": "German chemicals and pharmaceuticals company Bayer plans to invest up to EUR 500 million, equivalent to SEK 5.6 billion, in a production facility in Beijing. This is according to a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T13:15:53+01:00"
-      }
-    },
-    {
-      "id": "7588aaa5f688",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/forsvaret-av-svensk-cybermiljo-borjar-i-forskningen",
-      "guid": "c4297c4f-7524-4091-a965-77e66d2198a3",
-      "published_at": "2026-11-26T12:58:14+01:00",
-      "fetched_at": "2026-11-26T13:04:36+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ca7a753b-3e21-4af3-8826-9419e02544bf.png?width=600",
-      "sv": {
-        "title": "Försvaret av svensk cybermiljö börjar i forskningen",
-        "summary": "För att skydda samhällets digitala infrastruktur och stärka Sveriges försvarsförmåga krävs ny kunskap, avancerad forskning och en kraftsamling kring svensk AI- och cyberkompetens, skriver representanter från Kungliga Tekniska högskolan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Defending Swedish cyber environment starts in research",
-        "summary": "To protect society's digital infrastructure and strengthen Sweden's defence capability, new knowledge, advanced research and a concentrated effort around Swedish AI and cyber expertise are required, write representatives of the Royal Institute of Technology (KTH)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T13:04:39+01:00"
       }
     }
   ]

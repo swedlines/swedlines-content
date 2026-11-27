@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-27T15:31:14+01:00",
+  "generated_at": "2026-11-27T15:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "002d9ec18fd1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c",
+      "guid": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c/",
+      "published_at": "2026-11-27T15:40:26+01:00",
+      "fetched_at": "2026-11-27T15:45:50+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Här är Kristerssons förslag: ”Samarbetsregering” med C",
+        "summary": "Centerpartiet står inför ett vägval. Nu presenterar M exakt vad deras sida kan erbjuda. På bordet finns bland annat utökad IVF, euroutredning och kyld dryck på Systembolaget.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here is Kristersson's proposal: \"Cooperation government\" with C",
+        "summary": "The Centre Party faces a crossroads. Now the Moderates present exactly what their side can offer. On the table are, among other things, expanded IVF, a euro inquiry and chilled drinks at Systembolaget."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:45:57+01:00"
+      }
+    },
+    {
+      "id": "215659c44f43",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=30bf6199-dd9f-4811-be00-217393cf874d",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=30bf6199-dd9f-4811-be00-217393cf874d",
+      "published_at": "2026-11-27T15:29:30+01:00",
+      "fetched_at": "2026-11-27T15:45:50+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Åklagare ska väcka åtal mot Vilma Andersson",
+        "summary": "Åtalas för flera brott nästa vecka",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Prosecutor to bring charges against Vilma Andersson",
+        "summary": "Charged with several crimes next week"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:45:57+01:00"
+      }
+    },
     {
       "id": "5e8cead7f582",
       "schema_version": 1,
@@ -5144,58 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "5f8898b134c6",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bfe03c77-2300-43bd-9e75-e41235edc1ad",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bfe03c77-2300-43bd-9e75-e41235edc1ad",
-      "published_at": "2026-11-24T14:54:20+01:00",
-      "fetched_at": "2026-11-24T15:01:14+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trump förbereder tullar",
-        "summary": "Uppgifter om nya höjningar",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump prepares tariffs",
-        "summary": "Reports of new increases"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T15:01:21+01:00"
-      }
-    },
-    {
-      "id": "b390dd51b973",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/postnord-hojer-priserna-dyrare-att-skicka-brev",
-      "guid": "https://www.expressen.se/nyheter/sverige/postnord-hojer-priserna-dyrare-att-skicka-brev/",
-      "published_at": "2026-11-24T14:26:14+01:00",
-      "fetched_at": "2026-11-24T14:31:00+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Postnord höjer priserna – dyrare att skicka brev",
-        "summary": "Det blir dyrare att skicka brev. Postnord höjer – och sänker – priserna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Postnord raises prices – more expensive to send letters",
-        "summary": "It will become more expensive to send letters. Postnord is raising – and lowering – prices."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:31:07+01:00"
       }
     }
   ]

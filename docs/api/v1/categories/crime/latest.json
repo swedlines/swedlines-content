@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-27T15:31:14+01:00",
+  "generated_at": "2026-11-27T15:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2e7da0496cbf",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/atal-om-ronningemord-nasta-vecka",
+      "guid": "https://www.svt.se/nyheter/inrikes/atal-om-ronningemord-nasta-vecka",
+      "published_at": "2026-11-27T15:38:14+01:00",
+      "fetched_at": "2026-11-27T15:45:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Åtal om Rönningemord nästa vecka",
+        "summary": "På tisdag nästa vecka lämnas åtalet in mot den 26-årige man som misstänks för det uppmärksammade mordet på en ung kvinna i Rönninge i december 2025.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Charges in the Rönninge murder next week",
+        "summary": "On Tuesday next week, charges will be filed against the 26-year-old man suspected of the high-profile murder of a young woman in Rönninge in December 2025."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:45:57+01:00"
+      }
+    },
+    {
+      "id": "215659c44f43",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=30bf6199-dd9f-4811-be00-217393cf874d",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=30bf6199-dd9f-4811-be00-217393cf874d",
+      "published_at": "2026-11-27T15:29:30+01:00",
+      "fetched_at": "2026-11-27T15:45:50+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Åklagare ska väcka åtal mot Vilma Andersson",
+        "summary": "Åtalas för flera brott nästa vecka",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Prosecutor to bring charges against Vilma Andersson",
+        "summary": "Charged with several crimes next week"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:45:57+01:00"
+      }
+    },
     {
       "id": "db2d2f6ef3ca",
       "schema_version": 1,
@@ -5336,61 +5388,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T07:04:12+01:00"
-      }
-    },
-    {
-      "id": "62648c707672",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/tt-261123-ronningemord1-acb48819/familjens-sorg-efter-ronningemordet-smarta-varje-dag",
-      "guid": "tt-261123-ronningemord1-acb48819",
-      "published_at": "2026-11-23T06:34:20+01:00",
-      "fetched_at": "2026-11-23T06:56:01+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Brott"
-      ],
-      "sv": {
-        "title": "Familjens sorg efter mordet på My: ”Smärta varje dag”",
-        "summary": "My var på väg hem efter en utekväll när hon försvann natten mot annandagen vid stationen i Rönninge sydväst om Stockholm. Dagen därpå hittades hon mördad. Åtalet mot den 26-åring som misstänks för mordet väntas enligt åklagaren i början av december.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Family's grief after the murder of My: “Pain every day”",
-        "summary": "My was on her way home after a night out when she disappeared on the night of Boxing Day at the station in Rönninge southwest of Stockholm. The following day she was found murdered. Charges against the 26-year-old suspected of the murder are expected in early December, according to the prosecutor."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:30+01:00"
-      }
-    },
-    {
-      "id": "c724828fc944",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/krim/familjens-sorg-efter-mordet-i-ronninge-gar-inte-att-beskriva",
-      "guid": "https://www.expressen.se/nyheter/krim/familjens-sorg-efter-mordet-i-ronninge-gar-inte-att-beskriva/",
-      "published_at": "2026-11-23T06:26:21+01:00",
-      "fetched_at": "2026-11-23T06:56:01+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Familjens sorg efter mordet i Rönninge: Går inte att beskriva",
-        "summary": "Deras dotter mördades under julhelgen förra året. Snart väntas åtal mot den misstänkta mördaren. Nu tackar familjen i Rönninge för stödet de fått. ”Inför den kommande rättegången betyder ert stöd oerhört mycket för oss”, skriver familjen till TT genom ett ombud.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Family's grief after the murder in Rönninge: “Impossible to describe”",
-        "summary": "Their daughter was murdered during the Christmas holiday last year. Charges against the suspected murderer are expected soon. Now the family in Rönninge thanks everyone for the support they have received. “Ahead of the upcoming trial, your support means a great deal to us”, the family writes to TT through a representative."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:30+01:00"
       }
     }
   ]
