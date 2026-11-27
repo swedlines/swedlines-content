@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T05:31:06+01:00",
-  "count": 25,
+  "generated_at": "2026-11-27T05:46:08+01:00",
+  "count": 27,
   "stories": [
     {
       "id": "ed574169a1d8",
@@ -678,6 +678,94 @@
       ]
     },
     {
+      "id": "909ab8776cc6",
+      "source_count": 4,
+      "sources": [
+        "sr",
+        "aftonbladet",
+        "svd",
+        "di"
+      ],
+      "first_published_at": "2026-11-27T02:00:00+01:00",
+      "last_published_at": "2026-11-27T05:27:44+01:00",
+      "lead": {
+        "id": "909ab8776cc6",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9351204",
+        "guid": "rss:sr.se/article/9351204",
+        "published_at": "2026-11-27T02:00:00+01:00",
+        "fetched_at": "2026-11-27T02:14:07+01:00",
+        "category": "weather",
+        "sv": {
+          "title": "Oväder i USA – över 900 000 hushåll strömlösa",
+          "summary": "I USA är över 900 000 hushåll strömlösa på grund av det kraftiga oväder som nu har nått stora delar av landet, rapporterar CNN. Bara i delstaten Pennsylvania är över 200 000 hushåll utan ström.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Storms in USA – over 900,000 households without power",
+          "summary": "In the USA, over 900,000 households are without power due to the severe storm that has now reached large parts of the country, CNN reports. In the state of Pennsylvania alone, over 200,000 households are without electricity."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T02:14:14+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "ab54c44f4e2f",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/stormar-i-usa-900-000-stromlosa",
+          "published_at": "2026-11-27T05:27:44+01:00",
+          "sv": {
+            "title": "Stormar i USA – 900.000 strömlösa"
+          },
+          "en": {
+            "title": "Storms in USA – 900,000 without power"
+          }
+        },
+        {
+          "id": "f2ca609b946b",
+          "source": "svd",
+          "url": "https://www.svd.se/a/VxbyPV/stormar-i-usa-900000-stromlosa",
+          "published_at": "2026-11-27T02:32:56+01:00",
+          "sv": {
+            "title": "Stormar i USA – 900 000 strömlösa"
+          },
+          "en": {
+            "title": "Storms in USA – 900,000 without power"
+          }
+        },
+        {
+          "id": "152394c50c4e",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/BrR5WQ/stormar-i-usa-900000-stromlosa",
+          "published_at": "2026-11-27T02:32:56+01:00",
+          "sv": {
+            "title": "Stormar i USA – 900 000 strömlösa"
+          },
+          "en": {
+            "title": "Storms in USA – 900,000 without power"
+          }
+        },
+        {
+          "id": "909ab8776cc6",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351204",
+          "published_at": "2026-11-27T02:00:00+01:00",
+          "sv": {
+            "title": "Oväder i USA – över 900 000 hushåll strömlösa"
+          },
+          "en": {
+            "title": "Storms in USA – over 900,000 households without power"
+          }
+        }
+      ]
+    },
+    {
       "id": "a7132c44a83b",
       "source_count": 4,
       "sources": [
@@ -1178,6 +1266,82 @@
       ]
     },
     {
+      "id": "d5c872d11a17",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "di"
+      ],
+      "first_published_at": "2026-11-27T01:33:59+01:00",
+      "last_published_at": "2026-11-27T05:31:48+01:00",
+      "lead": {
+        "id": "d5c872d11a17",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/8Pm3BA/trump-osaker-pa-putin-pa-g20",
+        "guid": "https://www.aftonbladet.se/nyheter/a/8Pm3BA/trump-osaker-pa-putin-pa-g20?utm_medium=rss",
+        "published_at": "2026-11-27T01:33:59+01:00",
+        "fetched_at": "2026-11-27T01:45:43+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/ded85da9-aba4-3f8a-a6cd-956e0c7a8b2a?format=auto&s=00b1b64251fce6fb173ad090fcb9baab4457cae4&w=1000",
+        "sv": {
+          "title": "Trump osäker på Putins deltagande på G20",
+          "summary": "USA:s president Donald Trump säger att han är osäker på om hans ryske motsvarighet Vladimir Putin…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Trump unsure whether Putin will attend G20",
+          "summary": "US President Donald Trump says he is unsure whether his Russian counterpart Vladimir Putin will…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T01:45:47+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "1d4d31fd9058",
+          "source": "di",
+          "url": "https://www.di.se/live/putin-valkomnas-till-g20-av-trump",
+          "published_at": "2026-11-27T05:31:48+01:00",
+          "sv": {
+            "title": "Putin välkomnas till G20 av Trump"
+          },
+          "en": {
+            "title": "Putin welcomed to G20 by Trump"
+          }
+        },
+        {
+          "id": "f5902163eca2",
+          "source": "svd",
+          "url": "https://www.svd.se/a/4Eq6ze/trump-osaker-pa-putin-pa-g20",
+          "published_at": "2026-11-27T01:33:59+01:00",
+          "sv": {
+            "title": "Trump osäker på Putins deltagande på G20"
+          },
+          "en": {
+            "title": "Trump unsure whether Putin will attend G20"
+          }
+        },
+        {
+          "id": "d5c872d11a17",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/8Pm3BA/trump-osaker-pa-putin-pa-g20",
+          "published_at": "2026-11-27T01:33:59+01:00",
+          "sv": {
+            "title": "Trump osäker på Putins deltagande på G20"
+          },
+          "en": {
+            "title": "Trump unsure whether Putin will attend G20"
+          }
+        }
+      ]
+    },
+    {
       "id": "aa6ba8dd6745",
       "source_count": 3,
       "sources": [
@@ -1249,81 +1413,6 @@
           },
           "en": {
             "title": "Zelenskyy's criticism of Trump: \"Has many questions\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "909ab8776cc6",
-      "source_count": 3,
-      "sources": [
-        "sr",
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-27T02:00:00+01:00",
-      "last_published_at": "2026-11-27T02:32:56+01:00",
-      "lead": {
-        "id": "909ab8776cc6",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9351204",
-        "guid": "rss:sr.se/article/9351204",
-        "published_at": "2026-11-27T02:00:00+01:00",
-        "fetched_at": "2026-11-27T02:14:07+01:00",
-        "category": "weather",
-        "sv": {
-          "title": "Oväder i USA – över 900 000 hushåll strömlösa",
-          "summary": "I USA är över 900 000 hushåll strömlösa på grund av det kraftiga oväder som nu har nått stora delar av landet, rapporterar CNN. Bara i delstaten Pennsylvania är över 200 000 hushåll utan ström.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Storms in USA – over 900,000 households without power",
-          "summary": "In the USA, over 900,000 households are without power due to the severe storm that has now reached large parts of the country, CNN reports. In the state of Pennsylvania alone, over 200,000 households are without electricity."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T02:14:14+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "f2ca609b946b",
-          "source": "svd",
-          "url": "https://www.svd.se/a/VxbyPV/stormar-i-usa-900000-stromlosa",
-          "published_at": "2026-11-27T02:32:56+01:00",
-          "sv": {
-            "title": "Stormar i USA – 900 000 strömlösa"
-          },
-          "en": {
-            "title": "Storms in USA – 900,000 without power"
-          }
-        },
-        {
-          "id": "152394c50c4e",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/BrR5WQ/stormar-i-usa-900000-stromlosa",
-          "published_at": "2026-11-27T02:32:56+01:00",
-          "sv": {
-            "title": "Stormar i USA – 900 000 strömlösa"
-          },
-          "en": {
-            "title": "Storms in USA – 900,000 without power"
-          }
-        },
-        {
-          "id": "909ab8776cc6",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351204",
-          "published_at": "2026-11-27T02:00:00+01:00",
-          "sv": {
-            "title": "Oväder i USA – över 900 000 hushåll strömlösa"
-          },
-          "en": {
-            "title": "Storms in USA – over 900,000 households without power"
           }
         }
       ]
@@ -1529,64 +1618,127 @@
       ]
     },
     {
-      "id": "d5c872d11a17",
+      "id": "e6e1b5b586d4",
       "source_count": 2,
       "sources": [
-        "aftonbladet",
-        "svd"
+        "sydsvenskan",
+        "dn"
       ],
-      "first_published_at": "2026-11-27T01:33:59+01:00",
-      "last_published_at": "2026-11-27T01:33:59+01:00",
+      "first_published_at": "2026-11-26T18:58:40+01:00",
+      "last_published_at": "2026-11-27T05:37:41+01:00",
       "lead": {
-        "id": "d5c872d11a17",
+        "id": "e6e1b5b586d4",
         "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/8Pm3BA/trump-osaker-pa-putin-pa-g20",
-        "guid": "https://www.aftonbladet.se/nyheter/a/8Pm3BA/trump-osaker-pa-putin-pa-g20?utm_medium=rss",
-        "published_at": "2026-11-27T01:33:59+01:00",
-        "fetched_at": "2026-11-27T01:45:43+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/ded85da9-aba4-3f8a-a6cd-956e0c7a8b2a?format=auto&s=00b1b64251fce6fb173ad090fcb9baab4457cae4&w=1000",
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/sverige/c-hade-fyra-daliga-val-till-sist-var-de-tvingade-att-valja",
+        "guid": "7b6cd7c7-d693-4b7b-a242-c1b59b651744",
+        "published_at": "2026-11-26T18:58:40+01:00",
+        "fetched_at": "2026-11-26T19:01:20+01:00",
+        "category": "politics",
+        "image_url": "https://static.bonniernews.se/ba/2b296d46-2588-4049-8678-cdbc6a95c873.jpeg?width=600",
         "sv": {
-          "title": "Trump osäker på Putins deltagande på G20",
-          "summary": "USA:s president Donald Trump säger att han är osäker på om hans ryske motsvarighet Vladimir Putin…",
+          "title": "C hade fyra dåliga val – till sist var de tvingade att välja",
+          "summary": "När ingen kunde knäcka Vänsterpartiet återstod fyra val för Centerpartiet. Alla skulle göra ont men till sist var Elisabeth Thand Ringqvist tvungen att välja. Bara ett förtroenderåd står nu emellan Ulf Kristersson och regeringsmakten.",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Trump unsure whether Putin will attend G20",
-          "summary": "US President Donald Trump says he is unsure whether his Russian counterpart Vladimir Putin will…"
+          "title": "C had four bad options – in the end they were forced to choose",
+          "summary": "When no one could break the Left Party, four options remained for the Centre Party. All would hurt, but in the end Elisabeth Thand Ringqvist had to choose. Only one confidence vote now stands between Ulf Kristersson and government power."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T01:45:47+01:00"
+          "translated_at": "2026-11-26T19:01:23+01:00"
         }
       },
       "items": [
         {
-          "id": "f5902163eca2",
-          "source": "svd",
-          "url": "https://www.svd.se/a/4Eq6ze/trump-osaker-pa-putin-pa-g20",
-          "published_at": "2026-11-27T01:33:59+01:00",
+          "id": "44be81a49aa7",
+          "source": "dn",
+          "url": "https://www.dn.se/ledare/amanda-sokolnicki-ljog-du-for-valjarna-fragan-maste-stallas",
+          "published_at": "2026-11-27T05:37:41+01:00",
           "sv": {
-            "title": "Trump osäker på Putins deltagande på G20"
+            "title": "Amanda Sokolnicki: Ljög du för väljarna? Frågan måste ställas"
           },
           "en": {
-            "title": "Trump unsure whether Putin will attend G20"
+            "title": "Amanda Sokolnicki: Did you lie to voters? The question must be asked"
           }
         },
         {
-          "id": "d5c872d11a17",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/8Pm3BA/trump-osaker-pa-putin-pa-g20",
-          "published_at": "2026-11-27T01:33:59+01:00",
+          "id": "e6e1b5b586d4",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/c-hade-fyra-daliga-val-till-sist-var-de-tvingade-att-valja",
+          "published_at": "2026-11-26T18:58:40+01:00",
           "sv": {
-            "title": "Trump osäker på Putins deltagande på G20"
+            "title": "C hade fyra dåliga val – till sist var de tvingade att välja"
           },
           "en": {
-            "title": "Trump unsure whether Putin will attend G20"
+            "title": "C had four bad options – in the end they were forced to choose"
+          }
+        }
+      ]
+    },
+    {
+      "id": "257f1c5ee394",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "svt"
+      ],
+      "first_published_at": "2026-11-26T17:46:43+01:00",
+      "last_published_at": "2026-11-27T05:30:04+01:00",
+      "lead": {
+        "id": "257f1c5ee394",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/8Pmrx2/var-klimattoppmotet-i-turkiet-ett-haveri",
+        "guid": "https://www.svd.se/a/8Pmrx2/var-klimattoppmotet-i-turkiet-ett-haveri?utm_medium=rss",
+        "published_at": "2026-11-26T17:46:43+01:00",
+        "fetched_at": "2026-11-26T17:52:40+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/2ee57bb6-0569-36e1-bdd2-17257b6838e3?format=auto&s=18fb4254c6cc9340bd9da4e19477c49ff2c8a878&w=1000",
+        "sv": {
+          "title": "Var klimattoppmötet i Turkiet ett haveri?",
+          "summary": "Och hur går det egentligen med de svenska utsläppen?",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Was the climate summit in Turkey a fiasco?",
+          "summary": "And how are Swedish emissions actually doing?"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T17:52:48+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "de4f4a309e18",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/ost/linkopingsforskaren-hoppfull-trots-kraschad-forhandling",
+          "published_at": "2026-11-27T05:30:04+01:00",
+          "sv": {
+            "title": "Linköpingsforskaren hoppfull trots kraschad klimatförhandling"
+          },
+          "en": {
+            "title": "Linköping researcher hopeful despite collapsed climate negotiations"
+          }
+        },
+        {
+          "id": "257f1c5ee394",
+          "source": "svd",
+          "url": "https://www.svd.se/a/8Pmrx2/var-klimattoppmotet-i-turkiet-ett-haveri",
+          "published_at": "2026-11-26T17:46:43+01:00",
+          "sv": {
+            "title": "Var klimattoppmötet i Turkiet ett haveri?"
+          },
+          "en": {
+            "title": "Was the climate summit in Turkey a fiasco?"
           }
         }
       ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T05:31:06+01:00",
+  "generated_at": "2026-11-27T05:46:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1d4d31fd9058",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/putin-valkomnas-till-g20-av-trump",
+      "guid": "4efa4fb9-0b16-4ae6-93bd-541ac82b7891",
+      "published_at": "2026-11-27T05:31:48+01:00",
+      "fetched_at": "2026-11-27T05:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c01e5131-020b-4c4d-ac0e-9859c75bf5de.jpg?width=600",
+      "sv": {
+        "title": "Putin välkomnas till G20 av Trump",
+        "summary": "USA:s president Donald Trump säger att han är osäker på om hans ryske motsvarighet Vladimir Putin kommer att delta på G20-toppmötet i Florida.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin welcomed to G20 by Trump",
+        "summary": "US President Donald Trump says he is unsure whether his Russian counterpart Vladimir Putin will attend the G20 summit in Florida."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T05:46:02+01:00"
+      }
+    },
     {
       "id": "0ea15e0b9e4e",
       "schema_version": 1,
@@ -27,6 +54,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T05:31:03+01:00"
+      }
+    },
+    {
+      "id": "ab54c44f4e2f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/stormar-i-usa-900-000-stromlosa",
+      "guid": "179239a2-8575-4869-844e-be26981a27e9",
+      "published_at": "2026-11-27T05:27:44+01:00",
+      "fetched_at": "2026-11-27T05:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/aeeec2d5-b327-4cda-a7cf-31b069f2879e.jpg?width=600",
+      "sv": {
+        "title": "Stormar i USA – 900.000 strömlösa",
+        "summary": "Stormarna fortsätter att piska USA från två håll. Natten mot fredag svensk tid är 900.000 hushåll och företag utan ström.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Storms in USA – 900,000 without power",
+        "summary": "The storms continue to lash the USA from two directions. Overnight Friday Swedish time, 900,000 households and businesses are without power."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T05:46:02+01:00"
       }
     },
     {
@@ -5253,58 +5307,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T07:46:03+01:00"
-      }
-    },
-    {
-      "id": "bf8aa2329f62",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/fortsatta-forluster-for-curasight-har-ar-nasta-steg",
-      "guid": "e2de7f24-c97e-4606-b6bc-2372567493a5",
-      "published_at": "2026-11-26T07:25:17+01:00",
-      "fetched_at": "2026-11-26T07:45:50+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Fortsatta förluster för Curasight – här är nästa steg",
-        "summary": "Det danska forsknings- och diagnostikbolaget Curasight, noterat på Spotlight, redovisar ett rörelseresultat för det tredje kvartalet 2026 på minus 13,9 miljoner danska kronor (minus 13,5).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Continued losses for Curasight – here is the next step",
-        "summary": "Danish research and diagnostics company Curasight, listed on Spotlight, reports an operating loss for the third quarter of 2026 of minus DKK 13.9 million (minus 13.5)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T07:46:03+01:00"
-      }
-    },
-    {
-      "id": "4bcde37e4fe8",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/bitcoinbolagets-vinst-100-000-kronor",
-      "guid": "e915a3c5-8108-404e-b7e9-369e45d90582",
-      "published_at": "2026-11-26T07:22:53+01:00",
-      "fetched_at": "2026-11-26T07:31:01+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Bitcoinbolagets vinst: 100.000 kronor",
-        "summary": "K33, verksamt inom digitala tillgångar, redovisar ett ebitda-resultat om 0,1 miljon kronor för det tredje kvartalet 2026, jämfört med 2,1 miljoner kronor under motsvarande kvartal i fjol och upp från minus 4,6 miljoner under andra kvartalet 2026.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bitcoin company's profit: SEK 100,000",
-        "summary": "K33, which operates in digital assets, reports EBITDA of SEK 0.1 million for the third quarter of 2026, compared with SEK 2.1 million in the same quarter last year and up from minus SEK 4.6 million in the second quarter of 2026."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T07:31:07+01:00"
       }
     }
   ]

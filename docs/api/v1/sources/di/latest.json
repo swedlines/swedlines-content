@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-27T05:31:06+01:00",
+  "generated_at": "2026-11-27T05:46:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1d4d31fd9058",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/putin-valkomnas-till-g20-av-trump",
+      "guid": "4efa4fb9-0b16-4ae6-93bd-541ac82b7891",
+      "published_at": "2026-11-27T05:31:48+01:00",
+      "fetched_at": "2026-11-27T05:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c01e5131-020b-4c4d-ac0e-9859c75bf5de.jpg?width=600",
+      "sv": {
+        "title": "Putin välkomnas till G20 av Trump",
+        "summary": "USA:s president Donald Trump säger att han är osäker på om hans ryske motsvarighet Vladimir Putin kommer att delta på G20-toppmötet i Florida.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin welcomed to G20 by Trump",
+        "summary": "US President Donald Trump says he is unsure whether his Russian counterpart Vladimir Putin will attend the G20 summit in Florida."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T05:46:02+01:00"
+      }
+    },
+    {
+      "id": "ab54c44f4e2f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/stormar-i-usa-900-000-stromlosa",
+      "guid": "179239a2-8575-4869-844e-be26981a27e9",
+      "published_at": "2026-11-27T05:27:44+01:00",
+      "fetched_at": "2026-11-27T05:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/aeeec2d5-b327-4cda-a7cf-31b069f2879e.jpg?width=600",
+      "sv": {
+        "title": "Stormar i USA – 900.000 strömlösa",
+        "summary": "Stormarna fortsätter att piska USA från två håll. Natten mot fredag svensk tid är 900.000 hushåll och företag utan ström.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Storms in USA – 900,000 without power",
+        "summary": "The storms continue to lash the USA from two directions. Overnight Friday Swedish time, 900,000 households and businesses are without power."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T05:46:02+01:00"
+      }
+    },
     {
       "id": "34b29e1ab881",
       "schema_version": 1,
@@ -5275,60 +5329,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T19:16:10+01:00"
-      }
-    },
-    {
-      "id": "f18bbac38bc1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/notes-ordforande-frustrationen-har-okat",
-      "guid": "21b4a036-1bcc-49fa-b3c5-83a073844ee0",
-      "published_at": "2026-11-25T18:50:24+01:00",
-      "fetched_at": "2026-11-25T19:01:19+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/2a0a20ba-60e6-4e32-a688-ce5fc824f02a.jpeg?width=600",
-      "sv": {
-        "title": "Notes ordförande: ”Frustrationen har ökat”",
-        "summary": "Kontraktstillverkaren Notes vd Johannes Lind-Widestam får lämna på dagen. Ordförande Anna Belfrage säger till Di att det funnits en frustration över den svaga organiska tillväxten. ”Vi känner att det kräver kanske ett annat ledarskap”, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Note's chair: \"Frustration has grown\"",
-        "summary": "Contract manufacturer Note's CEO Johannes Lind-Widestam is leaving today. Chair Anna Belfrage tells Di that there has been frustration over the weak organic growth. \"We feel that it perhaps requires a different leadership,\" she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T19:01:24+01:00"
-      }
-    },
-    {
-      "id": "01b42fd4d25e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/trump-borsfallet-ar-demokraternas-fel",
-      "guid": "2eaafccf-107a-4112-a3df-b76175d97c2f",
-      "published_at": "2026-11-25T18:35:55+01:00",
-      "fetched_at": "2026-11-25T18:45:46+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/384e1827-0c87-4edb-86e2-1e836fd116df.jpeg?width=600",
-      "sv": {
-        "title": "Trump: Börsfallet är Demokraternas fel",
-        "summary": "Den amerikanske presidenten Donald Trump skriver på Truth Social att börsnedgångarna i USA beror på utgången av mellanårsvalet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump: stock market drop is the Democrats' fault",
-        "summary": "US President Donald Trump writes on Truth Social that the stock market declines in the US are due to the outcome of the midterm elections."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T18:45:49+01:00"
       }
     }
   ]
