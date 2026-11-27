@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T21:34:48+01:00",
+  "generated_at": "2026-11-27T21:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f47d90836c55",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/studie-170-ar-av-historia-pekar-mot-borsras",
+      "guid": "87b28826-d9c2-4d48-ac4a-a22f87510918",
+      "published_at": "2026-11-27T21:35:26+01:00",
+      "fetched_at": "2026-11-27T21:45:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/3ec1c760-35a3-4704-8e74-8bcfd6b5e3ae.jpeg?width=600",
+      "sv": {
+        "title": "Studie: 170 år av historia pekar mot börsras",
+        "summary": "Risken för att AI-boomen är en bubbla uppgår nu till 97 procent och varningssignalerna speglar toppen av it-bubblan. Det visar en studie baserad på 170 års finanshistoria, där akademiker från London Business School och University of Cambridge flaggar för ett kommande börsras, skriver CNBC.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Study: 170 years of history points to stock market crash",
+        "summary": "The risk that the AI boom is a bubble now stands at 97 percent and warning signals mirror the peak of the dot-com bubble. A study based on 170 years of financial history, in which academics from London Business School and the University of Cambridge flag an impending stock market crash, reports CNBC."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T21:45:52+01:00"
+      }
+    },
     {
       "id": "0d9196de5d65",
       "schema_version": 1,
@@ -5292,33 +5319,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T14:26:28+01:00"
-      }
-    },
-    {
-      "id": "3f2adbe5b3e2",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/uppgifter-thailand-planerar-ett-kop-av-atta-gripen",
-      "guid": "2f8ea540-575e-4bed-a1cf-ff046b7efa14",
-      "published_at": "2026-11-26T14:11:12+01:00",
-      "fetched_at": "2026-11-26T14:15:51+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/20974bd8-9fb6-4f8c-96d2-49a1faa87b75.jpeg?width=600",
-      "sv": {
-        "title": "Uppgifter: Thailand planerar ett köp av åtta Gripen",
-        "summary": "Thailand överväger att slå ihop de två sista inköpsfaserna på stridsflygområdet till ett gemensamt köp av åtta Gripen-plan från Saab.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: Thailand plans to buy eight Gripens",
-        "summary": "Thailand is considering merging the last two procurement phases in its combat aircraft programme into a joint purchase of eight Gripen aircraft from Saab."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T14:16:14+01:00"
       }
     }
   ]

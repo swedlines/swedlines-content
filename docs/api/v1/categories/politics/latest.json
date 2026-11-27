@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T21:34:48+01:00",
+  "generated_at": "2026-11-27T21:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7b114ef86b74",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/splittringen-i-c-kartlagger--alla-infor-odesmotet",
+      "guid": "https://www.expressen.se/nyheter/politik/splittringen-i-c-kartlagger--alla-infor-odesmotet/",
+      "published_at": "2026-11-27T21:43:14+01:00",
+      "fetched_at": "2026-11-27T21:45:45+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Splittringen i C – kartlägger alla inför ödesmötet",
+        "summary": "Elisabeth Thand Ringqvist hotade med att avgå för att få sin vilja igenom på torsdagens ”ödesmöte”. Personer som tvekade på beslutet gav vika för partiledaren, enligt källor. Nu står Centerpartiet inför ett nytt ett ödesmöte – och falangerna är nu i full fart med att kartlägga varandra.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The split in the Centre Party – mapping everyone ahead of the make-or-break meeting",
+        "summary": "Elisabeth Thand Ringqvist threatened to resign to get her way at Thursday's \"make-or-break meeting\". People who hesitated over the decision gave in to the party leader, according to sources. Now the Centre Party faces another make-or-break meeting – and the factions are busy mapping each other."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T21:45:52+01:00"
+      }
+    },
     {
       "id": "1497f62e156c",
       "schema_version": 1,
@@ -5397,32 +5423,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "ce1a01678204",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/c-ledaren-kallar-till-presstraff-efter-odesmotet",
-      "guid": "4c759fb2-04ce-4597-8033-ffc7784348b8",
-      "published_at": "2026-11-26T16:43:38+01:00",
-      "fetched_at": "2026-11-26T16:45:51+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C-ledaren kallar till pressträff efter ödesmötet",
-        "summary": "Centerledaren Elisabeth Thand Ringqvist kommer att hålla en pressträff i riksdagen torsdag eftermiddag.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre leader calls press conference after make-or-break meeting",
-        "summary": "Centre Party leader Elisabeth Thand Ringqvist will hold a press conference at the Riksdag on Thursday afternoon."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T16:45:56+01:00"
       }
     }
   ]

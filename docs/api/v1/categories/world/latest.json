@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T21:34:48+01:00",
+  "generated_at": "2026-11-27T21:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7f5adb830fc0",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/VxqlJp/putin-visade-upp-ny-atomubat",
+      "guid": "https://www.aftonbladet.se/nyheter/a/VxqlJp/putin-visade-upp-ny-atomubat?utm_medium=rss",
+      "published_at": "2026-11-27T21:41:56+01:00",
+      "fetched_at": "2026-11-27T21:45:45+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/fd2047e8-d82c-3466-88cc-12fe4e1c4087?format=auto&s=768f42b7a84f0332a2ff58d7737904647f85cfc8&w=1000",
+      "sv": {
+        "title": "Putin visade upp ny atomubåt",
+        "summary": "Rysslands president Vladimir Putin deltog på fredagen i en sjösättningsceremoni för landets nya…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin shows off new nuclear submarine",
+        "summary": "Russian President Vladimir Putin attended a launch ceremony for the country's new…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T21:45:52+01:00"
+      }
+    },
     {
       "id": "9c936967b9a4",
       "schema_version": 1,
@@ -5314,32 +5341,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T19:45:51+01:00"
-      }
-    },
-    {
-      "id": "fe06600400ba",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9349987",
-      "guid": "rss:sr.se/article/9349987",
-      "published_at": "2026-11-25T19:03:00+01:00",
-      "fetched_at": "2026-11-25T19:15:52+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Migranter i Spanien oroas inför valframgångar för Vox",
-        "summary": "Kalilou Sylla Sakhé Leiva kom till Spanien efter att 1997 hoppat över stängslet till den spanska exklaven Melilla. Han har sen dess rotat sig i Barcelona och har under alla år arbetat och betalat skatt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Migrants in Spain worried ahead of Vox electoral gains",
-        "summary": "Kalilou Sylla Sakhé Leiva came to Spain after jumping the fence to the Spanish enclave of Melilla in 1997. He has since settled in Barcelona and has worked and paid taxes throughout all these years."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T19:16:10+01:00"
       }
     }
   ]

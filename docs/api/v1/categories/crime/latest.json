@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T21:34:48+01:00",
+  "generated_at": "2026-11-27T21:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "44d65faab49e",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/misstankt-for-bussmordet-jag-tankte-sla-honom-inte-skjuta-honom",
+      "guid": "https://www.dn.se/sverige/misstankt-for-bussmordet-jag-tankte-sla-honom-inte-skjuta-honom/",
+      "published_at": "2026-11-27T21:38:08+01:00",
+      "fetched_at": "2026-11-27T21:45:43+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/bc5201fa-5e80-4440-827d-2b46837df08a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Misstänkt för bussmordet: ”Jag tänkte slå honom, inte skjuta honom”",
+        "summary": "Det finns ingen anstiftare – det hävdar den 21-åring som åtalats för det brutala bussmordet i Tyresö. Enligt honom var dådet hans egen idé. – Jag tänkte slå honom, jag tänkte inte skjuta honom, säger 21-åringen som nu anklagas för att ljuga under rättegången.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspect in bus murder: \"I meant to hit him, not shoot him\"",
+        "summary": "There is no instigator – claims the 21-year-old who has been charged in the brutal bus murder in Tyresö. According to him, the act was his own idea. – I meant to hit him, I didn't mean to shoot him, says the 21-year-old who is now accused of lying during the trial."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T21:45:52+01:00"
+      }
+    },
     {
       "id": "d9dd5e11f911",
       "schema_version": 1,
@@ -5347,33 +5374,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T15:10:54+01:00"
-      }
-    },
-    {
-      "id": "455a1c722ce0",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/storningsjouren-ryckte-ut-38-ganger-tvingades-stanga-av-elen",
-      "guid": "https://www.dn.se/sverige/storningsjouren-ryckte-ut-38-ganger-tvingades-stanga-av-elen/",
-      "published_at": "2026-11-23T14:45:41+01:00",
-      "fetched_at": "2026-11-23T15:01:07+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/8ef87dc0-184c-460d-9eb9-b40afd5910ea.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Störningsjouren ryckte ut 38 gånger – tvingades stänga av elen",
-        "summary": "Trots att störningsjouren ryckte ut 38 gånger på ett halvår så fortsatte mannen att spela musik. Vid ett tillfälle tvingades man stänga av elen för att få tyst på oljudet. Nu döms 43-åringen att betala för utryckningarna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Disturbance patrol went out 38 times – forced to cut off the power",
-        "summary": "Although the disturbance patrol went out 38 times in six months, the man continued to play music. On one occasion, he was forced to switch off the power to silence the noise. Now the 43-year-old is ordered to pay for the call-outs."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T15:01:15+01:00"
       }
     }
   ]
