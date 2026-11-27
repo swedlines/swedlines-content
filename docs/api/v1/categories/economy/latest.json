@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T20:15:49+01:00",
+  "generated_at": "2026-11-27T20:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eb4d9be2f49e",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351918",
+      "guid": "rss:sr.se/article/9351918",
+      "published_at": "2026-11-27T20:19:00+01:00",
+      "fetched_at": "2026-11-27T20:30:58+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Tillfälliga skattesänkningen på drivmedel försvinner",
+        "summary": "På tisdag upphör den sista tillfälliga skattesänkningen på bensin och diesel. Sänkningen infördes 1 juli för att minska eventuella höjningar som kriget i Iran riskerade att innebära.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Temporary fuel tax cut on petrol and diesel ends",
+        "summary": "On Tuesday the last temporary tax cut on petrol and diesel expires. The cut was introduced on 1 July to offset possible price increases that the war in Iran risked causing."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T20:31:05+01:00"
+      }
+    },
     {
       "id": "4a2f09a65b04",
       "schema_version": 1,
@@ -5287,33 +5313,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T19:15:52+01:00"
-      }
-    },
-    {
-      "id": "1e9f6aca028f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/nordea-forsvarar-kontorskravet-starker-relationer",
-      "guid": "a32a877a-c8d4-4c94-827a-dbf5092a851a",
-      "published_at": "2026-11-26T18:36:31+01:00",
-      "fetched_at": "2026-11-26T18:45:42+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6d6c5177-8fff-4f60-8bbc-6882b66fc3ff.jpeg?width=600",
-      "sv": {
-        "title": "Nordea försvarar kontorskravet: ”Stärker relationer”",
-        "summary": "Efter hård kritik från Finansförbundet försvarar Nordea beslutet att skrota sin modell för hybridarbete. ”Vi säger inte att distansarbete i sig har varit ett problem.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Nordea defends office requirement: “Strengthens relationships”",
-        "summary": "After harsh criticism from Finansförbundet, Nordea defends its decision to scrap its hybrid work model. “We are not saying that remote work in itself has been a problem."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T18:45:46+01:00"
       }
     }
   ]

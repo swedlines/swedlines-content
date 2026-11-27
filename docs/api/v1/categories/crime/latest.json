@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-27T20:15:49+01:00",
+  "generated_at": "2026-11-27T20:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d9dd5e11f911",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/skulle-lamna-landet-med-over-en-miljon-i-rullstolen.e5ef8b34-2d0b-57f7-a792-bde7439a48f6",
+      "guid": "e5ef8b34-2d0b-57f7-a792-bde7439a48f6",
+      "published_at": "2026-11-27T20:18:30+01:00",
+      "fetched_at": "2026-11-27T20:31:01+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Krim",
+        "Tagg: Kontanter",
+        "Tagg: Landvetter flygplats",
+        "Tagg: Brott",
+        "Tagg: Polisen"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/b661c770-2849-3b3a-a56e-5cf6de189313",
+      "sv": {
+        "title": "Greps på Landvetter med över en miljon i rullstolen",
+        "summary": "Greps på Landvetter: ”Jag skulle köpa livsmedel och kryddor”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Arrested at Landvetter with over a million in a wheelchair",
+        "summary": "Arrested at Landvetter: \"I was going to buy groceries and spices.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T20:31:05+01:00"
+      }
+    },
     {
       "id": "948e0ff070d5",
       "schema_version": 1,
@@ -5340,35 +5374,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T15:01:15+01:00"
-      }
-    },
-    {
-      "id": "077cb26480ac",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2Qr9ktds2hZT6h04jTLlNV/mordet-fangas-av-teslans-kamera-duon-slar-till-igen-dagar-senare",
-      "guid": "2Qr9ktds2hZT6h04jTLlNV",
-      "published_at": "2026-11-23T13:55:34+01:00",
-      "fetched_at": "2026-11-23T14:01:12+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Brott och straff"
-      ],
-      "sv": {
-        "title": "Mordet fångas av Teslans kamera – duon slår till igen dagar senare",
-        "summary": "Två pojkar står inför rätta vid Norrköpings tingsrätt för dubbla mord, ett i Oslo, det andra i Norrköping, med bara fyra dagars mellanrum. Morduppdragen ska de ha fått i chattar från alias som kopplas till Foxtrotnätverket.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Murder caught on Tesla's camera – duo strikes again days later",
-        "summary": "Two boys are standing trial at the Norrköping district court for double murder, one in Oslo and the other in Norrköping, only four days apart. The murder assignments they are said to have received in chats from aliases linked to the Foxtrot network."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T14:01:30+01:00"
       }
     }
   ]
