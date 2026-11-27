@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T16:45:56+01:00",
+  "generated_at": "2026-11-27T17:01:31+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "89ca66f372cc",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai",
+      "guid": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai?utm_medium=rss",
+      "published_at": "2026-11-27T16:47:21+01:00",
+      "fetched_at": "2026-11-27T17:01:14+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Misstänkt huvudman i stor momshärva gripen i Dubai",
+        "summary": "En man som misstänks vara huvudman i en stor momshärva har gripits i Dubai, skriver polisen på sin…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspected mastermind of major VAT fraud arrested in Dubai",
+        "summary": "A man suspected of being the mastermind of a major VAT fraud has been arrested in Dubai, the police write on their website…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:01:22+01:00"
+      }
+    },
     {
       "id": "37dba1288509",
       "schema_version": 1,
@@ -843,6 +869,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T08:15:58+01:00"
+      }
+    },
+    {
+      "id": "960017b908c2",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/gavleborg/polisen-utreder-grovt-brott-i-hudiksvall-vill-ha-tips",
+      "guid": "https://www.svt.se/nyheter/lokalt/gavleborg/polisen-utreder-grovt-brott-i-hudiksvall-vill-ha-tips",
+      "published_at": "2026-11-27T07:41:26+01:00",
+      "fetched_at": "2026-11-27T17:01:11+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen utreder skottlossning i Hudiksvall – skotthål i fönsterrutor",
+        "summary": "Blåljus och stort pådrag mötte de boende i Fiskarstan i Hudiksvall på fredagsmorgonen. Polisen har bekräftat att de utreder en skottlossning, och enligt ett vittne har tre skott hörts strax innan larmet kom in vid tretiden i natt. Ingen person är skadad, enligt nya uppgifter från polisen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police investigate shooting in Hudiksvall – bullet holes in windows",
+        "summary": "Emergency services and a large deployment met residents in Fiskarstan in Hudiksvall on Friday morning. Police have confirmed they are investigating a shooting, and according to a witness three shots were heard shortly before the alarm came in at around three in the morning. No one is injured, according to new information from the police."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:01:22+01:00"
       }
     },
     {
@@ -5326,66 +5378,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T08:31:18+01:00"
-      }
-    },
-    {
-      "id": "8623be627df1",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/sverige/polisens-varning-infor-black-week-sa-undviker-du-bedrageri.a73ad8de-50c0-5611-8a7b-8dcecdbe8dba",
-      "guid": "a73ad8de-50c0-5611-8a7b-8dcecdbe8dba",
-      "published_at": "2026-11-23T07:45:27+01:00",
-      "fetched_at": "2026-11-23T08:15:24+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Sverige",
-        "Tagg: Black Week",
-        "Tagg: Polisen",
-        "Tagg: Bedrägeri",
-        "Tagg: breaking-GP"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/0686905d-fa6a-34a2-a1b8-8f449541289b",
-      "sv": {
-        "title": "Polisens varning inför Black week",
-        "summary": "Under Black week vill många passa på göra ett klipp eller kanske hitta en tidig julklapp till pangpris.Nu varnar dock polisen för att även bedragare ser sin chans.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police warning ahead of Black Week",
-        "summary": "During Black Week, many want to take the chance to make a cut or perhaps find an early Christmas present at a bargain price. But the police now warn that fraudsters also see their chance."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T08:15:29+01:00"
-      }
-    },
-    {
-      "id": "035ee2b1a6eb",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/ekonomi/polisens-varning-infor-black-week-ubhbh",
-      "guid": "https://www.expressen.se/ekonomi/polisens-varning-infor-black-week-ubhbh/",
-      "published_at": "2026-11-23T07:40:10+01:00",
-      "fetched_at": "2026-11-23T07:45:46+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisens varning inför Black Week",
-        "summary": "Black week är i gång med röda prislappar och lockande erbjudanden – och bedrägerier. Här är polisens tips på hur du undviker att bli lurad under de stundande och kommande högtiderna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police warning ahead of Black Week",
-        "summary": "Black Week is under way with red price tags and tempting offers – and fraud. Here are the police's tips on how to avoid being duped during the coming holidays."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T07:45:54+01:00"
       }
     }
   ]

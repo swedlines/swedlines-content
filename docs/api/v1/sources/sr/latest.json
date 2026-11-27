@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T16:45:56+01:00",
+  "generated_at": "2026-11-27T17:01:31+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "78001694720b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351950",
+      "guid": "rss:sr.se/article/9351950",
+      "published_at": "2026-11-27T16:59:00+01:00",
+      "fetched_at": "2026-11-27T17:01:12+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Erbjudandet till C: Kall öl och euroutredning – inte ett ord om SD",
+        "summary": "Nu har Moderaterna offentliggjort det avtal som framförhandlats mellan de borgerliga partierna och som ska ligga till grund för Ulf Kristerssons regeringssamarbete om Centerpartiet ställer sig bakom det.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Offer to the Centre Party: Cold beer and euro inquiry – not a word about the Sweden Democrats",
+        "summary": "The Moderates have now published the agreement negotiated between the centre-right parties, which is to form the basis of Ulf Kristersson's government cooperation if the Centre Party backs it."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:01:22+01:00"
+      }
+    },
     {
       "id": "41a44ebb2c46",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T02:12:17+01:00"
-      }
-    },
-    {
-      "id": "20844365aac1",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347965",
-      "guid": "rss:sr.se/article/9347965",
-      "published_at": "2026-11-22T23:00:00+01:00",
-      "fetched_at": "2026-11-22T23:15:40+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "18-åring gripen i Kroatien – kopplas till mordet i Älvsjö",
-        "summary": "En 18-årig man har gripits i Kroatien misstänkt för kopplingar till mordet på en 24-årig kvinna i Älvsjö i södra Stockholm i mitten av oktober. 18-åringen misstänks bland annat för anstiftan till mord, skriver Aftonbladet som citerar kroatisk media.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "18-year-old arrested in Croatia – linked to the murder in Älvsjö",
-        "summary": "An 18-year-old man has been arrested in Croatia on suspicion of links to the murder of a 24-year-old woman in Älvsjö in southern Stockholm in mid-October. The 18-year-old is suspected, among other things, of incitement to murder, writes Aftonbladet, citing Croatian media."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T23:15:47+01:00"
       }
     }
   ]

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-27T16:45:56+01:00",
+  "generated_at": "2026-11-27T17:01:31+01:00",
   "count": 30,
   "stories": [
     {
       "id": "39b05fad3cef",
-      "source_count": 7,
+      "source_count": 8,
       "sources": [
         "expressen",
         "tv4",
@@ -12,10 +12,11 @@
         "sr",
         "dn",
         "aftonbladet",
-        "svd"
+        "svd",
+        "gp"
       ],
       "first_published_at": "2026-11-26T18:04:47+01:00",
-      "last_published_at": "2026-11-27T13:20:00+01:00",
+      "last_published_at": "2026-11-27T16:43:18+01:00",
       "lead": {
         "id": "39b05fad3cef",
         "schema_version": 1,
@@ -43,6 +44,18 @@
         }
       },
       "items": [
+        {
+          "id": "8173849df146",
+          "source": "gp",
+          "url": "https://www.gp.se/politik/avgorande-beslut-vantar-for-c-partiet-ar-splittrat.6c1bbcb5-b55d-5471-9f26-f73ffc86967b",
+          "published_at": "2026-11-27T16:43:18+01:00",
+          "sv": {
+            "title": "Avgörande beslut väntar för C: ”Partiet är splittrat”"
+          },
+          "en": {
+            "title": "Crucial decision awaits the Centre: \"The party is split\""
+          }
+        },
         {
           "id": "7622a2fc1459",
           "source": "sr",
@@ -1301,6 +1314,94 @@
       ]
     },
     {
+      "id": "8f3fc0f8ba82",
+      "source_count": 4,
+      "sources": [
+        "expressen",
+        "dn",
+        "tv4",
+        "gp"
+      ],
+      "first_published_at": "2026-11-27T10:55:29+01:00",
+      "last_published_at": "2026-11-27T16:41:40+01:00",
+      "lead": {
+        "id": "8f3fc0f8ba82",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bc3f6c6d-d182-4924-af74-3129904d299b",
+        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bc3f6c6d-d182-4924-af74-3129904d299b",
+        "published_at": "2026-11-27T10:55:29+01:00",
+        "fetched_at": "2026-11-27T11:01:17+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Splittring i C-toppen",
+          "summary": "Vice partiledaren röstade nej, enligt uppgifter",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Split at the top of the Centre Party",
+          "summary": "The deputy party leader voted no, according to reports"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T11:01:24+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "9be860512547",
+          "source": "gp",
+          "url": "https://www.gp.se/politik/c-toppen-var-oppen-for-v-ministrar-men-foljer-partilinjen.ffb20833-5118-5054-af95-11fb4786e080",
+          "published_at": "2026-11-27T16:41:40+01:00",
+          "sv": {
+            "title": "C-toppen var öppen för V-ministrar – men följer partilinjen"
+          },
+          "en": {
+            "title": "Centre leadership was open to Left Party ministers – but follows party line"
+          }
+        },
+        {
+          "id": "8f4c07bf65dc",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/5TzZET9fOWlnmadoyNG1jl/c-toppen-star-fast-efter-tararna-vi-bryter-mot-det",
+          "published_at": "2026-11-27T16:16:36+01:00",
+          "sv": {
+            "title": "C-toppen står fast efter tårarna: ”Vi bryter mot det”"
+          },
+          "en": {
+            "title": "C leadership stands firm after tears: “We are breaking with that”"
+          }
+        },
+        {
+          "id": "e8a0d5c076b8",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/c-toppen-i-stockholm-det-kanns-lite-som-att-man-blir-utpressad",
+          "published_at": "2026-11-27T13:41:36+01:00",
+          "sv": {
+            "title": "C-toppen i Stockholm: ”Det känns lite som att man blir utpressad”"
+          },
+          "en": {
+            "title": "Centre Party branch in Stockholm: \"It feels a bit like being blackmailed\""
+          }
+        },
+        {
+          "id": "8f3fc0f8ba82",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bc3f6c6d-d182-4924-af74-3129904d299b",
+          "published_at": "2026-11-27T10:55:29+01:00",
+          "sv": {
+            "title": "Splittring i C-toppen"
+          },
+          "en": {
+            "title": "Split at the top of the Centre Party"
+          }
+        }
+      ]
+    },
+    {
       "id": "9c38caceccba",
       "source_count": 4,
       "sources": [
@@ -1566,6 +1667,81 @@
       ]
     },
     {
+      "id": "002d9ec18fd1",
+      "source_count": 3,
+      "sources": [
+        "expressen",
+        "dn",
+        "sr"
+      ],
+      "first_published_at": "2026-11-27T15:40:26+01:00",
+      "last_published_at": "2026-11-27T16:59:00+01:00",
+      "lead": {
+        "id": "002d9ec18fd1",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c",
+        "guid": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c/",
+        "published_at": "2026-11-27T15:40:26+01:00",
+        "fetched_at": "2026-11-27T15:45:50+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Här är Kristerssons förslag: ”Samarbetsregering” med C",
+          "summary": "Centerpartiet står inför ett vägval. Nu presenterar M exakt vad deras sida kan erbjuda. På bordet finns bland annat utökad IVF, euroutredning och kyld dryck på Systembolaget.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Here is Kristersson's proposal: \"Cooperation government\" with C",
+          "summary": "The Centre Party faces a crossroads. Now the Moderates present exactly what their side can offer. On the table are, among other things, expanded IVF, a euro inquiry and chilled drinks at Systembolaget."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T15:45:57+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "78001694720b",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351950",
+          "published_at": "2026-11-27T16:59:00+01:00",
+          "sv": {
+            "title": "Erbjudandet till C: Kall öl och euroutredning – inte ett ord om SD"
+          },
+          "en": {
+            "title": "Offer to the Centre Party: Cold beer and euro inquiry – not a word about the Sweden Democrats"
+          }
+        },
+        {
+          "id": "f027d3ffab37",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/har-ar-kristerssons-erbjudande-till-centern",
+          "published_at": "2026-11-27T16:05:26+01:00",
+          "sv": {
+            "title": "Här är Kristerssons erbjudande till Centern"
+          },
+          "en": {
+            "title": "Here is Kristersson's offer to the Centre Party"
+          }
+        },
+        {
+          "id": "002d9ec18fd1",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c",
+          "published_at": "2026-11-27T15:40:26+01:00",
+          "sv": {
+            "title": "Här är Kristerssons förslag: ”Samarbetsregering” med C"
+          },
+          "en": {
+            "title": "Here is Kristersson's proposal: \"Cooperation government\" with C"
+          }
+        }
+      ]
+    },
+    {
       "id": "accedf09d2d7",
       "source_count": 3,
       "sources": [
@@ -1712,81 +1888,6 @@
           },
           "en": {
             "title": "M, KD and L want lower fuel tax"
-          }
-        }
-      ]
-    },
-    {
-      "id": "8f3fc0f8ba82",
-      "source_count": 3,
-      "sources": [
-        "expressen",
-        "dn",
-        "tv4"
-      ],
-      "first_published_at": "2026-11-27T10:55:29+01:00",
-      "last_published_at": "2026-11-27T16:16:36+01:00",
-      "lead": {
-        "id": "8f3fc0f8ba82",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bc3f6c6d-d182-4924-af74-3129904d299b",
-        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bc3f6c6d-d182-4924-af74-3129904d299b",
-        "published_at": "2026-11-27T10:55:29+01:00",
-        "fetched_at": "2026-11-27T11:01:17+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Splittring i C-toppen",
-          "summary": "Vice partiledaren röstade nej, enligt uppgifter",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Split at the top of the Centre Party",
-          "summary": "The deputy party leader voted no, according to reports"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T11:01:24+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "8f4c07bf65dc",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/5TzZET9fOWlnmadoyNG1jl/c-toppen-star-fast-efter-tararna-vi-bryter-mot-det",
-          "published_at": "2026-11-27T16:16:36+01:00",
-          "sv": {
-            "title": "C-toppen står fast efter tårarna: ”Vi bryter mot det”"
-          },
-          "en": {
-            "title": "C leadership stands firm after tears: “We are breaking with that”"
-          }
-        },
-        {
-          "id": "e8a0d5c076b8",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/c-toppen-i-stockholm-det-kanns-lite-som-att-man-blir-utpressad",
-          "published_at": "2026-11-27T13:41:36+01:00",
-          "sv": {
-            "title": "C-toppen i Stockholm: ”Det känns lite som att man blir utpressad”"
-          },
-          "en": {
-            "title": "Centre Party branch in Stockholm: \"It feels a bit like being blackmailed\""
-          }
-        },
-        {
-          "id": "8f3fc0f8ba82",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bc3f6c6d-d182-4924-af74-3129904d299b",
-          "published_at": "2026-11-27T10:55:29+01:00",
-          "sv": {
-            "title": "Splittring i C-toppen"
-          },
-          "en": {
-            "title": "Split at the top of the Centre Party"
           }
         }
       ]
@@ -2473,6 +2574,68 @@
       ]
     },
     {
+      "id": "89ca66f372cc",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "di"
+      ],
+      "first_published_at": "2026-11-27T16:47:21+01:00",
+      "last_published_at": "2026-11-27T16:54:34+01:00",
+      "lead": {
+        "id": "89ca66f372cc",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai",
+        "guid": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai?utm_medium=rss",
+        "published_at": "2026-11-27T16:47:21+01:00",
+        "fetched_at": "2026-11-27T17:01:14+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Misstänkt huvudman i stor momshärva gripen i Dubai",
+          "summary": "En man som misstänks vara huvudman i en stor momshärva har gripits i Dubai, skriver polisen på sin…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Suspected mastermind of major VAT fraud arrested in Dubai",
+          "summary": "A man suspected of being the mastermind of a major VAT fraud has been arrested in Dubai, the police write on their website…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T17:01:22+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "66ea4003dc0b",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai",
+          "published_at": "2026-11-27T16:54:34+01:00",
+          "sv": {
+            "title": "Misstänkt huvudman i stor momshärva gripen i Dubai"
+          },
+          "en": {
+            "title": "Suspected mastermind of major VAT fraud arrested in Dubai"
+          }
+        },
+        {
+          "id": "89ca66f372cc",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai",
+          "published_at": "2026-11-27T16:47:21+01:00",
+          "sv": {
+            "title": "Misstänkt huvudman i stor momshärva gripen i Dubai"
+          },
+          "en": {
+            "title": "Suspected mastermind of major VAT fraud arrested in Dubai"
+          }
+        }
+      ]
+    },
+    {
       "id": "b9184d1520e4",
       "source_count": 2,
       "sources": [
@@ -2530,68 +2693,6 @@
           },
           "en": {
             "title": "AI and Mars inspire this year's gingerbread houses"
-          }
-        }
-      ]
-    },
-    {
-      "id": "002d9ec18fd1",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "dn"
-      ],
-      "first_published_at": "2026-11-27T15:40:26+01:00",
-      "last_published_at": "2026-11-27T16:05:26+01:00",
-      "lead": {
-        "id": "002d9ec18fd1",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c",
-        "guid": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c/",
-        "published_at": "2026-11-27T15:40:26+01:00",
-        "fetched_at": "2026-11-27T15:45:50+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Här är Kristerssons förslag: ”Samarbetsregering” med C",
-          "summary": "Centerpartiet står inför ett vägval. Nu presenterar M exakt vad deras sida kan erbjuda. På bordet finns bland annat utökad IVF, euroutredning och kyld dryck på Systembolaget.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Here is Kristersson's proposal: \"Cooperation government\" with C",
-          "summary": "The Centre Party faces a crossroads. Now the Moderates present exactly what their side can offer. On the table are, among other things, expanded IVF, a euro inquiry and chilled drinks at Systembolaget."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T15:45:57+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "f027d3ffab37",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/har-ar-kristerssons-erbjudande-till-centern",
-          "published_at": "2026-11-27T16:05:26+01:00",
-          "sv": {
-            "title": "Här är Kristerssons erbjudande till Centern"
-          },
-          "en": {
-            "title": "Here is Kristersson's offer to the Centre Party"
-          }
-        },
-        {
-          "id": "002d9ec18fd1",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c",
-          "published_at": "2026-11-27T15:40:26+01:00",
-          "sv": {
-            "title": "Här är Kristerssons förslag: ”Samarbetsregering” med C"
-          },
-          "en": {
-            "title": "Here is Kristersson's proposal: \"Cooperation government\" with C"
           }
         }
       ]
@@ -2717,69 +2818,6 @@
           },
           "en": {
             "title": "William Poromaa crashes during World Cup opener in Ruka"
-          }
-        }
-      ]
-    },
-    {
-      "id": "4dd878da46a5",
-      "source_count": 2,
-      "sources": [
-        "di",
-        "sr"
-      ],
-      "first_published_at": "2026-11-27T14:13:15+01:00",
-      "last_published_at": "2026-11-27T14:17:00+01:00",
-      "lead": {
-        "id": "4dd878da46a5",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/klart-norse-ansoker-om-konkurs",
-        "guid": "47d65534-cc49-4fb8-9df9-771d5375ca81",
-        "published_at": "2026-11-27T14:13:15+01:00",
-        "fetched_at": "2026-11-27T14:31:05+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/ec308028-1dd4-4ca9-b036-eedec8f0cad8.jpeg?width=600",
-        "sv": {
-          "title": "Klart: Norse ansöker om konkurs",
-          "summary": "Det norska lågprisflygbolaget Norse Atlantic har ansökt om konkurs vid Agders tingsrätt. Det framgår av ett pressmeddelande.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Confirmed: Norse files for bankruptcy",
-          "summary": "The Norwegian low-cost airline Norse Atlantic has filed for bankruptcy at the Agder District Court. This is shown in a press release."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T14:31:25+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "d795e45c3eea",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351732",
-          "published_at": "2026-11-27T14:17:00+01:00",
-          "sv": {
-            "title": "Norskt flygbolag ansöker om konkurs"
-          },
-          "en": {
-            "title": "Norwegian airline files for bankruptcy"
-          }
-        },
-        {
-          "id": "4dd878da46a5",
-          "source": "di",
-          "url": "https://www.di.se/live/klart-norse-ansoker-om-konkurs",
-          "published_at": "2026-11-27T14:13:15+01:00",
-          "sv": {
-            "title": "Klart: Norse ansöker om konkurs"
-          },
-          "en": {
-            "title": "Confirmed: Norse files for bankruptcy"
           }
         }
       ]

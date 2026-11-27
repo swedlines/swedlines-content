@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T16:45:56+01:00",
+  "generated_at": "2026-11-27T17:01:31+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "89ca66f372cc",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai",
+      "guid": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai?utm_medium=rss",
+      "published_at": "2026-11-27T16:47:21+01:00",
+      "fetched_at": "2026-11-27T17:01:14+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Misstänkt huvudman i stor momshärva gripen i Dubai",
+        "summary": "En man som misstänks vara huvudman i en stor momshärva har gripits i Dubai, skriver polisen på sin…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspected mastermind of major VAT fraud arrested in Dubai",
+        "summary": "A man suspected of being the mastermind of a major VAT fraud has been arrested in Dubai, the police write on their website…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:01:22+01:00"
+      }
+    },
     {
       "id": "b76f3e547333",
       "schema_version": 1,
@@ -5346,33 +5372,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T04:59:42+01:00"
-      }
-    },
-    {
-      "id": "8511ac46161b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/3BJA2X/centerpartiet-backar-i-matning-nara-sparren",
-      "guid": "https://www.aftonbladet.se/nyheter/a/3BJA2X/centerpartiet-backar-i-matning-nara-sparren?utm_medium=rss",
-      "published_at": "2026-11-25T04:46:18+01:00",
-      "fetched_at": "2026-11-25T08:01:12+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/3b8f98c0-08ee-3ea9-a4b0-09cc182699e8?format=auto&s=4fe7f42abaa247455ad5ab75558dbf3427b1c973&w=1000",
-      "sv": {
-        "title": "C och S backar i mätning: ”Det är väl klart?”",
-        "summary": "Ny mätning",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "C and S fall in poll: \"Well, isn't that obvious?\"",
-        "summary": "New poll"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T08:01:20+01:00"
       }
     }
   ]
