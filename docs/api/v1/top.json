@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T02:45:57+01:00",
+  "generated_at": "2026-11-27T03:01:12+01:00",
   "count": 27,
   "stories": [
     {
@@ -1266,6 +1266,82 @@
       ]
     },
     {
+      "id": "aa6ba8dd6745",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-27T02:19:22+01:00",
+      "last_published_at": "2026-11-27T02:59:12+01:00",
+      "lead": {
+        "id": "aa6ba8dd6745",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/nLa5Qm/zelenskyjs-kritik-mot-trump-har-manga-fragor",
+        "guid": "https://www.aftonbladet.se/nyheter/a/nLa5Qm/zelenskyjs-kritik-mot-trump-har-manga-fragor?utm_medium=rss",
+        "published_at": "2026-11-27T02:19:22+01:00",
+        "fetched_at": "2026-11-27T02:30:59+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/a94ecc0d-c505-3ce0-8c4c-0eb5b7542f13?format=auto&s=34c024fd268f8454e53de0166b6172a886b0dab0&w=1000",
+        "sv": {
+          "title": "Zelenskyjs kritik mot Trump: ”Har många frågor”",
+          "summary": "Ukrainas president Volodymyr Zelenskyj är kritisk till den amerikanske ledaren Donald Trump, som han…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Zelenskyy's criticism of Trump: \"Has many questions\"",
+          "summary": "Ukrainian President Volodymyr Zelenskyy is critical of the American leader Donald Trump, whom he…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T02:31:04+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "9e738166012f",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/zelenskyj-kritiserar-trump-for-orden-om-putin",
+          "published_at": "2026-11-27T02:59:12+01:00",
+          "sv": {
+            "title": "Zelenskyj kritiserar Trump för orden om Putin"
+          },
+          "en": {
+            "title": "Zelensky criticises Trump for his words about Putin"
+          }
+        },
+        {
+          "id": "1e73c886e6e3",
+          "source": "svd",
+          "url": "https://www.svd.se/a/Pv9W40/zelenskyjs-kritik-mot-trump-har-manga-fragor",
+          "published_at": "2026-11-27T02:19:23+01:00",
+          "sv": {
+            "title": "Zelenskyjs kritik mot Trump: ”Har många frågor”"
+          },
+          "en": {
+            "title": "Zelenskyy's criticism of Trump: \"Has many questions\""
+          }
+        },
+        {
+          "id": "aa6ba8dd6745",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/nLa5Qm/zelenskyjs-kritik-mot-trump-har-manga-fragor",
+          "published_at": "2026-11-27T02:19:22+01:00",
+          "sv": {
+            "title": "Zelenskyjs kritik mot Trump: ”Har många frågor”"
+          },
+          "en": {
+            "title": "Zelenskyy's criticism of Trump: \"Has many questions\""
+          }
+        }
+      ]
+    },
+    {
       "id": "909ab8776cc6",
       "source_count": 3,
       "sources": [
@@ -1536,69 +1612,6 @@
           },
           "en": {
             "title": "Major explosion in Bangkok – residents evacuated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "aa6ba8dd6745",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-27T02:19:22+01:00",
-      "last_published_at": "2026-11-27T02:19:23+01:00",
-      "lead": {
-        "id": "aa6ba8dd6745",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/nLa5Qm/zelenskyjs-kritik-mot-trump-har-manga-fragor",
-        "guid": "https://www.aftonbladet.se/nyheter/a/nLa5Qm/zelenskyjs-kritik-mot-trump-har-manga-fragor?utm_medium=rss",
-        "published_at": "2026-11-27T02:19:22+01:00",
-        "fetched_at": "2026-11-27T02:30:59+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/a94ecc0d-c505-3ce0-8c4c-0eb5b7542f13?format=auto&s=34c024fd268f8454e53de0166b6172a886b0dab0&w=1000",
-        "sv": {
-          "title": "Zelenskyjs kritik mot Trump: ”Har många frågor”",
-          "summary": "Ukrainas president Volodymyr Zelenskyj är kritisk till den amerikanske ledaren Donald Trump, som han…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Zelenskyy's criticism of Trump: \"Has many questions\"",
-          "summary": "Ukrainian President Volodymyr Zelenskyy is critical of the American leader Donald Trump, whom he…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T02:31:04+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "1e73c886e6e3",
-          "source": "svd",
-          "url": "https://www.svd.se/a/Pv9W40/zelenskyjs-kritik-mot-trump-har-manga-fragor",
-          "published_at": "2026-11-27T02:19:23+01:00",
-          "sv": {
-            "title": "Zelenskyjs kritik mot Trump: ”Har många frågor”"
-          },
-          "en": {
-            "title": "Zelenskyy's criticism of Trump: \"Has many questions\""
-          }
-        },
-        {
-          "id": "aa6ba8dd6745",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/nLa5Qm/zelenskyjs-kritik-mot-trump-har-manga-fragor",
-          "published_at": "2026-11-27T02:19:22+01:00",
-          "sv": {
-            "title": "Zelenskyjs kritik mot Trump: ”Har många frågor”"
-          },
-          "en": {
-            "title": "Zelenskyy's criticism of Trump: \"Has many questions\""
           }
         }
       ]

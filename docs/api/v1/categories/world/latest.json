@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T02:45:57+01:00",
+  "generated_at": "2026-11-27T03:01:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9e738166012f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/zelenskyj-kritiserar-trump-for-orden-om-putin",
+      "guid": "https://www.expressen.se/nyheter/varlden/zelenskyj-kritiserar-trump-for-orden-om-putin/",
+      "published_at": "2026-11-27T02:59:12+01:00",
+      "fetched_at": "2026-11-27T03:01:07+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Zelenskyj kritiserar Trump för orden om Putin",
+        "summary": "Zelenskyj kritiserar Trump för att han kallar Putin ”min vän”. – Putin är en mördare. Han kan inte vara en vän, säger Zelenskyj till BBC.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Zelensky criticises Trump for his words about Putin",
+        "summary": "Zelensky criticises Trump for calling Putin \"my friend\". – Putin is a murderer. He cannot be a friend, Zelensky tells the BBC."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T03:01:11+01:00"
+      }
+    },
     {
       "id": "1e73c886e6e3",
       "schema_version": 1,
@@ -5310,32 +5336,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T06:45:52+01:00"
-      }
-    },
-    {
-      "id": "a4ab1a0b2f58",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9349485",
-      "guid": "rss:sr.se/article/9349485",
-      "published_at": "2026-11-25T06:13:00+01:00",
-      "fetched_at": "2026-11-25T06:15:43+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Regimen skärper sitt förtryck mot befolkningen",
-        "summary": "Idag hängs två unga demonstranter i Teheran. Sångerskan Parastou Ahmadi har fått 74 piskrapp efter en konsert utan hijab. Hör vår korrespondent om utvecklingen i Iran.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The regime tightens its repression of the population",
-        "summary": "Today two young demonstrators are being hanged in Tehran. Singer Parastou Ahmadi has been given 74 lashes after a concert without a hijab. Hear our correspondent on developments in Iran."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T06:15:53+01:00"
       }
     }
   ]

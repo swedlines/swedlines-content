@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T02:45:57+01:00",
+  "generated_at": "2026-11-27T03:01:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9e738166012f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/zelenskyj-kritiserar-trump-for-orden-om-putin",
+      "guid": "https://www.expressen.se/nyheter/varlden/zelenskyj-kritiserar-trump-for-orden-om-putin/",
+      "published_at": "2026-11-27T02:59:12+01:00",
+      "fetched_at": "2026-11-27T03:01:07+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Zelenskyj kritiserar Trump för orden om Putin",
+        "summary": "Zelenskyj kritiserar Trump för att han kallar Putin ”min vän”. – Putin är en mördare. Han kan inte vara en vän, säger Zelenskyj till BBC.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Zelensky criticises Trump for his words about Putin",
+        "summary": "Zelensky criticises Trump for calling Putin \"my friend\". – Putin is a murderer. He cannot be a friend, Zelensky tells the BBC."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T03:01:11+01:00"
+      }
+    },
     {
       "id": "3bbabe5d6c90",
       "schema_version": 1,
@@ -5161,32 +5187,6 @@
       "en": {
         "title": "Swede's unusual meeting with Kim Jong-un",
         "summary": "Swede welcomed in North Korea – first time in decades"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:45:50+01:00"
-      }
-    },
-    {
-      "id": "d72f7b407948",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/elevernas-misstankta-tortyrliknande-vald-pa-sigtunaskolan",
-      "guid": "https://www.expressen.se/nyheter/sverige/elevernas-misstankta-tortyrliknande-vald-pa-sigtunaskolan/",
-      "published_at": "2026-11-23T22:35:51+01:00",
-      "fetched_at": "2026-11-23T22:45:46+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Elevernas misstänkta ”tortyrliknande” våld på Sigtunaskolan",
-        "summary": "Prefekten stod högst i rang. Men det var, enligt åtalet, strafförmannen och viceprefekten som utförde de grövsta, ”tortyrliknande” brotten mot yngre elever. Slag med golfklubba och metallskohorn, sexuella kränkningar och dödshot misstänks ha varit några av inslagen i skräckväldet på Sigtunaskolan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Pupils' suspected \"torture-like\" violence at Sigtuna school",
-        "summary": "The headmaster ranked highest. But according to the charges, the disciplinary prefect and deputy headmaster carried out the most serious \"torture-like\" crimes against younger pupils. Beatings with a golf club and metal shoehorn, sexual abuse and death threats are suspected to have been among the elements of the reign of terror at Sigtuna school."
       },
       "translation": {
         "status": "done",
