@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T14:31:31+01:00",
+  "generated_at": "2026-11-27T14:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5e309f280ec8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/R1RlXr/justitieministern-gunnar-strommer-m-kommenterar-tonaringen-victors-sjalvmord",
+      "guid": "https://www.aftonbladet.se/nyheter/a/R1RlXr/justitieministern-gunnar-strommer-m-kommenterar-tonaringen-victors-sjalvmord?utm_medium=rss",
+      "published_at": "2026-11-27T14:37:28+01:00",
+      "fetched_at": "2026-11-27T14:45:50+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/c05196c4-f0d4-3f2f-aa6e-a0ef336c1585?format=auto&s=569add526d3723299ec1cafdb1305857375b6300&w=1000",
+      "sv": {
+        "title": "Strömmer om självmordet: ”En fruktansvärd händelse”",
+        "summary": "Har fått brev från tonåringen Victors föräldrar",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Strömmer on suicide: \"A terrible event\"",
+        "summary": "Has received a letter from the parents of teenager Victor"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T14:45:57+01:00"
+      }
+    },
     {
       "id": "7bb0e2152e3d",
       "schema_version": 1,
@@ -5361,32 +5388,6 @@
       "en": {
         "title": "Rönninge murder: Family's grief, pain every day",
         "summary": "The 25-year-old woman was abducted and murdered over the Christmas holiday last year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:44+01:00"
-      }
-    },
-    {
-      "id": "003a0a07d50f",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/morkt-i-byar-i-bracke-kommun-efter-att-3000-meter-kabel-stulits-fran-vagbelysningen",
-      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/morkt-i-byar-i-bracke-kommun-efter-att-3000-meter-kabel-stulits-fran-vagbelysningen",
-      "published_at": "2026-11-23T05:30:01+01:00",
-      "fetched_at": "2026-11-23T06:55:59+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Mörkt i byar i Bräcke kommun efter att 3 000 meter kabel stals från vägbelysning",
-        "summary": "I Håsjö, Västanede och Ansjö i Bräcke kommun har tjuvar stulit flera tusen meter elkabel från vägbelysningen. Nu är det mörkt längs vägarna i de drabbade byarna och kommunen kan inte lämna besked om de har råd att återställa belysningen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Villages in Bräcke municipality go dark after 3,000 metres of cable stolen from road lighting",
-        "summary": "In Håsjö, Västanede and Ansjö in Bräcke municipality, thieves have stolen several thousand metres of electric cable from road lighting. Now the roads in the affected villages are dark, and the municipality cannot say whether it can afford to restore the lighting."
       },
       "translation": {
         "status": "done",

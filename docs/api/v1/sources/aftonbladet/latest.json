@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T14:31:31+01:00",
+  "generated_at": "2026-11-27T14:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5e309f280ec8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/R1RlXr/justitieministern-gunnar-strommer-m-kommenterar-tonaringen-victors-sjalvmord",
+      "guid": "https://www.aftonbladet.se/nyheter/a/R1RlXr/justitieministern-gunnar-strommer-m-kommenterar-tonaringen-victors-sjalvmord?utm_medium=rss",
+      "published_at": "2026-11-27T14:37:28+01:00",
+      "fetched_at": "2026-11-27T14:45:50+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/c05196c4-f0d4-3f2f-aa6e-a0ef336c1585?format=auto&s=569add526d3723299ec1cafdb1305857375b6300&w=1000",
+      "sv": {
+        "title": "Strömmer om självmordet: ”En fruktansvärd händelse”",
+        "summary": "Har fått brev från tonåringen Victors föräldrar",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Strömmer on suicide: \"A terrible event\"",
+        "summary": "Has received a letter from the parents of teenager Victor"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T14:45:57+01:00"
+      }
+    },
     {
       "id": "05a1b71c807e",
       "schema_version": 1,
@@ -5346,33 +5373,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T22:45:56+01:00"
-      }
-    },
-    {
-      "id": "c568e62a18d7",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/OypxqO/unket-boris-johnson-om-trumps-passning-till-putin",
-      "guid": "https://www.aftonbladet.se/nyheter/a/OypxqO/unket-boris-johnson-om-trumps-passning-till-putin?utm_medium=rss",
-      "published_at": "2026-11-24T22:09:13+01:00",
-      "fetched_at": "2026-11-24T22:15:47+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/6ae4c20f-9647-3803-b7e6-1b8dfe8ef775?format=auto&s=6bb5b2bd9c027284c89dd5dc51d48c8659c2b203&w=1000",
-      "sv": {
-        "title": "”Unket” – Boris Johnson om Trumps passning till Putin",
-        "summary": "Storbritanniens tidigare premiärminister Boris Johnson kallar USA:s president Trumps…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Unket\" – Boris Johnson on Trump's stance toward Putin",
-        "summary": "Former UK prime minister Boris Johnson calls US President Trump's…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T22:15:54+01:00"
       }
     }
   ]

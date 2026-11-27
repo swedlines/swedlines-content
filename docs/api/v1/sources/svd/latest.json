@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T14:31:31+01:00",
+  "generated_at": "2026-11-27T14:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "62ce2a98742b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/7P0WMB/unikt-perspektiv-i-afghansk-romkom",
+      "guid": "https://www.svd.se/a/7P0WMB/unikt-perspektiv-i-afghansk-romkom?utm_medium=rss",
+      "published_at": "2026-11-27T14:30:00+01:00",
+      "fetched_at": "2026-11-27T14:45:49+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/47366bdc-0368-34d6-8bf4-6394dd818476?format=auto&s=0876151f722ec6c25eff6dc60cdd6bf2c7986f47&w=1000",
+      "sv": {
+        "title": "Unikt perspektiv i afghansk romkom",
+        "summary": "”Det finns inga bra karlar” är trots sina mörkare inslag en varm och optimistisk film.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Unique perspective in Afghan rom-com",
+        "summary": "\"There are no good men\" is, despite its darker elements, a warm and optimistic film."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T14:45:57+01:00"
+      }
+    },
     {
       "id": "81d7656939cf",
       "schema_version": 1,
@@ -5241,30 +5268,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T11:59:14+01:00"
-      }
-    },
-    {
-      "id": "d1981b21c099",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80243",
-      "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80243&utm_medium=rss",
-      "published_at": "2026-11-24T10:16:21+01:00",
-      "fetched_at": "2026-11-24T10:31:01+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/61267cd3-2dc3-3128-a875-f1c08b5de4d8?format=auto&s=d23b3e1aba74b9e11be8672d94fe8e1e23197fd4&w=1000",
-      "sv": {
-        "title": "Kristersson fåordig på väg in till talmannen"
-      },
-      "en": {
-        "title": "Kristersson tight-lipped on way to the Speaker"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T10:31:08+01:00"
       }
     }
   ]
