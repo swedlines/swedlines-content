@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-27T21:15:55+01:00",
+  "generated_at": "2026-11-27T21:31:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b378c649976d",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kulturkronika/fredrik-lindstroms-frigorande-dans-ett-rop-pa-hjalp.65372dd9-b020-51a8-94a3-fcde5c982327",
+      "guid": "65372dd9-b020-51a8-94a3-fcde5c982327",
+      "published_at": "2026-11-27T21:00:04+01:00",
+      "fetched_at": "2026-11-27T21:31:08+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kulturkrönika",
+        "Tagg: Fredrik Lindström",
+        "Tagg: SVT",
+        "Tagg: På spåret",
+        "Tagg: Kristian Luuk",
+        "Tagg: TV",
+        "Tagg: Kulturkrönika"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/af7592a0-9a67-327e-ae44-0c24b8eb7af1",
+      "sv": {
+        "title": "Lindströms dans i ”På spåret” – ett skri på hjälp",
+        "summary": "Domaren Fredrik Lindström visade på nytt varför han måste hållas i strama tyglar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lindström's dance on \"På spåret\" – a cry for help",
+        "summary": "Judge Fredrik Lindström once again showed why he needs to be kept on a tight leash."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T21:31:13+01:00"
+      }
+    },
     {
       "id": "9c85ce6c6597",
       "schema_version": 1,
@@ -5618,32 +5654,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T23:01:09+01:00"
-      }
-    },
-    {
-      "id": "24b4e7fe079d",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/kultur/nick-carter-atalas-for-sexuella-overgrepp",
-      "guid": "https://www.svt.se/kultur/nick-carter-atalas-for-sexuella-overgrepp",
-      "published_at": "2026-11-24T22:27:52+01:00",
-      "fetched_at": "2026-11-24T22:30:57+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Nick Carter åtalas för sexuella övergrepp",
-        "summary": "Backstreet Boys-sångaren Nick Carter åtalas för sexuella övergrepp som ska ha skett 2003. Den som stämmer honom är hans motspelerska i en skräckfilm, som vid tiden var 18 år gammal.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nick Carter charged with sexual assault",
-        "summary": "Backstreet Boys singer Nick Carter is charged with sexual offences allegedly committed in 2003. The person bringing the claim is his co-star in a horror film, who was 18 years old at the time."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T22:31:04+01:00"
       }
     }
   ]

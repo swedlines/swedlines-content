@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:15:55+01:00",
+  "generated_at": "2026-11-27T21:31:16+01:00",
   "count": 30,
   "stories": [
     {
@@ -2157,6 +2157,68 @@
       ]
     },
     {
+      "id": "9aef08755ef0",
+      "source_count": 2,
+      "sources": [
+        "sr",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-27T20:27:00+01:00",
+      "last_published_at": "2026-11-27T21:19:50+01:00",
+      "lead": {
+        "id": "9aef08755ef0",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9352005",
+        "guid": "rss:sr.se/article/9352005",
+        "published_at": "2026-11-27T20:27:00+01:00",
+        "fetched_at": "2026-11-27T20:30:58+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Flera ledamöter tänker trotsa Thand Ringqvist",
+          "summary": "In i det sista är det oklart hur regeringsbildningen kommer sluta. På söndag möts Centerpartiets förtroenderåd och Ekots rundringning visar att flera av ledamöterna kommer att rösta emot partilinjen.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Several members plan to defy Thand Ringqvist",
+          "summary": "Right up to the end it is unclear how the government formation will end. On Sunday the Centre Party's confidence council meets, and Ekot's round of calls shows that several of the members will vote against the party line."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T20:31:05+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "c101844093ac",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=1031fdb6-73d5-4137-9f1e-a55111a4746e",
+          "published_at": "2026-11-27T21:19:50+01:00",
+          "sv": {
+            "title": "Elisabeth Thand Ringqvist avgår om det blir nej"
+          },
+          "en": {
+            "title": "Elisabeth Thand Ringqvist to resign if the answer is no"
+          }
+        },
+        {
+          "id": "9aef08755ef0",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9352005",
+          "published_at": "2026-11-27T20:27:00+01:00",
+          "sv": {
+            "title": "Flera ledamöter tänker trotsa Thand Ringqvist"
+          },
+          "en": {
+            "title": "Several members plan to defy Thand Ringqvist"
+          }
+        }
+      ]
+    },
+    {
       "id": "6963bc7dac27",
       "source_count": 2,
       "sources": [
@@ -2666,68 +2728,6 @@
           },
           "en": {
             "title": "Sweden's new e-ID launched – will only work with the police"
-          }
-        }
-      ]
-    },
-    {
-      "id": "89ca66f372cc",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "di"
-      ],
-      "first_published_at": "2026-11-27T16:47:21+01:00",
-      "last_published_at": "2026-11-27T16:54:34+01:00",
-      "lead": {
-        "id": "89ca66f372cc",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai",
-        "guid": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai?utm_medium=rss",
-        "published_at": "2026-11-27T16:47:21+01:00",
-        "fetched_at": "2026-11-27T17:01:14+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Misstänkt huvudman i stor momshärva gripen i Dubai",
-          "summary": "En man som misstänks vara huvudman i en stor momshärva har gripits i Dubai, skriver polisen på sin…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Suspected mastermind of major VAT fraud arrested in Dubai",
-          "summary": "A man suspected of being the mastermind of a major VAT fraud has been arrested in Dubai, the police write on their website…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T17:01:22+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "66ea4003dc0b",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai",
-          "published_at": "2026-11-27T16:54:34+01:00",
-          "sv": {
-            "title": "Misstänkt huvudman i stor momshärva gripen i Dubai"
-          },
-          "en": {
-            "title": "Suspected mastermind of major VAT fraud arrested in Dubai"
-          }
-        },
-        {
-          "id": "89ca66f372cc",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai",
-          "published_at": "2026-11-27T16:47:21+01:00",
-          "sv": {
-            "title": "Misstänkt huvudman i stor momshärva gripen i Dubai"
-          },
-          "en": {
-            "title": "Suspected mastermind of major VAT fraud arrested in Dubai"
           }
         }
       ]

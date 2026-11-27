@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T21:15:55+01:00",
+  "generated_at": "2026-11-27T21:31:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1497f62e156c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/debatt/darfor-sager-vi-ja-till-ulf-kristersson-som-statsminister",
+      "guid": "https://www.dn.se/debatt/darfor-sager-vi-ja-till-ulf-kristersson-som-statsminister/",
+      "published_at": "2026-11-27T21:22:05+01:00",
+      "fetched_at": "2026-11-27T21:31:05+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/76f48781-187c-457a-b557-d38255eb8cd7.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "DN Debatt. ”Därför säger vi ja till Ulf Kristersson som statsminister”",
+        "summary": "DN DEBATT. Centerpartiet har nu möjlighet att ingå i en regering där varken Sverigedemokraterna eller Vänsterpartiet ingår, och samtidigt ta Sverige i en ny riktning, skriver andra vice partiledaren Ulrika Heie och 17 andra C-toppar inför förtroenderådets möte på söndag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "DN Debate. \"This is why we say yes to Ulf Kristersson as prime minister\"",
+        "summary": "DN DEBATE. The Centre Party now has the opportunity to join a government that includes neither the Sweden Democrats nor the Left Party, and at the same time take Sweden in a new direction, write deputy party leader Ulrika Heie and 17 other C top officials ahead of Sunday's meeting of the trust council."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T21:31:13+01:00"
+      }
+    },
     {
       "id": "9c936967b9a4",
       "schema_version": 1,
@@ -5369,32 +5396,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T22:41:56+01:00"
-      }
-    },
-    {
-      "id": "73713f7d989a",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/24-november-missa-inte-dagens-nyheter",
-      "guid": "https://www.dn.se/sverige/24-november-missa-inte-dagens-nyheter/",
-      "published_at": "2026-11-24T21:38:06+01:00",
-      "fetched_at": "2026-11-24T21:40:55+01:00",
-      "category": "other",
-      "sv": {
-        "title": "24 november: Missa inte dagens nyheter",
-        "summary": "Kristersson prövas som statsminister, S nära andraplatsen och milslånga köer i Iran – här är dagens nyheter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "24 November: Don't miss today's news",
-        "summary": "Kristersson is put to the test as prime minister, S nearly in second place, and miles-long queues in Iran – here is today's news."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T21:41:02+01:00"
       }
     }
   ]

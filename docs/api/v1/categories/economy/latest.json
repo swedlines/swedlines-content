@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T21:15:55+01:00",
+  "generated_at": "2026-11-27T21:31:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0d9196de5d65",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/saudiagda-dreamhack-drar-in-95-miljoner-men-blir-lonsamt-forst-nasta-ar",
+      "guid": "a19d599f-8596-4d1b-b1c7-786ab9b9d2e6",
+      "published_at": "2026-11-27T21:22:46+01:00",
+      "fetched_at": "2026-11-27T21:31:08+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/da96980e-fdf4-4700-a7f0-3d381f0e73ff.jpeg?width=600",
+      "sv": {
+        "title": "Saudiägda Dreamhack drar in 95 miljoner – men blir lönsamt först nästa år",
+        "summary": "Spelfestivalen Dreamhack väntas ge Stockholm 95 miljoner kronor i helgen. Men för den numera saudiska ägaren går festivalen ännu inte med vinst.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Saudi-owned Dreamhack posts SEK 95 million loss but turns profitable only next year",
+        "summary": "The gaming festival Dreamhack is expected to bring Stockholm SEK 95 million this weekend. But for its now Saudi owner, the festival is not yet profitable."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T21:31:13+01:00"
+      }
+    },
     {
       "id": "5ffb10666f3a",
       "schema_version": 1,
@@ -5286,33 +5313,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T20:15:59+01:00"
-      }
-    },
-    {
-      "id": "d4974e099086",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ledare/ett-bra-besked-for-sverige",
-      "guid": "1703c206-e3d6-47e7-9b9b-1b9055986fb2",
-      "published_at": "2026-11-26T19:21:40+01:00",
-      "fetched_at": "2026-11-26T19:31:04+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/edc784d9-c197-4999-ab8f-be6c8ec92855.jpeg?width=600",
-      "sv": {
-        "title": "Ett bra besked för Sverige",
-        "summary": "kväll kom Centerpartiet med ett bra besked för Sverige. Om förtroenderådet röstar ja kan en blågrön regering tillträda inom kort.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "A good message for Sweden",
-        "summary": "This evening the Centre Party brought a good message for Sweden. If the trust council votes yes, a blue-green government could take office shortly."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T19:31:20+01:00"
       }
     }
   ]
