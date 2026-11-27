@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-27T12:01:28+01:00",
+  "generated_at": "2026-11-27T12:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a938ce8471e0",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/toppchef-pa-mips-dumpar-aktier",
+      "guid": "66ae4902-f5e4-41a0-b32b-39a7b7b5521d",
+      "published_at": "2026-11-27T12:03:10+01:00",
+      "fetched_at": "2026-11-27T12:15:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Toppchef på Mips dumpar aktier",
+        "summary": "Hjälmbolaget Mips operativa chef Cedric Marmeys sålde i onsdags 3.100 aktier i bolaget till kursen 451,40 kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mips top executive dumps shares",
+        "summary": "Helmet company Mips' chief operating officer Cedric Marmeys sold 3,100 shares in the company on Wednesday at a price of SEK 451.40."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T12:15:54+01:00"
+      }
+    },
+    {
+      "id": "923c32a0c86b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/11-av-13-forbund-staller-sig-bakom-lo-s-krav",
+      "guid": "00b70b62-7af1-44b6-8bc8-fb38970bc700",
+      "published_at": "2026-11-27T12:01:39+01:00",
+      "fetched_at": "2026-11-27T12:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/7b322cdb-79ab-4edf-b114-0b8140881c45.jpeg?width=600",
+      "sv": {
+        "title": "11 av 13 förbund ställer sig bakom LO:s krav",
+        "summary": "Det blir en LO-samordning i avtalsrörelsen 2027. Elva av LO:s 13 förbund har sagt ja till att stötta varandra för att få högre reallöneökningar. Det skriver LO i ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "11 of 13 unions back LO's demands",
+        "summary": "There will be LO coordination in the 2027 collective bargaining round. Eleven of LO's 13 unions have agreed to support each other in seeking higher real wage increases. LO writes this in a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T12:15:54+01:00"
+      }
+    },
     {
       "id": "47b817ca3fec",
       "schema_version": 1,
@@ -5264,59 +5317,6 @@
       "en": {
         "title": "Crypto: Pressure on bitcoin during the turmoil",
         "summary": "Christopher Kock, CEO of Virtune, on the impact of the tech sell-off on the crypto market."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T10:16:07+01:00"
-      }
-    },
-    {
-      "id": "1c438ab7ba9f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/di-weekend/stordalens-hotellplan-kunde-ha-100-till",
-      "guid": "3f92b424-6fdf-4b21-9aea-994f20ab19e5",
-      "published_at": "2026-11-26T10:05:26+01:00",
-      "fetched_at": "2026-11-26T10:15:52+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/10f7f20a-32b1-4066-aba7-5cd17235c23a.jpeg?width=600",
-      "sv": {
-        "title": "Stordalens hotellplan: ”Kunde ha 100 till”",
-        "summary": "HELSINGFORS. Emilie Stordalen var fyra år när Petter Stordalen köpte sina första hotell. I dag äger hon och hennes två bröder Strawberry Group. Men makten ligger kvar hos pappa. ”Det är ett privilegium att kunna lära sig av farsan.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Stordalen's hotel plan: \"Could have had 100 more\"",
-        "summary": "HELSINKI. Emilie Stordalen was four years old when Petter Stordalen bought his first hotels. Today she and her two brothers own Strawberry Group. But power remains with dad. \"It is a privilege to be able to learn from dad."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T10:16:07+01:00"
-      }
-    },
-    {
-      "id": "7b015272cf14",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/finepart-tar-order-vard-1-7-miljoner",
-      "guid": "0e5ce144-18c5-48d7-995f-e859a36d08cd",
-      "published_at": "2026-11-26T10:04:38+01:00",
-      "fetched_at": "2026-11-26T10:15:52+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Finepart tar order värd 1,7 miljoner",
-        "summary": "Finepart, som utvecklar maskiner för komponenttillverkning, har fått en fortsättningsorder om 1,7 miljoner kronor. Det framgår av ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Finepart wins order worth SEK 1.7 million",
-        "summary": "Finepart, which develops machines for component manufacturing, has received a follow-on order worth SEK 1.7 million, according to a press release."
       },
       "translation": {
         "status": "done",

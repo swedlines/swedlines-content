@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T12:01:28+01:00",
+  "generated_at": "2026-11-27T12:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "30622b755df7",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351486",
+      "guid": "rss:sr.se/article/9351486",
+      "published_at": "2026-11-27T12:06:00+01:00",
+      "fetched_at": "2026-11-27T12:15:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Attacker mot fartyg i Finska viken kan innebära stora risker: ”Ny front”",
+        "summary": "Ukrainas attacker mot fartyg i Finska viken kan innebära stora risker för hela Östersjöregionen. Finska viken har blivit en ny front, säger Esa Keloniemi, pensionerad finländsk överstelöjtnant, specialiserad på luftvärn och drönare. Men på Finlands gräns och kustbevakning tonar man ner riskerna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Attacks on ships in the Gulf of Finland could pose major risks: \"New front\"",
+        "summary": "Ukraine's attacks on ships in the Gulf of Finland could pose major risks for the entire Baltic Sea region. The Gulf of Finland has become a new front, says Esa Keloniemi, a retired Finnish lieutenant colonel specialising in air defence and drones. But at Finland's border and coast guard, the risks are being downplayed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T12:15:54+01:00"
+      }
+    },
     {
       "id": "d63297606d17",
       "schema_version": 1,
@@ -5324,33 +5350,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T12:31:13+01:00"
-      }
-    },
-    {
-      "id": "4880c5c90efa",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/kMJkwL/ny-eu-kritik-mot-svensk-vargpolitik",
-      "guid": "https://www.aftonbladet.se/nyheter/a/kMJkwL/ny-eu-kritik-mot-svensk-vargpolitik?utm_medium=rss",
-      "published_at": "2026-11-25T11:58:08+01:00",
-      "fetched_at": "2026-11-25T12:00:22+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/06fbfb7d-114b-3196-8cde-3cc499045a1c?format=auto&s=9f099405200185d06f83546a7f28c8edde067682&w=1000",
-      "sv": {
-        "title": "Ny EU-kritik mot svensk vargpolitik",
-        "summary": "EU-kommissionen ger Sverige bakläxa på vargpolitiken. I ett brev från EU-kommissionen till…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New EU criticism of Swedish wolf policy",
-        "summary": "The EU Commission gives Sweden a reprimand over its wolf policy. In a letter from the EU Commission to…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T12:00:33+01:00"
       }
     }
   ]

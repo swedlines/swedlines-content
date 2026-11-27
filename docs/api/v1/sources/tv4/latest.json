@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-27T12:01:28+01:00",
+  "generated_at": "2026-11-27T12:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3319a9e09787",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3BbCnfAVCdqbMYRgbN1peA/splittrat-c-infoer-oedesmoetet-det-haer-aer-ju-en-rattfaella",
+      "guid": "3BbCnfAVCdqbMYRgbN1peA",
+      "published_at": "2026-11-27T11:55:46+01:00",
+      "fetched_at": "2026-11-27T12:15:46+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Splittrat C inför ödesmötet: ”Det här är ju en råttfälla”",
+        "summary": "Flera vill säga nej • Avgörs på söndag",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Split Centre ahead of decisive meeting: \"This is a rat trap\"",
+        "summary": "Several want to say no • Decided on Sunday"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T12:15:54+01:00"
+      }
+    },
     {
       "id": "271009343bdb",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T08:04:35+01:00"
-      }
-    },
-    {
-      "id": "95149bc607f4",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6pYvG4OljAL3vkShKu3Mnu/jesper-24-ska-spela-gta-tva-manader-i-straeck",
-      "guid": "6pYvG4OljAL3vkShKu3Mnu",
-      "published_at": "2026-11-19T07:57:52+01:00",
-      "fetched_at": "2026-11-19T08:01:19+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "Jesper, 24, ska spela GTA två månader i sträck",
-        "summary": "Natten till torsdag släpptes ”GTA VI” i Sverige. Föregångaren ”GTA V” beräknas ha sålt över 225 miljoner exemplar världen över. ”GTA VI” har varit det dyraste spelet någonsin att tillverka, med en budget på över tio miljarder kronor.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Jesper, 24, to play GTA for two months straight",
-        "summary": "\"GTA VI\" was released in Sweden during the night to Thursday. Its predecessor \"GTA V\" is estimated to have sold over 225 million copies worldwide. \"GTA VI\" has been the most expensive game ever to produce, with a budget of over SEK 10 billion."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T08:01:26+01:00"
       }
     }
   ]

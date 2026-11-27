@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T12:01:28+01:00",
+  "generated_at": "2026-11-27T12:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "30622b755df7",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351486",
+      "guid": "rss:sr.se/article/9351486",
+      "published_at": "2026-11-27T12:06:00+01:00",
+      "fetched_at": "2026-11-27T12:15:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Attacker mot fartyg i Finska viken kan innebära stora risker: ”Ny front”",
+        "summary": "Ukrainas attacker mot fartyg i Finska viken kan innebära stora risker för hela Östersjöregionen. Finska viken har blivit en ny front, säger Esa Keloniemi, pensionerad finländsk överstelöjtnant, specialiserad på luftvärn och drönare. Men på Finlands gräns och kustbevakning tonar man ner riskerna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Attacks on ships in the Gulf of Finland could pose major risks: \"New front\"",
+        "summary": "Ukraine's attacks on ships in the Gulf of Finland could pose major risks for the entire Baltic Sea region. The Gulf of Finland has become a new front, says Esa Keloniemi, a retired Finnish lieutenant colonel specialising in air defence and drones. But at Finland's border and coast guard, the risks are being downplayed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T12:15:54+01:00"
+      }
+    },
     {
       "id": "1cbc7b2ca968",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T15:15:59+01:00"
-      }
-    },
-    {
-      "id": "1d16af787729",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347864",
-      "guid": "rss:sr.se/article/9347864",
-      "published_at": "2026-11-22T14:58:00+01:00",
-      "fetched_at": "2026-11-22T15:01:08+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Enorma applåder efter kollapsen: ”Uppskattad markering”",
-        "summary": "FN:s klimatmöte COP31 avslutas utan överenskommelse sedan EU sagt nej till slutdokumentet. Den svenska delegationen lämnade mötet under söndagen. Oenigheten gäller främst formuleringarna om fossila bränslen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Huge applause after the collapse: “Appreciated gesture”",
-        "summary": "The UN climate conference COP31 ends without agreement after the EU said no to the final document. The Swedish delegation left the meeting on Sunday. The disagreement mainly concerns the wording on fossil fuels."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:01:22+01:00"
       }
     }
   ]
