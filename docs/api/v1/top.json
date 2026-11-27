@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:01:35+01:00",
+  "generated_at": "2026-11-27T14:15:59+01:00",
   "count": 30,
   "stories": [
     {
@@ -634,9 +634,9 @@
       "source_count": 6,
       "sources": [
         "svt",
+        "aftonbladet",
         "svd",
         "expressen",
-        "aftonbladet",
         "di",
         "sydsvenskan"
       ],
@@ -739,6 +739,18 @@
           },
           "en": {
             "title": "Fire at gold mine in Skellefteå"
+          }
+        },
+        {
+          "id": "91feb1b60d4f",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/6PjpaL/brand-i-guldgruva",
+          "published_at": "2026-11-27T09:07:37+01:00",
+          "sv": {
+            "title": "Brand i guldgruva – stor insats"
+          },
+          "en": {
+            "title": "Fire in gold mine – major operation"
           }
         },
         {
@@ -1895,6 +1907,69 @@
       ]
     },
     {
+      "id": "2232c1d30ed1",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-27T14:12:05+01:00",
+      "last_published_at": "2026-11-27T14:12:07+01:00",
+      "lead": {
+        "id": "2232c1d30ed1",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/aGwrg7/mp-lagger-egen-budget-vill-dubbla-flygskatten",
+        "guid": "https://www.aftonbladet.se/nyheter/a/aGwrg7/mp-lagger-egen-budget-vill-dubbla-flygskatten?utm_medium=rss",
+        "published_at": "2026-11-27T14:12:05+01:00",
+        "fetched_at": "2026-11-27T14:15:45+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/803c2c6e-be1f-3647-8fc3-0ef68f54fcef?format=auto&s=88f36f623a7485ad9e2d189b51bbd830038b81cb&w=1000",
+        "sv": {
+          "title": "MP lägger egen budget – vill dubbla flygskatten",
+          "summary": "Miljöpartiet går fram med en egen budget i riksdagen. De vill dubbla den avskaffade…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "MP presents own budget – wants to double the aviation tax",
+          "summary": "The Green Party (MP) presents its own budget in the Riksdag. It wants to double the abolished…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T14:15:57+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "04991e924107",
+          "source": "svd",
+          "url": "https://www.svd.se/a/qOLKG1/mp-lagger-egen-budget-vill-dubbla-flygskatten",
+          "published_at": "2026-11-27T14:12:07+01:00",
+          "sv": {
+            "title": "MP lägger egen budget – vill dubbla flygskatten"
+          },
+          "en": {
+            "title": "MP presents own budget – wants to double the aviation tax"
+          }
+        },
+        {
+          "id": "2232c1d30ed1",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/aGwrg7/mp-lagger-egen-budget-vill-dubbla-flygskatten",
+          "published_at": "2026-11-27T14:12:05+01:00",
+          "sv": {
+            "title": "MP lägger egen budget – vill dubbla flygskatten"
+          },
+          "en": {
+            "title": "MP presents own budget – wants to double the aviation tax"
+          }
+        }
+      ]
+    },
+    {
       "id": "23ba2c6e80d0",
       "source_count": 2,
       "sources": [
@@ -2627,69 +2702,6 @@
           },
           "en": {
             "title": "Novo's Christmas gift – releases fat-loss pill in Sweden"
-          }
-        }
-      ]
-    },
-    {
-      "id": "0cd403922821",
-      "source_count": 2,
-      "sources": [
-        "sydsvenskan",
-        "dn"
-      ],
-      "first_published_at": "2026-11-27T06:00:00+01:00",
-      "last_published_at": "2026-11-27T09:00:00+01:00",
-      "lead": {
-        "id": "0cd403922821",
-        "schema_version": 1,
-        "source": "sydsvenskan",
-        "url": "https://www.sydsvenskan.se/kultur/women-and-child-gastkramande-drama-om-anka-i-iran",
-        "guid": "3e8a70ea-170a-4bc3-9e1a-274dcc0a13c5",
-        "published_at": "2026-11-27T06:00:00+01:00",
-        "fetched_at": "2026-11-27T06:01:10+01:00",
-        "category": "culture",
-        "image_url": "https://static.bonniernews.se/ba/1f7b8769-b4c2-4824-bef4-d2bae19ca601.jpeg?width=600",
-        "sv": {
-          "title": "”Women and child”: Gastkramande drama om änka i Iran",
-          "summary": "Saeed Roustayis samhälls- och könskritik är obönhörlig för alla som vill se den.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "\"Women and Child\": Harrowing drama about a widow in Iran",
-          "summary": "Saeed Roustayi's critique of society and gender is relentless for anyone who wants to see it."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T06:01:20+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "dfc89c047347",
-          "source": "dn",
-          "url": "https://www.dn.se/kultur/skuldkanslor-och-raseri-far-woman-and-child-att-brinna",
-          "published_at": "2026-11-27T09:00:00+01:00",
-          "sv": {
-            "title": "Skuldkänslor och raseri får ”Woman and child” att brinna"
-          },
-          "en": {
-            "title": "Guilt and rage set \"Woman and child\" ablaze"
-          }
-        },
-        {
-          "id": "0cd403922821",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/kultur/women-and-child-gastkramande-drama-om-anka-i-iran",
-          "published_at": "2026-11-27T06:00:00+01:00",
-          "sv": {
-            "title": "”Women and child”: Gastkramande drama om änka i Iran"
-          },
-          "en": {
-            "title": "\"Women and Child\": Harrowing drama about a widow in Iran"
           }
         }
       ]
