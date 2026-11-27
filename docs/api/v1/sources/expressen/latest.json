@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T18:27:00+01:00",
+  "generated_at": "2026-11-27T18:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e743a01d960c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/katja-nyberg-startar-natbutik--hanar-polisutredningen",
+      "guid": "https://www.expressen.se/nyheter/sverige/katja-nyberg-startar-natbutik--hanar-polisutredningen/",
+      "published_at": "2026-11-27T18:25:22+01:00",
+      "fetched_at": "2026-11-27T18:30:57+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Katja Nyberg startar nätbutik – hånar polisutredningen",
+        "summary": "Katja Nyberg har startat en nätbutik där hon säljer ”Free Katja”-tröjor och signerade bilder. Den tidigare polisen och SD-riksdagsledamoten – som nu står åtalad för narkotikabrott – hånar där polisutredningen mot henne.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Katja Nyberg launches online shop – mocks police investigation",
+        "summary": "Katja Nyberg has launched an online shop where she sells \"Free Katja\" sweaters and signed pictures. The former police officer and Sweden Democrat Riksdag member – who is now charged with narcotics offences – mocks the police investigation against her there."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T18:31:01+01:00"
+      }
+    },
     {
       "id": "67bbd3c27871",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T19:01:15+01:00"
-      }
-    },
-    {
-      "id": "ba8b4c0eeabe",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/upprorda-kanslor-i-c-efter-svangen-ledsna-och-arga",
-      "guid": "https://www.expressen.se/nyheter/politik/upprorda-kanslor-i-c-efter-svangen-ledsna-och-arga/",
-      "published_at": "2026-11-24T18:13:39+01:00",
-      "fetched_at": "2026-11-24T18:31:02+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Upprörda känslor i C efter svängen: ”Ledsna och arga”",
-        "summary": "Sent på måndagen meddelade Elisabeth Thand Ringqvist att C återupptar samtalen med de borgerliga partierna. Men partiet är djupt splittrat i vägvalet och många är mycket upprörda, erfar Expressen. – Folk är ledsna, uppgivna, arga och känner sig maktlösa, säger en C-källa.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Strong feelings in the Centre Party after the U-turn: \"Sad and angry\"",
-        "summary": "Late on Monday, Elisabeth Thand Ringqvist announced that the Centre Party is resuming talks with the centre-right parties. But the party is deeply split over the path forward, and many are very upset, Expressen learns. \"People are sad, resigned, angry and feel powerless,\" says a Centre Party source."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T18:31:07+01:00"
       }
     }
   ]
