@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T19:45:52+01:00",
+  "generated_at": "2026-11-27T20:01:19+01:00",
   "count": 30,
   "stories": [
     {
@@ -2347,6 +2347,132 @@
       ]
     },
     {
+      "id": "87682fb8575b",
+      "source_count": 2,
+      "sources": [
+        "dn",
+        "sr"
+      ],
+      "first_published_at": "2026-11-27T19:17:06+01:00",
+      "last_published_at": "2026-11-27T19:55:00+01:00",
+      "lead": {
+        "id": "87682fb8575b",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/sverige/tysk-polis-misstanker-terrorforberedelser-mot-synagoga-i-sverige",
+        "guid": "https://www.dn.se/sverige/tysk-polis-misstanker-terrorforberedelser-mot-synagoga-i-sverige/",
+        "published_at": "2026-11-27T19:17:06+01:00",
+        "fetched_at": "2026-11-27T19:24:51+01:00",
+        "category": "crime",
+        "image_url": "https://static.bonniernews.se/ba/b54a3864-c9f4-425f-91a1-df2811f52b87.jpeg?io=1&width=1000",
+        "sv": {
+          "title": "Tysk polis misstänker terrorförberedelser mot synagoga i Sverige",
+          "summary": "Tysk polis misstänker att personer i en pro-iransk terrorgrupp planerat ett attentat mot en synagoga i Sverige, skriver Der Spiegel. Svenska Säpo känner till uppgifterna, men vill inte uppge om de är inblandade i utredningen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "German police suspect terror preparations against synagogue in Sweden",
+          "summary": "German police suspect that people in a pro-Iranian terror group planned an attack on a synagogue in Sweden, writes Der Spiegel. The Security Service (Säpo) is aware of the information but does not want to say whether it is involved in the investigation."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T19:24:57+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "b20f36d98d40",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9352045",
+          "published_at": "2026-11-27T19:55:00+01:00",
+          "sv": {
+            "title": "Tysk polis misstänker terrorplaner mot synagoga i Sverige"
+          },
+          "en": {
+            "title": "German police suspect terror plans against synagogue in Sweden"
+          }
+        },
+        {
+          "id": "87682fb8575b",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/tysk-polis-misstanker-terrorforberedelser-mot-synagoga-i-sverige",
+          "published_at": "2026-11-27T19:17:06+01:00",
+          "sv": {
+            "title": "Tysk polis misstänker terrorförberedelser mot synagoga i Sverige"
+          },
+          "en": {
+            "title": "German police suspect terror preparations against synagogue in Sweden"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fdae31c8b2bb",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "svd"
+      ],
+      "first_published_at": "2026-11-27T15:55:49+01:00",
+      "last_published_at": "2026-11-27T19:51:36+01:00",
+      "lead": {
+        "id": "fdae31c8b2bb",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/nyheter/m-kd-l-och-c-overens-sa-ska-budgeten-hanteras",
+        "guid": "39e2aeff-08a7-4b2b-a9a1-82ed2a761b8c",
+        "published_at": "2026-11-27T15:55:49+01:00",
+        "fetched_at": "2026-11-27T16:01:24+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/6d5bab63-554f-4d50-ab7f-e4bbda9076b0.jpg?width=600",
+        "sv": {
+          "title": "M, KD, L och C överens – så ska budgeten hanteras",
+          "summary": "Partiledarna för Moderaterna, Kristdemokraterna, Liberalerna och Centerpartiet har ingått ett avtal, bland annat om en ”återhållsam asylrelaterad invandring”. De vill också fortsätta genomföra skattesänkningar om de bildar regering.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "M, KD, L and C agree – this is how the budget will be handled",
+          "summary": "The party leaders of the Moderates, the Christian Democrats, the Liberals and the Centre Party have entered into an agreement, including on \"restrained asylum-related immigration\". They also want to continue implementing tax cuts if they form a government."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T16:01:31+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "aa94a516e281",
+          "source": "svd",
+          "url": "https://www.svd.se/a/6Pj2AL/tolv-fragor-visar-hur-nara-centern-star-sverigedemokraterna",
+          "published_at": "2026-11-27T19:51:36+01:00",
+          "sv": {
+            "title": "Trots den röda linjen – här är C och SD överens"
+          },
+          "en": {
+            "title": "Despite the red line – here is where the Centre Party and the Sweden Democrats agree"
+          }
+        },
+        {
+          "id": "fdae31c8b2bb",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/m-kd-l-och-c-overens-sa-ska-budgeten-hanteras",
+          "published_at": "2026-11-27T15:55:49+01:00",
+          "sv": {
+            "title": "M, KD, L och C överens – så ska budgeten hanteras"
+          },
+          "en": {
+            "title": "M, KD, L and C agree – this is how the budget will be handled"
+          }
+        }
+      ]
+    },
+    {
       "id": "eafd04fff5d6",
       "source_count": 2,
       "sources": [
@@ -2666,131 +2792,6 @@
           },
           "en": {
             "title": "Suspected mastermind of major VAT fraud arrested in Dubai"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b9184d1520e4",
-      "source_count": 2,
-      "sources": [
-        "sr",
-        "dn"
-      ],
-      "first_published_at": "2026-11-27T15:36:00+01:00",
-      "last_published_at": "2026-11-27T16:26:16+01:00",
-      "lead": {
-        "id": "b9184d1520e4",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9351799",
-        "guid": "rss:sr.se/article/9351799",
-        "published_at": "2026-11-27T15:36:00+01:00",
-        "fetched_at": "2026-11-27T15:45:47+01:00",
-        "category": "culture",
-        "sv": {
-          "title": "AI och mars inspirerar årets pepparkakshus",
-          "summary": "AI, flygande bilar och livet på Mars inspirerar årets pepparkakshustävling på Arkdes, där 161 bidrag gestaltar framtiden. Barn, proffs och andra bagare tävlar i tre kategorier. Projektledaren Johanna Gafvelin ser både mörka framtidsbilder och barnens mer positiva tolkningar.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "AI and Mars inspire this year's gingerbread houses",
-          "summary": "AI, flying cars and life on Mars inspire this year's gingerbread house competition at Arkdes, where 161 entries depict the future. Children, professionals and other bakers compete in three categories. Project manager Johanna Gafvelin sees both dark visions of the future and the children's more positive interpretations."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T15:45:57+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "d9a81ff6d5d1",
-          "source": "dn",
-          "url": "https://www.dn.se/kultur/se-arets-bidrag-till-hajpade-pepparkakshustavlingen-oppnar-julen-i-stockholm",
-          "published_at": "2026-11-27T16:26:16+01:00",
-          "sv": {
-            "title": "Se årets bidrag till hajpade pepparkakshustävlingen: ”Öppnar julen i Stockholm”"
-          },
-          "en": {
-            "title": "See this year's entries in the hyped gingerbread house competition: “Opens Christmas in Stockholm”"
-          }
-        },
-        {
-          "id": "b9184d1520e4",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351799",
-          "published_at": "2026-11-27T15:36:00+01:00",
-          "sv": {
-            "title": "AI och mars inspirerar årets pepparkakshus"
-          },
-          "en": {
-            "title": "AI and Mars inspire this year's gingerbread houses"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b04d865c2bb5",
-      "source_count": 2,
-      "sources": [
-        "dn",
-        "svd"
-      ],
-      "first_published_at": "2026-11-27T14:19:49+01:00",
-      "last_published_at": "2026-11-27T15:53:03+01:00",
-      "lead": {
-        "id": "b04d865c2bb5",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/kultur/tusentals-verk-brann-upp-nu-kan-grafikens-hus-fa-nytt-hem",
-        "guid": "https://www.dn.se/kultur/tusentals-verk-brann-upp-nu-kan-grafikens-hus-fa-nytt-hem/",
-        "published_at": "2026-11-27T14:19:49+01:00",
-        "fetched_at": "2026-11-27T14:31:04+01:00",
-        "category": "culture",
-        "image_url": "https://static.bonniernews.se/ba/bdca90c0-1820-467e-8075-5ccc2171e922.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Tusentals verk brann upp – nu kan Grafikens hus få nytt hem",
-          "summary": "När Grafikens hus i Mariefred brann ned för tolv år sedan gick en samling med tusentals verk upp i rök. Nu kan verksamheten ha hittat hem – i Skärholmen centrum. – Jag är glad att det här är en helt annan arkitektur, så att det händer något nytt på riktigt, säger museichefen Nina Beckmann.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Thousands of works burned – now Grafikens hus may get a new home",
-          "summary": "When Grafikens hus in Mariefred burned down twelve years ago, a collection of thousands of works went up in smoke. Now the operation may have found a home – in Skärholmen centre. \"I'm glad this is a completely different architecture, so that something new really happens,\" says museum director Nina Beckmann."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T14:31:25+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "b47290b310ac",
-          "source": "svd",
-          "url": "https://www.svd.se/a/g3WadB/tolv-ar-efter-branden-grafikens-hus-far-nytt-hem",
-          "published_at": "2026-11-27T15:53:03+01:00",
-          "sv": {
-            "title": "Tolv år efter branden: Grafikens hus får nytt hem"
-          },
-          "en": {
-            "title": "Twelve years after the fire: Grafikens hus gets a new home"
-          }
-        },
-        {
-          "id": "b04d865c2bb5",
-          "source": "dn",
-          "url": "https://www.dn.se/kultur/tusentals-verk-brann-upp-nu-kan-grafikens-hus-fa-nytt-hem",
-          "published_at": "2026-11-27T14:19:49+01:00",
-          "sv": {
-            "title": "Tusentals verk brann upp – nu kan Grafikens hus få nytt hem"
-          },
-          "en": {
-            "title": "Thousands of works burned – now Grafikens hus may get a new home"
           }
         }
       ]

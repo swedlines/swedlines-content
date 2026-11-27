@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T19:45:52+01:00",
+  "generated_at": "2026-11-27T20:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2e2aacb82bd7",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/molly-14-dog-nu-har-alina-fatt-vittna",
+      "guid": "https://www.expressen.se/nyheter/sverige/molly-14-dog-nu-har-alina-fatt-vittna/",
+      "published_at": "2026-11-27T19:45:54+01:00",
+      "fetched_at": "2026-11-27T20:01:10+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Molly, 14, dog – nu har Alina fått vittna",
+        "summary": "Molly Gnospelius, 14, dog i en överdos. Bästa vännen Alina har väntat i fyra år på att få vittna om vad som egentligen hände. – Molly missbrukade inte tramadol. Hon testade en gång – den kvällen, säger Alina Sotolongo Backén, 18.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Molly, 14, died – now Alina has been allowed to testify",
+        "summary": "Molly Gnospelius, 14, died of an overdose. Her best friend Alina has waited four years to testify about what actually happened. \"Molly did not abuse tramadol. She tried it once – that evening,\" says Alina Sotolongo Backén, 18."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T20:01:17+01:00"
+      }
+    },
     {
       "id": "88029b9dcdac",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T19:40:12+01:00"
-      }
-    },
-    {
-      "id": "692f65f1fedc",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/uppgifter-har-ar-ms-totalpaket-till-c",
-      "guid": "https://www.expressen.se/nyheter/sverige/uppgifter-har-ar-ms-totalpaket-till-c/",
-      "published_at": "2026-11-24T18:56:31+01:00",
-      "fetched_at": "2026-11-24T19:01:08+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Uppgifter: Här är M:s totalpaket till C",
-        "summary": "SVT har tagit del av M:s hittills hemliga totalpaket till C. – Jag hade ärligt talat högre förväntningar, säger en C-källa till SVT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: Here is the Moderates' full package to the Centre Party",
-        "summary": "SVT has obtained the Moderates' hitherto secret full package to the Centre Party. – Frankly, I had higher expectations, says a Centre Party source to SVT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T19:01:15+01:00"
       }
     }
   ]

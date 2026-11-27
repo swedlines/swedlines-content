@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T19:45:52+01:00",
+  "generated_at": "2026-11-27T20:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ddf74ad5d801",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/debatt/forsvaret-maste-sluta-bygga-monument-over-gardagens-behov",
+      "guid": "https://www.dn.se/debatt/forsvaret-maste-sluta-bygga-monument-over-gardagens-behov/",
+      "published_at": "2026-11-27T20:00:00+01:00",
+      "fetched_at": "2026-11-27T20:01:09+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/0629aff3-0f52-4790-96d8-5518e07490fe.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "DN Debatt. ”Försvaret måste sluta bygga monument över gårdagens behov”",
+        "summary": "DN DEBATT. Försvarets styrka kan inte mätas enbart i antalet soldater, förband eller vapensystem. Den måste ytterst bedömas utifrån vår förmåga att lösa kärnuppdraget när det verkligen gäller.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "DN Debate. \"The armed forces must stop building monuments to yesterday's needs\"",
+        "summary": "DN DEBATE. The strength of the armed forces cannot be measured solely by the number of soldiers, units or weapon systems. It must ultimately be assessed by our ability to carry out the core mission when it really matters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T20:01:17+01:00"
+      }
+    },
     {
       "id": "6911e14e2cc9",
       "schema_version": 1,
@@ -5368,33 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T21:31:06+01:00"
-      }
-    },
-    {
-      "id": "211b0c6b0762",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/hard-kamp-for-bostad-i-madrid-tungt-nar-man-inte-far-nagot-svar",
-      "guid": "https://www.dn.se/varlden/hard-kamp-for-bostad-i-madrid-tungt-nar-man-inte-far-nagot-svar/",
-      "published_at": "2026-11-24T21:05:38+01:00",
-      "fetched_at": "2026-11-24T21:15:46+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/e975db13-7d31-46e6-a1c4-de30eee1e777.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Hård kamp för bostad i Madrid: ”Tungt när man inte får något svar”",
-        "summary": "MADRID. Hyrorna i spanska storstäder har närapå fördubblats på tio år. Många under 40 år har svårt att hitta någonstans att bo. – Det är så tungt när man inte ens får svar, säger Andrés Palomero, 32, som desperat letar lägenhet på väg hem från jobbet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Tough fight for housing in Madrid: ”So hard when you don't even get an answer”",
-        "summary": "MADRID. Rents in Spanish big cities have nearly doubled in ten years. Many under 40 find it hard to find anywhere to live. – It's so hard when you don't even get an answer, says Andrés Palomero, 32, who desperately searches for an apartment on his way home from work."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T21:15:59+01:00"
       }
     }
   ]
