@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-27T11:15:52+01:00",
+  "generated_at": "2026-11-27T11:31:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1ec104d0c300",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/heidi-avellan/tank-om-jensen-huang-hette-mette-tjej-i-skinnpaj",
+      "guid": "dc8e5ccf-868e-4559-8a29-228890df1439",
+      "published_at": "2026-11-27T11:30:00+01:00",
+      "fetched_at": "2026-11-27T11:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0024772a-8b77-43ad-9c8e-d84b6bd892d0.jpeg?width=600",
+      "sv": {
+        "title": "Tänk om Jensen Huang hette Mette, tjej i skinnpaj",
+        "summary": "Huang lyckas inte hålla gylfen stängd – och världens börser rasar. Men Donald Trump ser en chans att tjäna pengar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Imagine if Jensen Huang were called Mette, a girl in a leather pie",
+        "summary": "Huang fails to keep his zipper closed – and the world's stock markets plunge. But Donald Trump sees a chance to make money."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:31:21+01:00"
+      }
+    },
+    {
+      "id": "c079830c531b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/brackliga-hushall-ekonomins-svaga-lank",
+      "guid": "22d88830-cf22-48ec-93df-bfbe8e2a958d",
+      "published_at": "2026-11-27T11:06:29+01:00",
+      "fetched_at": "2026-11-27T11:31:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1761f87d-975c-420a-b282-f5b1c211081a.jpeg?width=600",
+      "sv": {
+        "title": "Bräckliga hushåll – ekonomins svaga länk",
+        "summary": "Konsumenternas mungipor föll betydligt för andra månaden i rad, i Konjunkturinstitutets barometer. Det väcker frågor om motståndskraften i svensk ekonomi.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fragile households – the weak link in the economy",
+        "summary": "Consumers' mood dropped significantly for the second month in a row, according to the National Institute of Economic Research's barometer. It raises questions about the resilience of the Swedish economy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:31:21+01:00"
+      }
+    },
     {
       "id": "bb7d821ada95",
       "schema_version": 1,
@@ -5261,59 +5315,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T12:31:12+01:00"
-      }
-    },
-    {
-      "id": "8ca33efd5576",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/opec-plus-overvager-kvotforlangning",
-      "guid": "f6b9ce86-6d7f-4c11-89d8-98ff528640a5",
-      "published_at": "2026-11-26T12:15:38+01:00",
-      "fetched_at": "2026-11-26T12:31:07+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Opec plus överväger kvotförlängning",
-        "summary": "Opec plus överväger att förlänga dagens kvotnivåer till januari. Det uppger delegater enligt Bloomberg News. Opec plus har möte på söndagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Opec plus considers extending quota",
-        "summary": "Opec plus is considering extending current quota levels into January. Delegates say, according to Bloomberg News. Opec plus has a meeting on Sunday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T12:31:12+01:00"
-      }
-    },
-    {
-      "id": "ff1a1ac3ec4a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/klart-for-italienskt-overtagande-av-tysk-bankbjasse",
-      "guid": "d1fa1e66-bf42-48d0-afab-9dc486ffeda0",
-      "published_at": "2026-11-26T12:11:51+01:00",
-      "fetched_at": "2026-11-26T12:15:44+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/4d0f67dc-12a9-45bb-a89b-a2bc732cf2ca.jpeg?width=600",
-      "sv": {
-        "title": "Klart för italienskt övertagande av tysk bankbjässe",
-        "summary": "Den italienska banken Unicredit har fått det sista myndighetsgodkännande som krävs för att ta kontroll över den tyska konkurrenten Commerzbank. Det meddelade bolaget på torsdagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Italian takeover of German banking giant cleared",
-        "summary": "Italian bank Unicredit has received the final regulatory approval needed to take control of German rival Commerzbank. The company announced this on Thursday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T12:15:51+01:00"
       }
     }
   ]

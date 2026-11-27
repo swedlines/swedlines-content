@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T11:15:52+01:00",
+  "generated_at": "2026-11-27T11:31:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "de1180a90e3c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/elev-fran-skane-anklagas-efter-overgrepp-och-misshandel-pa-sigtunaskolan",
+      "guid": "f0009a61-2178-4c9c-8796-dcc673f9e87a",
+      "published_at": "2026-11-27T11:30:00+01:00",
+      "fetched_at": "2026-11-27T11:31:05+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/4402cd0b-c475-4a0c-a0c5-329f5f831692.jpeg?width=600",
+      "sv": {
+        "title": "Elev från Skåne anklagas efter övergrepp och misshandel på Sigtunaskolan",
+        "summary": "Hemliga regelböcker, särskilda straffredskap och ett system där äldre elever bestraffar yngre. På måndag inleds rättegången om våldet på internatskolan i Sigtuna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Pupil from Skåne charged after abuse and assault at Sigtunaskolan",
+        "summary": "Secret rule books, special punishment tools and a system where older pupils punish younger ones. On Monday the trial over the violence at the boarding school in Sigtuna begins."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:31:21+01:00"
+      }
+    },
     {
       "id": "271009343bdb",
       "schema_version": 1,
@@ -5363,35 +5390,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T22:45:52+01:00"
-      }
-    },
-    {
-      "id": "4d5b31b215bf",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3Tf5bnyFzixNdz55uYTzAL/gazpromfamiljen-i-mangmiljonstrid-med-svenska-storbanker",
-      "guid": "3Tf5bnyFzixNdz55uYTzAL",
-      "published_at": "2026-11-22T22:19:18+01:00",
-      "fetched_at": "2026-11-22T22:31:01+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Gazpromfamiljen i mångmiljonstrid – med svenska storbanker",
-        "summary": "Det var sommaren 2022, några månader efter Rysslands fullskaliga invasion av Ukraina, som den tidigare Gazpromtoppen försökte föra över mer än sex miljoner euro från Deutsche Bank i Schweiz till ett eget konto hos SEB.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Gazprom family in multimillion-euro dispute – with Swedish major banks",
-        "summary": "It was in the summer of 2022, a few months after Russia's full-scale invasion of Ukraine, that the former Gazprom top executive tried to transfer more than six million euros from Deutsche Bank in Switzerland to a personal account at SEB."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T22:31:06+01:00"
       }
     }
   ]

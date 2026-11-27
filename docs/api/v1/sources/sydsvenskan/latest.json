@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-27T11:15:52+01:00",
+  "generated_at": "2026-11-27T11:31:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1ec104d0c300",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/heidi-avellan/tank-om-jensen-huang-hette-mette-tjej-i-skinnpaj",
+      "guid": "dc8e5ccf-868e-4559-8a29-228890df1439",
+      "published_at": "2026-11-27T11:30:00+01:00",
+      "fetched_at": "2026-11-27T11:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0024772a-8b77-43ad-9c8e-d84b6bd892d0.jpeg?width=600",
+      "sv": {
+        "title": "Tänk om Jensen Huang hette Mette, tjej i skinnpaj",
+        "summary": "Huang lyckas inte hålla gylfen stängd – och världens börser rasar. Men Donald Trump ser en chans att tjäna pengar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Imagine if Jensen Huang were called Mette, a girl in a leather pie",
+        "summary": "Huang fails to keep his zipper closed – and the world's stock markets plunge. But Donald Trump sees a chance to make money."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:31:21+01:00"
+      }
+    },
+    {
+      "id": "de1180a90e3c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/elev-fran-skane-anklagas-efter-overgrepp-och-misshandel-pa-sigtunaskolan",
+      "guid": "f0009a61-2178-4c9c-8796-dcc673f9e87a",
+      "published_at": "2026-11-27T11:30:00+01:00",
+      "fetched_at": "2026-11-27T11:31:05+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/4402cd0b-c475-4a0c-a0c5-329f5f831692.jpeg?width=600",
+      "sv": {
+        "title": "Elev från Skåne anklagas efter övergrepp och misshandel på Sigtunaskolan",
+        "summary": "Hemliga regelböcker, särskilda straffredskap och ett system där äldre elever bestraffar yngre. På måndag inleds rättegången om våldet på internatskolan i Sigtuna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Pupil from Skåne charged after abuse and assault at Sigtunaskolan",
+        "summary": "Secret rule books, special punishment tools and a system where older pupils punish younger ones. On Monday the trial over the violence at the boarding school in Sigtuna begins."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:31:21+01:00"
+      }
+    },
+    {
+      "id": "145c024c0e2d",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/andersson-vann-vc-premiaren-svensk-trippel",
+      "guid": "88b93a0d-eb8d-455b-88bd-b6d392a3f851",
+      "published_at": "2026-11-27T11:28:13+01:00",
+      "fetched_at": "2026-11-27T11:31:05+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Andersson vann VC-premiären – svensk trippel",
+        "summary": "Ebba Andersson vann längdskidåkarnas världscuppremiär i Ruka. Tvåan Linn Svahn och trean Frida Karlsson ordnade en svensk trippel i det klassiska milloppet – och snuvade ryska fyran Natalja Terentjeva på en pallplats.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Andersson wins World Cup opener – Swedish triple",
+        "summary": "Ebba Andersson won the cross-country skiers' World Cup opener in Ruka. Runner-up Linn Svahn and third-placed Frida Karlsson completed a Swedish triple in the classic distance – and pipped Russian fourth-placed Natalja Terentjeva to a podium place."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:31:21+01:00"
+      }
+    },
     {
       "id": "4f007155d50a",
       "schema_version": 1,
@@ -5141,87 +5221,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T17:45:55+01:00"
-      }
-    },
-    {
-      "id": "1370fa89f28d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/nal-och-trad-ar-vart-fredliga-motstand",
-      "guid": "d4e6b6b4-2ebd-46b4-a949-563a95ba20de",
-      "published_at": "2026-11-24T17:30:00+01:00",
-      "fetched_at": "2026-11-24T17:31:00+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/50d883e7-7c41-4c22-af81-5af624e2dd19.jpeg?width=600",
-      "sv": {
-        "title": "”Nål och tråd är vårt fredliga motstånd”",
-        "summary": "Fönsterkarmen i syateljén på Folkets hus på Rosengård är full av färdiga tygdockor. En av dem saknar ben – precis som barn i Gaza stympas av bomber, förklarar Kristina Längby. Här träffas ett femtontal kvinnor för att sy och dela sorgen över vad som händer i Gaza.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "”Needle and thread are our peaceful resistance”",
-        "summary": "The window frame in the sewing studio at Folkets hus in Rosengård is full of finished cloth dolls. One of them has no legs – just as children in Gaza are maimed by bombs, explains Kristina Längby. Here about fifteen women gather to sew and share their grief over what is happening in Gaza."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T17:31:10+01:00"
-      }
-    },
-    {
-      "id": "21ece4a59995",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/pojke-fritagen-av-polis-sex-anhallna",
-      "guid": "24b0c7e9-c056-4531-9a1c-b50740ac6812",
-      "published_at": "2026-11-24T17:21:07+01:00",
-      "fetched_at": "2026-11-24T17:31:00+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/d9fbb671-13c5-4487-8e67-df8f92d3d39d.jpg?width=600",
-      "sv": {
-        "title": "Pojke fritagen av polis – sex anhållna",
-        "summary": "En pojke som fördes bort mot sin vilja i Karlskoga under fredagen har fritagits av polisen. Sex personer har anhållits. – Brottet har rubricerats som människorov, säger polisens operativa chef Johanna Björk till NWT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Boy freed by police – six detained",
-        "summary": "A boy who was taken against his will in Karlskoga on Friday has been freed by police. Six people have been detained. – The crime has been classified as kidnapping, police operational chief Johanna Björk tells NWT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T17:31:10+01:00"
-      }
-    },
-    {
-      "id": "da126804e7a4",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kavlinge/kavlinge-hotar-dra-in-idas-och-mattias-lss-bostader-en-ren-hamnd",
-      "guid": "02d08722-2fe8-4222-a7e8-af71797f12ea",
-      "published_at": "2026-11-24T17:00:00+01:00",
-      "fetched_at": "2026-11-24T17:01:13+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/a19b443d-fb26-4161-b2c7-bc2e87ed7ee5.jpeg?width=600",
-      "sv": {
-        "title": "Kävlinge hotar dra in Idas och Mattias LSS-bostäder: ”Ren hämnd”",
-        "summary": "Först sa det privata vårdbolaget Nytida upp Idas och Mattias omsorg – nu hotar Kävlinge kommun att dra in deras rätt till LSS-lägenheter. – Nu är det bara ren hämnd mot oss, säger Idas mamma Annika Särén.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kävlinge threatens to withdraw Ida's and Mattias's LSS homes: \"Pure revenge\"",
-        "summary": "First the private care company Nytida gave notice to Ida and Mattias's care, and now Kävlinge municipality threatens to withdraw their right to LSS apartments. \"It's just pure revenge against us,\" says Ida's mother Annika Särén."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T17:01:18+01:00"
       }
     }
   ]

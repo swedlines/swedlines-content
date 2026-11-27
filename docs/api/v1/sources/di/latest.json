@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T11:15:52+01:00",
+  "generated_at": "2026-11-27T11:31:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c079830c531b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/brackliga-hushall-ekonomins-svaga-lank",
+      "guid": "22d88830-cf22-48ec-93df-bfbe8e2a958d",
+      "published_at": "2026-11-27T11:06:29+01:00",
+      "fetched_at": "2026-11-27T11:31:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1761f87d-975c-420a-b282-f5b1c211081a.jpeg?width=600",
+      "sv": {
+        "title": "Bräckliga hushåll – ekonomins svaga länk",
+        "summary": "Konsumenternas mungipor föll betydligt för andra månaden i rad, i Konjunkturinstitutets barometer. Det väcker frågor om motståndskraften i svensk ekonomi.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fragile households – the weak link in the economy",
+        "summary": "Consumers' mood dropped significantly for the second month in a row, according to the National Institute of Economic Research's barometer. It raises questions about the resilience of the Swedish economy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:31:21+01:00"
+      }
+    },
     {
       "id": "bb7d821ada95",
       "schema_version": 1,
@@ -5295,33 +5322,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T09:31:12+01:00"
-      }
-    },
-    {
-      "id": "38eb1304ad71",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/borsen-studsar-upp-rejalt-efter-tva-dagar-pa-rott",
-      "guid": "f2876f51-f160-4732-8bd7-fc7c6fa80332",
-      "published_at": "2026-11-26T09:14:07+01:00",
-      "fetched_at": "2026-11-26T09:15:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/758971d2-9839-4b56-a43d-20279c30ee66.jpeg?width=600",
-      "sv": {
-        "title": "Börsen studsar upp rejält efter två dagar på rött",
-        "summary": "Efter två raka handelsdagar på minus vänder Stockholmsbörsen upp under torsdagen. SKF faller mindre än väntat när aktien handlas utan rätt till utdelning i fordonsavknoppningen SKF Vertevo.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stock market bounces sharply after two days in the red",
-        "summary": "After two consecutive trading days of losses, the Stockholm stock exchange turns upward on Thursday. SKF falls less than expected as the share trades without entitlement to dividend in the vehicle spin-off SKF Vertevo."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T09:16:07+01:00"
       }
     }
   ]

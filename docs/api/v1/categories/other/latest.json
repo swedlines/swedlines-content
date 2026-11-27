@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-11-27T11:15:52+01:00",
+  "generated_at": "2026-11-27T11:31:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2173473eeff7",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyhetsshowen/arets-mest-vantade-goteborgare.67e58510-c758-517a-8f9b-8468ef34e9e3",
+      "guid": "67e58510-c758-517a-8f9b-8468ef34e9e3",
+      "published_at": "2026-11-27T11:08:40+01:00",
+      "fetched_at": "2026-11-27T11:31:04+01:00",
+      "category": "other",
+      "feed_categories": [
+        "Nyhetsshowen",
+        "Tagg: Nyhetsshowen"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/81d6f98d-2ede-3140-89b9-5642cad7c488",
+      "sv": {
+        "title": "Nyhetsshowen 27 november*Årets mest väntade göteborgare",
+        "summary": "Tårar efter centerns vändning, kalkoner släpps från skyn och Spanien går till val.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nyhetsshowen 27 November*Year's most anticipated Göteborg resident",
+        "summary": "Tears after the Centre's U-turn, turkeys dropped from the sky and Spain heads to the polls."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:31:21+01:00"
+      }
+    },
     {
       "id": "62f01c8f6525",
       "schema_version": 1,
@@ -5502,32 +5533,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T22:15:50+01:00"
-      }
-    },
-    {
-      "id": "be8a0f9974f1",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/17-november-missa-inte-dagens-nyheter",
-      "guid": "https://www.dn.se/varlden/17-november-missa-inte-dagens-nyheter/",
-      "published_at": "2026-11-17T21:00:51+01:00",
-      "fetched_at": "2026-11-17T21:01:14+01:00",
-      "category": "other",
-      "sv": {
-        "title": "17 november: Missa inte dagens nyheter",
-        "summary": "Talmannens slutgiltiga tidsfrist, SD visste inget om Giertz svängning och rekorddyr el kan vänta – här är nyheterna du inte får missa från dagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "17 November: Don't miss today's news",
-        "summary": "The Speaker's final deadline, SD had no knowledge of Giertz's U-turn and record-expensive electricity may wait – here are the news items you must not miss today."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T21:01:25+01:00"
       }
     }
   ]

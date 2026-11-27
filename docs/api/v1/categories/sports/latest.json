@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T11:15:52+01:00",
+  "generated_at": "2026-11-27T11:31:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "145c024c0e2d",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/andersson-vann-vc-premiaren-svensk-trippel",
+      "guid": "88b93a0d-eb8d-455b-88bd-b6d392a3f851",
+      "published_at": "2026-11-27T11:28:13+01:00",
+      "fetched_at": "2026-11-27T11:31:05+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Andersson vann VC-premiären – svensk trippel",
+        "summary": "Ebba Andersson vann längdskidåkarnas världscuppremiär i Ruka. Tvåan Linn Svahn och trean Frida Karlsson ordnade en svensk trippel i det klassiska milloppet – och snuvade ryska fyran Natalja Terentjeva på en pallplats.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Andersson wins World Cup opener – Swedish triple",
+        "summary": "Ebba Andersson won the cross-country skiers' World Cup opener in Ruka. Runner-up Linn Svahn and third-placed Frida Karlsson completed a Swedish triple in the classic distance – and pipped Russian fourth-placed Natalja Terentjeva to a podium place."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:31:21+01:00"
+      }
+    },
     {
       "id": "e50401939322",
       "schema_version": 1,
@@ -5565,33 +5591,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T21:01:22+01:00"
-      }
-    },
-    {
-      "id": "084148752d56",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/birdiefest-for-stark-slass-om-40-miljoner",
-      "guid": "234cdca4-f4be-433b-ba8b-ae0f73f02dfc",
-      "published_at": "2026-11-20T20:43:39+01:00",
-      "fetched_at": "2026-11-20T20:45:51+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/c0f22401-0271-45a4-903b-b3293c0ec762.jpg?width=600",
-      "sv": {
-        "title": "Birdiefest för Stark – slåss om 40 miljoner",
-        "summary": "Ska Maja Stark på allvar blanda sig i kampen om förstapriset på drygt 40 miljoner kronor? Den blågula golfaren svarade för en superrunda under den andra dagen av LPGA-tourens säsongsfinal i Florida. Hon gick sju slag under par och är med i toppen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Birdie fest for Stark – fighting for SEK 40 million",
-        "summary": "Will Maja Stark seriously get involved in the battle for the top prize of just over SEK 40 million? The blue-and-yellow golfer delivered a superb round on the second day of the LPGA Tour's season finale in Florida. She shot seven under par and is in the top group."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T20:45:55+01:00"
       }
     }
   ]
