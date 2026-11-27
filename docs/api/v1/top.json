@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:31:29+01:00",
+  "generated_at": "2026-11-27T11:45:58+01:00",
   "count": 30,
   "stories": [
     {
@@ -126,6 +126,132 @@
           },
           "en": {
             "title": "Officer at the Armed Forces suspected of crimes against Sweden's security"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4d2c1c24f75f",
+      "source_count": 6,
+      "sources": [
+        "svt",
+        "svd",
+        "expressen",
+        "aftonbladet",
+        "di",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-27T08:36:40+01:00",
+      "last_published_at": "2026-11-27T11:39:08+01:00",
+      "lead": {
+        "id": "4d2c1c24f75f",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-i-bjorkdalsgruvan-raddningstjanst-pa-plats",
+        "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-i-bjorkdalsgruvan-raddningstjanst-pa-plats",
+        "published_at": "2026-11-27T08:36:40+01:00",
+        "fetched_at": "2026-11-27T08:45:42+01:00",
+        "category": "sweden",
+        "sv": {
+          "title": "Brand i Björkdalsgruvan utanför Kåge – räddningstjänst på plats",
+          "summary": "Personal har tagit skydd i en räddningskammare efter att en personbil börjat brinna under jord i Björkdalsgruvan utanför Kåge. Räddningstjänsten har larmats till platsen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Fire at Björkdalsgruvan outside Kåge – rescue service on site",
+          "summary": "Staff have taken shelter in a rescue chamber after a passenger car began burning underground in Björkdalsgruvan outside Kåge. The rescue service has been alerted to the site."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T08:46:05+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "20c1c78727ac",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/brand-i-guldgruva-27-personer-ar-kvar-i-kammare",
+          "published_at": "2026-11-27T11:39:08+01:00",
+          "sv": {
+            "title": "Brand i guldgruva – 27 personer är kvar i kammare"
+          },
+          "en": {
+            "title": "Fire in gold mine – 27 people still inside chamber"
+          }
+        },
+        {
+          "id": "76143df80c97",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/guldgruva-utryms-efter-brand",
+          "published_at": "2026-11-27T10:56:26+01:00",
+          "sv": {
+            "title": "Guldgruva utryms efter brand"
+          },
+          "en": {
+            "title": "Gold mine evacuated after fire"
+          }
+        },
+        {
+          "id": "3df8395e9fc5",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/brand-i-en-av-europas-storsta-guldgruvor",
+          "published_at": "2026-11-27T09:56:34+01:00",
+          "sv": {
+            "title": "Brand i en av Europas största guldgruvor"
+          },
+          "en": {
+            "title": "Fire at one of Europe's largest gold mines"
+          }
+        },
+        {
+          "id": "116378bb7946",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/VxbyKW/guldgruva-utryms-efter-brand",
+          "published_at": "2026-11-27T09:51:34+01:00",
+          "sv": {
+            "title": "Guldgruva utryms efter brand"
+          },
+          "en": {
+            "title": "Gold mine evacuated after fire"
+          }
+        },
+        {
+          "id": "73d6499ae8e2",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=83312080-82be-4cf8-94c7-7c0bc1a8fd85",
+          "published_at": "2026-11-27T09:13:55+01:00",
+          "sv": {
+            "title": "Brand i guldgruva"
+          },
+          "en": {
+            "title": "Fire at gold mine"
+          }
+        },
+        {
+          "id": "96a6fcc4780a",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80367",
+          "published_at": "2026-11-27T09:12:53+01:00",
+          "sv": {
+            "title": "Brand i guldgruva i Skellefteå"
+          },
+          "en": {
+            "title": "Fire at gold mine in Skellefteå"
+          }
+        },
+        {
+          "id": "4d2c1c24f75f",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-i-bjorkdalsgruvan-raddningstjanst-pa-plats",
+          "published_at": "2026-11-27T08:36:40+01:00",
+          "sv": {
+            "title": "Brand i Björkdalsgruvan utanför Kåge – räddningstjänst på plats"
+          },
+          "en": {
+            "title": "Fire at Björkdalsgruvan outside Kåge – rescue service on site"
           }
         }
       ]
@@ -300,120 +426,6 @@
           },
           "en": {
             "title": "Andersson on the Centre's decision: \"My door is always open\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "4d2c1c24f75f",
-      "source_count": 6,
-      "sources": [
-        "svt",
-        "svd",
-        "expressen",
-        "aftonbladet",
-        "di",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-27T08:36:40+01:00",
-      "last_published_at": "2026-11-27T10:56:26+01:00",
-      "lead": {
-        "id": "4d2c1c24f75f",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-i-bjorkdalsgruvan-raddningstjanst-pa-plats",
-        "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-i-bjorkdalsgruvan-raddningstjanst-pa-plats",
-        "published_at": "2026-11-27T08:36:40+01:00",
-        "fetched_at": "2026-11-27T08:45:42+01:00",
-        "category": "sweden",
-        "sv": {
-          "title": "Brand i Björkdalsgruvan utanför Kåge – räddningstjänst på plats",
-          "summary": "Personal har tagit skydd i en räddningskammare efter att en personbil börjat brinna under jord i Björkdalsgruvan utanför Kåge. Räddningstjänsten har larmats till platsen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Fire at Björkdalsgruvan outside Kåge – rescue service on site",
-          "summary": "Staff have taken shelter in a rescue chamber after a passenger car began burning underground in Björkdalsgruvan outside Kåge. The rescue service has been alerted to the site."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T08:46:05+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "76143df80c97",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/guldgruva-utryms-efter-brand",
-          "published_at": "2026-11-27T10:56:26+01:00",
-          "sv": {
-            "title": "Guldgruva utryms efter brand"
-          },
-          "en": {
-            "title": "Gold mine evacuated after fire"
-          }
-        },
-        {
-          "id": "3df8395e9fc5",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/brand-i-en-av-europas-storsta-guldgruvor",
-          "published_at": "2026-11-27T09:56:34+01:00",
-          "sv": {
-            "title": "Brand i en av Europas största guldgruvor"
-          },
-          "en": {
-            "title": "Fire at one of Europe's largest gold mines"
-          }
-        },
-        {
-          "id": "116378bb7946",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/VxbyKW/guldgruva-utryms-efter-brand",
-          "published_at": "2026-11-27T09:51:34+01:00",
-          "sv": {
-            "title": "Guldgruva utryms efter brand"
-          },
-          "en": {
-            "title": "Gold mine evacuated after fire"
-          }
-        },
-        {
-          "id": "73d6499ae8e2",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=83312080-82be-4cf8-94c7-7c0bc1a8fd85",
-          "published_at": "2026-11-27T09:13:55+01:00",
-          "sv": {
-            "title": "Brand i guldgruva"
-          },
-          "en": {
-            "title": "Fire at gold mine"
-          }
-        },
-        {
-          "id": "96a6fcc4780a",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80367",
-          "published_at": "2026-11-27T09:12:53+01:00",
-          "sv": {
-            "title": "Brand i guldgruva i Skellefteå"
-          },
-          "en": {
-            "title": "Fire at gold mine in Skellefteå"
-          }
-        },
-        {
-          "id": "4d2c1c24f75f",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-i-bjorkdalsgruvan-raddningstjanst-pa-plats",
-          "published_at": "2026-11-27T08:36:40+01:00",
-          "sv": {
-            "title": "Brand i Björkdalsgruvan utanför Kåge – räddningstjänst på plats"
-          },
-          "en": {
-            "title": "Fire at Björkdalsgruvan outside Kåge – rescue service on site"
           }
         }
       ]

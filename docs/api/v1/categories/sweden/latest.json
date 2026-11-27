@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T11:31:29+01:00",
+  "generated_at": "2026-11-27T11:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "20c1c78727ac",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/brand-i-guldgruva-27-personer-ar-kvar-i-kammare",
+      "guid": "https://www.expressen.se/nyheter/sverige/brand-i-guldgruva-27-personer-ar-kvar-i-kammare/",
+      "published_at": "2026-11-27T11:39:08+01:00",
+      "fetched_at": "2026-11-27T11:45:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Brand i guldgruva – 27 personer är kvar i kammare",
+        "summary": "27 personer är fast i en livräddningskammare under branden i Björkdalsgruvan. – Ett antal blir kvar i kammaren under räddningsarbetet, säger HR-chefen Anna Magnusson till SVT Nyheter Västerbotten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fire in gold mine – 27 people still inside chamber",
+        "summary": "27 people are trapped in a refuge chamber during the fire at the Björkdal mine. – A number will remain in the chamber during the rescue work, HR chief Anna Magnusson tells SVT Nyheter Västerbotten."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:45:53+01:00"
+      }
+    },
     {
       "id": "00c9b02e4a6d",
       "schema_version": 1,
@@ -5478,35 +5504,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T14:01:30+01:00"
-      }
-    },
-    {
-      "id": "7359ca09e007",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3QLFXHpWkqNTY2ieJHPOqK/virusforskaren-varnar-allvarligt-kan-leda-till-svar-sjukdom",
-      "guid": "3QLFXHpWkqNTY2ieJHPOqK",
-      "published_at": "2026-11-23T13:29:56+01:00",
-      "fetched_at": "2026-11-23T13:31:01+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Inrikes"
-      ],
-      "sv": {
-        "title": "Virusforskaren varnar: ”Allvarligt – kan leda till svår sjukdom”",
-        "summary": "På fredagen uppsökte en person akutmottagningen på Södersjukhuset för vård. Patienten blev sittande i väntrummet under ett antal timmar, samtidigt som andra människor rörde sig där. Senare konstaterade sjukhuset att patienten hade mässling och en intensiv smittspårning inleddes.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "The virus researcher warns: “Serious – can lead to severe illness”",
-        "summary": "On Friday a person visited the emergency department at Södersjukhuset for care. The patient sat in the waiting room for several hours while other people moved around there. Later the hospital established that the patient had measles and an intensive contact tracing operation was launched."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T13:31:20+01:00"
       }
     }
   ]
