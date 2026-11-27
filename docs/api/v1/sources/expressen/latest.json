@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T21:01:22+01:00",
+  "generated_at": "2026-11-27T21:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fd44ed91fb61",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=536b9393-9138-44ad-ab54-014591c0a2da",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=536b9393-9138-44ad-ab54-014591c0a2da",
+      "published_at": "2026-11-27T21:13:35+01:00",
+      "fetched_at": "2026-11-27T21:15:48+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Martin Ådahl om interna striden: Det är väldigt jämnt",
+        "summary": "Martin Ådahl (C) om interna striden",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Martin Ådahl on the internal struggle: It is very even",
+        "summary": "Martin Ådahl (C) on the internal struggle"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T21:15:53+01:00"
+      }
+    },
     {
       "id": "ca8136ce6836",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T22:31:04+01:00"
-      }
-    },
-    {
-      "id": "1a1ff39974e2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/sa-gar-elevernas-hemliga-ritualer-i-arv-pa-sigtunaskolan",
-      "guid": "https://www.expressen.se/nyheter/sverige/sa-gar-elevernas-hemliga-ritualer-i-arv-pa-sigtunaskolan/",
-      "published_at": "2026-11-24T21:15:48+01:00",
-      "fetched_at": "2026-11-24T21:30:59+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Så går elevernas hemliga ritualer i arv på Sigtunaskolan",
-        "summary": "En ny prefekt blir krönt på Sigtunaskolan. Liggandes på rygg med en tratt i munnen. Bara månader senare ska han åtalas misstänkt för våld och sexualbrott. Polisens förundersökning ger en unik inblick i de hemliga ritualerna på elitskolan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "How pupils' secret rituals are passed down at Sigtuna School",
-        "summary": "A new prefect is crowned at Sigtuna School. Lying on his back with a funnel in his mouth. Only months later he is to be charged, suspected of violence and sexual offences. The police preliminary investigation gives a unique insight into the secret rituals at the elite school."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T21:31:06+01:00"
       }
     }
   ]
