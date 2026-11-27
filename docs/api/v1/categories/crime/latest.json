@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T16:15:55+01:00",
+  "generated_at": "2026-11-27T16:31:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "37dba1288509",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/vandningen-i-luleamordet-misstankt-tar-tillbaka-erkannande",
+      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/vandningen-i-luleamordet-misstankt-tar-tillbaka-erkannande",
+      "published_at": "2026-11-27T16:14:56+01:00",
+      "fetched_at": "2026-11-27T16:31:00+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Vändningen i Luleåmordet: Misstänkt tar tillbaka erkännande",
+        "summary": "I dag inleddes rättegången i det misstänkta mordet i Luleå där en man i 70-årsåldern misstänks ha blivit mördad av sina hyresgäster. Åklagarna lyfte fram tung bevisning, delvis filmat med de misstänktas egna kameror, som visar konflikten mellan parterna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Twist in Luleå murder case: Suspect withdraws confession",
+        "summary": "Today the trial began for the alleged murder in Luleå, where a man in his 70s is suspected of having been killed by his tenants. The prosecutors presented strong evidence, partly filmed with the suspects' own cameras, which shows the conflict between the parties."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T16:31:14+01:00"
+      }
+    },
     {
       "id": "b7779b951838",
       "schema_version": 1,
@@ -5353,33 +5379,6 @@
       "en": {
         "title": "Police warning ahead of Black Week",
         "summary": "Black Week is under way with red price tags and tempting offers – and fraud. Here are the police's tips on how to avoid being duped during the coming holidays."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T07:45:54+01:00"
-      }
-    },
-    {
-      "id": "dd33694fffab",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/familjens-sorg-efter-ronningemordet-smarta-varje-dag",
-      "guid": "https://www.dn.se/sverige/familjens-sorg-efter-ronningemordet-smarta-varje-dag/",
-      "published_at": "2026-11-23T07:36:34+01:00",
-      "fetched_at": "2026-11-23T07:45:44+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/f5699e30-d6a7-42bd-a47f-43b84e5d505b.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Familjens sorg efter Rönningemordet: Smärta varje dag",
-        "summary": "Den 25-åriga kvinnan fördes bort och mördades under julhelgen förra året. Nu tackar hennes familj för allt stöd – och vädjar om att bli lämnad ifred inför den kommande rättegången. ”Att förlora vår älskade dotter och syster är en sorg som inte går att beskriva med ord”, skriver familjen till TT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Family's grief after the Rönninge murder: Pain every day",
-        "summary": "The 25-year-old woman was taken away and murdered during the Christmas holiday last year. Now her family thanks everyone for their support – and pleads to be left in peace ahead of the upcoming trial. “Losing our beloved daughter and sister is a grief that cannot be described in words”, the family writes to TT."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T16:15:55+01:00",
+  "generated_at": "2026-11-27T16:31:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c7e67800db8e",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/tysk-stjarna-avstangd-for-dopningsbrott-stottas-av-svenska-lagkamrater-for-hart-straff",
+      "guid": "https://www.dn.se/sport/tysk-stjarna-avstangd-for-dopningsbrott-stottas-av-svenska-lagkamrater-for-hart-straff/",
+      "published_at": "2026-11-27T16:22:12+01:00",
+      "fetched_at": "2026-11-27T16:31:01+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/d8e5e477-ab03-443f-97cf-47b776ccc041.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Tysk stjärna avstängd för dopningsbrott – stöttas av svenska lagkamrater: ”För hårt straff”",
+        "summary": "VALENCIA. Tysk landslagsfotboll skakas av ett dopningsbrott och en lång avstängning. Frankfurtkaptenen Laura Freigang missar både VM och det kommande OS-kvalet mot Sverige. Straffet är för hårt, tycker svenska klubbkompisen Hanna Bennison.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "German star suspended for doping violation – backed by Swedish teammates: “Too harsh a punishment”",
+        "summary": "VALENCIA. German national team football is shaken by a doping violation and a long suspension. Frankfurt captain Laura Freigang misses both the World Cup and the upcoming Olympic qualifier against Sweden. The punishment is too harsh, says Swedish club teammate Hanna Bennison."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T16:31:14+01:00"
+      }
+    },
     {
       "id": "b7dde4d003fd",
       "schema_version": 1,
@@ -5570,38 +5597,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:45:53+01:00"
-      }
-    },
-    {
-      "id": "4db225e079f6",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/orgryte-is/sa-slutar-bottenstriden-det-har-talar-for-och-emot-ois.6c5252c4-ae17-5f00-a1aa-e65a23941364",
-      "guid": "6c5252c4-ae17-5f00-a1aa-e65a23941364",
-      "published_at": "2026-11-21T10:08:46+01:00",
-      "fetched_at": "2026-11-21T10:31:08+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Örgryte IS",
-        "Tagg: Öis",
-        "Tagg: Örgryte IS"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/3017223f-7366-3c6d-a2d7-ae63d9709484",
-      "sv": {
-        "title": "Så slutar galna bottendramat för Öis: ”Deras största hopp”",
-        "summary": "Det här talar för och emot Öis i kampen om nytt kontrakt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is how the crazy relegation drama for Öis ends: ”Their biggest hope”",
-        "summary": "This is what speaks for and against Öis in the fight for a new contract."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T10:31:13+01:00"
       }
     }
   ]
