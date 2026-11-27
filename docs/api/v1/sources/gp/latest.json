@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-27T18:45:53+01:00",
+  "generated_at": "2026-11-27T19:01:31+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3d5c2db6ceba",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/livsstil/det-ar-black-friday-rea-pa-att-bli-av-med-min-adhd.6318e452-ffab-5889-86d0-0e8fa964df62",
+      "guid": "6318e452-ffab-5889-86d0-0e8fa964df62",
+      "published_at": "2026-11-27T18:47:32+01:00",
+      "fetched_at": "2026-11-27T19:01:19+01:00",
+      "category": "other",
+      "feed_categories": [
+        "Livsstil",
+        "Tagg: Diagnoser",
+        "Tagg: ADHD"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/0e5b1478-18ea-314c-89b6-84d0acaff046",
+      "sv": {
+        "title": "Psykologen ringer upp och säger att jag kan ompröva min diagnos för 30 000 kronor. Men just nu är det 10% rabatt.",
+        "summary": "En dag frågar en läkare GP:s reporter Tania Gazi om hon verkligen har adhd. Sex dagar senare ringer en psykolog från ett privat utredningsföretag med ett erbjudande: Om hon omprövar sin diagnos före månadens slut får hon en Black Friday-rabatt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Psychologist calls and says I can reconsider my diagnosis for SEK 30,000. But right now there is a 10% discount.",
+        "summary": "One day a doctor asks GP reporter Tania Gazi whether she really has ADHD. Six days later a psychologist from a private assessment company calls with an offer: If she reconsiders her diagnosis before the end of the month, she gets a Black Friday discount."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T19:01:25+01:00"
+      }
+    },
     {
       "id": "dbb19a5193c4",
       "schema_version": 1,
@@ -6842,40 +6874,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T06:56:48+01:00"
-      }
-    },
-    {
-      "id": "a04a311727fc",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/varlden/sverige-har-lagst-trafikdodlighet-i-eu-for-fjarde-aret-i-rad.00136274-3705-5ce0-bfc9-db8017460385",
-      "guid": "00136274-3705-5ce0-bfc9-db8017460385",
-      "published_at": "2026-11-22T20:18:37+01:00",
-      "fetched_at": "2026-11-22T20:45:48+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Världen",
-        "Tagg: Trafikanalys",
-        "Tagg: EU",
-        "Tagg: Ishalka",
-        "Tagg: Trafiksäkerhet"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/8c686555-362f-3b3e-a5f7-2bcf99426faa",
-      "sv": {
-        "title": "Sverige har färst trafikdöda per invånare i EU – för fjärde året i rad",
-        "summary": "Vinterhalkan är här. Förra året omkom 19 personer per miljon invånare i svensk vägtrafik, jämfört med 43 i EU som helhet. Se statistiken land för land.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sweden has fewest road deaths per capita in the EU – for the fourth year in a row",
-        "summary": "Winter slipperiness is here. Last year 19 people per million inhabitants died in Swedish road traffic, compared with 43 in the EU as a whole. See the statistics country by country."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T20:45:53+01:00"
       }
     }
   ]

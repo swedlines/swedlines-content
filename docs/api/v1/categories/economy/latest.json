@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T18:45:53+01:00",
+  "generated_at": "2026-11-27T19:01:31+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "94c2f48baa53",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/okad-forlust-for-zenergy",
+      "guid": "58d0786e-d562-4e81-982d-67a784a3f5ea",
+      "published_at": "2026-11-27T18:48:07+01:00",
+      "fetched_at": "2026-11-27T19:01:19+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Ökad förlust för Zenergy",
+        "summary": "Zenergy, som tillverkar moduler och byggmaterial, minskade omsättningen och ökade förlusten under det tredje kvartalet 2026.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Zenergy's loss increases",
+        "summary": "Zenergy, which manufactures modules and building materials, reduced turnover and increased its loss in the third quarter of 2026."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T19:01:25+01:00"
+      }
+    },
     {
       "id": "f53442eadcc2",
       "schema_version": 1,
@@ -5277,33 +5303,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T18:15:51+01:00"
-      }
-    },
-    {
-      "id": "40ce0e950c0a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kallor-minst-10-000-kan-fa-lamna-tysklands-storsta-borsbolag",
-      "guid": "e9964ec1-d108-4e0e-acb7-4d60f8938076",
-      "published_at": "2026-11-26T17:46:36+01:00",
-      "fetched_at": "2026-11-26T18:01:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/53a6719c-7ae0-4733-b05c-e19a317b3e1e.jpeg?width=600",
-      "sv": {
-        "title": "Källor: Minst 10.000 kan få lämna Tysklands största börsbolag",
-        "summary": "Den tyska mjukvarujätten SAP överväger att göra sig av med minst 10.000 tjänster för att anpassa sig till AI, uppger källor för Bloomberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sources: At least 10,000 may lose their jobs at Germany's largest listed company",
-        "summary": "German software giant SAP is considering cutting at least 10,000 jobs to adapt to AI, according to sources speaking to Bloomberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T18:01:20+01:00"
       }
     }
   ]
