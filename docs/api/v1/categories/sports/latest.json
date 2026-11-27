@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T13:45:53+01:00",
+  "generated_at": "2026-11-27T13:48:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "77b766a61022",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/langdskidor/william-poromaa-vurpade-under-varldscuppremiaren-i-ruka",
+      "guid": "https://www.svt.se/sport/langdskidor/william-poromaa-vurpade-under-varldscuppremiaren-i-ruka",
+      "published_at": "2026-11-27T13:44:59+01:00",
+      "fetched_at": "2026-11-27T13:48:43+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "William Poromaa vurpade under världscuppremiären i Ruka",
+        "summary": "Tungt för William Poromaa. Svensken vurpade under premiärloppet i Ruka.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "William Poromaa crashes during World Cup opener in Ruka",
+        "summary": "Tough for William Poromaa. The Swede crashed during the opening race in Ruka."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:48:51+01:00"
+      }
+    },
     {
       "id": "5410d36e9e9f",
       "schema_version": 1,
@@ -5565,40 +5591,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T06:16:04+01:00"
-      }
-    },
-    {
-      "id": "84d514cba0e0",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/debatt/skuldbelagg-inte-polisen-att-elda-pa-laktarna-ar-farligt.8ecadc31-0e4f-5d05-82fb-7c7b4fcfe636",
-      "guid": "8ecadc31-0e4f-5d05-82fb-7c7b4fcfe636",
-      "published_at": "2026-11-21T05:05:00+01:00",
-      "fetched_at": "2026-11-21T05:31:02+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Debatt",
-        "Tagg: Polisen",
-        "Tagg: Brott",
-        "Tagg: Barn",
-        "Tagg: Fotboll"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/a787c9f7-3b28-3a97-b074-624546d0a9a4",
-      "sv": {
-        "title": "Skuldbelägg inte polisen – att elda på läktarna är farligt",
-        "summary": "Carl Bennet: Hur får vi stopp för illdåden? Ja, inte är det genom att tända nya bengaler och ta bort förbudet!",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Don't blame the police – lighting flares in the stands is dangerous",
-        "summary": "Carl Bennet: How do we stop the outrages? Well, it isn't by lighting new flares and removing the ban!"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T05:31:06+01:00"
       }
     }
   ]
