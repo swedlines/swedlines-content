@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T18:01:46+01:00",
+  "generated_at": "2026-11-27T18:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "32434d87fdd1",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vast/man-kopplas-till-gamlestadsmordet-stalls-infor-ratta-i-kap-verde",
+      "guid": "https://www.svt.se/nyheter/lokalt/vast/man-kopplas-till-gamlestadsmordet-stalls-infor-ratta-i-kap-verde",
+      "published_at": "2026-11-27T18:01:08+01:00",
+      "fetched_at": "2026-11-27T18:15:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man kopplas till Gamlestadsmordet – ställs inför rätta i Kap Verde",
+        "summary": "Under fredagen inleddes en rättegång i västafrikanska Kap Verde mot en 41-årig man från Göteborg. Mannen greps i slutet av 2025 efter att ha varit efterlyst i flera år. Han misstänks bland annat för inblandning i det uppmärksammade Gamlestadsmordet i Göteborg, 2020.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man linked to Gamlestad murder – to stand trial in Cape Verde",
+        "summary": "On Friday a trial began in the West African country of Cape Verde against a 41-year-old man from Göteborg. The man was arrested at the end of 2025 after having been wanted for several years. He is suspected, among other things, of involvement in the high-profile Gamlestad murder in Göteborg, 2020."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T18:15:56+01:00"
+      }
+    },
     {
       "id": "1711a6a3d62d",
       "schema_version": 1,
@@ -5343,32 +5369,6 @@
       "en": {
         "title": "Two arrested after hand grenade in Hyllieby",
         "summary": "One man and one woman have been arrested after Saturday's alarm about a dangerous object on a residential street in Hyllieby. Police confirm it was a live hand grenade next to a home."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T11:45:51+01:00"
-      }
-    },
-    {
-      "id": "0ab721ed6406",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/ny-bevisning-i-brattasmalet-inlamnad-till-hovratten",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/ny-bevisning-i-brattasmalet-inlamnad-till-hovratten",
-      "published_at": "2026-11-23T11:30:47+01:00",
-      "fetched_at": "2026-11-23T11:45:41+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Ny bevisning i Brattåsmålet inlämnad till hovrätten",
-        "summary": "Under måndagsmorgonen kom nytt sekretessbelagt bevismaterial i målet om dubbelmordet i Brattås i Härnösand in till hovrätten – två dagar före rättegångsstarten. – Vi har begärt ytterligare kompletteringar, och polisen jobbar för fullt med det.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "New evidence in Brattås case submitted to court of appeal",
-        "summary": "On Monday morning, new classified evidence in the case of the double murder in Brattås in Härnösand was submitted to the court of appeal – two days before the trial starts. \"We have requested further supplementation, and the police are working hard on it.\""
       },
       "translation": {
         "status": "done",

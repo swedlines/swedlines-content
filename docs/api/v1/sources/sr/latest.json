@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T18:01:46+01:00",
+  "generated_at": "2026-11-27T18:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ce83c53400d3",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9352015",
+      "guid": "rss:sr.se/article/9352015",
+      "published_at": "2026-11-27T18:06:00+01:00",
+      "fetched_at": "2026-11-27T18:15:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Sektledaren döms igen – uppmanade till svält",
+        "summary": "Den kenyanske sektledaren Paul Mackenzie som uppmanat sina medlemmar att svälta sig till döds för att ”möta Jesus\", döms på nytt. Mackenzie tilldömdes tidigare i november till 200 års fängelse för mord på 190 barn. Denna gång befanns han skyldig till dråp på ytterligare 123 personer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sect leader sentenced again – urged starvation",
+        "summary": "The Kenyan sect leader Paul Mackenzie, who urged his followers to starve themselves to death to \"meet Jesus\", is being sentenced again. Mackenzie was earlier in November sentenced to 200 years in prison for the murder of 190 children. This time he was found guilty of manslaughter of another 123 people."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T18:15:56+01:00"
+      }
+    },
     {
       "id": "8e539c61b103",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Emergency shops to secure Danes' food in crisis",
         "summary": "Danish emergency shops are to be able to stay open even during war or crisis. In total, 51 shops have been equipped with emergency generators and payment systems that work without internet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:30+01:00"
-      }
-    },
-    {
-      "id": "32feeccc994d",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347070",
-      "guid": "rss:sr.se/article/9347070",
-      "published_at": "2026-11-23T06:06:00+01:00",
-      "fetched_at": "2026-11-23T06:55:59+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Flera incidenter efter brister i säkerhetsskyddet",
-        "summary": "Det finns flera fall där misstänkta incidenter anmälts till Säkerhetspolisen i samband med att det upptäckts brister i det så kallade säkerhetsskyddet i verksamheter som är viktiga för Sveriges säkerhet, visar Ekots granskning.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Several incidents after shortcomings in security protection",
-        "summary": "There are several cases where suspected incidents have been reported to the Security Service (Säpo) in connection with the discovery of shortcomings in the so-called security protection in activities important to Sweden's security, shows Ekot's investigation."
       },
       "translation": {
         "status": "done",

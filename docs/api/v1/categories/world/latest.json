@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T18:01:46+01:00",
+  "generated_at": "2026-11-27T18:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ce83c53400d3",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9352015",
+      "guid": "rss:sr.se/article/9352015",
+      "published_at": "2026-11-27T18:06:00+01:00",
+      "fetched_at": "2026-11-27T18:15:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Sektledaren döms igen – uppmanade till svält",
+        "summary": "Den kenyanske sektledaren Paul Mackenzie som uppmanat sina medlemmar att svälta sig till döds för att ”möta Jesus\", döms på nytt. Mackenzie tilldömdes tidigare i november till 200 års fängelse för mord på 190 barn. Denna gång befanns han skyldig till dråp på ytterligare 123 personer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sect leader sentenced again – urged starvation",
+        "summary": "The Kenyan sect leader Paul Mackenzie, who urged his followers to starve themselves to death to \"meet Jesus\", is being sentenced again. Mackenzie was earlier in November sentenced to 200 years in prison for the murder of 190 children. This time he was found guilty of manslaughter of another 123 people."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T18:15:56+01:00"
+      }
+    },
     {
       "id": "eb94bf08f951",
       "schema_version": 1,
@@ -5326,33 +5352,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T18:01:24+01:00"
-      }
-    },
-    {
-      "id": "74622ff3f358",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Jno0E7/spionen-peyman-kia-misstanks-vilja-skicka-kodde-hemliga-meddelande-till-rysk-underrattelsetjanst",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Jno0E7/spionen-peyman-kia-misstanks-vilja-skicka-kodde-hemliga-meddelande-till-rysk-underrattelsetjanst?utm_medium=rss",
-      "published_at": "2026-11-25T17:38:52+01:00",
-      "fetched_at": "2026-11-25T17:45:48+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/a0cfedc7-a46c-36f3-ad28-e2d75995ee3d?format=auto&s=d5ae7558761162df432d27c8e8fd09afe9063e2f&w=1000",
-      "sv": {
-        "title": "Experten: Därför fortsätter Kia vara en fara för Sverige",
-        "summary": "”De tar hand om sina spioner”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Expert: This is why Kia remains a threat to Sweden",
-        "summary": "\"They take care of their spies\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T17:45:55+01:00"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:01:46+01:00",
+  "generated_at": "2026-11-27T18:16:01+01:00",
   "count": 30,
   "stories": [
     {
@@ -1603,6 +1603,157 @@
       ]
     },
     {
+      "id": "b5a209c70700",
+      "source_count": 3,
+      "sources": [
+        "svt",
+        "sydsvenskan",
+        "dn"
+      ],
+      "first_published_at": "2026-11-27T17:27:10+01:00",
+      "last_published_at": "2026-11-27T18:14:24+01:00",
+      "lead": {
+        "id": "b5a209c70700",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/sport/skidskytte/elvira-oberg-vinner-i-varldscuppremiaren",
+        "guid": "https://www.svt.se/sport/skidskytte/elvira-oberg-vinner-i-varldscuppremiaren",
+        "published_at": "2026-11-27T17:27:10+01:00",
+        "fetched_at": "2026-11-27T17:31:02+01:00",
+        "category": "sports",
+        "sv": {
+          "title": "Elvira Öberg vinner i världscuppremiären",
+          "summary": "Svensk seger i världscuppremiären. Elvira Öberg vann distansloppet i Kontilax.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Elvira Öberg wins World Cup opener",
+          "summary": "Swedish victory in the World Cup opener. Elvira Öberg won the distance race in Kontilax."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T17:31:18+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "dbe070cd1121",
+          "source": "dn",
+          "url": "https://www.dn.se/sport/dromstart-for-moster-oberg-en-haftig-vecka",
+          "published_at": "2026-11-27T18:14:24+01:00",
+          "sv": {
+            "title": "Drömstart för moster Öberg: ”En häftig vecka”"
+          },
+          "en": {
+            "title": "Dream start for aunt Öberg: \"A crazy week\""
+          }
+        },
+        {
+          "id": "8c43ce3d508c",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/dromstart-for-moster-oberg-en-haftig-vecka",
+          "published_at": "2026-11-27T17:59:41+01:00",
+          "sv": {
+            "title": "Drömstart för moster Öberg: ”En häftig vecka”"
+          },
+          "en": {
+            "title": "Dream start for aunt Öberg: ”A great week”"
+          }
+        },
+        {
+          "id": "b5a209c70700",
+          "source": "svt",
+          "url": "https://www.svt.se/sport/skidskytte/elvira-oberg-vinner-i-varldscuppremiaren",
+          "published_at": "2026-11-27T17:27:10+01:00",
+          "sv": {
+            "title": "Elvira Öberg vinner i världscuppremiären"
+          },
+          "en": {
+            "title": "Elvira Öberg wins World Cup opener"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fa2f2b56ade3",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "di"
+      ],
+      "first_published_at": "2026-11-27T17:55:21+01:00",
+      "last_published_at": "2026-11-27T18:00:00+01:00",
+      "lead": {
+        "id": "fa2f2b56ade3",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/j3B9pe/ukrainskt-forslag-om-vapenvila-i-svarta-havet",
+        "guid": "https://www.aftonbladet.se/nyheter/a/j3B9pe/ukrainskt-forslag-om-vapenvila-i-svarta-havet?utm_medium=rss",
+        "published_at": "2026-11-27T17:55:21+01:00",
+        "fetched_at": "2026-11-27T18:01:20+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/f03e5a87-4a65-39df-961d-28dc986fbb09?format=auto&s=9d0a88c45872c61c119c2e062b8e1dd28110f43a&w=1000",
+        "sv": {
+          "title": "Ukrainskt förslag om vapenvila i Svarta havet",
+          "summary": "Ukraina vill se en vapenvila i Svarta havet och har lämnat ett förslag till Ryssland.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Ukrainian proposal for ceasefire in the Black Sea",
+          "summary": "Ukraine wants a ceasefire in the Black Sea and has submitted a proposal to Russia."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T18:01:39+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "d32b113b9797",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/ukrainskt-forslag-om-vapenvila-i-svarta-havet",
+          "published_at": "2026-11-27T18:00:00+01:00",
+          "sv": {
+            "title": "Ukrainskt förslag om vapenvila i Svarta havet"
+          },
+          "en": {
+            "title": "Ukrainian proposal for ceasefire in the Black Sea"
+          }
+        },
+        {
+          "id": "eb94bf08f951",
+          "source": "svd",
+          "url": "https://www.svd.se/a/oMAL8g/ukrainskt-forslag-om-vapenvila-i-svarta-havet",
+          "published_at": "2026-11-27T17:55:22+01:00",
+          "sv": {
+            "title": "Ukrainskt förslag om vapenvila i Svarta havet"
+          },
+          "en": {
+            "title": "Ukrainian proposal for ceasefire in the Black Sea"
+          }
+        },
+        {
+          "id": "fa2f2b56ade3",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/j3B9pe/ukrainskt-forslag-om-vapenvila-i-svarta-havet",
+          "published_at": "2026-11-27T17:55:21+01:00",
+          "sv": {
+            "title": "Ukrainskt förslag om vapenvila i Svarta havet"
+          },
+          "en": {
+            "title": "Ukrainian proposal for ceasefire in the Black Sea"
+          }
+        }
+      ]
+    },
+    {
       "id": "accedf09d2d7",
       "source_count": 3,
       "sources": [
@@ -2366,131 +2517,6 @@
           },
           "en": {
             "title": "Then vitamin D deficiency may be a risk"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b5a209c70700",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-27T17:27:10+01:00",
-      "last_published_at": "2026-11-27T17:59:41+01:00",
-      "lead": {
-        "id": "b5a209c70700",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/sport/skidskytte/elvira-oberg-vinner-i-varldscuppremiaren",
-        "guid": "https://www.svt.se/sport/skidskytte/elvira-oberg-vinner-i-varldscuppremiaren",
-        "published_at": "2026-11-27T17:27:10+01:00",
-        "fetched_at": "2026-11-27T17:31:02+01:00",
-        "category": "sports",
-        "sv": {
-          "title": "Elvira Öberg vinner i världscuppremiären",
-          "summary": "Svensk seger i världscuppremiären. Elvira Öberg vann distansloppet i Kontilax.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Elvira Öberg wins World Cup opener",
-          "summary": "Swedish victory in the World Cup opener. Elvira Öberg won the distance race in Kontilax."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T17:31:18+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "8c43ce3d508c",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sport/dromstart-for-moster-oberg-en-haftig-vecka",
-          "published_at": "2026-11-27T17:59:41+01:00",
-          "sv": {
-            "title": "Drömstart för moster Öberg: ”En häftig vecka”"
-          },
-          "en": {
-            "title": "Dream start for aunt Öberg: ”A great week”"
-          }
-        },
-        {
-          "id": "b5a209c70700",
-          "source": "svt",
-          "url": "https://www.svt.se/sport/skidskytte/elvira-oberg-vinner-i-varldscuppremiaren",
-          "published_at": "2026-11-27T17:27:10+01:00",
-          "sv": {
-            "title": "Elvira Öberg vinner i världscuppremiären"
-          },
-          "en": {
-            "title": "Elvira Öberg wins World Cup opener"
-          }
-        }
-      ]
-    },
-    {
-      "id": "fa2f2b56ade3",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-27T17:55:21+01:00",
-      "last_published_at": "2026-11-27T17:55:22+01:00",
-      "lead": {
-        "id": "fa2f2b56ade3",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/j3B9pe/ukrainskt-forslag-om-vapenvila-i-svarta-havet",
-        "guid": "https://www.aftonbladet.se/nyheter/a/j3B9pe/ukrainskt-forslag-om-vapenvila-i-svarta-havet?utm_medium=rss",
-        "published_at": "2026-11-27T17:55:21+01:00",
-        "fetched_at": "2026-11-27T18:01:20+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/f03e5a87-4a65-39df-961d-28dc986fbb09?format=auto&s=9d0a88c45872c61c119c2e062b8e1dd28110f43a&w=1000",
-        "sv": {
-          "title": "Ukrainskt förslag om vapenvila i Svarta havet",
-          "summary": "Ukraina vill se en vapenvila i Svarta havet och har lämnat ett förslag till Ryssland.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Ukrainian proposal for ceasefire in the Black Sea",
-          "summary": "Ukraine wants a ceasefire in the Black Sea and has submitted a proposal to Russia."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T18:01:39+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "eb94bf08f951",
-          "source": "svd",
-          "url": "https://www.svd.se/a/oMAL8g/ukrainskt-forslag-om-vapenvila-i-svarta-havet",
-          "published_at": "2026-11-27T17:55:22+01:00",
-          "sv": {
-            "title": "Ukrainskt förslag om vapenvila i Svarta havet"
-          },
-          "en": {
-            "title": "Ukrainian proposal for ceasefire in the Black Sea"
-          }
-        },
-        {
-          "id": "fa2f2b56ade3",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/j3B9pe/ukrainskt-forslag-om-vapenvila-i-svarta-havet",
-          "published_at": "2026-11-27T17:55:21+01:00",
-          "sv": {
-            "title": "Ukrainskt förslag om vapenvila i Svarta havet"
-          },
-          "en": {
-            "title": "Ukrainian proposal for ceasefire in the Black Sea"
           }
         }
       ]
