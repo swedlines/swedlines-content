@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T06:16:03+01:00",
+  "generated_at": "2026-11-27T06:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "39e6656a8d0e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/fotboll/madjed-duckar-vsk-vannens-samtal-forsokt-ringa",
+      "guid": "https://www.svt.se/sport/fotboll/madjed-duckar-vsk-vannens-samtal-forsokt-ringa",
+      "published_at": "2026-11-27T06:22:56+01:00",
+      "fetched_at": "2026-11-27T06:31:00+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Madjed duckar VSK-vännens samtal: ”Försökt ringa”",
+        "summary": "Telefonen ringer. Montader Madjed klickar. Det är den förre Hammarbyspelaren Abdelrahman Boudah som försöker nå honom. – Jag ska inte låta honom störa mig, säger yttern inför mötet med Västerås.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Madjed ducks VSK friend's call: “Tried to call”",
+        "summary": "The phone rings. Montader Madjed clicks it away. It is former Hammarby player Abdelrahman Boudah trying to reach him. – I won't let him disturb me, says the winger ahead of the match against Västerås."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:31:17+01:00"
+      }
+    },
     {
       "id": "0c419fe810f0",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T08:15:50+01:00"
-      }
-    },
-    {
-      "id": "a78f0b38f256",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/ex-generalens-kritik-europa-inte-redo-for-rysslands-luftkrig",
-      "guid": "https://www.svt.se/nyheter/inrikes/ex-generalens-kritik-europa-inte-redo-for-rysslands-luftkrig",
-      "published_at": "2026-11-22T06:17:22+01:00",
-      "fetched_at": "2026-11-22T06:30:55+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ex-generalens kritik: Europa inte redo för Rysslands luftkrig",
-        "summary": "Natos och Sveriges luftförsvar är oförberett inför det ryska luftkriget som väntas vid en väpnad konflikt. Det säger tidigare chefen för USA:s armé i Europa – i en minidokumentär på SVT Play: – De kommer att använda missiler, drönare och glidbomber för att förstöra vår infrastruktur och jag tror…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Former general's criticism: Europe not ready for Russia's air war",
-        "summary": "NATO's and Sweden's air defences are unprepared for the Russian air war expected in an armed conflict. That is what the former commander of the US Army in Europe says – in a mini-documentary on SVT Play: \"They will use missiles, drones and glide bombs to destroy our infrastructure, and I think…\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T06:31:04+01:00"
       }
     }
   ]

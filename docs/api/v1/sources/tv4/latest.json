@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-27T06:16:03+01:00",
+  "generated_at": "2026-11-27T06:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cd133eb14d91",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7xrBnZst12nuUqJp48pmHF/dolda-kostnaden-foer-kaoset-det-aer-inte-en-idealisk-situation",
+      "guid": "7xrBnZst12nuUqJp48pmHF",
+      "published_at": "2026-11-27T06:15:18+01:00",
+      "fetched_at": "2026-11-27T06:31:03+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Dolda kostnaden för kaoset: ”Det är inte en idealisk situation”",
+        "summary": "Forskaren: Sverige kan förlora mark på grund av regeringsstrulet • ”Då börjar det bli dåligt”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The hidden cost of the chaos: “It is not an ideal situation”",
+        "summary": "Researcher: Sweden may lose ground because of the government's mess • “Then it starts to get bad”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:31:17+01:00"
+      }
+    },
     {
       "id": "f2a255ab772f",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T21:31:05+01:00"
-      }
-    },
-    {
-      "id": "bb88b85d3559",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/ZhwBaDI1hxJDNtI0XB6lp/missade-valet-med-24-timmar-nu-hoppas-melanie-pa-ny-chans",
-      "guid": "ZhwBaDI1hxJDNtI0XB6lp",
-      "published_at": "2026-11-18T20:59:52+01:00",
-      "fetched_at": "2026-11-18T21:15:47+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Svensk politik"
-      ],
-      "sv": {
-        "title": "Missade valet med 24 timmar – nu hoppas Melanie på ny chans",
-        "summary": "Fyllde 18 dagen efter • Så många nya väljare har tillkommit • Experten: “Inte obetydligt“",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Missed the election by 24 hours – now Melanie hopes for a new chance",
-        "summary": "Turned 18 the day after • So many new voters have been added • Expert: \"Not insignificant\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:15:54+01:00"
       }
     }
   ]

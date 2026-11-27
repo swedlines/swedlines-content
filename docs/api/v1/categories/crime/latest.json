@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T06:16:03+01:00",
+  "generated_at": "2026-11-27T06:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "deb27d69312e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/tagvarden-och-kokainet-miljonsmugglingen-pa-oresundstaget",
+      "guid": "d4cc8974-d051-45a3-9441-a5a029e83329",
+      "published_at": "2026-11-27T06:30:00+01:00",
+      "fetched_at": "2026-11-27T06:31:05+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Tågvärden och kokainet – miljonsmugglingen på Öresundståget",
+        "summary": "Tullen kliver på tåget i Hyllie. På bagagehyllan hittar de två väskor fyllda med kokain – till ett värde av 27 miljoner. I vagnen intill sitter ägaren, en 30-årig tågvärd från Amsterdam, och ser det försvinna. Snart jagas han från två håll. Både av tullen och av sina egna uppdragsgivare.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The train attendant and the cocaine – the million smuggling on the Öresund train",
+        "summary": "Customs officers board the train in Hyllie. On the luggage rack they find two bags filled with cocaine worth 27 million. In the adjacent carriage sits the owner, a 30-year-old train attendant from Amsterdam, and watches it disappear. Soon he is being hunted from two sides. Both by customs and by his own employers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:31:17+01:00"
+      }
+    },
     {
       "id": "112307a9bb2c",
       "schema_version": 1,
@@ -5376,33 +5402,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T08:31:12+01:00"
-      }
-    },
-    {
-      "id": "b9cc3f27b00a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/jag-kan-inte-sluta-tanka-pa-vad-polisen-missade",
-      "guid": "8711361f-3366-4d36-a73b-bcdf6a4b03d0",
-      "published_at": "2026-11-22T07:31:00+01:00",
-      "fetched_at": "2026-11-22T07:31:05+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/2002b22d-ed02-447c-bd15-69b982d8a228.png?width=600",
-      "sv": {
-        "title": "Jag kan inte sluta tänka på vad polisen missade",
-        "summary": "Skildringen av hur aktörer i Örebro vill ”äga berättelsen” är absolut kolsvart i sin nihilism, skriver Andreas Ekström.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "I can't stop thinking about what the police missed",
-        "summary": "The portrayal of how actors in Örebro want to \"own the narrative\" is absolutely pitch-black in its nihilism, writes Andreas Ekström."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T07:31:11+01:00"
       }
     }
   ]

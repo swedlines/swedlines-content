@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T06:16:03+01:00",
+  "generated_at": "2026-11-27T06:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "deb27d69312e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/tagvarden-och-kokainet-miljonsmugglingen-pa-oresundstaget",
+      "guid": "d4cc8974-d051-45a3-9441-a5a029e83329",
+      "published_at": "2026-11-27T06:30:00+01:00",
+      "fetched_at": "2026-11-27T06:31:05+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Tågvärden och kokainet – miljonsmugglingen på Öresundståget",
+        "summary": "Tullen kliver på tåget i Hyllie. På bagagehyllan hittar de två väskor fyllda med kokain – till ett värde av 27 miljoner. I vagnen intill sitter ägaren, en 30-årig tågvärd från Amsterdam, och ser det försvinna. Snart jagas han från två håll. Både av tullen och av sina egna uppdragsgivare.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The train attendant and the cocaine – the million smuggling on the Öresund train",
+        "summary": "Customs officers board the train in Hyllie. On the luggage rack they find two bags filled with cocaine worth 27 million. In the adjacent carriage sits the owner, a 30-year-old train attendant from Amsterdam, and watches it disappear. Soon he is being hunted from two sides. Both by customs and by his own employers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:31:17+01:00"
+      }
+    },
     {
       "id": "45fefac3c8ec",
       "schema_version": 1,
@@ -5187,33 +5213,6 @@
       "en": {
         "title": "Pope Francis in his diary: \"Saw the devil\"",
         "summary": "Pope Francis saw the devil on three occasions – and once also \"the gates of hell\". The late pope's diary is now being published in book form."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T11:59:14+01:00"
-      }
-    },
-    {
-      "id": "68ac545a6d72",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/lakare-haktad-misstankt-for-valdtakt",
-      "guid": "6a5ffb9c-c87d-4965-8dab-3c23cfa71279",
-      "published_at": "2026-11-24T11:46:59+01:00",
-      "fetched_at": "2026-11-24T11:59:07+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/db3108c0-cf6d-4fcc-ba37-f6e3de1b4183.jpg?width=600",
-      "sv": {
-        "title": "Läkare häktad misstänkt för våldtäkt",
-        "summary": "En läkare har häktats på sannolika skäl misstänkt för en våldtäkt som ska ha skett på sjukhuset i Västerås, rapporterar P4 Västmanland.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Doctor remanded in custody on suspicion of rape",
-        "summary": "A doctor has been remanded in custody on probable cause on suspicion of a rape that allegedly took place at the hospital in Västerås, reports P4 Västmanland."
       },
       "translation": {
         "status": "done",
