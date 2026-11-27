@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T09:47:49+01:00",
+  "generated_at": "2026-11-27T10:01:33+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b89299ed01c4",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/officer-vid-forsvarsmakten-misstanks-for-brott-mot-sveriges-sakerhet",
+      "guid": "https://www.dn.se/sverige/officer-vid-forsvarsmakten-misstanks-for-brott-mot-sveriges-sakerhet/",
+      "published_at": "2026-11-27T10:00:28+01:00",
+      "fetched_at": "2026-11-27T10:01:19+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/8f840c80-b81e-4458-aecc-59a119f9fcba.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Officer vid Försvarsmakten misstänks för brott mot Sveriges säkerhet",
+        "summary": "En officer vid Försvarsmakten misstänks för grov obehörig befattning med hemlig uppgift. Brottet ska ha begåtts förra året.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Officer at the Armed Forces suspected of crimes against Sweden's security",
+        "summary": "An officer at the Armed Forces is suspected of gross unauthorised handling of classified information. The offence is said to have been committed last year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:01:30+01:00"
+      }
+    },
     {
       "id": "25f50b8251b1",
       "schema_version": 1,
@@ -5368,33 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T08:31:13+01:00"
-      }
-    },
-    {
-      "id": "739fc756cd9d",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/ranta-plotsligt-blev-jag-en-gammelmormor-och-vanilj",
-      "guid": "https://www.dn.se/kultur/ranta-plotsligt-blev-jag-en-gammelmormor-och-vanilj/",
-      "published_at": "2026-11-24T07:30:00+01:00",
-      "fetched_at": "2026-11-24T07:31:03+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/36b84950-6edd-4cef-ad19-1f21bca9beb8.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Ranta: Plötsligt blev jag en gammelmormor och ”vanilj”",
-        "summary": "Ranta sitter yrvaken vid frukostbordet. Och råkar få en sexartikel upptryckt i ansiktet. Hur kommer det sig att vi pratar så mycket om sex – men så lite om ömhet?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ranta: Suddenly I became a granny and \"vanilla\"",
-        "summary": "Ranta sits wide awake at the breakfast table. And ends up with a sex article shoved in her face. Why do we talk so much about sex – but so little about tenderness?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T07:31:15+01:00"
       }
     }
   ]

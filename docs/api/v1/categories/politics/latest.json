@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T09:47:49+01:00",
+  "generated_at": "2026-11-27T10:01:33+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4527bf696513",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351365",
+      "guid": "rss:sr.se/article/9351365",
+      "published_at": "2026-11-27T10:00:00+01:00",
+      "fetched_at": "2026-11-27T10:01:18+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Förre C-ledaren utesluter inte att rösta nej: Äger min egen röst",
+        "summary": "Riksdagsledmoten och tidigare Centerledaren Muharrem Demirok kan idag inte säga hur han kommer att rösta i måndagens statsministeromröstning, oavsett vad Centerpartiets förtroenderåd kommer fram till på sitt möte på söndag. Det säger han till Ekot.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Former Centre leader does not rule out voting no: I own my own vote",
+        "summary": "Riksdag member and former Centre Party leader Muharrem Demirok cannot today say how he will vote in Monday's prime minister vote, regardless of what the Centre Party's trust council concludes at its meeting on Sunday. He tells Ekot."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:01:30+01:00"
+      }
+    },
     {
       "id": "e148fbe1a50a",
       "schema_version": 1,
@@ -5378,32 +5404,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T16:01:29+01:00"
-      }
-    },
-    {
-      "id": "dd50b33da00a",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9349984",
-      "guid": "rss:sr.se/article/9349984",
-      "published_at": "2026-11-25T15:04:00+01:00",
-      "fetched_at": "2026-11-25T15:15:45+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Indikator Opinion: Därför ökar stödet för MP och V",
-        "summary": "De utdragna regeringsförhandlingarna har kostat Socialdemokraterna och Centerpartiet väljarstöd samtidigt som Vänsterpartiet och Miljöpartiet ökar, enligt en mätning från Indikator Opinion.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Indikator Opinion: Why support for the Green Party and the Left Party is rising",
-        "summary": "The protracted government negotiations have cost the Social Democrats and the Centre Party voter support while the Left Party and the Green Party gain, according to a survey from Indikator Opinion."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T15:15:52+01:00"
       }
     }
   ]

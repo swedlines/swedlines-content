@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:47:49+01:00",
+  "generated_at": "2026-11-27T10:01:33+01:00",
   "count": 30,
   "stories": [
     {
@@ -13,7 +13,7 @@
         "sydsvenskan"
       ],
       "first_published_at": "2026-11-26T21:25:00+01:00",
-      "last_published_at": "2026-11-27T09:17:00+01:00",
+      "last_published_at": "2026-11-27T10:00:00+01:00",
       "lead": {
         "id": "3f6874444123",
         "schema_version": 1,
@@ -41,6 +41,18 @@
         }
       },
       "items": [
+        {
+          "id": "4527bf696513",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351365",
+          "published_at": "2026-11-27T10:00:00+01:00",
+          "sv": {
+            "title": "Förre C-ledaren utesluter inte att rösta nej: Äger min egen röst"
+          },
+          "en": {
+            "title": "Former Centre leader does not rule out voting no: I own my own vote"
+          }
+        },
         {
           "id": "e63e819c29a9",
           "source": "sr",
@@ -595,6 +607,94 @@
       ]
     },
     {
+      "id": "4d2c1c24f75f",
+      "source_count": 4,
+      "sources": [
+        "svt",
+        "svd",
+        "expressen",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-27T08:36:40+01:00",
+      "last_published_at": "2026-11-27T09:51:34+01:00",
+      "lead": {
+        "id": "4d2c1c24f75f",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-i-bjorkdalsgruvan-raddningstjanst-pa-plats",
+        "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-i-bjorkdalsgruvan-raddningstjanst-pa-plats",
+        "published_at": "2026-11-27T08:36:40+01:00",
+        "fetched_at": "2026-11-27T08:45:42+01:00",
+        "category": "sweden",
+        "sv": {
+          "title": "Brand i Björkdalsgruvan utanför Kåge – räddningstjänst på plats",
+          "summary": "Personal har tagit skydd i en räddningskammare efter att en personbil börjat brinna under jord i Björkdalsgruvan utanför Kåge. Räddningstjänsten har larmats till platsen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Fire at Björkdalsgruvan outside Kåge – rescue service on site",
+          "summary": "Staff have taken shelter in a rescue chamber after a passenger car began burning underground in Björkdalsgruvan outside Kåge. The rescue service has been alerted to the site."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T08:46:05+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "116378bb7946",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/VxbyKW/guldgruva-utryms-efter-brand",
+          "published_at": "2026-11-27T09:51:34+01:00",
+          "sv": {
+            "title": "Guldgruva utryms efter brand"
+          },
+          "en": {
+            "title": "Gold mine evacuated after fire"
+          }
+        },
+        {
+          "id": "73d6499ae8e2",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=83312080-82be-4cf8-94c7-7c0bc1a8fd85",
+          "published_at": "2026-11-27T09:13:55+01:00",
+          "sv": {
+            "title": "Brand i guldgruva"
+          },
+          "en": {
+            "title": "Fire at gold mine"
+          }
+        },
+        {
+          "id": "96a6fcc4780a",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80367",
+          "published_at": "2026-11-27T09:12:53+01:00",
+          "sv": {
+            "title": "Brand i guldgruva i Skellefteå"
+          },
+          "en": {
+            "title": "Fire at gold mine in Skellefteå"
+          }
+        },
+        {
+          "id": "4d2c1c24f75f",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-i-bjorkdalsgruvan-raddningstjanst-pa-plats",
+          "published_at": "2026-11-27T08:36:40+01:00",
+          "sv": {
+            "title": "Brand i Björkdalsgruvan utanför Kåge – räddningstjänst på plats"
+          },
+          "en": {
+            "title": "Fire at Björkdalsgruvan outside Kåge – rescue service on site"
+          }
+        }
+      ]
+    },
+    {
       "id": "d1aa819607d1",
       "source_count": 4,
       "sources": [
@@ -965,81 +1065,6 @@
           },
           "en": {
             "title": "Billion-kronor order for BAE Systems Hägglunds"
-          }
-        }
-      ]
-    },
-    {
-      "id": "4d2c1c24f75f",
-      "source_count": 3,
-      "sources": [
-        "svt",
-        "svd",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-27T08:36:40+01:00",
-      "last_published_at": "2026-11-27T09:13:55+01:00",
-      "lead": {
-        "id": "4d2c1c24f75f",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-i-bjorkdalsgruvan-raddningstjanst-pa-plats",
-        "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-i-bjorkdalsgruvan-raddningstjanst-pa-plats",
-        "published_at": "2026-11-27T08:36:40+01:00",
-        "fetched_at": "2026-11-27T08:45:42+01:00",
-        "category": "sweden",
-        "sv": {
-          "title": "Brand i Björkdalsgruvan utanför Kåge – räddningstjänst på plats",
-          "summary": "Personal har tagit skydd i en räddningskammare efter att en personbil börjat brinna under jord i Björkdalsgruvan utanför Kåge. Räddningstjänsten har larmats till platsen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Fire at Björkdalsgruvan outside Kåge – rescue service on site",
-          "summary": "Staff have taken shelter in a rescue chamber after a passenger car began burning underground in Björkdalsgruvan outside Kåge. The rescue service has been alerted to the site."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T08:46:05+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "73d6499ae8e2",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=83312080-82be-4cf8-94c7-7c0bc1a8fd85",
-          "published_at": "2026-11-27T09:13:55+01:00",
-          "sv": {
-            "title": "Brand i guldgruva"
-          },
-          "en": {
-            "title": "Fire at gold mine"
-          }
-        },
-        {
-          "id": "96a6fcc4780a",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80367",
-          "published_at": "2026-11-27T09:12:53+01:00",
-          "sv": {
-            "title": "Brand i guldgruva i Skellefteå"
-          },
-          "en": {
-            "title": "Fire at gold mine in Skellefteå"
-          }
-        },
-        {
-          "id": "4d2c1c24f75f",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-i-bjorkdalsgruvan-raddningstjanst-pa-plats",
-          "published_at": "2026-11-27T08:36:40+01:00",
-          "sv": {
-            "title": "Brand i Björkdalsgruvan utanför Kåge – räddningstjänst på plats"
-          },
-          "en": {
-            "title": "Fire at Björkdalsgruvan outside Kåge – rescue service on site"
           }
         }
       ]
@@ -1425,6 +1450,81 @@
       ]
     },
     {
+      "id": "5595d21d00fa",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-27T08:30:48+01:00",
+      "last_published_at": "2026-11-27T09:51:47+01:00",
+      "lead": {
+        "id": "5595d21d00fa",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/krisande-norska-flygbolaget-fortsatter-stalla-in",
+        "guid": "939570c4-f346-4ab0-8fe1-20a398998ac5",
+        "published_at": "2026-11-27T08:30:48+01:00",
+        "fetched_at": "2026-11-27T08:45:50+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/3f3f4ddb-7614-4b21-b5f2-12ed8b3fa155.jpg?width=600",
+        "sv": {
+          "title": "Krisande norska flygbolaget fortsätter ställa in",
+          "summary": "Det norska flygbolaget Norse Atlantic ställer in flera avgångar även under fredagen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Troubled Norwegian airline continues to cancel flights",
+          "summary": "Norwegian airline Norse Atlantic cancels several departures also on Friday."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T08:46:05+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "d81300bf6cf1",
+          "source": "di",
+          "url": "https://www.di.se/live/norska-flygbolaget-blir-av-med-planen-schackmatt",
+          "published_at": "2026-11-27T09:51:47+01:00",
+          "sv": {
+            "title": "Norska flygbolaget blir av med planen: ”Schackmatt”"
+          },
+          "en": {
+            "title": "Norwegian airline loses its plane: \"Checkmate\""
+          }
+        },
+        {
+          "id": "4f87fe38bba3",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/krisande-norska-flygbolaget-fortsatter-stalla-in",
+          "published_at": "2026-11-27T08:34:02+01:00",
+          "sv": {
+            "title": "Krisande norska flygbolaget fortsätter ställa in"
+          },
+          "en": {
+            "title": "Troubled Norwegian airline continues to cancel flights"
+          }
+        },
+        {
+          "id": "5595d21d00fa",
+          "source": "di",
+          "url": "https://www.di.se/live/krisande-norska-flygbolaget-fortsatter-stalla-in",
+          "published_at": "2026-11-27T08:30:48+01:00",
+          "sv": {
+            "title": "Krisande norska flygbolaget fortsätter ställa in"
+          },
+          "en": {
+            "title": "Troubled Norwegian airline continues to cancel flights"
+          }
+        }
+      ]
+    },
+    {
       "id": "d426f0aaa2fb",
       "source_count": 2,
       "sources": [
@@ -1747,69 +1847,6 @@
           },
           "en": {
             "title": "Elisabeth Thand Ringqvist: There is a dependence on SD"
-          }
-        }
-      ]
-    },
-    {
-      "id": "5595d21d00fa",
-      "source_count": 2,
-      "sources": [
-        "di",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-27T08:30:48+01:00",
-      "last_published_at": "2026-11-27T08:34:02+01:00",
-      "lead": {
-        "id": "5595d21d00fa",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/krisande-norska-flygbolaget-fortsatter-stalla-in",
-        "guid": "939570c4-f346-4ab0-8fe1-20a398998ac5",
-        "published_at": "2026-11-27T08:30:48+01:00",
-        "fetched_at": "2026-11-27T08:45:50+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/3f3f4ddb-7614-4b21-b5f2-12ed8b3fa155.jpg?width=600",
-        "sv": {
-          "title": "Krisande norska flygbolaget fortsätter ställa in",
-          "summary": "Det norska flygbolaget Norse Atlantic ställer in flera avgångar även under fredagen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Troubled Norwegian airline continues to cancel flights",
-          "summary": "Norwegian airline Norse Atlantic cancels several departures also on Friday."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T08:46:05+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "4f87fe38bba3",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/krisande-norska-flygbolaget-fortsatter-stalla-in",
-          "published_at": "2026-11-27T08:34:02+01:00",
-          "sv": {
-            "title": "Krisande norska flygbolaget fortsätter ställa in"
-          },
-          "en": {
-            "title": "Troubled Norwegian airline continues to cancel flights"
-          }
-        },
-        {
-          "id": "5595d21d00fa",
-          "source": "di",
-          "url": "https://www.di.se/live/krisande-norska-flygbolaget-fortsatter-stalla-in",
-          "published_at": "2026-11-27T08:30:48+01:00",
-          "sv": {
-            "title": "Krisande norska flygbolaget fortsätter ställa in"
-          },
-          "en": {
-            "title": "Troubled Norwegian airline continues to cancel flights"
           }
         }
       ]

@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-27T09:47:49+01:00",
+  "generated_at": "2026-11-27T10:01:33+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "740cca62b7ec",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/varldens-gang/hur-smakar-framtidens-rakor-efter-klimatforandringarna.28ead249-4d6c-5532-9ca5-dc16e4fbe5be",
+      "guid": "28ead249-4d6c-5532-9ca5-dc16e4fbe5be",
+      "published_at": "2026-11-27T09:38:01+01:00",
+      "fetched_at": "2026-11-27T10:01:23+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Världens gång",
+        "Tagg: Världens gång",
+        "Tagg: Kåseri",
+        "Tagg: Månadens fyr"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e0048d54-1ca5-3db5-81a3-7c3d2dfbb97c",
+      "sv": {
+        "title": "Hur smakar framtidens räkor efter klimatförändringarna?",
+        "summary": "Månadens GP-fyr i november 2026: Söö",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How do the shrimp of the future taste after climate change?",
+        "summary": "GP's Lighthouse of the month in November 2026: Söö"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:01:30+01:00"
+      }
+    },
     {
       "id": "a877121095af",
       "schema_version": 1,
@@ -6825,38 +6858,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T07:15:50+01:00"
-      }
-    },
-    {
-      "id": "a218a8ab08b0",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/gais/gais-kravet-efter-gustav-lundgrens-show-och-tangerade-rekordet-en-sjalvklarhet.3f4e4857-7224-5181-9f06-ac2c55ed2691",
-      "guid": "3f4e4857-7224-5181-9f06-ac2c55ed2691",
-      "published_at": "2026-11-22T06:25:22+01:00",
-      "fetched_at": "2026-11-22T06:45:44+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Gais",
-        "Tagg: Gustav Lundgren",
-        "Tagg: Gais"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/c45dc41d-8edf-3377-abf9-8d44f3cbee8a",
-      "sv": {
-        "title": "Gais-kravet efter Gustav Lundgrens show: ”En självklarhet”",
-        "summary": "Stjärnan hyllades stort efter superinhoppet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Gais demand after Gustav Lundgren's show: “A no-brainer”",
-        "summary": "The star was lavishly praised after the super substitute appearance."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T06:45:55+01:00"
       }
     }
   ]
