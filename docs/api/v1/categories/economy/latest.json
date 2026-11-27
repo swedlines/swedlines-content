@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T20:01:19+01:00",
+  "generated_at": "2026-11-27T20:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4a2f09a65b04",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/norge-rustar-kraftsektorn-for-krig-raknar-med-ryskt-sabotage-inom-ett-ar",
+      "guid": "190b3c9e-835d-483c-944f-88fb22bc7865",
+      "published_at": "2026-11-27T19:59:05+01:00",
+      "fetched_at": "2026-11-27T20:15:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a26ebc3e-f8f1-47a1-ae64-b1ddecf31a56.jpeg?width=600",
+      "sv": {
+        "title": "Norge rustar kraftsektorn för krig – räknar med ryskt sabotage inom ett år",
+        "summary": "Norge rustar kraftsektorn för krig. Landets säkerhetstjänst bedömer det som sannolikt att Ryssland genomför sabotage på norsk mark inom ett år och pekar ut energianläggningar som potentiella mål.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Norway prepares its power sector for war – expects Russian sabotage within a year",
+        "summary": "Norway is preparing its power sector for war. The country's security service assesses it as likely that Russia will carry out sabotage on Norwegian soil within a year and identifies energy facilities as potential targets."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T20:15:47+01:00"
+      }
+    },
     {
       "id": "774140abfb0a",
       "schema_version": 1,
@@ -5287,33 +5314,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T18:45:46+01:00"
-      }
-    },
-    {
-      "id": "c83d9ff67dc7",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kambi-inleder-nytt-aterkopsprogram-00OnC",
-      "guid": "049c109e-8f1f-418f-9736-d7bb7b7483e1",
-      "published_at": "2026-11-26T18:11:39+01:00",
-      "fetched_at": "2026-11-26T18:15:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7cf1e223-4d67-4624-911b-ae079a97d270.jpeg?width=600",
-      "sv": {
-        "title": "Kambi inleder nytt återköpsprogram",
-        "summary": "Kambi inleder ett nytt återköpsprogram värd totalt 70 miljoner kronor som ska löpa till och med 15 februari nästa år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kambi launches new share buyback programme",
-        "summary": "Kambi is launching a new buyback programme worth a total of SEK 70 million, running until 15 February next year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T18:15:51+01:00"
       }
     }
   ]

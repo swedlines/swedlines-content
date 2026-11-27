@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T20:01:19+01:00",
+  "generated_at": "2026-11-27T20:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "948e0ff070d5",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/misstankt-mordare-stoppad-av-elefant",
+      "guid": "f976e495-6143-4050-a539-5abc0b958326",
+      "published_at": "2026-11-27T20:07:18+01:00",
+      "fetched_at": "2026-11-27T20:15:44+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/b8853a6a-6d9a-41e0-bacc-6914939fc01a.jpg?width=600",
+      "sv": {
+        "title": "Misstänkt mördare stoppad av elefant",
+        "summary": "En misstänkt mördare i norra Sri Lanka såg ut att komma undan när han flydde brottsplatsen på moped. Då ryckte en elefant in.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspected murderer stopped by elephant",
+        "summary": "A murder suspect in northern Sri Lanka appeared to be getting away when he fled the crime scene on a moped. Then an elephant moved in."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T20:15:47+01:00"
+      }
+    },
     {
       "id": "968b6ce2f6dd",
       "schema_version": 1,
@@ -5210,29 +5237,6 @@
       },
       "en": {
         "title": "140 sq m house sold for 6.7 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T07:15:56+01:00"
-      }
-    },
-    {
-      "id": "f8fdcd4864ad",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-158-kvm-saldes-for-5-8-miljoner",
-      "guid": "17dd3b52-d058-462f-8120-c07b37a63c42",
-      "published_at": "2026-11-25T07:01:45+01:00",
-      "fetched_at": "2026-11-25T07:15:44+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Hus på 158 kvm såldes för 5,8 miljoner"
-      },
-      "en": {
-        "title": "158 sq m house sold for 5.8 million"
       },
       "translation": {
         "status": "done",

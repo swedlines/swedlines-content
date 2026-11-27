@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T20:01:19+01:00",
+  "generated_at": "2026-11-27T20:15:49+01:00",
   "count": 30,
   "stories": [
     {
@@ -2347,6 +2347,69 @@
       ]
     },
     {
+      "id": "08c6dca86fc8",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-27T19:56:47+01:00",
+      "last_published_at": "2026-11-27T20:07:18+01:00",
+      "lead": {
+        "id": "08c6dca86fc8",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/z0g5Pv/misstankt-mordare-stoppad-av-elefant",
+        "guid": "https://www.aftonbladet.se/nyheter/a/z0g5Pv/misstankt-mordare-stoppad-av-elefant?utm_medium=rss",
+        "published_at": "2026-11-27T19:56:47+01:00",
+        "fetched_at": "2026-11-27T20:01:10+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/8aa08f8e-79d3-3d08-9bc7-131a766aca27?format=auto&s=12fb2e5200a3ce3528193b685034f590efb0c4b9&w=1000",
+        "sv": {
+          "title": "Misstänkt mördare stoppad – av elefant",
+          "summary": "En misstänkt mördare i norra Sri Lanka såg ut att komma undan när han flydde brottsplatsen på moped.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Suspected murderer stopped – by an elephant",
+          "summary": "A suspected murderer in northern Sri Lanka appeared to be getting away when he fled the crime scene on a moped."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T20:01:17+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "948e0ff070d5",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/misstankt-mordare-stoppad-av-elefant",
+          "published_at": "2026-11-27T20:07:18+01:00",
+          "sv": {
+            "title": "Misstänkt mördare stoppad av elefant"
+          },
+          "en": {
+            "title": "Suspected murderer stopped by elephant"
+          }
+        },
+        {
+          "id": "08c6dca86fc8",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/z0g5Pv/misstankt-mordare-stoppad-av-elefant",
+          "published_at": "2026-11-27T19:56:47+01:00",
+          "sv": {
+            "title": "Misstänkt mördare stoppad – av elefant"
+          },
+          "en": {
+            "title": "Suspected murderer stopped – by an elephant"
+          }
+        }
+      ]
+    },
+    {
       "id": "87682fb8575b",
       "source_count": 2,
       "sources": [
@@ -2730,68 +2793,6 @@
           },
           "en": {
             "title": "Sweden's new e-ID launched – will only work with the police"
-          }
-        }
-      ]
-    },
-    {
-      "id": "89ca66f372cc",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "di"
-      ],
-      "first_published_at": "2026-11-27T16:47:21+01:00",
-      "last_published_at": "2026-11-27T16:54:34+01:00",
-      "lead": {
-        "id": "89ca66f372cc",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai",
-        "guid": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai?utm_medium=rss",
-        "published_at": "2026-11-27T16:47:21+01:00",
-        "fetched_at": "2026-11-27T17:01:14+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Misstänkt huvudman i stor momshärva gripen i Dubai",
-          "summary": "En man som misstänks vara huvudman i en stor momshärva har gripits i Dubai, skriver polisen på sin…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Suspected mastermind of major VAT fraud arrested in Dubai",
-          "summary": "A man suspected of being the mastermind of a major VAT fraud has been arrested in Dubai, the police write on their website…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T17:01:22+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "66ea4003dc0b",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai",
-          "published_at": "2026-11-27T16:54:34+01:00",
-          "sv": {
-            "title": "Misstänkt huvudman i stor momshärva gripen i Dubai"
-          },
-          "en": {
-            "title": "Suspected mastermind of major VAT fraud arrested in Dubai"
-          }
-        },
-        {
-          "id": "89ca66f372cc",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai",
-          "published_at": "2026-11-27T16:47:21+01:00",
-          "sv": {
-            "title": "Misstänkt huvudman i stor momshärva gripen i Dubai"
-          },
-          "en": {
-            "title": "Suspected mastermind of major VAT fraud arrested in Dubai"
           }
         }
       ]

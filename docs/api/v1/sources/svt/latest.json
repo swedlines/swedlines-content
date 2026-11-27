@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T20:01:19+01:00",
+  "generated_at": "2026-11-27T20:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d161654d8e8b",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/ukraina-forsoker-strypa-rysslands-vag-till-krym",
+      "guid": "https://www.svt.se/nyheter/utrikes/ukraina-forsoker-strypa-rysslands-vag-till-krym",
+      "published_at": "2026-11-27T20:04:22+01:00",
+      "fetched_at": "2026-11-27T20:15:39+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ukraina försöker strypa Rysslands väg till Krym",
+        "summary": "Sedan Ukraina sprängde bilbron mellan Ryssland och ockuperade Krym-halvön har de ryska förbanden där allt svårare att få försörjning. Genom utökade drönarattacker längs den enda landförbindelsen försöker Ukraina nu strypa viktiga militära transporter dit och isolera Krym.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ukraine tries to choke Russia's route to Crimea",
+        "summary": "Since Ukraine blew up the road bridge between Russia and the occupied Crimean peninsula, Russian forces there have had increasing difficulty getting supplies. Through expanded drone attacks along the only land connection, Ukraine now seeks to choke off key military transports there and isolate Crimea."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T20:15:47+01:00"
+      }
+    },
     {
       "id": "2d4bdb2554f0",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T06:56:44+01:00"
-      }
-    },
-    {
-      "id": "268b7746619e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/har-far-vanvardad-ponny-i-sundsvall-nytt-hem-hos-maggan",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/har-far-vanvardad-ponny-i-sundsvall-nytt-hem-hos-maggan",
-      "published_at": "2026-11-23T05:30:01+01:00",
-      "fetched_at": "2026-11-23T08:31:00+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Här får vanvårdad ponny i Sundsvall nytt hem hos Maggan och Neelia",
-        "summary": "Nio veckor har gjort underverk. Den treårige lille hingsten Ed var en av ponnyerna som vanvårdats hos en hästägare i Sundsvallstrakten. Nu mår han som en prins på Näsets ridcenter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mistreated pony in Sundsvall finds new home with Maggan and Neelia",
-        "summary": "Nine weeks have worked wonders. The three-year-old stallion Ed was one of the ponies mistreated by a horse owner in the Sundsvall area. Now he is living like a prince at Näset riding centre."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T08:31:18+01:00"
       }
     }
   ]
