@@ -1,7 +1,135 @@
 {
-  "generated_at": "2026-11-27T11:01:30+01:00",
+  "generated_at": "2026-11-27T11:15:52+01:00",
   "count": 30,
   "stories": [
+    {
+      "id": "b89299ed01c4",
+      "source_count": 7,
+      "sources": [
+        "dn",
+        "aftonbladet",
+        "svd",
+        "sr",
+        "sydsvenskan",
+        "expressen",
+        "tv4"
+      ],
+      "first_published_at": "2026-11-27T10:00:28+01:00",
+      "last_published_at": "2026-11-27T11:13:57+01:00",
+      "lead": {
+        "id": "b89299ed01c4",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/sverige/officer-vid-forsvarsmakten-misstanks-for-brott-mot-sveriges-sakerhet",
+        "guid": "https://www.dn.se/sverige/officer-vid-forsvarsmakten-misstanks-for-brott-mot-sveriges-sakerhet/",
+        "published_at": "2026-11-27T10:00:28+01:00",
+        "fetched_at": "2026-11-27T10:01:19+01:00",
+        "category": "crime",
+        "image_url": "https://static.bonniernews.se/ba/8f840c80-b81e-4458-aecc-59a119f9fcba.jpeg?io=1&width=1000",
+        "sv": {
+          "title": "Officer vid Försvarsmakten misstänks för brott mot Sveriges säkerhet",
+          "summary": "En officer vid Försvarsmakten misstänks för grov obehörig befattning med hemlig uppgift. Brottet ska ha begåtts förra året.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Officer at the Armed Forces suspected of crimes against Sweden's security",
+          "summary": "An officer at the Armed Forces is suspected of gross unauthorised handling of classified information. The offence is said to have been committed last year."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T10:01:30+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "271009343bdb",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/6VgJZJk8hKtdJo7LzNDqZF/officer-misstaenks-foer-brott-mot-rikets-saekerhet-malet-aer-kaensligt",
+          "published_at": "2026-11-27T11:13:57+01:00",
+          "sv": {
+            "title": "Officer misstänks för brott mot rikets säkerhet: ”Målet är känsligt”"
+          },
+          "en": {
+            "title": "Officer suspected of crimes against state security: \"The case is sensitive\""
+          }
+        },
+        {
+          "id": "cd725a438e2c",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/officer-misstanks-for-brott-mot-sveriges-sakerhet",
+          "published_at": "2026-11-27T10:43:34+01:00",
+          "sv": {
+            "title": "Officer misstänks för brott mot Sveriges säkerhet"
+          },
+          "en": {
+            "title": "Officer suspected of crimes against Sweden's security"
+          }
+        },
+        {
+          "id": "2267c95e8d3b",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/officer-misstanks-for-brott-mot-landets-sakerhet",
+          "published_at": "2026-11-27T10:14:22+01:00",
+          "sv": {
+            "title": "Officer misstänks för brott mot landets säkerhet"
+          },
+          "en": {
+            "title": "Officer suspected of crimes against the country's security"
+          }
+        },
+        {
+          "id": "14e336abec15",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351373",
+          "published_at": "2026-11-27T10:10:00+01:00",
+          "sv": {
+            "title": "Uppgifter: Officer misstänks för brott som kan skada Sveriges säkerhet"
+          },
+          "en": {
+            "title": "Reports: Officer suspected of crimes that may harm Sweden's security"
+          }
+        },
+        {
+          "id": "74ae1c8676a6",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80370",
+          "published_at": "2026-11-27T10:06:18+01:00",
+          "sv": {
+            "title": "Officer misstänks för brott mot Sveriges säkerhet"
+          },
+          "en": {
+            "title": "Officer suspected of crimes against Sweden's security"
+          }
+        },
+        {
+          "id": "37348ce22871",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/mMRG7l/officer-misstanks-for-brott-mot-landets-sakerhet",
+          "published_at": "2026-11-27T10:04:54+01:00",
+          "sv": {
+            "title": "Officer misstänks för brott mot landets säkerhet"
+          },
+          "en": {
+            "title": "Officer suspected of crimes against the country's security"
+          }
+        },
+        {
+          "id": "b89299ed01c4",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/officer-vid-forsvarsmakten-misstanks-for-brott-mot-sveriges-sakerhet",
+          "published_at": "2026-11-27T10:00:28+01:00",
+          "sv": {
+            "title": "Officer vid Försvarsmakten misstänks för brott mot Sveriges säkerhet"
+          },
+          "en": {
+            "title": "Officer at the Armed Forces suspected of crimes against Sweden's security"
+          }
+        }
+      ]
+    },
     {
       "id": "4d2c1c24f75f",
       "source_count": 6,
@@ -112,121 +240,6 @@
           },
           "en": {
             "title": "Fire at Björkdalsgruvan outside Kåge – rescue service on site"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b89299ed01c4",
-      "source_count": 6,
-      "sources": [
-        "dn",
-        "aftonbladet",
-        "svd",
-        "sr",
-        "sydsvenskan",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-27T10:00:28+01:00",
-      "last_published_at": "2026-11-27T10:43:34+01:00",
-      "lead": {
-        "id": "b89299ed01c4",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/sverige/officer-vid-forsvarsmakten-misstanks-for-brott-mot-sveriges-sakerhet",
-        "guid": "https://www.dn.se/sverige/officer-vid-forsvarsmakten-misstanks-for-brott-mot-sveriges-sakerhet/",
-        "published_at": "2026-11-27T10:00:28+01:00",
-        "fetched_at": "2026-11-27T10:01:19+01:00",
-        "category": "crime",
-        "image_url": "https://static.bonniernews.se/ba/8f840c80-b81e-4458-aecc-59a119f9fcba.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Officer vid Försvarsmakten misstänks för brott mot Sveriges säkerhet",
-          "summary": "En officer vid Försvarsmakten misstänks för grov obehörig befattning med hemlig uppgift. Brottet ska ha begåtts förra året.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Officer at the Armed Forces suspected of crimes against Sweden's security",
-          "summary": "An officer at the Armed Forces is suspected of gross unauthorised handling of classified information. The offence is said to have been committed last year."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T10:01:30+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "cd725a438e2c",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/sverige/officer-misstanks-for-brott-mot-sveriges-sakerhet",
-          "published_at": "2026-11-27T10:43:34+01:00",
-          "sv": {
-            "title": "Officer misstänks för brott mot Sveriges säkerhet"
-          },
-          "en": {
-            "title": "Officer suspected of crimes against Sweden's security"
-          }
-        },
-        {
-          "id": "2267c95e8d3b",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/officer-misstanks-for-brott-mot-landets-sakerhet",
-          "published_at": "2026-11-27T10:14:22+01:00",
-          "sv": {
-            "title": "Officer misstänks för brott mot landets säkerhet"
-          },
-          "en": {
-            "title": "Officer suspected of crimes against the country's security"
-          }
-        },
-        {
-          "id": "14e336abec15",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351373",
-          "published_at": "2026-11-27T10:10:00+01:00",
-          "sv": {
-            "title": "Uppgifter: Officer misstänks för brott som kan skada Sveriges säkerhet"
-          },
-          "en": {
-            "title": "Reports: Officer suspected of crimes that may harm Sweden's security"
-          }
-        },
-        {
-          "id": "74ae1c8676a6",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80370",
-          "published_at": "2026-11-27T10:06:18+01:00",
-          "sv": {
-            "title": "Officer misstänks för brott mot Sveriges säkerhet"
-          },
-          "en": {
-            "title": "Officer suspected of crimes against Sweden's security"
-          }
-        },
-        {
-          "id": "37348ce22871",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/mMRG7l/officer-misstanks-for-brott-mot-landets-sakerhet",
-          "published_at": "2026-11-27T10:04:54+01:00",
-          "sv": {
-            "title": "Officer misstänks för brott mot landets säkerhet"
-          },
-          "en": {
-            "title": "Officer suspected of crimes against the country's security"
-          }
-        },
-        {
-          "id": "b89299ed01c4",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/officer-vid-forsvarsmakten-misstanks-for-brott-mot-sveriges-sakerhet",
-          "published_at": "2026-11-27T10:00:28+01:00",
-          "sv": {
-            "title": "Officer vid Försvarsmakten misstänks för brott mot Sveriges säkerhet"
-          },
-          "en": {
-            "title": "Officer at the Armed Forces suspected of crimes against Sweden's security"
           }
         }
       ]

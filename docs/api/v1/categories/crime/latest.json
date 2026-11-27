@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-27T11:01:30+01:00",
+  "generated_at": "2026-11-27T11:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "271009343bdb",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6VgJZJk8hKtdJo7LzNDqZF/officer-misstaenks-foer-brott-mot-rikets-saekerhet-malet-aer-kaensligt",
+      "guid": "6VgJZJk8hKtdJo7LzNDqZF",
+      "published_at": "2026-11-27T11:13:57+01:00",
+      "fetched_at": "2026-11-27T11:15:45+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Brott och straff"
+      ],
+      "sv": {
+        "title": "Officer misstänks för brott mot rikets säkerhet: ”Målet är känsligt”",
+        "summary": "Officeren är misstänkt för grov obehörig befattning med hemlig uppgift, något Dagens Nyheter först rapporterade om. Brottsrubriceringen handlar om att någon skaffat eller spridit känslig information som kan skada Sveriges säkerhet, men till skillnad från spioneri har syftet inte varit att läcka…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Officer suspected of crimes against state security: \"The case is sensitive\"",
+        "summary": "The officer is suspected of gross unauthorised handling of classified information, something Dagens Nyheter first reported. The charge concerns someone having obtained or disseminated sensitive information that could harm Sweden's security, but unlike espionage, the aim has not been to leak…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:15:50+01:00"
+      }
+    },
     {
       "id": "cd725a438e2c",
       "schema_version": 1,
@@ -5363,33 +5392,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T22:31:06+01:00"
-      }
-    },
-    {
-      "id": "ccb6c44346b0",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/8PmAlx/uppgifter-man-gripen-i-kroatien-kopplas-till-alvsjomordet",
-      "guid": "https://www.aftonbladet.se/nyheter/a/8PmAlx/uppgifter-man-gripen-i-kroatien-kopplas-till-alvsjomordet?utm_medium=rss",
-      "published_at": "2026-11-22T21:46:37+01:00",
-      "fetched_at": "2026-11-22T22:45:43+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/4db5968d-0fc3-323b-8c90-a46d328bfc74?format=auto&s=74b30966b4d229a86681231cf08c125f76e0f946&w=997",
-      "sv": {
-        "title": "Svensk man gripen i Kroatien – kopplas till Älvsjömordet",
-        "summary": "18-åring utreds för Älvsjömordet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish man arrested in Croatia – linked to the Älvsjö murder",
-        "summary": "18-year-old under investigation for the Älvsjö murder"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T22:45:52+01:00"
       }
     }
   ]

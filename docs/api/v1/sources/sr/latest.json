@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T11:01:30+01:00",
+  "generated_at": "2026-11-27T11:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1cbc7b2ca968",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351209",
+      "guid": "rss:sr.se/article/9351209",
+      "published_at": "2026-11-27T11:01:00+01:00",
+      "fetched_at": "2026-11-27T11:15:43+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Nvidia stoppar leveranser till delar av Sydostasien",
+        "summary": "Nya amerikanska restriktioner på avancerade AI-chip ska försvåra för Kina att komma åt den datorkraft som behövs för bland annat träning av nya AI-modeller.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Nvidia halts deliveries to parts of Southeast Asia",
+        "summary": "New US restrictions on advanced AI chips are intended to make it harder for China to access the computing power needed for, among other things, training new AI models."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:15:50+01:00"
+      }
+    },
     {
       "id": "2784bca9453e",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T15:01:22+01:00"
-      }
-    },
-    {
-      "id": "0695c75dda72",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347846",
-      "guid": "rss:sr.se/article/9347846",
-      "published_at": "2026-11-22T13:14:00+01:00",
-      "fetched_at": "2026-11-22T13:15:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Därför lämnar Pourmokhtari klimatmötet: ”Tydligt kliv bakåt”",
-        "summary": "EU kan inte acceptera slutdokumentet i klimatförhandlingarna på COP31 i Turkiet och svenska delegationen har lämnat toppmötet. ”I slutdokumentet har man urvattnat skrivningarna om vetenskaplig förankring och grunden för FN:s klimatpanel, IPCC”, säger klimat- och miljöminister Romina Pourmokhtari…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Why Pourmokhtari is leaving the climate talks: \"A clear step backwards\"",
-        "summary": "The EU cannot accept the final document in the climate negotiations at COP31 in Turkey, and the Swedish delegation has left the summit. \"The final document has watered down the wording on scientific grounding and the basis of the UN's climate panel, the IPCC,\" says Climate and Environment Minister Romina Pourmokhtari…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T13:15:53+01:00"
       }
     }
   ]

@@ -1,7 +1,89 @@
 {
-  "generated_at": "2026-11-27T11:01:30+01:00",
-  "count": 274,
+  "generated_at": "2026-11-27T11:15:52+01:00",
+  "count": 277,
   "items": [
+    {
+      "id": "271009343bdb",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6VgJZJk8hKtdJo7LzNDqZF/officer-misstaenks-foer-brott-mot-rikets-saekerhet-malet-aer-kaensligt",
+      "guid": "6VgJZJk8hKtdJo7LzNDqZF",
+      "published_at": "2026-11-27T11:13:57+01:00",
+      "fetched_at": "2026-11-27T11:15:45+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Brott och straff"
+      ],
+      "sv": {
+        "title": "Officer misstänks för brott mot rikets säkerhet: ”Målet är känsligt”",
+        "summary": "Officeren är misstänkt för grov obehörig befattning med hemlig uppgift, något Dagens Nyheter först rapporterade om. Brottsrubriceringen handlar om att någon skaffat eller spridit känslig information som kan skada Sveriges säkerhet, men till skillnad från spioneri har syftet inte varit att läcka…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Officer suspected of crimes against state security: \"The case is sensitive\"",
+        "summary": "The officer is suspected of gross unauthorised handling of classified information, something Dagens Nyheter first reported. The charge concerns someone having obtained or disseminated sensitive information that could harm Sweden's security, but unlike espionage, the aim has not been to leak…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:15:50+01:00"
+      }
+    },
+    {
+      "id": "d63297606d17",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/KL3ELo/storbritannien-vadjar-ta-influensavaccinet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/KL3ELo/storbritannien-vadjar-ta-influensavaccinet?utm_medium=rss",
+      "published_at": "2026-11-27T11:09:54+01:00",
+      "fetched_at": "2026-11-27T11:15:44+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/01d452f0-e380-354b-b456-04df5dd2bb12?format=auto&s=d56b27383012955bfc0d121f99026d3497e4dc7b&w=1000",
+      "sv": {
+        "title": "Storbritannien vädjar: Ta influensavaccinet",
+        "summary": "Det råder hög press på brittiska sjukhus, och det är ovanligt att beläggningen är så hög så här…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "UK urges: Get the flu vaccine",
+        "summary": "There is heavy pressure on British hospitals, and it is unusual for occupancy to be this high at this time of year…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:15:50+01:00"
+      }
+    },
+    {
+      "id": "1cbc7b2ca968",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351209",
+      "guid": "rss:sr.se/article/9351209",
+      "published_at": "2026-11-27T11:01:00+01:00",
+      "fetched_at": "2026-11-27T11:15:43+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Nvidia stoppar leveranser till delar av Sydostasien",
+        "summary": "Nya amerikanska restriktioner på avancerade AI-chip ska försvåra för Kina att komma åt den datorkraft som behövs för bland annat träning av nya AI-modeller.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Nvidia halts deliveries to parts of Southeast Asia",
+        "summary": "New US restrictions on advanced AI chips are intended to make it harder for China to access the computing power needed for, among other things, training new AI models."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:15:50+01:00"
+      }
+    },
     {
       "id": "4f007155d50a",
       "schema_version": 1,

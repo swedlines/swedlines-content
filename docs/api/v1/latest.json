@@ -1,7 +1,89 @@
 {
-  "generated_at": "2026-11-27T11:01:30+01:00",
+  "generated_at": "2026-11-27T11:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "271009343bdb",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6VgJZJk8hKtdJo7LzNDqZF/officer-misstaenks-foer-brott-mot-rikets-saekerhet-malet-aer-kaensligt",
+      "guid": "6VgJZJk8hKtdJo7LzNDqZF",
+      "published_at": "2026-11-27T11:13:57+01:00",
+      "fetched_at": "2026-11-27T11:15:45+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Brott och straff"
+      ],
+      "sv": {
+        "title": "Officer misstänks för brott mot rikets säkerhet: ”Målet är känsligt”",
+        "summary": "Officeren är misstänkt för grov obehörig befattning med hemlig uppgift, något Dagens Nyheter först rapporterade om. Brottsrubriceringen handlar om att någon skaffat eller spridit känslig information som kan skada Sveriges säkerhet, men till skillnad från spioneri har syftet inte varit att läcka…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Officer suspected of crimes against state security: \"The case is sensitive\"",
+        "summary": "The officer is suspected of gross unauthorised handling of classified information, something Dagens Nyheter first reported. The charge concerns someone having obtained or disseminated sensitive information that could harm Sweden's security, but unlike espionage, the aim has not been to leak…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:15:50+01:00"
+      }
+    },
+    {
+      "id": "d63297606d17",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/KL3ELo/storbritannien-vadjar-ta-influensavaccinet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/KL3ELo/storbritannien-vadjar-ta-influensavaccinet?utm_medium=rss",
+      "published_at": "2026-11-27T11:09:54+01:00",
+      "fetched_at": "2026-11-27T11:15:44+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/01d452f0-e380-354b-b456-04df5dd2bb12?format=auto&s=d56b27383012955bfc0d121f99026d3497e4dc7b&w=1000",
+      "sv": {
+        "title": "Storbritannien vädjar: Ta influensavaccinet",
+        "summary": "Det råder hög press på brittiska sjukhus, och det är ovanligt att beläggningen är så hög så här…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "UK urges: Get the flu vaccine",
+        "summary": "There is heavy pressure on British hospitals, and it is unusual for occupancy to be this high at this time of year…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:15:50+01:00"
+      }
+    },
+    {
+      "id": "1cbc7b2ca968",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351209",
+      "guid": "rss:sr.se/article/9351209",
+      "published_at": "2026-11-27T11:01:00+01:00",
+      "fetched_at": "2026-11-27T11:15:43+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Nvidia stoppar leveranser till delar av Sydostasien",
+        "summary": "Nya amerikanska restriktioner på avancerade AI-chip ska försvåra för Kina att komma åt den datorkraft som behövs för bland annat träning av nya AI-modeller.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Nvidia halts deliveries to parts of Southeast Asia",
+        "summary": "New US restrictions on advanced AI chips are intended to make it harder for China to access the computing power needed for, among other things, training new AI models."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T11:15:50+01:00"
+      }
+    },
     {
       "id": "4f007155d50a",
       "schema_version": 1,
@@ -5259,86 +5341,6 @@
       "en": {
         "title": "\"Women and Child\": Harrowing drama about a widow in Iran",
         "summary": "Saeed Roustayi's critique of society and gender is relentless for anyone who wants to see it."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T06:01:20+01:00"
-      }
-    },
-    {
-      "id": "0d9b340ff18f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/kravet-granska-lunds-radhus-ab-efter-lkp-skandalen",
-      "guid": "0f60b5e4-660e-484d-94c1-5e2ba724ef3c",
-      "published_at": "2026-11-27T06:00:00+01:00",
-      "fetched_at": "2026-11-27T06:01:10+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Kravet: Granska Lunds Rådhus AB efter LKP-skandalen",
-        "summary": "Oppositionsrådet Christoffer Karlsson (L) kräver en extern granskning av styrelsen i Lunds kommuns moderbolag Lunds Rådhus AB, där han själv sitter. Frågan är hur LKP-härvan kunde växa sig stor utan varningar om vad som pågick.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Demand: Audit Lunds Rådhus AB after the LKP scandal",
-        "summary": "Opposition commissioner Christoffer Karlsson (L) demands an external audit of the board of Lund municipality's parent company Lunds Rådhus AB, where he himself sits. The question is how the LKP affair could grow so big without warnings about what was going on."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T06:01:20+01:00"
-      }
-    },
-    {
-      "id": "1c4b410fd641",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/oMpj3m/hardkokta-laxor-fran-hostens-hardsmalta",
-      "guid": "https://www.svd.se/a/oMpj3m/hardkokta-laxor-fran-hostens-hardsmalta?utm_medium=rss",
-      "published_at": "2026-11-27T06:00:00+01:00",
-      "fetched_at": "2026-11-27T06:04:06+01:00",
-      "category": "other",
-      "image_url": "https://akamai.vgc.no/v2/images/bd83f6be-c610-302a-b162-3398d5edb09e?format=auto&s=e8ad70e170a69a041145ef8b25631e2a1dd5287f&w=1000",
-      "sv": {
-        "title": "Hårdkokta läxor av härdsmältan",
-        "summary": "Några råd till min k. regering, i fall jag hade någon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hard-boiled lessons from the meltdown",
-        "summary": "Some advice to my h.m. government, in case I had any."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T06:04:12+01:00"
-      }
-    },
-    {
-      "id": "54d8ddaebafc",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/low-expectations-fint-men-lite-trakigt-drama-om-deppig-norska",
-      "guid": "452baab7-e363-4e96-9c20-99a5c2f6bf3b",
-      "published_at": "2026-11-27T06:00:00+01:00",
-      "fetched_at": "2026-11-27T06:01:10+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/4d3cf8c2-3823-483a-80a5-021c3f6c7814.jpeg?width=600",
-      "sv": {
-        "title": "”Low expectations”: Fint men lite tråkigt drama om deppig norska",
-        "summary": "Filmen når inte upp till förebilderna Dag Johan Haugerud och Joachim Trier, skriver Malin Krutmeijer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Low Expectations\": Nice but somewhat dull drama about a depressed Norwegian woman",
-        "summary": "The film does not reach the level of its role models Dag Johan Haugerud and Joachim Trier, writes Malin Krutmeijer."
       },
       "translation": {
         "status": "done",
