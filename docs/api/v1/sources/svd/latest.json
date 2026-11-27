@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T18:16:01+01:00",
+  "generated_at": "2026-11-27T18:27:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fe237d7ccbfc",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/R19b8W/den-dramatiska-veckan-da-allt-vande",
+      "guid": "https://www.svd.se/a/R19b8W/den-dramatiska-veckan-da-allt-vande?utm_medium=rss",
+      "published_at": "2026-11-27T18:23:48+01:00",
+      "fetched_at": "2026-11-27T18:26:54+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/ee33f69f-41a7-3aad-923c-7b751ef8abcd?format=auto&s=0bb3fc3fd1151795826110e76705901cbbfd263c&w=1000",
+      "sv": {
+        "title": "Den dramatiska veckan då allt vände",
+        "summary": "Så kom den dag då allt gick i kras, med regeringsunderlaget som var en moras.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The dramatic week when everything turned",
+        "summary": "That was the day everything fell apart, with the government's support base in a mess."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T18:26:58+01:00"
+      }
+    },
     {
       "id": "eb94bf08f951",
       "schema_version": 1,
@@ -5246,33 +5273,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T15:31:10+01:00"
-      }
-    },
-    {
-      "id": "eea8c96dd86b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Vxbv44/svd-s-podd-politiken-de-rodgrona-kan-inte-ens-enas-om-ett-namn",
-      "guid": "https://www.svd.se/a/Vxbv44/svd-s-podd-politiken-de-rodgrona-kan-inte-ens-enas-om-ett-namn?utm_medium=rss",
-      "published_at": "2026-11-24T14:59:39+01:00",
-      "fetched_at": "2026-11-24T15:01:14+01:00",
-      "category": "other",
-      "image_url": "https://akamai.vgc.no/v2/images/d8cd566d-fc33-3535-8a14-35639c9c6df4?format=auto&s=f171466daf090ac8c434ef47933a380521676193&w=1000",
-      "sv": {
-        "title": "En havererad kommunikation",
-        "summary": "PODD |",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "A broken-down communication",
-        "summary": "PODD |"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T15:01:21+01:00"
       }
     }
   ]
