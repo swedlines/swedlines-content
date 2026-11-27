@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-27T17:10:56+01:00",
+  "generated_at": "2026-11-27T17:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b5aa020c3208",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/fem-mil-langa-koer-till-moskva",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/fem-mil-langa-koer-till-moskva",
+      "published_at": "2026-11-27T17:12:38+01:00",
+      "fetched_at": "2026-11-27T17:15:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fem mil kö till Moskva",
+        "summary": "Snökaos i Ryssland",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Five-mile queue to Moscow",
+        "summary": "Snow chaos in Russia"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:15:50+01:00"
+      }
+    },
+    {
+      "id": "ee6db18f66a3",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351782",
+      "guid": "rss:sr.se/article/9351782",
+      "published_at": "2026-11-27T17:11:00+01:00",
+      "fetched_at": "2026-11-27T17:15:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Burnham: Migrationen till Storbritannien minskar",
+        "summary": "Nya siffror i Storbritannien visar att netto-invandringen till Storbritannien minskat kraftigt och nu är den lägsta på flera decennier. Färre personer invandrar, färre söker asyl och vi börjar få kontroll på migrations-systemet, säger den brittiske premiärministern Andy Burnham Invandringen till…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Burnham: Migration to the UK is falling",
+        "summary": "New figures in the UK show that net migration to the UK has fallen sharply and is now the lowest in several decades. Fewer people are immigrating, fewer are seeking asylum, and we are starting to get control of the migration system, says British prime minister Andy Burnham. Invandringen till…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:15:50+01:00"
+      }
+    },
     {
       "id": "c901cae26e20",
       "schema_version": 1,
@@ -5378,59 +5430,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T12:31:05+01:00"
-      }
-    },
-    {
-      "id": "e1bbe597eb52",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/dJOgPw/kvinna-far-sankt-straff-for-misslyckad-mordplan",
-      "guid": "https://www.aftonbladet.se/nyheter/a/dJOgPw/kvinna-far-sankt-straff-for-misslyckad-mordplan?utm_medium=rss",
-      "published_at": "2026-11-27T12:15:55+01:00",
-      "fetched_at": "2026-11-27T12:30:58+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/135c4f08-a08d-3bb1-bc8d-edafb020911e?format=auto&s=8f840bf299957c86a1abbe23b3188785836bd9c9&w=1000",
-      "sv": {
-        "title": "Kvinna får sänkt straff för misslyckad mordplan",
-        "summary": "En kvinna i 20-årsåldern, som dömdes för mordförsök i Helsingborg i tingsrätten, får straffet nästan…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Woman's sentence reduced for failed murder plot",
-        "summary": "A woman in her 20s, who was convicted of attempted murder in Helsingborg by the district court, has her sentence almost…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T12:31:05+01:00"
-      }
-    },
-    {
-      "id": "a0881b518689",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/larmet-kollektiva-bestraffningar-for-varnpliktiga-pa-i-21",
-      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/larmet-kollektiva-bestraffningar-for-varnpliktiga-pa-i-21",
-      "published_at": "2026-11-27T12:12:49+01:00",
-      "fetched_at": "2026-11-27T12:15:44+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Larmet: Kollektiva bestraffningar för värnpliktiga på I 21",
-        "summary": "Förnedrande behandling, gammal mat och kollektiva bestraffningar. Det har värnpliktiga vid Västernorrlands regemente och Jämtlands Fältjägarkår utsatts för. Det visar en rapport från Pliktrådet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Alarm: Collective punishments for conscripts at I 21",
-        "summary": "Degrading treatment, stale food and collective punishments. Conscripts at the Västernorrland Regiment and the Jämtland Ranger Corps have been subjected to this. This is according to a report from Pliktrådet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T12:15:54+01:00"
       }
     }
   ]
