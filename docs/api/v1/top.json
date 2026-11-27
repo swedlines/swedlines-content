@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:45:57+01:00",
+  "generated_at": "2026-11-27T23:01:17+01:00",
   "count": 30,
   "stories": [
     {
@@ -2157,6 +2157,68 @@
       ]
     },
     {
+      "id": "81121008329e",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-27T13:31:27+01:00",
+      "last_published_at": "2026-11-27T22:56:56+01:00",
+      "lead": {
+        "id": "81121008329e",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/ez8lrl/kapsejsad-tanker-utanfor-ibiza-ska-bogseras",
+        "guid": "https://www.aftonbladet.se/nyheter/a/ez8lrl/kapsejsad-tanker-utanfor-ibiza-ska-bogseras?utm_medium=rss",
+        "published_at": "2026-11-27T13:31:27+01:00",
+        "fetched_at": "2026-11-27T13:45:45+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Kapsejsad tanker utanför Ibiza ska bogseras",
+          "summary": "Tankern med 7 000 ton diesel som förlist utanför den spanska Medelhavsön Ibiza har skapat oro för…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Sunken tanker off Ibiza to be towed",
+          "summary": "The tanker carrying 7,000 tonnes of diesel that sank off the Spanish Mediterranean island of Ibiza has caused concern for…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T13:45:50+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "81c89954eabc",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/fartyg-med-7-000-ton--diesel-bogseras-fran-ibiza",
+          "published_at": "2026-11-27T22:56:56+01:00",
+          "sv": {
+            "title": "Fartyg med 7 000 ton diesel bogseras från Ibiza"
+          },
+          "en": {
+            "title": "Ship carrying 7,000 tonnes of diesel to be towed from Ibiza"
+          }
+        },
+        {
+          "id": "81121008329e",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/ez8lrl/kapsejsad-tanker-utanfor-ibiza-ska-bogseras",
+          "published_at": "2026-11-27T13:31:27+01:00",
+          "sv": {
+            "title": "Kapsejsad tanker utanför Ibiza ska bogseras"
+          },
+          "en": {
+            "title": "Sunken tanker off Ibiza to be towed"
+          }
+        }
+      ]
+    },
+    {
       "id": "ba5857fb1d2d",
       "source_count": 2,
       "sources": [
@@ -2667,68 +2729,6 @@
           },
           "en": {
             "title": "M, KD, L and C agree – this is how the budget will be handled"
-          }
-        }
-      ]
-    },
-    {
-      "id": "eafd04fff5d6",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "di"
-      ],
-      "first_published_at": "2026-11-27T19:32:23+01:00",
-      "last_published_at": "2026-11-27T19:34:20+01:00",
-      "lead": {
-        "id": "eafd04fff5d6",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/Vxql23/usa-attackerat-fartyg-i-omanbukten",
-        "guid": "https://www.aftonbladet.se/nyheter/a/Vxql23/usa-attackerat-fartyg-i-omanbukten?utm_medium=rss",
-        "published_at": "2026-11-27T19:32:23+01:00",
-        "fetched_at": "2026-11-27T19:45:44+01:00",
-        "category": "world",
-        "sv": {
-          "title": "USA: Attackerat fartyg i Omanbukten",
-          "summary": "USA:s militär har angripit och oskadliggjort ett fraktfartyg i Omanbukten, uppger militärkommandot…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "USA: Attacked ship in the Gulf of Oman",
-          "summary": "The US military has attacked and disabled a cargo ship in the Gulf of Oman, according to the military command Centcom on X."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T19:45:49+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "774140abfb0a",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/usa-attackerat-fartyg-i-omanbukten",
-          "published_at": "2026-11-27T19:34:20+01:00",
-          "sv": {
-            "title": "USA: Attackerat fartyg i Omanbukten"
-          },
-          "en": {
-            "title": "USA: Attacked ship in the Gulf of Oman"
-          }
-        },
-        {
-          "id": "eafd04fff5d6",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Vxql23/usa-attackerat-fartyg-i-omanbukten",
-          "published_at": "2026-11-27T19:32:23+01:00",
-          "sv": {
-            "title": "USA: Attackerat fartyg i Omanbukten"
-          },
-          "en": {
-            "title": "USA: Attacked ship in the Gulf of Oman"
           }
         }
       ]
