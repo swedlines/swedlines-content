@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-27T10:45:58+01:00",
-  "count": 262,
+  "generated_at": "2026-11-27T10:51:21+01:00",
+  "count": 266,
   "items": [
+    {
+      "id": "2784bca9453e",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351389",
+      "guid": "rss:sr.se/article/9351389",
+      "published_at": "2026-11-27T10:44:00+01:00",
+      "fetched_at": "2026-11-27T10:51:10+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Martin Ådahl (C) om partiets besked: ”Reserverat mig mot beslutet”",
+        "summary": "Centerpartiets ekonomisk-politiske talesperson säger att han reserverat sig mot beslutet att Centerpartiet ska ingå i en regering som är beroende av Sverigedemokraterna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Martin Ådahl (C) on party's decision: \"I registered a reservation against the decision\"",
+        "summary": "The Centre Party's economic policy spokesperson says he registered a reservation against the decision for the Centre Party to join a government that depends on the Sweden Democrats."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:51:17+01:00"
+      }
+    },
+    {
+      "id": "cd725a438e2c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/officer-misstanks-for-brott-mot-sveriges-sakerhet",
+      "guid": "https://www.expressen.se/nyheter/sverige/officer-misstanks-for-brott-mot-sveriges-sakerhet/",
+      "published_at": "2026-11-27T10:43:34+01:00",
+      "fetched_at": "2026-11-27T10:51:12+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Officer misstänks för brott mot Sveriges säkerhet",
+        "summary": "En officer vid Försvarsmakten misstänks för brott mot Sveriges säkerhet. Personen tillhör Södra militärregionen. – Jag kan bekräfta att det finns ett sådant ärende, säger Jan Bohman, major och kommunikationschef.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Officer suspected of crimes against Sweden's security",
+        "summary": "An officer at the Swedish Armed Forces is suspected of crimes against Sweden's security. The person belongs to the Southern Military Region. \"I can confirm that there is such a case,\" says Jan Bohman, major and communications chief."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:51:17+01:00"
+      }
+    },
     {
       "id": "3107ebe0a91d",
       "schema_version": 1,
@@ -29,6 +81,33 @@
       }
     },
     {
+      "id": "4c6b0a2778b9",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/bil/final-i-arets-bil-sju-elbilar-i-hardtest",
+      "guid": "92c9f3eb-b442-4234-a3f4-7a614b591f85",
+      "published_at": "2026-11-27T10:38:26+01:00",
+      "fetched_at": "2026-11-27T10:51:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/46867180-c9d7-467d-a6be-1583fd2d8c97.jpeg?width=600",
+      "sv": {
+        "title": "Final i Årets bil – sju elbilar i hårdtest",
+        "summary": "BALOCCO. För första gången är det bara elbilar i final i Årets bil. Sju modeller tävlar om utmärkelsen och de hårdtestas just nu i Italien inför den slutliga omröstningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Final of Årets bil – seven electric cars in hard testing",
+        "summary": "BALOCCO. For the first time, only electric cars are in the final of Årets bil. Seven models are competing for the award and are currently being hard-tested in Italy ahead of the final vote."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:51:17+01:00"
+      }
+    },
+    {
       "id": "62f01c8f6525",
       "schema_version": 1,
       "source": "dn",
@@ -53,6 +132,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T10:45:52+01:00"
+      }
+    },
+    {
+      "id": "a3ddc727e388",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/superfaktorn-pekar-pa-nytt-succear",
+      "guid": "f6dce1dc-9e6f-45f6-9d8b-da460257a1b2",
+      "published_at": "2026-11-27T10:35:52+01:00",
+      "fetched_at": "2026-11-27T10:51:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/9a2273e6-8e1b-44b7-a74c-b52d8baa5dc9.jpeg?width=600",
+      "sv": {
+        "title": "Superfaktorn pekar på nytt succéår",
+        "summary": "Analytikerna räknar med tre bra vinstår framåt. Men det gör de nästan alltid. Samtidigt finns det börslagar som pekar på att 2027 blir ett nytt kanonår för aktier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Superfaktorn points to another boom year",
+        "summary": "Analysts expect three good profit years ahead. But they almost always do. At the same time, there are stock market signs pointing to 2027 becoming another banner year for shares."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:51:17+01:00"
       }
     },
     {

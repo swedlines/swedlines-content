@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T10:45:58+01:00",
+  "generated_at": "2026-11-27T10:51:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2784bca9453e",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351389",
+      "guid": "rss:sr.se/article/9351389",
+      "published_at": "2026-11-27T10:44:00+01:00",
+      "fetched_at": "2026-11-27T10:51:10+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Martin Ådahl (C) om partiets besked: ”Reserverat mig mot beslutet”",
+        "summary": "Centerpartiets ekonomisk-politiske talesperson säger att han reserverat sig mot beslutet att Centerpartiet ska ingå i en regering som är beroende av Sverigedemokraterna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Martin Ådahl (C) on party's decision: \"I registered a reservation against the decision\"",
+        "summary": "The Centre Party's economic policy spokesperson says he registered a reservation against the decision for the Centre Party to join a government that depends on the Sweden Democrats."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:51:17+01:00"
+      }
+    },
     {
       "id": "3107ebe0a91d",
       "schema_version": 1,
@@ -5361,33 +5387,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T16:01:29+01:00"
-      }
-    },
-    {
-      "id": "cc30ecc1caea",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/6PjbwO/kristersson-och-thand-ringqvist-i-nytt-mote-forhandlingar-i-alliansen",
-      "guid": "https://www.aftonbladet.se/nyheter/a/6PjbwO/kristersson-och-thand-ringqvist-i-nytt-mote-forhandlingar-i-alliansen?utm_medium=rss",
-      "published_at": "2026-11-25T15:54:49+01:00",
-      "fetched_at": "2026-11-25T19:34:43+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/b2ecab12-7457-3204-924e-09c5b03dd462?format=auto&s=f29d394dcc7c16f7dec7a10a1f85d28171e9a3f4&w=1000",
-      "sv": {
-        "title": "Kristersson och Thand Ringqvist i nytt möte – förhandlingar i Alliansen",
-        "summary": "”Den gemensamma viljan”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kristersson and Thand Ringqvist in new meeting – negotiations in the Alliance",
-        "summary": "“The common will”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T19:34:52+01:00"
       }
     }
   ]
