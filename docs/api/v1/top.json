@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T02:01:20+01:00",
-  "count": 27,
+  "generated_at": "2026-11-27T02:14:16+01:00",
+  "count": 26,
   "stories": [
     {
       "id": "ed574169a1d8",
@@ -677,6 +677,95 @@
       ]
     },
     {
+      "id": "6b6dd770954b",
+      "source_count": 4,
+      "sources": [
+        "svd",
+        "aftonbladet",
+        "sydsvenskan",
+        "sr"
+      ],
+      "first_published_at": "2026-11-27T00:51:54+01:00",
+      "last_published_at": "2026-11-27T02:12:00+01:00",
+      "lead": {
+        "id": "6b6dd770954b",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/qOLzAm/fiasko-for-budgetmote-sverige-vagrade-vara-med",
+        "guid": "https://www.svd.se/a/qOLzAm/fiasko-for-budgetmote-sverige-vagrade-vara-med?utm_medium=rss",
+        "published_at": "2026-11-27T00:51:54+01:00",
+        "fetched_at": "2026-11-27T00:58:03+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/225118d4-a7d1-33bc-b2ad-56d25e99648f?format=auto&s=aba5cfcb8422af997309c20f58609fb38c154a3f&w=1000",
+        "sv": {
+          "title": "Fiasko för budgetmöte – Sverige vägrade vara med",
+          "summary": "Protester och oenighet präglade EU-ländernas försök att enas om nästa långtidsbudget och stöd till…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Budget Meeting Fiasco – Sweden Refused to Take Part",
+          "summary": "Protests and disagreement marked EU countries' attempts to agree on the next long-term budget and support for Ukraine…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T00:58:08+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "ed6fd5443ea5",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351205",
+          "published_at": "2026-11-27T02:12:00+01:00",
+          "sv": {
+            "title": "Sverige vägrade vara med på budgetmötet i Bryssel"
+          },
+          "en": {
+            "title": "Sweden refused to take part in the budget meeting in Brussels"
+          }
+        },
+        {
+          "id": "cc27c4166853",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/fiasko-for-budgetmote-sverige-vagrade-vara-med",
+          "published_at": "2026-11-27T00:52:52+01:00",
+          "sv": {
+            "title": "Fiasko för budgetmöte – Sverige vägrade vara med"
+          },
+          "en": {
+            "title": "Budget Meeting Fiasco – Sweden Refused to Take Part"
+          }
+        },
+        {
+          "id": "a9352f5c92d4",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/aGwXP4/fiasko-for-budgetmote-sverige-vagrade-vara-med",
+          "published_at": "2026-11-27T00:51:54+01:00",
+          "sv": {
+            "title": "Fiasko för budgetmöte – Sverige vägrade vara med"
+          },
+          "en": {
+            "title": "Budget Meeting Fiasco – Sweden Refused to Take Part"
+          }
+        },
+        {
+          "id": "6b6dd770954b",
+          "source": "svd",
+          "url": "https://www.svd.se/a/qOLzAm/fiasko-for-budgetmote-sverige-vagrade-vara-med",
+          "published_at": "2026-11-27T00:51:54+01:00",
+          "sv": {
+            "title": "Fiasko för budgetmöte – Sverige vägrade vara med"
+          },
+          "en": {
+            "title": "Budget Meeting Fiasco – Sweden Refused to Take Part"
+          }
+        }
+      ]
+    },
+    {
       "id": "a7132c44a83b",
       "source_count": 4,
       "sources": [
@@ -1177,82 +1266,6 @@
       ]
     },
     {
-      "id": "6b6dd770954b",
-      "source_count": 3,
-      "sources": [
-        "svd",
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-27T00:51:54+01:00",
-      "last_published_at": "2026-11-27T00:52:52+01:00",
-      "lead": {
-        "id": "6b6dd770954b",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/qOLzAm/fiasko-for-budgetmote-sverige-vagrade-vara-med",
-        "guid": "https://www.svd.se/a/qOLzAm/fiasko-for-budgetmote-sverige-vagrade-vara-med?utm_medium=rss",
-        "published_at": "2026-11-27T00:51:54+01:00",
-        "fetched_at": "2026-11-27T00:58:03+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/225118d4-a7d1-33bc-b2ad-56d25e99648f?format=auto&s=aba5cfcb8422af997309c20f58609fb38c154a3f&w=1000",
-        "sv": {
-          "title": "Fiasko för budgetmöte – Sverige vägrade vara med",
-          "summary": "Protester och oenighet präglade EU-ländernas försök att enas om nästa långtidsbudget och stöd till…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Budget Meeting Fiasco – Sweden Refused to Take Part",
-          "summary": "Protests and disagreement marked EU countries' attempts to agree on the next long-term budget and support for Ukraine…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T00:58:08+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "cc27c4166853",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/fiasko-for-budgetmote-sverige-vagrade-vara-med",
-          "published_at": "2026-11-27T00:52:52+01:00",
-          "sv": {
-            "title": "Fiasko för budgetmöte – Sverige vägrade vara med"
-          },
-          "en": {
-            "title": "Budget Meeting Fiasco – Sweden Refused to Take Part"
-          }
-        },
-        {
-          "id": "a9352f5c92d4",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/aGwXP4/fiasko-for-budgetmote-sverige-vagrade-vara-med",
-          "published_at": "2026-11-27T00:51:54+01:00",
-          "sv": {
-            "title": "Fiasko för budgetmöte – Sverige vägrade vara med"
-          },
-          "en": {
-            "title": "Budget Meeting Fiasco – Sweden Refused to Take Part"
-          }
-        },
-        {
-          "id": "6b6dd770954b",
-          "source": "svd",
-          "url": "https://www.svd.se/a/qOLzAm/fiasko-for-budgetmote-sverige-vagrade-vara-med",
-          "published_at": "2026-11-27T00:51:54+01:00",
-          "sv": {
-            "title": "Fiasko för budgetmöte – Sverige vägrade vara med"
-          },
-          "en": {
-            "title": "Budget Meeting Fiasco – Sweden Refused to Take Part"
-          }
-        }
-      ]
-    },
-    {
       "id": "26da53ca3cf0",
       "source_count": 3,
       "sources": [
@@ -1448,82 +1461,6 @@
           },
           "en": {
             "title": "Major explosion in Bangkok – residents evacuated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "acad5f58e2e0",
-      "source_count": 3,
-      "sources": [
-        "aftonbladet",
-        "svt",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-26T12:12:34+01:00",
-      "last_published_at": "2026-11-26T14:11:20+01:00",
-      "lead": {
-        "id": "acad5f58e2e0",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/BrRome/krav-i-eu-slapp-dawit-isaak",
-        "guid": "https://www.aftonbladet.se/nyheter/a/BrRome/krav-i-eu-slapp-dawit-isaak?utm_medium=rss",
-        "published_at": "2026-11-26T12:12:34+01:00",
-        "fetched_at": "2026-11-26T12:15:43+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/079a9b62-ce02-3edb-aef2-5d96d479cd52?format=auto&s=aa5a2e77cc45862b5721d248e69ade89dc49e6f5&w=1000",
-        "sv": {
-          "title": "Krav i EU: Släpp Dawit Isaak",
-          "summary": "EU-parlamentet kräver återigen att den i Eritrea fängslade journalisten Dawit Isaak ska släppas.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "EU calls for release of Dawit Isaak",
-          "summary": "The European Parliament once again demands that journalist Dawit Isaak, imprisoned in Eritrea, be released."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T12:15:51+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "510d127c3cdf",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/krav-i-eu-slapp-dawit-isaak",
-          "published_at": "2026-11-26T14:11:20+01:00",
-          "sv": {
-            "title": "Krav i EU: Släpp Dawit Isaak"
-          },
-          "en": {
-            "title": "Demand in EU: Release Dawit Isaak"
-          }
-        },
-        {
-          "id": "c985eeb95123",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/vast/krav-i-eu-slapp-dawit-isaak",
-          "published_at": "2026-11-26T13:43:17+01:00",
-          "sv": {
-            "title": "Krav i EU: Släpp Dawit Isaak"
-          },
-          "en": {
-            "title": "EU demands: Release Dawit Isaak"
-          }
-        },
-        {
-          "id": "acad5f58e2e0",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/BrRome/krav-i-eu-slapp-dawit-isaak",
-          "published_at": "2026-11-26T12:12:34+01:00",
-          "sv": {
-            "title": "Krav i EU: Släpp Dawit Isaak"
-          },
-          "en": {
-            "title": "EU calls for release of Dawit Isaak"
           }
         }
       ]
