@@ -1,7 +1,70 @@
 {
-  "generated_at": "2026-11-27T05:46:08+01:00",
+  "generated_at": "2026-11-27T06:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "81f0ddf18453",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/handeln-i-asien-mot-soligt-veckoslut",
+      "guid": "848415b9-b79b-4258-88d9-50c1bd0bf8b0",
+      "published_at": "2026-11-27T05:49:10+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/7ac00296-07c0-4f5e-a3cc-03722bcdb330.jpg?width=600",
+      "sv": {
+        "title": "Handeln i Asien mot soligt veckoslut",
+        "summary": "Flera asiatiska börser ser ut att avsluta veckohandeln på plus, efter några minst sagt turbulenta dagar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Asian trading towards a sunny weekend",
+        "summary": "Several Asian stock exchanges look set to end the week's trading in the black, after some at the very least turbulent days."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "3caad742a139",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/har-rivs-anrika-kullagerfabriken-skf.8a39c3b7-2a73-5276-8fed-5ddf2d21479a",
+      "guid": "8a39c3b7-2a73-5276-8fed-5ddf2d21479a",
+      "published_at": "2026-11-27T05:45:56+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: SKF",
+        "Tagg: Göteborg",
+        "Tagg: Gamlestaden",
+        "Tagg: Säveån",
+        "Tagg: Bygg & fastighet",
+        "Tagg: Samhällsredaktionen"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/95e44e9f-95e9-37f2-ba51-dfdb2cb537c0",
+      "sv": {
+        "title": "Här rivs anrika fabriken – se när SKF raseras",
+        "summary": "SKF-fabriken rivs för att ge plats till ett nytt bostadsområde i Gamlestaden. Marken måste saneras från föroreningar efter ett sekel av kullagertillverkning i industriområdet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here the historic factory is demolished – watch as SKF is razed",
+        "summary": "The SKF factory is being demolished to make way for a new residential area in Gamlestaden. The land must be remediated from contamination after a century of ball bearing manufacturing in the industrial area."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
     {
       "id": "1d4d31fd9058",
       "schema_version": 1,
@@ -5248,58 +5311,6 @@
       "en": {
         "title": "Analysts: This is how much the SKF share falls today",
         "summary": "On Thursday, the bearings company SKF trades ex-rights to receive shares in its vehicle business SKF Vertevo, which is being spun off and is planned to be listed on the Stockholm Stock Exchange on 1 December."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T07:46:03+01:00"
-      }
-    },
-    {
-      "id": "9a0d71fb52bd",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/skanska-tar-ny-datacenterorder-i-usa",
-      "guid": "13ded0c5-4ae0-4f78-bda5-f0af07b3acb9",
-      "published_at": "2026-11-26T07:35:48+01:00",
-      "fetched_at": "2026-11-26T07:45:50+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Skanska tar ny datacenterorder i USA",
-        "summary": "Skanska har tagit ett tilläggskontrakt värt 2,8 miljarder kronor för att bygga ett nytt datacenter i USA.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Skanska wins new data centre order in USA",
-        "summary": "Skanska has taken an additional contract worth SEK 2.8 billion to build a new data centre in the USA."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T07:46:03+01:00"
-      }
-    },
-    {
-      "id": "2d6d20039bdf",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/ekonomi/sa-paverkas-din-pension-av-usa-borsen",
-      "guid": "https://www.svt.se/nyheter/ekonomi/sa-paverkas-din-pension-av-usa-borsen",
-      "published_at": "2026-11-26T07:29:12+01:00",
-      "fetched_at": "2026-11-26T07:45:45+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Så påverkas din pension av USA-börsen",
-        "summary": "De stora svängningarna på USA-börsen påverkar pensionssparande även i Sverige. – Nu är en bra tid att se över sitt innehav, säger ekonomijournalisten Klara Matsdotter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is how your pension is affected by the US stock market",
-        "summary": "The large swings on the US stock market also affect pension savings in Sweden. – Now is a good time to review your holdings, says economics journalist Klara Matsdotter."
       },
       "translation": {
         "status": "done",

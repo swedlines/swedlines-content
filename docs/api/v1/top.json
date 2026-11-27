@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T05:46:08+01:00",
-  "count": 27,
+  "generated_at": "2026-11-27T06:01:24+01:00",
+  "count": 29,
   "stories": [
     {
       "id": "ed574169a1d8",
@@ -1613,6 +1613,132 @@
           },
           "en": {
             "title": "Major explosion in Bangkok – residents evacuated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "34b29e1ab881",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-27T05:25:20+01:00",
+      "last_published_at": "2026-11-27T06:00:21+01:00",
+      "lead": {
+        "id": "34b29e1ab881",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/varnar-135-000-pensionarer-kan-missa-stod",
+        "guid": "5c7e5953-865c-45c6-83e3-811c653afb44",
+        "published_at": "2026-11-27T05:25:20+01:00",
+        "fetched_at": "2026-11-27T05:30:56+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/4b14951c-4ce8-478b-ac0c-e81a1ea59510.jpg?width=600",
+        "sv": {
+          "title": "Varnar: 135 000 pensionärer kan missa stöd",
+          "summary": "Omkring 135 000 pensionärer i Sverige kan ha rätt till bostadstillägg utan att få det, enligt Hyresgästföreningen. ”Informationen måste bli tydligare och det måste bli enklare att söka”, säger föreningens ordförande Marie Linder i ett pressmeddelande.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Warning: 135,000 pensioners may miss out on support",
+          "summary": "Around 135,000 pensioners in Sweden may be entitled to housing supplement without receiving it, according to the Tenants' Association. \"The information must become clearer and it must become easier to apply,\" says the association's chair Marie Linder in a press release."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T05:31:03+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "b1ade185d598",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/varnar-135-000-pensionarer-kan-missa-stod",
+          "published_at": "2026-11-27T06:00:21+01:00",
+          "sv": {
+            "title": "Varnar: 135 000 pensionärer kan missa stöd"
+          },
+          "en": {
+            "title": "Warning: 135,000 pensioners may miss out on support"
+          }
+        },
+        {
+          "id": "34b29e1ab881",
+          "source": "di",
+          "url": "https://www.di.se/live/varnar-135-000-pensionarer-kan-missa-stod",
+          "published_at": "2026-11-27T05:25:20+01:00",
+          "sv": {
+            "title": "Varnar: 135 000 pensionärer kan missa stöd"
+          },
+          "en": {
+            "title": "Warning: 135,000 pensioners may miss out on support"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a2c781c7714e",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-27T05:45:11+01:00",
+      "last_published_at": "2026-11-27T05:45:12+01:00",
+      "lead": {
+        "id": "a2c781c7714e",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/aGwX4E/habibi-trump-nappar-pa-guldkort-vill-prata-vard",
+        "guid": "https://www.aftonbladet.se/nyheter/a/aGwX4E/habibi-trump-nappar-pa-guldkort-vill-prata-vard?utm_medium=rss",
+        "published_at": "2026-11-27T05:45:11+01:00",
+        "fetched_at": "2026-11-27T05:45:43+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/b46c4e84-19bd-3e5a-af69-8fd804abdfb1?format=auto&s=dbcff74ac7aff61d6ebc6ce6e774109dea81c8d9&w=1000",
+        "sv": {
+          "title": "”Habibi Trump” nappar på guldkort – vill prata vård",
+          "summary": "Sjukvårdsförsäkring för alla – förpackad som ”Trumpcare” med ett gyllene kort?",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "“Habibi Trump” bites on gold card – wants to talk healthcare",
+          "summary": "Health insurance for all – packaged as “Trumpcare” with a golden card?"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T05:46:02+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "d1881def152f",
+          "source": "svd",
+          "url": "https://www.svd.se/a/qOLzkg/habibi-trump-nappar-pa-guldkort-vill-prata-vard",
+          "published_at": "2026-11-27T05:45:12+01:00",
+          "sv": {
+            "title": "”Habibi Trump” nappar på guldkort – vill prata vård"
+          },
+          "en": {
+            "title": "\"Habibi Trump\" bites on golden card – wants to talk healthcare"
+          }
+        },
+        {
+          "id": "a2c781c7714e",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/aGwX4E/habibi-trump-nappar-pa-guldkort-vill-prata-vard",
+          "published_at": "2026-11-27T05:45:11+01:00",
+          "sv": {
+            "title": "”Habibi Trump” nappar på guldkort – vill prata vård"
+          },
+          "en": {
+            "title": "“Habibi Trump” bites on gold card – wants to talk healthcare"
           }
         }
       ]

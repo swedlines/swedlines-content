@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T05:46:08+01:00",
+  "generated_at": "2026-11-27T06:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f8290d1bcf47",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/det-tog-117-ar-nu-finns-namn-och-nytt-digitalt",
+      "guid": "https://www.dn.se/kultur/det-tog-117-ar-nu-finns-namn-och-nytt-digitalt/",
+      "published_at": "2026-11-27T06:00:00+01:00",
+      "fetched_at": "2026-11-27T06:01:08+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/a987c5d3-3c21-4590-8ca1-79e35ea411ab.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Det tog 117 år – nu finns Namn och Nytt digitalt",
+        "summary": "Sidan som har beskrivits som DN:s själ och hjärta – Namn och Nytt – tar äntligen klivet in i framtiden. Nu går den att läsa som en vanlig artikel på DN.se och i appen. Varje dag. Mycket nöje!",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "It took 117 years – now Namn och Nytt is available digitally",
+        "summary": "The page described as the soul and heart of DN, Namn och Nytt, is finally taking the step into the future. It can now be read as a regular article on DN.se and in the app. Every day. Enjoy!"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
     {
       "id": "44be81a49aa7",
       "schema_version": 1,
@@ -5367,33 +5394,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T20:01:24+01:00"
-      }
-    },
-    {
-      "id": "c74d0881376d",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ledare/max-hjelm-hogern-borde-slappa-sin-snuttefilt-och-lara-sig-av-vansterpartiet",
-      "guid": "https://www.dn.se/ledare/max-hjelm-hogern-borde-slappa-sin-snuttefilt-och-lara-sig-av-vansterpartiet/",
-      "published_at": "2026-11-23T19:28:27+01:00",
-      "fetched_at": "2026-11-23T19:30:14+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/e0bb2530-7a83-4ad2-86f2-fc44a68613ad.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Max Hjelm: Högern borde släppa sin snuttefilt och lära sig av Vänsterpartiet",
-        "summary": "Varför gick det så bra för Vänsterpartiet och Socialdemokraterna i utsatta områden? Järvaveckans nya rapport ger en indikation.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Max Hjelm: The Right should drop its security blanket and learn from the Left Party",
-        "summary": "Why did the Left Party and the Social Democrats do so well in vulnerable areas? Järva Week's new report gives an indication."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T19:30:27+01:00"
       }
     }
   ]

@@ -1,7 +1,698 @@
 {
-  "generated_at": "2026-11-27T05:46:08+01:00",
-  "count": 51,
+  "generated_at": "2026-11-27T06:01:24+01:00",
+  "count": 75,
   "items": [
+    {
+      "id": "b1ade185d598",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/varnar-135-000-pensionarer-kan-missa-stod",
+      "guid": "243e6241-72a7-4bd7-b9ec-2087a571f419",
+      "published_at": "2026-11-27T06:00:21+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/31d33c43-0842-444b-a018-23f8c7040c43.jpg?width=600",
+      "sv": {
+        "title": "Varnar: 135 000 pensionärer kan missa stöd",
+        "summary": "Omkring 135 000 pensionärer i Sverige kan ha rätt till bostadstillägg utan att få det, enligt Hyresgästföreningen. ”Informationen måste bli tydligare och det måste bli enklare att söka”, säger föreningens ordförande Marie Linder i ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Warning: 135,000 pensioners may miss out on support",
+        "summary": "Around 135,000 pensioners in Sweden may be entitled to housing supplement without receiving it, according to the Tenants' Association. \"The information must become clearer and it must become easier to apply\", says the association's chair Marie Linder in a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "11cfe530eff5",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/c-valjer-taget-som-faktiskt-gar",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/c-valjer-taget-som-faktiskt-gar/",
+      "published_at": "2026-11-27T06:00:02+01:00",
+      "fetched_at": "2026-11-27T06:01:09+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C väljer tåget som faktiskt går",
+        "summary": "Hur kunde Centerpartiet välja Ulf Kristersson? Chock och förstämning tycks råda, i och utanför partiet. En del av förklaringen, möjligen stor, är att alla vill vara i ett vinnande lag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C chooses the train that actually runs",
+        "summary": "How could the Centre Party choose Ulf Kristersson (M)? Shock and gloom appear to prevail, both inside and outside the party. Part of the explanation, possibly a large part, is that everyone wants to be on a winning team."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "0cd403922821",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/women-and-child-gastkramande-drama-om-anka-i-iran",
+      "guid": "3e8a70ea-170a-4bc3-9e1a-274dcc0a13c5",
+      "published_at": "2026-11-27T06:00:00+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/1f7b8769-b4c2-4824-bef4-d2bae19ca601.jpeg?width=600",
+      "sv": {
+        "title": "”Women and child”: Gastkramande drama om änka i Iran",
+        "summary": "Saeed Roustayis samhälls- och könskritik är obönhörlig för alla som vill se den.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Women and Child\": Harrowing drama about a widow in Iran",
+        "summary": "Saeed Roustayi's critique of society and gender is relentless for anyone who wants to see it."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "0d9b340ff18f",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/kravet-granska-lunds-radhus-ab-efter-lkp-skandalen",
+      "guid": "0f60b5e4-660e-484d-94c1-5e2ba724ef3c",
+      "published_at": "2026-11-27T06:00:00+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Kravet: Granska Lunds Rådhus AB efter LKP-skandalen",
+        "summary": "Oppositionsrådet Christoffer Karlsson (L) kräver en extern granskning av styrelsen i Lunds kommuns moderbolag Lunds Rådhus AB, där han själv sitter. Frågan är hur LKP-härvan kunde växa sig stor utan varningar om vad som pågick.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Demand: Audit Lunds Rådhus AB after the LKP scandal",
+        "summary": "Opposition commissioner Christoffer Karlsson (L) demands an external audit of the board of Lund municipality's parent company Lunds Rådhus AB, where he himself sits. The question is how the LKP affair could grow so big without warnings about what was going on."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "54d8ddaebafc",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/low-expectations-fint-men-lite-trakigt-drama-om-deppig-norska",
+      "guid": "452baab7-e363-4e96-9c20-99a5c2f6bf3b",
+      "published_at": "2026-11-27T06:00:00+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/4d3cf8c2-3823-483a-80a5-021c3f6c7814.jpeg?width=600",
+      "sv": {
+        "title": "”Low expectations”: Fint men lite tråkigt drama om deppig norska",
+        "summary": "Filmen når inte upp till förebilderna Dag Johan Haugerud och Joachim Trier, skriver Malin Krutmeijer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Low Expectations\": Nice but somewhat dull drama about a depressed Norwegian woman",
+        "summary": "The film does not reach the level of its role models Dag Johan Haugerud and Joachim Trier, writes Malin Krutmeijer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "80f8d9973413",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/november-1963-snarkfest-nar-travolta-spelar-kennedys-mordare",
+      "guid": "318c6c60-1478-4b94-aebb-10a0a2332e1a",
+      "published_at": "2026-11-27T06:00:00+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/a961166c-cb07-4ca6-bd00-6a1768a592ca.jpeg?width=600",
+      "sv": {
+        "title": "”November 1963”: Snarkfest när Travolta spelar Kennedys mördare",
+        "summary": "Filmen blir aldrig mer än en animerad bilderbok av ett spår bland många andra i mordutredningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"November 1963\": Snoozefest as Travolta plays Kennedy's murderer",
+        "summary": "The film never becomes more than an animated picture book of one thread among many in the murder investigation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "9def46718e1f",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/olle-flyttar-in-pa-hyllie-park-boende-ljuset-kommer-alltid-in-om-man-oppnar-dorren",
+      "guid": "36f090b3-3d80-4617-9430-0c8878ad3149",
+      "published_at": "2026-11-27T06:00:00+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/eca2f4cf-f209-4897-9ce4-83e596fa1802.jpeg?width=600",
+      "sv": {
+        "title": "Olle flyttar in på Hyllie Park-boende: ”Ljuset kommer alltid in om man öppnar dörren”",
+        "summary": "Nu kan Olle Ahlgren, 82, äntligen duscha regelbundet och slipper vänta på att få blöjorna bytta. Men flytten till Hyllie Parks äldreboende har lett till en ny insikt: han kommer aldrig att bo med sin fru igen. – Det får man leva med, man ska inte bara tänka på sig själv, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Olle moves into Hyllie Park care home: \"The light always comes in if you open the door\"",
+        "summary": "Now Olle Ahlgren, 82, can finally shower regularly and no longer has to wait to have his diapers changed. But the move to Hyllie Park's care home has led to a new realisation: he will never live with his wife again. \"You have to live with that, you shouldn't only think about yourself,\" he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "ba1db1abf6fe",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/paper-tiger-ar-en-skitig-film-fran-rannstenen-som-behovs",
+      "guid": "36ef0f3e-5306-41a0-8dcd-00442cb881d0",
+      "published_at": "2026-11-27T06:00:00+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/2fa52c8a-5260-4154-abe3-329769ba62af.jpeg?width=600",
+      "sv": {
+        "title": "”Paper tiger” är en skitig film från rännstenen som behövs",
+        "summary": "Adam Driver, Scarlett Johansson och Miles Teller får visa upp en annan sida av sina talanger i James Grays thriller.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Paper Tiger\" is a gritty film from the gutter that is needed",
+        "summary": "Adam Driver, Scarlett Johansson and Miles Teller get to show another side of their talents in James Gray's thriller."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "c43f4893f61a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/hexe-disney-filmen-hade-kunnat-bli-magisk-med-ett-vassare-manus",
+      "guid": "8b7fac0d-9447-4887-8ff0-178ea6cff077",
+      "published_at": "2026-11-27T06:00:00+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/1e35f03c-da65-4e1a-8a74-0cc87878cc55.jpeg?width=600",
+      "sv": {
+        "title": "”Hexe”: Disney-filmen hade kunnat bli magisk med ett vassare manus",
+        "summary": "Filmen om en tonårig häxa ser ut att bli en flopp enligt amerikanska branschanalytiker.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Hexe\": Disney film could have been magical with a sharper script",
+        "summary": "The film about a teenage witch looks set to be a flop according to American industry analysts."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "f8290d1bcf47",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/det-tog-117-ar-nu-finns-namn-och-nytt-digitalt",
+      "guid": "https://www.dn.se/kultur/det-tog-117-ar-nu-finns-namn-och-nytt-digitalt/",
+      "published_at": "2026-11-27T06:00:00+01:00",
+      "fetched_at": "2026-11-27T06:01:08+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/a987c5d3-3c21-4590-8ca1-79e35ea411ab.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Det tog 117 år – nu finns Namn och Nytt digitalt",
+        "summary": "Sidan som har beskrivits som DN:s själ och hjärta – Namn och Nytt – tar äntligen klivet in i framtiden. Nu går den att läsa som en vanlig artikel på DN.se och i appen. Varje dag. Mycket nöje!",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "It took 117 years – now Namn och Nytt is available digitally",
+        "summary": "The page described as the soul and heart of DN, Namn och Nytt, is finally taking the step into the future. It can now be read as a regular article on DN.se and in the app. Every day. Enjoy!"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "f82e5a28e73e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/busters-ovanliga-resa-fick-straff-nar-man-inte-gjorde-laxorna",
+      "guid": "ac82cb6a-eab4-48c0-99f9-bc033ca0419e",
+      "published_at": "2026-11-27T06:00:00+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/03e5a63e-5364-4576-883f-664aa8514c8f.jpeg?width=600",
+      "sv": {
+        "title": "Busters ovanliga hockeyresa: ”Fick straff när man inte gjorde läxorna”",
+        "summary": "Buster Larsson har upplevt den våldsamma hockeyn i de amerikanska sydstaterna och stortrivs nu i tyska tredjeligan. På köpet har Malmökillen skaffat sig en universitetsutbildning. – När jag bodde i Sverige hade jag inte skolan på min radar alls, säger den 28-årige forwarden.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Buster's unusual hockey journey: \"I got punished when I didn't do my homework\"",
+        "summary": "Buster Larsson has experienced the violent hockey of the American southern states and is thriving in the German third tier. On top of that, the Malmö lad has acquired a university degree. \"When I lived in Sweden I didn't have school on my radar at all,\" says the 28-year-old forward."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "cc0c28fdd124",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351207",
+      "guid": "rss:sr.se/article/9351207",
+      "published_at": "2026-11-27T05:58:00+01:00",
+      "fetched_at": "2026-11-27T06:01:07+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Högernationella Vox har röda linjer på Solkusten",
+        "summary": "I dag är sista dagen av valkampanjerna i Spanien. Utfallet i söndagens val kan bli historiskt om högernationella Vox får inflytande på riksplanet i samarbete med den traditionella högern, Partido Popular.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Far-right Vox has red lines on the Costa del Sol",
+        "summary": "Today is the last day of the election campaigns in Spain. The outcome of Sunday's election could be historic if the far-right nationalist Vox gains influence at national level in cooperation with the traditional right, Partido Popular."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "f55d4dd982d8",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/tog-enhandslyra-pa-mc-blev-viral",
+      "guid": "49fc2cad-6e31-4bc5-8a9f-a071160e18c7",
+      "published_at": "2026-11-27T05:56:53+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/d098432a-a553-4073-86dc-d3ee7c9e1514.jpg?width=600",
+      "sv": {
+        "title": "Tog enhandslyra på mc – blev viral",
+        "summary": "Hur blir man ett internetfenomen på bara några sekunder? Fråga Mehran Khan, som såg en boll komma flygande och med en enhandsrörese tog lyra.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Caught a one-handed catch on a motorbike – went viral",
+        "summary": "How do you become an internet phenomenon in just a few seconds? Ask Mehran Khan, who saw a ball come flying and made a one-handed catch while riding."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "d67caf027905",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346226",
+      "guid": "rss:sr.se/article/9346226",
+      "published_at": "2026-11-27T05:56:00+01:00",
+      "fetched_at": "2026-11-27T06:01:07+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Fick lämna HVB-hemmet på 18-årsdagen: ”Som ett svart moln”",
+        "summary": "När unga som växer upp i familjehem, HVB-hem eller SiS-hem fyller 18 riskerar de att stå utan stöd från samhället. Den här gruppen har mer behov av stöd än andra unga, menar David Pålsson som är docent i socialt arbete vid Stockholms universitet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Had to leave the HVB home on their 18th birthday: \"Like a black cloud\"",
+        "summary": "When young people growing up in foster families, HVB homes or SiS homes turn 18, they risk being left without support from society. This group has greater need of support than other young people, argues David Pålsson, associate professor of social work at Stockholm University."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "98a4bcaec9b1",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/orgryte-is/andreas-holmberg-kan-skicka-degerfors-till-superettan.dd69a57e-705c-5a4b-9634-1444a0a419d7",
+      "guid": "dd69a57e-705c-5a4b-9634-1444a0a419d7",
+      "published_at": "2026-11-27T05:55:01+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Örgryte IS",
+        "Tagg: Degerfors",
+        "Tagg: Öis",
+        "Tagg: Andreas Holmberg"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/4cb45df9-1968-3817-bdcf-7c102d8ac614",
+      "sv": {
+        "title": "”Hade hellre velat köra ut ett annat lag”",
+        "summary": "Andreas Holmbergs tuffa söndag – kan skicka gamla klubben till superettan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"I would rather have played against another team\"",
+        "summary": "Andreas Holmberg's tough Sunday – could send his former club down to the Superettan."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "fbfcf4f844ac",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/kolumnen/sonesson-gor-staffanstorp-en-otjanst-med-sina-grindar",
+      "guid": "26e88572-3b78-44a0-8915-dc4cd6eadbaa",
+      "published_at": "2026-11-27T05:55:00+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/dba92a14-3667-4313-b666-6de9063ba65e.jpeg?width=600",
+      "sv": {
+        "title": "Sonesson gör Staffanstorp en otjänst med sina grindar"
+      },
+      "en": {
+        "title": "Sonesson does Staffanstorp a disservice with its gates"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "3aa06ac24691",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kulturkronika/deras-heliga-krig-mot-maten-vill-utplana-autism.e1fe08ac-eb27-574c-ab02-e022f87c7e1b",
+      "guid": "e1fe08ac-eb27-574c-ab02-e022f87c7e1b",
+      "published_at": "2026-11-27T05:54:50+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "science_tech",
+      "feed_categories": [
+        "Kulturkrönika",
+        "Tagg: Donald Trump",
+        "Tagg: Robert F Kennedy Jr",
+        "Tagg: Silicon Valley",
+        "Tagg: Mat",
+        "Tagg: Autism",
+        "Tagg: USA",
+        "Tagg: Amerikansk politik",
+        "Tagg: Hälsa",
+        "Tagg: Konspirationsteorier",
+        "Tagg: PFAS"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/676a2a7a-8e6a-3a60-aab1-9863ff7f9e57",
+      "sv": {
+        "title": "Deras heliga krig mot maten vill utplåna autism",
+        "summary": "Har MAHA verkligen tänkt igenom detta ordentligt, undrar Joanna Górecka.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Their holy war against food aims to wipe out autism",
+        "summary": "Has MAHA really thought this through properly, asks Joanna Górecka."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "38525553a6d5",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/moa-ilar-jagar-totalseger-och-vm-medalj.bcbb6215-18f8-566c-b901-60bb6acb17aa",
+      "guid": "bcbb6215-18f8-566c-b901-60bb6acb17aa",
+      "published_at": "2026-11-27T05:53:22+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Sport",
+        "Tagg: Moa Ilar",
+        "Tagg: Fokus sport"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/bb9f91c1-a2b9-3123-96f0-8558229c280f",
+      "sv": {
+        "title": "Bäst av alla men saknar medalj",
+        "summary": "Moa Ilar var bäst av alla svenska skidåkare i fjol men saknar fortfarande en mästerskapsmedalj.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Best of all but without a medal",
+        "summary": "Moa Ilar was the best of all Swedish cross-country skiers last year but still lacks a championship medal."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "20d9396cbd82",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f488c288-8ec3-482a-a09f-fec8376031d9",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f488c288-8ec3-482a-a09f-fec8376031d9",
+      "published_at": "2026-11-27T05:51:43+01:00",
+      "fetched_at": "2026-11-27T06:01:09+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Kravet om Dawit Isaak",
+        "summary": "Skarpa orden till Eritrea",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The demand for Dawit Isaak",
+        "summary": "Sharp words to Eritrea"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "1014f8b1855a",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/kan-obama-bli-domare-i-hogsta-domstolen.c873afa3-f77d-5ccb-8b8e-5db5c3298cef",
+      "guid": "c873afa3-f77d-5ccb-8b8e-5db5c3298cef",
+      "published_at": "2026-11-27T05:51:26+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Kort sagt",
+        "Tagg: Barack Obama",
+        "Tagg: Gavin Newsom",
+        "Tagg: Donald Trump",
+        "Tagg: Högsta domstolen",
+        "Tagg: USA",
+        "Tagg: Trumps USA"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/4460284e-21cd-34f7-9ef7-5ba41279e976",
+      "sv": {
+        "title": "Kan Obama bli domare i Högsta domstolen?",
+        "summary": "Förre presidentens namn nämns allt oftare, skriver Britt-Marie Mattsson i veckans Kort sagt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Could Obama become a judge on the Supreme Court?",
+        "summary": "The former president's name is mentioned more and more often, writes Britt-Marie Mattsson in this week's Kort sagt."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "81f0ddf18453",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/handeln-i-asien-mot-soligt-veckoslut",
+      "guid": "848415b9-b79b-4258-88d9-50c1bd0bf8b0",
+      "published_at": "2026-11-27T05:49:10+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/7ac00296-07c0-4f5e-a3cc-03722bcdb330.jpg?width=600",
+      "sv": {
+        "title": "Handeln i Asien mot soligt veckoslut",
+        "summary": "Flera asiatiska börser ser ut att avsluta veckohandeln på plus, efter några minst sagt turbulenta dagar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Asian trading towards a sunny weekend",
+        "summary": "Several Asian stock exchanges look set to end the week's trading in the black, after some at the very least turbulent days."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "e4f323f15164",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/svenskarna-flockas-till-polen-har-ar-forklaringen-till-fotbollsundret.29c1a701-b5ff-536a-8676-7074c1776eda",
+      "guid": "29c1a701-b5ff-536a-8676-7074c1776eda",
+      "published_at": "2026-11-27T05:46:27+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Fotboll",
+        "Tagg: Jens Gustafsson",
+        "Tagg: Mikael Ishak",
+        "Tagg: Conference League",
+        "Tagg: Legia Warszawa",
+        "Tagg: Lech Poznan"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/243cfe01-a4d8-3a70-9eb4-82ee51f9b554",
+      "sv": {
+        "title": "Svenskarna gör succé i Polen – här är förklaringen bakom det stora lyftet",
+        "summary": "GP åkte till Poznan för att ta reda på varför 18 svenskar spelar i Polen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedes make a splash in Poland – here is the explanation behind the big rise",
+        "summary": "GP travelled to Poznan to find out why 18 Swedes are playing in Poland."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "3caad742a139",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/har-rivs-anrika-kullagerfabriken-skf.8a39c3b7-2a73-5276-8fed-5ddf2d21479a",
+      "guid": "8a39c3b7-2a73-5276-8fed-5ddf2d21479a",
+      "published_at": "2026-11-27T05:45:56+01:00",
+      "fetched_at": "2026-11-27T06:01:10+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: SKF",
+        "Tagg: Göteborg",
+        "Tagg: Gamlestaden",
+        "Tagg: Säveån",
+        "Tagg: Bygg & fastighet",
+        "Tagg: Samhällsredaktionen"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/95e44e9f-95e9-37f2-ba51-dfdb2cb537c0",
+      "sv": {
+        "title": "Här rivs anrika fabriken – se när SKF raseras",
+        "summary": "SKF-fabriken rivs för att ge plats till ett nytt bostadsområde i Gamlestaden. Marken måste saneras från föroreningar efter ett sekel av kullagertillverkning i industriområdet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here the historic factory is demolished – watch as SKF is razed",
+        "summary": "The SKF factory is being demolished to make way for a new residential area in Gamlestaden. The land must be remediated from contamination after a century of ball bearing manufacturing in the industrial area."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
+    {
+      "id": "d1881def152f",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/qOLzkg/habibi-trump-nappar-pa-guldkort-vill-prata-vard",
+      "guid": "https://www.svd.se/a/qOLzkg/habibi-trump-nappar-pa-guldkort-vill-prata-vard?utm_medium=rss",
+      "published_at": "2026-11-27T05:45:12+01:00",
+      "fetched_at": "2026-11-27T06:01:08+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/b46c4e84-19bd-3e5a-af69-8fd804abdfb1?format=auto&s=dbcff74ac7aff61d6ebc6ce6e774109dea81c8d9&w=1000",
+      "sv": {
+        "title": "”Habibi Trump” nappar på guldkort – vill prata vård",
+        "summary": "Sjukvårdsförsäkring för alla – förpackad som ”Trumpcare” med ett gyllene kort?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Habibi Trump\" bites on golden card – wants to talk healthcare",
+        "summary": "Health insurance for everyone – packaged as \"Trumpcare\" with a golden card?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:01:20+01:00"
+      }
+    },
     {
       "id": "a2c781c7714e",
       "schema_version": 1,
