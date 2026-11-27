@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-27T05:15:55+01:00",
+  "generated_at": "2026-11-27T05:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2160c65593f7",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/asikt-och-debatt/fria-ord/kontrollanterna-kostar-100-miljoner-om-aret-och-det-ar-det-vart.5f54a96f-32fc-528e-a11b-c33cb60f8e54",
+      "guid": "5f54a96f-32fc-528e-a11b-c33cb60f8e54",
+      "published_at": "2026-11-27T05:00:00+01:00",
+      "fetched_at": "2026-11-27T05:30:56+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Fria ord",
+        "Tagg: Resor",
+        "Tagg: Västtrafik",
+        "Tagg: Kollektivtrafik"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/c56c08c7-106a-32a0-8b8c-091dad46f3fc",
+      "sv": {
+        "title": "Kontrollanterna kostar 100 miljoner om året – och det är det värt",
+        "summary": "Sedan vi utökade kontrollerna år 2022 bedömer vi att fuskåkningen halverats till cirka 4–5 procent, skriver Lars Backström, Västtrafik.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The inspectors cost 100 million a year – and it is worth it",
+        "summary": "Since we expanded the inspections in 2022, we estimate that fare evasion has halved to around 4–5 percent, writes Lars Backström, Västtrafik."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T05:31:03+01:00"
+      }
+    },
     {
       "id": "ffefeae6d115",
       "schema_version": 1,
@@ -5465,29 +5498,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T08:15:29+01:00"
-      }
-    },
-    {
-      "id": "ce40de3c5c00",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80209",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80209&utm_medium=rss",
-      "published_at": "2026-11-23T07:59:40+01:00",
-      "fetched_at": "2026-11-23T08:01:13+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Flera olyckor efter halka"
-      },
-      "en": {
-        "title": "Multiple accidents after slippery roads"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T08:01:25+01:00"
       }
     }
   ]

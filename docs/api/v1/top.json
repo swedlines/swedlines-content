@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T05:15:55+01:00",
-  "count": 26,
+  "generated_at": "2026-11-27T05:31:06+01:00",
+  "count": 25,
   "stories": [
     {
       "id": "ed574169a1d8",
@@ -463,6 +463,108 @@
       ]
     },
     {
+      "id": "6b6dd770954b",
+      "source_count": 5,
+      "sources": [
+        "svd",
+        "aftonbladet",
+        "sydsvenskan",
+        "sr",
+        "di"
+      ],
+      "first_published_at": "2026-11-27T00:51:54+01:00",
+      "last_published_at": "2026-11-27T05:21:34+01:00",
+      "lead": {
+        "id": "6b6dd770954b",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/qOLzAm/fiasko-for-budgetmote-sverige-vagrade-vara-med",
+        "guid": "https://www.svd.se/a/qOLzAm/fiasko-for-budgetmote-sverige-vagrade-vara-med?utm_medium=rss",
+        "published_at": "2026-11-27T00:51:54+01:00",
+        "fetched_at": "2026-11-27T00:58:03+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/225118d4-a7d1-33bc-b2ad-56d25e99648f?format=auto&s=aba5cfcb8422af997309c20f58609fb38c154a3f&w=1000",
+        "sv": {
+          "title": "Fiasko för budgetmöte – Sverige vägrade vara med",
+          "summary": "Protester och oenighet präglade EU-ländernas försök att enas om nästa långtidsbudget och stöd till…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Budget Meeting Fiasco – Sweden Refused to Take Part",
+          "summary": "Protests and disagreement marked EU countries' attempts to agree on the next long-term budget and support for Ukraine…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T00:58:08+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "8757e40328d6",
+          "source": "di",
+          "url": "https://www.di.se/live/fiasko-for-budgetmote-sverige-vagrade-vara-med",
+          "published_at": "2026-11-27T05:21:34+01:00",
+          "sv": {
+            "title": "Fiasko för budgetmöte – Sverige vägrade vara med"
+          },
+          "en": {
+            "title": "Fiasco at budget meeting – Sweden refused to take part"
+          }
+        },
+        {
+          "id": "ed6fd5443ea5",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351205",
+          "published_at": "2026-11-27T02:12:00+01:00",
+          "sv": {
+            "title": "Sverige vägrade vara med på budgetmötet i Bryssel"
+          },
+          "en": {
+            "title": "Sweden refused to take part in the budget meeting in Brussels"
+          }
+        },
+        {
+          "id": "cc27c4166853",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/fiasko-for-budgetmote-sverige-vagrade-vara-med",
+          "published_at": "2026-11-27T00:52:52+01:00",
+          "sv": {
+            "title": "Fiasko för budgetmöte – Sverige vägrade vara med"
+          },
+          "en": {
+            "title": "Budget Meeting Fiasco – Sweden Refused to Take Part"
+          }
+        },
+        {
+          "id": "a9352f5c92d4",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/aGwXP4/fiasko-for-budgetmote-sverige-vagrade-vara-med",
+          "published_at": "2026-11-27T00:51:54+01:00",
+          "sv": {
+            "title": "Fiasko för budgetmöte – Sverige vägrade vara med"
+          },
+          "en": {
+            "title": "Budget Meeting Fiasco – Sweden Refused to Take Part"
+          }
+        },
+        {
+          "id": "6b6dd770954b",
+          "source": "svd",
+          "url": "https://www.svd.se/a/qOLzAm/fiasko-for-budgetmote-sverige-vagrade-vara-med",
+          "published_at": "2026-11-27T00:51:54+01:00",
+          "sv": {
+            "title": "Fiasko för budgetmöte – Sverige vägrade vara med"
+          },
+          "en": {
+            "title": "Budget Meeting Fiasco – Sweden Refused to Take Part"
+          }
+        }
+      ]
+    },
+    {
       "id": "0b9fd1570f21",
       "source_count": 5,
       "sources": [
@@ -571,95 +673,6 @@
           },
           "en": {
             "title": "Centre Party holds press briefing – after decisive meeting"
-          }
-        }
-      ]
-    },
-    {
-      "id": "6b6dd770954b",
-      "source_count": 4,
-      "sources": [
-        "svd",
-        "aftonbladet",
-        "sydsvenskan",
-        "sr"
-      ],
-      "first_published_at": "2026-11-27T00:51:54+01:00",
-      "last_published_at": "2026-11-27T02:12:00+01:00",
-      "lead": {
-        "id": "6b6dd770954b",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/qOLzAm/fiasko-for-budgetmote-sverige-vagrade-vara-med",
-        "guid": "https://www.svd.se/a/qOLzAm/fiasko-for-budgetmote-sverige-vagrade-vara-med?utm_medium=rss",
-        "published_at": "2026-11-27T00:51:54+01:00",
-        "fetched_at": "2026-11-27T00:58:03+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/225118d4-a7d1-33bc-b2ad-56d25e99648f?format=auto&s=aba5cfcb8422af997309c20f58609fb38c154a3f&w=1000",
-        "sv": {
-          "title": "Fiasko för budgetmöte – Sverige vägrade vara med",
-          "summary": "Protester och oenighet präglade EU-ländernas försök att enas om nästa långtidsbudget och stöd till…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Budget Meeting Fiasco – Sweden Refused to Take Part",
-          "summary": "Protests and disagreement marked EU countries' attempts to agree on the next long-term budget and support for Ukraine…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T00:58:08+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "ed6fd5443ea5",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351205",
-          "published_at": "2026-11-27T02:12:00+01:00",
-          "sv": {
-            "title": "Sverige vägrade vara med på budgetmötet i Bryssel"
-          },
-          "en": {
-            "title": "Sweden refused to take part in the budget meeting in Brussels"
-          }
-        },
-        {
-          "id": "cc27c4166853",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/fiasko-for-budgetmote-sverige-vagrade-vara-med",
-          "published_at": "2026-11-27T00:52:52+01:00",
-          "sv": {
-            "title": "Fiasko för budgetmöte – Sverige vägrade vara med"
-          },
-          "en": {
-            "title": "Budget Meeting Fiasco – Sweden Refused to Take Part"
-          }
-        },
-        {
-          "id": "a9352f5c92d4",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/aGwXP4/fiasko-for-budgetmote-sverige-vagrade-vara-med",
-          "published_at": "2026-11-27T00:51:54+01:00",
-          "sv": {
-            "title": "Fiasko för budgetmöte – Sverige vägrade vara med"
-          },
-          "en": {
-            "title": "Budget Meeting Fiasco – Sweden Refused to Take Part"
-          }
-        },
-        {
-          "id": "6b6dd770954b",
-          "source": "svd",
-          "url": "https://www.svd.se/a/qOLzAm/fiasko-for-budgetmote-sverige-vagrade-vara-med",
-          "published_at": "2026-11-27T00:51:54+01:00",
-          "sv": {
-            "title": "Fiasko för budgetmöte – Sverige vägrade vara med"
-          },
-          "en": {
-            "title": "Budget Meeting Fiasco – Sweden Refused to Take Part"
           }
         }
       ]
@@ -2308,81 +2321,6 @@
           },
           "en": {
             "title": "Storbanken scraps remote work"
-          }
-        }
-      ]
-    },
-    {
-      "id": "a77c83f6acee",
-      "source_count": 2,
-      "sources": [
-        "di",
-        "svt"
-      ],
-      "first_published_at": "2026-11-26T11:43:03+01:00",
-      "last_published_at": "2026-11-26T17:19:45+01:00",
-      "lead": {
-        "id": "a77c83f6acee",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/nyheter/miljonsmall-for-moderna-museet-har-tagit-for-stora-risker",
-        "guid": "38001c73-b664-4a7e-903f-9f9fea1f1863",
-        "published_at": "2026-11-26T11:43:03+01:00",
-        "fetched_at": "2026-11-26T11:45:51+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/b0fb525e-9c5c-4b4f-ae17-314b2fb1fe00.jpeg?width=600",
-        "sv": {
-          "title": "Miljonsmäll för Moderna museet: ”Har tagit för stora risker”",
-          "summary": "Moderna museet går mot ett underskott på minst 18 miljoner kronor – nästan dubbelt så stort som tidigare känt. Nu väntar ett ekonomiskt tufft år för den nytillträdda museichefen Tone Hansen.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Million-kronor hit for Moderna museet: “Has taken too great risks”",
-          "summary": "Moderna museet is heading for a deficit of at least SEK 18 million – nearly twice as large as previously known. Now a tough financial year awaits the newly appointed museum director Tone Hansen."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T11:45:56+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "a2cf061f051e",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/strannegard-om-miljonmissen-pa-moderna-museet-bekymmersamt",
-          "published_at": "2026-11-26T17:19:45+01:00",
-          "sv": {
-            "title": "Strannegård om miljonmissen på Moderna museet: ”Bekymmersamt”"
-          },
-          "en": {
-            "title": "Strannegård on the million-kronor shortfall at Moderna museet: \"Worrying\""
-          }
-        },
-        {
-          "id": "bae2f1aa2186",
-          "source": "svt",
-          "url": "https://www.svt.se/kultur/miljonunderskott-for-moderna-for-stora-risker",
-          "published_at": "2026-11-26T13:18:54+01:00",
-          "sv": {
-            "title": "Miljonunderskott för Moderna museet: ”För stora risker”"
-          },
-          "en": {
-            "title": "Million-Krona Deficit for Moderna Museet: “Too Great Risks”"
-          }
-        },
-        {
-          "id": "a77c83f6acee",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/miljonsmall-for-moderna-museet-har-tagit-for-stora-risker",
-          "published_at": "2026-11-26T11:43:03+01:00",
-          "sv": {
-            "title": "Miljonsmäll för Moderna museet: ”Har tagit för stora risker”"
-          },
-          "en": {
-            "title": "Million-kronor hit for Moderna museet: “Has taken too great risks”"
           }
         }
       ]

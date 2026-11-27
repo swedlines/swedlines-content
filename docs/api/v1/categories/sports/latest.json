@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T05:15:55+01:00",
+  "generated_at": "2026-11-27T05:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7bacffdbdd23",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/stjarnorna-om-ryska-akarna-markligt-och-fel",
+      "guid": "91191cd1-9956-4ded-b47f-9508d01cbe2e",
+      "published_at": "2026-11-27T05:30:32+01:00",
+      "fetched_at": "2026-11-27T05:30:57+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/256ab394-d3e2-48e7-9bab-b9d3e840897c.jpg?width=600",
+      "sv": {
+        "title": "Stjärnorna om ryska åkarna: ”Märkligt och fel”",
+        "summary": "Tre ryska skidåkare har fått grönt ljus att starta under neutral flagg i världscuppremiären i finländska Ruka. Beskedet väcker blandade reaktioner i det svenska landslaget. – Man hade önskat ett tydligt beslut om uteslutning, säger Linn Svahn till TT.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stars on the Russian skiers: \"Strange and wrong\"",
+        "summary": "Three Russian cross-country skiers have been given the green light to start under a neutral flag at the World Cup season opener in Ruka, Finland. The decision is drawing mixed reactions in the Swedish national team. \"One had hoped for a clear decision on exclusion,\" Linn Svahn tells TT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T05:31:03+01:00"
+      }
+    },
     {
       "id": "487245ee9b05",
       "schema_version": 1,
@@ -5565,32 +5592,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T14:31:08+01:00"
-      }
-    },
-    {
-      "id": "372e60828073",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/fotboll/supportrar-i-samtal-med-djurgardens-spelare-infor-sirius-matchen",
-      "guid": "https://www.svt.se/sport/fotboll/supportrar-i-samtal-med-djurgardens-spelare-infor-sirius-matchen",
-      "published_at": "2026-11-20T14:03:11+01:00",
-      "fetched_at": "2026-11-20T14:15:46+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Supportrar i samtal med Djurgårdens spelare inför Sirius-matchen",
-        "summary": "Djurgården ställs mot Sirius. Inför matchen dök supportrar upp för att samtala med spelarna. – Det var en bra stämning. I lugn ton och bra samtalsklimat upplever jag att de fick utrymma att förklara sina känslor kring det läge som Djurgården är i, säger säkerhetsansvarig Mats Jonsson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Supporters talk with Djurgården players ahead of Sirius match",
-        "summary": "Djurgården face Sirius. Ahead of the match supporters turned up to talk with the players. \"It was a good atmosphere. In a calm tone and good conversational climate, I feel they had room to explain their feelings about the situation Djurgården is in,\" says security manager Mats Jonsson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T14:16:02+01:00"
       }
     }
   ]

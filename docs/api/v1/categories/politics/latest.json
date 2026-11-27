@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T05:15:55+01:00",
+  "generated_at": "2026-11-27T05:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9380aa06b9f0",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/4Eqlgq/centerpartiet-har-styr-c-med-sd-och-v",
+      "guid": "https://www.svd.se/a/4Eqlgq/centerpartiet-har-styr-c-med-sd-och-v?utm_medium=rss",
+      "published_at": "2026-11-27T05:28:25+01:00",
+      "fetched_at": "2026-11-27T05:30:55+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/0ab52661-90f7-37ef-83d9-1450f61ebf80?format=auto&s=ed791c857986db7b9403dd26140dca0847a3c1b1&w=1000",
+      "sv": {
+        "title": "Varningen från skogen: ”Är ju vi som får stryk”",
+        "summary": "Centerpartiet våndas om regeringsbildningen. Men här i de djupa skogarna valde C mellan V och SD…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The warning from the forest: \"It's us who get the beating\"",
+        "summary": "The Centre Party is agonising over the government formation. But here in the deep forests, C chose between V and SD…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T05:31:03+01:00"
+      }
+    },
     {
       "id": "5ab566e46498",
       "schema_version": 1,
@@ -5375,33 +5402,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T10:57:48+01:00"
-      }
-    },
-    {
-      "id": "23b5c03a7418",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/motforslag-forbereds-i-c-ledningen-forsoker-kuppa",
-      "guid": "https://www.dn.se/sverige/motforslag-forbereds-i-c-ledningen-forsoker-kuppa/",
-      "published_at": "2026-11-25T10:43:06+01:00",
-      "fetched_at": "2026-11-25T10:45:41+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/5bb77c78-fdc6-4f97-9f16-e1768d33a9c8.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Motförslag förbereds i C: ”Ledningen försöker kuppa”",
-        "summary": "C-ledningen ger partiet två val: att gå högerut till Ulf Kristersson – eller stå inför ett riskabelt extra val. Nu förbereder falangen som inte vill samarbeta med SD ett motförslag inför det definitiva beslutet, erfar DN.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Counter-proposal being prepared in the Centre Party: “The leadership is trying to stage a coup”",
-        "summary": "The Centre Party leadership gives the party two options: move right toward Ulf Kristersson (M) – or face a risky snap election. Now the faction that does not want to cooperate with the Sweden Democrats (SD) is preparing a counter-proposal ahead of the final decision, DN has learned."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:45:48+01:00"
       }
     }
   ]

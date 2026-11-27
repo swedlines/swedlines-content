@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T05:15:55+01:00",
+  "generated_at": "2026-11-27T05:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e782bd1b27ef",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Jno5WP/gangens-nya-taktik-barn-fran-alvsjo",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Jno5WP/gangens-nya-taktik-barn-fran-alvsjo?utm_medium=rss",
+      "published_at": "2026-11-27T05:20:00+01:00",
+      "fetched_at": "2026-11-27T05:30:55+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/18634fa2-d16b-3e37-b9d9-59b41d28ac1e?format=auto&s=1a08e249fbba4dc61752ceba01a0d9dddb55c64b&w=1000",
+      "sv": {
+        "title": "Poliserna om unga som rekryteras: ”Swish är ett tecken”",
+        "summary": "Gängens nya taktik ✓ ”Om de slutar fråga...”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The police on young people being recruited: \"Swish is a sign\"",
+        "summary": "Gangs' new tactic ✓ \"If they stop asking...\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T05:31:03+01:00"
+      }
+    },
     {
       "id": "57be500be29f",
       "schema_version": 1,
@@ -5389,32 +5416,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T06:15:54+01:00"
-      }
-    },
-    {
-      "id": "de26035b6f75",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/smaland/39-av-deras-far-forsvann-misstanks-ha-stulits-fran-hagen-i-almhult-helt-sjukt",
-      "guid": "https://www.svt.se/nyheter/lokalt/smaland/39-av-deras-far-forsvann-misstanks-ha-stulits-fran-hagen-i-almhult-helt-sjukt",
-      "published_at": "2026-11-22T05:30:00+01:00",
-      "fetched_at": "2026-11-22T05:45:38+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "39 av deras får försvann – misstänks ha stulits från hagen i Älmhult: ”Helt sjukt”",
-        "summary": "När familjen Einarsson räknade sina får upptäckte de att 39 djur saknades. Trots flera dagars letande har de inte hittat några spår efter fåren. Nu utreder polisen händelsen som stöld. – Jag tyckte det var helt sjukt, förjävligt att 39 är borta, säger Elisabeth Einarsson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "39 of their sheep disappeared – suspected to have been stolen from the pen in Älmhult: \"Totally insane\"",
-        "summary": "When the Einarsson family counted their sheep, they discovered that 39 animals were missing. Despite several days of searching, they have not found any trace of the sheep. The police are now investigating the incident as theft. \"I thought it was totally insane, awful that 39 are gone,\" says Elisabeth Einarsson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T05:45:45+01:00"
       }
     }
   ]
