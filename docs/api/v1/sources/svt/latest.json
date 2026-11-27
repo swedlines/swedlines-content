@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T15:01:41+01:00",
+  "generated_at": "2026-11-27T15:07:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6db2c7fbb4ab",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/vi-lever-i-en-allt-farligare-fred",
+      "guid": "https://www.svt.se/nyheter/inrikes/vi-lever-i-en-allt-farligare-fred",
+      "published_at": "2026-11-27T15:01:45+01:00",
+      "fetched_at": "2026-11-27T15:07:15+01:00",
+      "category": "world",
+      "sv": {
+        "title": "”Vi lever i en allt farligare fred”",
+        "summary": "De mystiska incidenterna som drabbar Sverige och Europa blir allt fler – och allt värre. Nu finns tecken på att situationen skärpts och Sverige ses inte längre som lågprioriterat av Ryssland, enligt Säpo.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"We are living in an increasingly dangerous peace\"",
+        "summary": "The mysterious incidents affecting Sweden and Europe are becoming more frequent – and more serious. There are now signs that the situation has escalated and that Russia no longer sees Sweden as low priority, according to the Security Service (Säpo)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:07:24+01:00"
+      }
+    },
     {
       "id": "cce06bb5d891",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T15:45:55+01:00"
-      }
-    },
-    {
-      "id": "b04084e639b0",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/fotboll/matilda-vinberg-med-lackert-mal-mot-manchester-city",
-      "guid": "https://www.svt.se/sport/fotboll/matilda-vinberg-med-lackert-mal-mot-manchester-city",
-      "published_at": "2026-11-22T15:27:29+01:00",
-      "fetched_at": "2026-11-22T15:31:03+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Matilda Vinberg med läckert mål mot Manchester City",
-        "summary": "Matilda Vinberg visar fin form inför Sveriges avgörande VM-playoff. 23-åringen svarade för en assist och ett läckert mål när Tottenham besegrade ligatvåan Manchester City. – Här gör hon allting rätt, säger SVT Sports kommentator Linus Eklund.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Matilda Vinberg with stunning goal against Manchester City",
-        "summary": "Matilda Vinberg shows fine form ahead of Sweden's decisive World Cup play-off. The 23-year-old provided an assist and a stunning goal as Tottenham beat second-tier Manchester City. \"Here she does everything right,\" says SVT Sports commentator Linus Eklund."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:31:11+01:00"
       }
     }
   ]

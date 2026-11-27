@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T15:01:41+01:00",
+  "generated_at": "2026-11-27T15:07:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6db2c7fbb4ab",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/vi-lever-i-en-allt-farligare-fred",
+      "guid": "https://www.svt.se/nyheter/inrikes/vi-lever-i-en-allt-farligare-fred",
+      "published_at": "2026-11-27T15:01:45+01:00",
+      "fetched_at": "2026-11-27T15:07:15+01:00",
+      "category": "world",
+      "sv": {
+        "title": "”Vi lever i en allt farligare fred”",
+        "summary": "De mystiska incidenterna som drabbar Sverige och Europa blir allt fler – och allt värre. Nu finns tecken på att situationen skärpts och Sverige ses inte längre som lågprioriterat av Ryssland, enligt Säpo.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"We are living in an increasingly dangerous peace\"",
+        "summary": "The mysterious incidents affecting Sweden and Europe are becoming more frequent – and more serious. There are now signs that the situation has escalated and that Russia no longer sees Sweden as low priority, according to the Security Service (Säpo)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:07:24+01:00"
+      }
+    },
     {
       "id": "7f93c400d0ab",
       "schema_version": 1,
@@ -5317,32 +5343,6 @@
       "en": {
         "title": "Set for a row at EU summit",
         "summary": "Prime Minister Ulf Kristersson (M) expects tough rhetoric at this week's EU summit."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T15:01:30+01:00"
-      }
-    },
-    {
-      "id": "118d49bcae67",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trumps-nya-eu-tullar-norge-kan-slippa",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumps-nya-eu-tullar-norge-kan-slippa/",
-      "published_at": "2026-11-25T14:49:28+01:00",
-      "fetched_at": "2026-11-25T15:01:22+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trumps nya EU-tullar – Norge kan slippa",
-        "summary": "Skam den som ger sig. Tidigare i år ogiltigförklarade Högsta domstolen Trumps tulloffensiv från 2025. Nu försöker han igen, och planerar USA nya tullar mot Kina – och EU.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump's new EU tariffs – Norway may escape",
-        "summary": "Never say die. Earlier this year the Supreme Court invalidated Trump's 2025 tariff offensive. Now he is trying again, and the US is planning new tariffs on China – and the EU."
       },
       "translation": {
         "status": "done",

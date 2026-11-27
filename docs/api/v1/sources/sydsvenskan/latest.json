@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T15:01:41+01:00",
+  "generated_at": "2026-11-27T15:07:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0a6f997269a2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/beskedet-om-ac-klart-mal-att-bygga-upp-sig-till-nasta-sasong",
+      "guid": "ccd80e02-bc90-49b6-8162-8fd599997032",
+      "published_at": "2026-11-27T15:03:51+01:00",
+      "fetched_at": "2026-11-27T15:07:21+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/4dfceba2-2ab9-45d8-aceb-74dbff2298a0.jpeg?width=600",
+      "sv": {
+        "title": "Beskedet om AC: ”Klart mål att bygga upp sig till nästa säsong”",
+        "summary": "Lagkaptenen Anders Christiansen har ett utgående kontrakt med Malmö FF, men verkar i alla fall inte ha några planer på att lägga fotbollsskorna på hyllan. –Han har ett ganska klart mål att bygga upp sig till nästa säsong, säger MFF-tränaren Gaute Helstrup",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "On AC: \"Clear goal to build up for next season\"",
+        "summary": "Team captain Anders Christiansen has an expiring contract with Malmö FF, but apparently has no plans to hang up his boots in any case. \"He has a fairly clear goal to build up for next season,\" says MFF head coach Gaute Helstrup"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:07:24+01:00"
+      }
+    },
     {
       "id": "a96e36f7887f",
       "schema_version": 1,
@@ -5213,33 +5240,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T22:31:04+01:00"
-      }
-    },
-    {
-      "id": "18a1047b370d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/dygnet-runt/eva-rydberg-och-cantin-prisade-pa-skansk-gala",
-      "guid": "7a2f1a82-0745-4849-b809-1810cff02094",
-      "published_at": "2026-11-24T22:00:00+01:00",
-      "fetched_at": "2026-11-24T22:01:15+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/6c9880cb-8905-4bbe-a316-5d7898e12b1a.jpeg?width=600",
-      "sv": {
-        "title": "Eva Rydberg och Cantin prisade på skånsk gala",
-        "summary": "Den 83-åriga komikerlegendaren Eva Rydberg är årets bästa skåning. Det står klart efter att Magasinet Skåne på tisdagskvällen delade ut sina årliga priser. Bland de tolv andra vinnarna fanns streetfoodmarknaden Cantin och restaurangen Saltarv.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Eva Rydberg and Cantin honoured at Skåne gala",
-        "summary": "The 83-year-old comedy legend Eva Rydberg is the best Skåne resident of the year. That is clear after Magasinet Skåne handed out its annual awards on Tuesday evening. Among the twelve other winners were the street food market Cantin and the restaurant Saltarv."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T22:01:19+01:00"
       }
     }
   ]

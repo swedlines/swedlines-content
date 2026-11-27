@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T15:01:41+01:00",
+  "generated_at": "2026-11-27T15:07:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b3ac1929dd2d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ai-bolag-vantas-ta-taten-pa-wall-street",
+      "guid": "183d2bea-84af-4b03-9e6a-74032e74d8d9",
+      "published_at": "2026-11-27T15:04:15+01:00",
+      "fetched_at": "2026-11-27T15:07:19+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "AI-bolag väntas ta täten på Wall Street",
+        "summary": "Börserna på Wall Street ser ut att öppna uppåt i fredagens förkortade handel, som avslutas vid 19.00 svensk tid. Bolag med koppling till AI steg i förhandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "AI companies expected to lead on Wall Street",
+        "summary": "Wall Street stocks look set to open higher in Friday's shortened trading session, which ends at 19.00 Swedish time. Companies linked to AI rose in pre-market trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:07:24+01:00"
+      }
+    },
     {
       "id": "cbca34d027ca",
       "schema_version": 1,
@@ -5298,33 +5324,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T13:04:39+01:00"
-      }
-    },
-    {
-      "id": "a2836232ce8b",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ledare/lander-som-vill-ha-solidaritet-maste-ocksa-visa-den",
-      "guid": "c1fac3f9-4212-435d-ab06-89bf88220e88",
-      "published_at": "2026-11-26T12:52:37+01:00",
-      "fetched_at": "2026-11-26T13:01:24+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/775a5faf-005c-43ee-bd95-007b3c92c219.jpeg?width=600",
-      "sv": {
-        "title": "Länder som vill ha solidaritet måste också visa den",
-        "summary": "Europa vilar på solidaritet mellan folken. Det avgör hur EU-budgeten ser ut. Och det avgör hur Ukrainakriget utvecklas. När budgetdramat nu går mot sitt avgörande har principerna vävts ihop. Det är bra.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Countries that want solidarity must also show it",
-        "summary": "Europe rests on solidarity between peoples. That determines what the EU budget looks like. And it determines how the war in Ukraine develops. As the budget drama now moves toward its decisive point, the principles have been woven together. That is good."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T13:01:40+01:00"
       }
     }
   ]
