@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T09:15:58+01:00",
+  "generated_at": "2026-11-27T09:31:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e63e819c29a9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351322",
+      "guid": "rss:sr.se/article/9351322",
+      "published_at": "2026-11-27T09:17:00+01:00",
+      "fetched_at": "2026-11-27T09:31:06+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Uppgifter: Nästan hälften av C:s riksdagsgrupp sa nej till Kristersson",
+        "summary": "Under torsdagen svängde Centerpartiets och partiets nya linje är att partiet bör ingå i en regering ledd av Ulf Kristersson, men det var en splittrad partistyrelse och riksdagsgrupp.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Reports: Almost half of the Centre Party's Riksdag group said no to Kristersson",
+        "summary": "On Thursday the Centre Party's new line, that the party should join a government led by Ulf Kristersson (M), swung; but the party board and Riksdag group were split."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T09:31:17+01:00"
+      }
+    },
     {
       "id": "12a3718de474",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T11:15:52+01:00"
-      }
-    },
-    {
-      "id": "41fa2ab24d77",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347055",
-      "guid": "rss:sr.se/article/9347055",
-      "published_at": "2026-11-22T07:01:00+01:00",
-      "fetched_at": "2026-11-22T07:15:41+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Tillsynsmyndigheter: Fler brister i säkerhetsskyddet än de som upptäckts",
-        "summary": "Fler av de myndigheter som ska kontrollera att det så kallade säkerhetsskyddet mot bland annat sabotage, spionage och terrorism är tillräckligt i verksamheter som är viktiga för Sveriges säkerhet bedömer att bristerna är mer utbredda än de som upptäckts, det visar Ekots granskning.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Supervisory authorities: More shortcomings in security protection than those discovered",
-        "summary": "More of the authorities that are to check that so-called security protection against, among other things, sabotage, espionage and terrorism is adequate in operations that are important to Sweden's security judge that the shortcomings are more widespread than those discovered, according to Ekot's investigation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T07:15:50+01:00"
       }
     }
   ]

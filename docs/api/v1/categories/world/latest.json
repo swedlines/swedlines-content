@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T09:15:58+01:00",
+  "generated_at": "2026-11-27T09:31:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ff5e8cd59f9e",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/efter-anklagelserna-bbc-utreds-for-antisemitism",
+      "guid": "https://www.dn.se/kultur/efter-anklagelserna-bbc-utreds-for-antisemitism/",
+      "published_at": "2026-11-27T09:15:33+01:00",
+      "fetched_at": "2026-11-27T09:31:07+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/6190894c-4612-4211-a43f-20656c8d77f6.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Efter anklagelserna: BBC utreds för antisemitism",
+        "summary": "BBC ska utredas av regeringen efter anklagelser om en ”en fientlig arbetsmiljö för judar”, rapporterar det brittiska public service-bolaget.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the accusations: BBC investigated for antisemitism",
+        "summary": "The BBC is to be investigated by the government after accusations of \"a hostile working environment for Jews\", the British public service broadcaster reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T09:31:17+01:00"
+      }
+    },
     {
       "id": "ff77c8c02eab",
       "schema_version": 1,
@@ -5321,33 +5348,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T11:31:23+01:00"
-      }
-    },
-    {
-      "id": "e0b6f9706d29",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/kinesiska-medier-jensen-huang-en-bricka-i-ett-mycket-storre-spel",
-      "guid": "https://www.dn.se/varlden/kinesiska-medier-jensen-huang-en-bricka-i-ett-mycket-storre-spel/",
-      "published_at": "2026-11-25T11:15:15+01:00",
-      "fetched_at": "2026-11-25T11:15:45+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/bfa150a3-cc65-474e-b4a8-8bb31964d872.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Kinesiska medier: ”Jensen Huang en bricka i ett mycket större spel”",
-        "summary": "PEKING. Nvidiachefens comeback har tydligt blottat Donald Trumps svaghet för ledningen i Peking. Värdet på USA-börsen kommer först. Men tittar Vita huset mot Kina syns också en kinesisk akilleshäl: Xi Jinping är livrädd för att något på hemmaplan ska störa hans maktposition.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Chinese media: \"Jensen Huang a pawn in a much bigger game\"",
-        "summary": "BEIJING. Nvidia's chief's comeback has clearly exposed Donald Trump's weakness towards the leadership in Beijing. The value of the US stock market comes first. But if the White House looks towards China, a Chinese Achilles heel is also visible: Xi Jinping is terrified that something at home could disturb his grip on power."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T11:15:55+01:00"
       }
     }
   ]

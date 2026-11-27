@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T09:15:58+01:00",
-  "count": 29,
+  "generated_at": "2026-11-27T09:31:22+01:00",
+  "count": 30,
   "stories": [
     {
       "id": "3f6874444123",
@@ -13,7 +13,7 @@
         "sydsvenskan"
       ],
       "first_published_at": "2026-11-26T21:25:00+01:00",
-      "last_published_at": "2026-11-27T09:00:14+01:00",
+      "last_published_at": "2026-11-27T09:17:00+01:00",
       "lead": {
         "id": "3f6874444123",
         "schema_version": 1,
@@ -41,6 +41,18 @@
         }
       },
       "items": [
+        {
+          "id": "e63e819c29a9",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351322",
+          "published_at": "2026-11-27T09:17:00+01:00",
+          "sv": {
+            "title": "Uppgifter: Nästan hälften av C:s riksdagsgrupp sa nej till Kristersson"
+          },
+          "en": {
+            "title": "Reports: Almost half of the Centre Party's Riksdag group said no to Kristersson"
+          }
+        },
         {
           "id": "be0adb6098d7",
           "source": "sydsvenskan",
@@ -583,6 +595,94 @@
       ]
     },
     {
+      "id": "d1aa819607d1",
+      "source_count": 4,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "expressen",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-27T08:57:47+01:00",
+      "last_published_at": "2026-11-27T09:24:09+01:00",
+      "lead": {
+        "id": "d1aa819607d1",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/r8A02e/tva-personer-utlamnas-fran-irak-till-sverige",
+        "guid": "https://www.aftonbladet.se/nyheter/a/r8A02e/tva-personer-utlamnas-fran-irak-till-sverige?utm_medium=rss",
+        "published_at": "2026-11-27T08:57:47+01:00",
+        "fetched_at": "2026-11-27T09:01:15+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Två personer utlämnas från Irak till Sverige",
+          "summary": "Två internationellt efterlysta personer ska utlämnas från Irak till Sverige, meddelar…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Two people extradited from Iraq to Sweden",
+          "summary": "Two internationally wanted people are to be extradited from Iraq to Sweden, reports…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T09:01:26+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "5789520eab27",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/tva-man-utlamnas-fran-irak-till-sverige",
+          "published_at": "2026-11-27T09:24:09+01:00",
+          "sv": {
+            "title": "Två män utlämnas från Irak till Sverige"
+          },
+          "en": {
+            "title": "Two men to be extradited from Iraq to Sweden"
+          }
+        },
+        {
+          "id": "dc6017280c0c",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=84ad6e5d-cffc-4ada-a993-b78bb59470b8",
+          "published_at": "2026-11-27T08:58:24+01:00",
+          "sv": {
+            "title": "Två utlämnas från Irak"
+          },
+          "en": {
+            "title": "Two extradited from Iraq"
+          }
+        },
+        {
+          "id": "7f5fdc6da159",
+          "source": "svd",
+          "url": "https://www.svd.se/a/yz3L2K/tva-personer-utlamnas-fran-irak-till-sverige",
+          "published_at": "2026-11-27T08:57:48+01:00",
+          "sv": {
+            "title": "Två personer utlämnas från Irak till Sverige"
+          },
+          "en": {
+            "title": "Two people extradited from Iraq to Sweden"
+          }
+        },
+        {
+          "id": "d1aa819607d1",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/r8A02e/tva-personer-utlamnas-fran-irak-till-sverige",
+          "published_at": "2026-11-27T08:57:47+01:00",
+          "sv": {
+            "title": "Två personer utlämnas från Irak till Sverige"
+          },
+          "en": {
+            "title": "Two people extradited from Iraq to Sweden"
+          }
+        }
+      ]
+    },
+    {
       "id": "909ab8776cc6",
       "source_count": 4,
       "sources": [
@@ -940,81 +1040,6 @@
           },
           "en": {
             "title": "Fire at Björkdalsgruvan outside Kåge – rescue service on site"
-          }
-        }
-      ]
-    },
-    {
-      "id": "d1aa819607d1",
-      "source_count": 3,
-      "sources": [
-        "aftonbladet",
-        "svd",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-27T08:57:47+01:00",
-      "last_published_at": "2026-11-27T08:58:24+01:00",
-      "lead": {
-        "id": "d1aa819607d1",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/r8A02e/tva-personer-utlamnas-fran-irak-till-sverige",
-        "guid": "https://www.aftonbladet.se/nyheter/a/r8A02e/tva-personer-utlamnas-fran-irak-till-sverige?utm_medium=rss",
-        "published_at": "2026-11-27T08:57:47+01:00",
-        "fetched_at": "2026-11-27T09:01:15+01:00",
-        "category": "crime",
-        "sv": {
-          "title": "Två personer utlämnas från Irak till Sverige",
-          "summary": "Två internationellt efterlysta personer ska utlämnas från Irak till Sverige, meddelar…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Two people extradited from Iraq to Sweden",
-          "summary": "Two internationally wanted people are to be extradited from Iraq to Sweden, reports…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T09:01:26+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "dc6017280c0c",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=84ad6e5d-cffc-4ada-a993-b78bb59470b8",
-          "published_at": "2026-11-27T08:58:24+01:00",
-          "sv": {
-            "title": "Två utlämnas från Irak"
-          },
-          "en": {
-            "title": "Two extradited from Iraq"
-          }
-        },
-        {
-          "id": "7f5fdc6da159",
-          "source": "svd",
-          "url": "https://www.svd.se/a/yz3L2K/tva-personer-utlamnas-fran-irak-till-sverige",
-          "published_at": "2026-11-27T08:57:48+01:00",
-          "sv": {
-            "title": "Två personer utlämnas från Irak till Sverige"
-          },
-          "en": {
-            "title": "Two people extradited from Iraq to Sweden"
-          }
-        },
-        {
-          "id": "d1aa819607d1",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/r8A02e/tva-personer-utlamnas-fran-irak-till-sverige",
-          "published_at": "2026-11-27T08:57:47+01:00",
-          "sv": {
-            "title": "Två personer utlämnas från Irak till Sverige"
-          },
-          "en": {
-            "title": "Two people extradited from Iraq to Sweden"
           }
         }
       ]
@@ -1471,6 +1496,69 @@
           },
           "en": {
             "title": "Ulf Kristersson tops new trust poll"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6c76594ce7ce",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-27T08:23:29+01:00",
+      "last_published_at": "2026-11-27T09:27:13+01:00",
+      "lead": {
+        "id": "6c76594ce7ce",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/bra-fart-i-svensk-ekonomi-bnp-stiger-brant",
+        "guid": "5ebf2447-1417-439d-909d-0138d96cca3f",
+        "published_at": "2026-11-27T08:23:29+01:00",
+        "fetched_at": "2026-11-27T08:31:05+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/d5bdff9a-fe36-4904-ba27-822ec440f6b1.jpeg?width=600",
+        "sv": {
+          "title": "Bra fart i svensk ekonomi – BNP stiger brant",
+          "summary": "Sveriges BNP steg 0,5 procent under det tredje kvartalet jämfört med föregående kvartal. Jämfört med motsvarande kvartal föregående år steg BNP 2,8 procent. Det visar SCB:s nationalräkenskaper.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Strong momentum in Swedish economy – GDP rises sharply",
+          "summary": "Sweden's GDP rose 0.5 percent in the third quarter compared with the previous quarter. Compared with the same quarter a year earlier, GDP rose 2.8 percent. This is shown by Statistics Sweden's national accounts."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T08:31:10+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "510bcb08578b",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/svensk-ekonomi-okar",
+          "published_at": "2026-11-27T09:27:13+01:00",
+          "sv": {
+            "title": "Svensk ekonomi ökar"
+          },
+          "en": {
+            "title": "Swedish economy grows"
+          }
+        },
+        {
+          "id": "6c76594ce7ce",
+          "source": "di",
+          "url": "https://www.di.se/live/bra-fart-i-svensk-ekonomi-bnp-stiger-brant",
+          "published_at": "2026-11-27T08:23:29+01:00",
+          "sv": {
+            "title": "Bra fart i svensk ekonomi – BNP stiger brant"
+          },
+          "en": {
+            "title": "Strong momentum in Swedish economy – GDP rises sharply"
           }
         }
       ]
