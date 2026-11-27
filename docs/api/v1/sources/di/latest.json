@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-27T09:01:31+01:00",
+  "generated_at": "2026-11-27T09:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1ed131f5d825",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/stockholmsborsen-fortsatter-uppat-5pPnw",
+      "guid": "e34d0010-e48c-4a6f-aa8f-a3865e3cbb76",
+      "published_at": "2026-11-27T09:14:53+01:00",
+      "fetched_at": "2026-11-27T09:15:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/69ba114d-d2a0-4676-925e-5deb1e674ed8.jpeg?width=600",
+      "sv": {
+        "title": "Stockholmsbörsen fortsätter uppåt",
+        "summary": "Stockholmsbörsen stiger på fredagsmorgonen, där gruv- och industribolagen handlas upp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stockholm stock exchange continues upward",
+        "summary": "The Stockholm stock exchange rises on Friday morning, with mining and industrial companies trading higher."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T09:15:56+01:00"
+      }
+    },
+    {
+      "id": "e1822180e437",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/arets-impactgasell-2026",
+      "guid": "2ce4f3e4-cfec-4ea2-ad3b-48df8e3b74a3",
+      "published_at": "2026-11-27T09:12:27+01:00",
+      "fetched_at": "2026-11-27T09:15:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5ee439f2-54e5-49f6-93e6-f87dc03d0617.jpeg?width=600",
+      "sv": {
+        "title": "Årets Impactgasell 2026",
+        "summary": "Den 2 december avslöjas årets Hedersgaseller. Här kommer du snart att läsa vilket bolag som blir årets Impactgasell.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Impactgasell of the Year 2026",
+        "summary": "The Honorary Gazelles of the year will be revealed on 2 December. You will soon read which company becomes the Impactgasell of the year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T09:15:56+01:00"
+      }
+    },
     {
       "id": "58de31883e61",
       "schema_version": 1,
@@ -5264,59 +5318,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T08:15:59+01:00"
-      }
-    },
-    {
-      "id": "07fbdef9ff4d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/fem-saker-att-ha-koll-pa-innan-borsen-oppnar-4mfeC",
-      "guid": "88b45200-e65f-431b-a880-48d5b122f6aa",
-      "published_at": "2026-11-26T07:57:55+01:00",
-      "fetched_at": "2026-11-26T08:15:53+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e8a29188-417c-4f2d-a7f2-8af7f1cb6dbe.jpeg?width=600",
-      "sv": {
-        "title": "Fem saker att ha koll på innan börsen öppnar",
-        "summary": "Tydliga uppgångar är att vänta på Stockholmsbörsen på torsdagsmorgonen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Five things to keep an eye on before the stock market opens",
-        "summary": "Clear gains are expected on the Stockholm Stock Exchange on Thursday morning."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T08:15:59+01:00"
-      }
-    },
-    {
-      "id": "8fd7c1aa7451",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/fortsatta-forluster-for-nextcell-pharma-ska-ta-in-nya-pengar",
-      "guid": "4ecc417b-a0df-4fdf-8d6c-aeed2afa3971",
-      "published_at": "2026-11-26T07:48:36+01:00",
-      "fetched_at": "2026-11-26T08:01:21+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Fortsatta förluster för Nextcell Pharma – ska ta in nya pengar",
-        "summary": "Forskningsbolaget Nextcell Pharma redovisar ett rörelseresultat på minus 7,5 miljoner kronor (minus 7,0) för det tredje kvartalet 2026.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Continued losses for Nextcell Pharma – to raise new funds",
-        "summary": "The research company Nextcell Pharma reports an operating loss of minus SEK 7.5 million (minus 7.0) for the third quarter of 2026."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T08:01:26+01:00"
       }
     }
   ]
