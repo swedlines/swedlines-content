@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-27T01:01:19+01:00",
+  "generated_at": "2026-11-27T01:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1d94c8004bef",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trumps-krav--pa-putin-lat-europa-vara",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-krav--pa-putin-lat-europa-vara/",
+      "published_at": "2026-11-27T01:00:55+01:00",
+      "fetched_at": "2026-11-27T01:15:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps krav på Putin: Låt Europa vara",
+        "summary": "Vladimir Putin bör dra tillbaka all militär aggression mot europeiska territorier. Det kräver Donald Trump som hoppas att detta skulle kunna leda till ett fredsavtal. ”Det är ett fullständigt blodbad”, skriver Trump.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's demand to Putin: Leave Europe alone",
+        "summary": "Vladimir Putin should withdraw all military aggression against European territories. That is what Donald Trump demands, hoping it could lead to a peace agreement. “It is a complete bloodbath”, Trump writes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T01:15:51+01:00"
+      }
+    },
+    {
+      "id": "57be500be29f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/vann-tio-miljoner-greps-direkt-efterat",
+      "guid": "https://www.expressen.se/nyheter/varlden/vann-tio-miljoner-greps-direkt-efterat/",
+      "published_at": "2026-11-27T00:59:35+01:00",
+      "fetched_at": "2026-11-27T01:15:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Vann tio miljoner – greps direkt efteråt",
+        "summary": "Ariel Velasquez-Morales vann tio miljoner kronor på lotto. Då blev han gripen direkt – och nu ska han utvisas, skriver USA Today.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Won ten million – arrested right afterwards",
+        "summary": "Ariel Velasquez-Morales won SEK 10 million in the lottery. He was then arrested immediately – and now he is to be deported, USA Today writes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T01:15:51+01:00"
+      }
+    },
     {
       "id": "a14f7cb44a86",
       "schema_version": 1,
@@ -5142,58 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T22:30:34+01:00"
-      }
-    },
-    {
-      "id": "df033810f719",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering",
-      "guid": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering/",
-      "published_at": "2026-11-23T22:09:52+01:00",
-      "fetched_at": "2026-11-23T22:15:49+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering",
-        "summary": "Det blir ingen rödgrön regering, tror Maud Olofsson. – Jag tror att de har kommit till vägs ände. De har ju suttit hur länge som helst och diskuterat. Man har inte kommit närmare varandra, säger den tidigare C-ledaren i SVT:s ”Aktuellt”.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Former Centre Party leader Maud Olofsson does not believe in a red-green government",
-        "summary": "There will be no red-green government, believes Maud Olofsson. \"I think they have reached the end of the road. They have sat for ever and discussed. They have not come closer to each other,\" says the former Centre Party leader on SVT's \"Aktuellt\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:15:55+01:00"
-      }
-    },
-    {
-      "id": "beb4814b3f5b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/vansterprofilen-leonidas-aretakis-da-kan-v-slappa-ministerkravet-",
-      "guid": "https://www.expressen.se/nyheter/politik/vansterprofilen-leonidas-aretakis-da-kan-v-slappa-ministerkravet-/",
-      "published_at": "2026-11-23T21:32:52+01:00",
-      "fetched_at": "2026-11-23T21:36:20+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Vänsterprofilen Leonidas Aretakis: Då kan V släppa ministerkravet",
-        "summary": "V kan släppa kravet på ministerposter om partiet erbjuds ”enormt stora sakpolitiska eftergifter”. Det sa V:s vice partiordförande Ida Gabrielsson i ”Studio Ett” på måndagen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Left Party profile Leonidas Aretakis: Then the Left Party can drop its ministerial demand",
-        "summary": "The Left Party may drop its demand for ministerial posts if the party is offered \"enormously large policy concessions\". Ida Gabrielsson, the Left Party's deputy party leader, said so in \"Studio Ett\" on Monday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T21:36:24+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T01:01:19+01:00",
+  "generated_at": "2026-11-27T01:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "800b67345034",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/nLa5wa/flera-doda-i-terrorattack-i-niger",
+      "guid": "https://www.aftonbladet.se/nyheter/a/nLa5wa/flera-doda-i-terrorattack-i-niger?utm_medium=rss",
+      "published_at": "2026-11-27T01:07:04+01:00",
+      "fetched_at": "2026-11-27T01:15:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Flera döda i terrorattack i Niger",
+        "summary": "Minst 13 personer ur Nigers nationalgarde dödades och ytterligare 20 skadades i en ”terrorattack” i…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Several dead in terror attack in Niger",
+        "summary": "At least 13 members of Niger's National Guard were killed and another 20 injured in a “terror attack” in…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T01:15:51+01:00"
+      }
+    },
     {
       "id": "a9352f5c92d4",
       "schema_version": 1,
@@ -5349,33 +5375,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T10:45:55+01:00"
-      }
-    },
-    {
-      "id": "2e4318db3a71",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/OypOLl/joachim-60-ar-farfarledig-det-ar-underbart",
-      "guid": "https://www.aftonbladet.se/nyheter/a/OypOLl/joachim-60-ar-farfarledig-det-ar-underbart?utm_medium=rss",
-      "published_at": "2026-11-24T10:26:05+01:00",
-      "fetched_at": "2026-11-24T10:31:01+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/1d773f31-e198-3ef9-bc1c-e374d95125a1?format=auto&s=05ed6be3b976655740b71cd6d6c548b40bb9da90&w=1000",
-      "sv": {
-        "title": "Joachim, 60, är farfarledig: ”Det är underbart”",
-        "summary": "Vill att fler ska få upp ögonen ✓ ”Ta chansen”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Joachim, 60, takes grandfather leave: \"It's wonderful\"",
-        "summary": "Wants more people to take notice ✓ \"Seize the chance\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T10:31:08+01:00"
       }
     }
   ]

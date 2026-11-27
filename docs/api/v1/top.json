@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T01:01:19+01:00",
-  "count": 28,
+  "generated_at": "2026-11-27T01:15:53+01:00",
+  "count": 29,
   "stories": [
     {
       "id": "ed574169a1d8",
@@ -677,6 +677,107 @@
       ]
     },
     {
+      "id": "a7132c44a83b",
+      "source_count": 4,
+      "sources": [
+        "di",
+        "aftonbladet",
+        "svd",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-26T16:09:16+01:00",
+      "last_published_at": "2026-11-27T01:00:55+01:00",
+      "lead": {
+        "id": "a7132c44a83b",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/trump-till-putin-avsluta-all-aggression-i-europa",
+        "guid": "2577e1c3-df98-42c9-b249-c5af8bf51195",
+        "published_at": "2026-11-26T16:09:16+01:00",
+        "fetched_at": "2026-11-26T16:15:50+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/46243de9-c2f1-46be-8372-747e7f89a6b0.jpeg?width=600",
+        "sv": {
+          "title": "Trump till Putin: Avsluta all aggression i Europa",
+          "summary": "USA:s president Donald Trump uppmanar Rysslands president Vladimir Putin att avsluta aggressionen runt om i Europa. Det skriver han i ett inlägg på Truth Social.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Trump to Putin: End all aggression in Europe",
+          "summary": "US President Donald Trump urges Russian President Vladimir Putin to end the aggression across Europe. He writes this in a post on Truth Social."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T16:15:54+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "1d94c8004bef",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/trumps-krav--pa-putin-lat-europa-vara",
+          "published_at": "2026-11-27T01:00:55+01:00",
+          "sv": {
+            "title": "Trumps krav på Putin: Låt Europa vara"
+          },
+          "en": {
+            "title": "Trump's demand to Putin: Leave Europe alone"
+          }
+        },
+        {
+          "id": "f6eb2e57ea59",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=19ff3ac4-29eb-4195-b9df-f72d89565760",
+          "published_at": "2026-11-26T17:15:43+01:00",
+          "sv": {
+            "title": "Trumps uppmaning till Putin"
+          },
+          "en": {
+            "title": "Trump's call to Putin"
+          }
+        },
+        {
+          "id": "2191ae24cf88",
+          "source": "svd",
+          "url": "https://www.svd.se/a/6Pjmlo/trump-putin-borde-dra-tillbaka-hoten-mot-europa",
+          "published_at": "2026-11-26T17:08:22+01:00",
+          "sv": {
+            "title": "Trump: Putin borde dra tillbaka hot mot Europa"
+          },
+          "en": {
+            "title": "Trump: Putin should withdraw threats against Europe"
+          }
+        },
+        {
+          "id": "0a321f028ef9",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/lMAp9M/trump-putin-borde-dra-tillbaka-hoten-mot-europa",
+          "published_at": "2026-11-26T17:02:01+01:00",
+          "sv": {
+            "title": "Trump: Putin borde dra tillbaka hoten mot Europa"
+          },
+          "en": {
+            "title": "Trump: Putin should withdraw threats against Europe"
+          }
+        },
+        {
+          "id": "a7132c44a83b",
+          "source": "di",
+          "url": "https://www.di.se/live/trump-till-putin-avsluta-all-aggression-i-europa",
+          "published_at": "2026-11-26T16:09:16+01:00",
+          "sv": {
+            "title": "Trump till Putin: Avsluta all aggression i Europa"
+          },
+          "en": {
+            "title": "Trump to Putin: End all aggression in Europe"
+          }
+        }
+      ]
+    },
+    {
       "id": "39b05fad3cef",
       "source_count": 4,
       "sources": [
@@ -1076,95 +1177,6 @@
       ]
     },
     {
-      "id": "a7132c44a83b",
-      "source_count": 4,
-      "sources": [
-        "di",
-        "aftonbladet",
-        "svd",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-26T16:09:16+01:00",
-      "last_published_at": "2026-11-26T17:15:43+01:00",
-      "lead": {
-        "id": "a7132c44a83b",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/trump-till-putin-avsluta-all-aggression-i-europa",
-        "guid": "2577e1c3-df98-42c9-b249-c5af8bf51195",
-        "published_at": "2026-11-26T16:09:16+01:00",
-        "fetched_at": "2026-11-26T16:15:50+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/46243de9-c2f1-46be-8372-747e7f89a6b0.jpeg?width=600",
-        "sv": {
-          "title": "Trump till Putin: Avsluta all aggression i Europa",
-          "summary": "USA:s president Donald Trump uppmanar Rysslands president Vladimir Putin att avsluta aggressionen runt om i Europa. Det skriver han i ett inlägg på Truth Social.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Trump to Putin: End all aggression in Europe",
-          "summary": "US President Donald Trump urges Russian President Vladimir Putin to end the aggression across Europe. He writes this in a post on Truth Social."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T16:15:54+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "f6eb2e57ea59",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=19ff3ac4-29eb-4195-b9df-f72d89565760",
-          "published_at": "2026-11-26T17:15:43+01:00",
-          "sv": {
-            "title": "Trumps uppmaning till Putin"
-          },
-          "en": {
-            "title": "Trump's call to Putin"
-          }
-        },
-        {
-          "id": "2191ae24cf88",
-          "source": "svd",
-          "url": "https://www.svd.se/a/6Pjmlo/trump-putin-borde-dra-tillbaka-hoten-mot-europa",
-          "published_at": "2026-11-26T17:08:22+01:00",
-          "sv": {
-            "title": "Trump: Putin borde dra tillbaka hot mot Europa"
-          },
-          "en": {
-            "title": "Trump: Putin should withdraw threats against Europe"
-          }
-        },
-        {
-          "id": "0a321f028ef9",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/lMAp9M/trump-putin-borde-dra-tillbaka-hoten-mot-europa",
-          "published_at": "2026-11-26T17:02:01+01:00",
-          "sv": {
-            "title": "Trump: Putin borde dra tillbaka hoten mot Europa"
-          },
-          "en": {
-            "title": "Trump: Putin should withdraw threats against Europe"
-          }
-        },
-        {
-          "id": "a7132c44a83b",
-          "source": "di",
-          "url": "https://www.di.se/live/trump-till-putin-avsluta-all-aggression-i-europa",
-          "published_at": "2026-11-26T16:09:16+01:00",
-          "sv": {
-            "title": "Trump till Putin: Avsluta all aggression i Europa"
-          },
-          "en": {
-            "title": "Trump to Putin: End all aggression in Europe"
-          }
-        }
-      ]
-    },
-    {
       "id": "6b6dd770954b",
       "source_count": 3,
       "sources": [
@@ -1512,6 +1524,68 @@
           },
           "en": {
             "title": "EU calls for release of Dawit Isaak"
+          }
+        }
+      ]
+    },
+    {
+      "id": "051f6d59dca2",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-27T01:07:04+01:00",
+      "last_published_at": "2026-11-27T01:07:04+01:00",
+      "lead": {
+        "id": "051f6d59dca2",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/Pv9WyR/flera-doda-i-terrorattack-i-niger",
+        "guid": "https://www.svd.se/a/Pv9WyR/flera-doda-i-terrorattack-i-niger?utm_medium=rss",
+        "published_at": "2026-11-27T01:07:04+01:00",
+        "fetched_at": "2026-11-27T01:15:44+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Flera döda i terrorattack i Niger",
+          "summary": "Minst 13 personer ur Nigers nationalgarde dödades och ytterligare 20 skadades i en ”terrorattack” i…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Several dead in terror attack in Niger",
+          "summary": "At least 13 members of Niger's National Guard were killed and another 20 injured in a “terror attack” in…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T01:15:51+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "800b67345034",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/nLa5wa/flera-doda-i-terrorattack-i-niger",
+          "published_at": "2026-11-27T01:07:04+01:00",
+          "sv": {
+            "title": "Flera döda i terrorattack i Niger"
+          },
+          "en": {
+            "title": "Several dead in terror attack in Niger"
+          }
+        },
+        {
+          "id": "051f6d59dca2",
+          "source": "svd",
+          "url": "https://www.svd.se/a/Pv9WyR/flera-doda-i-terrorattack-i-niger",
+          "published_at": "2026-11-27T01:07:04+01:00",
+          "sv": {
+            "title": "Flera döda i terrorattack i Niger"
+          },
+          "en": {
+            "title": "Several dead in terror attack in Niger"
           }
         }
       ]
