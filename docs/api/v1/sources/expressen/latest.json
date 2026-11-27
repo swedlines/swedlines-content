@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T22:01:21+01:00",
+  "generated_at": "2026-11-27T22:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "257286699417",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/appen-wehunt-hackad-71-400-kan-vara-berorda",
+      "guid": "https://www.expressen.se/nyheter/sverige/appen-wehunt-hackad-71-400-kan-vara-berorda/",
+      "published_at": "2026-11-27T22:07:01+01:00",
+      "fetched_at": "2026-11-27T22:15:46+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Appen Wehunt hackad – 71 400 kan vara berörda",
+        "summary": "Den populära jaktappen Wehunt har polisanmält ett IT-intrång. 71 400 användare kan vara berörda och det finns risk för att personuppgifter, jaktkort och vapenlicenser har läckt, enligt bolaget bakom.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Hunting app Wehunt hacked – 71,400 may be affected",
+        "summary": "The popular hunting app Wehunt has reported an IT intrusion to the police. 71,400 users may be affected, and there is a risk that personal data, hunting permits and firearms licences have been leaked, according to the company behind it."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T22:15:50+01:00"
+      }
+    },
     {
       "id": "7b114ef86b74",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T22:45:56+01:00"
-      }
-    },
-    {
-      "id": "86e0fb463739",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumps-stora-vinst-pa-jensen-huangs-comeback-pa-nvidia/",
-      "published_at": "2026-11-24T22:30:48+01:00",
-      "fetched_at": "2026-11-24T22:41:51+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Trumps stora vinst på Jensen Huangs comeback på Nvidia",
-        "summary": "Donald Trump såg till Jensen Huang fick tillbaka jobbet som Nvidia vd. Enligt The Guardian hade han 150 miljoner anledningar att hjälpa till. – Jag övertalade dem, säger Trump.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump's big win on Jensen Huang's comeback at Nvidia",
-        "summary": "Donald Trump made sure Jensen Huang got his job back as Nvidia CEO. According to The Guardian, he had 150 million reasons to help. – I persuaded them, says Trump."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T22:41:56+01:00"
       }
     }
   ]
