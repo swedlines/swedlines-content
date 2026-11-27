@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T09:46:08+01:00",
+  "generated_at": "2026-11-27T09:47:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7c4026f386bf",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/4Eq6Ae/vinn-fina-priser-i-radio-aftonbladets-fredagsquiz",
+      "guid": "https://www.aftonbladet.se/nyheter/a/4Eq6Ae/vinn-fina-priser-i-radio-aftonbladets-fredagsquiz?utm_medium=rss",
+      "published_at": "2026-11-27T09:46:19+01:00",
+      "fetched_at": "2026-11-27T09:47:43+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/4b922ca2-ef26-339c-9f90-1143a5a25aef?format=auto&s=25728b91c9d4a6a46a045bae1a9644c72d8332f6&w=1000",
+      "sv": {
+        "title": "Quiz: Testa dig på veckans nyheter",
+        "summary": "Fredagsquiz: Tävla med Radio Aftonbladet 27 november",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Quiz: Test yourself on this week's news",
+        "summary": "Friday quiz: Compete with Radio Aftonbladet 27 November"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T09:47:47+01:00"
+      }
+    },
     {
       "id": "fc67b4488800",
       "schema_version": 1,
@@ -5372,33 +5399,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T02:45:55+01:00"
-      }
-    },
-    {
-      "id": "1e73c886e6e3",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Pv9W40/zelenskyjs-kritik-mot-trump-har-manga-fragor",
-      "guid": "https://www.svd.se/a/Pv9W40/zelenskyjs-kritik-mot-trump-har-manga-fragor?utm_medium=rss",
-      "published_at": "2026-11-27T02:19:23+01:00",
-      "fetched_at": "2026-11-27T02:30:59+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/a94ecc0d-c505-3ce0-8c4c-0eb5b7542f13?format=auto&s=34c024fd268f8454e53de0166b6172a886b0dab0&w=1000",
-      "sv": {
-        "title": "Zelenskyjs kritik mot Trump: ”Har många frågor”",
-        "summary": "Ukrainas president Volodymyr Zelenskyj är kritisk till den amerikanske ledaren Donald Trump, som han…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Zelenskyy's criticism of Trump: \"Has many questions\"",
-        "summary": "Ukrainian President Volodymyr Zelenskyy is critical of the American leader Donald Trump, whom he…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T02:31:04+01:00"
       }
     }
   ]
