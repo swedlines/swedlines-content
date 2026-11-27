@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T20:31:07+01:00",
+  "generated_at": "2026-11-27T20:37:05+01:00",
   "count": 30,
   "stories": [
     {
@@ -2157,82 +2157,6 @@
       ]
     },
     {
-      "id": "726e8c1c842e",
-      "source_count": 3,
-      "sources": [
-        "aftonbladet",
-        "svd",
-        "di"
-      ],
-      "first_published_at": "2026-11-27T08:09:05+01:00",
-      "last_published_at": "2026-11-27T08:33:04+01:00",
-      "lead": {
-        "id": "726e8c1c842e",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/Wmb92d/starshield-strulet-en-gata-som-pingpong",
-        "guid": "https://www.aftonbladet.se/nyheter/a/Wmb92d/starshield-strulet-en-gata-som-pingpong?utm_medium=rss",
-        "published_at": "2026-11-27T08:09:05+01:00",
-        "fetched_at": "2026-11-27T08:15:48+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/a4c94708-f934-36ea-9ffe-fd77b69ee71e?format=auto&s=5f039870d3f38a578bd8f223ec557c2ff1848886&w=1000",
-        "sv": {
-          "title": "Starshield-strulet en gåta: ”Som pingpong”",
-          "summary": "En svår vinter väntar för Ukraina, som försvarar sitt luftrum från ryska attacker med hjälp av…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Starshield mess a mystery: \"Like ping-pong\"",
-          "summary": "A difficult winter awaits Ukraine, which is defending its airspace from Russian attacks with the help of…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T08:15:58+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "64bcd67bede0",
-          "source": "di",
-          "url": "https://www.di.se/live/starshield-strulet-en-gata-som-pingpong",
-          "published_at": "2026-11-27T08:33:04+01:00",
-          "sv": {
-            "title": "Starshield-strulet en gåta: ”Som pingpong”"
-          },
-          "en": {
-            "title": "The Starshield glitch remains a mystery: “Like ping-pong”"
-          }
-        },
-        {
-          "id": "aadf01982a5c",
-          "source": "svd",
-          "url": "https://www.svd.se/a/nLa5Pn/starshield-strulet-en-gata-som-pingpong",
-          "published_at": "2026-11-27T08:09:05+01:00",
-          "sv": {
-            "title": "Starshield-strulet en gåta: ”Som pingpong”"
-          },
-          "en": {
-            "title": "Starshield mess a mystery: \"Like ping-pong\""
-          }
-        },
-        {
-          "id": "726e8c1c842e",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Wmb92d/starshield-strulet-en-gata-som-pingpong",
-          "published_at": "2026-11-27T08:09:05+01:00",
-          "sv": {
-            "title": "Starshield-strulet en gåta: ”Som pingpong”"
-          },
-          "en": {
-            "title": "Starshield mess a mystery: \"Like ping-pong\""
-          }
-        }
-      ]
-    },
-    {
       "id": "08c6dca86fc8",
       "source_count": 2,
       "sources": [
@@ -2741,6 +2665,68 @@
           },
           "en": {
             "title": "Suspected mastermind of major VAT fraud arrested in Dubai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b9184d1520e4",
+      "source_count": 2,
+      "sources": [
+        "sr",
+        "dn"
+      ],
+      "first_published_at": "2026-11-27T15:36:00+01:00",
+      "last_published_at": "2026-11-27T16:26:16+01:00",
+      "lead": {
+        "id": "b9184d1520e4",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9351799",
+        "guid": "rss:sr.se/article/9351799",
+        "published_at": "2026-11-27T15:36:00+01:00",
+        "fetched_at": "2026-11-27T15:45:47+01:00",
+        "category": "culture",
+        "sv": {
+          "title": "AI och mars inspirerar årets pepparkakshus",
+          "summary": "AI, flygande bilar och livet på Mars inspirerar årets pepparkakshustävling på Arkdes, där 161 bidrag gestaltar framtiden. Barn, proffs och andra bagare tävlar i tre kategorier. Projektledaren Johanna Gafvelin ser både mörka framtidsbilder och barnens mer positiva tolkningar.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "AI and Mars inspire this year's gingerbread houses",
+          "summary": "AI, flying cars and life on Mars inspire this year's gingerbread house competition at Arkdes, where 161 entries depict the future. Children, professionals and other bakers compete in three categories. Project manager Johanna Gafvelin sees both dark visions of the future and the children's more positive interpretations."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T15:45:57+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "d9a81ff6d5d1",
+          "source": "dn",
+          "url": "https://www.dn.se/kultur/se-arets-bidrag-till-hajpade-pepparkakshustavlingen-oppnar-julen-i-stockholm",
+          "published_at": "2026-11-27T16:26:16+01:00",
+          "sv": {
+            "title": "Se årets bidrag till hajpade pepparkakshustävlingen: ”Öppnar julen i Stockholm”"
+          },
+          "en": {
+            "title": "See this year's entries in the hyped gingerbread house competition: “Opens Christmas in Stockholm”"
+          }
+        },
+        {
+          "id": "b9184d1520e4",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351799",
+          "published_at": "2026-11-27T15:36:00+01:00",
+          "sv": {
+            "title": "AI och mars inspirerar årets pepparkakshus"
+          },
+          "en": {
+            "title": "AI and Mars inspire this year's gingerbread houses"
           }
         }
       ]

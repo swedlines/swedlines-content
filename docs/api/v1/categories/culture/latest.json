@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T20:31:07+01:00",
+  "generated_at": "2026-11-27T20:37:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "58d02846bf21",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/har-ar-svensken-som-vi-helst-vill-fira-jul-med",
+      "guid": "https://www.expressen.se/nyheter/sverige/har-ar-svensken-som-vi-helst-vill-fira-jul-med/",
+      "published_at": "2026-11-27T20:29:25+01:00",
+      "fetched_at": "2026-11-27T20:36:59+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Här är svensken som vi helst vill fira jul med",
+        "summary": "Siw Malmkvist kom på tredje plats, Messiah Hallberg på andra. Men när svenskarna utser personen man helst firar jul med vinner talmannen Anderas Norlén, visar Livsmedelsföretagens undersökning. – Jag är glad och hedrad, säger talmannen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here is the Swede we would most like to spend Christmas with",
+        "summary": "Siw Malmkvist came third, Messiah Hallberg second. But when Swedes choose the person they would most like to spend Christmas with, Speaker of the Riksdag Andreas Norlén wins, according to a survey by Livsmedelsföretagen. \"I am glad and honoured,\" says the Speaker."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T20:37:03+01:00"
+      }
+    },
     {
       "id": "0d4199d80fb4",
       "schema_version": 1,
@@ -5612,41 +5638,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T21:41:02+01:00"
-      }
-    },
-    {
-      "id": "2228deb2b055",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/litteratur/litteraturrecension/recension-oheligt-hantverk-av-andrev-walden.b44d6a94-b195-58c7-a82b-5020d7885cb0",
-      "guid": "b44d6a94-b195-58c7-a82b-5020d7885cb0",
-      "published_at": "2026-11-24T21:29:44+01:00",
-      "fetched_at": "2026-11-24T21:45:50+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Litteraturrecension",
-        "Tagg: Recension",
-        "Tagg: Andrev Walden",
-        "Tagg: Författare",
-        "Tagg: Roman",
-        "Tagg: Fotbolls-VM"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/bfe8a009-c372-3cc6-a4cd-4a65a2314e43",
-      "sv": {
-        "title": "Waldens omöjliga andra bok handlar om dödens konsekvenser",
-        "summary": "Bladvändare, översinnlig, vacker och vanlig – ”Oheligt hantverk” är många böcker i en",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Walden's impossible second book is about the consequences of death",
-        "summary": "Page-turner, supernatural, beautiful and ordinary – \"Oheligt hantverk\" is many books in one"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T21:45:54+01:00"
       }
     }
   ]
