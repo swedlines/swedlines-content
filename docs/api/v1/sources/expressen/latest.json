@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T10:16:01+01:00",
+  "generated_at": "2026-11-27T10:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c01b34e328ae",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=62dcd3d5-e551-4506-a10a-033692aaf495",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=62dcd3d5-e551-4506-a10a-033692aaf495",
+      "published_at": "2026-11-27T10:12:37+01:00",
+      "fetched_at": "2026-11-27T10:31:01+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Svensk officer utreds",
+        "summary": "Utreds för brott mot Sveriges säkerhet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish officer under investigation",
+        "summary": "Under investigation for offences against Sweden's security"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:31:07+01:00"
+      }
+    },
     {
       "id": "865a519c0bd9",
       "schema_version": 1,
@@ -5163,32 +5189,6 @@
       "en": {
         "title": "M rises amid government chaos",
         "summary": "New good news for Kristersson in Demoskop"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T07:45:50+01:00"
-      }
-    },
-    {
-      "id": "b0e044a99c97",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/splittringen-i-c-kanske-ar-i-fel-parti",
-      "guid": "https://www.expressen.se/nyheter/sverige/splittringen-i-c-kanske-ar-i-fel-parti/",
-      "published_at": "2026-11-24T07:30:18+01:00",
-      "fetched_at": "2026-11-24T07:45:43+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Splittringen i C: ”Kanske är i fel parti”",
-        "summary": "Centerpartiet ska förhandla högerut igen. Bara timmar före beskedet vädjade 35 centerpartister om att partiet inte skulle göra sig beroende av SD. – Då kanske man håller på med fel saker, eller är i fel parti, säger Karin Källström i SVT:s ”Morgonstudion”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Split in the Centre Party: \"Maybe is in the wrong party\"",
-        "summary": "The Centre Party is set to negotiate further to the right again. Just hours before the announcement, 35 Centre Party members urged the party not to make itself dependent on the Sweden Democrats. \"Then maybe you're doing the wrong things, or are in the wrong party,\" says Karin Källström on SVT's \"Morgonstudion\"."
       },
       "translation": {
         "status": "done",

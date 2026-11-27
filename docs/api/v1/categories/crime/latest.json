@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T10:16:01+01:00",
+  "generated_at": "2026-11-27T10:31:10+01:00",
   "count": 200,
   "items": [
     {
@@ -26,6 +26,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T10:15:55+01:00"
+      }
+    },
+    {
+      "id": "c01b34e328ae",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=62dcd3d5-e551-4506-a10a-033692aaf495",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=62dcd3d5-e551-4506-a10a-033692aaf495",
+      "published_at": "2026-11-27T10:12:37+01:00",
+      "fetched_at": "2026-11-27T10:31:01+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Svensk officer utreds",
+        "summary": "Utreds för brott mot Sveriges säkerhet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish officer under investigation",
+        "summary": "Under investigation for offences against Sweden's security"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T10:31:07+01:00"
       }
     },
     {
@@ -5364,32 +5390,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T20:45:53+01:00"
-      }
-    },
-    {
-      "id": "a496a7727567",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/polisens-fasa-nar-de-ser-bilinfernot",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/polisens-fasa-nar-de-ser-bilinfernot",
-      "published_at": "2026-11-22T20:19:30+01:00",
-      "fetched_at": "2026-11-22T20:30:58+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisens fasa när de ser bilinfernot",
-        "summary": "Märker vad som finns in i bilen i Kalifornien",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police's horror as they see the car inferno",
-        "summary": "Notice what is inside the car in California"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T20:31:07+01:00"
       }
     }
   ]
