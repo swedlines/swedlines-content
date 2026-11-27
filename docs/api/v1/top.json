@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:31:08+01:00",
+  "generated_at": "2026-11-27T01:45:50+01:00",
   "count": 29,
   "stories": [
     {
@@ -1529,6 +1529,69 @@
       ]
     },
     {
+      "id": "d5c872d11a17",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-27T01:33:59+01:00",
+      "last_published_at": "2026-11-27T01:33:59+01:00",
+      "lead": {
+        "id": "d5c872d11a17",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/8Pm3BA/trump-osaker-pa-putin-pa-g20",
+        "guid": "https://www.aftonbladet.se/nyheter/a/8Pm3BA/trump-osaker-pa-putin-pa-g20?utm_medium=rss",
+        "published_at": "2026-11-27T01:33:59+01:00",
+        "fetched_at": "2026-11-27T01:45:43+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/ded85da9-aba4-3f8a-a6cd-956e0c7a8b2a?format=auto&s=00b1b64251fce6fb173ad090fcb9baab4457cae4&w=1000",
+        "sv": {
+          "title": "Trump osäker på Putins deltagande på G20",
+          "summary": "USA:s president Donald Trump säger att han är osäker på om hans ryske motsvarighet Vladimir Putin…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Trump unsure whether Putin will attend G20",
+          "summary": "US President Donald Trump says he is unsure whether his Russian counterpart Vladimir Putin will…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T01:45:47+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "f5902163eca2",
+          "source": "svd",
+          "url": "https://www.svd.se/a/4Eq6ze/trump-osaker-pa-putin-pa-g20",
+          "published_at": "2026-11-27T01:33:59+01:00",
+          "sv": {
+            "title": "Trump osäker på Putins deltagande på G20"
+          },
+          "en": {
+            "title": "Trump unsure whether Putin will attend G20"
+          }
+        },
+        {
+          "id": "d5c872d11a17",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/8Pm3BA/trump-osaker-pa-putin-pa-g20",
+          "published_at": "2026-11-27T01:33:59+01:00",
+          "sv": {
+            "title": "Trump osäker på Putins deltagande på G20"
+          },
+          "en": {
+            "title": "Trump unsure whether Putin will attend G20"
+          }
+        }
+      ]
+    },
+    {
       "id": "051f6d59dca2",
       "source_count": 2,
       "sources": [
@@ -2524,69 +2587,6 @@
           },
           "en": {
             "title": "Police warn about scam texts"
-          }
-        }
-      ]
-    },
-    {
-      "id": "6ee602470a18",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svt"
-      ],
-      "first_published_at": "2026-11-26T13:34:08+01:00",
-      "last_published_at": "2026-11-26T13:42:32+01:00",
-      "lead": {
-        "id": "6ee602470a18",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/Jnok8R/mordatalade-16-aringar-riskerar-tolv-ars-fangelse",
-        "guid": "https://www.aftonbladet.se/nyheter/a/Jnok8R/mordatalade-16-aringar-riskerar-tolv-ars-fangelse?utm_medium=rss",
-        "published_at": "2026-11-26T13:34:08+01:00",
-        "fetched_at": "2026-11-26T13:45:43+01:00",
-        "category": "crime",
-        "image_url": "https://akamai.vgc.no/v2/images/8578d3ba-08b2-3ae7-a07e-17af4e53d2c0?format=auto&s=74af578b1ae00412250a1550bd715f01450a9493&w=1000",
-        "sv": {
-          "title": "Mordåtalade 16-åringar riskerar tolv års fängelse",
-          "summary": "Åklagaren yrkar på tolv års fängelse för två 16-åriga pojkar som står åtalade för mord i Oslo och…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Teenagers charged with murder face twelve years in prison",
-          "summary": "The prosecutor is seeking twelve years in prison for two 16-year-old boys charged with murder in Oslo and…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T13:45:49+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "715c4a732b0d",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/ost/mordatalade-16-aringar-riskerar-tolv-ars-fangelse",
-          "published_at": "2026-11-26T13:42:32+01:00",
-          "sv": {
-            "title": "Mordåtalade 16-åringar riskerar tolv års fängelse"
-          },
-          "en": {
-            "title": "Teenagers charged with murder face twelve years in prison"
-          }
-        },
-        {
-          "id": "6ee602470a18",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Jnok8R/mordatalade-16-aringar-riskerar-tolv-ars-fangelse",
-          "published_at": "2026-11-26T13:34:08+01:00",
-          "sv": {
-            "title": "Mordåtalade 16-åringar riskerar tolv års fängelse"
-          },
-          "en": {
-            "title": "Teenagers charged with murder face twelve years in prison"
           }
         }
       ]
