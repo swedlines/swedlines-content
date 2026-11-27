@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T05:01:10+01:00",
+  "generated_at": "2026-11-27T05:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b1d91d49b7c4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/XogxRo/costa-rica-portar-fn-rapportor",
+      "guid": "https://www.aftonbladet.se/nyheter/a/XogxRo/costa-rica-portar-fn-rapportor?utm_medium=rss",
+      "published_at": "2026-11-27T05:11:26+01:00",
+      "fetched_at": "2026-11-27T05:15:47+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/090faaf6-6347-3ca6-9236-959107e7080c?format=auto&s=23cc10cd12a945258bec6e3102f4707a641525d4&w=1000",
+      "sv": {
+        "title": "Costa Rica portar FN-rapportör",
+        "summary": "Regeringen i Costa Rica har nekat FN:s särskilda rapportör för de palestinska…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Costa Rica bars UN rapporteur",
+        "summary": "The government of Costa Rica has denied the UN's special rapporteur for the Palestinian…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T05:15:53+01:00"
+      }
+    },
     {
       "id": "9e738166012f",
       "schema_version": 1,
@@ -5310,32 +5337,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T07:15:56+01:00"
-      }
-    },
-    {
-      "id": "a28dfe47fbd2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trump-oppnar-for-att-benada-huang",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-oppnar-for-att-benada-huang/",
-      "published_at": "2026-11-25T06:31:45+01:00",
-      "fetched_at": "2026-11-25T06:45:47+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trump öppnar för att benåda Huang",
-        "summary": "Öppnar för att benåda Nvidia-vd:n",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump opens to pardoning Huang",
-        "summary": "Opens to pardoning the Nvidia CEO"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T06:45:52+01:00"
       }
     }
   ]
