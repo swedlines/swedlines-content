@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-27T13:48:54+01:00",
+  "generated_at": "2026-11-27T14:01:35+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "675a890cf042",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/just-nu-ser-det-morkt-ut",
+      "guid": "https://www.expressen.se/nyheter/sverige/just-nu-ser-det-morkt-ut/",
+      "published_at": "2026-11-27T13:54:05+01:00",
+      "fetched_at": "2026-11-27T14:01:18+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "”Just nu ser det mörkt ut”",
+        "summary": "Nya S-toppen har inte gett upp",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Things Look Dark Right Now\"",
+        "summary": "The new S leader has not given up"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T14:01:28+01:00"
+      }
+    },
+    {
+      "id": "60ec92df6418",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/cuf-svanger-i-regeringsfragan-stottar-hogersvang",
+      "guid": "https://www.expressen.se/nyheter/politik/cuf-svanger-i-regeringsfragan-stottar-hogersvang/",
+      "published_at": "2026-11-27T13:51:06+01:00",
+      "fetched_at": "2026-11-27T14:01:18+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "CUF svänger i regeringsfrågan – stöttar högersväng",
+        "summary": "För bara ett par dagar sedan ville Centerpartiets ungdomsförbund se en S-regering eller extraval. Nu svänger CUF plötsligt – trots att det kan ge SD ett betydande inflytande. – Jag ser det som en risk, säger ordföranden Emelie Rossheim.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "CUF Shifts on Government Question – Backs Rightward Turn",
+        "summary": "Just a couple of days ago, the Centre Party youth league wanted a Social Democrat government or a snap election. Now CUF suddenly shifts – even though it could give the Sweden Democrats significant influence. – I see it as a risk, says chair Emelie Rossheim."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T14:01:28+01:00"
+      }
+    },
     {
       "id": "52f206538f59",
       "schema_version": 1,
@@ -5144,58 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T13:01:15+01:00"
-      }
-    },
-    {
-      "id": "0683b08b0ce1",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trump-vill-ha-fred-i-ukraina-fore-januari",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-vill-ha-fred-i-ukraina-fore-januari/",
-      "published_at": "2026-11-24T12:47:57+01:00",
-      "fetched_at": "2026-11-24T13:01:09+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trump vill ha fred i Ukraina – före januari",
-        "summary": "Efter mötet med Vladimir Putin i Kina sa Donald Trump att Moskva är ”redo för fred”. USA:s president vill ha ett fredsavtal klart innan den nya kongressen tillträder i januari, uppger källor för Financial Times.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump wants peace in Ukraine – before January",
-        "summary": "After meeting Vladimir Putin in China, Donald Trump said Moscow is \"ready for peace\". The US president wants a peace agreement in place before the new Congress takes office in January, sources tell the Financial Times."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T13:01:15+01:00"
-      }
-    },
-    {
-      "id": "366a612f3680",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/politik/partiledarna-aterrapporterar-efter-talmansrundorna",
-      "guid": "https://www.expressen.se/tv/politik/partiledarna-aterrapporterar-efter-talmansrundorna",
-      "published_at": "2026-11-24T12:26:05+01:00",
-      "fetched_at": "2026-11-24T12:30:56+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "STRAX: Busch har pressträff",
-        "summary": "KD-ledarens ord efter återrapporteringen till talmannen",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "STRAX: Busch has press conference",
-        "summary": "KD leader's comments after reporting back to the Speaker"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T12:31:03+01:00"
       }
     }
   ]

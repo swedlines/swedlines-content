@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T13:48:54+01:00",
+  "generated_at": "2026-11-27T14:01:35+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cce06bb5d891",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/man-hoggs-ihjal-i-kungsor-kvinna-atalas-for-mord",
+      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/man-hoggs-ihjal-i-kungsor-kvinna-atalas-for-mord",
+      "published_at": "2026-11-27T13:50:25+01:00",
+      "fetched_at": "2026-11-27T14:01:15+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man höggs ihjäl i Kungsör – kvinna åtalas för mord",
+        "summary": "Den 21 juli höggs en 60-årig man ihjäl med kniv i en lägenhet i Kungsör. Nu åtalas en kvinna i 40-årsåldern för mord.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man Hacked to Death in Kungsör – Woman Charged With Murder",
+        "summary": "On 21 July a 60-year-old man was hacked to death with a knife in an apartment in Kungsör. Now a woman in her 40s is charged with murder."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T14:01:28+01:00"
+      }
+    },
     {
       "id": "3ba789209bc4",
       "schema_version": 1,
@@ -5363,32 +5389,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T06:56:48+01:00"
-      }
-    },
-    {
-      "id": "20844365aac1",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347965",
-      "guid": "rss:sr.se/article/9347965",
-      "published_at": "2026-11-22T23:00:00+01:00",
-      "fetched_at": "2026-11-22T23:15:40+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "18-åring gripen i Kroatien – kopplas till mordet i Älvsjö",
-        "summary": "En 18-årig man har gripits i Kroatien misstänkt för kopplingar till mordet på en 24-årig kvinna i Älvsjö i södra Stockholm i mitten av oktober. 18-åringen misstänks bland annat för anstiftan till mord, skriver Aftonbladet som citerar kroatisk media.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "18-year-old arrested in Croatia – linked to the murder in Älvsjö",
-        "summary": "An 18-year-old man has been arrested in Croatia on suspicion of links to the murder of a 24-year-old woman in Älvsjö in southern Stockholm in mid-October. The 18-year-old is suspected, among other things, of incitement to murder, writes Aftonbladet, citing Croatian media."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T23:15:47+01:00"
       }
     }
   ]

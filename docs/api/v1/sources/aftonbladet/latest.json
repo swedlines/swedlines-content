@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-27T13:48:54+01:00",
+  "generated_at": "2026-11-27T14:01:35+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9d5904559e1d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/oMpJ0g/75-dagar-utan-regering-detta-har-hant",
+      "guid": "https://www.aftonbladet.se/nyheter/a/oMpJ0g/75-dagar-utan-regering-detta-har-hant?utm_medium=rss",
+      "published_at": "2026-11-27T13:58:10+01:00",
+      "fetched_at": "2026-11-27T14:01:17+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "75 dagar utan regering – detta har hänt",
+        "summary": "Det har gått 75 dagar sedan valdagen. Det är fortfarande oklart vilken regering Sverige ska få.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "75 Days Without a Government – Here Is What Has Happened",
+        "summary": "It has been 75 days since election day. It is still unclear which government Sweden will get."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T14:01:28+01:00"
+      }
+    },
+    {
+      "id": "cdf7a5f3d207",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/oMp4pm/lista-sa-mycket-tjanar-politikprofilerna",
+      "guid": "https://www.aftonbladet.se/nyheter/a/oMp4pm/lista-sa-mycket-tjanar-politikprofilerna?utm_medium=rss",
+      "published_at": "2026-11-27T13:51:45+01:00",
+      "fetched_at": "2026-11-27T14:01:17+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/dab033d6-c4c8-3b73-b18b-9b23b9c3e856?format=auto&s=2633035621db981802e442aa06a31ad0b1a84fc2&w=1000",
+      "sv": {
+        "title": "Lista: Så mycket tjänar politik­profilerna",
+        "summary": "LISTA: Så mycket tjänar politikprofilerna",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "List: How Much Political Profiles Earn",
+        "summary": "LIST: How much the political profiles earn"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T14:01:28+01:00"
+      }
+    },
     {
       "id": "284447b60574",
       "schema_version": 1,
@@ -5320,60 +5373,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T20:01:21+01:00"
-      }
-    },
-    {
-      "id": "5dbb1d29e656",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/8PmaqA/rodgront-storbrak-om-inbjudningar-tackat-nej",
-      "guid": "https://www.aftonbladet.se/nyheter/a/8PmaqA/rodgront-storbrak-om-inbjudningar-tackat-nej?utm_medium=rss",
-      "published_at": "2026-11-24T19:04:15+01:00",
-      "fetched_at": "2026-11-24T19:15:43+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/e1dc19b4-9c75-3a56-a40a-2538bef743b9?format=auto&s=16ca974d987f71d9ea7d84b05b378a008df29ef8&w=1000",
-      "sv": {
-        "title": "Rödgrönt storbråk om inbjudningar: ”Tackat nej”",
-        "summary": "Öppet ordkrig",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Red-green row over invitations: “Turned down”",
-        "summary": "Open war of words"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T19:15:46+01:00"
-      }
-    },
-    {
-      "id": "63d26c95a770",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/4Eqpqg/112-larm-fran-sigtuna-kan-handa-i-natt-igen",
-      "guid": "https://www.aftonbladet.se/nyheter/a/4Eqpqg/112-larm-fran-sigtuna-kan-handa-i-natt-igen?utm_medium=rss",
-      "published_at": "2026-11-24T18:41:03+01:00",
-      "fetched_at": "2026-11-24T18:45:06+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/1b117501-f08e-3fbb-9e3a-88896d195a52?format=auto&s=6547c79924e6bdd092f9a00e4e833d47cf00027c&w=1000",
-      "sv": {
-        "title": "112-larm från Sigtuna: ”Kan hända i natt igen”",
-        "summary": "Alla varningsklockor ringde på Sigtunaskolan när en elev berättade för kuratorn om timmar av…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "112 call from Sigtuna: \"It could happen again tonight\"",
-        "summary": "All alarm bells rang at Sigtunaskolan when a pupil told the counsellor about hours of..."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T18:45:12+01:00"
       }
     }
   ]

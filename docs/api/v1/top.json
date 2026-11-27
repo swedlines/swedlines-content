@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T13:48:54+01:00",
+  "generated_at": "2026-11-27T14:01:35+01:00",
   "count": 30,
   "stories": [
     {
@@ -1364,6 +1364,82 @@
       ]
     },
     {
+      "id": "6c76594ce7ce",
+      "source_count": 3,
+      "sources": [
+        "di",
+        "sydsvenskan",
+        "sr"
+      ],
+      "first_published_at": "2026-11-27T08:23:29+01:00",
+      "last_published_at": "2026-11-27T13:53:00+01:00",
+      "lead": {
+        "id": "6c76594ce7ce",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/live/bra-fart-i-svensk-ekonomi-bnp-stiger-brant",
+        "guid": "5ebf2447-1417-439d-909d-0138d96cca3f",
+        "published_at": "2026-11-27T08:23:29+01:00",
+        "fetched_at": "2026-11-27T08:31:05+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/d5bdff9a-fe36-4904-ba27-822ec440f6b1.jpeg?width=600",
+        "sv": {
+          "title": "Bra fart i svensk ekonomi – BNP stiger brant",
+          "summary": "Sveriges BNP steg 0,5 procent under det tredje kvartalet jämfört med föregående kvartal. Jämfört med motsvarande kvartal föregående år steg BNP 2,8 procent. Det visar SCB:s nationalräkenskaper.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Strong momentum in Swedish economy – GDP rises sharply",
+          "summary": "Sweden's GDP rose 0.5 percent in the third quarter compared with the previous quarter. Compared with the same quarter a year earlier, GDP rose 2.8 percent. This is shown by Statistics Sweden's national accounts."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T08:31:10+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "884a8d952f0e",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351594",
+          "published_at": "2026-11-27T13:53:00+01:00",
+          "sv": {
+            "title": "Ljusare tider i ekonomi – men mörkare hushållshumör"
+          },
+          "en": {
+            "title": "Brighter Times in the Economy – but Gloomier Household Mood"
+          }
+        },
+        {
+          "id": "510bcb08578b",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/svensk-ekonomi-okar",
+          "published_at": "2026-11-27T09:27:13+01:00",
+          "sv": {
+            "title": "Svensk ekonomi ökar"
+          },
+          "en": {
+            "title": "Swedish economy grows"
+          }
+        },
+        {
+          "id": "6c76594ce7ce",
+          "source": "di",
+          "url": "https://www.di.se/live/bra-fart-i-svensk-ekonomi-bnp-stiger-brant",
+          "published_at": "2026-11-27T08:23:29+01:00",
+          "sv": {
+            "title": "Bra fart i svensk ekonomi – BNP stiger brant"
+          },
+          "en": {
+            "title": "Strong momentum in Swedish economy – GDP rises sharply"
+          }
+        }
+      ]
+    },
+    {
       "id": "145c024c0e2d",
       "source_count": 3,
       "sources": [
@@ -1814,6 +1890,68 @@
           },
           "en": {
             "title": "Zelenskyy's criticism of Trump: \"Has many questions\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "23ba2c6e80d0",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-27T13:58:10+01:00",
+      "last_published_at": "2026-11-27T13:58:10+01:00",
+      "lead": {
+        "id": "23ba2c6e80d0",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/2vGM2a/75-dagar-utan-regering-detta-har-hant",
+        "guid": "https://www.svd.se/a/2vGM2a/75-dagar-utan-regering-detta-har-hant?utm_medium=rss",
+        "published_at": "2026-11-27T13:58:10+01:00",
+        "fetched_at": "2026-11-27T14:01:17+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "75 dagar utan regering – detta har hänt",
+          "summary": "Det har gått 75 dagar sedan valdagen. Det är fortfarande oklart vilken regering Sverige ska få.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "75 Days Without a Government – Here Is What Has Happened",
+          "summary": "It has been 75 days since election day. It is still unclear which government Sweden will get."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T14:01:28+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "9d5904559e1d",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/oMpJ0g/75-dagar-utan-regering-detta-har-hant",
+          "published_at": "2026-11-27T13:58:10+01:00",
+          "sv": {
+            "title": "75 dagar utan regering – detta har hänt"
+          },
+          "en": {
+            "title": "75 Days Without a Government – Here Is What Has Happened"
+          }
+        },
+        {
+          "id": "23ba2c6e80d0",
+          "source": "svd",
+          "url": "https://www.svd.se/a/2vGM2a/75-dagar-utan-regering-detta-har-hant",
+          "published_at": "2026-11-27T13:58:10+01:00",
+          "sv": {
+            "title": "75 dagar utan regering – detta har hänt"
+          },
+          "en": {
+            "title": "75 Days Without a Government – Here Is What Has Happened"
           }
         }
       ]
@@ -2494,69 +2632,6 @@
       ]
     },
     {
-      "id": "6c76594ce7ce",
-      "source_count": 2,
-      "sources": [
-        "di",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-27T08:23:29+01:00",
-      "last_published_at": "2026-11-27T09:27:13+01:00",
-      "lead": {
-        "id": "6c76594ce7ce",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/bra-fart-i-svensk-ekonomi-bnp-stiger-brant",
-        "guid": "5ebf2447-1417-439d-909d-0138d96cca3f",
-        "published_at": "2026-11-27T08:23:29+01:00",
-        "fetched_at": "2026-11-27T08:31:05+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/d5bdff9a-fe36-4904-ba27-822ec440f6b1.jpeg?width=600",
-        "sv": {
-          "title": "Bra fart i svensk ekonomi – BNP stiger brant",
-          "summary": "Sveriges BNP steg 0,5 procent under det tredje kvartalet jämfört med föregående kvartal. Jämfört med motsvarande kvartal föregående år steg BNP 2,8 procent. Det visar SCB:s nationalräkenskaper.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Strong momentum in Swedish economy – GDP rises sharply",
-          "summary": "Sweden's GDP rose 0.5 percent in the third quarter compared with the previous quarter. Compared with the same quarter a year earlier, GDP rose 2.8 percent. This is shown by Statistics Sweden's national accounts."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T08:31:10+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "510bcb08578b",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/svensk-ekonomi-okar",
-          "published_at": "2026-11-27T09:27:13+01:00",
-          "sv": {
-            "title": "Svensk ekonomi ökar"
-          },
-          "en": {
-            "title": "Swedish economy grows"
-          }
-        },
-        {
-          "id": "6c76594ce7ce",
-          "source": "di",
-          "url": "https://www.di.se/live/bra-fart-i-svensk-ekonomi-bnp-stiger-brant",
-          "published_at": "2026-11-27T08:23:29+01:00",
-          "sv": {
-            "title": "Bra fart i svensk ekonomi – BNP stiger brant"
-          },
-          "en": {
-            "title": "Strong momentum in Swedish economy – GDP rises sharply"
-          }
-        }
-      ]
-    },
-    {
       "id": "0cd403922821",
       "source_count": 2,
       "sources": [
@@ -2615,69 +2690,6 @@
           },
           "en": {
             "title": "\"Women and Child\": Harrowing drama about a widow in Iran"
-          }
-        }
-      ]
-    },
-    {
-      "id": "214fb676682e",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-27T08:25:07+01:00",
-      "last_published_at": "2026-11-27T08:53:00+01:00",
-      "lead": {
-        "id": "214fb676682e",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/oMpdQK/elisabeth-thand-ringqvist-finns-ett-beroende-av-sd",
-        "guid": "https://www.aftonbladet.se/nyheter/a/oMpdQK/elisabeth-thand-ringqvist-finns-ett-beroende-av-sd?utm_medium=rss",
-        "published_at": "2026-11-27T08:25:07+01:00",
-        "fetched_at": "2026-11-27T08:45:48+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/0dc91e57-7bae-333f-a2e3-bd701fcc7da5?format=auto&s=5244e0617c3874d82f46f432620a5351b020e95c&w=1000",
-        "sv": {
-          "title": "Elisabeth Thand Ringqvist: Finns ett beroende av SD",
-          "summary": "Medger – på en punkt",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Elisabeth Thand Ringqvist: There is a dependence on SD",
-          "summary": "Admits – on one point"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T08:46:05+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "77e788abc8fb",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/thand-ringqvist-om-sd-finns-ett-beroende",
-          "published_at": "2026-11-27T08:53:00+01:00",
-          "sv": {
-            "title": "Thand Ringqvist om SD: ”Finns ett beroende”"
-          },
-          "en": {
-            "title": "Thand Ringqvist on SD: \"There is a dependency\""
-          }
-        },
-        {
-          "id": "214fb676682e",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/oMpdQK/elisabeth-thand-ringqvist-finns-ett-beroende-av-sd",
-          "published_at": "2026-11-27T08:25:07+01:00",
-          "sv": {
-            "title": "Elisabeth Thand Ringqvist: Finns ett beroende av SD"
-          },
-          "en": {
-            "title": "Elisabeth Thand Ringqvist: There is a dependence on SD"
           }
         }
       ]
