@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T19:31:14+01:00",
+  "generated_at": "2026-11-27T19:45:52+01:00",
   "count": 30,
   "stories": [
     {
@@ -2347,77 +2347,63 @@
       ]
     },
     {
-      "id": "34b29e1ab881",
-      "source_count": 3,
+      "id": "eafd04fff5d6",
+      "source_count": 2,
       "sources": [
-        "di",
-        "sydsvenskan",
-        "sr"
+        "aftonbladet",
+        "di"
       ],
-      "first_published_at": "2026-11-27T05:25:20+01:00",
-      "last_published_at": "2026-11-27T07:42:00+01:00",
+      "first_published_at": "2026-11-27T19:32:23+01:00",
+      "last_published_at": "2026-11-27T19:34:20+01:00",
       "lead": {
-        "id": "34b29e1ab881",
+        "id": "eafd04fff5d6",
         "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/varnar-135-000-pensionarer-kan-missa-stod",
-        "guid": "5c7e5953-865c-45c6-83e3-811c653afb44",
-        "published_at": "2026-11-27T05:25:20+01:00",
-        "fetched_at": "2026-11-27T05:30:56+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/4b14951c-4ce8-478b-ac0c-e81a1ea59510.jpg?width=600",
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/Vxql23/usa-attackerat-fartyg-i-omanbukten",
+        "guid": "https://www.aftonbladet.se/nyheter/a/Vxql23/usa-attackerat-fartyg-i-omanbukten?utm_medium=rss",
+        "published_at": "2026-11-27T19:32:23+01:00",
+        "fetched_at": "2026-11-27T19:45:44+01:00",
+        "category": "world",
         "sv": {
-          "title": "Varnar: 135 000 pensionärer kan missa stöd",
-          "summary": "Omkring 135 000 pensionärer i Sverige kan ha rätt till bostadstillägg utan att få det, enligt Hyresgästföreningen. ”Informationen måste bli tydligare och det måste bli enklare att söka”, säger föreningens ordförande Marie Linder i ett pressmeddelande.",
+          "title": "USA: Attackerat fartyg i Omanbukten",
+          "summary": "USA:s militär har angripit och oskadliggjort ett fraktfartyg i Omanbukten, uppger militärkommandot…",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Warning: 135,000 pensioners may miss out on support",
-          "summary": "Around 135,000 pensioners in Sweden may be entitled to housing supplement without receiving it, according to the Tenants' Association. \"The information must become clearer and it must become easier to apply,\" says the association's chair Marie Linder in a press release."
+          "title": "USA: Attacked ship in the Gulf of Oman",
+          "summary": "The US military has attacked and disabled a cargo ship in the Gulf of Oman, according to the military command Centcom on X."
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T05:31:03+01:00"
+          "translated_at": "2026-11-27T19:45:49+01:00"
         }
       },
       "items": [
         {
-          "id": "49372d858447",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351253",
-          "published_at": "2026-11-27T07:42:00+01:00",
-          "sv": {
-            "title": "Runt 135 000 pensionärer kan ha rätt till tillägg – utan att få det"
-          },
-          "en": {
-            "title": "Around 135,000 pensioners may be entitled to supplement – without receiving it"
-          }
-        },
-        {
-          "id": "b1ade185d598",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/varnar-135-000-pensionarer-kan-missa-stod",
-          "published_at": "2026-11-27T06:00:21+01:00",
-          "sv": {
-            "title": "Varnar: 135 000 pensionärer kan missa stöd"
-          },
-          "en": {
-            "title": "Warning: 135,000 pensioners may miss out on support"
-          }
-        },
-        {
-          "id": "34b29e1ab881",
+          "id": "774140abfb0a",
           "source": "di",
-          "url": "https://www.di.se/live/varnar-135-000-pensionarer-kan-missa-stod",
-          "published_at": "2026-11-27T05:25:20+01:00",
+          "url": "https://www.di.se/nyheter/usa-attackerat-fartyg-i-omanbukten",
+          "published_at": "2026-11-27T19:34:20+01:00",
           "sv": {
-            "title": "Varnar: 135 000 pensionärer kan missa stöd"
+            "title": "USA: Attackerat fartyg i Omanbukten"
           },
           "en": {
-            "title": "Warning: 135,000 pensioners may miss out on support"
+            "title": "USA: Attacked ship in the Gulf of Oman"
+          }
+        },
+        {
+          "id": "eafd04fff5d6",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Vxql23/usa-attackerat-fartyg-i-omanbukten",
+          "published_at": "2026-11-27T19:32:23+01:00",
+          "sv": {
+            "title": "USA: Attackerat fartyg i Omanbukten"
+          },
+          "en": {
+            "title": "USA: Attacked ship in the Gulf of Oman"
           }
         }
       ]

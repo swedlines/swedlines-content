@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-27T19:31:14+01:00",
+  "generated_at": "2026-11-27T19:45:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "774140abfb0a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/usa-attackerat-fartyg-i-omanbukten",
+      "guid": "94cca370-7ea5-4938-bece-3f119193f70b",
+      "published_at": "2026-11-27T19:34:20+01:00",
+      "fetched_at": "2026-11-27T19:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "USA: Attackerat fartyg i Omanbukten",
+        "summary": "USA:s militär har angripit och oskadliggjort ett fraktfartyg i Omanbukten, uppger militärkommandot Centcom på X.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "USA: Attacked ship in the Gulf of Oman",
+        "summary": "The US military has attacked and disabled a cargo ship in the Gulf of Oman, according to the military command Centcom on X."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T19:45:49+01:00"
+      }
+    },
+    {
+      "id": "0d1f73e7fca6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/kallor-telekomjatte-nara-miljardforvarv",
+      "guid": "bab6a6f4-9187-4153-bfaa-affd5dc488c5",
+      "published_at": "2026-11-27T19:31:02+01:00",
+      "fetched_at": "2026-11-27T19:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Källor: Telekomjätte nära miljardförvärv",
+        "summary": "Det amerikanska telekombolaget Verizon förhandlar om att köpa fiberbredbandsoperatören Fidium, i en affär som kan värdera bolaget till omkring 6 miljarder dollar inklusive skulder. Det rapporterar Financial Times, med hänvisning till källor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sources: Telecom giant nears billion-dollar deal",
+        "summary": "The American telecom company Verizon is negotiating to buy fibre broadband operator Fidium, in a deal that could value the company at around 6 billion dollars including debt. The Financial Times reports, citing sources."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T19:45:49+01:00"
+      }
+    },
     {
       "id": "eadd7b189ec9",
       "schema_version": 1,
@@ -5260,60 +5312,6 @@
       "en": {
         "title": "A British “staycation” – down to the last detail",
         "summary": "The Bristol Tavern is no ordinary neighbourhood pub – everything here is thought through, from the interior to what is served at the table. Di Weekend's testing squad especially appreciates that the beer on tap is changed at a rapid pace. All our pub tests are collected here."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T14:16:14+01:00"
-      }
-    },
-    {
-      "id": "5569848c75c9",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/osakert-lage-nar-ecb-valde-att-inte-hoja-rantan",
-      "guid": "df763d2b-9d36-414a-b10a-718c28c1fcd7",
-      "published_at": "2026-11-26T14:01:42+01:00",
-      "fetched_at": "2026-11-26T14:15:51+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/72394399-f44f-4502-ad2e-6308ed9d5b75.jpeg?width=600",
-      "sv": {
-        "title": "Osäkert läge när ECB valde att inte höja räntan",
-        "summary": "Osäkerheten är stor och inverkan på inflationen från energiprischocken är ännu inte klar. Det fanns därför skäl att avvakta med en räntehöjning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Uncertain situation as ECB chose not to raise rates",
-        "summary": "Uncertainty is great and the impact on inflation from the energy price shock is not yet clear. There were therefore grounds to wait before raising rates."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T14:16:14+01:00"
-      }
-    },
-    {
-      "id": "752d18a4b34e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/di-weekend/teaterns-vagade-drag-noren-med-senapssas",
-      "guid": "08eb20d6-80ac-407c-b651-9dbaa7be164d",
-      "published_at": "2026-11-26T14:01:00+01:00",
-      "fetched_at": "2026-11-26T14:15:51+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7d016235-1cac-4e66-95ad-da60a24ab632.jpeg?width=600",
-      "sv": {
-        "title": "Teaterns vågade drag – Norén med senapssås",
-        "summary": "En dyr teaterföreställning – eller en billig lyxmiddag. På Folkteatern i Göteborg får publiken en föreställning och en avsmakningsmeny av en Michelinkock för 1.300 kronor. ”Tanken är att maten ska komplettera känslan på scenen”, säger Gustav Knutsson till Di Weekend.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The theatre's bold move – Norén with mustard sauce",
-        "summary": "An expensive theatre performance – or a cheap luxury dinner. At the Folkteatern in Göteborg, audiences get a performance and a tasting menu by a Michelin chef for SEK 1,300. “The idea is that the food should complement the feeling on stage,” says Gustav Knutsson to Di Weekend."
       },
       "translation": {
         "status": "done",
