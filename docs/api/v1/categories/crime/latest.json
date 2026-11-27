@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T15:46:00+01:00",
+  "generated_at": "2026-11-27T16:01:33+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b7779b951838",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8486a09c-6366-4a5f-9827-d53f94353e27",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8486a09c-6366-4a5f-9827-d53f94353e27",
+      "published_at": "2026-11-27T15:46:19+01:00",
+      "fetched_at": "2026-11-27T16:01:23+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Försvunnen kvinna hittad död",
+        "summary": "Hittad efter stor sökinsats",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Missing woman found dead",
+        "summary": "Found after a major search operation"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T16:01:31+01:00"
+      }
+    },
     {
       "id": "2e7da0496cbf",
       "schema_version": 1,
@@ -5361,33 +5387,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T07:45:54+01:00"
-      }
-    },
-    {
-      "id": "ef30267436fe",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/yz3VdE/kriminalvarden-testar-ai-fangen-kai",
-      "guid": "https://www.svd.se/a/yz3VdE/kriminalvarden-testar-ai-fangen-kai?utm_medium=rss",
-      "published_at": "2026-11-23T07:01:27+01:00",
-      "fetched_at": "2026-11-23T07:04:00+01:00",
-      "category": "crime",
-      "image_url": "https://images.stream.schibsted.media/users/svd/images/e44af60ff323af35f48e24242545e940.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "Kriminalvården testar AI-fånge: ”Läser av en”",
-        "summary": "Kriminalvården ska växa rejält de kommande åren. Och för att locka fler till yrket har man nu tagit…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Prison and Probation Service tests AI prisoner: “Reads one”",
-        "summary": "The Prison and Probation Service is set to grow considerably in the coming years. And to attract more people to the profession, it has now taken…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T07:04:12+01:00"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:46:00+01:00",
+  "generated_at": "2026-11-27T16:01:33+01:00",
   "count": 30,
   "stories": [
     {
@@ -2247,6 +2247,69 @@
       ]
     },
     {
+      "id": "b04d865c2bb5",
+      "source_count": 2,
+      "sources": [
+        "dn",
+        "svd"
+      ],
+      "first_published_at": "2026-11-27T14:19:49+01:00",
+      "last_published_at": "2026-11-27T15:53:03+01:00",
+      "lead": {
+        "id": "b04d865c2bb5",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/kultur/tusentals-verk-brann-upp-nu-kan-grafikens-hus-fa-nytt-hem",
+        "guid": "https://www.dn.se/kultur/tusentals-verk-brann-upp-nu-kan-grafikens-hus-fa-nytt-hem/",
+        "published_at": "2026-11-27T14:19:49+01:00",
+        "fetched_at": "2026-11-27T14:31:04+01:00",
+        "category": "culture",
+        "image_url": "https://static.bonniernews.se/ba/bdca90c0-1820-467e-8075-5ccc2171e922.jpeg?io=1&width=1000",
+        "sv": {
+          "title": "Tusentals verk brann upp – nu kan Grafikens hus få nytt hem",
+          "summary": "När Grafikens hus i Mariefred brann ned för tolv år sedan gick en samling med tusentals verk upp i rök. Nu kan verksamheten ha hittat hem – i Skärholmen centrum. – Jag är glad att det här är en helt annan arkitektur, så att det händer något nytt på riktigt, säger museichefen Nina Beckmann.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Thousands of works burned – now Grafikens hus may get a new home",
+          "summary": "When Grafikens hus in Mariefred burned down twelve years ago, a collection of thousands of works went up in smoke. Now the operation may have found a home – in Skärholmen centre. \"I'm glad this is a completely different architecture, so that something new really happens,\" says museum director Nina Beckmann."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T14:31:25+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "b47290b310ac",
+          "source": "svd",
+          "url": "https://www.svd.se/a/g3WadB/tolv-ar-efter-branden-grafikens-hus-far-nytt-hem",
+          "published_at": "2026-11-27T15:53:03+01:00",
+          "sv": {
+            "title": "Tolv år efter branden: Grafikens hus får nytt hem"
+          },
+          "en": {
+            "title": "Twelve years after the fire: Grafikens hus gets a new home"
+          }
+        },
+        {
+          "id": "b04d865c2bb5",
+          "source": "dn",
+          "url": "https://www.dn.se/kultur/tusentals-verk-brann-upp-nu-kan-grafikens-hus-fa-nytt-hem",
+          "published_at": "2026-11-27T14:19:49+01:00",
+          "sv": {
+            "title": "Tusentals verk brann upp – nu kan Grafikens hus få nytt hem"
+          },
+          "en": {
+            "title": "Thousands of works burned – now Grafikens hus may get a new home"
+          }
+        }
+      ]
+    },
+    {
       "id": "77b766a61022",
       "source_count": 2,
       "sources": [
@@ -2680,68 +2743,6 @@
           },
           "en": {
             "title": "Woman's sentence reduced for failed murder plot"
-          }
-        }
-      ]
-    },
-    {
-      "id": "8a5d1afcba08",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "tv4"
-      ],
-      "first_published_at": "2026-11-27T06:47:16+01:00",
-      "last_published_at": "2026-11-27T11:55:46+01:00",
-      "lead": {
-        "id": "8a5d1afcba08",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/splittring-infor-cs-odesmote-pa-sondag-inte-toppstyrt",
-        "guid": "https://www.expressen.se/nyheter/politik/splittring-infor-cs-odesmote-pa-sondag-inte-toppstyrt/",
-        "published_at": "2026-11-27T06:47:16+01:00",
-        "fetched_at": "2026-11-27T07:01:16+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Splittring inför C:s ödesmöte på söndag: ”Inte toppstyrt”",
-          "summary": "Centern säger ja till Ulf Kristersson i statsministeromröstningen på måndag. Men bakom partiledaren finns ett djupt splittrat parti. Cirka 15 av de totalt 35 personer som utgör Centerns partistyrelse och riksdagsgrupp, som motsatte sig beslutet. Men avgör, det gör partiets förtroenderåd.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Split ahead of C's make-or-break meeting on Sunday: \"Not top-down\"",
-          "summary": "The Centre Party says yes to Ulf Kristersson (M) in the prime ministerial vote on Monday. But behind the party leader is a deeply divided party. About 15 of the 35 people who make up the party board and Riksdag group of the Centre Party opposed the decision. But the decision lies with the party's council of trust."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T07:01:26+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "3319a9e09787",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/3BbCnfAVCdqbMYRgbN1peA/splittrat-c-infoer-oedesmoetet-det-haer-aer-ju-en-rattfaella",
-          "published_at": "2026-11-27T11:55:46+01:00",
-          "sv": {
-            "title": "Splittrat C inför ödesmötet: ”Det här är ju en råttfälla”"
-          },
-          "en": {
-            "title": "Split Centre ahead of decisive meeting: \"This is a rat trap\""
-          }
-        },
-        {
-          "id": "8a5d1afcba08",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/splittring-infor-cs-odesmote-pa-sondag-inte-toppstyrt",
-          "published_at": "2026-11-27T06:47:16+01:00",
-          "sv": {
-            "title": "Splittring inför C:s ödesmöte på söndag: ”Inte toppstyrt”"
-          },
-          "en": {
-            "title": "Split ahead of C's make-or-break meeting on Sunday: \"Not top-down\""
           }
         }
       ]
