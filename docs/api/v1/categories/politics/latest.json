@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T13:31:30+01:00",
+  "generated_at": "2026-11-27T13:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e8a0d5c076b8",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/c-toppen-i-stockholm-det-kanns-lite-som-att-man-blir-utpressad",
+      "guid": "https://www.dn.se/sverige/c-toppen-i-stockholm-det-kanns-lite-som-att-man-blir-utpressad/",
+      "published_at": "2026-11-27T13:41:36+01:00",
+      "fetched_at": "2026-11-27T13:45:44+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/e82413b6-00c9-46e9-9bfa-782164ee644e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "C-toppen i Stockholm: ”Det känns lite som att man blir utpressad”",
+        "summary": "Stockholms tyngsta C-topp är i öppen konflikt med sin partiledning efter partiets högersväng. – Vi kan inte gå i Jimmie Åkessons fälla, säger Jonas Naddebo till DN.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party branch in Stockholm: \"It feels a bit like being blackmailed\"",
+        "summary": "Stockholm's most powerful Centre Party branch is in open conflict with its party leadership after the party's shift to the right. – We cannot walk into Jimmie Åkesson's trap, says Jonas Naddebo to DN."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:45:50+01:00"
+      }
+    },
     {
       "id": "0c04a7ad2fc3",
       "schema_version": 1,
@@ -5358,35 +5385,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T20:01:25+01:00"
-      }
-    },
-    {
-      "id": "6ffbfd58f9a0",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/64C2VN35nlHXxfsDmVQfNr/centerkvinnorna-saeger-nej-till-kristersson-regering",
-      "guid": "64C2VN35nlHXxfsDmVQfNr",
-      "published_at": "2026-11-25T19:44:31+01:00",
-      "fetched_at": "2026-11-25T19:45:46+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Centerkvinnorna säger nej till Kristersson-regering",
-        "summary": "Sprickan inom C blir allt djupare",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party women say no to a Kristersson government",
-        "summary": "The rift within the Centre Party is growing ever deeper"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T19:45:51+01:00"
       }
     }
   ]

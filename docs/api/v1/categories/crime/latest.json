@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T13:31:30+01:00",
+  "generated_at": "2026-11-27T13:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3ba789209bc4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/stoldliga-avslojad-pa-arlanda",
+      "guid": "https://www.expressen.se/nyheter/sverige/stoldliga-avslojad-pa-arlanda/",
+      "published_at": "2026-11-27T13:41:46+01:00",
+      "fetched_at": "2026-11-27T13:45:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Stöldliga avslöjad på Arlanda",
+        "summary": "En sydamerikansk liga har åtalats vid Attunda tingsrätt på fredagen. Ligan misstänks ha specialiserat sig på grova stölder i mångmiljonklassen i olika europeiska länder. De avslöjades på Arlanda i höstas.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Theft ring exposed at Arlanda",
+        "summary": "A South American ring has been charged at Attunda district court on Friday. The ring is suspected of specialising in aggravated thefts worth many millions in various European countries. They were exposed at Arlanda last autumn."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:45:50+01:00"
+      }
+    },
     {
       "id": "cb6bb004e59a",
       "schema_version": 1,
@@ -5363,33 +5389,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T23:15:47+01:00"
-      }
-    },
-    {
-      "id": "3e7e7e64c714",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/18-aring-gripen-i-kroatien-for-mordet-i-alvsjo",
-      "guid": "a57cd436-61d1-47a3-98c3-49a522b098d3",
-      "published_at": "2026-11-22T22:59:29+01:00",
-      "fetched_at": "2026-11-22T23:01:14+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/c8188dc1-fc72-4a84-8d49-6efd5e3be8fc.jpg?width=600",
-      "sv": {
-        "title": "18-åring gripen i Kroatien för mordet i Älvsjö",
-        "summary": "En 18-årig man har gripits i Kroatien misstänkt för kopplingar till mordet på en 24-årig kvinna i Älvsjö i södra Stockholm i mitten av oktober.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "18-year-old arrested in Croatia over murder in Älvsjö",
-        "summary": "An 18-year-old man has been arrested in Croatia on suspicion of links to the murder of a 24-year-old woman in Älvsjö in southern Stockholm in mid-October."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T23:01:21+01:00"
       }
     }
   ]
