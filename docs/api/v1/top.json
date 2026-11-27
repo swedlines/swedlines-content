@@ -1,7 +1,120 @@
 {
-  "generated_at": "2026-11-27T08:46:12+01:00",
-  "count": 27,
+  "generated_at": "2026-11-27T09:01:31+01:00",
+  "count": 30,
   "stories": [
+    {
+      "id": "3f6874444123",
+      "source_count": 5,
+      "sources": [
+        "sr",
+        "expressen",
+        "svd",
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-26T21:25:00+01:00",
+      "last_published_at": "2026-11-27T09:00:14+01:00",
+      "lead": {
+        "id": "3f6874444123",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9351171",
+        "guid": "rss:sr.se/article/9351171",
+        "published_at": "2026-11-26T21:25:00+01:00",
+        "fetched_at": "2026-11-26T21:31:02+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "C i Stockholm sågar beslutet – kommer inte rösta ja",
+          "summary": "Centerpartiets Stockholmsdistrikt säger nej till partiledningens linje i regeringsfrågan, uppger distriktsordförande Jonas Naddebo. Förtroenderådet fattar beslut på söndag om stödet till Ulf Kristerssons regering. I rådet kommer Stockholmsdistriktet att rösta nej till att gå högerut.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "C in Stockholm slams decision – will not vote yes",
+          "summary": "The Centre Party's Stockholm district says no to the party leadership's line on the government question, district chair Jonas Naddebo says. The trust council decides on support for Ulf Kristersson's government on Sunday. In the council, the Stockholm district will vote no to moving right."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-26T21:31:10+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "be0adb6098d7",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/demirok-jag-rostade-nej-till-ulf-kristersson",
+          "published_at": "2026-11-27T09:00:14+01:00",
+          "sv": {
+            "title": "Demirok: Jag röstade nej till Ulf Kristersson"
+          },
+          "en": {
+            "title": "Demirok: I voted no to Ulf Kristersson"
+          }
+        },
+        {
+          "id": "f0609dbd786a",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/LoAvOp/demirok-jag-rostade-nej-till-ulf-kristersson",
+          "published_at": "2026-11-27T08:38:53+01:00",
+          "sv": {
+            "title": "Demirok: Jag röstade nej till Ulf Kristersson"
+          },
+          "en": {
+            "title": "Demirok: I voted no to Ulf Kristersson"
+          }
+        },
+        {
+          "id": "317c3d70a8fb",
+          "source": "svd",
+          "url": "https://www.svd.se/a/Wmb9KL/demirok-jag-rostade-nej-till-ulf-kristersson",
+          "published_at": "2026-11-27T08:38:53+01:00",
+          "sv": {
+            "title": "Demirok: Jag röstade nej till Ulf Kristersson"
+          },
+          "en": {
+            "title": "Demirok: I voted no to Ulf Kristersson"
+          }
+        },
+        {
+          "id": "12a3718de474",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351273",
+          "published_at": "2026-11-27T08:21:00+01:00",
+          "sv": {
+            "title": "”Inte oväntat att det var ett kontroversiellt beslut”"
+          },
+          "en": {
+            "title": "\"Not surprising that it was a controversial decision\""
+          }
+        },
+        {
+          "id": "5915d75949c5",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/demirok-c-darfor-rostade-jag-nej",
+          "published_at": "2026-11-27T08:06:59+01:00",
+          "sv": {
+            "title": "Demirok (C): Därför röstade jag nej"
+          },
+          "en": {
+            "title": "Demirok (C): Why I voted no"
+          }
+        },
+        {
+          "id": "3f6874444123",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351171",
+          "published_at": "2026-11-26T21:25:00+01:00",
+          "sv": {
+            "title": "C i Stockholm sågar beslutet – kommer inte rösta ja"
+          },
+          "en": {
+            "title": "C in Stockholm slams decision – will not vote yes"
+          }
+        }
+      ]
+    },
     {
       "id": "15f9d06075b5",
       "source_count": 5,
@@ -470,106 +583,6 @@
       ]
     },
     {
-      "id": "3f6874444123",
-      "source_count": 4,
-      "sources": [
-        "sr",
-        "expressen",
-        "svd",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-26T21:25:00+01:00",
-      "last_published_at": "2026-11-27T08:38:53+01:00",
-      "lead": {
-        "id": "3f6874444123",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9351171",
-        "guid": "rss:sr.se/article/9351171",
-        "published_at": "2026-11-26T21:25:00+01:00",
-        "fetched_at": "2026-11-26T21:31:02+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "C i Stockholm sågar beslutet – kommer inte rösta ja",
-          "summary": "Centerpartiets Stockholmsdistrikt säger nej till partiledningens linje i regeringsfrågan, uppger distriktsordförande Jonas Naddebo. Förtroenderådet fattar beslut på söndag om stödet till Ulf Kristerssons regering. I rådet kommer Stockholmsdistriktet att rösta nej till att gå högerut.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "C in Stockholm slams decision – will not vote yes",
-          "summary": "The Centre Party's Stockholm district says no to the party leadership's line on the government question, district chair Jonas Naddebo says. The trust council decides on support for Ulf Kristersson's government on Sunday. In the council, the Stockholm district will vote no to moving right."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-26T21:31:10+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "f0609dbd786a",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/LoAvOp/demirok-jag-rostade-nej-till-ulf-kristersson",
-          "published_at": "2026-11-27T08:38:53+01:00",
-          "sv": {
-            "title": "Demirok: Jag röstade nej till Ulf Kristersson"
-          },
-          "en": {
-            "title": "Demirok: I voted no to Ulf Kristersson"
-          }
-        },
-        {
-          "id": "317c3d70a8fb",
-          "source": "svd",
-          "url": "https://www.svd.se/a/Wmb9KL/demirok-jag-rostade-nej-till-ulf-kristersson",
-          "published_at": "2026-11-27T08:38:53+01:00",
-          "sv": {
-            "title": "Demirok: Jag röstade nej till Ulf Kristersson"
-          },
-          "en": {
-            "title": "Demirok: I voted no to Ulf Kristersson"
-          }
-        },
-        {
-          "id": "12a3718de474",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351273",
-          "published_at": "2026-11-27T08:21:00+01:00",
-          "sv": {
-            "title": "”Inte oväntat att det var ett kontroversiellt beslut”"
-          },
-          "en": {
-            "title": "\"Not surprising that it was a controversial decision\""
-          }
-        },
-        {
-          "id": "5915d75949c5",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/demirok-c-darfor-rostade-jag-nej",
-          "published_at": "2026-11-27T08:06:59+01:00",
-          "sv": {
-            "title": "Demirok (C): Därför röstade jag nej"
-          },
-          "en": {
-            "title": "Demirok (C): Why I voted no"
-          }
-        },
-        {
-          "id": "3f6874444123",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351171",
-          "published_at": "2026-11-26T21:25:00+01:00",
-          "sv": {
-            "title": "C i Stockholm sågar beslutet – kommer inte rösta ja"
-          },
-          "en": {
-            "title": "C in Stockholm slams decision – will not vote yes"
-          }
-        }
-      ]
-    },
-    {
       "id": "909ab8776cc6",
       "source_count": 4,
       "sources": [
@@ -940,6 +953,81 @@
           },
           "en": {
             "title": "Ship carrying 7,000 tonnes of diesel has sunk off Ibiza"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1aa819607d1",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-27T08:57:47+01:00",
+      "last_published_at": "2026-11-27T08:58:24+01:00",
+      "lead": {
+        "id": "d1aa819607d1",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/r8A02e/tva-personer-utlamnas-fran-irak-till-sverige",
+        "guid": "https://www.aftonbladet.se/nyheter/a/r8A02e/tva-personer-utlamnas-fran-irak-till-sverige?utm_medium=rss",
+        "published_at": "2026-11-27T08:57:47+01:00",
+        "fetched_at": "2026-11-27T09:01:15+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Två personer utlämnas från Irak till Sverige",
+          "summary": "Två internationellt efterlysta personer ska utlämnas från Irak till Sverige, meddelar…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Two people extradited from Iraq to Sweden",
+          "summary": "Two internationally wanted people are to be extradited from Iraq to Sweden, reports…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T09:01:26+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "dc6017280c0c",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=84ad6e5d-cffc-4ada-a993-b78bb59470b8",
+          "published_at": "2026-11-27T08:58:24+01:00",
+          "sv": {
+            "title": "Två utlämnas från Irak"
+          },
+          "en": {
+            "title": "Two extradited from Iraq"
+          }
+        },
+        {
+          "id": "7f5fdc6da159",
+          "source": "svd",
+          "url": "https://www.svd.se/a/yz3L2K/tva-personer-utlamnas-fran-irak-till-sverige",
+          "published_at": "2026-11-27T08:57:48+01:00",
+          "sv": {
+            "title": "Två personer utlämnas från Irak till Sverige"
+          },
+          "en": {
+            "title": "Two people extradited from Iraq to Sweden"
+          }
+        },
+        {
+          "id": "d1aa819607d1",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/r8A02e/tva-personer-utlamnas-fran-irak-till-sverige",
+          "published_at": "2026-11-27T08:57:47+01:00",
+          "sv": {
+            "title": "Två personer utlämnas från Irak till Sverige"
+          },
+          "en": {
+            "title": "Two people extradited from Iraq to Sweden"
           }
         }
       ]
@@ -1396,6 +1484,132 @@
           },
           "en": {
             "title": "Ulf Kristersson tops new trust poll"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0cd403922821",
+      "source_count": 2,
+      "sources": [
+        "sydsvenskan",
+        "dn"
+      ],
+      "first_published_at": "2026-11-27T06:00:00+01:00",
+      "last_published_at": "2026-11-27T09:00:00+01:00",
+      "lead": {
+        "id": "0cd403922821",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/kultur/women-and-child-gastkramande-drama-om-anka-i-iran",
+        "guid": "3e8a70ea-170a-4bc3-9e1a-274dcc0a13c5",
+        "published_at": "2026-11-27T06:00:00+01:00",
+        "fetched_at": "2026-11-27T06:01:10+01:00",
+        "category": "culture",
+        "image_url": "https://static.bonniernews.se/ba/1f7b8769-b4c2-4824-bef4-d2bae19ca601.jpeg?width=600",
+        "sv": {
+          "title": "”Women and child”: Gastkramande drama om änka i Iran",
+          "summary": "Saeed Roustayis samhälls- och könskritik är obönhörlig för alla som vill se den.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "\"Women and Child\": Harrowing drama about a widow in Iran",
+          "summary": "Saeed Roustayi's critique of society and gender is relentless for anyone who wants to see it."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T06:01:20+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "dfc89c047347",
+          "source": "dn",
+          "url": "https://www.dn.se/kultur/skuldkanslor-och-raseri-far-woman-and-child-att-brinna",
+          "published_at": "2026-11-27T09:00:00+01:00",
+          "sv": {
+            "title": "Skuldkänslor och raseri får ”Woman and child” att brinna"
+          },
+          "en": {
+            "title": "Guilt and rage set \"Woman and child\" ablaze"
+          }
+        },
+        {
+          "id": "0cd403922821",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/kultur/women-and-child-gastkramande-drama-om-anka-i-iran",
+          "published_at": "2026-11-27T06:00:00+01:00",
+          "sv": {
+            "title": "”Women and child”: Gastkramande drama om änka i Iran"
+          },
+          "en": {
+            "title": "\"Women and Child\": Harrowing drama about a widow in Iran"
+          }
+        }
+      ]
+    },
+    {
+      "id": "214fb676682e",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-27T08:25:07+01:00",
+      "last_published_at": "2026-11-27T08:53:00+01:00",
+      "lead": {
+        "id": "214fb676682e",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/oMpdQK/elisabeth-thand-ringqvist-finns-ett-beroende-av-sd",
+        "guid": "https://www.aftonbladet.se/nyheter/a/oMpdQK/elisabeth-thand-ringqvist-finns-ett-beroende-av-sd?utm_medium=rss",
+        "published_at": "2026-11-27T08:25:07+01:00",
+        "fetched_at": "2026-11-27T08:45:48+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/0dc91e57-7bae-333f-a2e3-bd701fcc7da5?format=auto&s=5244e0617c3874d82f46f432620a5351b020e95c&w=1000",
+        "sv": {
+          "title": "Elisabeth Thand Ringqvist: Finns ett beroende av SD",
+          "summary": "Medger – på en punkt",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Elisabeth Thand Ringqvist: There is a dependence on SD",
+          "summary": "Admits – on one point"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T08:46:05+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "77e788abc8fb",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/thand-ringqvist-om-sd-finns-ett-beroende",
+          "published_at": "2026-11-27T08:53:00+01:00",
+          "sv": {
+            "title": "Thand Ringqvist om SD: ”Finns ett beroende”"
+          },
+          "en": {
+            "title": "Thand Ringqvist on SD: \"There is a dependency\""
+          }
+        },
+        {
+          "id": "214fb676682e",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/oMpdQK/elisabeth-thand-ringqvist-finns-ett-beroende-av-sd",
+          "published_at": "2026-11-27T08:25:07+01:00",
+          "sv": {
+            "title": "Elisabeth Thand Ringqvist: Finns ett beroende av SD"
+          },
+          "en": {
+            "title": "Elisabeth Thand Ringqvist: There is a dependence on SD"
           }
         }
       ]

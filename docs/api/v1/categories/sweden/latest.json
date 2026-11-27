@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T08:46:12+01:00",
+  "generated_at": "2026-11-27T09:01:31+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a66fcb591709",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/d7KMgq/skolverket-flickors-gymnasiebehorighet-forsamras",
+      "guid": "https://www.svd.se/a/d7KMgq/skolverket-flickors-gymnasiebehorighet-forsamras?utm_medium=rss",
+      "published_at": "2026-11-27T08:51:43+01:00",
+      "fetched_at": "2026-11-27T09:01:13+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/a66d6822-3dd5-33ce-b22c-6488f1e2a462?format=auto&s=7392e993c8d60ea8361709a1d360e85fd86a9b0b&w=1000",
+      "sv": {
+        "title": "Flickor tappar mer än pojkar: ”Oroväckande”",
+        "summary": "I många år har flickors försprång i skolan varit en självklar sanning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Girls falling behind boys: \"Alarming\"",
+        "summary": "For many years, girls' lead in school has been a self-evident truth."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T09:01:26+01:00"
+      }
+    },
     {
       "id": "4d2c1c24f75f",
       "schema_version": 1,
@@ -5460,32 +5487,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T13:45:56+01:00"
-      }
-    },
-    {
-      "id": "caa442df05f0",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=544a8032-2b8f-4f9f-b072-18ac42ab5784",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=544a8032-2b8f-4f9f-b072-18ac42ab5784",
-      "published_at": "2026-11-23T12:04:01+01:00",
-      "fetched_at": "2026-11-23T12:15:46+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Totalstopp på E4 efter olycka",
-        "summary": "Lastbil i olycka",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Total stop on E4 after accident",
-        "summary": "Lorry in accident"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T12:15:54+01:00"
       }
     }
   ]

@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-27T08:46:12+01:00",
+  "generated_at": "2026-11-27T09:01:31+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7f879c13149f",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/HrHB8kSD50DcakZJQAMpK/scenariot-som-kan-aendra-allt-igen-far-titta-pa-alla-alternativ",
+      "guid": "HrHB8kSD50DcakZJQAMpK",
+      "published_at": "2026-11-27T08:54:26+01:00",
+      "fetched_at": "2026-11-27T09:01:16+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Scenariot som kan ändra allt igen: ”Får titta på alla alternativ”",
+        "summary": "Thand Ringqvist om vägen framåt och svaret på kritiken • ”Känslosamt möte”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The scenario that could change everything again: \"Get to look at all options\"",
+        "summary": "Thand Ringqvist on the way forward and the answer to the criticism • \"Emotional meeting\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T09:01:26+01:00"
+      }
+    },
     {
       "id": "ff77c8c02eab",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T07:31:06+01:00"
-      }
-    },
-    {
-      "id": "f9eaebd5be5a",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/7ah7ct3eDraDEh6Wa6CGSI/daerfoer-har-putin-mest-att-vinna-pa-toppmoetet-sola-sig-i-glansen",
-      "guid": "7ah7ct3eDraDEh6Wa6CGSI",
-      "published_at": "2026-11-18T22:41:38+01:00",
-      "fetched_at": "2026-11-18T22:45:42+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Därför har Putin mest att vinna på toppmötet: ”Sola sig i glansen”",
-        "summary": "Donald Trump, Vladimir Putin och Xi Jinping möts på torsdagen under Apec-toppmötet i kinesiska Shenzhen. Toppmötet, som handlar om ekonomiskt samarbete i Stillahavsregionen, riskerar att hamna i skuggan av de tre potentaterna – där den ryske presidenten pekas ut som vinnare.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "This is why Putin has the most to gain from the summit: \"Basking in the glow\"",
-        "summary": "Donald Trump, Vladimir Putin and Xi Jinping meet on Thursday at the Apec summit in Shenzhen, China. The summit, which concerns economic cooperation in the Asia-Pacific region, risks being overshadowed by the three potentates, with the Russian president singled out as the winner."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T22:45:46+01:00"
       }
     }
   ]
