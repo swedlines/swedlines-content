@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-27T12:45:51+01:00",
+  "generated_at": "2026-11-27T13:01:38+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1e3f98478d02",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/livsstil/tva-dagar/nya-ol-pa-systembolaget-i-november-tips-och-betyg.08059c42-0033-51aa-bc8e-83f6806684ae",
+      "guid": "08059c42-0033-51aa-bc8e-83f6806684ae",
+      "published_at": "2026-11-27T12:41:56+01:00",
+      "fetched_at": "2026-11-27T13:01:18+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Två Dagar",
+        "Tagg: Öl",
+        "Tagg: Systembolaget",
+        "Tagg: Dryck",
+        "Tagg: Robert Lagerström",
+        "Tagg: Två Dagar",
+        "Tagg: Foodflow"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/04468695-a7c6-33fb-b0b7-a7f5e55983d7",
+      "sv": {
+        "title": "Öl med granskott får toppbetyg – här är veckans åtta öltips",
+        "summary": "Robert Lagerström testar nyheterna på Systembolaget, från belgisk julöl till porter med jordnötssmör.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Beer with spruce shoots gets top marks – here are this week's eight beer tips",
+        "summary": "Robert Lagerström tests the new arrivals at Systembolaget, from Belgian Christmas beer to porter with peanut butter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:01:31+01:00"
+      }
+    },
     {
       "id": "5410d36e9e9f",
       "schema_version": 1,
@@ -6837,41 +6873,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T14:45:48+01:00"
-      }
-    },
-    {
-      "id": "75de6c83bbab",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/politik/sa-mycket-dyrare-blir-det-att-parkera-fel-i-goteborg.3d4eeb54-8811-5202-94f2-3b85b857f589",
-      "guid": "3d4eeb54-8811-5202-94f2-3b85b857f589",
-      "published_at": "2026-11-22T13:46:08+01:00",
-      "fetched_at": "2026-11-22T14:15:48+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Politik",
-        "Tagg: Politik Göteborg",
-        "Tagg: Böter",
-        "Tagg: Parkering",
-        "Tagg: Trafik",
-        "Tagg: breaking-GP"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/35245454-29dd-3ab1-902a-7b7070b94a0f",
-      "sv": {
-        "title": "Så mycket ska det kosta att parkera fel i Göteborg",
-        "summary": "P-böterna ska bli mer i nivå med Stockholm. Pleijel (MP): ”Varit rabatt”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is how much it will cost to park wrongly in Göteborg",
-        "summary": "The parking fines are to be brought more in line with Stockholm. Pleijel (MP): “Has been a discount.”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T14:15:53+01:00"
       }
     }
   ]
