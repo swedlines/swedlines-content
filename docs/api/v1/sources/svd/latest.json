@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T08:16:05+01:00",
+  "generated_at": "2026-11-27T08:22:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4de0536ebc2d",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/JnoKw6/nyhetsmedier-riskerar-att-fa-betala-eu-s-skatt-pa-teknikjattarna-skriver-johan-taubert",
+      "guid": "https://www.svd.se/a/JnoKw6/nyhetsmedier-riskerar-att-fa-betala-eu-s-skatt-pa-teknikjattarna-skriver-johan-taubert?utm_medium=rss",
+      "published_at": "2026-11-27T08:15:00+01:00",
+      "fetched_at": "2026-11-27T08:22:41+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/cc136d43-3864-33db-aa81-7538c6fe08a7?format=auto&s=9c25fd2a27cbadaefe6f90e37062f8a0f551c639&w=1000",
+      "sv": {
+        "title": "”Ny skatt får inte gå ut över nyhetsmedier”",
+        "summary": "EU vill införa en ny skatt på de globala teknikjättarna. Men förslaget riskerar att oavsiktligt även…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"New tax must not hit news media\"",
+        "summary": "The EU wants to introduce a new tax on the global tech giants. But the proposal risks unintentionally also..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T08:22:48+01:00"
+      }
+    },
     {
       "id": "aadf01982a5c",
       "schema_version": 1,
@@ -5248,32 +5275,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T02:01:15+01:00"
-      }
-    },
-    {
-      "id": "f715b4702273",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/j3deg0/sydkorea-krankning-av-luftrum",
-      "guid": "https://www.svd.se/a/j3deg0/sydkorea-krankning-av-luftrum?utm_medium=rss",
-      "published_at": "2026-11-24T00:36:21+01:00",
-      "fetched_at": "2026-11-24T00:45:47+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Sydkorea: Kränkning av luftrum",
-        "summary": "Sydkorea uppger att ett misstänkt nordkoreanskt flygplan har tagit sig in i det sydkoreanska…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "South Korea: Airspace violation",
-        "summary": "South Korea says a suspected North Korean aircraft has entered South Korean…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T00:45:56+01:00"
       }
     }
   ]
