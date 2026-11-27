@@ -1,7 +1,89 @@
 {
-  "generated_at": "2026-11-27T13:16:05+01:00",
+  "generated_at": "2026-11-27T13:31:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0c04a7ad2fc3",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/podcasts/episode/411400",
+      "guid": "https://www.aftonbladet.se/podcasts/episode/411400?utm_medium=rss",
+      "published_at": "2026-11-27T13:25:54+01:00",
+      "fetched_at": "2026-11-27T13:31:08+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/ee49def7-d023-36a8-9280-a0085e567177?format=auto&s=efd7fce4b957b09cf71e2d8a571761c3bba64710&w=1000",
+      "sv": {
+        "title": "EXTRAPODD: Svängning – och sprängning?",
+        "summary": "C-ledarens lögn – avslöjades direkt",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EXTRAPODD: Svängning – och sprängning?",
+        "summary": "The C leader's lie – exposed immediately"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:31:25+01:00"
+      }
+    },
+    {
+      "id": "7622a2fc1459",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351618",
+      "guid": "rss:sr.se/article/9351618",
+      "published_at": "2026-11-27T13:20:00+01:00",
+      "fetched_at": "2026-11-27T13:31:06+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C:s vice partiledare stod inte bakom beslutet",
+        "summary": "Centerpartiets riksdagsgrupp och partistyrelse, har beslutat att förorda ett ja till Ulf Kristersson som statsminister och partiets medlemmar är splittrade. Splittringen finns även i partiets yttersta ledning.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "C's deputy leader did not stand behind the decision",
+        "summary": "The Centre Party's parliamentary group and party board have decided to recommend a yes to Ulf Kristersson (M) as prime minister, and the party's members are split. The split also exists in the party's top leadership."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:31:25+01:00"
+      }
+    },
+    {
+      "id": "80b880bb76c8",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/31S3oZ3Lib3aQTBVfC6CRs/tv4-erfar-c-ledningen-raeknar-med-vinst-i-foertroenderadet",
+      "guid": "31S3oZ3Lib3aQTBVfC6CRs",
+      "published_at": "2026-11-27T13:17:20+01:00",
+      "fetched_at": "2026-11-27T13:31:09+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "TV4 erfar: C-ledningen räknar med vinst – trots splittringen",
+        "summary": "Förtroenderådet avgör • Då fattas ödesbeslutet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "TV4 learns: C leadership expects gain – despite the split",
+        "summary": "Trust council decides • Then the fateful decision is made"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:31:25+01:00"
+      }
+    },
     {
       "id": "1a3e273113e9",
       "schema_version": 1,
@@ -53,6 +135,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T13:16:03+01:00"
+      }
+    },
+    {
+      "id": "68bb3bd1fc52",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/podd/alskade-politik/chockbeskedet-ovanligt-att-c-ar-sa-oppet-sonderslitet",
+      "guid": "https://www.dn.se/podd/alskade-politik/chockbeskedet-ovanligt-att-c-ar-sa-oppet-sonderslitet/",
+      "published_at": "2026-11-27T13:02:24+01:00",
+      "fetched_at": "2026-11-27T13:31:07+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/auuyznpyoe5zec6dki3ksgtqk6n4hilvc2eei6jxcvcaumt65jiq.png?io=1&width=1000",
+      "sv": {
+        "title": "Chockbeskedet: “Ovanligt att C är så öppet sönderslitet”",
+        "summary": "Efter ett känslomässigt maratonmöte kom Centerpartiet med ett beslut. Får Kristersson en “kaosregering” om C-beslutet håller till måndag?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Shock message: “Unusual for C to be so openly torn apart”",
+        "summary": "After an emotional marathon meeting, the Centre Party came to a decision. Will Kristersson get a “chaos government” if the C decision holds until Monday?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:31:25+01:00"
       }
     },
     {
@@ -5278,114 +5387,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T19:45:51+01:00"
-      }
-    },
-    {
-      "id": "7c8cf637e4f7",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/wdPW61/migrationsverket-om-pausen-ett-exceptionellt-lage",
-      "guid": "https://www.aftonbladet.se/nyheter/a/wdPW61/migrationsverket-om-pausen-ett-exceptionellt-lage?utm_medium=rss",
-      "published_at": "2026-11-25T19:40:05+01:00",
-      "fetched_at": "2026-11-25T19:45:44+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/a58759f1-8270-345e-9461-13a6b7417787?format=auto&s=08ab4416c751f540fb956f1f8fb65d84acf80025&w=1000",
-      "sv": {
-        "title": "Migrationsverket om pausen: ”Ett exceptionellt läge”",
-        "summary": "”Exceptionellt läge”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Migration Agency on the pause: “An exceptional situation”",
-        "summary": "“Exceptional situation”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T19:45:51+01:00"
-      }
-    },
-    {
-      "id": "5774a101f405",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ledare/max-hjelm-kolla-vad-som-gar-att-gora-om-man-inte-ar-beroende-av-sverigedemokraterna",
-      "guid": "https://www.dn.se/ledare/max-hjelm-kolla-vad-som-gar-att-gora-om-man-inte-ar-beroende-av-sverigedemokraterna/",
-      "published_at": "2026-11-25T19:04:39+01:00",
-      "fetched_at": "2026-11-25T19:15:53+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/65b0700c-be2b-47b3-9d59-f1cb25e7cda7.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Max Hjelm: Kolla vad som går att göra om man inte är beroende av Sverigedemokraterna!",
-        "summary": "Migrationsverket stoppar utvisningarna av unga vuxna. Så kan en politik som inte är beroende av Sverigedemokraterna se ut.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Max Hjelm: See what can be done if you are not dependent on the Sweden Democrats!",
-        "summary": "The Migration Agency is halting deportations of young adults. This is what a policy not dependent on the Sweden Democrats can look like."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T19:16:10+01:00"
-      }
-    },
-    {
-      "id": "077765f56f82",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/ge-oss-grundlurade-c-valjare-ett-extra-val",
-      "guid": "https://www.dn.se/insandare/ge-oss-grundlurade-c-valjare-ett-extra-val/",
-      "published_at": "2026-11-25T18:56:32+01:00",
-      "fetched_at": "2026-11-25T19:01:18+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/41bfd1ca-b6d0-499b-8423-5f30ba97581c.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Ge oss grundlurade C-väljare ett extra val",
-        "summary": "INSÄNDARE. Vi är många som röstade på Centerpartiet på grund av den röda linjen mot Sverigedemokraterna. Vill C-ledningen trots detta dra partiet högerut och välja Ulf Kristersson (M) som statsminister måste den visa sina väljare respekt och se till att det blir ett extra val, skriver Martin Ku.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letter. Give us the duped C voters an extra election",
-        "summary": "LETTER. Many of us voted for the Centre Party because of the red line against the Sweden Democrats. If the C leadership nonetheless wants to pull the party to the right and elect Ulf Kristersson (M) as prime minister, it must show its voters respect and ensure that there is an extra election, writes Martin Ku."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T19:01:24+01:00"
-      }
-    },
-    {
-      "id": "d8a62cd88172",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/fossilfritt-sverige-hotas-av-nedlaggning-jag-ar-varslad",
-      "guid": "https://www.dn.se/sverige/fossilfritt-sverige-hotas-av-nedlaggning-jag-ar-varslad/",
-      "published_at": "2026-11-25T18:54:09+01:00",
-      "fetched_at": "2026-11-25T19:01:18+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/90de5573-80c5-4983-b39b-7e5bb86e8f21.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Fossilfritt Sverige hotas av nedläggning: ”Jag är varslad”",
-        "summary": "Regeringsinitiativet Fossilfritt Sverige hotas av nedläggning. Samtliga anställda är varslade om uppsägning, inklusive den nationella samordnaren Svante Axelsson, efter tio år på jobbet. – Jag är varslad, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fossil Free Sweden threatened with closure: \"I have been given notice\"",
-        "summary": "The government initiative Fossil Free Sweden is threatened with closure. All employees have been given notice of dismissal, including national coordinator Svante Axelsson, after ten years in the job. \"I have been given notice,\" he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T19:01:24+01:00"
       }
     }
   ]

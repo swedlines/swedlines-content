@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T13:16:05+01:00",
+  "generated_at": "2026-11-27T13:31:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f3ed3b2e4ede",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/jojje-olsson/kina-vill-avgora-val-med--hot-ai-och-falska-videos",
+      "guid": "https://www.expressen.se/kronikorer/jojje-olsson/kina-vill-avgora-val-med--hot-ai-och-falska-videos/",
+      "published_at": "2026-11-27T13:15:09+01:00",
+      "fetched_at": "2026-11-27T13:31:09+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Kina vill avgöra val med hot, AI och falska videos",
+        "summary": "Taiwans lokalval brukar vara sömniga. Men denna gång har regeringspartiet möjlighet till storslam, med avgörande betydelse för nästa presidentval. Kina försöker hjälpa oppositionen med allt från AI-videos till hot om dödsstraff för borgmästarkandidaterna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "China wants to decide election with threats, AI and fake videos",
+        "summary": "Taiwan's local elections are usually sleepy. But this time the ruling party has a chance at a grand slam, with decisive significance for the next presidential election. China is trying to help the opposition with everything from AI videos to threats of the death penalty for the mayoral candidates."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:31:25+01:00"
+      }
+    },
     {
       "id": "5fac5863abdf",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T11:46:03+01:00"
-      }
-    },
-    {
-      "id": "45b9a5d70638",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/kristersson-beredd-att-provas-i-statsministeromrostning",
-      "guid": "https://www.expressen.se/nyheter/politik/kristersson-beredd-att-provas-i-statsministeromrostning/",
-      "published_at": "2026-11-24T11:05:02+01:00",
-      "fetched_at": "2026-11-24T11:59:05+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Ulf Kristersson efter mötet med talmannen",
-        "summary": "M-ledaren Ulf Kristersson är redo för en statsministeromröstning. – Jag är beredd att pröva det alternativ som jag föreslår, en borgerlig fyrpartiregering, säger han efter att ha återrapporterat sitt sonderingsuppdrag till talmannen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ulf Kristersson after meeting with the Speaker",
-        "summary": "M leader Ulf Kristersson is ready for a prime ministerial vote. – I am prepared to test the alternative I propose, a centre-right four-party government, he says after reporting back on his exploratory assignment to the Speaker."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T11:59:14+01:00"
       }
     }
   ]

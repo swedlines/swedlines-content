@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-27T13:16:05+01:00",
+  "generated_at": "2026-11-27T13:31:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "80b880bb76c8",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/31S3oZ3Lib3aQTBVfC6CRs/tv4-erfar-c-ledningen-raeknar-med-vinst-i-foertroenderadet",
+      "guid": "31S3oZ3Lib3aQTBVfC6CRs",
+      "published_at": "2026-11-27T13:17:20+01:00",
+      "fetched_at": "2026-11-27T13:31:09+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "TV4 erfar: C-ledningen räknar med vinst – trots splittringen",
+        "summary": "Förtroenderådet avgör • Då fattas ödesbeslutet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "TV4 learns: C leadership expects gain – despite the split",
+        "summary": "Trust council decides • Then the fateful decision is made"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:31:25+01:00"
+      }
+    },
     {
       "id": "3319a9e09787",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T09:15:58+01:00"
-      }
-    },
-    {
-      "id": "d847f6aeeaaf",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4OWR72Ux1f2SdIN6XbI0Jx/enkel-wok-med-groensaker-och-cashewnoetter",
-      "guid": "4OWR72Ux1f2SdIN6XbI0Jx",
-      "published_at": "2026-11-19T08:02:53+01:00",
-      "fetched_at": "2026-11-19T08:04:30+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Mat"
-      ],
-      "sv": {
-        "title": "Enkel wok med grönsaker och cashewnötter",
-        "summary": "Dagens middagstips bjuder på grönsakswok med krispiga grönsaker, gyllenstekt tofu och knapriga cashewnötter. Allt vänds runt i en härligt god sås och serveras med nykokt ris. En enkel, snabblagad och riktigt god vegetarisk vardagsmiddag! Se Siri Barjes recept",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Easy wok with vegetables and cashew nuts",
-        "summary": "Today's dinner tip is a vegetable wok with crispy vegetables, golden-fried tofu and crunchy cashew nuts. Everything is tossed in a deliciously good sauce and served with freshly cooked rice. A simple, quick-to-make and really good vegetarian weekday dinner! See Siri Barje's recipe"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T08:04:35+01:00"
       }
     }
   ]

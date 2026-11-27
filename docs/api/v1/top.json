@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T13:16:05+01:00",
+  "generated_at": "2026-11-27T13:31:30+01:00",
   "count": 30,
   "stories": [
     {
@@ -15,7 +15,7 @@
         "svd"
       ],
       "first_published_at": "2026-11-26T18:04:47+01:00",
-      "last_published_at": "2026-11-27T11:21:06+01:00",
+      "last_published_at": "2026-11-27T13:20:00+01:00",
       "lead": {
         "id": "39b05fad3cef",
         "schema_version": 1,
@@ -43,6 +43,18 @@
         }
       },
       "items": [
+        {
+          "id": "7622a2fc1459",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351618",
+          "published_at": "2026-11-27T13:20:00+01:00",
+          "sv": {
+            "title": "C:s vice partiledare stod inte bakom beslutet"
+          },
+          "en": {
+            "title": "C's deputy leader did not stand behind the decision"
+          }
+        },
         {
           "id": "738ffc67d5ea",
           "source": "svd",
@@ -1705,6 +1717,194 @@
       ]
     },
     {
+      "id": "923c32a0c86b",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-27T12:01:39+01:00",
+      "last_published_at": "2026-11-27T13:28:30+01:00",
+      "lead": {
+        "id": "923c32a0c86b",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/nyheter/11-av-13-forbund-staller-sig-bakom-lo-s-krav",
+        "guid": "00b70b62-7af1-44b6-8bc8-fb38970bc700",
+        "published_at": "2026-11-27T12:01:39+01:00",
+        "fetched_at": "2026-11-27T12:15:47+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/7b322cdb-79ab-4edf-b114-0b8140881c45.jpeg?width=600",
+        "sv": {
+          "title": "11 av 13 förbund ställer sig bakom LO:s krav",
+          "summary": "Det blir en LO-samordning i avtalsrörelsen 2027. Elva av LO:s 13 förbund har sagt ja till att stötta varandra för att få högre reallöneökningar. Det skriver LO i ett pressmeddelande.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "11 of 13 unions back LO's demands",
+          "summary": "There will be LO coordination in the 2027 collective bargaining round. Eleven of LO's 13 unions have agreed to support each other in seeking higher real wage increases. LO writes this in a press release."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T12:15:54+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "0717df61be72",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/11-av-13-forbund-eniga-om-lo-samordning",
+          "published_at": "2026-11-27T13:28:30+01:00",
+          "sv": {
+            "title": "11 av 13 förbund eniga om LO-samordning"
+          },
+          "en": {
+            "title": "11 of 13 federations agree on LO coordination"
+          }
+        },
+        {
+          "id": "923c32a0c86b",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/11-av-13-forbund-staller-sig-bakom-lo-s-krav",
+          "published_at": "2026-11-27T12:01:39+01:00",
+          "sv": {
+            "title": "11 av 13 förbund ställer sig bakom LO:s krav"
+          },
+          "en": {
+            "title": "11 of 13 unions back LO's demands"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a0881b518689",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-27T12:12:49+01:00",
+      "last_published_at": "2026-11-27T13:21:47+01:00",
+      "lead": {
+        "id": "a0881b518689",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/jamtland/larmet-kollektiva-bestraffningar-for-varnpliktiga-pa-i-21",
+        "guid": "https://www.svt.se/nyheter/lokalt/jamtland/larmet-kollektiva-bestraffningar-for-varnpliktiga-pa-i-21",
+        "published_at": "2026-11-27T12:12:49+01:00",
+        "fetched_at": "2026-11-27T12:15:44+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Larmet: Kollektiva bestraffningar för värnpliktiga på I 21",
+          "summary": "Förnedrande behandling, gammal mat och kollektiva bestraffningar. Det har värnpliktiga vid Västernorrlands regemente och Jämtlands Fältjägarkår utsatts för. Det visar en rapport från Pliktrådet.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Alarm: Collective punishments for conscripts at I 21",
+          "summary": "Degrading treatment, stale food and collective punishments. Conscripts at the Västernorrland Regiment and the Jämtland Ranger Corps have been subjected to this. This is according to a report from Pliktrådet."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T12:15:54+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "c84b23482efd",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Qropz8/varnpliktiga-fick-kollektiv-bestraffning",
+          "published_at": "2026-11-27T13:21:47+01:00",
+          "sv": {
+            "title": "Värnpliktiga fick kollektiv bestraffning"
+          },
+          "en": {
+            "title": "Conscripts were subjected to collective punishment"
+          }
+        },
+        {
+          "id": "a0881b518689",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/jamtland/larmet-kollektiva-bestraffningar-for-varnpliktiga-pa-i-21",
+          "published_at": "2026-11-27T12:12:49+01:00",
+          "sv": {
+            "title": "Larmet: Kollektiva bestraffningar för värnpliktiga på I 21"
+          },
+          "en": {
+            "title": "Alarm: Collective punishments for conscripts at I 21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aa854b9847ee",
+      "source_count": 2,
+      "sources": [
+        "dn",
+        "di"
+      ],
+      "first_published_at": "2026-11-27T12:43:02+01:00",
+      "last_published_at": "2026-11-27T13:16:13+01:00",
+      "lead": {
+        "id": "aa854b9847ee",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder",
+        "guid": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder/",
+        "published_at": "2026-11-27T12:43:02+01:00",
+        "fetched_at": "2026-11-27T12:45:44+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/7879269f-7063-47d7-a997-4fcf27f0f1f3.jpeg?io=1&width=1000",
+        "sv": {
+          "title": "Svenska storaffären: stridsfordon för 60 miljarder",
+          "summary": "Försvarsföretaget BAE Hägglunds har landat sin största beställning genom tiderna. Stridsfordon till fem Natoländer – för över 60 miljarder. En rekordaffär som slår de franska fregatterna med hästlängder.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Swedish mega-deal: combat vehicles worth SEK 60 billion",
+          "summary": "Defence company BAE Hägglunds has landed its largest order ever. Combat vehicles for five NATO countries – worth over SEK 60 billion. A record deal that beats the French frigates by a mile."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T12:45:49+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "e2fe945298dd",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/historisk-forsvarsaffar-i-hamn-vard-60-miljarder",
+          "published_at": "2026-11-27T13:16:13+01:00",
+          "sv": {
+            "title": "Historisk försvarsaffär i hamn – värd 60 miljarder"
+          },
+          "en": {
+            "title": "Historic defence deal in the bag – worth 60 billion"
+          }
+        },
+        {
+          "id": "aa854b9847ee",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder",
+          "published_at": "2026-11-27T12:43:02+01:00",
+          "sv": {
+            "title": "Svenska storaffären: stridsfordon för 60 miljarder"
+          },
+          "en": {
+            "title": "Swedish mega-deal: combat vehicles worth SEK 60 billion"
+          }
+        }
+      ]
+    },
+    {
       "id": "e1bbe597eb52",
       "source_count": 2,
       "sources": [
@@ -2440,195 +2640,6 @@
           },
           "en": {
             "title": "”Not a single child exposed to violence must be missed”"
-          }
-        }
-      ]
-    },
-    {
-      "id": "54d8ddaebafc",
-      "source_count": 2,
-      "sources": [
-        "sydsvenskan",
-        "dn"
-      ],
-      "first_published_at": "2026-11-27T06:00:00+01:00",
-      "last_published_at": "2026-11-27T07:28:23+01:00",
-      "lead": {
-        "id": "54d8ddaebafc",
-        "schema_version": 1,
-        "source": "sydsvenskan",
-        "url": "https://www.sydsvenskan.se/kultur/low-expectations-fint-men-lite-trakigt-drama-om-deppig-norska",
-        "guid": "452baab7-e363-4e96-9c20-99a5c2f6bf3b",
-        "published_at": "2026-11-27T06:00:00+01:00",
-        "fetched_at": "2026-11-27T06:01:10+01:00",
-        "category": "culture",
-        "image_url": "https://static.bonniernews.se/ba/4d3cf8c2-3823-483a-80a5-021c3f6c7814.jpeg?width=600",
-        "sv": {
-          "title": "”Low expectations”: Fint men lite tråkigt drama om deppig norska",
-          "summary": "Filmen når inte upp till förebilderna Dag Johan Haugerud och Joachim Trier, skriver Malin Krutmeijer.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "\"Low Expectations\": Nice but somewhat dull drama about a depressed Norwegian woman",
-          "summary": "The film does not reach the level of its role models Dag Johan Haugerud and Joachim Trier, writes Malin Krutmeijer."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T06:01:20+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "54361d570e3b",
-          "source": "dn",
-          "url": "https://www.dn.se/kultur/norska-artisten-girl-in-red-laddar-depressionsdramat-low-expectations",
-          "published_at": "2026-11-27T07:28:23+01:00",
-          "sv": {
-            "title": "Norska artisten Girl in red laddar depressionsdramat ”Low expectations”"
-          },
-          "en": {
-            "title": "Norwegian artist Girl in Red stars in the charged depression drama \"Low expectations\""
-          }
-        },
-        {
-          "id": "54d8ddaebafc",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/kultur/low-expectations-fint-men-lite-trakigt-drama-om-deppig-norska",
-          "published_at": "2026-11-27T06:00:00+01:00",
-          "sv": {
-            "title": "”Low expectations”: Fint men lite tråkigt drama om deppig norska"
-          },
-          "en": {
-            "title": "\"Low Expectations\": Nice but somewhat dull drama about a depressed Norwegian woman"
-          }
-        }
-      ]
-    },
-    {
-      "id": "fc5eca1186ec",
-      "source_count": 2,
-      "sources": [
-        "dn",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-27T06:05:16+01:00",
-      "last_published_at": "2026-11-27T06:52:12+01:00",
-      "lead": {
-        "id": "fc5eca1186ec",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/sverige/andersson-rasar-kristersson-ny-etta-i-fortroendeligan",
-        "guid": "https://www.dn.se/sverige/andersson-rasar-kristersson-ny-etta-i-fortroendeligan/",
-        "published_at": "2026-11-27T06:05:16+01:00",
-        "fetched_at": "2026-11-27T06:15:47+01:00",
-        "category": "politics",
-        "image_url": "https://static.bonniernews.se/ba/5f93cf17-c526-4b95-baba-3741ee778ec8.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Andersson rasar – Kristersson ny etta i förtroendeligan",
-          "summary": "Magdalena Anderssons försök att bilda en ny regering har kraschat. Det har hennes förtroendesiffror också. I en ny mätning från DN/Ipsos rasar hon till plats fyra bland partiledarna. – Det är slående hur snabbt man kan förbruka sitt förtroendekapital, säger Nicklas Källebring på Ipsos.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Andersson plummets – Kristersson new number one in trust poll",
-          "summary": "Magdalena Andersson's attempt to form a new government has collapsed. So has her trust rating. In a new poll from DN/Ipsos she falls to fourth place among party leaders. – It is striking how quickly one can use up one's trust capital, says Nicklas Källebring at Ipsos."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T06:15:59+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "932c5c6973be",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/andersson-rasar-i-ny-matning-slaende",
-          "published_at": "2026-11-27T06:52:12+01:00",
-          "sv": {
-            "title": "Andersson rasar i ny mätning: ”Slående”"
-          },
-          "en": {
-            "title": "Andersson plunges in new poll: \"Striking\""
-          }
-        },
-        {
-          "id": "fc5eca1186ec",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/andersson-rasar-kristersson-ny-etta-i-fortroendeligan",
-          "published_at": "2026-11-27T06:05:16+01:00",
-          "sv": {
-            "title": "Andersson rasar – Kristersson ny etta i förtroendeligan"
-          },
-          "en": {
-            "title": "Andersson plummets – Kristersson new number one in trust poll"
-          }
-        }
-      ]
-    },
-    {
-      "id": "a2c781c7714e",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-27T05:45:11+01:00",
-      "last_published_at": "2026-11-27T05:45:12+01:00",
-      "lead": {
-        "id": "a2c781c7714e",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/aGwX4E/habibi-trump-nappar-pa-guldkort-vill-prata-vard",
-        "guid": "https://www.aftonbladet.se/nyheter/a/aGwX4E/habibi-trump-nappar-pa-guldkort-vill-prata-vard?utm_medium=rss",
-        "published_at": "2026-11-27T05:45:11+01:00",
-        "fetched_at": "2026-11-27T05:45:43+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/b46c4e84-19bd-3e5a-af69-8fd804abdfb1?format=auto&s=dbcff74ac7aff61d6ebc6ce6e774109dea81c8d9&w=1000",
-        "sv": {
-          "title": "”Habibi Trump” nappar på guldkort – vill prata vård",
-          "summary": "Sjukvårdsförsäkring för alla – förpackad som ”Trumpcare” med ett gyllene kort?",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "“Habibi Trump” bites on gold card – wants to talk healthcare",
-          "summary": "Health insurance for all – packaged as “Trumpcare” with a golden card?"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T05:46:02+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "d1881def152f",
-          "source": "svd",
-          "url": "https://www.svd.se/a/qOLzkg/habibi-trump-nappar-pa-guldkort-vill-prata-vard",
-          "published_at": "2026-11-27T05:45:12+01:00",
-          "sv": {
-            "title": "”Habibi Trump” nappar på guldkort – vill prata vård"
-          },
-          "en": {
-            "title": "\"Habibi Trump\" bites on golden card – wants to talk healthcare"
-          }
-        },
-        {
-          "id": "a2c781c7714e",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/aGwX4E/habibi-trump-nappar-pa-guldkort-vill-prata-vard",
-          "published_at": "2026-11-27T05:45:11+01:00",
-          "sv": {
-            "title": "”Habibi Trump” nappar på guldkort – vill prata vård"
-          },
-          "en": {
-            "title": "“Habibi Trump” bites on gold card – wants to talk healthcare"
           }
         }
       ]
