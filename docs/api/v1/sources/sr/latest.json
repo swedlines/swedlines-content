@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-27T13:01:38+01:00",
+  "generated_at": "2026-11-27T13:16:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1a3e273113e9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351600",
+      "guid": "rss:sr.se/article/9351600",
+      "published_at": "2026-11-27T13:11:00+01:00",
+      "fetched_at": "2026-11-27T13:15:54+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Furtenbach: ”Förvärras av att SD väcker så starka känslor”",
+        "summary": "Efter Centerpartiets högersväng har debatten inom partiet hårdnat. Enligt Fredrik Furtenbach har partiet inte varit så här splittrat på väldigt lång tid.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Furtenbach: \"Made worse by SD stirring up such strong feelings\"",
+        "summary": "After the Centre Party's rightward turn, the debate within the party has hardened. According to Fredrik Furtenbach, the party has not been this divided for a very long time."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:16:03+01:00"
+      }
+    },
+    {
+      "id": "91bb4ccc9895",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351640",
+      "guid": "rss:sr.se/article/9351640",
+      "published_at": "2026-11-27T13:02:00+01:00",
+      "fetched_at": "2026-11-27T13:15:54+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgifter: Amerikanska luftsförsvarets plattform har hackats",
+        "summary": "Hackare har lyckats ta sig in i amerikanska luftförsvars dataplattform för lagring Cloud One, uppger tre olika källor till nyhetsbyrån Reuters. Cloud One ska vara den största mollagringstjänsten i USA:s militär och intrånget riskerar information om personal, taktik och logistik.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Reports: US Air Force's air defence platform has been hacked",
+        "summary": "Hackers have managed to break into the US air defence data storage platform Cloud One, three different sources told the news agency Reuters. Cloud One is said to be the largest cloud storage service in the US military, and the intrusion risks information on personnel, tactics and logistics."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:16:03+01:00"
+      }
+    },
     {
       "id": "22dc73984f59",
       "schema_version": 1,
@@ -5148,58 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T16:45:53+01:00"
-      }
-    },
-    {
-      "id": "02a0c1a3e63e",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347880",
-      "guid": "rss:sr.se/article/9347880",
-      "published_at": "2026-11-22T15:45:00+01:00",
-      "fetched_at": "2026-11-22T16:01:09+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Centerstrid inför öppen ridå – nytt distrikt sätter ner foten",
-        "summary": "Ett offentligt bråk har blossat upp inom Centerpartiet. Centerpartiets näst största distrikt Stockholm slår nu tillbaka efter flera utspel från Centerpartister som vill se en ny alliansregering.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Centre Party infighting ahead of curtain-up – new district puts its foot down",
-        "summary": "A public row has flared up within the Centre Party. The Centre Party's second-largest district, Stockholm, is now hitting back after several statements from Centre Party members who want to see a new Alliance government."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "0492ef63241f",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347866",
-      "guid": "rss:sr.se/article/9347866",
-      "published_at": "2026-11-22T15:23:00+01:00",
-      "fetched_at": "2026-11-22T15:28:58+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Experten: Östersjön en tydlig del av kriget",
-        "summary": "Släckningsarbetet fortsätter efter attacken mot ryskflaggade fraktfartyget Sparta II i Finska viken. Ingen har tagit på sig attacken, men finska försvarsmakten har konstaterat att Ukraina sannolikt ligger bakom den.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Expert: Baltic Sea a clear part of the war",
-        "summary": "Firefighting continues after the attack on the Russian-flagged cargo ship Sparta II in the Gulf of Finland. No one has claimed responsibility for the attack, but the Finnish Defence Forces have stated that Ukraine is likely behind it."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:29:12+01:00"
       }
     }
   ]

@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-27T13:01:38+01:00",
+  "generated_at": "2026-11-27T13:16:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eb26fb9f6b0a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/kallor-usa-s-flygvapen-hackat",
+      "guid": "7fe7ba41-1b56-4e0f-8f43-1890d0007688",
+      "published_at": "2026-11-27T13:08:29+01:00",
+      "fetched_at": "2026-11-27T13:15:58+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/3927ac30-316c-4365-a1cc-876a9d15ce49.jpg?width=600",
+      "sv": {
+        "title": "Källor: USA:s flygvapen hackat",
+        "summary": "Hackare har tagit sig in i den molnlösning som USA:s flygvapen använder, uppger flera källor med insyn för Reuters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sources: US Air Force hacked",
+        "summary": "Hackers have gained access to the cloud solution used by the US Air Force, several sources with insight into the matter told Reuters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:16:03+01:00"
+      }
+    },
+    {
+      "id": "91bb4ccc9895",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351640",
+      "guid": "rss:sr.se/article/9351640",
+      "published_at": "2026-11-27T13:02:00+01:00",
+      "fetched_at": "2026-11-27T13:15:54+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgifter: Amerikanska luftsförsvarets plattform har hackats",
+        "summary": "Hackare har lyckats ta sig in i amerikanska luftförsvars dataplattform för lagring Cloud One, uppger tre olika källor till nyhetsbyrån Reuters. Cloud One ska vara den största mollagringstjänsten i USA:s militär och intrånget riskerar information om personal, taktik och logistik.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Reports: US Air Force's air defence platform has been hacked",
+        "summary": "Hackers have managed to break into the US air defence data storage platform Cloud One, three different sources told the news agency Reuters. Cloud One is said to be the largest cloud storage service in the US military, and the intrusion risks information on personnel, tactics and logistics."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:16:03+01:00"
+      }
+    },
+    {
+      "id": "74fd80886039",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/aGwrGd/ryssland-vill-inte-ha-fred",
+      "guid": "https://www.svd.se/a/aGwrGd/ryssland-vill-inte-ha-fred?utm_medium=rss",
+      "published_at": "2026-11-27T13:00:00+01:00",
+      "fetched_at": "2026-11-27T13:15:55+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/51b5b6fb-777f-3a24-9183-d9ad7f3408d8?format=auto&s=63247a9688a5c46ac1ba1f770eb195a846554f7c&w=1000",
+      "sv": {
+        "title": "Ryssland vill inte ha fred",
+        "summary": "USA:s sändebud blir uppfintade på läktaren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russia does not want peace",
+        "summary": "The US envoys are made fools of in the stands."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:16:03+01:00"
+      }
+    },
     {
       "id": "c10c2fbecfc8",
       "schema_version": 1,
@@ -5259,86 +5339,6 @@
       "en": {
         "title": "Migrants overwhelm small Canary Island",
         "summary": "A sparsely populated small Canary island has received thousands of migrants in a short time. On Tuesday alone, nearly 2,000 arrived by boat to the Spanish archipelago."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T13:15:54+01:00"
-      }
-    },
-    {
-      "id": "1fb66b2eaf99",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/storbritanniens-harda-kritik-mot-vast-skamligt",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/storbritanniens-harda-kritik-mot-vast-skamligt",
-      "published_at": "2026-11-25T13:09:35+01:00",
-      "fetched_at": "2026-11-25T13:15:48+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ilskan mot Europa",
-        "summary": "Storbritanniens ex-ledare sågar Putin-beslutet: ”Skamligt”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anger at Europe",
-        "summary": "Former UK leader slams Putin decision: “Shameful”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T13:15:54+01:00"
-      }
-    },
-    {
-      "id": "18d69bf901c3",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/aGwAqM/knesset-ja-till-utredningen-netanyahu-inte-vill-ha",
-      "guid": "https://www.aftonbladet.se/nyheter/a/aGwAqM/knesset-ja-till-utredningen-netanyahu-inte-vill-ha?utm_medium=rss",
-      "published_at": "2026-11-25T13:09:20+01:00",
-      "fetched_at": "2026-11-25T13:15:48+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/2dcc25c0-189d-3449-a303-bbf6e7dc36c0?format=auto&s=76355078f7d31780e913de056dece29655eb34ab&w=1000",
-      "sv": {
-        "title": "Knesset: Ja till utredningen Netanyahu inte vill ha",
-        "summary": "Israels parlament knesset har röstat ja till en statlig kommission för att utreda 7 oktober-attacken…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Knesset: Yes to inquiry Netanyahu does not want",
-        "summary": "Israel's parliament, the Knesset, has voted yes to a state commission to investigate the 7 October attack…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T13:15:54+01:00"
-      }
-    },
-    {
-      "id": "add586af1626",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/7P0rm3/spionexperten-varnar-stor-risk-att-hemligheter-lackt",
-      "guid": "https://www.aftonbladet.se/nyheter/a/7P0rm3/spionexperten-varnar-stor-risk-att-hemligheter-lackt?utm_medium=rss",
-      "published_at": "2026-11-25T13:06:47+01:00",
-      "fetched_at": "2026-11-25T13:15:48+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/45ffff08-5947-3a21-a027-868d0d223213?format=auto&s=dd7f65daa72cac337dc8adc3cc7fb7374600d68c&w=1000",
-      "sv": {
-        "title": "Spionexperten varnar: Stor risk att hemligheter läckt",
-        "summary": "Huang uppges ha lämnat landet ✓ ”Försvunnit”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Spy expert warns: Major risk that secrets have leaked",
-        "summary": "Huang is reported to have left the country ✓ “Disappeared”"
       },
       "translation": {
         "status": "done",

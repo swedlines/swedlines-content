@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T13:01:38+01:00",
+  "generated_at": "2026-11-27T13:16:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c147ada3d988",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/sveket-som-vi-liberaler-kanner-ar-monumentalt",
+      "guid": "https://www.dn.se/insandare/sveket-som-vi-liberaler-kanner-ar-monumentalt/",
+      "published_at": "2026-11-27T13:07:58+01:00",
+      "fetched_at": "2026-11-27T13:15:55+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/c5004611-3c7e-4d8a-aedd-d6ea7f84ed87.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Sveket som vi liberaler känner är monumentalt",
+        "summary": "INSÄNDARE. Centerpartiet har ljugit nästan en halv miljon väljare i riksdagsvalet rakt upp i ansiktet. Jag har slut på ord, nu återstår bara tårar, skriver Nils Löfgren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letter. The betrayal we liberals feel is monumental",
+        "summary": "LETTER. The Centre Party has lied almost half a million voters straight to their faces in the Riksdag election. I have run out of words, now only tears remain, writes Nils Löfgren."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:16:03+01:00"
+      }
+    },
     {
       "id": "2173473eeff7",
       "schema_version": 1,
@@ -5506,33 +5533,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T23:31:02+01:00"
-      }
-    },
-    {
-      "id": "add28af9841a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/8PmRMQ/sva-varnar-for-fagelinfluensan-och-duvpesten",
-      "guid": "https://www.aftonbladet.se/nyheter/a/8PmRMQ/sva-varnar-for-fagelinfluensan-och-duvpesten?utm_medium=rss",
-      "published_at": "2026-11-17T22:14:17+01:00",
-      "fetched_at": "2026-11-17T22:15:43+01:00",
-      "category": "other",
-      "image_url": "https://akamai.vgc.no/v2/images/fe5dad60-3dd5-393c-b96d-2c8c0ca8f163?format=auto&s=af19d24bd7b08ea24384fdef7e54b3ba83b58384&w=1000",
-      "sv": {
-        "title": "Dubbelhotet från vilda duvor: ”Högriskperiod”",
-        "summary": "”Låt inte husdjur komma nära” ✓ Döda i centrum",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The double hotel from wild pigeons: \"High-risk period\"",
-        "summary": "\"Do not let pets come near\" ✓ Dead in the centre"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T22:15:50+01:00"
       }
     }
   ]

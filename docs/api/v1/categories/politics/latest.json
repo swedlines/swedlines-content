@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-27T13:01:38+01:00",
+  "generated_at": "2026-11-27T13:16:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1a3e273113e9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351600",
+      "guid": "rss:sr.se/article/9351600",
+      "published_at": "2026-11-27T13:11:00+01:00",
+      "fetched_at": "2026-11-27T13:15:54+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Furtenbach: ”Förvärras av att SD väcker så starka känslor”",
+        "summary": "Efter Centerpartiets högersväng har debatten inom partiet hårdnat. Enligt Fredrik Furtenbach har partiet inte varit så här splittrat på väldigt lång tid.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Furtenbach: \"Made worse by SD stirring up such strong feelings\"",
+        "summary": "After the Centre Party's rightward turn, the debate within the party has hardened. According to Fredrik Furtenbach, the party has not been this divided for a very long time."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:16:03+01:00"
+      }
+    },
+    {
+      "id": "0c81cb1ec336",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/bjorn-wiman-hasthandlarna-i-centern-lat-sig-luras-av-en-skojare",
+      "guid": "https://www.dn.se/kultur/bjorn-wiman-hasthandlarna-i-centern-lat-sig-luras-av-en-skojare/",
+      "published_at": "2026-11-27T13:03:05+01:00",
+      "fetched_at": "2026-11-27T13:15:55+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/940df5fe-c22a-4148-8574-4a8c601b05c4.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Björn Wiman: Hästhandlarna i Centern lät sig luras av en skojare",
+        "summary": "De rödgrönas misslyckande med regeringsbildningen är framför allt ett svek mot väljarna. Skulden bör fördelas brett – alla inblandade har gjort bort sig grundligt, skriver Björn Wiman.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Björn Wiman: The Centre's horse traders were taken in by a con man",
+        "summary": "The red-greens' failure in the government formation is above all a betrayal of voters. The blame should be spread widely – everyone involved has blundered thoroughly, writes Björn Wiman."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T13:16:03+01:00"
+      }
+    },
     {
       "id": "233aa93182a5",
       "schema_version": 1,
@@ -5333,58 +5386,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T19:01:24+01:00"
-      }
-    },
-    {
-      "id": "f3f918922909",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9350231",
-      "guid": "rss:sr.se/article/9350231",
-      "published_at": "2026-11-25T18:54:00+01:00",
-      "fetched_at": "2026-11-25T19:01:17+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Statsvetaren om C:s val: ”Kommer krävas förhandlingar med SD”",
-        "summary": "Centerpartiets ledning verkar ha ett mål med att framställa att partiets vägval nu står mellan en regering ledd av Kristersson (M) eller extraval, det säger Jan Teorell professor i statsvetenskap vid Stockholms universitet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Political scientist on C's choice: \"Negotiations with the SD will be required\"",
-        "summary": "The Centre Party leadership appears to aim to portray the party's choice as standing between a government led by Kristersson (M) or a snap election, says Jan Teorell, professor of political science at Stockholm University."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T19:01:24+01:00"
-      }
-    },
-    {
-      "id": "9339b43eb9ef",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/s-profilerna-varnar-djup-kris-om-andersson-misslyckas",
-      "guid": "https://www.svt.se/nyheter/inrikes/s-profilerna-varnar-djup-kris-om-andersson-misslyckas",
-      "published_at": "2026-11-25T18:30:46+01:00",
-      "fetched_at": "2026-11-25T18:31:01+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "S-profilerna varnar: Djup kris om Andersson misslyckas",
-        "summary": "Om Magdalena Andersson misslyckas med att bilda regering riskerar Socialdemokraterna att kastas in i en djup kris. Det menar S-profilerna Daniel Suhonen och Lars Stjernkvist. – Att vinna ett val och sen tappa det. Det är ju nästan häpnadsväckande, säger Suhonen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "S figures warn: Deep crisis if Andersson fails",
-        "summary": "If Magdalena Andersson fails to form a government, the Social Democrats risk being plunged into a deep crisis. That is the view of S figures Daniel Suhonen and Lars Stjernkvist. – To win an election and then lose it. That is almost astonishing, says Suhonen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T18:31:20+01:00"
       }
     }
   ]
