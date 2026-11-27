@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T17:15:53+01:00",
+  "generated_at": "2026-11-27T17:31:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5727658501cc",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8a7458e9-9cf6-44e7-8aec-581c6fdfe2a3",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8a7458e9-9cf6-44e7-8aec-581c6fdfe2a3",
+      "published_at": "2026-11-27T17:16:54+01:00",
+      "fetched_at": "2026-11-27T17:31:05+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "S-källor: Andersson kan behöva avgå",
+        "summary": "S-källor uppger för Aftonbladet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "S sources: Andersson may have to resign",
+        "summary": "S sources tell Aftonbladet"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:31:18+01:00"
+      }
+    },
     {
       "id": "b5aa020c3208",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T18:15:57+01:00"
-      }
-    },
-    {
-      "id": "bd84c3d91bfb",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=e537de22-7bb2-49f7-bb8e-15aeab85ad93",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e537de22-7bb2-49f7-bb8e-15aeab85ad93",
-      "published_at": "2026-11-24T17:53:32+01:00",
-      "fetched_at": "2026-11-24T18:01:15+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Man död i singelolycka",
-        "summary": "Polisen utreder olyckan utanför Skurup",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man dead in single-vehicle accident",
-        "summary": "Police are investigating the accident outside Skurup"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T18:01:28+01:00"
       }
     }
   ]

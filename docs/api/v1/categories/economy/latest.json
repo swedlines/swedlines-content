@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T17:15:53+01:00",
+  "generated_at": "2026-11-27T17:31:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9e00327308b2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/naringsliv/biltema-flyttar-delar-av-huvudkontoret-soderut",
+      "guid": "7e94e7f7-985c-4e52-bf98-e4df454b0f89",
+      "published_at": "2026-11-27T17:28:29+01:00",
+      "fetched_at": "2026-11-27T17:31:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e04e2d86-877e-4742-a0a0-f24f2321faa4.jpeg?width=600",
+      "sv": {
+        "title": "Biltema flyttar delar av huvudkontoret söderut",
+        "summary": "Biltema flyttar delar av serviceorganisationens huvudkontor från Helsingborg till Malmö. Enligt bolaget handlar det om behovet av större lokaler och bättre möjligheter att växa.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Biltema moves part of head office south",
+        "summary": "Biltema is moving part of its service organisation's head office from Helsingborg to Malmö. According to the company, it is about the need for larger premises and better opportunities to grow."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:31:18+01:00"
+      }
+    },
     {
       "id": "66ea4003dc0b",
       "schema_version": 1,
@@ -5277,33 +5304,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "59727941787e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/indexen-pa-dagshogsta-berg-och-dalbane-borsen-ar-tillbaka",
-      "guid": "d55965d8-7e49-4724-91c6-1ad6b0267a3a",
-      "published_at": "2026-11-26T16:38:52+01:00",
-      "fetched_at": "2026-11-26T16:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/40952463-8e60-4743-9a02-4098be44d9f3.jpeg?width=600",
-      "sv": {
-        "title": "Indexen på dagshögsta: ”Berg-och-dalbane-börsen är tillbaka”",
-        "summary": "Den muntra tonen fortsätter på Stockholmsbörsen, som nu klättrar till nya dagshögstanivåer. Med undantag för SKF handlas samtliga bolag på OMXS30 på grönt. ”Berg-och-dalbane-börsen är tillbaka”, säger AJ Bell investeringschef Russ Mould till CNBC.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Indexes at day high: \"The roller-coaster market is back\"",
-        "summary": "The upbeat tone continues on the Stockholm Stock Exchange, which is now climbing to new day-high levels. With the exception of SKF, all companies on the OMXS30 are trading in the green. \"The roller-coaster market is back,\" says Russ Mould, investment director at AJ Bell, to CNBC."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T16:45:56+01:00"
       }
     }
   ]

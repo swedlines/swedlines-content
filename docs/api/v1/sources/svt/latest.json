@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-27T17:15:53+01:00",
+  "generated_at": "2026-11-27T17:31:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b5a209c70700",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/skidskytte/elvira-oberg-vinner-i-varldscuppremiaren",
+      "guid": "https://www.svt.se/sport/skidskytte/elvira-oberg-vinner-i-varldscuppremiaren",
+      "published_at": "2026-11-27T17:27:10+01:00",
+      "fetched_at": "2026-11-27T17:31:02+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Elvira Öberg vinner i världscuppremiären",
+        "summary": "Svensk seger i världscuppremiären. Elvira Öberg vann distansloppet i Kontilax.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elvira Öberg wins World Cup opener",
+        "summary": "Swedish victory in the World Cup opener. Elvira Öberg won the distance race in Kontilax."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:31:18+01:00"
+      }
+    },
+    {
+      "id": "2fe35b677854",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/populart-dataspel-slapptes-da-okade-franvaron-i-sundsvalls-skolor",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/populart-dataspel-slapptes-da-okade-franvaron-i-sundsvalls-skolor",
+      "published_at": "2026-11-27T17:22:42+01:00",
+      "fetched_at": "2026-11-27T17:31:02+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Populärt dataspel släpptes – då ökade frånvaron i Sundsvalls skolor",
+        "summary": "Skolfrånvaron ökade fredagen den 20 november på skolorna i Sundsvall. Det var dagen efter att dataspelet GTA 6 släppts efter 13 års väntan på att det skulle bli klart.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Popular video game released – then absence rose at Sundsvall schools",
+        "summary": "School absence rose on Friday 20 November at schools in Sundsvall. It was the day after the video game GTA 6 was released, after 13 years of waiting for it to be finished."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:31:18+01:00"
+      }
+    },
     {
       "id": "709c272994b6",
       "schema_version": 1,
@@ -5145,58 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T06:56:48+01:00"
-      }
-    },
-    {
-      "id": "89f8bfeae329",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/dalarna/mollys-dod-tas-upp-i-svea-hovratt-har-ar-nya-bevisen",
-      "guid": "https://www.svt.se/nyheter/lokalt/dalarna/mollys-dod-tas-upp-i-svea-hovratt-har-ar-nya-bevisen",
-      "published_at": "2026-11-23T05:30:01+01:00",
-      "fetched_at": "2026-11-23T06:55:59+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Nya bevis när Mollys död tas upp i Svea hovrätt",
-        "summary": "Nya vittnen och en fördjupad håranalys. Nu ska frågan om ansvaret för 14-åriga Mollys död prövas i Svea hovrätt – och åklagaren lyfter nya bevis.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New evidence as Molly's death is taken up in the Svea Court of Appeal",
-        "summary": "New witnesses and an expanded hair analysis. The question of liability for the death of 14-year-old Molly is now to be tried in the Svea Court of Appeal – and the prosecutor is presenting new evidence."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:48+01:00"
-      }
-    },
-    {
-      "id": "d381c446b473",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/andersson-soker-ett-sista-halmstra",
-      "guid": "https://www.svt.se/nyheter/inrikes/andersson-soker-ett-sista-halmstra",
-      "published_at": "2026-11-22T20:08:07+01:00",
-      "fetched_at": "2026-11-22T20:15:39+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "”Andersson söker ett sista halmstrå”",
-        "summary": "S-ledaren Magdalena Anderssons utspel på söndagskvällen är ett sista försök att sätta press på Vänsterpartiet. Men det framstår som alltmer utsiktslöst. Vänsterpartiet håller benhårt fast vid sina krav på ministerposter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Andersson is clutching at a last straw\"",
-        "summary": "Social Democrat leader Magdalena Andersson's move on Sunday evening is a last attempt to put pressure on the Left Party. But it appears increasingly hopeless. The Left Party is holding firmly to its demands for ministerial posts."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T20:15:48+01:00"
       }
     }
   ]

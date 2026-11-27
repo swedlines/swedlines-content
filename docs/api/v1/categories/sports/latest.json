@@ -1,7 +1,69 @@
 {
-  "generated_at": "2026-11-27T17:15:53+01:00",
+  "generated_at": "2026-11-27T17:31:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b5a209c70700",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/skidskytte/elvira-oberg-vinner-i-varldscuppremiaren",
+      "guid": "https://www.svt.se/sport/skidskytte/elvira-oberg-vinner-i-varldscuppremiaren",
+      "published_at": "2026-11-27T17:27:10+01:00",
+      "fetched_at": "2026-11-27T17:31:02+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Elvira Öberg vinner i världscuppremiären",
+        "summary": "Svensk seger i världscuppremiären. Elvira Öberg vann distansloppet i Kontilax.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elvira Öberg wins World Cup opener",
+        "summary": "Swedish victory in the World Cup opener. Elvira Öberg won the distance race in Kontilax."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:31:18+01:00"
+      }
+    },
+    {
+      "id": "6e263c13dc13",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/ishockey/frolunda/frolundas-mardrom-fyra-friska-backar.986b1550-0ab8-5c83-9356-7a2ec0d19251",
+      "guid": "986b1550-0ab8-5c83-9356-7a2ec0d19251",
+      "published_at": "2026-11-27T17:20:29+01:00",
+      "fetched_at": "2026-11-27T17:31:06+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Frölunda",
+        "Tagg: Frölunda HC",
+        "Tagg: Henrik Tömmernes",
+        "Tagg: Tom Nilsson",
+        "Tagg: Robert Ohlsson",
+        "Tagg: Christian Folin",
+        "Tagg: Fredrik Sjöström"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/4a6d9ef6-f1da-36d5-8ff7-7a5936e4fa2d",
+      "sv": {
+        "title": "Frölundas mardröm – fyra friska backar",
+        "summary": "Även Filip Hasa med skada på överkroppen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frölunda's nightmare – four healthy defencemen",
+        "summary": "Also Filip Hasa with an upper-body injury"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:31:18+01:00"
+      }
+    },
     {
       "id": "c7e67800db8e",
       "schema_version": 1,
@@ -5544,59 +5606,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T12:01:23+01:00"
-      }
-    },
-    {
-      "id": "82ae04d4c18d",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/johanna-franden-som-utvandrad-fotbollsmorsa-forstar-jag-buropen-mot-sverige",
-      "guid": "https://www.dn.se/sport/johanna-franden-som-utvandrad-fotbollsmorsa-forstar-jag-buropen-mot-sverige/",
-      "published_at": "2026-11-21T11:36:37+01:00",
-      "fetched_at": "2026-11-21T11:45:44+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/53cfe81b-50bb-4d02-890e-35177724ab63.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Johanna Frändén: Som utvandrad fotbollsmorsa förstår jag buropen mot Sverige",
-        "summary": "När den bosniska orkanen drog förbi Solna började den nya tidens olyckskorpar flaxa: Varför håller inte våra invandrare på svenska landslaget? Det ska den här utvandrade fotbollsmorsan berätta för alla som orkar lyssna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Johanna Frändén: As an emigrant football mother, I understand the booing against Sweden",
-        "summary": "When the Bosnian hurricane swept past Solna, the new age's birds of ill omen began to flutter: Why don't our immigrants play for the Swedish national team? This emigrant football mother is here to tell everyone who cares to listen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T11:45:53+01:00"
-      }
-    },
-    {
-      "id": "72eaf9fef5df",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/langdskidor/alvar-myhlbacks-gladjebesked-kor-10-kilometer-klassiskt",
-      "guid": "https://www.svt.se/sport/langdskidor/alvar-myhlbacks-gladjebesked-kor-10-kilometer-klassiskt",
-      "published_at": "2026-11-21T10:23:50+01:00",
-      "fetched_at": "2026-11-21T10:45:44+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Alvar Myhlbacks glädjebesked: Kör 10 kilometer klassiskt",
-        "summary": "Under fredagen kastade Alvar Myhlback in handduken till sprinten, på grund av sjukdom. Men nu får det vara färdigvilat – 20-åringen kommer till start under 10 kilometer klassiskt i Bruksvallarna. – Han mår bättre idag och kommer att testa, säger hans pappa Petter Myhlback till SVT Sport.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Alvar Myhlback's good news: Skiing 10 kilometres classic",
-        "summary": "On Friday Alvar Myhlback withdrew from the sprint due to illness. But now it's back on – the 20-year-old will start in the 10 kilometres classic in Bruksvallarna. \"He feels better today and will try, says his father Petter Myhlback to SVT Sport."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T10:45:53+01:00"
       }
     }
   ]

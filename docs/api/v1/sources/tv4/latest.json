@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-27T17:15:53+01:00",
+  "generated_at": "2026-11-27T17:31:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0dca6dd182eb",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/34L9iCnVVgNO7yoIK0No2s/uppgifter-doeende-patient-valdtagen-pa-vardhem",
+      "guid": "34L9iCnVVgNO7yoIK0No2s",
+      "published_at": "2026-11-27T17:29:25+01:00",
+      "fetched_at": "2026-11-27T17:31:05+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Brott och straff"
+      ],
+      "sv": {
+        "title": "Uppgifter: Döende patient våldtagen på vårdhem",
+        "summary": "Polisen larmades till vårdhemmet på Lidingö i tisdags och hade en stor insats på platsen. Enligt uppgifter till TV4 Nyheterna utreder polisen en våldtäkt mot en kvinnlig patient på boendet. Hon ska ha vårdats i livets slutskede. Misstankarna riktades mot en annan patient, en man i 80-årsåldern.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Reports: Dying patient raped at care home",
+        "summary": "Police were alerted to the care home on Lidingö on Tuesday and had a large operation on site. According to TV4 Nyheterna, police are investigating a rape of a female patient at the facility. She is said to have been receiving care at the end of life. Suspicion was directed at another patient, a man in his 80s."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:31:18+01:00"
+      }
+    },
     {
       "id": "dd81a7798000",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T13:31:19+01:00"
-      }
-    },
-    {
-      "id": "9a571c61d21e",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5cvNw30X2RzF2ne7wnmjMM/rekordmanga-barn-lever-i-konfliktomraden",
-      "guid": "5cvNw30X2RzF2ne7wnmjMM",
-      "published_at": "2026-11-19T12:49:23+01:00",
-      "fetched_at": "2026-11-19T13:01:12+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Rekordmånga barn lever i konfliktområden",
-        "summary": "Antalet barn som lever i konfliktdrabbade områden i världen fortsätter att öka. Totalt handlar det om 589 miljoner barn - den högsta siffran sedan mätningarna började 1990. Anledningen är bland annat att antalet krig och konflikter har ökat, och att de har blivit mer utdragna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Record number of children living in conflict zones",
-        "summary": "The number of children living in conflict-affected areas around the world continues to rise. In total, 589 million children – the highest figure since measurements began in 1990. The reasons include that the number of wars and conflicts has increased, and that they have become more protracted."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T13:01:19+01:00"
       }
     }
   ]
