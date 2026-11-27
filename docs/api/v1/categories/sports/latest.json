@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T07:15:59+01:00",
+  "generated_at": "2026-11-27T07:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5d2554d26b6c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/vi-bearbetade-det-tragiska-hela-vagen-in-mot-os",
+      "guid": "https://www.dn.se/sport/vi-bearbetade-det-tragiska-hela-vagen-in-mot-os/",
+      "published_at": "2026-11-27T07:15:28+01:00",
+      "fetched_at": "2026-11-27T07:30:57+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/413dd93a-d0d4-43f7-b1d0-73d9dc75eebc.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "”Vi bearbetade det tragiska hela vägen in mot OS”",
+        "summary": "Förra vintern upplevde norske Egil Kristiansen det värsta han varit med om som idrottsledare. Nu är han tränaren som ska lyfta de svenska längdherrarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"We worked through the tragedy all the way to the Olympics\"",
+        "summary": "Last winter Norwegian Egil Kristiansen experienced the worst thing he has been through as a sports leader. Now he is the coach who is to lift the Swedish cross-country skiers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T07:31:06+01:00"
+      }
+    },
     {
       "id": "39e6656a8d0e",
       "schema_version": 1,
@@ -5569,33 +5596,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T19:01:29+01:00"
-      }
-    },
-    {
-      "id": "954d8ae103b7",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/omtaget-gav-hammarby-ett-trumfkort-i-guldkampen-bara-upp-till-oss-nu",
-      "guid": "https://www.dn.se/sport/omtaget-gav-hammarby-ett-trumfkort-i-guldkampen-bara-upp-till-oss-nu/",
-      "published_at": "2026-11-20T18:11:47+01:00",
-      "fetched_at": "2026-11-20T18:15:44+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/f3ac3d13-0268-4215-8818-eef846bbc362.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Omtaget gav Hammarby ett trumfkort i guldkampen: ”Bara upp till oss nu”",
-        "summary": "Sedan Henrik Rydström tog över som tränare i somras har Hammarby släppt in hälften så många mål per match som tidigare under säsongen. Den täta defensiven har gett ”Bajen” trumf på hand i kampen om SM-guldet i fotboll.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Overhaul gives Hammarby a trump card in the gold race: \"Just up to us now\"",
-        "summary": "Since Henrik Rydström took over as coach last summer, Hammarby have conceded half as many goals per match as earlier in the season. The tight defence has given \"Bajen\" a trump card in the race for the Swedish football championship."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:16:00+01:00"
       }
     }
   ]

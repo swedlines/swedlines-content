@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-27T07:15:59+01:00",
+  "generated_at": "2026-11-27T07:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "655be50b260d",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kapten-rod-gor-comeback-spelar-i-slottsskogen-2027.0c13e34c-f67e-551c-9051-d2f15ab30544",
+      "guid": "0c13e34c-f67e-551c-9051-d2f15ab30544",
+      "published_at": "2026-11-27T07:08:53+01:00",
+      "fetched_at": "2026-11-27T07:30:59+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: Kapten Röd",
+        "Tagg: Konserter",
+        "Tagg: Musik",
+        "Tagg: Slottsskogen"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/bfd7d417-ae4b-309c-99fa-9170edf6ff58",
+      "sv": {
+        "title": "Kapten Röd gör efterlängtad comeback – stor konsert i Slottsskogen 2027",
+        "summary": "Kaptenen från Majorna tillbaka efter åtta år borta från scenen: ”Behövde en paus”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kapten Röd makes long-awaited comeback – big concert in Slottsskogen 2027",
+        "summary": "The Captain from Majorna is back after eight years away from the stage: \"Needed a break\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T07:31:06+01:00"
+      }
+    },
     {
       "id": "98a4bcaec9b1",
       "schema_version": 1,
@@ -6820,40 +6854,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T06:45:55+01:00"
-      }
-    },
-    {
-      "id": "59e78d011749",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/goteborgs-nya-station-ett-monument-som-ska-fanga-stadens-sjal.f383f7a9-ab70-5524-8b6c-a54506edef31",
-      "guid": "f383f7a9-ab70-5524-8b6c-a54506edef31",
-      "published_at": "2026-11-22T06:02:38+01:00",
-      "fetched_at": "2026-11-22T06:15:48+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: Stadsplanering",
-        "Tagg: Arkitektur",
-        "Tagg: Västlänken",
-        "Tagg: Samhällsredaktionen"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/c96bbb68-922c-37db-a431-c46f6a1c7b90",
-      "sv": {
-        "title": "Han är arkitekten bakom Göteborgs nya centralstation",
-        "summary": "”Jag hoppas att den ska ha en del av Göteborgs själ”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "He is the architect behind Göteborg's new central station",
-        "summary": "”I hope it will have a part of Göteborg's soul”."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T06:15:54+01:00"
       }
     }
   ]

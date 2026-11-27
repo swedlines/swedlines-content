@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T07:15:59+01:00",
-  "count": 28,
+  "generated_at": "2026-11-27T07:31:08+01:00",
+  "count": 29,
   "stories": [
     {
       "id": "ed574169a1d8",
@@ -1690,6 +1690,69 @@
           },
           "en": {
             "title": "Major explosion in Bangkok – residents evacuated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "54d8ddaebafc",
+      "source_count": 2,
+      "sources": [
+        "sydsvenskan",
+        "dn"
+      ],
+      "first_published_at": "2026-11-27T06:00:00+01:00",
+      "last_published_at": "2026-11-27T07:28:23+01:00",
+      "lead": {
+        "id": "54d8ddaebafc",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/kultur/low-expectations-fint-men-lite-trakigt-drama-om-deppig-norska",
+        "guid": "452baab7-e363-4e96-9c20-99a5c2f6bf3b",
+        "published_at": "2026-11-27T06:00:00+01:00",
+        "fetched_at": "2026-11-27T06:01:10+01:00",
+        "category": "culture",
+        "image_url": "https://static.bonniernews.se/ba/4d3cf8c2-3823-483a-80a5-021c3f6c7814.jpeg?width=600",
+        "sv": {
+          "title": "”Low expectations”: Fint men lite tråkigt drama om deppig norska",
+          "summary": "Filmen når inte upp till förebilderna Dag Johan Haugerud och Joachim Trier, skriver Malin Krutmeijer.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "\"Low Expectations\": Nice but somewhat dull drama about a depressed Norwegian woman",
+          "summary": "The film does not reach the level of its role models Dag Johan Haugerud and Joachim Trier, writes Malin Krutmeijer."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T06:01:20+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "54361d570e3b",
+          "source": "dn",
+          "url": "https://www.dn.se/kultur/norska-artisten-girl-in-red-laddar-depressionsdramat-low-expectations",
+          "published_at": "2026-11-27T07:28:23+01:00",
+          "sv": {
+            "title": "Norska artisten Girl in red laddar depressionsdramat ”Low expectations”"
+          },
+          "en": {
+            "title": "Norwegian artist Girl in Red stars in the charged depression drama \"Low expectations\""
+          }
+        },
+        {
+          "id": "54d8ddaebafc",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/kultur/low-expectations-fint-men-lite-trakigt-drama-om-deppig-norska",
+          "published_at": "2026-11-27T06:00:00+01:00",
+          "sv": {
+            "title": "”Low expectations”: Fint men lite tråkigt drama om deppig norska"
+          },
+          "en": {
+            "title": "\"Low Expectations\": Nice but somewhat dull drama about a depressed Norwegian woman"
           }
         }
       ]

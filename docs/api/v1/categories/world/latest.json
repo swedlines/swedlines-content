@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T07:15:59+01:00",
+  "generated_at": "2026-11-27T07:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1dc36d3f72c4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/anfallsvag-mot-sankt-petersburg",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/anfallsvag-mot-sankt-petersburg",
+      "published_at": "2026-11-27T07:20:28+01:00",
+      "fetched_at": "2026-11-27T07:30:58+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Putins stad anfalls: ”Jävlar”",
+        "summary": "Explosioner över området vid Östersjön",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin's city attacked: \"Bastards\"",
+        "summary": "Explosions over the area by the Baltic Sea"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T07:31:06+01:00"
+      }
+    },
     {
       "id": "368e9e80674d",
       "schema_version": 1,
@@ -5314,32 +5340,6 @@
       "en": {
         "title": "Former EU leader: Use Russia's frozen assets",
         "summary": "Use Russia's frozen state assets in the EU to support Ukraine, urges the former European Commission…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T09:31:10+01:00"
-      }
-    },
-    {
-      "id": "60ffe1044508",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-utspel-da-forlorar-vi-kriget",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-utspel-da-forlorar-vi-kriget",
-      "published_at": "2026-11-25T09:22:07+01:00",
-      "fetched_at": "2026-11-25T09:31:02+01:00",
-      "category": "world",
-      "sv": {
-        "title": "”Då förlorar vi kriget”",
-        "summary": "Zelenskyjs ilska – pekar på Trump-löfte: ”Helt omöjligt”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Then we lose the war\"",
-        "summary": "Zelenskyy's anger – points to Trump promise: \"Completely impossible\""
       },
       "translation": {
         "status": "done",

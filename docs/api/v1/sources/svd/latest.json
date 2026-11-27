@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T07:15:59+01:00",
+  "generated_at": "2026-11-27T07:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ecbfe0854f7c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/vll1jp/nar-mamsellerna-blev-befordrade-till-froknar",
+      "guid": "https://www.svd.se/a/vll1jp/nar-mamsellerna-blev-befordrade-till-froknar?utm_medium=rss",
+      "published_at": "2026-11-27T07:15:00+01:00",
+      "fetched_at": "2026-11-27T07:30:57+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/897d8bf6-8f84-343e-a510-80d295c1a1f9?format=auto&s=dbb3f562b4a36e0bd1030246e84b9545604bf577&w=854",
+      "sv": {
+        "title": "När mamsellerna blev befordrade till fröknar",
+        "summary": "Vad skiljer en fröken från en mamsell? För 160 år sedan var svaret på den frågan så politiskt laddat…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "When the mamsellers were promoted to fröknar",
+        "summary": "What distinguishes a fröken from a mamsell? 160 years ago the answer to that question was so politically charged…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T07:31:06+01:00"
+      }
+    },
     {
       "id": "15f3f1afc000",
       "schema_version": 1,
@@ -5249,33 +5276,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T00:15:52+01:00"
-      }
-    },
-    {
-      "id": "c47c26537bd1",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/r8A7mK/c-gar-hogerut-inga-tydliga-besked-fran-v",
-      "guid": "https://www.svd.se/a/r8A7mK/c-gar-hogerut-inga-tydliga-besked-fran-v?utm_medium=rss",
-      "published_at": "2026-11-23T23:24:02+01:00",
-      "fetched_at": "2026-11-23T23:28:28+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/69cd1c5a-5f97-3b53-bd5f-4d9c79393e28?format=auto&s=92deed74b58cb65286b2da8bb513e3f98e903122&w=1000",
-      "sv": {
-        "title": "C går högerut: ”Inga tydliga besked från V”",
-        "summary": "Centerpartiet återupptar samtalen med högersidan, skriver partiledare Elisabeth Thand Ringqvist till…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "C turns right: \"No clear answer from V\"",
-        "summary": "The Centre Party is resuming talks with the right-leaning side, party leader Elisabeth Thand Ringqvist writes to…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T23:28:35+01:00"
       }
     }
   ]
