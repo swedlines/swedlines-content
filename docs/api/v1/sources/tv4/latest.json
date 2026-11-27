@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-27T20:37:05+01:00",
+  "generated_at": "2026-11-27T20:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ab9738ee481e",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7tkMNEWpbqBoZ4Yd5nR81r/guldrysaren-i-allsvenskan-har-redan-bokat-segerfesten",
+      "guid": "7tkMNEWpbqBoZ4Yd5nR81r",
+      "published_at": "2026-11-27T19:54:22+01:00",
+      "fetched_at": "2026-11-27T20:45:47+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Efter fem"
+      ],
+      "sv": {
+        "title": "Guldrysaren i Allsvenskan – har redan bokat segerfesten",
+        "summary": "Hammarby och Sirius går in i den sista omgången på samma poäng, men Stockholmslaget har betydligt bättre målskillnad. En seger mot Västerås räcker för att säkra guldet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Allsvenskan champions-to-be have already booked the victory party",
+        "summary": "Hammarby and Sirius go into the final round level on points, but the Stockholm side has a much better goal difference. A win against Västerås is enough to secure the title."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T20:45:51+01:00"
+      }
+    },
     {
       "id": "3fd36445e6e1",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:31:09+01:00"
-      }
-    },
-    {
-      "id": "34264d117d8e",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2i4nhJjX7TLo8oZbY835SI/putin-utlovar-haemnd-betydligt-mer-smaertsamt",
-      "guid": "2i4nhJjX7TLo8oZbY835SI",
-      "published_at": "2026-11-19T16:09:08+01:00",
-      "fetched_at": "2026-11-19T16:15:47+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Putin utlovar hämnd: ”Betydligt mer smärtsamt”",
-        "summary": "Krimbron attackerad tre gånger på fyra dagar • Förödmjukar ryske ledaren",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Putin vows revenge: “Significantly more painful”",
-        "summary": "Crimea bridge attacked three times in four days • Humiliates Russian leader"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:16:01+01:00"
       }
     }
   ]
