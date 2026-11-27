@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T12:31:09+01:00",
+  "generated_at": "2026-11-27T12:41:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "22dc73984f59",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351562",
+      "guid": "rss:sr.se/article/9351562",
+      "published_at": "2026-11-27T12:32:00+01:00",
+      "fetched_at": "2026-11-27T12:41:12+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Striden i LO: Två förbund backar inte kravet till avtalsrörelsen",
+        "summary": "Två av LO:s 13 medlemsförbund ställer sig utanför de gemensamma krav som LO:s styrelse föreslagit i avtalsrörelsen. Det är Transport och också Hotell- och restaurangfacket.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Dispute in LO: Two unions do not back down on demands for bargaining round",
+        "summary": "Two of LO's 13 member unions are standing outside the joint demands proposed by LO's board in the bargaining round. They are Transport and also the Hotel and Restaurant Workers' Union."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T12:41:20+01:00"
+      }
+    },
     {
       "id": "30622b755df7",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T15:29:12+01:00"
-      }
-    },
-    {
-      "id": "5778cda722ab",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347549",
-      "guid": "rss:sr.se/article/9347549",
-      "published_at": "2026-11-22T15:08:00+01:00",
-      "fetched_at": "2026-11-22T15:15:43+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Den spanska högern: ”Det behövs förändring”",
-        "summary": "Partido Popular leder fortsatt i opinionen inför det spanska valet den 29 november, och partiledaren Alberto Núñez Feijóo går till val på löften om förändring, stabilitet och ordning.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "The Spanish right: “Change is needed”",
-        "summary": "Partido Popular still leads in the polls ahead of the Spanish election on 29 November, and party leader Alberto Núñez Feijóo is going to the polls on promises of change, stability and order."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:15:59+01:00"
       }
     }
   ]

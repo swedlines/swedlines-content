@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T12:31:09+01:00",
+  "generated_at": "2026-11-27T12:41:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "939adfa5c873",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/vandningen-fury-lider-inte-av-schizofreni",
+      "guid": "4364505e-069e-421e-8a23-c0832b111115",
+      "published_at": "2026-11-27T12:35:42+01:00",
+      "fetched_at": "2026-11-27T12:41:17+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/ce09e69e-81d6-438c-a208-e6326495e6ba.jpg?width=600",
+      "sv": {
+        "title": "Vändningen: ”Fury lider inte av schizofreni”",
+        "summary": "I en ny Netflix-dokumentär säger Tyson Furys fru Paris att boxningsstjärnan lider av schizofreni. Nu tar hon tillbaka det uttalandet. ”Han har aldrig fått en sådan diagnos”, skriver Paris Fury.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The turnaround: \"Fury does not suffer from schizophrenia\"",
+        "summary": "In a new Netflix documentary, Tyson Fury's wife Paris says the boxing star suffers from schizophrenia. Now she is taking that statement back. \"He has never been given such a diagnosis\", writes Paris Fury."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T12:41:20+01:00"
+      }
+    },
     {
       "id": "2a4088c4dac2",
       "schema_version": 1,
@@ -5639,35 +5666,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T09:31:07+01:00"
-      }
-    },
-    {
-      "id": "6584706d4e8a",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4Uw8w3fyzOw18pjx7iHW0O/keema-aloo-koettfaersgryta-med-potatis",
-      "guid": "4Uw8w3fyzOw18pjx7iHW0O",
-      "published_at": "2026-11-24T08:59:42+01:00",
-      "fetched_at": "2026-11-24T09:01:09+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Mat"
-      ],
-      "sv": {
-        "title": "Keema aloo – köttfärsgryta med potatis",
-        "summary": "Dagens middagstips bjuder på en klassisk vardagsrätt från Pakistan och norra Indien. Keema betyder köttfärs och aloo är potatis. Potatisen får koka direkt i den kryddiga färssåsen, suger åt sig smak och gör grytan både matig och prisvärd. Se Zeina Mourtadas recept",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Keema aloo – minced meat stew with potatoes",
-        "summary": "Today's dinner tip is a classic everyday dish from Pakistan and northern India. Keema means minced meat and aloo is potato. The potatoes are cooked directly in the spiced mince sauce, absorb the flavour and make the stew both hearty and affordable. See Zeina Mourtada's recipe"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T09:01:17+01:00"
       }
     }
   ]

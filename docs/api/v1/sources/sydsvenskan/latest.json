@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T12:31:09+01:00",
+  "generated_at": "2026-11-27T12:41:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "939adfa5c873",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/vandningen-fury-lider-inte-av-schizofreni",
+      "guid": "4364505e-069e-421e-8a23-c0832b111115",
+      "published_at": "2026-11-27T12:35:42+01:00",
+      "fetched_at": "2026-11-27T12:41:17+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/ce09e69e-81d6-438c-a208-e6326495e6ba.jpg?width=600",
+      "sv": {
+        "title": "Vändningen: ”Fury lider inte av schizofreni”",
+        "summary": "I en ny Netflix-dokumentär säger Tyson Furys fru Paris att boxningsstjärnan lider av schizofreni. Nu tar hon tillbaka det uttalandet. ”Han har aldrig fått en sådan diagnos”, skriver Paris Fury.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The turnaround: \"Fury does not suffer from schizophrenia\"",
+        "summary": "In a new Netflix documentary, Tyson Fury's wife Paris says the boxing star suffers from schizophrenia. Now she is taking that statement back. \"He has never been given such a diagnosis\", writes Paris Fury."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T12:41:20+01:00"
+      }
+    },
     {
       "id": "2a4088c4dac2",
       "schema_version": 1,
@@ -5194,33 +5221,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T18:15:57+01:00"
-      }
-    },
-    {
-      "id": "66722a827333",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/loparstjarnan-evy-palm-ar-dod",
-      "guid": "31b6d4b5-bd75-4a99-966d-7d70c61212c5",
-      "published_at": "2026-11-24T18:00:23+01:00",
-      "fetched_at": "2026-11-24T18:01:17+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/08f5856f-e00d-4620-a032-a1ec3e5f51c4.jpg?width=600",
-      "sv": {
-        "title": "Löparstjärnan Evy Palm är död",
-        "summary": "Maraton- och långdistanslöparen Evy Palm har avlidit, det uppger Runners Worlds chefredaktör Anders Szalkai i ett inlägg på Instagram.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Running star Evy Palm has died",
-        "summary": "Marathon and long-distance runner Evy Palm has died, Runner's World editor-in-chief Anders Szalkai announced in an Instagram post."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T18:01:28+01:00"
       }
     }
   ]
