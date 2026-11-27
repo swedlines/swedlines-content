@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-27T16:31:23+01:00",
+  "generated_at": "2026-11-27T16:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dd81a7798000",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4szofRo4OWdfebZTyU2i4s/haer-aer-moderaternas-budgeterbjudande-till-c",
+      "guid": "4szofRo4OWdfebZTyU2i4s",
+      "published_at": "2026-11-27T16:39:23+01:00",
+      "fetched_at": "2026-11-27T16:45:47+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Här är M, KD och L:s budgeterbjudande till C",
+        "summary": "Förslagen: Kall öl på Systembolaget, sänkt bränsleskatt och utredning om euron",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here is the Moderates', Christian Democrats' and Liberals' budget offer to the Centre Party",
+        "summary": "The proposals: Cold beer at Systembolaget, lower fuel tax and an inquiry into the euro"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T16:45:52+01:00"
+      }
+    },
     {
       "id": "93795892b80d",
       "schema_version": 1,
@@ -5373,33 +5402,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T09:45:55+01:00"
-      }
-    },
-    {
-      "id": "6fdfb8e6d4bf",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/kristersson-tror-han-har-realistisk-chans",
-      "guid": "ea18e431-0925-4353-8e91-1f6beb692434",
-      "published_at": "2026-11-26T09:29:28+01:00",
-      "fetched_at": "2026-11-26T09:31:06+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/f572bf8b-81b2-4e3b-8702-28324bfcb9b6.jpg?width=600",
-      "sv": {
-        "title": "Kristersson tror han har ”realistisk chans”",
-        "summary": "Moderatledaren Ulf Kristersson säger att han inte är rädd för extra val, om det skulle behövas. – Men nu står jag inför en tredje votering på måndag, och jag hade inte ställt upp i den om jag inte trodde att det var en realistisk chans att kunna få en ny regering, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kristersson believes he has a “realistic chance”",
-        "summary": "Moderate leader Ulf Kristersson (M) says he is not afraid of a snap election, should one be needed. – But now I am facing a third vote on Monday, and I would not have stood for it if I did not believe it was a realistic chance of getting a new government, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T09:31:12+01:00"
       }
     }
   ]

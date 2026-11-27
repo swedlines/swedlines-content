@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:31:23+01:00",
+  "generated_at": "2026-11-27T16:45:56+01:00",
   "count": 30,
   "stories": [
     {
@@ -1566,6 +1566,81 @@
       ]
     },
     {
+      "id": "accedf09d2d7",
+      "source_count": 3,
+      "sources": [
+        "svt",
+        "di",
+        "tv4"
+      ],
+      "first_published_at": "2026-11-27T16:17:14+01:00",
+      "last_published_at": "2026-11-27T16:39:23+01:00",
+      "lead": {
+        "id": "accedf09d2d7",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/inrikes/m-l-och-kd-presenterar-gemensam-budget",
+        "guid": "https://www.svt.se/nyheter/inrikes/m-l-och-kd-presenterar-gemensam-budget",
+        "published_at": "2026-11-27T16:17:14+01:00",
+        "fetched_at": "2026-11-27T16:31:00+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "M, L och KD presenterar gemensam budget",
+          "summary": "Moderaterna, Liberalerna och Kristdemokraterna har presenterat en gemensamt budgetmotion på Expressen Debatt.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "M, L and KD present joint budget",
+          "summary": "The Moderates, the Liberals and the Christian Democrats have presented a joint budget motion in Expressen Debatt."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T16:31:14+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "dd81a7798000",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/4szofRo4OWdfebZTyU2i4s/haer-aer-moderaternas-budgeterbjudande-till-c",
+          "published_at": "2026-11-27T16:39:23+01:00",
+          "sv": {
+            "title": "Här är M, KD och L:s budgeterbjudande till C"
+          },
+          "en": {
+            "title": "Here is the Moderates', Christian Democrats' and Liberals' budget offer to the Centre Party"
+          }
+        },
+        {
+          "id": "671481982268",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/miljardstod-till-forskning-i-borgerlig-budgetmotion",
+          "published_at": "2026-11-27T16:17:48+01:00",
+          "sv": {
+            "title": "Miljardstöd till forskning i borgerlig budgetmotion"
+          },
+          "en": {
+            "title": "Billion-kronor research boost in bourgeois budget motion"
+          }
+        },
+        {
+          "id": "accedf09d2d7",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/inrikes/m-l-och-kd-presenterar-gemensam-budget",
+          "published_at": "2026-11-27T16:17:14+01:00",
+          "sv": {
+            "title": "M, L och KD presenterar gemensam budget"
+          },
+          "en": {
+            "title": "M, L and KD present joint budget"
+          }
+        }
+      ]
+    },
+    {
       "id": "b76f3e547333",
       "source_count": 3,
       "sources": [
@@ -2455,68 +2530,6 @@
           },
           "en": {
             "title": "AI and Mars inspire this year's gingerbread houses"
-          }
-        }
-      ]
-    },
-    {
-      "id": "accedf09d2d7",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "di"
-      ],
-      "first_published_at": "2026-11-27T16:17:14+01:00",
-      "last_published_at": "2026-11-27T16:17:48+01:00",
-      "lead": {
-        "id": "accedf09d2d7",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/nyheter/inrikes/m-l-och-kd-presenterar-gemensam-budget",
-        "guid": "https://www.svt.se/nyheter/inrikes/m-l-och-kd-presenterar-gemensam-budget",
-        "published_at": "2026-11-27T16:17:14+01:00",
-        "fetched_at": "2026-11-27T16:31:00+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "M, L och KD presenterar gemensam budget",
-          "summary": "Moderaterna, Liberalerna och Kristdemokraterna har presenterat en gemensamt budgetmotion på Expressen Debatt.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "M, L and KD present joint budget",
-          "summary": "The Moderates, the Liberals and the Christian Democrats have presented a joint budget motion in Expressen Debatt."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T16:31:14+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "671481982268",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/miljardstod-till-forskning-i-borgerlig-budgetmotion",
-          "published_at": "2026-11-27T16:17:48+01:00",
-          "sv": {
-            "title": "Miljardstöd till forskning i borgerlig budgetmotion"
-          },
-          "en": {
-            "title": "Billion-kronor research boost in bourgeois budget motion"
-          }
-        },
-        {
-          "id": "accedf09d2d7",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/inrikes/m-l-och-kd-presenterar-gemensam-budget",
-          "published_at": "2026-11-27T16:17:14+01:00",
-          "sv": {
-            "title": "M, L och KD presenterar gemensam budget"
-          },
-          "en": {
-            "title": "M, L and KD present joint budget"
           }
         }
       ]

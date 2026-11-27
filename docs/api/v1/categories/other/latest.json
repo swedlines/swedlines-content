@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T16:31:23+01:00",
+  "generated_at": "2026-11-27T16:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6a852759a88b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/det-har-ar-ju-varre-an-i-liberalerna",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/det-har-ar-ju-varre-an-i-liberalerna/",
+      "published_at": "2026-11-27T16:32:45+01:00",
+      "fetched_at": "2026-11-27T16:45:46+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Det här är ju värre än i Liberalerna",
+        "summary": "Att medge ett fel är sorgligt ovanligt, både i politiken och i journalistiken. Därför tänkte jag föregå med gott exempel här: Jag hade fel om Centerpartiet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is even worse than with the Liberals",
+        "summary": "Admitting a mistake is remarkably rare, both in politics and in journalism. So I will lead by example here: I was wrong about the Centre Party."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T16:45:52+01:00"
+      }
+    },
     {
       "id": "bfa2b7fc981d",
       "schema_version": 1,
@@ -5482,41 +5508,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:31:11+01:00"
-      }
-    },
-    {
-      "id": "4af904acf0f9",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/debatt/bevara-sveriges-gedigna-men-eftersatta-hus-med-statliga-renoveringslan.6ad3a287-93b2-5e40-9274-68dbd8a90353",
-      "guid": "6ad3a287-93b2-5e40-9274-68dbd8a90353",
-      "published_at": "2026-11-18T05:00:00+01:00",
-      "fetched_at": "2026-11-18T05:15:39+01:00",
-      "category": "other",
-      "feed_categories": [
-        "Debatt",
-        "Tagg: Kulturhistoria",
-        "Tagg: Bostadsmarknaden",
-        "Tagg: Moms",
-        "Tagg: Hus",
-        "Tagg: Renovering"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/af64478a-89a8-3a75-9f28-afa6ca4bf53c",
-      "sv": {
-        "title": "Rusta upp Sveriges alla eftersatta villor med statliga renoveringslån",
-        "summary": "Precis som staten genom studielånen investerar i människors utbildning bör vi förmånliga lån för att rädda både kulturarvet och klimatet, skriver Torbjörn Lindstedt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Renovate Sweden's neglected villas with state renovation loans",
-        "summary": "Just as the state invests in people's education through student loans, we should offer favourable loans to save both the cultural heritage and the climate, writes Torbjörn Lindstedt."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:15:43+01:00"
       }
     }
   ]
