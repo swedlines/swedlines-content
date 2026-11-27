@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T08:22:49+01:00",
+  "generated_at": "2026-11-27T08:31:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "12a3718de474",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351273",
+      "guid": "rss:sr.se/article/9351273",
+      "published_at": "2026-11-27T08:21:00+01:00",
+      "fetched_at": "2026-11-27T08:31:02+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "”Inte oväntat att det var ett kontroversiellt beslut”",
+        "summary": "Enligt Tommy Möller, professor i statsvetenskap vid Stockholms universitet, är Centerpartiet i en svår situation och de kommande dagarna kan visa om partiet kommer hålla ihop.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "\"Not surprising that it was a controversial decision\"",
+        "summary": "According to Tommy Möller, professor of political science at Stockholm University, the Centre Party is in a difficult situation, and the coming days may show whether the party can stay together."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T08:31:10+01:00"
+      }
+    },
     {
       "id": "49372d858447",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T07:15:50+01:00"
-      }
-    },
-    {
-      "id": "a7173fed71f3",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347329",
-      "guid": "rss:sr.se/article/9347329",
-      "published_at": "2026-11-22T04:00:00+01:00",
-      "fetched_at": "2026-11-22T04:01:16+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Sjukskrivningarna minskar – nu vill Saco träffa myndigheten",
-        "summary": "Efter att stressrelaterade sjukskrivningar minskat i Sverige under de senaste åren vill Saco få till ett möte med Försäkringskassan. Sacos ordförande Sofia Rydberg Stale menar att bara för att sjukskrivningarna minskar behöver det inte betyda att människor blivit friskare.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sick-leave figures fall – now Saco wants to meet the Social Insurance Agency",
-        "summary": "After stress-related sick leave has declined in Sweden in recent years, Saco wants to arrange a meeting with the Social Insurance Agency. Saco chair Sofia Rydberg Stale says that just because sick leave is falling does not necessarily mean people have become healthier."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T04:01:22+01:00"
       }
     }
   ]

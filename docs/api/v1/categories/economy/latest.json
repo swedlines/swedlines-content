@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-27T08:22:49+01:00",
+  "generated_at": "2026-11-27T08:31:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b20f3441315d",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/ekonomi/privatekonomi/elprischocken-dyraste-rakningen-pa-fyra-ar",
+      "guid": "https://www.expressen.se/ekonomi/privatekonomi/elprischocken-dyraste-rakningen-pa-fyra-ar/",
+      "published_at": "2026-11-27T08:24:02+01:00",
+      "fetched_at": "2026-11-27T08:31:04+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Elprischocken – dyraste räkningen på fyra år",
+        "summary": "En elprischock slår nu till med full kraft mot södra Sverige. Elräkningen för november kommer att rusa upp till 6 300 kronor för en eluppvärmd genomsnittsvilla i elområde SE4 – den högsta nivån sedan rekordet i december 2022.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Electricity price shock – most expensive bill in four years",
+        "summary": "An electricity price shock now hits southern Sweden with full force. The electricity bill for November will soar to SEK 6,300 for an electrically heated average villa in bidding zone SE4 – the highest level since the record in December 2022."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T08:31:10+01:00"
+      }
+    },
+    {
+      "id": "6c76594ce7ce",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/bra-fart-i-svensk-ekonomi-bnp-stiger-brant",
+      "guid": "5ebf2447-1417-439d-909d-0138d96cca3f",
+      "published_at": "2026-11-27T08:23:29+01:00",
+      "fetched_at": "2026-11-27T08:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d5bdff9a-fe36-4904-ba27-822ec440f6b1.jpeg?width=600",
+      "sv": {
+        "title": "Bra fart i svensk ekonomi – BNP stiger brant",
+        "summary": "Sveriges BNP steg 0,5 procent under det tredje kvartalet jämfört med föregående kvartal. Jämfört med motsvarande kvartal föregående år steg BNP 2,8 procent. Det visar SCB:s nationalräkenskaper.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Strong momentum in Swedish economy – GDP rises sharply",
+        "summary": "Sweden's GDP rose 0.5 percent in the third quarter compared with the previous quarter. Compared with the same quarter a year earlier, GDP rose 2.8 percent. This is shown by Statistics Sweden's national accounts."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T08:31:10+01:00"
+      }
+    },
     {
       "id": "84a538930ea3",
       "schema_version": 1,
@@ -5262,59 +5315,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T09:45:55+01:00"
-      }
-    },
-    {
-      "id": "767aefdf7a0f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/forvaltaren-forandringar-kravs-efter-kalabaliken-i-nvidia",
-      "guid": "b1b2797d-7d3a-57e3-8c31-00528f8a18f0",
-      "published_at": "2026-11-26T09:26:19+01:00",
-      "fetched_at": "2026-11-26T09:45:47+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Förvaltaren: Förändringar krävs efter kalabaliken i Nvidia",
-        "summary": "Henrietta Theorell, förvaltare Swedbank Robur, om turbulensen i Nvidias styrelse",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fund manager: Changes needed after the turmoil at Nvidia",
-        "summary": "Henrietta Theorell, fund manager at Swedbank Robur, on the turbulence in Nvidia's board"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T09:45:55+01:00"
-      }
-    },
-    {
-      "id": "c2fef6b3d320",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/konkurshotat-flygbolag-staller-in-alla-flyg",
-      "guid": "7d9394a2-ec46-448f-8c74-c790b2f2a0d9",
-      "published_at": "2026-11-26T09:19:51+01:00",
-      "fetched_at": "2026-11-26T09:31:05+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/2c7c3c09-1a71-4ee0-9523-02dc2c51958b.jpg?width=600",
-      "sv": {
-        "title": "Konkurshotat flygbolag ställer in alla flyg",
-        "summary": "Det krisande norska flygbolaget Norse ställer in samtliga flyg under torsdagen, enligt ett pressmeddelande. Bolaget flyger bland annat sträckan Stockholm–Bangkok.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bankrupt-threatened airline cancels all flights",
-        "summary": "The struggling Norwegian airline Norse cancels all flights on Thursday, according to a press release. The company flies, among other routes, Stockholm–Bangkok."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T09:31:12+01:00"
       }
     }
   ]
