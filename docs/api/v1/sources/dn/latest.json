@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T23:45:55+01:00",
+  "generated_at": "2026-11-28T00:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8ff6347424f4",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/namn-och-nytt-grafall-och-varflora",
+      "guid": "https://www.dn.se/kultur/namn-och-nytt-grafall-och-varflora/",
+      "published_at": "2026-11-28T00:00:00+01:00",
+      "fetched_at": "2026-11-28T00:01:14+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/9996239e-9006-492f-a705-3b3945d5dc90.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Namn och Nytt: Gråfäll och ”Vårflora”",
+        "summary": "Här är dagens Namn och Nytt. En klassisk avdelning i DN – varje dag sedan 1909. Nuförtiden med kåserier, serier och läsarnas bidrag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Namn och Nytt: Gråfäll and \"Vårflora\"",
+        "summary": "Here is today's Namn och Nytt. A classic department at DN – every day since 1909. Nowadays with columns, comics and readers' contributions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T00:01:20+01:00"
+      }
+    },
     {
       "id": "c3f2a3809242",
       "schema_version": 1,
@@ -5369,33 +5396,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T06:31:04+01:00"
-      }
-    },
-    {
-      "id": "fb1eb70b9324",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/leo-gerden-om-centern-byter-sida-ar-det-ett-historiskt-svek",
-      "guid": "https://www.dn.se/kultur/leo-gerden-om-centern-byter-sida-ar-det-ett-historiskt-svek/",
-      "published_at": "2026-11-25T05:59:14+01:00",
-      "fetched_at": "2026-11-25T06:01:09+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/4dc5d70b-5406-4d76-b599-7390e58a6ffa.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Leo Gerdén: Om Centern byter sida är det ett historiskt svek",
-        "summary": "När jag protesterade vid Harvard förra året var det min morfars erfarenheter som vägledde mig. Därför kan jag inte med gott samvete försvara det som nu händer med mitt parti. Det skriver Leo Gerdén, som engagerade sig mot Donald Trumps attacker mot universiteten våren 2025.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Leo Gerdén: If the Centre Party switches sides, it is a historic betrayal",
-        "summary": "When I protested at Harvard last year, it was my grandfather's experiences that guided me. That is why I cannot in good conscience defend what is now happening to my party. Writes Leo Gerdén, who got involved against Donald Trump's attacks on universities in spring 2025."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T06:01:19+01:00"
       }
     }
   ]

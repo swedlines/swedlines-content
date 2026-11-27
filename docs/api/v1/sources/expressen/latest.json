@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-27T23:45:55+01:00",
+  "generated_at": "2026-11-28T00:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ac45ef52c411",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/kallor-tysk-polis-utreder--terrorplaner-i-malmo",
+      "guid": "https://www.expressen.se/nyheter/sverige/kallor-tysk-polis-utreder--terrorplaner-i-malmo/",
+      "published_at": "2026-11-27T23:55:55+01:00",
+      "fetched_at": "2026-11-28T00:01:15+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Källor: Tysk polis utreder terrorplaner i Malmö",
+        "summary": "Två personer har gripits i Tyskland misstänkta för terrorplaner mot synagogor. Enligt uppgifter till Der Spiegel ska ett av målen ha varit en synagoga i Malmö.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sources: German police investigate terror plans in Malmö",
+        "summary": "Two people have been arrested in Germany suspected of terror plans against synagogues. According to information given to Der Spiegel, one of the targets is said to have been a synagogue in Malmö."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T00:01:20+01:00"
+      }
+    },
+    {
+      "id": "05439ad5319b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/putin-visar-upp-nya-atomubaten",
+      "guid": "https://www.expressen.se/nyheter/varlden/putin-visar-upp-nya-atomubaten/",
+      "published_at": "2026-11-27T23:52:14+01:00",
+      "fetched_at": "2026-11-28T00:01:15+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Putin visar upp nya atomubåten",
+        "summary": "Vladimir Putins atomvapenarsenal växer. Nu visar han upp landets senaste tillskott – en ny atomubåt. – Den har förmåga att framgångsrikt genomföra uppdrag i alla delar av världshaven, säger Putin.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin shows off new nuclear submarine",
+        "summary": "Vladimir Putin's nuclear arsenal is growing. Now he is showing off the country's latest addition – a new nuclear submarine. \"It has the capability to successfully carry out missions in all parts of the world's oceans,\" says Putin."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T00:01:20+01:00"
+      }
+    },
     {
       "id": "81c89954eabc",
       "schema_version": 1,
@@ -5144,58 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T23:31:05+01:00"
-      }
-    },
-    {
-      "id": "288674b7ef19",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/natoangesten-om-ukraina-kanske-hade-kriget-forhindrats",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/natoangesten-om-ukraina-kanske-hade-kriget-forhindrats",
-      "published_at": "2026-11-24T23:09:03+01:00",
-      "fetched_at": "2026-11-24T23:15:45+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Natomissen om Ukraina",
-        "summary": "Pekar ut 18 år gammalt beslut: ”Hade kunnat förhindra kriget”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "NATO member on Ukraine",
-        "summary": "Points to 18-year-old decision: \"Could have prevented the war\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T23:15:50+01:00"
-      }
-    },
-    {
-      "id": "79b962f03459",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/radet-till-mette-marit-prata-inte-om-epstein",
-      "guid": "https://www.expressen.se/nyheter/varlden/radet-till-mette-marit-prata-inte-om-epstein/",
-      "published_at": "2026-11-24T23:07:26+01:00",
-      "fetched_at": "2026-11-24T23:15:45+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Rådet till Mette-Marit: Prata inte om Epstein",
-        "summary": "Norges drottning Mette-Marit kommer inte att ställa upp på ett samtal med den norska Epstein-kommissionen. Hovet har avböjt förfrågan efter en rekommendation från statsministerns kansli, rapporterar NRK.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Advice to Mette-Marit: Don't talk about Epstein",
-        "summary": "Norway's Queen Mette-Marit will not take part in a conversation with the Norwegian Epstein commission. The court has declined the request following a recommendation from the prime minister's office, NRK reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T23:15:50+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T23:45:55+01:00",
+  "generated_at": "2026-11-28T00:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "05439ad5319b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/putin-visar-upp-nya-atomubaten",
+      "guid": "https://www.expressen.se/nyheter/varlden/putin-visar-upp-nya-atomubaten/",
+      "published_at": "2026-11-27T23:52:14+01:00",
+      "fetched_at": "2026-11-28T00:01:15+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Putin visar upp nya atomubåten",
+        "summary": "Vladimir Putins atomvapenarsenal växer. Nu visar han upp landets senaste tillskott – en ny atomubåt. – Den har förmåga att framgångsrikt genomföra uppdrag i alla delar av världshaven, säger Putin.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin shows off new nuclear submarine",
+        "summary": "Vladimir Putin's nuclear arsenal is growing. Now he is showing off the country's latest addition – a new nuclear submarine. \"It has the capability to successfully carry out missions in all parts of the world's oceans,\" says Putin."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T00:01:20+01:00"
+      }
+    },
     {
       "id": "81c89954eabc",
       "schema_version": 1,
@@ -5313,33 +5339,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T20:31:22+01:00"
-      }
-    },
-    {
-      "id": "344ed46778a4",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/R1RM6W/trump-skapar-aterigen-osakerhet-i-israel",
-      "guid": "https://www.svd.se/a/R1RM6W/trump-skapar-aterigen-osakerhet-i-israel?utm_medium=rss",
-      "published_at": "2026-11-25T20:04:55+01:00",
-      "fetched_at": "2026-11-25T20:15:49+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/c9b172f1-c546-34a6-bf59-f834b4f2692b?format=auto&s=f4800bc638fe88c9d39a1729271ee02552758e5c&w=1000",
-      "sv": {
-        "title": "Israel varnas – byt väg eller bli paria",
-        "summary": "Trump skapar återigen osäkerhet i Israel. Nu varnar hans svärson Jared Kushner, som en gång fick…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Israel warned – change course or become a pariah",
-        "summary": "Trump is once again creating uncertainty in Israel. Now his son-in-law Jared Kushner, who once…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T20:15:55+01:00"
       }
     }
   ]

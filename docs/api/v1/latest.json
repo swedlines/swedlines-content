@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-27T23:45:55+01:00",
+  "generated_at": "2026-11-28T00:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8ff6347424f4",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/namn-och-nytt-grafall-och-varflora",
+      "guid": "https://www.dn.se/kultur/namn-och-nytt-grafall-och-varflora/",
+      "published_at": "2026-11-28T00:00:00+01:00",
+      "fetched_at": "2026-11-28T00:01:14+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/9996239e-9006-492f-a705-3b3945d5dc90.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Namn och Nytt: Gråfäll och ”Vårflora”",
+        "summary": "Här är dagens Namn och Nytt. En klassisk avdelning i DN – varje dag sedan 1909. Nuförtiden med kåserier, serier och läsarnas bidrag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Namn och Nytt: Gråfäll and \"Vårflora\"",
+        "summary": "Here is today's Namn och Nytt. A classic department at DN – every day since 1909. Nowadays with columns, comics and readers' contributions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T00:01:20+01:00"
+      }
+    },
+    {
+      "id": "ac45ef52c411",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/kallor-tysk-polis-utreder--terrorplaner-i-malmo",
+      "guid": "https://www.expressen.se/nyheter/sverige/kallor-tysk-polis-utreder--terrorplaner-i-malmo/",
+      "published_at": "2026-11-27T23:55:55+01:00",
+      "fetched_at": "2026-11-28T00:01:15+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Källor: Tysk polis utreder terrorplaner i Malmö",
+        "summary": "Två personer har gripits i Tyskland misstänkta för terrorplaner mot synagogor. Enligt uppgifter till Der Spiegel ska ett av målen ha varit en synagoga i Malmö.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sources: German police investigate terror plans in Malmö",
+        "summary": "Two people have been arrested in Germany suspected of terror plans against synagogues. According to information given to Der Spiegel, one of the targets is said to have been a synagogue in Malmö."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T00:01:20+01:00"
+      }
+    },
+    {
+      "id": "05439ad5319b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/putin-visar-upp-nya-atomubaten",
+      "guid": "https://www.expressen.se/nyheter/varlden/putin-visar-upp-nya-atomubaten/",
+      "published_at": "2026-11-27T23:52:14+01:00",
+      "fetched_at": "2026-11-28T00:01:15+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Putin visar upp nya atomubåten",
+        "summary": "Vladimir Putins atomvapenarsenal växer. Nu visar han upp landets senaste tillskott – en ny atomubåt. – Den har förmåga att framgångsrikt genomföra uppdrag i alla delar av världshaven, säger Putin.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin shows off new nuclear submarine",
+        "summary": "Vladimir Putin's nuclear arsenal is growing. Now he is showing off the country's latest addition – a new nuclear submarine. \"It has the capability to successfully carry out missions in all parts of the world's oceans,\" says Putin."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T00:01:20+01:00"
+      }
+    },
     {
       "id": "81c89954eabc",
       "schema_version": 1,
@@ -5399,87 +5478,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T15:07:24+01:00"
-      }
-    },
-    {
-      "id": "a96e36f7887f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/vadret/vi-ar-pa-fel-sida-molnen",
-      "guid": "639524f6-82e6-4c05-b1a9-613914783fe8",
-      "published_at": "2026-11-27T15:00:00+01:00",
-      "fetched_at": "2026-11-27T15:01:22+01:00",
-      "category": "weather",
-      "image_url": "https://static.bonniernews.se/ba/6e2aaa11-540b-4ce5-92a7-fb259d58edb0.jpeg?width=600",
-      "sv": {
-        "title": "Så blir helgvädret: Grått, kallt och förrädiskt halt – sedan kommer regnet",
-        "summary": "Skåne går in i adventshelgen under ett grått och kallt lock, med minusgrader på morgnarna. På söndagen blir det mildare. Sen kommer regnet. Anders slaskar – ska då julen braska?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This weekend's weather: Grey, cold and treacherously slippery – then the rain comes",
-        "summary": "Skåne enters the Advent weekend under a grey, cold lid, with sub-zero temperatures in the mornings. On Sunday it becomes milder. Then the rain comes. Anders slaskar – will Christmas then be stormy?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T15:01:36+01:00"
-      }
-    },
-    {
-      "id": "d995f4ea422e",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/boklistan-vecka-48-hackare-7-aringar-solstad-och-god-sikt",
-      "guid": "https://www.dn.se/kultur/boklistan-vecka-48-hackare-7-aringar-solstad-och-god-sikt/",
-      "published_at": "2026-11-27T15:00:00+01:00",
-      "fetched_at": "2026-11-27T15:01:18+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/302c4678-c4f0-4b08-bce0-c07ebd53a2a1.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Boklistan vecka 48: hackare, 7-åringar, Solstad och god Sikt",
-        "summary": "Veckans kritikerlista presenterar Dag Solstads sista bok. Dessutom: hackare, 7-åringar och god Sikt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Book list week 48: hackers, 7-year-olds, Solstad and god Sikt",
-        "summary": "This week's critics' list features Dag Solstad's last book. Also: hackers, 7-year-olds and god Sikt."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T15:01:36+01:00"
-      }
-    },
-    {
-      "id": "1159ef79adc2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/m-kd-l-och-c-overens-om-ny-klimatpolitik",
-      "guid": "9e82d799-b2af-4af6-86f0-93b309a780e1",
-      "published_at": "2026-11-27T14:59:43+01:00",
-      "fetched_at": "2026-11-27T15:01:22+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/aab9835b-4466-46ba-bfab-c4087ff5a4d5.jpg?width=600",
-      "sv": {
-        "title": "M, KD, L och C överens om ny klimatpolitik",
-        "summary": "Partiledarna för Moderaterna, Kristdemokraterna, Liberalerna och Centerpartiet är överens om hur Sveriges klimatpolitik ska bli mer ambitiös. Det framgår i den inriktningsöverenskommelse som de har ingått, erfar TT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "M, KD, L and C agree on new climate policy",
-        "summary": "The party leaders of the Moderates (M), Christian Democrats (KD), Liberals (L) and Centre Party (C) agree on how Sweden's climate policy should become more ambitious. This is stated in the framework agreement they have entered into, TT has learned."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T15:01:36+01:00"
       }
     }
   ]
