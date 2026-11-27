@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:31:24+01:00",
+  "generated_at": "2026-11-27T17:45:57+01:00",
   "count": 30,
   "stories": [
     {
@@ -338,6 +338,121 @@
           },
           "en": {
             "title": "Officer at the Armed Forces suspected of crimes against Sweden's security"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aa854b9847ee",
+      "source_count": 6,
+      "sources": [
+        "dn",
+        "di",
+        "aftonbladet",
+        "svd",
+        "sydsvenskan",
+        "svt"
+      ],
+      "first_published_at": "2026-11-27T12:43:02+01:00",
+      "last_published_at": "2026-11-27T17:39:03+01:00",
+      "lead": {
+        "id": "aa854b9847ee",
+        "schema_version": 1,
+        "source": "dn",
+        "url": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder",
+        "guid": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder/",
+        "published_at": "2026-11-27T12:43:02+01:00",
+        "fetched_at": "2026-11-27T12:45:44+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/7879269f-7063-47d7-a997-4fcf27f0f1f3.jpeg?io=1&width=1000",
+        "sv": {
+          "title": "Svenska storaffären: stridsfordon för 60 miljarder",
+          "summary": "Försvarsföretaget BAE Hägglunds har landat sin största beställning genom tiderna. Stridsfordon till fem Natoländer – för över 60 miljarder. En rekordaffär som slår de franska fregatterna med hästlängder.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Swedish mega-deal: combat vehicles worth SEK 60 billion",
+          "summary": "Defence company BAE Hägglunds has landed its largest order ever. Combat vehicles for five NATO countries – worth over SEK 60 billion. A record deal that beats the French frigates by a mile."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T12:45:49+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "ae1538cc5442",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/sa-paverkar-baes-jatteaffar-ornskoldsvik",
+          "published_at": "2026-11-27T17:39:03+01:00",
+          "sv": {
+            "title": "Så påverkar BAE:s jätteaffär Örnsköldsvik"
+          },
+          "en": {
+            "title": "How BAE's huge deal affects Örnsköldsvik"
+          }
+        },
+        {
+          "id": "9e717495702a",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/jatteordern-pa-svenska-stridsfordon-i-hamn",
+          "published_at": "2026-11-27T13:44:59+01:00",
+          "sv": {
+            "title": "Jätteordern på svenska stridsfordon i hamn"
+          },
+          "en": {
+            "title": "Huge order for Swedish combat vehicles in port"
+          }
+        },
+        {
+          "id": "8ee3c1e3286b",
+          "source": "svd",
+          "url": "https://www.svd.se/a/dJOgAz/jatteordern-pa-svenska-stridsfordon-i-hamn",
+          "published_at": "2026-11-27T13:41:29+01:00",
+          "sv": {
+            "title": "Jätteordern på svenska stridsfordon i hamn"
+          },
+          "en": {
+            "title": "Huge order for Swedish combat vehicles in port"
+          }
+        },
+        {
+          "id": "284447b60574",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/kMJqoX/jatteordern-pa-svenska-stridsfordon-i-hamn",
+          "published_at": "2026-11-27T13:41:29+01:00",
+          "sv": {
+            "title": "Jätteordern på svenska stridsfordon i hamn"
+          },
+          "en": {
+            "title": "Huge order for Swedish combat vehicles in port"
+          }
+        },
+        {
+          "id": "e2fe945298dd",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/historisk-forsvarsaffar-i-hamn-vard-60-miljarder",
+          "published_at": "2026-11-27T13:16:13+01:00",
+          "sv": {
+            "title": "Historisk försvarsaffär i hamn – värd 60 miljarder"
+          },
+          "en": {
+            "title": "Historic defence deal in the bag – worth 60 billion"
+          }
+        },
+        {
+          "id": "aa854b9847ee",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder",
+          "published_at": "2026-11-27T12:43:02+01:00",
+          "sv": {
+            "title": "Svenska storaffären: stridsfordon för 60 miljarder"
+          },
+          "en": {
+            "title": "Swedish mega-deal: combat vehicles worth SEK 60 billion"
           }
         }
       ]
@@ -894,108 +1009,6 @@
       ]
     },
     {
-      "id": "aa854b9847ee",
-      "source_count": 5,
-      "sources": [
-        "dn",
-        "di",
-        "aftonbladet",
-        "svd",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-27T12:43:02+01:00",
-      "last_published_at": "2026-11-27T13:44:59+01:00",
-      "lead": {
-        "id": "aa854b9847ee",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder",
-        "guid": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder/",
-        "published_at": "2026-11-27T12:43:02+01:00",
-        "fetched_at": "2026-11-27T12:45:44+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/7879269f-7063-47d7-a997-4fcf27f0f1f3.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Svenska storaffären: stridsfordon för 60 miljarder",
-          "summary": "Försvarsföretaget BAE Hägglunds har landat sin största beställning genom tiderna. Stridsfordon till fem Natoländer – för över 60 miljarder. En rekordaffär som slår de franska fregatterna med hästlängder.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Swedish mega-deal: combat vehicles worth SEK 60 billion",
-          "summary": "Defence company BAE Hägglunds has landed its largest order ever. Combat vehicles for five NATO countries – worth over SEK 60 billion. A record deal that beats the French frigates by a mile."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T12:45:49+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "9e717495702a",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/jatteordern-pa-svenska-stridsfordon-i-hamn",
-          "published_at": "2026-11-27T13:44:59+01:00",
-          "sv": {
-            "title": "Jätteordern på svenska stridsfordon i hamn"
-          },
-          "en": {
-            "title": "Huge order for Swedish combat vehicles in port"
-          }
-        },
-        {
-          "id": "8ee3c1e3286b",
-          "source": "svd",
-          "url": "https://www.svd.se/a/dJOgAz/jatteordern-pa-svenska-stridsfordon-i-hamn",
-          "published_at": "2026-11-27T13:41:29+01:00",
-          "sv": {
-            "title": "Jätteordern på svenska stridsfordon i hamn"
-          },
-          "en": {
-            "title": "Huge order for Swedish combat vehicles in port"
-          }
-        },
-        {
-          "id": "284447b60574",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/kMJqoX/jatteordern-pa-svenska-stridsfordon-i-hamn",
-          "published_at": "2026-11-27T13:41:29+01:00",
-          "sv": {
-            "title": "Jätteordern på svenska stridsfordon i hamn"
-          },
-          "en": {
-            "title": "Huge order for Swedish combat vehicles in port"
-          }
-        },
-        {
-          "id": "e2fe945298dd",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/historisk-forsvarsaffar-i-hamn-vard-60-miljarder",
-          "published_at": "2026-11-27T13:16:13+01:00",
-          "sv": {
-            "title": "Historisk försvarsaffär i hamn – värd 60 miljarder"
-          },
-          "en": {
-            "title": "Historic defence deal in the bag – worth 60 billion"
-          }
-        },
-        {
-          "id": "aa854b9847ee",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/svenska-storaffaren-stridsfordon-for-60-miljarder",
-          "published_at": "2026-11-27T12:43:02+01:00",
-          "sv": {
-            "title": "Svenska storaffären: stridsfordon för 60 miljarder"
-          },
-          "en": {
-            "title": "Swedish mega-deal: combat vehicles worth SEK 60 billion"
-          }
-        }
-      ]
-    },
-    {
       "id": "15f9d06075b5",
       "source_count": 5,
       "sources": [
@@ -1219,6 +1232,94 @@
           },
           "en": {
             "title": "Measles outbreak on Thailand flight: “Not fun to get sick by Christmas”"
+          }
+        }
+      ]
+    },
+    {
+      "id": "002d9ec18fd1",
+      "source_count": 4,
+      "sources": [
+        "expressen",
+        "dn",
+        "sr",
+        "di"
+      ],
+      "first_published_at": "2026-11-27T15:40:26+01:00",
+      "last_published_at": "2026-11-27T17:35:54+01:00",
+      "lead": {
+        "id": "002d9ec18fd1",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c",
+        "guid": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c/",
+        "published_at": "2026-11-27T15:40:26+01:00",
+        "fetched_at": "2026-11-27T15:45:50+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Här är Kristerssons förslag: ”Samarbetsregering” med C",
+          "summary": "Centerpartiet står inför ett vägval. Nu presenterar M exakt vad deras sida kan erbjuda. På bordet finns bland annat utökad IVF, euroutredning och kyld dryck på Systembolaget.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Here is Kristersson's proposal: \"Cooperation government\" with C",
+          "summary": "The Centre Party faces a crossroads. Now the Moderates present exactly what their side can offer. On the table are, among other things, expanded IVF, a euro inquiry and chilled drinks at Systembolaget."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T15:45:57+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "e6eb319c0566",
+          "source": "di",
+          "url": "https://www.di.se/ledare/centern-har-har-ni-er-politik",
+          "published_at": "2026-11-27T17:35:54+01:00",
+          "sv": {
+            "title": "Centern, här har ni er politik"
+          },
+          "en": {
+            "title": "Centre, here is your politics"
+          }
+        },
+        {
+          "id": "78001694720b",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9351950",
+          "published_at": "2026-11-27T16:59:00+01:00",
+          "sv": {
+            "title": "Erbjudandet till C: Kall öl och euroutredning – inte ett ord om SD"
+          },
+          "en": {
+            "title": "Offer to the Centre Party: Cold beer and euro inquiry – not a word about the Sweden Democrats"
+          }
+        },
+        {
+          "id": "f027d3ffab37",
+          "source": "dn",
+          "url": "https://www.dn.se/sverige/har-ar-kristerssons-erbjudande-till-centern",
+          "published_at": "2026-11-27T16:05:26+01:00",
+          "sv": {
+            "title": "Här är Kristerssons erbjudande till Centern"
+          },
+          "en": {
+            "title": "Here is Kristersson's offer to the Centre Party"
+          }
+        },
+        {
+          "id": "002d9ec18fd1",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c",
+          "published_at": "2026-11-27T15:40:26+01:00",
+          "sv": {
+            "title": "Här är Kristerssons förslag: ”Samarbetsregering” med C"
+          },
+          "en": {
+            "title": "Here is Kristersson's proposal: \"Cooperation government\" with C"
           }
         }
       ]
@@ -1484,81 +1585,6 @@
           },
           "en": {
             "title": "M, KD, L and C agree on new climate policy"
-          }
-        }
-      ]
-    },
-    {
-      "id": "002d9ec18fd1",
-      "source_count": 3,
-      "sources": [
-        "expressen",
-        "dn",
-        "sr"
-      ],
-      "first_published_at": "2026-11-27T15:40:26+01:00",
-      "last_published_at": "2026-11-27T16:59:00+01:00",
-      "lead": {
-        "id": "002d9ec18fd1",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c",
-        "guid": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c/",
-        "published_at": "2026-11-27T15:40:26+01:00",
-        "fetched_at": "2026-11-27T15:45:50+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Här är Kristerssons förslag: ”Samarbetsregering” med C",
-          "summary": "Centerpartiet står inför ett vägval. Nu presenterar M exakt vad deras sida kan erbjuda. På bordet finns bland annat utökad IVF, euroutredning och kyld dryck på Systembolaget.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Here is Kristersson's proposal: \"Cooperation government\" with C",
-          "summary": "The Centre Party faces a crossroads. Now the Moderates present exactly what their side can offer. On the table are, among other things, expanded IVF, a euro inquiry and chilled drinks at Systembolaget."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T15:45:57+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "78001694720b",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351950",
-          "published_at": "2026-11-27T16:59:00+01:00",
-          "sv": {
-            "title": "Erbjudandet till C: Kall öl och euroutredning – inte ett ord om SD"
-          },
-          "en": {
-            "title": "Offer to the Centre Party: Cold beer and euro inquiry – not a word about the Sweden Democrats"
-          }
-        },
-        {
-          "id": "f027d3ffab37",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/har-ar-kristerssons-erbjudande-till-centern",
-          "published_at": "2026-11-27T16:05:26+01:00",
-          "sv": {
-            "title": "Här är Kristerssons erbjudande till Centern"
-          },
-          "en": {
-            "title": "Here is Kristersson's offer to the Centre Party"
-          }
-        },
-        {
-          "id": "002d9ec18fd1",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/politik/har-ar-kristerssons-forslag-samarbetsregering-med-c",
-          "published_at": "2026-11-27T15:40:26+01:00",
-          "sv": {
-            "title": "Här är Kristerssons förslag: ”Samarbetsregering” med C"
-          },
-          "en": {
-            "title": "Here is Kristersson's proposal: \"Cooperation government\" with C"
           }
         }
       ]
@@ -2320,77 +2346,129 @@
       ]
     },
     {
-      "id": "d5c872d11a17",
-      "source_count": 3,
+      "id": "08a8b19addd0",
+      "source_count": 2,
       "sources": [
-        "aftonbladet",
         "svd",
-        "di"
+        "dn"
       ],
-      "first_published_at": "2026-11-27T01:33:59+01:00",
-      "last_published_at": "2026-11-27T05:31:48+01:00",
+      "first_published_at": "2026-11-27T14:20:30+01:00",
+      "last_published_at": "2026-11-27T17:42:20+01:00",
       "lead": {
-        "id": "d5c872d11a17",
+        "id": "08a8b19addd0",
         "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/8Pm3BA/trump-osaker-pa-putin-pa-g20",
-        "guid": "https://www.aftonbladet.se/nyheter/a/8Pm3BA/trump-osaker-pa-putin-pa-g20?utm_medium=rss",
-        "published_at": "2026-11-27T01:33:59+01:00",
-        "fetched_at": "2026-11-27T01:45:43+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/ded85da9-aba4-3f8a-a6cd-956e0c7a8b2a?format=auto&s=00b1b64251fce6fb173ad090fcb9baab4457cae4&w=1000",
+        "source": "svd",
+        "url": "https://www.svd.se/a/LoA2bR/christer-fuglesang-om-elon-musks-satellitplan",
+        "guid": "https://www.svd.se/a/LoA2bR/christer-fuglesang-om-elon-musks-satellitplan?utm_medium=rss",
+        "published_at": "2026-11-27T14:20:30+01:00",
+        "fetched_at": "2026-11-27T14:31:04+01:00",
+        "category": "science_tech",
+        "image_url": "https://akamai.vgc.no/v2/images/7c46d36e-1b51-3628-a4a8-980679f7c7da?format=auto&s=77ebe12f55aabcb7d4a2966936f48c00cd9c1be4&w=1000",
         "sv": {
-          "title": "Trump osäker på Putins deltagande på G20",
-          "summary": "USA:s president Donald Trump säger att han är osäker på om hans ryske motsvarighet Vladimir Putin…",
+          "title": "Fuglesang om Musks planer: ”Helt suveränt”",
+          "summary": "Elon Musk har fått tillstånd att bygga datacenter i rymden. Sveriges förste astronaut fascineras av…",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Trump unsure whether Putin will attend G20",
-          "summary": "US President Donald Trump says he is unsure whether his Russian counterpart Vladimir Putin will…"
+          "title": "Fuglesang on Musk's plans: \"Totally brilliant\"",
+          "summary": "Elon Musk has been granted permission to build data centres in space. Sweden's first astronaut is fascinated by…"
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T01:45:47+01:00"
+          "translated_at": "2026-11-27T14:31:25+01:00"
         }
       },
       "items": [
         {
-          "id": "1d4d31fd9058",
-          "source": "di",
-          "url": "https://www.di.se/live/putin-valkomnas-till-g20-av-trump",
-          "published_at": "2026-11-27T05:31:48+01:00",
+          "id": "0e6673c9de0d",
+          "source": "dn",
+          "url": "https://www.dn.se/ekonomi/simon-campanello-ar-det-har-elon-musks-storsta-bluff-hittills",
+          "published_at": "2026-11-27T17:42:20+01:00",
           "sv": {
-            "title": "Putin välkomnas till G20 av Trump"
+            "title": "Simon Campanello: Är det här Elon Musks största bluff hittills?"
           },
           "en": {
-            "title": "Putin welcomed to G20 by Trump"
+            "title": "Simon Campanello: Is this Elon Musk's biggest bluff so far?"
           }
         },
         {
-          "id": "f5902163eca2",
+          "id": "08a8b19addd0",
           "source": "svd",
-          "url": "https://www.svd.se/a/4Eq6ze/trump-osaker-pa-putin-pa-g20",
-          "published_at": "2026-11-27T01:33:59+01:00",
+          "url": "https://www.svd.se/a/LoA2bR/christer-fuglesang-om-elon-musks-satellitplan",
+          "published_at": "2026-11-27T14:20:30+01:00",
           "sv": {
-            "title": "Trump osäker på Putins deltagande på G20"
+            "title": "Fuglesang om Musks planer: ”Helt suveränt”"
           },
           "en": {
-            "title": "Trump unsure whether Putin will attend G20"
+            "title": "Fuglesang on Musk's plans: \"Totally brilliant\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "0dca6dd182eb",
+      "source_count": 2,
+      "sources": [
+        "tv4",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-27T17:29:25+01:00",
+      "last_published_at": "2026-11-27T17:40:48+01:00",
+      "lead": {
+        "id": "0dca6dd182eb",
+        "schema_version": 1,
+        "source": "tv4",
+        "url": "https://www.tv4.se/artikel/34L9iCnVVgNO7yoIK0No2s/uppgifter-doeende-patient-valdtagen-pa-vardhem",
+        "guid": "34L9iCnVVgNO7yoIK0No2s",
+        "published_at": "2026-11-27T17:29:25+01:00",
+        "fetched_at": "2026-11-27T17:31:05+01:00",
+        "category": "crime",
+        "feed_categories": [
+          "Brott och straff"
+        ],
+        "sv": {
+          "title": "Uppgifter: Döende patient våldtagen på vårdhem",
+          "summary": "Polisen larmades till vårdhemmet på Lidingö i tisdags och hade en stor insats på platsen. Enligt uppgifter till TV4 Nyheterna utreder polisen en våldtäkt mot en kvinnlig patient på boendet. Hon ska ha vårdats i livets slutskede. Misstankarna riktades mot en annan patient, en man i 80-årsåldern.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Reports: Dying patient raped at care home",
+          "summary": "Police were alerted to the care home on Lidingö on Tuesday and had a large operation on site. According to TV4 Nyheterna, police are investigating a rape of a female patient at the facility. She is said to have been receiving care at the end of life. Suspicion was directed at another patient, a man in his 80s."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T17:31:18+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "1711a6a3d62d",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/GPalnl/misstankt-for-valdtakt-pa-aldreboende-slappt",
+          "published_at": "2026-11-27T17:40:48+01:00",
+          "sv": {
+            "title": "Misstänkt för våldtäkt på äldreboende släppt"
+          },
+          "en": {
+            "title": "Suspect in care home rape released"
           }
         },
         {
-          "id": "d5c872d11a17",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/8Pm3BA/trump-osaker-pa-putin-pa-g20",
-          "published_at": "2026-11-27T01:33:59+01:00",
+          "id": "0dca6dd182eb",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/34L9iCnVVgNO7yoIK0No2s/uppgifter-doeende-patient-valdtagen-pa-vardhem",
+          "published_at": "2026-11-27T17:29:25+01:00",
           "sv": {
-            "title": "Trump osäker på Putins deltagande på G20"
+            "title": "Uppgifter: Döende patient våldtagen på vårdhem"
           },
           "en": {
-            "title": "Trump unsure whether Putin will attend G20"
+            "title": "Reports: Dying patient raped at care home"
           }
         }
       ]
@@ -2703,68 +2781,6 @@
           },
           "en": {
             "title": "Thousands of works burned – now Grafikens hus may get a new home"
-          }
-        }
-      ]
-    },
-    {
-      "id": "77b766a61022",
-      "source_count": 2,
-      "sources": [
-        "svt",
-        "gp"
-      ],
-      "first_published_at": "2026-11-27T13:44:59+01:00",
-      "last_published_at": "2026-11-27T14:56:38+01:00",
-      "lead": {
-        "id": "77b766a61022",
-        "schema_version": 1,
-        "source": "svt",
-        "url": "https://www.svt.se/sport/langdskidor/william-poromaa-vurpade-under-varldscuppremiaren-i-ruka",
-        "guid": "https://www.svt.se/sport/langdskidor/william-poromaa-vurpade-under-varldscuppremiaren-i-ruka",
-        "published_at": "2026-11-27T13:44:59+01:00",
-        "fetched_at": "2026-11-27T13:48:43+01:00",
-        "category": "sports",
-        "sv": {
-          "title": "William Poromaa vurpade under världscuppremiären i Ruka",
-          "summary": "Tungt för William Poromaa. Svensken vurpade under premiärloppet i Ruka.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "William Poromaa crashes during World Cup opener in Ruka",
-          "summary": "Tough for William Poromaa. The Swede crashed during the opening race in Ruka."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T13:48:51+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "96686630380e",
-          "source": "gp",
-          "url": "https://www.gp.se/sport/william-poromaa-vurpade-langt-efter-i-ruka.c10a52d2-f595-5834-94d8-6eb3749d65e9",
-          "published_at": "2026-11-27T14:56:38+01:00",
-          "sv": {
-            "title": "Tv-tittarna missade William Poromaas drama"
-          },
-          "en": {
-            "title": "TV viewers missed William Poromaa's drama"
-          }
-        },
-        {
-          "id": "77b766a61022",
-          "source": "svt",
-          "url": "https://www.svt.se/sport/langdskidor/william-poromaa-vurpade-under-varldscuppremiaren-i-ruka",
-          "published_at": "2026-11-27T13:44:59+01:00",
-          "sv": {
-            "title": "William Poromaa vurpade under världscuppremiären i Ruka"
-          },
-          "en": {
-            "title": "William Poromaa crashes during World Cup opener in Ruka"
           }
         }
       ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T17:31:24+01:00",
+  "generated_at": "2026-11-27T17:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "67bbd3c27871",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/kungligt/prinsessan-estelles-skola--efter-nmr-skandalen",
+      "guid": "https://www.expressen.se/nyheter/kungligt/prinsessan-estelles-skola--efter-nmr-skandalen/",
+      "published_at": "2026-11-27T17:41:26+01:00",
+      "fetched_at": "2026-11-27T17:45:43+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Prinsessan Estelles skola efter NMR-skandalen",
+        "summary": "När elever på prinsessan Estelles skola röstade på NMR så ringde nazisterna. Men det var inte de som var värst. – De var trevligare i sin ton än vad vänstersidan var, säger Martin Malmberg, skolchef på Campus Manilla.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Princess Estelle's school after the NMR scandal",
+        "summary": "When pupils at Princess Estelle's school voted for NMR, the Nazis called. But they were not the worst. \"They were friendlier in their tone than the left was,\" says Martin Malmberg, head of Campus Manilla."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:45:50+01:00"
+      }
+    },
     {
       "id": "2fe35b677854",
       "schema_version": 1,
@@ -5475,33 +5501,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T19:30:27+01:00"
-      }
-    },
-    {
-      "id": "3cb29c7c9acd",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/bostadsformedlingen-i-stockholm-utreds-kotiderna-kan-fordubblas",
-      "guid": "https://www.dn.se/sverige/bostadsformedlingen-i-stockholm-utreds-kotiderna-kan-fordubblas/",
-      "published_at": "2026-11-23T18:59:54+01:00",
-      "fetched_at": "2026-11-23T19:01:13+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/9d3d52aa-4db0-46e4-a317-0e2edf59e9d6.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Bostadsförmedlingen i Stockholm utreds: “Kötiderna kan fördubblas”",
-        "summary": "Efter ett tips har Konkurrensverket inlett en utredning av Stockholms bostadskö. Det får finansborgarrådet Emilia Bjuggren att gå i taket: – Lagen riskerar att slå sönder fungerande samhällsservice, säger Emilia Bjuggren, finansborgarråd (S).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stockholm's housing queue under investigation: “Queue times could double”",
-        "summary": "After a tip, the Competition Authority has launched an investigation into Stockholm's housing queue. This sends finance city commissioner Emilia Bjuggren into a rage: – The law risks breaking down functioning public services, says Emilia Bjuggren, finance city commissioner (S)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T19:01:29+01:00"
       }
     }
   ]

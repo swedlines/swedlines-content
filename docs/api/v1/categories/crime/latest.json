@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-27T17:31:24+01:00",
+  "generated_at": "2026-11-27T17:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1711a6a3d62d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/GPalnl/misstankt-for-valdtakt-pa-aldreboende-slappt",
+      "guid": "https://www.aftonbladet.se/nyheter/a/GPalnl/misstankt-for-valdtakt-pa-aldreboende-slappt?utm_medium=rss",
+      "published_at": "2026-11-27T17:40:48+01:00",
+      "fetched_at": "2026-11-27T17:45:42+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/4b5bcb7e-047c-3872-87f9-05f595957aeb?format=auto&s=659d11464c720e1e659c662380ac3f8f7fada645&w=1000",
+      "sv": {
+        "title": "Misstänkt för våldtäkt på äldreboende släppt",
+        "summary": "En man som suttit anhållen misstänkt för grov våldtäkt på ett äldreboende på Lidingö utanför…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspect in care home rape released",
+        "summary": "A man who had been detained on suspicion of aggravated rape at a care home in Lidingö outside…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T17:45:50+01:00"
+      }
+    },
     {
       "id": "0dca6dd182eb",
       "schema_version": 1,
@@ -5349,38 +5376,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T11:45:51+01:00"
-      }
-    },
-    {
-      "id": "05354ea44495",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/varlden/bombhot-mot-manga-skolor-i-danmark.ea4478c5-ab2d-5d30-af63-2353e18636e8",
-      "guid": "ea4478c5-ab2d-5d30-af63-2353e18636e8",
-      "published_at": "2026-11-23T10:45:21+01:00",
-      "fetched_at": "2026-11-23T11:15:46+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Världen",
-        "Tagg: Skola",
-        "Tagg: Danmark"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/10f12848-e2c7-39be-bdf8-501ebddc1e66",
-      "sv": {
-        "title": "Bombhot mot danska skolor – polisen skickar patruller",
-        "summary": "Hoten kom via mejl – nu rycker polisen ut",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bomb threats against Danish schools – police send patrols",
-        "summary": "The threats came by email – now police are rolling out"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T11:15:59+01:00"
       }
     }
   ]
