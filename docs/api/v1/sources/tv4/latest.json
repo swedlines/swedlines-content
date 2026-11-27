@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-27T15:16:00+01:00",
+  "generated_at": "2026-11-27T15:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3ff042bb55ea",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4yiY9dfuQAd8EYG1yewjpt/dadgostar-vaedjar-till-c-lat-oss-moetas",
+      "guid": "4yiY9dfuQAd8EYG1yewjpt",
+      "published_at": "2026-11-27T15:23:53+01:00",
+      "fetched_at": "2026-11-27T15:31:02+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Nooshi Dadgostar vädjar till C: ”Låt oss mötas i förhandlingsrummet”",
+        "summary": "Uttalar sig för första gången efter C:s högersväng",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nooshi Dadgostar appeals to the Centre Party (C): “Let us meet in the negotiating room”",
+        "summary": "Speaks out for the first time since C's shift to the right"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:31:11+01:00"
+      }
+    },
     {
       "id": "c797281a23bf",
       "schema_version": 1,
@@ -5753,35 +5782,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T13:01:19+01:00"
-      }
-    },
-    {
-      "id": "c1f4be6c63ca",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6xwU4uzkNKBMpTZYgrXjmc/anthropic-boersnoteras-i-dag-sa-paverkas-svenska-sparare",
-      "guid": "6xwU4uzkNKBMpTZYgrXjmc",
-      "published_at": "2026-11-19T09:15:14+01:00",
-      "fetched_at": "2026-11-19T10:01:16+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Nyhetsmorgon"
-      ],
-      "sv": {
-        "title": "Anthropic börsnoteras i dag – så påverkas svenska sparare",
-        "summary": "AI-jätten Anthropic sätter priset på aktien till 83 dollar när den i dag introduceras på Nasdaq-börsen i USA. Sammanlagt omfattar noteringen omkring 980 miljoner aktier, vilket motsvarar beräknade intäkter på 81,3 miljarder dollar.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Anthropic goes public today – this is how Swedish savers are affected",
-        "summary": "AI giant Anthropic sets the share price at 83 dollars as it is introduced on the Nasdaq exchange in the US today. In total the listing comprises about 980 million shares, corresponding to estimated revenue of 81.3 billion dollars."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T10:01:25+01:00"
       }
     }
   ]

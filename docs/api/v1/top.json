@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:16:00+01:00",
+  "generated_at": "2026-11-27T15:31:14+01:00",
   "count": 30,
   "stories": [
     {
@@ -1301,6 +1301,94 @@
       ]
     },
     {
+      "id": "9c38caceccba",
+      "source_count": 4,
+      "sources": [
+        "expressen",
+        "aftonbladet",
+        "sydsvenskan",
+        "tv4"
+      ],
+      "first_published_at": "2026-11-27T14:55:48+01:00",
+      "last_published_at": "2026-11-27T15:23:53+01:00",
+      "lead": {
+        "id": "9c38caceccba",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=cc0b6e84-84ae-4249-b9aa-d5b19def7b38",
+        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cc0b6e84-84ae-4249-b9aa-d5b19def7b38",
+        "published_at": "2026-11-27T14:55:48+01:00",
+        "fetched_at": "2026-11-27T15:01:20+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Dadgostar vädjar till C",
+          "summary": "”Jag loar”",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Dadgostar appeals to C",
+          "summary": "“I promise”"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T15:01:36+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "3ff042bb55ea",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/4yiY9dfuQAd8EYG1yewjpt/dadgostar-vaedjar-till-c-lat-oss-moetas",
+          "published_at": "2026-11-27T15:23:53+01:00",
+          "sv": {
+            "title": "Nooshi Dadgostar vädjar till C: ”Låt oss mötas i förhandlingsrummet”"
+          },
+          "en": {
+            "title": "Nooshi Dadgostar appeals to the Centre Party (C): “Let us meet in the negotiating room”"
+          }
+        },
+        {
+          "id": "f92259c21149",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/dadgostar-till-c-lovar-att-gora-vart-yttersta",
+          "published_at": "2026-11-27T15:22:34+01:00",
+          "sv": {
+            "title": "Dadgostar till C: Lovar att göra vårt yttersta"
+          },
+          "en": {
+            "title": "Dadgostar to C: Promises to do our utmost"
+          }
+        },
+        {
+          "id": "1aef313e62cc",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/4E1jzR/dadgostar-till-c-lovar-att-gora-vart-yttersta",
+          "published_at": "2026-11-27T15:13:14+01:00",
+          "sv": {
+            "title": "Dadgostar till C: Lovar att göra vårt yttersta"
+          },
+          "en": {
+            "title": "Dadgostar to C: Promises to do her utmost"
+          }
+        },
+        {
+          "id": "9c38caceccba",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=cc0b6e84-84ae-4249-b9aa-d5b19def7b38",
+          "published_at": "2026-11-27T14:55:48+01:00",
+          "sv": {
+            "title": "Dadgostar vädjar till C"
+          },
+          "en": {
+            "title": "Dadgostar appeals to C"
+          }
+        }
+      ]
+    },
+    {
       "id": "b312f2a82334",
       "source_count": 4,
       "sources": [
@@ -2084,63 +2172,63 @@
       ]
     },
     {
-      "id": "9c38caceccba",
+      "id": "d22e578281c9",
       "source_count": 2,
       "sources": [
-        "expressen",
-        "aftonbladet"
+        "aftonbladet",
+        "svd"
       ],
-      "first_published_at": "2026-11-27T14:55:48+01:00",
-      "last_published_at": "2026-11-27T15:13:14+01:00",
+      "first_published_at": "2026-11-27T15:27:49+01:00",
+      "last_published_at": "2026-11-27T15:28:02+01:00",
       "lead": {
-        "id": "9c38caceccba",
+        "id": "d22e578281c9",
         "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=cc0b6e84-84ae-4249-b9aa-d5b19def7b38",
-        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cc0b6e84-84ae-4249-b9aa-d5b19def7b38",
-        "published_at": "2026-11-27T14:55:48+01:00",
-        "fetched_at": "2026-11-27T15:01:20+01:00",
-        "category": "politics",
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/vkAWeL/atal-om-ronningemord-nasta-vecka",
+        "guid": "https://www.aftonbladet.se/nyheter/a/vkAWeL/atal-om-ronningemord-nasta-vecka?utm_medium=rss",
+        "published_at": "2026-11-27T15:27:49+01:00",
+        "fetched_at": "2026-11-27T15:31:01+01:00",
+        "category": "crime",
         "sv": {
-          "title": "Dadgostar vädjar till C",
-          "summary": "”Jag loar”",
+          "title": "Åtal om Rönningemord nästa vecka",
+          "summary": "På tisdag nästa vecka lämnas åtalet in mot den 26-årige man som misstänkts för det uppmärksammade…",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "Dadgostar appeals to C",
-          "summary": "“I promise”"
+          "title": "Charges in Rönninge murder next week",
+          "summary": "On Tuesday next week the charges will be filed against the 26-year-old man suspected of the high-profile…"
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T15:01:36+01:00"
+          "translated_at": "2026-11-27T15:31:11+01:00"
         }
       },
       "items": [
         {
-          "id": "1aef313e62cc",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/4E1jzR/dadgostar-till-c-lovar-att-gora-vart-yttersta",
-          "published_at": "2026-11-27T15:13:14+01:00",
+          "id": "db2d2f6ef3ca",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80380",
+          "published_at": "2026-11-27T15:28:02+01:00",
           "sv": {
-            "title": "Dadgostar till C: Lovar att göra vårt yttersta"
+            "title": "Åtal för Rönningemordet på tisdag"
           },
           "en": {
-            "title": "Dadgostar to C: Promises to do her utmost"
+            "title": "Charges for the Rönninge murder on Tuesday"
           }
         },
         {
-          "id": "9c38caceccba",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=cc0b6e84-84ae-4249-b9aa-d5b19def7b38",
-          "published_at": "2026-11-27T14:55:48+01:00",
+          "id": "d22e578281c9",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/vkAWeL/atal-om-ronningemord-nasta-vecka",
+          "published_at": "2026-11-27T15:27:49+01:00",
           "sv": {
-            "title": "Dadgostar vädjar till C"
+            "title": "Åtal om Rönningemord nästa vecka"
           },
           "en": {
-            "title": "Dadgostar appeals to C"
+            "title": "Charges in Rönninge murder next week"
           }
         }
       ]
@@ -2641,69 +2729,6 @@
           },
           "en": {
             "title": "Split ahead of C's make-or-break meeting on Sunday: \"Not top-down\""
-          }
-        }
-      ]
-    },
-    {
-      "id": "3aca2bf70ab4",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-27T10:51:30+01:00",
-      "last_published_at": "2026-11-27T10:55:40+01:00",
-      "lead": {
-        "id": "3aca2bf70ab4",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/6Pjrqz/nato-stridsflyg-skickades-upp-efter-dronarlarm",
-        "guid": "https://www.aftonbladet.se/nyheter/a/6Pjrqz/nato-stridsflyg-skickades-upp-efter-dronarlarm?utm_medium=rss",
-        "published_at": "2026-11-27T10:51:30+01:00",
-        "fetched_at": "2026-11-27T11:01:17+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/df67a8ff-7951-3097-a72a-e585fbf5174b?format=auto&s=c16c95c7d74f9abf8569b1f95f698a6d3f194269&w=1000",
-        "sv": {
-          "title": "Nato-stridsflyg skickades upp efter drönarlarm",
-          "summary": "Nato skickade under natten upp stridsflygplan mot Lettland, efter att en drönare kortvarigt flugit…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "NATO fighter jets scrambled after drone alarm",
-          "summary": "NATO scrambled fighter jets towards Latvia overnight after a drone briefly flew into the country's airspace near the border with Russia…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T11:01:24+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "298b37f2f49b",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/varlden/nato-stridsflyg-skickades-upp-efter-dronarlarm",
-          "published_at": "2026-11-27T10:55:40+01:00",
-          "sv": {
-            "title": "Nato-stridsflyg skickades upp efter drönarlarm"
-          },
-          "en": {
-            "title": "NATO fighter jets scrambled after drone alarm"
-          }
-        },
-        {
-          "id": "3aca2bf70ab4",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/6Pjrqz/nato-stridsflyg-skickades-upp-efter-dronarlarm",
-          "published_at": "2026-11-27T10:51:30+01:00",
-          "sv": {
-            "title": "Nato-stridsflyg skickades upp efter drönarlarm"
-          },
-          "en": {
-            "title": "NATO fighter jets scrambled after drone alarm"
           }
         }
       ]

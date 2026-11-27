@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-11-27T15:16:00+01:00",
+  "generated_at": "2026-11-27T15:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "db2d2f6ef3ca",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80380",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80380&utm_medium=rss",
+      "published_at": "2026-11-27T15:28:02+01:00",
+      "fetched_at": "2026-11-27T15:31:01+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Åtal för Rönningemordet på tisdag"
+      },
+      "en": {
+        "title": "Charges for the Rönninge murder on Tuesday"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:31:11+01:00"
+      }
+    },
+    {
+      "id": "d22e578281c9",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/vkAWeL/atal-om-ronningemord-nasta-vecka",
+      "guid": "https://www.aftonbladet.se/nyheter/a/vkAWeL/atal-om-ronningemord-nasta-vecka?utm_medium=rss",
+      "published_at": "2026-11-27T15:27:49+01:00",
+      "fetched_at": "2026-11-27T15:31:01+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Åtal om Rönningemord nästa vecka",
+        "summary": "På tisdag nästa vecka lämnas åtalet in mot den 26-årige man som misstänkts för det uppmärksammade…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Charges in Rönninge murder next week",
+        "summary": "On Tuesday next week the charges will be filed against the 26-year-old man suspected of the high-profile…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:31:11+01:00"
+      }
+    },
     {
       "id": "b42942d1f422",
       "schema_version": 1,
@@ -5342,59 +5391,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T06:56:30+01:00"
-      }
-    },
-    {
-      "id": "75f304acbff5",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/lagenhetshus-forstort-i-brand-i-boliden",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/lagenhetshus-forstort-i-brand-i-boliden",
-      "published_at": "2026-11-23T06:26:01+01:00",
-      "fetched_at": "2026-11-23T06:55:59+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Lägenhetshus förstört i brand i Boliden – polis utreder mordbrand",
-        "summary": "Ett lägenhetshus i Boliden började brinna under natten mot måndagen. Huset var obebott och ingen person uppges vara skadad.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Apartment building destroyed in fire in Boliden – police investigating arson",
-        "summary": "An apartment building in Boliden began burning during the night to Monday. The building was uninhabited and no one is reported injured."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:30+01:00"
-      }
-    },
-    {
-      "id": "98af5c7cd287",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/familjens-sorg-efter-ronningemordet-smarta-varje-dag",
-      "guid": "600d1d89-b778-4d9d-a4f5-ca5b5da8d2f2",
-      "published_at": "2026-11-23T05:45:23+01:00",
-      "fetched_at": "2026-11-23T06:56:03+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/be6ce80a-1530-4c86-8998-5c4f098cc6ed.jpg?width=600",
-      "sv": {
-        "title": "Familjens sorg efter Rönningemordet: Smärta varje dag",
-        "summary": "Den 25-åriga kvinnan fördes bort och mördades under julhelgen förra året. Nu tackar hennes familj för allt stöd – och vädjar om att bli lämnad ifred inför den kommande rättegången. ”Att förlora vår älskade dotter och syster är en sorg som inte går att beskriva med ord”, skriver familjen till TT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Rönninge murder: Family's grief, pain every day",
-        "summary": "The 25-year-old woman was abducted and murdered over the Christmas holiday last year. Now her family thanks everyone for their support – and pleads to be left in peace ahead of the upcoming trial. “Losing our beloved daughter and sister is a grief that cannot be described in words”, the family writes to TT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T06:56:44+01:00"
       }
     }
   ]

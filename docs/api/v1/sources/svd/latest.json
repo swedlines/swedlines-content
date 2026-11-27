@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-27T15:16:00+01:00",
+  "generated_at": "2026-11-27T15:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "db2d2f6ef3ca",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80380",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80380&utm_medium=rss",
+      "published_at": "2026-11-27T15:28:02+01:00",
+      "fetched_at": "2026-11-27T15:31:01+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Åtal för Rönningemordet på tisdag"
+      },
+      "en": {
+        "title": "Charges for the Rönninge murder on Tuesday"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T15:31:11+01:00"
+      }
+    },
     {
       "id": "0d3007b2a0ca",
       "schema_version": 1,
@@ -5247,30 +5270,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T10:31:08+01:00"
-      }
-    },
-    {
-      "id": "7991d188783e",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80257",
-      "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80257&utm_medium=rss",
-      "published_at": "2026-11-24T10:16:21+01:00",
-      "fetched_at": "2026-11-24T14:15:49+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/de45a838-5e90-30b5-b193-c71739f29ac9?format=auto&s=931c01c015338c4f9e02b68695b7caf83d62656b&w=1000",
-      "sv": {
-        "title": "Kristersson: Beredd att pröva fyrpartiregering"
-      },
-      "en": {
-        "title": "Kristersson: Ready to test four-party government"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T14:16:06+01:00"
       }
     }
   ]
