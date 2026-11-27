@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T06:31:20+01:00",
+  "generated_at": "2026-11-27T06:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "368e9e80674d",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350318",
+      "guid": "rss:sr.se/article/9350318",
+      "published_at": "2026-11-27T06:38:00+01:00",
+      "fetched_at": "2026-11-27T06:45:49+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Grekland fängslar båtmigranter: ”Travesti på rättvisa”",
+        "summary": "Rekordmånga migranter tar sig just nu till Kreta i småbåtar över Medelhavet. Greklands regering svarar med mycket långa fängelsestraff för vissa nyanlända – något som väcker skarp kritik.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Greece jails migrant boat arrivals: \"Travesty of justice\"",
+        "summary": "A record number of migrants are currently reaching Crete by small boat across the Mediterranean. Greece's government is responding with very long prison sentences for some new arrivals – something that is drawing sharp criticism."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:45:58+01:00"
+      }
+    },
     {
       "id": "cc0c28fdd124",
       "schema_version": 1,
@@ -5321,32 +5347,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T09:31:10+01:00"
-      }
-    },
-    {
-      "id": "9abbe7117205",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trumps-nya-plan-for-iran-vill-forgora-de-radikala-ledarna",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumps-nya-plan-for-iran-vill-forgora-de-radikala-ledarna/",
-      "published_at": "2026-11-25T09:05:40+01:00",
-      "fetched_at": "2026-11-25T09:15:42+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trumps nya plan för Iran: Vill förgöra de radikala ledarna",
-        "summary": "Donald Trump har redan dödat de högsta ledarna i Iran en gång. Nu vill han göra det igen, enligt NBC News. Denna gång vill han fokusera på ”de radikala”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump's new plan for Iran: Wants to eliminate the radical leaders",
-        "summary": "Donald Trump has already killed Iran's top leaders once. Now he wants to do it again, according to NBC News. This time he wants to focus on \"the radicals\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T09:15:48+01:00"
       }
     }
   ]

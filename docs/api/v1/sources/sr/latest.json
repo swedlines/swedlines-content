@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T06:31:20+01:00",
+  "generated_at": "2026-11-27T06:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "368e9e80674d",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9350318",
+      "guid": "rss:sr.se/article/9350318",
+      "published_at": "2026-11-27T06:38:00+01:00",
+      "fetched_at": "2026-11-27T06:45:49+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Grekland fängslar båtmigranter: ”Travesti på rättvisa”",
+        "summary": "Rekordmånga migranter tar sig just nu till Kreta i småbåtar över Medelhavet. Greklands regering svarar med mycket långa fängelsestraff för vissa nyanlända – något som väcker skarp kritik.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Greece jails migrant boat arrivals: \"Travesty of justice\"",
+        "summary": "A record number of migrants are currently reaching Crete by small boat across the Mediterranean. Greece's government is responding with very long prison sentences for some new arrivals – something that is drawing sharp criticism."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-27T06:45:58+01:00"
+      }
+    },
     {
       "id": "41f3ccd4c8c5",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T00:01:18+01:00"
-      }
-    },
-    {
-      "id": "0f472b5e3e31",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347764",
-      "guid": "rss:sr.se/article/9347764",
-      "published_at": "2026-11-21T22:42:00+01:00",
-      "fetched_at": "2026-11-21T22:45:45+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Jair Bolsonaro vårdas på intensiven",
-        "summary": "Brasiliens ex-president Jair Bolsonaro har lagts in på intensivvårdsavdelning i huvudstaden Brasília, rapporterar Reuters. Enligt sjukhuset har han drabbats av akut tarmvred. Han uppges vara vid medvetande och läget uppges vara stabilt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Jair Bolsonaro being treated in intensive care",
-        "summary": "Brazil's former president Jair Bolsonaro has been admitted to an intensive care unit in the capital Brasília, Reuters reports. According to the hospital, he has suffered an acute intestinal volvulus. He is reportedly conscious and his condition is reported to be stable."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T22:45:53+01:00"
       }
     }
   ]
