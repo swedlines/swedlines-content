@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T16:25:19+01:00",
+  "generated_at": "2026-11-28T16:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2cf79bf2d2a7",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/akesson-nu-blir-det-inga-fler-silvertejpslosningar",
+      "guid": "ec5acc9f-218e-4939-abab-ae7137022156",
+      "published_at": "2026-11-28T16:25:18+01:00",
+      "fetched_at": "2026-11-28T16:31:03+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a466474c-6c04-4cd6-b64e-7ef73fe54a3e.jpeg?width=600",
+      "sv": {
+        "title": "Åkesson: ”Nu blir det inga fler silvertejpslösningar”",
+        "summary": "Sverigedemokraternas partiledare Jimmy Åkesson tror inte på något extraval. ”Min bedömning är att det är osannolikt” säger han på partiets kommun- och regionkonferens i Norrköping. Han förtydligar också vad SD kommer att ställa för krav i rollen som oppositionsparti.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Åkesson: ”Now there will be no more duct-tape solutions”",
+        "summary": "Sweden Democrats leader Jimmy Åkesson does not believe in any snap election. ”My assessment is that it is unlikely,” he says at the party's municipal and regional conference in Norrköping. He also clarifies what demands SD will make in its role as an opposition party."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T16:31:06+01:00"
+      }
+    },
     {
       "id": "2f4d2465a998",
       "schema_version": 1,
@@ -5447,33 +5474,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T07:31:07+01:00"
-      }
-    },
-    {
-      "id": "3d0d42d02109",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/g3WPEJ/statsvetare-da-bor-c-politiker-lamna-sina-uppdrag",
-      "guid": "https://www.svd.se/a/g3WPEJ/statsvetare-da-bor-c-politiker-lamna-sina-uppdrag?utm_medium=rss",
-      "published_at": "2026-11-28T07:00:13+01:00",
-      "fetched_at": "2026-11-28T07:01:06+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/c0591fe8-06e6-35bb-a9de-a5397e3c2e41?format=auto&s=197b5d7fa42b32effb1f69532c684eb1fcc6c057&w=1000",
-      "sv": {
-        "title": "Statsvetare: Då bör C-politiker lämna sina uppdrag",
-        "summary": "Flera av Centerns riksdagsledamöter har aviserat att de kommer att trycka rött i måndagens…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Political scientist: Then C politicians should give up their posts",
-        "summary": "Several of the Centre Party's Riksdag members have announced that they will press red at Monday's…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-28T07:01:17+01:00"
       }
     }
   ]
