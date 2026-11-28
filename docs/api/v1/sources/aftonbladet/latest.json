@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T05:46:01+01:00",
+  "generated_at": "2026-11-28T05:58:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dc9dc4238d3b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/GPa1aB/saudiarabien-och-huthirorelsen-utbyter-attacker",
+      "guid": "https://www.aftonbladet.se/nyheter/a/GPa1aB/saudiarabien-och-huthirorelsen-utbyter-attacker?utm_medium=rss",
+      "published_at": "2026-11-28T05:49:38+01:00",
+      "fetched_at": "2026-11-28T05:58:22+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/2ed2ce7e-31a2-3d90-adc0-764cc598440c?format=auto&s=2e29cb1df317274bdeee204678f629467019efdc&w=1000",
+      "sv": {
+        "title": "Saudiarabien och Huthirörelsen utbyter attacker",
+        "summary": "Saudiarabien och den Iranstödda Huthimilisen i Jemen har utbytt attacker under den tidiga…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Saudi Arabia and the Houthi movement exchange attacks",
+        "summary": "Saudi Arabia and the Iran-backed Houthi movement in Yemen have exchanged attacks during the early..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T05:58:27+01:00"
+      }
+    },
     {
       "id": "fe1becc39264",
       "schema_version": 1,
@@ -5341,33 +5368,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T11:15:55+01:00"
-      }
-    },
-    {
-      "id": "33b8d43f4b22",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/lMAPv9/vadret-i-jul-forsta-prognosen",
-      "guid": "https://www.aftonbladet.se/nyheter/a/lMAPv9/vadret-i-jul-forsta-prognosen?utm_medium=rss",
-      "published_at": "2026-11-25T10:28:05+01:00",
-      "fetched_at": "2026-11-25T10:30:55+01:00",
-      "category": "weather",
-      "image_url": "https://akamai.vgc.no/v2/images/fb21710e-55e4-3c1b-9e7b-3cbdcaedc19f?format=auto&s=f1152dd2119a33eca98a99b7f442e002f2053fc8&w=1000",
-      "sv": {
-        "title": "Första prognosen: Här blir det en vit jul",
-        "summary": "Kritiska veckan: Regn kan bli snö",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "First forecast: Here comes a white Christmas",
-        "summary": "Critical week: Rain may turn to snow"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:31:03+01:00"
       }
     }
   ]
