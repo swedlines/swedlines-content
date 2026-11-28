@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T13:01:26+01:00",
+  "generated_at": "2026-11-28T13:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "476d443435b5",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/rasar-efter-s-pahoppet-det-du-gjort-ar-motbjudande",
+      "guid": "https://www.expressen.se/nyheter/politik/rasar-efter-s-pahoppet-det-du-gjort-ar-motbjudande/",
+      "published_at": "2026-11-28T13:06:31+01:00",
+      "fetched_at": "2026-11-28T13:15:42+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Rasar efter S-påhoppet: Det du gjort är motbjudande",
+        "summary": "Socialdemokraternas ordförande i Robertsfors, Petra Andersin, kritiserade C-toppen Helena Lindahl för att vilja rösta ja till Kristersson. För att Lindhals mormor satt i koncentrationsläger i Auschwitz. ”Det du gjort är faktiskt motbjudande”, svarar Lindahl på Facebook. Nu pudlar Andersin.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Outrage after S attack: \"What you did is repugnant\"",
+        "summary": "Social Democrats chair in Robertsfors, Petra Andersin, criticised Centre Party leader Helena Lindahl for wanting to vote yes to Kristersson. Because Lindahl's grandmother was held in the Auschwitz concentration camp. \"What you did is actually repugnant\", Lindahl responds on Facebook. Now Andersin is backing down."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:15:49+01:00"
+      }
+    },
     {
       "id": "a65880c24c35",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T10:15:50+01:00"
-      }
-    },
-    {
-      "id": "d8fff86e5501",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/kungligt/darfor-var-chris-och-madeleine-inte-pa-plats",
-      "guid": "https://www.expressen.se/nyheter/kungligt/darfor-var-chris-och-madeleine-inte-pa-plats/",
-      "published_at": "2026-11-25T09:47:33+01:00",
-      "fetched_at": "2026-11-25T09:50:22+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Därför var Chris och Madeleine inte på plats",
-        "summary": "Kungafamiljen bjöd in till fest på Slottet på tisdagskvällen. Med Madeleine och Chris saknades när Sverigemiddagen gick av stapeln. ”I dessa tider är många förkylda”, skriver hovets informationschef Margareta Thorgren i ett sms till Expressen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is why Chris and Madeleine were not present",
-        "summary": "The royal family invited guests to a party at the Palace on Tuesday evening. Madeleine and Chris were absent when the Swedish Dinner took place. \"In these times many people have colds,\" writes the court's information chief Margareta Thorgren in a text message to Expressen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T09:50:28+01:00"
       }
     }
   ]

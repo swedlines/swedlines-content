@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-28T13:01:26+01:00",
+  "generated_at": "2026-11-28T13:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "476d443435b5",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/rasar-efter-s-pahoppet-det-du-gjort-ar-motbjudande",
+      "guid": "https://www.expressen.se/nyheter/politik/rasar-efter-s-pahoppet-det-du-gjort-ar-motbjudande/",
+      "published_at": "2026-11-28T13:06:31+01:00",
+      "fetched_at": "2026-11-28T13:15:42+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Rasar efter S-påhoppet: Det du gjort är motbjudande",
+        "summary": "Socialdemokraternas ordförande i Robertsfors, Petra Andersin, kritiserade C-toppen Helena Lindahl för att vilja rösta ja till Kristersson. För att Lindhals mormor satt i koncentrationsläger i Auschwitz. ”Det du gjort är faktiskt motbjudande”, svarar Lindahl på Facebook. Nu pudlar Andersin.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Outrage after S attack: \"What you did is repugnant\"",
+        "summary": "Social Democrats chair in Robertsfors, Petra Andersin, criticised Centre Party leader Helena Lindahl for wanting to vote yes to Kristersson. Because Lindahl's grandmother was held in the Auschwitz concentration camp. \"What you did is actually repugnant\", Lindahl responds on Facebook. Now Andersin is backing down."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:15:49+01:00"
+      }
+    },
+    {
+      "id": "23bb572f3090",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9352155",
+      "guid": "rss:sr.se/article/9352155",
+      "published_at": "2026-11-28T13:04:00+01:00",
+      "fetched_at": "2026-11-28T13:15:40+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "155 centerpartister i upprop mot ledningens högersväng",
+        "summary": "155 centerpartister protesterar i dag i en debattartikel i Expressen mot partiledningens avsikt att rösta ja till en regering med Ulf Kristersson som statsminister.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "155 Centre Party members protest leadership's shift to the right",
+        "summary": "155 Centre Party members are protesting today in a debate article in Expressen against the party leadership's intention to vote yes to a government with Ulf Kristersson (M) as prime minister."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:15:49+01:00"
+      }
+    },
     {
       "id": "a65880c24c35",
       "schema_version": 1,
@@ -5345,59 +5397,6 @@
       "en": {
         "title": "Birgitta Ohlsson (C): “Wrong way to go”",
         "summary": "The Centre Party’s board and parliamentary group want the party to join a centre-right government. – Many think this was the wrong way to go, says Riksdag member Birgitta Ohlsson to DN. The party’s trust council will make the final decision."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T19:31:20+01:00"
-      }
-    },
-    {
-      "id": "29ed3a22bf5e",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/hett-lussebullsbrak-i-talarstolen-du-far-med-osanning",
-      "guid": "https://www.dn.se/sverige/hett-lussebullsbrak-i-talarstolen-du-far-med-osanning/",
-      "published_at": "2026-11-26T19:23:48+01:00",
-      "fetched_at": "2026-11-26T19:31:02+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/f500558f-ec28-474c-b4ca-cd760792cadc.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Hett lussebullsbråk i talarstolen: ”Du far med osanning”",
-        "summary": "Det är inte varje dag som lussebullsbak leder till debatt i politiska talarstolar. Men nu har det hänt, med anklagelser om ”undanflykter”, ”rena lögner” och uppgifter om ”hat, hot och rasism”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hot lussebullar dispute at the podium: “You’re going with untruths”",
-        "summary": "It’s not every day that Lucia bun baking leads to debate in political speaking chambers. But now it has happened, with accusations of “evasions”, “outright lies” and claims of “hate, threats and racism”."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T19:31:20+01:00"
-      }
-    },
-    {
-      "id": "26d783ad4160",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/c-toppen-ska-rosta-nej-till-kristersson-oerhort-upprord",
-      "guid": "https://www.svt.se/nyheter/inrikes/c-toppen-ska-rosta-nej-till-kristersson-oerhort-upprord",
-      "published_at": "2026-11-26T19:17:01+01:00",
-      "fetched_at": "2026-11-26T19:31:01+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C-toppen ska rösta nej till Kristersson: ”Oerhört upprörd”",
-        "summary": "C-ledamoten Anna Lasses går emot sin partiledare. Hon kommer att rösta nej till en Kristersson-ledd regering – och säger att fler partikollegor kommer att göra samma sak. – Det är definitivt fler än jag, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party figure to vote no on Kristersson: “Extremely upset”",
-        "summary": "Centre Party member Anna Lasses is going against her party leader. She will vote no to a Kristersson-led government, and says more party colleagues will do the same. – “It’s definitely more than me,” she says."
       },
       "translation": {
         "status": "done",
