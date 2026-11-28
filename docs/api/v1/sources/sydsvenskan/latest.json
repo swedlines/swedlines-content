@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-28T16:45:54+01:00",
+  "generated_at": "2026-11-28T17:01:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ddb1b7675ed8",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/lunds-bk-foll-tungt-i-kvaldramat",
+      "guid": "a609ee38-ff21-4cb3-8d16-21b02385005d",
+      "published_at": "2026-11-28T16:58:19+01:00",
+      "fetched_at": "2026-11-28T17:01:09+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/0dd194a8-cbc3-4e7e-8f65-c2fad3782b23.jpeg?width=600",
+      "sv": {
+        "title": "Lunds BK föll tungt i kvaldramat",
+        "summary": "Lunds BK förlorade Superettankvalet mot Norrby och snuvades på det historiska avancemanget till näst högsta serien. Det blev förlust med 1–3 i bortamatchen i Borås.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lunds BK crashes out heavily in promotion play-off",
+        "summary": "Lunds BK lost the Superettan play-off to Norrby and missed out on the historic promotion to the second-tier league. The away match in Borås ended in a 1–3 defeat."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T17:01:13+01:00"
+      }
+    },
+    {
+      "id": "e71c337de7d3",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/person-pakord-av-bil-i-slottstaden",
+      "guid": "b179ac1b-9e3c-4ebf-a910-cde3f0e3a767",
+      "published_at": "2026-11-28T16:49:29+01:00",
+      "fetched_at": "2026-11-28T17:01:09+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Person påkörd av bil i Slottstaden"
+      },
+      "en": {
+        "title": "Person hit by car in Slottstaden"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T17:01:13+01:00"
+      }
+    },
     {
       "id": "5d3505f8989b",
       "schema_version": 1,
@@ -5228,60 +5278,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T23:15:50+01:00"
-      }
-    },
-    {
-      "id": "a4a6361bce54",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/isak-ger-liverpool-ledningen-i-champions-league",
-      "guid": "08e9f868-b977-4806-acfa-596712160ed1",
-      "published_at": "2026-11-25T21:39:54+01:00",
-      "fetched_at": "2026-11-25T21:45:45+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/cb8aaa10-b9b1-4041-8e2e-d9d1489171f3.jpg?width=600",
-      "sv": {
-        "title": "Isak ger Liverpool ledningen i Champions League",
-        "summary": "Ett misstag kan bli dyrköpt om Alexander Isak spelar för motståndarlaget. Det fick belgiska Club Brügge erfara när svensken gav sitt Liverpool ledningen på bortaplan i Champions Leagues gruppspel.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Isak gives Liverpool the lead in the Champions League",
-        "summary": "A mistake can prove costly if Alexander Isak plays for the opposing team. That is what Belgian club Club Brügge experienced when the Swede gave his Liverpool the lead away in the Champions League group stage."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T21:45:49+01:00"
-      }
-    },
-    {
-      "id": "d7efa95b7125",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/unik-vit-panda-fangad-pa-bild",
-      "guid": "d108bf7b-75ae-4cf6-83b7-b085f8db0a4f",
-      "published_at": "2026-11-25T20:30:00+01:00",
-      "fetched_at": "2026-11-25T20:31:08+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/3992d01d-c4f6-4e4b-b756-5f40ea95c285.jpg?width=600",
-      "sv": {
-        "title": "Unik vit panda fångad på bild",
-        "summary": "Världens enda vilda vita panda har fångats på bild för första gången sedan 2019.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unique white panda caught on camera",
-        "summary": "The world's only wild white panda has been caught on camera for the first time since 2019."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T20:31:22+01:00"
       }
     }
   ]
