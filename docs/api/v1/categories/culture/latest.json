@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-11-28T09:31:10+01:00",
+  "generated_at": "2026-11-28T09:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f000d1155052",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/olof-lundh-allvarligt-sjuk-behover-ett-mirakel",
+      "guid": "5a0faccb-6812-48a8-9e8b-d62a10f7ca59",
+      "published_at": "2026-11-28T09:42:43+01:00",
+      "fetched_at": "2026-11-28T09:45:42+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/c179974e-9bd9-489b-a26d-1373ac286d52.jpg?width=600",
+      "sv": {
+        "title": "Olof Lundh allvarligt sjuk: Behöver ett mirakel",
+        "summary": "TV4-profilen Olof Lundh har drabbats av en allvarlig sjukdom som påverkar hjärnans funktion. Ett mirakel krävs för att han ska kunna fortsätta arbeta som sportjournalist. – Det är naturligtvis en stor sorg, säger 60-åringen till TV4:s Nyhetsmorgon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Olof Lundh seriously ill: Needs a miracle",
+        "summary": "TV4 personality Olof Lundh has been hit by a serious illness that affects brain function. A miracle is needed for him to be able to continue working as a sports journalist. – It is of course a great sorrow, says the 60-year-old to TV4's Nyhetsmorgon."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T09:45:47+01:00"
+      }
+    },
+    {
+      "id": "15b172538912",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2nRCVGnIUsnbncLo3Lbw8R/saffranskraem-med-koersbaerskompott",
+      "guid": "2nRCVGnIUsnbncLo3Lbw8R",
+      "published_at": "2026-11-28T09:10:00+01:00",
+      "fetched_at": "2026-11-28T09:45:40+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Mat"
+      ],
+      "sv": {
+        "title": "Saffranskräm med körsbärskompott",
+        "summary": "Dagens helgtips bjuder på len saffranskräm, sötsyrlig körsbärskompott och cantuccini, toppad med hackade pistagenötter. En italiensk dessert med mascarpone som gärna görs dagen före. Se Camilla Hamids recept",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Saffron cream with cherry compote",
+        "summary": "Today's weekend tip features a light saffron cream, sweet-and-sour cherry compote and cantuccini, topped with chopped pistachio nuts. An Italian dessert with mascarpone that is preferably made the day before. See Camilla Hamid's recipe"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T09:45:47+01:00"
+      }
+    },
     {
       "id": "5d3bfe4f9d59",
       "schema_version": 1,
@@ -5588,59 +5644,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T08:01:20+01:00"
-      }
-    },
-    {
-      "id": "2bad391903e3",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/har-ar-artisterna-i-musikhjalpen-winnerback-bolaget-och-europe",
-      "guid": "https://www.svt.se/nyheter/lokalt/ost/har-ar-artisterna-i-musikhjalpen-winnerback-bolaget-och-europe",
-      "published_at": "2026-11-25T07:42:47+01:00",
-      "fetched_at": "2026-11-25T09:15:39+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Här är artisterna i Musikhjälpen – Winnerbäck, Bolaget och Europe",
-        "summary": "På måndag inleds Musikhjälpen i P3 och på SVT Play. Nu är det klart vilka artister som är med.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here are the artists at Musikhjälpen – Winnerbäck, Bolaget and Europe",
-        "summary": "On Monday Musikhjälpen starts on P3 and SVT Play. Now it is confirmed which artists are taking part."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T09:15:48+01:00"
-      }
-    },
-    {
-      "id": "c56f76707fd9",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/flanoren-mitt-geniala-busstreck-pa-gymnasiet-slog-tillbaka",
-      "guid": "https://www.dn.se/kultur/flanoren-mitt-geniala-busstreck-pa-gymnasiet-slog-tillbaka/",
-      "published_at": "2026-11-25T07:30:00+01:00",
-      "fetched_at": "2026-11-25T07:30:57+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/0ec5d5b7-642d-466a-bdf1-5443eb3ffc3d.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Flanören: Mitt geniala busstreck på gymnasiet slog tillbaka",
-        "summary": "I dag återvänder Flanören till gymnasiet och den sång som han kuppade in på skolans julavslutning. Han hyllades som en hjälte. Men sen …",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Flanören: My brilliant bus stunt at upper secondary school struck back",
-        "summary": "Today Flanören returns to the upper secondary school and the song he sneaked into the school's Christmas celebration. He was hailed as a hero. But then …"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T07:31:10+01:00"
       }
     }
   ]
