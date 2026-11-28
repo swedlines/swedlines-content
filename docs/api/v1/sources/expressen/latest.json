@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T12:01:26+01:00",
+  "generated_at": "2026-11-28T12:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a65880c24c35",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a1a7d4ce-1cd0-43c4-9926-ae84876cebd9",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a1a7d4ce-1cd0-43c4-9926-ae84876cebd9",
+      "published_at": "2026-11-28T12:11:23+01:00",
+      "fetched_at": "2026-11-28T12:15:45+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Anderssons vädjan till C",
+        "summary": "”Gå inte till de högerextrema”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Andersson's appeal to the Centre Party",
+        "summary": "\"Don't go to the far-right\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T12:15:51+01:00"
+      }
+    },
     {
       "id": "4a05e8c90e81",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T09:50:28+01:00"
-      }
-    },
-    {
-      "id": "60ffe1044508",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-utspel-da-forlorar-vi-kriget",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-utspel-da-forlorar-vi-kriget",
-      "published_at": "2026-11-25T09:22:07+01:00",
-      "fetched_at": "2026-11-25T09:31:02+01:00",
-      "category": "world",
-      "sv": {
-        "title": "”Då förlorar vi kriget”",
-        "summary": "Zelenskyjs ilska – pekar på Trump-löfte: ”Helt omöjligt”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Then we lose the war\"",
-        "summary": "Zelenskyy's anger – points to Trump promise: \"Completely impossible\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T09:31:10+01:00"
       }
     }
   ]

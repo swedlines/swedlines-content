@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-28T12:01:26+01:00",
+  "generated_at": "2026-11-28T12:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "16c8b7afe203",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6I7vJUedX7wduE7wq4wKUY/lundh-hyllas-av-journalistkollegorna-oumbaerlig",
+      "guid": "6I7vJUedX7wduE7wq4wKUY",
+      "published_at": "2026-11-28T12:05:51+01:00",
+      "fetched_at": "2026-11-28T12:15:45+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Lundh hyllas av journalistkollegorna: ”Oumbärlig”",
+        "summary": "Under lördagsmorgonen berättade TV4:s sportjournalist Olof Lundh att han är allvarligt sjuk. I samband med det sa Lundh att han sannolikt inte kommer att jobba mer som sportjournalist.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Lundh praised by journalist colleagues: \"Irreplaceable\"",
+        "summary": "On Saturday morning TV4 sports journalist Olof Lundh said he is seriously ill. In connection with this, Lundh said he will probably no longer work as a sports journalist."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T12:15:51+01:00"
+      }
+    },
     {
       "id": "27c40662cd6f",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T21:45:52+01:00"
-      }
-    },
-    {
-      "id": "16508760a386",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/18dg7d3WIxm0nnf67YrSjT/tidigare-elev-om-tiden-pa-sigtunaskolan-du-blir-internatstoerd",
-      "guid": "18dg7d3WIxm0nnf67YrSjT",
-      "published_at": "2026-11-19T20:13:45+01:00",
-      "fetched_at": "2026-11-19T20:15:47+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Efter fem"
-      ],
-      "sv": {
-        "title": "Tidigare elev om tiden på Sigtunaskolan: ”Du blir internatstörd”",
-        "summary": "Elever tvingades se avföringspornografi • ”En majoritet gör resan från offer till förövare”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Former pupil on life at Sigtunaskolan: “You become boarding-school-damaged”",
-        "summary": "Students were forced to watch scat pornography • “A majority make the journey from victim to perpetrator”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T20:15:56+01:00"
       }
     }
   ]

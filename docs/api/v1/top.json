@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T12:01:26+01:00",
-  "count": 18,
+  "generated_at": "2026-11-28T12:15:54+01:00",
+  "count": 19,
   "stories": [
     {
       "id": "8147b0543184",
@@ -14,7 +14,7 @@
         "di"
       ],
       "first_published_at": "2026-11-28T09:42:09+01:00",
-      "last_published_at": "2026-11-28T11:50:49+01:00",
+      "last_published_at": "2026-11-28T12:05:51+01:00",
       "lead": {
         "id": "8147b0543184",
         "schema_version": 1,
@@ -45,6 +45,18 @@
         }
       },
       "items": [
+        {
+          "id": "16c8b7afe203",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/6I7vJUedX7wduE7wq4wKUY/lundh-hyllas-av-journalistkollegorna-oumbaerlig",
+          "published_at": "2026-11-28T12:05:51+01:00",
+          "sv": {
+            "title": "Lundh hyllas av journalistkollegorna: ”Oumbärlig”"
+          },
+          "en": {
+            "title": "Lundh praised by journalist colleagues: \"Irreplaceable\""
+          }
+        },
         {
           "id": "f259a49cbeba",
           "source": "di",
@@ -898,6 +910,69 @@
           },
           "en": {
             "title": "Eight dead after helicopter crash in Peru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f1624214ae02",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-28T12:00:13+01:00",
+      "last_published_at": "2026-11-28T12:00:14+01:00",
+      "lead": {
+        "id": "f1624214ae02",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/R19x8x/frosten-kommer-senare-slar-mot-skogen",
+        "guid": "https://www.aftonbladet.se/nyheter/a/R19x8x/frosten-kommer-senare-slar-mot-skogen?utm_medium=rss",
+        "published_at": "2026-11-28T12:00:13+01:00",
+        "fetched_at": "2026-11-28T12:01:15+01:00",
+        "category": "weather",
+        "image_url": "https://akamai.vgc.no/v2/images/8b6157c4-2865-3b88-8115-096ced9e96f0?format=auto&s=d9db746dd3527e1b025e642fb9231900ab9c82c7&w=1000",
+        "sv": {
+          "title": "Frosten kommer senare – slår mot skogen",
+          "summary": "Den första frosten kommer allt senare och de mildare höstarna påverkar skogs- och jordbruk.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Frost comes later – hits the forests",
+          "summary": "The first frost is arriving later and later, and the milder autumns are affecting forestry and agriculture."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T12:01:24+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "d1d877b0d225",
+          "source": "svd",
+          "url": "https://www.svd.se/a/6Pzn1z/frosten-kommer-senare-slar-mot-skogen",
+          "published_at": "2026-11-28T12:00:14+01:00",
+          "sv": {
+            "title": "Frosten kommer senare – slår mot skogen"
+          },
+          "en": {
+            "title": "Frost arrives later – hits the forests"
+          }
+        },
+        {
+          "id": "f1624214ae02",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/R19x8x/frosten-kommer-senare-slar-mot-skogen",
+          "published_at": "2026-11-28T12:00:13+01:00",
+          "sv": {
+            "title": "Frosten kommer senare – slår mot skogen"
+          },
+          "en": {
+            "title": "Frost comes later – hits the forests"
           }
         }
       ]
