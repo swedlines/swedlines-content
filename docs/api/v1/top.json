@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T10:31:05+01:00",
+  "generated_at": "2026-11-28T10:45:58+01:00",
   "count": 15,
   "stories": [
     {
@@ -118,6 +118,122 @@
       ]
     },
     {
+      "id": "8147b0543184",
+      "source_count": 5,
+      "sources": [
+        "tv4",
+        "sydsvenskan",
+        "svd",
+        "dn",
+        "gp"
+      ],
+      "first_published_at": "2026-11-28T09:42:09+01:00",
+      "last_published_at": "2026-11-28T10:09:13+01:00",
+      "lead": {
+        "id": "8147b0543184",
+        "schema_version": 1,
+        "source": "tv4",
+        "url": "https://www.tv4.se/artikel/3KOfKP0cpkTfTQicLstDEt/olof-lundh-allvarligt-sjuk-hoppas-pa-ett-mirakel",
+        "guid": "3KOfKP0cpkTfTQicLstDEt",
+        "published_at": "2026-11-28T09:42:09+01:00",
+        "fetched_at": "2026-11-28T09:45:40+01:00",
+        "category": "sports",
+        "feed_categories": [
+          "Olof Lundh"
+        ],
+        "sv": {
+          "title": "Olof Lundh allvarligt sjuk: ”Hoppas på ett mirakel”",
+          "summary": "Den senaste tiden har allsvenska guldstriden på herrsidan gått in i ett avgörande slutskede och svenska herrlandslagets Nations League-gruppspel har avslutats. Men TV4:s fotbollsexpert och Fotbollskanalens krönikör Olof Lundh har inte varit en del av bevakningen. Nu vill han ge svar på varför.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Olof Lundh seriously ill: \"Hoping for a miracle\"",
+          "summary": "Recently, the men's Allsvenskan title race has entered a decisive final stage, and the Swedish men's national football team's Nations League group stage has ended. But TV4's football expert and Fotbollskanalen columnist Olof Lundh has not been part of the coverage. Now he wants to explain why."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T09:45:47+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "401586b90e33",
+          "source": "gp",
+          "url": "https://www.gp.se/sport/sportjournalisten-olof-lundh-allvarligt-sjuk.2f96be2c-e362-5853-9630-f5959e2dc32f",
+          "published_at": "2026-11-28T10:09:13+01:00",
+          "sv": {
+            "title": "Olof Lundh allvarligt sjuk: ”Min hjärnas funktion är nedsatt”"
+          },
+          "en": {
+            "title": "Olof Lundh seriously ill: \"My brain's function is impaired\""
+          }
+        },
+        {
+          "id": "56d3d8015789",
+          "source": "dn",
+          "url": "https://www.dn.se/sport/fotbollsjournalisten-olof-lundh-allvarligt-sjuk",
+          "published_at": "2026-11-28T10:08:31+01:00",
+          "sv": {
+            "title": "Fotbollsjournalisten Olof Lundh allvarligt sjuk"
+          },
+          "en": {
+            "title": "Football journalist Olof Lundh seriously ill"
+          }
+        },
+        {
+          "id": "e5cc388757ae",
+          "source": "svd",
+          "url": "https://www.svd.se/a/VxqRjp/olof-lundh-allvarligt-sjuk-behover-ett-mirakel",
+          "published_at": "2026-11-28T09:56:55+01:00",
+          "sv": {
+            "title": "Olof Lundh allvarligt sjuk: Behöver ett mirakel"
+          },
+          "en": {
+            "title": "Olof Lundh seriously ill: Needs a miracle"
+          }
+        },
+        {
+          "id": "8cadbc53e486",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80398",
+          "published_at": "2026-11-28T09:48:04+01:00",
+          "sv": {
+            "title": "Fotbollsjournalisten Olof Lundh allvarligt sjuk"
+          },
+          "en": {
+            "title": "Football journalist Olof Lundh seriously ill"
+          }
+        },
+        {
+          "id": "f000d1155052",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/olof-lundh-allvarligt-sjuk-behover-ett-mirakel",
+          "published_at": "2026-11-28T09:42:43+01:00",
+          "sv": {
+            "title": "Olof Lundh allvarligt sjuk: Behöver ett mirakel"
+          },
+          "en": {
+            "title": "Olof Lundh seriously ill: Needs a miracle"
+          }
+        },
+        {
+          "id": "8147b0543184",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/3KOfKP0cpkTfTQicLstDEt/olof-lundh-allvarligt-sjuk-hoppas-pa-ett-mirakel",
+          "published_at": "2026-11-28T09:42:09+01:00",
+          "sv": {
+            "title": "Olof Lundh allvarligt sjuk: ”Hoppas på ett mirakel”"
+          },
+          "en": {
+            "title": "Olof Lundh seriously ill: \"Hoping for a miracle\""
+          }
+        }
+      ]
+    },
+    {
       "id": "f0b4e2836fe9",
       "source_count": 5,
       "sources": [
@@ -215,109 +331,6 @@
           },
           "en": {
             "title": "Political scientist: Then C politicians should give up their posts"
-          }
-        }
-      ]
-    },
-    {
-      "id": "8147b0543184",
-      "source_count": 4,
-      "sources": [
-        "tv4",
-        "sydsvenskan",
-        "svd",
-        "dn"
-      ],
-      "first_published_at": "2026-11-28T09:42:09+01:00",
-      "last_published_at": "2026-11-28T10:08:31+01:00",
-      "lead": {
-        "id": "8147b0543184",
-        "schema_version": 1,
-        "source": "tv4",
-        "url": "https://www.tv4.se/artikel/3KOfKP0cpkTfTQicLstDEt/olof-lundh-allvarligt-sjuk-hoppas-pa-ett-mirakel",
-        "guid": "3KOfKP0cpkTfTQicLstDEt",
-        "published_at": "2026-11-28T09:42:09+01:00",
-        "fetched_at": "2026-11-28T09:45:40+01:00",
-        "category": "sports",
-        "feed_categories": [
-          "Olof Lundh"
-        ],
-        "sv": {
-          "title": "Olof Lundh allvarligt sjuk: ”Hoppas på ett mirakel”",
-          "summary": "Den senaste tiden har allsvenska guldstriden på herrsidan gått in i ett avgörande slutskede och svenska herrlandslagets Nations League-gruppspel har avslutats. Men TV4:s fotbollsexpert och Fotbollskanalens krönikör Olof Lundh har inte varit en del av bevakningen. Nu vill han ge svar på varför.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Olof Lundh seriously ill: \"Hoping for a miracle\"",
-          "summary": "Recently, the men's Allsvenskan title race has entered a decisive final stage, and the Swedish men's national football team's Nations League group stage has ended. But TV4's football expert and Fotbollskanalen columnist Olof Lundh has not been part of the coverage. Now he wants to explain why."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-28T09:45:47+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "56d3d8015789",
-          "source": "dn",
-          "url": "https://www.dn.se/sport/fotbollsjournalisten-olof-lundh-allvarligt-sjuk",
-          "published_at": "2026-11-28T10:08:31+01:00",
-          "sv": {
-            "title": "Fotbollsjournalisten Olof Lundh allvarligt sjuk"
-          },
-          "en": {
-            "title": "Football journalist Olof Lundh seriously ill"
-          }
-        },
-        {
-          "id": "e5cc388757ae",
-          "source": "svd",
-          "url": "https://www.svd.se/a/VxqRjp/olof-lundh-allvarligt-sjuk-behover-ett-mirakel",
-          "published_at": "2026-11-28T09:56:55+01:00",
-          "sv": {
-            "title": "Olof Lundh allvarligt sjuk: Behöver ett mirakel"
-          },
-          "en": {
-            "title": "Olof Lundh seriously ill: Needs a miracle"
-          }
-        },
-        {
-          "id": "8cadbc53e486",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80398",
-          "published_at": "2026-11-28T09:48:04+01:00",
-          "sv": {
-            "title": "Fotbollsjournalisten Olof Lundh allvarligt sjuk"
-          },
-          "en": {
-            "title": "Football journalist Olof Lundh seriously ill"
-          }
-        },
-        {
-          "id": "f000d1155052",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sport/olof-lundh-allvarligt-sjuk-behover-ett-mirakel",
-          "published_at": "2026-11-28T09:42:43+01:00",
-          "sv": {
-            "title": "Olof Lundh allvarligt sjuk: Behöver ett mirakel"
-          },
-          "en": {
-            "title": "Olof Lundh seriously ill: Needs a miracle"
-          }
-        },
-        {
-          "id": "8147b0543184",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/3KOfKP0cpkTfTQicLstDEt/olof-lundh-allvarligt-sjuk-hoppas-pa-ett-mirakel",
-          "published_at": "2026-11-28T09:42:09+01:00",
-          "sv": {
-            "title": "Olof Lundh allvarligt sjuk: ”Hoppas på ett mirakel”"
-          },
-          "en": {
-            "title": "Olof Lundh seriously ill: \"Hoping for a miracle\""
           }
         }
       ]

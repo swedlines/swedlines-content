@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T10:31:05+01:00",
+  "generated_at": "2026-11-28T10:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "999b69be8419",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/massiva-dronarattacker-mot-ryssland-och-ukraina",
+      "guid": "58c91b20-7ce6-4263-9d5a-c80e38fd0035",
+      "published_at": "2026-11-28T10:40:39+01:00",
+      "fetched_at": "2026-11-28T10:45:53+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/26e71490-6c4e-4c24-a5bd-cdbafd8e18f4.jpg?width=600",
+      "sv": {
+        "title": "Massiva drönarattacker mot Ryssland och Ukraina",
+        "summary": "Både Ukraina och Ryssland anklagar den andra sidan i kriget för att ha avfyrat hundratals drönare mellan fredag kväll och lördag morgon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Massive drone attacks on Russia and Ukraine",
+        "summary": "Both Ukraine and Russia accuse the other side in the war of having launched hundreds of drones between Friday evening and Saturday morning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T10:45:55+01:00"
+      }
+    },
     {
       "id": "00c5adcbcc51",
       "schema_version": 1,
@@ -53,6 +80,39 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T10:28:55+01:00"
+      }
+    },
+    {
+      "id": "401586b90e33",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/sportjournalisten-olof-lundh-allvarligt-sjuk.2f96be2c-e362-5853-9630-f5959e2dc32f",
+      "guid": "2f96be2c-e362-5853-9630-f5959e2dc32f",
+      "published_at": "2026-11-28T10:09:13+01:00",
+      "fetched_at": "2026-11-28T10:45:52+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Sport",
+        "Tagg: Olof Lundh",
+        "Tagg: breaking-GP",
+        "Tagg: TV4"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/a4d32910-58c2-3cdd-be5c-485eb42ea38a",
+      "sv": {
+        "title": "Olof Lundh allvarligt sjuk: ”Min hjärnas funktion är nedsatt”",
+        "summary": "TV4:s fotbollsexpert Olof Lundh, 60, har inte synts till i rutan på länge.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Olof Lundh seriously ill: \"My brain's function is impaired\"",
+        "summary": "TV4's football expert Olof Lundh, 60, has not been seen on screen for a long time."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T10:45:55+01:00"
       }
     },
     {
@@ -5414,59 +5474,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T19:15:50+01:00"
-      }
-    },
-    {
-      "id": "88029b9dcdac",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/kallor-andersson-kommer-meddela-sin-avgang",
-      "guid": "https://www.expressen.se/nyheter/politik/kallor-andersson-kommer-meddela-sin-avgang/",
-      "published_at": "2026-11-27T19:00:49+01:00",
-      "fetched_at": "2026-11-27T19:15:45+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Källor: Andersson kommer meddela sin avgång",
-        "summary": "Socialdemokraternas partiledare Magdalena Anderssons dagar kan vara räknade. Det spår flera S-källor i takt med att valvinsten glider dem ur händerna. – Mitt stalltips är att hon inte vill förnedras, säger en person med insyn.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sources: Andersson to announce her resignation",
-        "summary": "The Social Democrats' party leader Magdalena Andersson's days may be numbered. Several S sources say so as the election gain slips out of their hands. \"My stable tip is that she does not want to be humiliated,\" says a person with insight."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T19:15:50+01:00"
-      }
-    },
-    {
-      "id": "410c867ad7ea",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/OypL9w/valdtaktsmisstankte-finansmannen-levde-lyxliv-fore-gripandet",
-      "guid": "https://www.aftonbladet.se/nyheter/a/OypL9w/valdtaktsmisstankte-finansmannen-levde-lyxliv-fore-gripandet?utm_medium=rss",
-      "published_at": "2026-11-27T19:00:00+01:00",
-      "fetched_at": "2026-11-27T19:01:17+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/27e4a436-a3c7-3d2f-b7ac-fe3d7a934627?format=auto&s=2cdb3362dfefcf975901b99e6cac2ba39168fe49&w=1000",
-      "sv": {
-        "title": "Våldtäktsmisstänkte finansmannen levde lyxliv före gripandet",
-        "summary": "Svensken greps på ö ✓ Misstänks för våldtäkt",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Rape-suspect financier lived in luxury before arrest",
-        "summary": "Swede arrested on island ✓ Suspected of rape"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T19:01:25+01:00"
       }
     }
   ]
