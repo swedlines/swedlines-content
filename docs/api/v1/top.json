@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T10:45:58+01:00",
-  "count": 15,
+  "generated_at": "2026-11-28T11:01:27+01:00",
+  "count": 17,
   "stories": [
     {
       "id": "87682fb8575b",
@@ -425,6 +425,81 @@
       ]
     },
     {
+      "id": "61b46e2a129e",
+      "source_count": 3,
+      "sources": [
+        "expressen",
+        "aftonbladet",
+        "tv4"
+      ],
+      "first_published_at": "2026-11-28T08:21:46+01:00",
+      "last_published_at": "2026-11-28T10:48:04+01:00",
+      "lead": {
+        "id": "61b46e2a129e",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=cae5baf2-6658-4814-bac3-79bddd0e6f54",
+        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cae5baf2-6658-4814-bac3-79bddd0e6f54",
+        "published_at": "2026-11-28T08:21:46+01:00",
+        "fetched_at": "2026-11-28T08:31:05+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "C-toppen kallas förrädare",
+          "summary": "Orden från partivännerna • ”Hoppas alla skärper sig”",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "C-toppen called traitors",
+          "summary": "Words from party colleagues • “Hope everyone sharpens up”"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T08:31:12+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "4c26f20d86c8",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/3VrfCfDFbsvwsA1KhGdtso/c-toppen-jag-har-kallats-fascistkramare-av-partivaenner",
+          "published_at": "2026-11-28T10:48:04+01:00",
+          "sv": {
+            "title": "C-toppen: Jag har kallats fascistkramare – av partivänner"
+          },
+          "en": {
+            "title": "C-top: I have been called a fascist hugger – by party friends"
+          }
+        },
+        {
+          "id": "35993b309b91",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/7PKlPK/c-toppen-har-blivit-kallad-forradare-och-facistkrammare",
+          "published_at": "2026-11-28T08:42:33+01:00",
+          "sv": {
+            "title": "C-toppen: Har blivit kallad förrädare och fascistkramare"
+          },
+          "en": {
+            "title": "C-top: Has been called a traitor and fascist hugger"
+          }
+        },
+        {
+          "id": "61b46e2a129e",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=cae5baf2-6658-4814-bac3-79bddd0e6f54",
+          "published_at": "2026-11-28T08:21:46+01:00",
+          "sv": {
+            "title": "C-toppen kallas förrädare"
+          },
+          "en": {
+            "title": "C-toppen called traitors"
+          }
+        }
+      ]
+    },
+    {
       "id": "5b79745632d1",
       "source_count": 3,
       "sources": [
@@ -803,6 +878,131 @@
       ]
     },
     {
+      "id": "854a04565add",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "svd"
+      ],
+      "first_published_at": "2026-11-28T10:51:51+01:00",
+      "last_published_at": "2026-11-28T10:51:52+01:00",
+      "lead": {
+        "id": "854a04565add",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/Lon0aq/155-centerpartister-rosta-nej-till-kristersson",
+        "guid": "https://www.aftonbladet.se/nyheter/a/Lon0aq/155-centerpartister-rosta-nej-till-kristersson?utm_medium=rss",
+        "published_at": "2026-11-28T10:51:51+01:00",
+        "fetched_at": "2026-11-28T11:01:14+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/df3c92f2-6fff-3ad7-b641-f2639b7ef96e?format=auto&s=de44344731bced11974bf1bb4a82774cbb3772f1&w=1000",
+        "sv": {
+          "title": "155 centerpartister: Rösta nej till Kristersson",
+          "summary": "155 centerpartister uppmanar partiets förtroenderåd att rösta nej till den planerade högersvängen i…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "155 Centre Party members: Vote no to Kristersson",
+          "summary": "155 Centre Party members urge the party's trust council to vote no to the planned right-wing shift in…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T11:01:22+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "f5afb9af7bfc",
+          "source": "svd",
+          "url": "https://www.svd.se/a/WmOLad/155-centerpartister-rosta-nej-till-kristersson",
+          "published_at": "2026-11-28T10:51:52+01:00",
+          "sv": {
+            "title": "155 centerpartister: Rösta nej till Kristersson"
+          },
+          "en": {
+            "title": "155 Centre Party members: Vote no to Kristersson"
+          }
+        },
+        {
+          "id": "854a04565add",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Lon0aq/155-centerpartister-rosta-nej-till-kristersson",
+          "published_at": "2026-11-28T10:51:51+01:00",
+          "sv": {
+            "title": "155 centerpartister: Rösta nej till Kristersson"
+          },
+          "en": {
+            "title": "155 Centre Party members: Vote no to Kristersson"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d44a613a70d1",
+      "source_count": 2,
+      "sources": [
+        "expressen",
+        "svd"
+      ],
+      "first_published_at": "2026-11-28T10:43:54+01:00",
+      "last_published_at": "2026-11-28T10:45:52+01:00",
+      "lead": {
+        "id": "d44a613a70d1",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=51bf9cce-0c8e-4ecc-8ce8-41e86798b33b",
+        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=51bf9cce-0c8e-4ecc-8ce8-41e86798b33b",
+        "published_at": "2026-11-28T10:43:54+01:00",
+        "fetched_at": "2026-11-28T11:01:14+01:00",
+        "category": "sweden",
+        "sv": {
+          "title": "Bil har kört in i skyltfönster",
+          "summary": "Polis och ambulanshelikopter i centrala Stockholm",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Car has crashed into a shop window",
+          "summary": "Police and ambulance helicopter in central Stockholm"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T11:01:22+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "3c13eaf6866a",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80401",
+          "published_at": "2026-11-28T10:45:52+01:00",
+          "sv": {
+            "title": "Bil har kört in i skyltfönster i centrala Stockholm"
+          },
+          "en": {
+            "title": "Car has crashed into a shop window in central Stockholm"
+          }
+        },
+        {
+          "id": "d44a613a70d1",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=51bf9cce-0c8e-4ecc-8ce8-41e86798b33b",
+          "published_at": "2026-11-28T10:43:54+01:00",
+          "sv": {
+            "title": "Bil har kört in i skyltfönster"
+          },
+          "en": {
+            "title": "Car has crashed into a shop window"
+          }
+        }
+      ]
+    },
+    {
       "id": "1ca216d57435",
       "source_count": 2,
       "sources": [
@@ -1137,68 +1337,6 @@
           },
           "en": {
             "title": "Two killed in Israeli attack"
-          }
-        }
-      ]
-    },
-    {
-      "id": "81121008329e",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-27T13:31:27+01:00",
-      "last_published_at": "2026-11-27T22:56:56+01:00",
-      "lead": {
-        "id": "81121008329e",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/ez8lrl/kapsejsad-tanker-utanfor-ibiza-ska-bogseras",
-        "guid": "https://www.aftonbladet.se/nyheter/a/ez8lrl/kapsejsad-tanker-utanfor-ibiza-ska-bogseras?utm_medium=rss",
-        "published_at": "2026-11-27T13:31:27+01:00",
-        "fetched_at": "2026-11-27T13:45:45+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Kapsejsad tanker utanför Ibiza ska bogseras",
-          "summary": "Tankern med 7 000 ton diesel som förlist utanför den spanska Medelhavsön Ibiza har skapat oro för…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Sunken tanker off Ibiza to be towed",
-          "summary": "The tanker carrying 7,000 tonnes of diesel that sank off the Spanish Mediterranean island of Ibiza has caused concern for…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T13:45:50+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "81c89954eabc",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/fartyg-med-7-000-ton--diesel-bogseras-fran-ibiza",
-          "published_at": "2026-11-27T22:56:56+01:00",
-          "sv": {
-            "title": "Fartyg med 7 000 ton diesel bogseras från Ibiza"
-          },
-          "en": {
-            "title": "Ship carrying 7,000 tonnes of diesel to be towed from Ibiza"
-          }
-        },
-        {
-          "id": "81121008329e",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/ez8lrl/kapsejsad-tanker-utanfor-ibiza-ska-bogseras",
-          "published_at": "2026-11-27T13:31:27+01:00",
-          "sv": {
-            "title": "Kapsejsad tanker utanför Ibiza ska bogseras"
-          },
-          "en": {
-            "title": "Sunken tanker off Ibiza to be towed"
           }
         }
       ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T10:45:58+01:00",
+  "generated_at": "2026-11-28T11:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8f30239e6a28",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/9BvgVE/ai-kan-kontrolleras-med-manniskan-som-forebild",
+      "guid": "https://www.svd.se/a/9BvgVE/ai-kan-kontrolleras-med-manniskan-som-forebild?utm_medium=rss",
+      "published_at": "2026-11-28T11:00:00+01:00",
+      "fetched_at": "2026-11-28T11:01:13+01:00",
+      "category": "science_tech",
+      "image_url": "https://akamai.vgc.no/v2/images/fe8c3a88-f2d8-3332-b15b-0a5dd9c58f6d?format=auto&s=4dfee26a3b0a792826f7eb569e0f272e3801351e&w=1000",
+      "sv": {
+        "title": "Varning för den omänskliga faktorn",
+        "summary": "Vi behöver bejaka AI-maskinernas personlighet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Warning about the inhuman factor",
+        "summary": "We need to embrace the personality of AI machines."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:01:22+01:00"
+      }
+    },
     {
       "id": "427a22dc7d05",
       "schema_version": 1,
@@ -5424,32 +5451,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "20f2e74eb593",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/maktigt-ljusfenomen-filmades-i-njurunda-sags-over-halva-sverige",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/maktigt-ljusfenomen-filmades-i-njurunda-sags-over-halva-sverige",
-      "published_at": "2026-11-12T15:40:18+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Mäktigt ljusfenomen filmades i Njurunda – sågs över halva Sverige",
-        "summary": "Anette Sjöbom i Njurunda ville ha koll på hästarna på gården och satte upp övervakningskameror. Hästarna mår bra och häromdagen lyckades kameran dessutom fånga ett ljusfenomen som sågs över halva Sverige. Och Norge.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mighty light phenomenon filmed in Njurunda – seen over half of Sweden",
-        "summary": "Anette Sjöbom in Njurunda wanted to keep an eye on the horses on the farm and put up surveillance cameras. The horses are fine, and the other day the camera also managed to capture a light phenomenon that was seen over half of Sweden. And Norway."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
       }
     }
   ]

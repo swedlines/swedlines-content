@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T10:45:58+01:00",
+  "generated_at": "2026-11-28T11:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d44a613a70d1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=51bf9cce-0c8e-4ecc-8ce8-41e86798b33b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=51bf9cce-0c8e-4ecc-8ce8-41e86798b33b",
+      "published_at": "2026-11-28T10:43:54+01:00",
+      "fetched_at": "2026-11-28T11:01:14+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Bil har kört in i skyltfönster",
+        "summary": "Polis och ambulanshelikopter i centrala Stockholm",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Car has crashed into a shop window",
+        "summary": "Police and ambulance helicopter in central Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:01:22+01:00"
+      }
+    },
     {
       "id": "b49c86be6139",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T09:15:48+01:00"
-      }
-    },
-    {
-      "id": "5a9acce0d487",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/mi5-varnar-for-ryssland-kan-vara-en-maltavla",
-      "guid": "https://www.expressen.se/nyheter/varlden/mi5-varnar-for-ryssland-kan-vara-en-maltavla/",
-      "published_at": "2026-11-25T08:38:48+01:00",
-      "fetched_at": "2026-11-25T08:45:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "MI5 varnar för Ryssland: ”Kan vara en måltavla”",
-        "summary": "Den brittiska säkerhetstjänsten MI5 har skickat en varning till brittiska företag. ”Ni kan vara en måltavla”, skriver den underrättelsetjänsten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "MI5 warns of Russia: “You may be a target”",
-        "summary": "The British security service MI5 has sent a warning to British companies. “You may be a target,” the intelligence service writes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T08:45:49+01:00"
       }
     }
   ]

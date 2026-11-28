@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T10:45:58+01:00",
+  "generated_at": "2026-11-28T11:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c7fe8e2ee3bf",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/yz3QdA/sexualitet-och-makt-som-vacker-starkt-obehag",
+      "guid": "https://www.svd.se/a/yz3QdA/sexualitet-och-makt-som-vacker-starkt-obehag?utm_medium=rss",
+      "published_at": "2026-11-28T10:58:43+01:00",
+      "fetched_at": "2026-11-28T11:01:13+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/4319cfef-b4b6-3de8-9304-ae4860ffabee?format=auto&s=e9d6b4f47cc7decce9d573959c75d16295419a12&w=1000",
+      "sv": {
+        "title": "Sexualitet och makt som väcker starkt obehag",
+        "summary": "Stig Larssons succépjäs ”VD” väcker nära 40 år efter urpremiären samma obehag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sexuality and power that provoke strong unease",
+        "summary": "Stig Larsson's hit play \"VD\" provokes the same unease nearly 40 years after its premiere."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:01:22+01:00"
+      }
+    },
     {
       "id": "00c5adcbcc51",
       "schema_version": 1,
@@ -5616,35 +5643,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T09:15:48+01:00"
-      }
-    },
-    {
-      "id": "e096b94c5d93",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1KQFZquTHQ4BmdxW9QkIrW/limefisk-med-het-chilidressing",
-      "guid": "1KQFZquTHQ4BmdxW9QkIrW",
-      "published_at": "2026-11-25T08:48:02+01:00",
-      "fetched_at": "2026-11-25T09:45:51+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Mat"
-      ],
-      "sv": {
-        "title": "Limefisk med het chilidressing",
-        "summary": "Dagens middagstips bjuder på en ugnsbakad torsk med en frisk, salt och het dressing av lime, fisksås, vitlök och chili. Koriandern ger färskhet, och med krispig gurka och nykokt jasminris blir det en snabb vardagsmiddag med mycket smak. Se Filip Poons recept",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lime fish with hot chilli dressing",
-        "summary": "Today's dinner tip features oven-baked cod with a fresh, salty and hot dressing of lime, fish sauce, garlic and chilli. Coriander adds freshness, and with crispy cucumber and freshly cooked jasmine rice it makes a quick weekday dinner with lots of flavour. See Filip Poon's recipe"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T09:45:58+01:00"
       }
     }
   ]

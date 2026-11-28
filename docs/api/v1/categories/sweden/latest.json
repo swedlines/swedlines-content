@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-11-28T10:45:58+01:00",
+  "generated_at": "2026-11-28T11:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3c13eaf6866a",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80401",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80401&utm_medium=rss",
+      "published_at": "2026-11-28T10:45:52+01:00",
+      "fetched_at": "2026-11-28T11:01:13+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Bil har kört in i skyltfönster i centrala Stockholm"
+      },
+      "en": {
+        "title": "Car has crashed into a shop window in central Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:01:22+01:00"
+      }
+    },
+    {
+      "id": "d44a613a70d1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=51bf9cce-0c8e-4ecc-8ce8-41e86798b33b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=51bf9cce-0c8e-4ecc-8ce8-41e86798b33b",
+      "published_at": "2026-11-28T10:43:54+01:00",
+      "fetched_at": "2026-11-28T11:01:14+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Bil har kört in i skyltfönster",
+        "summary": "Polis och ambulanshelikopter i centrala Stockholm",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Car has crashed into a shop window",
+        "summary": "Police and ambulance helicopter in central Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:01:22+01:00"
+      }
+    },
     {
       "id": "1cff985bc62f",
       "schema_version": 1,
@@ -5456,62 +5505,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T06:31:06+01:00"
-      }
-    },
-    {
-      "id": "3b6816c64ae3",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1CLioCuhcFnhlXjdgUfZgZ/foerskollaerarna-larmar-vi-raecker-inte-till-barngrupperna-svaeller",
-      "guid": "1CLioCuhcFnhlXjdgUfZgZ",
-      "published_at": "2026-11-24T06:09:13+01:00",
-      "fetched_at": "2026-11-24T06:15:48+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "förskola"
-      ],
-      "sv": {
-        "title": "Förskollärarna larmar: Vi räcker inte till – barngrupperna sväller",
-        "summary": "I Sveriges Lärares rapport, titulerad ”Redan i förskolan sviker vi barnen”, svarar nio av tio lärare i förskolan att barn med olika utmaningar och behov blir allt fler. Nästan lika många, åtta av tio, upplever att verksamheten saknar förutsättningar att möta behoven.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Preschool teachers sound the alarm: We can't cope – child groups are swelling",
-        "summary": "In the Swedish Teachers' Union report, titled “Already in preschool we fail the children”, nine in ten preschool teachers say that children with different challenges and needs are becoming ever more numerous. Almost as many, eight in ten, feel the activity lacks the conditions to meet those needs."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T06:16:05+01:00"
-      }
-    },
-    {
-      "id": "b6302543c62f",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/aGwn95/ivo-olampliga-aktorer-stoppas-fran-att-driva-omsorg",
-      "guid": "https://www.aftonbladet.se/nyheter/a/aGwn95/ivo-olampliga-aktorer-stoppas-fran-att-driva-omsorg?utm_medium=rss",
-      "published_at": "2026-11-24T06:00:10+01:00",
-      "fetched_at": "2026-11-24T06:01:16+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/579509c3-2d37-309e-bca9-b04a0772caca?format=auto&s=ce23a6d12828eae49bbf958765d2eabb9f8538d3&w=1000",
-      "sv": {
-        "title": "Ivo: Olämpliga aktörer stoppas från att driva omsorg",
-        "summary": "Nästan en tredjedel av ansökningarna om nya tillstånd inom omsorgen avslås av Inspektionen för vård…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ivo: Unsuitable operators stopped from running care",
-        "summary": "Almost a third of applications for new care permits are rejected by the Health and Social Care Inspectorate (IVO)…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T06:01:24+01:00"
       }
     }
   ]
