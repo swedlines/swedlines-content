@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T05:15:54+01:00",
+  "generated_at": "2026-11-28T05:31:02+01:00",
   "count": 21,
   "stories": [
     {
@@ -418,6 +418,81 @@
           },
           "en": {
             "title": "Here is Kristersson's proposal: \"Cooperation government\" with C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "30a8be31f6dd",
+      "source_count": 3,
+      "sources": [
+        "sr",
+        "aftonbladet",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-28T04:09:00+01:00",
+      "last_published_at": "2026-11-28T05:20:13+01:00",
+      "lead": {
+        "id": "30a8be31f6dd",
+        "schema_version": 1,
+        "source": "sr",
+        "url": "https://www.sverigesradio.se/artikel/9352086",
+        "guid": "rss:sr.se/article/9352086",
+        "published_at": "2026-11-28T04:09:00+01:00",
+        "fetched_at": "2026-11-28T04:15:48+01:00",
+        "category": "world",
+        "sv": {
+          "title": "Åtta döda efter helikopterkrasch i Peru",
+          "summary": "I sydöstra Peru har åtta personer dött när en helikopter med militärpersonal kraschade i en floddal där det förekommer omfattande koka-odling, det meddelar Perus försvarsministerie enligt AFP. Kraschen inträffade efter att helikoptern plockat upp en patrull under ett räddningsuppdrag.",
+          "summary_origin": "truncated"
+        },
+        "en": {
+          "title": "Eight dead after helicopter crash in Peru",
+          "summary": "Eight people have died in south-eastern Peru after a helicopter carrying military personnel crashed in a river valley where extensive coca cultivation takes place, Peru's Ministry of Defence told AFP. The crash occurred after the helicopter had picked up a patrol during a rescue mission."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T04:15:53+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "63333dde3c9e",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2b4df777-a7b3-4445-b628-c4851b31c2be",
+          "published_at": "2026-11-28T05:20:13+01:00",
+          "sv": {
+            "title": "Helikopterkrasch"
+          },
+          "en": {
+            "title": "Helicopter crash"
+          }
+        },
+        {
+          "id": "02ebafb5c803",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/3B9jk0/atta-doda-i-helikopterkrasch",
+          "published_at": "2026-11-28T04:15:34+01:00",
+          "sv": {
+            "title": "Åtta döda i helikopterkrasch"
+          },
+          "en": {
+            "title": "Eight dead in helicopter crash"
+          }
+        },
+        {
+          "id": "30a8be31f6dd",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9352086",
+          "published_at": "2026-11-28T04:09:00+01:00",
+          "sv": {
+            "title": "Åtta döda efter helikopterkrasch i Peru"
+          },
+          "en": {
+            "title": "Eight dead after helicopter crash in Peru"
           }
         }
       ]
@@ -897,68 +972,6 @@
           },
           "en": {
             "title": "Red-greens keep a low profile ahead of the Centre's decisive move"
-          }
-        }
-      ]
-    },
-    {
-      "id": "30a8be31f6dd",
-      "source_count": 2,
-      "sources": [
-        "sr",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-28T04:09:00+01:00",
-      "last_published_at": "2026-11-28T04:15:34+01:00",
-      "lead": {
-        "id": "30a8be31f6dd",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9352086",
-        "guid": "rss:sr.se/article/9352086",
-        "published_at": "2026-11-28T04:09:00+01:00",
-        "fetched_at": "2026-11-28T04:15:48+01:00",
-        "category": "world",
-        "sv": {
-          "title": "Åtta döda efter helikopterkrasch i Peru",
-          "summary": "I sydöstra Peru har åtta personer dött när en helikopter med militärpersonal kraschade i en floddal där det förekommer omfattande koka-odling, det meddelar Perus försvarsministerie enligt AFP. Kraschen inträffade efter att helikoptern plockat upp en patrull under ett räddningsuppdrag.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Eight dead after helicopter crash in Peru",
-          "summary": "Eight people have died in south-eastern Peru after a helicopter carrying military personnel crashed in a river valley where extensive coca cultivation takes place, Peru's Ministry of Defence told AFP. The crash occurred after the helicopter had picked up a patrol during a rescue mission."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-28T04:15:53+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "02ebafb5c803",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/3B9jk0/atta-doda-i-helikopterkrasch",
-          "published_at": "2026-11-28T04:15:34+01:00",
-          "sv": {
-            "title": "Åtta döda i helikopterkrasch"
-          },
-          "en": {
-            "title": "Eight dead in helicopter crash"
-          }
-        },
-        {
-          "id": "30a8be31f6dd",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9352086",
-          "published_at": "2026-11-28T04:09:00+01:00",
-          "sv": {
-            "title": "Åtta döda efter helikopterkrasch i Peru"
-          },
-          "en": {
-            "title": "Eight dead after helicopter crash in Peru"
           }
         }
       ]
