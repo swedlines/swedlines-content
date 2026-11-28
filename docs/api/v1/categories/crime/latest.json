@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T19:01:14+01:00",
+  "generated_at": "2026-11-28T19:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7aed92e2d3fb",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/staffanstorp/schackklubben-var-en-tackmantel-dolde-illegal-poker-for-hoga-belopp",
+      "guid": "67677ca2-b144-4a16-8ba7-7501bee90195",
+      "published_at": "2026-11-28T19:00:00+01:00",
+      "fetched_at": "2026-11-28T19:15:47+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/ded44c22-b6d3-43e0-92c8-c90a1e828b83.png?width=600",
+      "sv": {
+        "title": "”Schackklubben” var en täckmantel – dolde illegal poker för höga belopp",
+        "summary": "Elva pokerspelare och nära 150 000 i kontanter. Polisen hamnade av en slump hos en schackklubb i Staffanstorp där nätterna fylldes av kortspel för höga belopp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Chess club\" was a front – concealed illegal poker for high stakes",
+        "summary": "Eleven poker players and close to 150,000 in cash. By chance, police ended up at a chess club in Staffanstorp where nights were filled with card games for high stakes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T19:15:52+01:00"
+      }
+    },
     {
       "id": "75a4d1986baa",
       "schema_version": 1,
@@ -5352,38 +5379,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T05:45:51+01:00"
-      }
-    },
-    {
-      "id": "5df6ecb3f984",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/debatt/langa-entreprenadkedjor-orsakar-kriminaliteten-i-byggbranschen.cfeef107-7e1f-5f2a-a081-815798529c93",
-      "guid": "cfeef107-7e1f-5f2a-a081-815798529c93",
-      "published_at": "2026-11-24T04:55:00+01:00",
-      "fetched_at": "2026-11-24T05:15:47+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Debatt",
-        "Tagg: Byggbranschen",
-        "Tagg: Företagande"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/8ab6fb18-ee22-3483-afe2-ac2c71ca0a90",
-      "sv": {
-        "title": "Långa entreprenadkedjor orsakar kriminaliteten i byggbranschen",
-        "summary": "Åkerslind blandar ihop två olika saker: att anlita specialister och att stapla underentreprenörer på varandra i långa kedjor, skriver företrädare för Byggnads.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Long contractor chains cause crime in the construction industry",
-        "summary": "Åkerslind confuses two different things: hiring specialists and stacking subcontractors on top of each other in long chains, writes representatives of Byggnads."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T05:16:01+01:00"
       }
     }
   ]
