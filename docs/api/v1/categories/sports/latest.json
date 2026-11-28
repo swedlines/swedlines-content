@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T08:17:08+01:00",
+  "generated_at": "2026-11-28T08:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d42c50fdff87",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/25-svenska-fotbollsmastare-att-minnas",
+      "guid": "https://www.dn.se/sport/25-svenska-fotbollsmastare-att-minnas/",
+      "published_at": "2026-11-28T08:27:44+01:00",
+      "fetched_at": "2026-11-28T08:31:03+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/7c3c962d-41fe-4879-89cd-4fb1b557c71b.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "25 svenska fotbollsmästare att minnas",
+        "summary": "Skandalen i Fässberg, superrysaren 1968 och Häckenspelaren som bjöds in till AIK:s guldfest. Har du koll på historiska svenska mästare inför söndagens allsvenska drama? Här är 25 mästarlag i herrfotboll att minnas.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "25 Swedish football champions to remember",
+        "summary": "The scandal in Fässberg, the superspy of 1968 and the Häckenspelaren who was invited to AIK's gold party. Do you keep track of historical Swedish champions ahead of Sunday's Allsvenskan drama? Here are 25 men's football championship teams to remember."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T08:31:12+01:00"
+      }
+    },
     {
       "id": "151c7f244795",
       "schema_version": 1,
@@ -5604,32 +5631,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T17:45:54+01:00"
-      }
-    },
-    {
-      "id": "179c48e76895",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/fotboll/dijan-vukojevic-ilska-mot-domslutet-solklar-straff",
-      "guid": "https://www.svt.se/sport/fotboll/dijan-vukojevic-ilska-mot-domslutet-solklar-straff",
-      "published_at": "2026-11-21T17:36:21+01:00",
-      "fetched_at": "2026-11-21T18:45:41+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Dijan Vukojevic ilska mot domslutet: ”Solklar straff”",
-        "summary": "Dijan Vukojevic, 31, ville ha straff mot AIK – men fick det inte. – Stryptag av tröjan. Solklar straff, herregud, säger Degerfors-anfallaren till SVT Sport.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dijan Vukojevic's anger at the ruling: \"Clear penalty\"",
-        "summary": "Dijan Vukojevic, 31, wanted a penalty against AIK but did not get one. \"Holding on the jersey. Clear penalty, good grief,\" says the Degerfors forward to SVT Sport."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T18:45:51+01:00"
       }
     }
   ]

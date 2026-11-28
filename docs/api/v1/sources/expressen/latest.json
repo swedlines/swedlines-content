@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T08:17:08+01:00",
+  "generated_at": "2026-11-28T08:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "61b46e2a129e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=cae5baf2-6658-4814-bac3-79bddd0e6f54",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cae5baf2-6658-4814-bac3-79bddd0e6f54",
+      "published_at": "2026-11-28T08:21:46+01:00",
+      "fetched_at": "2026-11-28T08:31:05+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-toppen kallas förrädare",
+        "summary": "Orden från partivännerna • ”Hoppas alla skärper sig”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C-toppen called traitors",
+        "summary": "Words from party colleagues • “Hope everyone sharpens up”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T08:31:12+01:00"
+      }
+    },
     {
       "id": "0070106a37d6",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T07:15:56+01:00"
-      }
-    },
-    {
-      "id": "4fb731b5419c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ace2b927-90e3-4cc6-becd-853c2a124592",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ace2b927-90e3-4cc6-becd-853c2a124592",
-      "published_at": "2026-11-25T06:57:10+01:00",
-      "fetched_at": "2026-11-25T07:01:04+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Trump öppnar för att benåda Huang",
-        "summary": "Öppnar för att benåda Nvidia-vd:n",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump opens to pardoning Huang",
-        "summary": "Opens to pardoning the Nvidia CEO"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T07:01:10+01:00"
       }
     }
   ]
