@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T16:31:08+01:00",
+  "generated_at": "2026-11-28T16:45:54+01:00",
   "count": 30,
   "stories": [
     {
@@ -1240,6 +1240,69 @@
       ]
     },
     {
+      "id": "6287253c05ae",
+      "source_count": 2,
+      "sources": [
+        "sydsvenskan",
+        "dn"
+      ],
+      "first_published_at": "2026-11-28T13:52:30+01:00",
+      "last_published_at": "2026-11-28T16:35:21+01:00",
+      "lead": {
+        "id": "6287253c05ae",
+        "schema_version": 1,
+        "source": "sydsvenskan",
+        "url": "https://www.sydsvenskan.se/sport/svensk-succe-i-stafetten-vinner-i-kontiolax",
+        "guid": "13032592-517d-42b5-9d52-189673e0d47d",
+        "published_at": "2026-11-28T13:52:30+01:00",
+        "fetched_at": "2026-11-28T14:01:11+01:00",
+        "category": "sports",
+        "image_url": "https://static.bonniernews.se/ba/40502a3a-d32a-46b6-93a6-65e9c7be18f1.jpg?width=600",
+        "sv": {
+          "title": "Svensk succé i stafetten – vinner i Kontiolax",
+          "summary": "Sebastian Samuelsson var iskall på skyttevallen när allt skulle avgöras. Tillsammans med Ella Halvarsson tog han hem segern i singelmixedstafetten under skidskyttarnas världscuppremiär i finländska Kontiolax.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Swedish success in relay – wins in Kontiolax",
+          "summary": "Sebastian Samuelsson was ice-cool at the shooting range when everything was on the line. Together with Ella Halvarsson, he took the win in the single mixed relay at the biathletes' World Cup season opener in Kontiolax, Finland."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T14:01:15+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "1e423d900b44",
+          "source": "dn",
+          "url": "https://www.dn.se/sport/tar-tredje-raka-stafettsegern-en-fin-tradition",
+          "published_at": "2026-11-28T16:35:21+01:00",
+          "sv": {
+            "title": "Tar tredje raka stafettsegern: ”En fin tradition”"
+          },
+          "en": {
+            "title": "Takes third straight relay win: \"A nice tradition\""
+          }
+        },
+        {
+          "id": "6287253c05ae",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/svensk-succe-i-stafetten-vinner-i-kontiolax",
+          "published_at": "2026-11-28T13:52:30+01:00",
+          "sv": {
+            "title": "Svensk succé i stafetten – vinner i Kontiolax"
+          },
+          "en": {
+            "title": "Swedish success in relay – wins in Kontiolax"
+          }
+        }
+      ]
+    },
+    {
       "id": "a25a671c23a3",
       "source_count": 2,
       "sources": [
@@ -2175,93 +2238,6 @@
           },
           "en": {
             "title": "Saudi Arabia and the Houthi movement exchange attacks"
-          }
-        }
-      ]
-    },
-    {
-      "id": "ba5857fb1d2d",
-      "source_count": 2,
-      "sources": [
-        "dn",
-        "aftonbladet"
-      ],
-      "first_published_at": "2026-11-27T16:50:15+01:00",
-      "last_published_at": "2026-11-28T05:08:16+01:00",
-      "lead": {
-        "id": "ba5857fb1d2d",
-        "schema_version": 1,
-        "source": "dn",
-        "url": "https://www.dn.se/sverige/rodgrona-ligger-lagt-infor-centerns-odesbeslut",
-        "guid": "https://www.dn.se/sverige/rodgrona-ligger-lagt-infor-centerns-odesbeslut/",
-        "published_at": "2026-11-27T16:50:15+01:00",
-        "fetched_at": "2026-11-27T17:01:13+01:00",
-        "category": "politics",
-        "image_url": "https://static.bonniernews.se/ba/0a9bba9b-496e-4bdf-94fa-1ec82fabcd15.jpeg?io=1&width=1000",
-        "sv": {
-          "title": "Rödgröna ligger lågt inför Centerns ödesbeslut",
-          "summary": "De rödgröna vänsterpartierna ligger tills vidare lågt inför Centerns avgörande beslut i regeringsfrågan. Samtal förs med enskilda centerpartister men inga större framstötar är planerade, erfar DN.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Red-greens keep a low profile ahead of the Centre's decisive move",
-          "summary": "The red-greens and the left parties are for now keeping a low profile ahead of the Centre's decisive decision on the government question. Talks are being held with individual Centre Party members, but no major initiatives are planned, DN learns."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T17:01:22+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "643532efabc2",
-          "source": "dn",
-          "url": "https://www.dn.se/ledare/amanda-sokolnicki-thand-ringqvist-riskerar-att-krossa-det-centerpartiet-har-byggt-upp",
-          "published_at": "2026-11-28T05:08:16+01:00",
-          "sv": {
-            "title": "Amanda Sokolnicki: Thand Ringqvist riskerar att krossa det Centerpartiet har byggt upp"
-          },
-          "en": {
-            "title": "Amanda Sokolnicki: Thand Ringqvist risks destroying what the Centre Party has built up"
-          }
-        },
-        {
-          "id": "39d02b0533ad",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/PvRrw7/manga-vacklar-infor-centerpartiets-fortroenderad",
-          "published_at": "2026-11-27T22:39:04+01:00",
-          "sv": {
-            "title": "59 personer ska rösta om Centerpartiets riktning – många vacklar"
-          },
-          "en": {
-            "title": "59 people to vote on the Centre Party's direction – many wavering"
-          }
-        },
-        {
-          "id": "3c9ccfd7b883",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/kallor-minst-en-tredjedel-av-cs-partistyrelse-ratade-kristersson",
-          "published_at": "2026-11-27T18:18:54+01:00",
-          "sv": {
-            "title": "Rysare väntar vid C:s ödesbeslut: ”Fler kan övertygas”"
-          },
-          "en": {
-            "title": "Thriller awaits Centre's fateful decision: \"More may be persuaded\""
-          }
-        },
-        {
-          "id": "ba5857fb1d2d",
-          "source": "dn",
-          "url": "https://www.dn.se/sverige/rodgrona-ligger-lagt-infor-centerns-odesbeslut",
-          "published_at": "2026-11-27T16:50:15+01:00",
-          "sv": {
-            "title": "Rödgröna ligger lågt inför Centerns ödesbeslut"
-          },
-          "en": {
-            "title": "Red-greens keep a low profile ahead of the Centre's decisive move"
           }
         }
       ]
