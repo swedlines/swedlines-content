@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T09:45:49+01:00",
+  "generated_at": "2026-11-28T10:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4adc3d149429",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/kristersson-om-sd-inte-kommit-overens-om-nagot",
+      "guid": "https://www.expressen.se/nyheter/politik/kristersson-om-sd-inte-kommit-overens-om-nagot/",
+      "published_at": "2026-11-28T09:56:01+01:00",
+      "fetched_at": "2026-11-28T10:01:15+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Kristersson om SD: ”Inte kommit överens om något”",
+        "summary": "En ny borgerlig regering kommer inte byta kurs. Det säger Ulf Kristersson (M) i TV4:s Nyhetsmorgon. – Det är alltså inte så att vi tänker byta riktning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson on SD: \"Haven't agreed on anything\"",
+        "summary": "A new bourgeois government will not change course. That is what Ulf Kristersson (M) says on TV4's Nyhetsmorgon. – So we are not planning to change direction."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T10:01:21+01:00"
+      }
+    },
     {
       "id": "61637f325490",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T08:31:03+01:00"
-      }
-    },
-    {
-      "id": "b837704b8e63",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/magdalena-andersson-om-braken-med-v-for-dumt",
-      "guid": "https://www.expressen.se/nyheter/politik/magdalena-andersson-om-braken-med-v-for-dumt/",
-      "published_at": "2026-11-25T08:13:16+01:00",
-      "fetched_at": "2026-11-25T08:24:26+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Magdalena Andersson om bråken med V: ”För dumt”",
-        "summary": "Magdalena Andersson är inte imponerad av Vänsterpartiets sätt att förhandla om regeringsfrågan. – Det är för dumt, om man inte är beredd att röra sig en millimeter och försöka lösa det här, säger hon i SVT:s ”Morgonstudion”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Magdalena Andersson on the row with the Left Party: \"Too stupid\"",
-        "summary": "Magdalena Andersson is not impressed by the Left Party's way of negotiating the government question. \"It's too stupid, if you're not willing to move an inch and try to solve this,\" she says on SVT's \"Morgonstudion\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T08:24:31+01:00"
       }
     }
   ]

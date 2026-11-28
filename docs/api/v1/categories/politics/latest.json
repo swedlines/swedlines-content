@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T09:45:49+01:00",
+  "generated_at": "2026-11-28T10:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4adc3d149429",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/kristersson-om-sd-inte-kommit-overens-om-nagot",
+      "guid": "https://www.expressen.se/nyheter/politik/kristersson-om-sd-inte-kommit-overens-om-nagot/",
+      "published_at": "2026-11-28T09:56:01+01:00",
+      "fetched_at": "2026-11-28T10:01:15+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Kristersson om SD: ”Inte kommit överens om något”",
+        "summary": "En ny borgerlig regering kommer inte byta kurs. Det säger Ulf Kristersson (M) i TV4:s Nyhetsmorgon. – Det är alltså inte så att vi tänker byta riktning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson on SD: \"Haven't agreed on anything\"",
+        "summary": "A new bourgeois government will not change course. That is what Ulf Kristersson (M) says on TV4's Nyhetsmorgon. – So we are not planning to change direction."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T10:01:21+01:00"
+      }
+    },
     {
       "id": "70275d842fc3",
       "schema_version": 1,
@@ -5394,33 +5420,6 @@
       "en": {
         "title": "Centre Party leadership says yes to Ulf Kristersson",
         "summary": "The Centre Party leadership wants to vote yes to Ulf Kristersson (M) on Monday and join a minority government. Party leader Elisabeth Thand Ringqvist announced this at a press conference. – This is a new course for Sweden, not an extension of the past four years, she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T18:58:22+01:00"
-      }
-    },
-    {
-      "id": "327c75c39597",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/4Eq5GV/splittringen-i-c-kommer-ta-oss-igenom-det-har",
-      "guid": "https://www.aftonbladet.se/nyheter/a/4Eq5GV/splittringen-i-c-kommer-ta-oss-igenom-det-har?utm_medium=rss",
-      "published_at": "2026-11-26T18:47:46+01:00",
-      "fetched_at": "2026-11-26T18:58:14+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/c042dac8-dc52-3f62-91d0-ab421cec29b4?format=auto&s=e73d662e2f5dfe84005e6e68c691c080001ff626&w=1000",
-      "sv": {
-        "title": "Splittringen i C: ”Kommer ta oss igenom det här”",
-        "summary": "Interna reaktionerna – efter beskedet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Split in the Centre Party: \"Will get us through this\"",
-        "summary": "Internal reactions – following the announcement"
       },
       "translation": {
         "status": "done",
