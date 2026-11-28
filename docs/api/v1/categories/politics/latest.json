@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T15:32:53+01:00",
+  "generated_at": "2026-11-28T15:45:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c29601662a94",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/sd-viktigaste-partiet-att-motverka-for-c-valjare",
+      "guid": "https://www.svt.se/nyheter/inrikes/sd-viktigaste-partiet-att-motverka-for-c-valjare",
+      "published_at": "2026-11-28T15:34:07+01:00",
+      "fetched_at": "2026-11-28T15:45:35+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "SD viktigaste partiet att motverka för C-väljare",
+        "summary": "Centerpartiet är det parti där störst andel väljare uppger att de röstade för att motverka andra partier. Nästan alla C-väljare som fick följdfrågan om vilka partier de ville motverka pekade i första hand ut Sverigedemokraterna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "SD the most important party to block for C voters",
+        "summary": "The Centre Party is the party where the largest share of voters say they voted to block other parties. Almost all C voters who were asked a follow-up question about which parties they wanted to block named the Sweden Democrats first and foremost."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T15:45:44+01:00"
+      }
+    },
     {
       "id": "a25a671c23a3",
       "schema_version": 1,
@@ -5373,33 +5399,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T20:45:52+01:00"
-      }
-    },
-    {
-      "id": "c443f24a7847",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/LoAVJR/abortratten-starks-i-sverige-rfsu-en-seger",
-      "guid": "https://www.aftonbladet.se/nyheter/a/LoAVJR/abortratten-starks-i-sverige-rfsu-en-seger?utm_medium=rss",
-      "published_at": "2026-11-26T20:23:11+01:00",
-      "fetched_at": "2026-11-26T20:30:57+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/b7bc6e8e-b12f-3d98-9978-dc0a5db70b7b?format=auto&s=f2b3ef48a412531effced95377509a9005ed44b1&w=1000",
-      "sv": {
-        "title": "Nu blir det lättare att göra abort: ”En seger”",
-        "summary": "Ändringar i lagen",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Now it will be easier to get an abortion: \"A victory\"",
-        "summary": "Changes to the law"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T20:31:03+01:00"
       }
     }
   ]

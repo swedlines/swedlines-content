@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T15:32:53+01:00",
+  "generated_at": "2026-11-28T15:45:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c29601662a94",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/sd-viktigaste-partiet-att-motverka-for-c-valjare",
+      "guid": "https://www.svt.se/nyheter/inrikes/sd-viktigaste-partiet-att-motverka-for-c-valjare",
+      "published_at": "2026-11-28T15:34:07+01:00",
+      "fetched_at": "2026-11-28T15:45:35+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "SD viktigaste partiet att motverka för C-väljare",
+        "summary": "Centerpartiet är det parti där störst andel väljare uppger att de röstade för att motverka andra partier. Nästan alla C-väljare som fick följdfrågan om vilka partier de ville motverka pekade i första hand ut Sverigedemokraterna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "SD the most important party to block for C voters",
+        "summary": "The Centre Party is the party where the largest share of voters say they voted to block other parties. Almost all C voters who were asked a follow-up question about which parties they wanted to block named the Sweden Democrats first and foremost."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T15:45:44+01:00"
+      }
+    },
     {
       "id": "6aee93fd267b",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T09:31:16+01:00"
-      }
-    },
-    {
-      "id": "543a0ce18861",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/fotboll/siriusstjarnan-melker-heier-hyllas-i-en-lat-chock",
-      "guid": "https://www.svt.se/sport/fotboll/siriusstjarnan-melker-heier-hyllas-i-en-lat-chock",
-      "published_at": "2026-11-23T08:56:05+01:00",
-      "fetched_at": "2026-11-23T09:01:17+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Siriusstjärnan Melker Heier hyllas – i en låt: ”Chock”",
-        "summary": "På något sätt är han nu förevigad i Uppsala. Sirius kugge Melker Heier, 25, hyllas i en ny låt. – Det var som en chock, säger han till SVT Sport.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Siriusstjärnan Melker Heier honoured – in a song: \"Chock\"",
-        "summary": "In some way he is now immortalised in Uppsala. Sirius cog Melker Heier, 25, is honoured in a new song. – It was like a shock, he tells SVT Sport."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T09:01:26+01:00"
       }
     }
   ]

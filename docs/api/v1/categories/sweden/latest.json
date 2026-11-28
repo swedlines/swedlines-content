@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T15:32:53+01:00",
+  "generated_at": "2026-11-28T15:45:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "729c1bbbc4f5",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/snart-i-mal-oljesanering-med-stort-hjarta",
+      "guid": "0610f89a-7b18-475b-8e89-ab5dfad2b20d",
+      "published_at": "2026-11-28T15:45:30+01:00",
+      "fetched_at": "2026-11-28T15:45:39+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/6e202ac5-f03f-49f7-8b0a-5a6cc68023bd.jpg?width=600",
+      "sv": {
+        "title": "Snart i mål: Oljesanering med stort hjärta",
+        "summary": "Mer än två mil av Listerlandets kustlinje var indränkt i kletig olja efter färjan Marco Polos dubbla grundstötningar för tre år sedan. 80 000 arbetstimmar senare gör saneringsledarna slutbesiktning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Almost there: Oil cleanup with a big heart",
+        "summary": "More than 20 kilometres of the Listerland coastline was soaked in sticky oil after the ferry Marco Polo ran aground twice three years ago. After 80,000 working hours, the clean-up leaders are carrying out the final inspection."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T15:45:44+01:00"
+      }
+    },
     {
       "id": "b0cf5a0d4eb0",
       "schema_version": 1,
@@ -5463,38 +5490,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T11:46:03+01:00"
-      }
-    },
-    {
-      "id": "405805ddd7f7",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/vastsverige/vasttrafik-byter-ut-alla-biljettlasare-klart-2028.5a3a5cb1-4f0d-5991-999d-2afb16943a50",
-      "guid": "5a3a5cb1-4f0d-5991-999d-2afb16943a50",
-      "published_at": "2026-11-24T09:36:53+01:00",
-      "fetched_at": "2026-11-24T09:45:55+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Västsverige",
-        "Tagg: breaking-GP",
-        "Tagg: Västtrafik"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/8b3fa80b-5821-33da-865f-d099cdb96e00",
-      "sv": {
-        "title": "Västtrafik byter ut alla biljettläsare",
-        "summary": "Då ska abetet vara klart • Bara appbiljetter fungerar – till en början.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Västtrafik replaces all ticket readers",
-        "summary": "The work should be complete by then • Only app tickets work – for now."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T09:46:01+01:00"
       }
     }
   ]
