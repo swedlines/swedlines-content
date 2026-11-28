@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T17:01:15+01:00",
+  "generated_at": "2026-11-28T17:15:56+01:00",
   "count": 200,
   "items": [
     {
@@ -54,6 +54,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T13:28:15+01:00"
+      }
+    },
+    {
+      "id": "a39a0bfd3a77",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7Lo0riDX9i4j4c6FecOQWt/tecknen-som-visar-om-dina-katter-trivs-ihop-expertens-rad",
+      "guid": "7Lo0riDX9i4j4c6FecOQWt",
+      "published_at": "2026-11-28T13:16:13+01:00",
+      "fetched_at": "2026-11-28T17:15:47+01:00",
+      "category": "science_tech",
+      "feed_categories": [
+        "Nyhetsmorgon"
+      ],
+      "sv": {
+        "title": "Ny forskning visar: Det här kan kattens kroppsspråk avslöja",
+        "summary": "Tvättande mellan katter är inte alltid ett tecken på vänskap, menar kattbeteenderådgivaren Susanne Hellman Holmström. Om båda katterna ligger lugnt och tvättar varandra ömsesidigt, speglar kroppsspråket en harmonisk relation.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New research shows: This is what a cat's body language can reveal",
+        "summary": "Grooming between cats is not always a sign of friendship, says cat behaviour consultant Susanne Hellman Holmström. If both cats lie calmly and groom each other mutually, the body language reflects a harmonious relationship."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T17:15:54+01:00"
       }
     },
     {
@@ -5424,33 +5453,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "be4e88974d33",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ekonomi/fortsatta-problem-med-microsofts-molntjanster",
-      "guid": "https://www.dn.se/ekonomi/fortsatta-problem-med-microsofts-molntjanster/",
-      "published_at": "2026-11-13T09:18:35+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/0bb38cfb-2e62-4073-a5c8-f9f1c31427c2.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Fortsatta problem med Microsofts molntjänster",
-        "summary": "Microsofts molnbaserade tjänster med bland annat Outlook och Teams har fortfarande tekniska problem i stora delar av världen. I Sverige ökar felrapporterna i antal kraftigt på morgonen och många kommuner har problem med mejlfunktionen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Continued problems with Microsoft's cloud services",
-        "summary": "Microsoft's cloud-based services, including Outlook and Teams, still have technical problems in large parts of the world. In Sweden the number of error reports rose sharply in the morning and many municipalities have problems with their email."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
       }
     }
   ]
