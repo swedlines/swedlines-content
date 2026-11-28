@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T06:01:22+01:00",
+  "generated_at": "2026-11-28T06:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d1a95eca4dc5",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/tvinga-inte-larare-att-anvanda-ai",
+      "guid": "a015e950-b417-455f-bd2f-49b99ec8ba6c",
+      "published_at": "2026-11-28T06:05:00+01:00",
+      "fetched_at": "2026-11-28T06:15:47+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/f48ca5cd-1d7f-41c7-82d1-820ed34a927a.jpeg?width=600",
+      "sv": {
+        "title": "”Tvinga inte lärare att använda AI.”",
+        "summary": "Löftet om effektivisering får inte bli en trojansk häst, skriver Tullia Jack, biträdande universitetslektor och docent i tjänstevetenskap vid Lunds universitet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Do not force teachers to use AI.”",
+        "summary": "The promise of efficiency must not become a Trojan horse, writes Tullia Jack, associate senior lecturer and docent in service studies at Lund University"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T06:15:51+01:00"
+      }
+    },
     {
       "id": "8f66ed2b95a8",
       "schema_version": 1,
@@ -5481,32 +5508,6 @@
       "en": {
         "title": "105 of 112 people fined had paid for parking: \"Screws people over\"",
         "summary": "SVT Sörmland has examined 112 parking fines issued at a car park in central Eskilstuna. In seven cases there was no ticket of any kind. 105 of the motorists had paid but entered the wrong zone code."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T05:45:51+01:00"
-      }
-    },
-    {
-      "id": "851fbc48c6cf",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/lulea-centralstation-far-ett-ansiktslyft-nar-tagen-tripplas",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/lulea-centralstation-far-ett-ansiktslyft-nar-tagen-tripplas",
-      "published_at": "2026-11-24T05:30:09+01:00",
-      "fetched_at": "2026-11-24T05:45:38+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Luleå centralstation får ett ansiktslyft när tågen tripplas",
-        "summary": "Trafikverket har påbörjat ombyggnaden av Luleås järnvägsstation. Anledningen är de industrisatsningar med mer transporter till Luleå hamn samtidigt som Norrbotniabanan kommer närmare. – Vi behöver möta kraven.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Luleå central station gets a facelift as trains triple",
-        "summary": "The Transport Administration has begun rebuilding Luleå railway station. The reason is industrial expansion with more transport to the Port of Luleå as the Norrbotnia Line draws closer. \"We need to meet the demands.\""
       },
       "translation": {
         "status": "done",
