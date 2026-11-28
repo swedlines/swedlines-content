@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T13:28:18+01:00",
+  "generated_at": "2026-11-28T13:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eb67dbb759a6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/ekonomen-tillfallig-dipp-i-bundna-borantor",
+      "guid": "e5b6860a-7839-4401-b2d8-cec57b9f5094",
+      "published_at": "2026-11-28T13:22:05+01:00",
+      "fetched_at": "2026-11-28T13:31:01+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/058b9e5f-9b3e-4c0b-a4a0-f7dbf8ca3c95.jpeg?width=600",
+      "sv": {
+        "title": "Ekonomen: Tillfällig dipp i bundna boräntor",
+        "summary": "Flera banker har sänkt räntan för bundna bolån – men förändringen ses som kortsiktig. ”Hushållen bör utgå från att räntorna snarare är på väg uppåt än nedåt”, säger Nordeas chefsekonom Annika Winsth. Så mycket kommer boräntorna att stiga, enligt banken.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Economist: Temporary dip in fixed mortgage rates",
+        "summary": "Several banks have cut rates on fixed-rate mortgages – but the change is seen as short-term. “Households should assume that rates are more likely to rise than fall,” says Nordea chief economist Annika Winsth. This is how much mortgage rates will rise, according to the bank."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:31:04+01:00"
+      }
+    },
     {
       "id": "fcc63bb90762",
       "schema_version": 1,
@@ -5292,33 +5319,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T16:45:56+01:00"
-      }
-    },
-    {
-      "id": "24de5b21c0ee",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/novemberdepp-efter-oktoberfest",
-      "guid": "f0417469-50cb-4603-a5d0-a643811539f5",
-      "published_at": "2026-11-26T16:21:49+01:00",
-      "fetched_at": "2026-11-26T16:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3aebe7c7-22df-461c-8280-50107c0795dd.jpeg?width=600",
-      "sv": {
-        "title": "Novemberdepp efter oktoberfest",
-        "summary": "Kronan stärktes kraftigt i oktober. Under november har hela rörelsen gått tillbaka och den svenska valuta är åter på den svagaste nivån sedan mars 2025. En ny omsvängning i synen på Federal Reserve är den viktigaste orsaken.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "November gloom after October fest",
-        "summary": "The krona strengthened sharply in October. During November the whole movement has reversed, and the Swedish currency is again at its weakest level since March 2025. A new shift in views on the Federal Reserve is the most important cause."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T16:31:09+01:00"
       }
     }
   ]
