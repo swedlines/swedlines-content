@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T09:15:48+01:00",
+  "generated_at": "2026-11-28T09:26:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "110ab91f0678",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/0vKEL0/c-topp-kallas-forradare-och-fascistkramare",
+      "guid": "https://www.aftonbladet.se/nyheter/a/0vKEL0/c-topp-kallas-forradare-och-fascistkramare?utm_medium=rss",
+      "published_at": "2026-11-28T09:18:49+01:00",
+      "fetched_at": "2026-11-28T09:25:58+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/86e5f150-fb5f-3c99-971b-c2e2c33dbd6c?format=auto&s=af514a3f94afe987b2219d4ca84ba799cc49368d&w=1000",
+      "sv": {
+        "title": "C-topp: Kallas förrädare och fascistkramare",
+        "summary": "Centerns migrationspolitiske talesperson Niels Paarup-Petersen säger ifrån efter att han ska ha…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C-topp: Called traitor and fascist-hugger",
+        "summary": "The Centre Party's migration policy spokesperson Niels Paarup-Petersen speaks out after he was allegedly called a traitor and fascist-hugger by his own party colleagues…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T09:26:04+01:00"
+      }
+    },
     {
       "id": "9446c8e7a22c",
       "schema_version": 1,
@@ -5343,32 +5370,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T12:31:13+01:00"
-      }
-    },
-    {
-      "id": "2db785a4a631",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Jno0J7/puigdemont-atervander-till-katalonien",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Jno0J7/puigdemont-atervander-till-katalonien?utm_medium=rss",
-      "published_at": "2026-11-25T11:27:27+01:00",
-      "fetched_at": "2026-11-25T11:31:08+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Puigdemont återvänder till Katalonien",
-        "summary": "Den katalanske separatistledaren Carles Puigdemont meddelar att han kommer att återvända till…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Puigdemont returns to Catalonia",
-        "summary": "Catalan separatist leader Carles Puigdemont announces that he will return to…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T11:31:23+01:00"
       }
     }
   ]

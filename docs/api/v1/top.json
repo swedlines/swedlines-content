@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T09:15:48+01:00",
+  "generated_at": "2026-11-28T09:26:06+01:00",
   "count": 15,
   "stories": [
     {
@@ -220,6 +220,170 @@
       ]
     },
     {
+      "id": "3b6158982f86",
+      "source_count": 4,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "expressen",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-28T06:00:09+01:00",
+      "last_published_at": "2026-11-28T09:17:19+01:00",
+      "lead": {
+        "id": "3b6158982f86",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/JnJ1J4/who-varnar-for-vaccinationsglapp-inte-i-mal",
+        "guid": "https://www.aftonbladet.se/nyheter/a/JnJ1J4/who-varnar-for-vaccinationsglapp-inte-i-mal?utm_medium=rss",
+        "published_at": "2026-11-28T06:00:09+01:00",
+        "fetched_at": "2026-11-28T06:01:09+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/d5024e1e-80fc-3f4a-8348-a91e8a320ec7?format=auto&s=1cabbec501e54dbf9db14b71f21a87cf70ddc231&w=1000",
+        "sv": {
+          "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”",
+          "summary": "Färre personer än någonsin dör till följd av mässlingen. Men vaccinationsgraden är ojämn, vilket…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "WHO warns of vaccination gaps: \"Not on track\"",
+          "summary": "Fewer people than ever are dying from measles. But vaccination coverage is uneven, which…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T06:01:20+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "427a22dc7d05",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/who-varnar-for-vaccinationsglapp-inte-i-mal",
+          "published_at": "2026-11-28T09:17:19+01:00",
+          "sv": {
+            "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”"
+          },
+          "en": {
+            "title": "WHO warns of vaccination gaps: \"Not on target\""
+          }
+        },
+        {
+          "id": "4a0dc300cc80",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/who-varnar-for-vaccinationsglapp-inte-i-mal",
+          "published_at": "2026-11-28T06:28:37+01:00",
+          "sv": {
+            "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”"
+          },
+          "en": {
+            "title": "WHO warns of vaccination gaps: “Not on track”"
+          }
+        },
+        {
+          "id": "a1376f65dba6",
+          "source": "svd",
+          "url": "https://www.svd.se/a/z0gLg1/who-varnar-for-vaccinationsglapp-inte-i-mal",
+          "published_at": "2026-11-28T06:00:10+01:00",
+          "sv": {
+            "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”"
+          },
+          "en": {
+            "title": "WHO warns of vaccination gaps: \"Not on track\""
+          }
+        },
+        {
+          "id": "3b6158982f86",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/JnJ1J4/who-varnar-for-vaccinationsglapp-inte-i-mal",
+          "published_at": "2026-11-28T06:00:09+01:00",
+          "sv": {
+            "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”"
+          },
+          "en": {
+            "title": "WHO warns of vaccination gaps: \"Not on track\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "5b79745632d1",
+      "source_count": 3,
+      "sources": [
+        "expressen",
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-28T08:41:20+01:00",
+      "last_published_at": "2026-11-28T09:23:26+01:00",
+      "lead": {
+        "id": "5b79745632d1",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/politik/paarup-petersen-jag-har-kallats-fascistkramare",
+        "guid": "https://www.expressen.se/nyheter/politik/paarup-petersen-jag-har-kallats-fascistkramare/",
+        "published_at": "2026-11-28T08:41:20+01:00",
+        "fetched_at": "2026-11-28T08:45:45+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Paarup-Petersen: Jag har kallats fascistkramare",
+          "summary": "Niels Paarup-Petersen vill rösta ja till Ulf Kristersson på måndag. Nu berättar han att han kallats fascistkramare – av partivänner. ”Så jag hoppas att alla skärper sig lite och kommer ihåg att vi är partivänner. Inte fiender”, skriver han i ett Facebook-inlägg.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Paarup-Petersen: I have been called a fascist hugger",
+          "summary": "Niels Paarup-Petersen wants to vote yes to Ulf Kristersson (M) on Monday. Now he reveals that he has been called a fascist hugger – by party colleagues. \"So I hope everyone tones it down a little and remembers that we are party colleagues. Not enemies\", he writes in a Facebook post."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T08:45:50+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "70275d842fc3",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/c-topp-kallas-forradare-och-fascistkramare",
+          "published_at": "2026-11-28T09:23:26+01:00",
+          "sv": {
+            "title": "C-topp: Kallas förrädare och fascistkramare"
+          },
+          "en": {
+            "title": "C-topp: Called traitor and fascist-hugger"
+          }
+        },
+        {
+          "id": "110ab91f0678",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/0vKEL0/c-topp-kallas-forradare-och-fascistkramare",
+          "published_at": "2026-11-28T09:18:49+01:00",
+          "sv": {
+            "title": "C-topp: Kallas förrädare och fascistkramare"
+          },
+          "en": {
+            "title": "C-topp: Called traitor and fascist-hugger"
+          }
+        },
+        {
+          "id": "5b79745632d1",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/paarup-petersen-jag-har-kallats-fascistkramare",
+          "published_at": "2026-11-28T08:41:20+01:00",
+          "sv": {
+            "title": "Paarup-Petersen: Jag har kallats fascistkramare"
+          },
+          "en": {
+            "title": "Paarup-Petersen: I have been called a fascist hugger"
+          }
+        }
+      ]
+    },
+    {
       "id": "9446c8e7a22c",
       "source_count": 3,
       "sources": [
@@ -367,82 +531,6 @@
           },
           "en": {
             "title": "Choosing Sánchez – to protect his son's rights"
-          }
-        }
-      ]
-    },
-    {
-      "id": "3b6158982f86",
-      "source_count": 3,
-      "sources": [
-        "aftonbladet",
-        "svd",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-28T06:00:09+01:00",
-      "last_published_at": "2026-11-28T06:28:37+01:00",
-      "lead": {
-        "id": "3b6158982f86",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/JnJ1J4/who-varnar-for-vaccinationsglapp-inte-i-mal",
-        "guid": "https://www.aftonbladet.se/nyheter/a/JnJ1J4/who-varnar-for-vaccinationsglapp-inte-i-mal?utm_medium=rss",
-        "published_at": "2026-11-28T06:00:09+01:00",
-        "fetched_at": "2026-11-28T06:01:09+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/d5024e1e-80fc-3f4a-8348-a91e8a320ec7?format=auto&s=1cabbec501e54dbf9db14b71f21a87cf70ddc231&w=1000",
-        "sv": {
-          "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”",
-          "summary": "Färre personer än någonsin dör till följd av mässlingen. Men vaccinationsgraden är ojämn, vilket…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "WHO warns of vaccination gaps: \"Not on track\"",
-          "summary": "Fewer people than ever are dying from measles. But vaccination coverage is uneven, which…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-28T06:01:20+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "4a0dc300cc80",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/who-varnar-for-vaccinationsglapp-inte-i-mal",
-          "published_at": "2026-11-28T06:28:37+01:00",
-          "sv": {
-            "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”"
-          },
-          "en": {
-            "title": "WHO warns of vaccination gaps: “Not on track”"
-          }
-        },
-        {
-          "id": "a1376f65dba6",
-          "source": "svd",
-          "url": "https://www.svd.se/a/z0gLg1/who-varnar-for-vaccinationsglapp-inte-i-mal",
-          "published_at": "2026-11-28T06:00:10+01:00",
-          "sv": {
-            "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”"
-          },
-          "en": {
-            "title": "WHO warns of vaccination gaps: \"Not on track\""
-          }
-        },
-        {
-          "id": "3b6158982f86",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/JnJ1J4/who-varnar-for-vaccinationsglapp-inte-i-mal",
-          "published_at": "2026-11-28T06:00:09+01:00",
-          "sv": {
-            "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”"
-          },
-          "en": {
-            "title": "WHO warns of vaccination gaps: \"Not on track\""
           }
         }
       ]
@@ -1058,68 +1146,6 @@
           },
           "en": {
             "title": "Sweden's World Cup dream lives on – after a thriller"
-          }
-        }
-      ]
-    },
-    {
-      "id": "9aef08755ef0",
-      "source_count": 2,
-      "sources": [
-        "sr",
-        "expressen"
-      ],
-      "first_published_at": "2026-11-27T20:27:00+01:00",
-      "last_published_at": "2026-11-27T21:19:50+01:00",
-      "lead": {
-        "id": "9aef08755ef0",
-        "schema_version": 1,
-        "source": "sr",
-        "url": "https://www.sverigesradio.se/artikel/9352005",
-        "guid": "rss:sr.se/article/9352005",
-        "published_at": "2026-11-27T20:27:00+01:00",
-        "fetched_at": "2026-11-27T20:30:58+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "Flera ledamöter tänker trotsa Thand Ringqvist",
-          "summary": "In i det sista är det oklart hur regeringsbildningen kommer sluta. På söndag möts Centerpartiets förtroenderåd och Ekots rundringning visar att flera av ledamöterna kommer att rösta emot partilinjen.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Several members plan to defy Thand Ringqvist",
-          "summary": "Right up to the end it is unclear how the government formation will end. On Sunday the Centre Party's confidence council meets, and Ekot's round of calls shows that several of the members will vote against the party line."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T20:31:05+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "c101844093ac",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=1031fdb6-73d5-4137-9f1e-a55111a4746e",
-          "published_at": "2026-11-27T21:19:50+01:00",
-          "sv": {
-            "title": "Elisabeth Thand Ringqvist avgår om det blir nej"
-          },
-          "en": {
-            "title": "Elisabeth Thand Ringqvist to resign if the answer is no"
-          }
-        },
-        {
-          "id": "9aef08755ef0",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9352005",
-          "published_at": "2026-11-27T20:27:00+01:00",
-          "sv": {
-            "title": "Flera ledamöter tänker trotsa Thand Ringqvist"
-          },
-          "en": {
-            "title": "Several members plan to defy Thand Ringqvist"
           }
         }
       ]

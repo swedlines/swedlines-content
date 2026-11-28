@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T09:15:48+01:00",
+  "generated_at": "2026-11-28T09:26:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6112c44291a3",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/linn-svahn-snabbast-i-sprintkvalet",
+      "guid": "17f06294-aeb4-443e-951d-61ef736610be",
+      "published_at": "2026-11-28T09:18:47+01:00",
+      "fetched_at": "2026-11-28T09:26:00+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/6d48be58-39a1-4650-a41b-68cf486162b1.jpg?width=600",
+      "sv": {
+        "title": "Linn Svahn snabbast i sprintkvalet",
+        "summary": "Linn Svahn var snabbast i kvalet i världscupens sprintpremiär i finländska Ruka.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Linn Svahn fastest in sprint qualifier",
+        "summary": "Linn Svahn was fastest in the qualifier for the World Cup sprint season opener in Ruka, Finland."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T09:26:04+01:00"
+      }
+    },
     {
       "id": "d42c50fdff87",
       "schema_version": 1,
@@ -5605,32 +5632,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "abffc7c6144c",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/se-hojdpunkterna-fran-mjallby-mff",
-      "guid": "791d929c-92b8-4d69-bc95-1ec47171c852",
-      "published_at": "2026-11-21T17:41:44+01:00",
-      "fetched_at": "2026-11-21T17:45:47+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Se höjdpunkterna från Mjällby–MFF",
-        "summary": "Malmö FF knep en poäng på Listerlandet på lördagen. Här kan du se höjdpunkterna från matchen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Watch the highlights from Mjällby–MFF",
-        "summary": "Malmö FF snatched a point on Listerlandet on Saturday. Here you can watch the highlights from the match."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T17:45:54+01:00"
       }
     }
   ]

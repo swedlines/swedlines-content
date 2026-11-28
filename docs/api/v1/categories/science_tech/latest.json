@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T09:15:48+01:00",
+  "generated_at": "2026-11-28T09:26:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "427a22dc7d05",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/who-varnar-for-vaccinationsglapp-inte-i-mal",
+      "guid": "a320a42f-b722-4435-a47c-32028f87d7dc",
+      "published_at": "2026-11-28T09:17:19+01:00",
+      "fetched_at": "2026-11-28T09:26:00+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/8b210ebd-7d53-45b8-a8b3-495e7bb865a1.jpg?width=600",
+      "sv": {
+        "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”",
+        "summary": "Färre personer än någonsin dör till följd av mässlingen. Men vaccinationsgraden är ojämn, vilket hindrar en utrotning av sjukdomen, varnar Världshälsorganisationen (WHO) i en ny rapport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "WHO warns of vaccination gaps: \"Not on target\"",
+        "summary": "Fewer people than ever are dying from measles. But vaccination coverage is uneven, which is preventing eradication of the disease, the World Health Organization (WHO) warns in a new report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T09:26:04+01:00"
+      }
+    },
     {
       "id": "4a0dc300cc80",
       "schema_version": 1,
@@ -5416,32 +5443,6 @@
       "en": {
         "title": "Mighty light phenomenon filmed in Njurunda – seen over half of Sweden",
         "summary": "Anette Sjöbom in Njurunda wanted to keep an eye on the horses on the farm and put up surveillance cameras. The horses are fine, and the other day the camera also managed to capture a light phenomenon that was seen over half of Sweden. And Norway."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "d4d6b6c87c6e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/unik-oringlek-i-locknesjon-fangad-pa-bild",
-      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/unik-oringlek-i-locknesjon-fangad-pa-bild",
-      "published_at": "2026-11-12T05:30:07+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Unik öringlek i Locknesjön fångad på bild",
-        "summary": "I Locknesjön, ett par mil utanför Östersund, har länsstyrelsen under en dryg månad haft undervattenskameror utplacerade för att försöka dokumentera en ovanlig öringlek. Och man tror att man lyckats.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unique trout spawning in Locknesjön captured on camera",
-        "summary": "In Locknesjön, a couple of dozen kilometres outside Östersund, the county administrative board has had underwater cameras in place for just over a month to try to document an unusual trout spawning. And they believe they have succeeded."
       },
       "translation": {
         "status": "done",
