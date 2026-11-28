@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T11:31:09+01:00",
+  "generated_at": "2026-11-28T11:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4a05e8c90e81",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/bil-har-kort-in-i-butik-pa-ostermalm-en-till-sjukhus",
+      "guid": "https://www.expressen.se/nyheter/sverige/bil-har-kort-in-i-butik-pa-ostermalm-en-till-sjukhus/",
+      "published_at": "2026-11-28T11:37:45+01:00",
+      "fetched_at": "2026-11-28T11:45:44+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Bil har kört in i butik på Östermalm – en till sjukhus",
+        "summary": "En bil har kört in i ett skyltfönster på en möbelbutik på Östermalm. Minst en person har förts till sjukhus. – Det small till som fan och massvis med bildelar flög upp i luften och folk skrek, säger Henrik Paninder, som jobbar på butiken.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Car drives into shop on Östermalm – another taken to hospital",
+        "summary": "A car has driven into a display window of a furniture shop on Östermalm. At least one person has been taken to hospital. \"It went off like hell and loads of car parts flew up into the air and people screamed,\" says Henrik Paninder, who works at the shop."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:45:49+01:00"
+      }
+    },
     {
       "id": "03c21cadf78d",
       "schema_version": 1,
@@ -81,6 +107,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T11:29:11+01:00"
+      }
+    },
+    {
+      "id": "a8b9fe6dc7d9",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/M53gam/bil-har-kort-in-i-fasad-i-centrala-stockholm",
+      "guid": "https://www.aftonbladet.se/nyheter/a/M53gam/bil-har-kort-in-i-fasad-i-centrala-stockholm?utm_medium=rss",
+      "published_at": "2026-11-28T10:50:18+01:00",
+      "fetched_at": "2026-11-28T11:45:43+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/17ccc89e-123a-3b48-a68d-5bfee2af2f96?format=auto&s=86f2c1c6abc9fc4ce49bf20853afe04809af8e41&w=1000",
+      "sv": {
+        "title": "Sportbil kraschat in i vägg",
+        "summary": "Krock mitt i stan",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sports car crashed into wall",
+        "summary": "Crash in the middle of town"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:45:49+01:00"
       }
     },
     {
@@ -5443,58 +5496,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T09:15:57+01:00"
-      }
-    },
-    {
-      "id": "ec94585e7f47",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-pa-sagverk-i-brattby",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/brand-pa-sagverk-i-brattby",
-      "published_at": "2026-11-24T08:54:47+01:00",
-      "fetched_at": "2026-11-24T09:01:07+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Fullt utvecklad brand på sågverk utanför Umeå",
-        "summary": "Räddningstjänsten har larmats till en fullt utvecklad brand på Brattby sågverk. Enligt Räddningssamverkan Nord syns lågor komma ut genom tak och fönster.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fully developed fire at sawmill outside Umeå",
-        "summary": "The rescue service has been alerted to a fully developed fire at Brattby sawmill. According to Räddningssamverkan Nord, flames can be seen coming out through the roof and windows."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T09:01:17+01:00"
-      }
-    },
-    {
-      "id": "f99ff749c8a2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7035a9f3-0b2c-4121-8f27-70aad18e270f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7035a9f3-0b2c-4121-8f27-70aad18e270f",
-      "published_at": "2026-11-24T08:02:58+01:00",
-      "fetched_at": "2026-11-24T08:15:46+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Häst har frusit fast",
-        "summary": "Räddningstjänsten på plats på åker",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Horse has frozen fast",
-        "summary": "Rescue service on site at field"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T08:15:52+01:00"
       }
     }
   ]

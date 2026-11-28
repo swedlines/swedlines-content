@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T11:31:09+01:00",
+  "generated_at": "2026-11-28T11:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4a05e8c90e81",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/bil-har-kort-in-i-butik-pa-ostermalm-en-till-sjukhus",
+      "guid": "https://www.expressen.se/nyheter/sverige/bil-har-kort-in-i-butik-pa-ostermalm-en-till-sjukhus/",
+      "published_at": "2026-11-28T11:37:45+01:00",
+      "fetched_at": "2026-11-28T11:45:44+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Bil har kört in i butik på Östermalm – en till sjukhus",
+        "summary": "En bil har kört in i ett skyltfönster på en möbelbutik på Östermalm. Minst en person har förts till sjukhus. – Det small till som fan och massvis med bildelar flög upp i luften och folk skrek, säger Henrik Paninder, som jobbar på butiken.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Car drives into shop on Östermalm – another taken to hospital",
+        "summary": "A car has driven into a display window of a furniture shop on Östermalm. At least one person has been taken to hospital. \"It went off like hell and loads of car parts flew up into the air and people screamed,\" says Henrik Paninder, who works at the shop."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:45:49+01:00"
+      }
+    },
     {
       "id": "03c21cadf78d",
       "schema_version": 1,
@@ -108,6 +134,40 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T11:29:11+01:00"
+      }
+    },
+    {
+      "id": "0c1d63c42c88",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/scen/recension-vd-pa-goteborgs-stadsteater.61e9bf24-e4a9-5628-9d73-8be7ad427f9c",
+      "guid": "61e9bf24-e4a9-5628-9d73-8be7ad427f9c",
+      "published_at": "2026-11-28T11:23:21+01:00",
+      "fetched_at": "2026-11-28T11:45:45+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Scen",
+        "Tagg: Recension",
+        "Tagg: Göteborgs stadsteater",
+        "Tagg: Scen",
+        "Tagg: Stig Larsson"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/abc768c6-c71c-3320-80f9-1b22ea7ba2ce",
+      "sv": {
+        "title": "I ”VD” våldgästar chefen sina anställda",
+        "summary": "Mikaela Pejković ser en välspelad och rolig ”VD” på Göteborgs stadsteater.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "In \"VD\" the boss visits his employees",
+        "summary": "Mikaela Pejković sees a well-acted and funny \"VD\" at Göteborg City Theatre."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:45:49+01:00"
       }
     },
     {
@@ -615,6 +675,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T11:01:22+01:00"
+      }
+    },
+    {
+      "id": "a8b9fe6dc7d9",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/M53gam/bil-har-kort-in-i-fasad-i-centrala-stockholm",
+      "guid": "https://www.aftonbladet.se/nyheter/a/M53gam/bil-har-kort-in-i-fasad-i-centrala-stockholm?utm_medium=rss",
+      "published_at": "2026-11-28T10:50:18+01:00",
+      "fetched_at": "2026-11-28T11:45:43+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/17ccc89e-123a-3b48-a68d-5bfee2af2f96?format=auto&s=86f2c1c6abc9fc4ce49bf20853afe04809af8e41&w=1000",
+      "sv": {
+        "title": "Sportbil kraschat in i vägg",
+        "summary": "Krock mitt i stan",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sports car crashed into wall",
+        "summary": "Crash in the middle of town"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:45:49+01:00"
       }
     },
     {
@@ -5407,86 +5494,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T21:01:19+01:00"
-      }
-    },
-    {
-      "id": "3c92d7c25f62",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/fondbolagen-sagar-matt-som-visar-kostnadsbomb-forsvarar",
-      "guid": "e4f468f6-6416-4b98-bc0b-f408b0f68e6b",
-      "published_at": "2026-11-27T20:31:14+01:00",
-      "fetched_at": "2026-11-27T20:36:59+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/9e4ef73f-d166-4ef9-a334-cebf866107fe.jpeg?width=600",
-      "sv": {
-        "title": "Fondbolagen sågar mått som visar kostnadsbomb: ”Försvårar”",
-        "summary": "Populära avgiftsmått på fondmarknaden gömmer en potentiell kostnadsbomb som kan äta upp avkastningen. ”Det kan gröpa ur sparandet rejält på sikt”, säger Aktiespararnas chefsjurist Sverre Linton. Fondbolagen själva tycker däremot att totalmåtten på avgifter ”försvårar jämförelser”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fund companies slam metric showing cost bomb: \"Makes it harder\"",
-        "summary": "Popular fee metrics in the fund market hide a potential cost bomb that could eat up returns. \"It can seriously erode savings over time,\" says Aktiespararna's chief legal counsel Sverre Linton. The fund companies themselves, however, think the total fee metrics \"make comparisons harder.\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T20:37:03+01:00"
-      }
-    },
-    {
-      "id": "58d02846bf21",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/har-ar-svensken-som-vi-helst-vill-fira-jul-med",
-      "guid": "https://www.expressen.se/nyheter/sverige/har-ar-svensken-som-vi-helst-vill-fira-jul-med/",
-      "published_at": "2026-11-27T20:29:25+01:00",
-      "fetched_at": "2026-11-27T20:36:59+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Här är svensken som vi helst vill fira jul med",
-        "summary": "Siw Malmkvist kom på tredje plats, Messiah Hallberg på andra. Men när svenskarna utser personen man helst firar jul med vinner talmannen Anderas Norlén, visar Livsmedelsföretagens undersökning. – Jag är glad och hedrad, säger talmannen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here is the Swede we would most like to spend Christmas with",
-        "summary": "Siw Malmkvist came third, Messiah Hallberg second. But when Swedes choose the person they would most like to spend Christmas with, Speaker of the Riksdag Andreas Norlén wins, according to a survey by Livsmedelsföretagen. \"I am glad and honoured,\" says the Speaker."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T20:37:03+01:00"
-      }
-    },
-    {
-      "id": "9c936967b9a4",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/karl-dalen-darfor-flortar-trump-med-de-demokratiska-stjarnskotten",
-      "guid": "https://www.dn.se/varlden/karl-dalen-darfor-flortar-trump-med-de-demokratiska-stjarnskotten/",
-      "published_at": "2026-11-27T20:27:48+01:00",
-      "fetched_at": "2026-11-27T20:30:59+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/aaca1315-e583-4cc4-ab59-246dffd4fdd9.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Karl Dalén: Därför flörtar Trump med de demokratiska stjärnskotten",
-        "summary": "WASHINGTON. ”Fantastisk”, ”smart kille” och ”riktigt trevlig”. Donald Trump har öst beröm över demokrater efter partiets framgångar i mellanårsvalet. Presidentens beteende har förvånat många, men går i linje med några av hans karaktärsdrag.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Karl Dalén: This is why Trump is flirting with the Democratic stars",
-        "summary": "WASHINGTON. \"Fantastic\", \"smart guy\" and \"really nice\". Donald Trump has showered praise on Democrats after the party's successes in the midterm elections. The president's behaviour has surprised many, but is in line with some of his character traits."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T20:31:05+01:00"
       }
     }
   ]
