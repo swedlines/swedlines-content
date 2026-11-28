@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T18:25:31+01:00",
+  "generated_at": "2026-11-28T18:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b1775d54661b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/lucia-kront-och-traden-tanda-nu-saknas-bara-toarullarna",
+      "guid": "6d1e2329-0c70-4a80-b583-fbe5d75cf654",
+      "published_at": "2026-11-28T18:30:00+01:00",
+      "fetched_at": "2026-11-28T18:31:02+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/696b74aa-c818-4ca4-97e1-55fdd71a8e6c.jpeg?width=600",
+      "sv": {
+        "title": "Lucia krönt och träden tända – nu saknas bara toarullarna",
+        "summary": "Vad krävs för att julkänslan ska infinna sig hos dig? Kanske en luciakröning och tända ljusslingor i träden på Gustav Adolfs torg. Det tycker i alla fall Martin Mantarro och Tilda Ahlbeck om känslan i Malmö – men i hemmet är det något annat som kickar igång julen för dem.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lucia crowned and trees lit up – now only the toilet rolls are missing",
+        "summary": "What does it take for the Christmas spirit to kick in for you? Perhaps a Lucia crowning and lights strung in the trees at Gustav Adolfs torg. Martin Mantarro and Tilda Ahlbeck think so, at least, about the feeling in Malmö – but at home it is something else that gets Christmas going for them."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T18:31:06+01:00"
+      }
+    },
     {
       "id": "182d62cdfadc",
       "schema_version": 1,
@@ -5504,33 +5531,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T21:01:20+01:00"
-      }
-    },
-    {
-      "id": "ccd6860fe77d",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-18-november-4",
-      "guid": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-18-november-4/",
-      "published_at": "2026-11-18T20:27:36+01:00",
-      "fetched_at": "2026-11-18T20:31:00+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/44bd10db-2d52-4495-902b-b114fe0ccc21.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Noterat av DN:s läsare den 18 november",
-        "summary": "INSÄNDARE. Dagens Nyheters läsare ger sin syn på läget i Sverige och världen samt DN:s innehåll onsdagen den 19 november.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Insändare. Noterat av DN:s läsare den 18 november",
-        "summary": "Letter. Noted by DN's readers on 18 November: Dagens Nyheter readers give their views on the situation in Sweden and the world, and on DN's content on Wednesday 19 November."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T20:31:09+01:00"
       }
     }
   ]

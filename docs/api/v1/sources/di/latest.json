@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T18:25:31+01:00",
+  "generated_at": "2026-11-28T18:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "26e5ec049e4a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/netanyahus-drag-roterande-ledare-i-israel",
+      "guid": "465e32d2-f765-4ed0-a322-383d0c75bd85",
+      "published_at": "2026-11-28T18:22:45+01:00",
+      "fetched_at": "2026-11-28T18:31:01+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/849e1889-eed7-4dcb-876b-3599dfd42b80.jpg?width=600",
+      "sv": {
+        "title": "Netanyahus drag: Roterande ledare i Israel",
+        "summary": "Benjamin Netanyahu vill se ett roterande styre i Israel, där han och den politiske motståndaren Gadi Eisenkot skulle rotera på premiärministerposten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Netanyahu's move: rotating leadership in Israel",
+        "summary": "Benjamin Netanyahu wants to see rotating rule in Israel, in which he and political rival Gadi Eisenkot would rotate the post of prime minister."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T18:31:06+01:00"
+      }
+    },
     {
       "id": "21e0054d477b",
       "schema_version": 1,
@@ -5300,33 +5327,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T18:01:20+01:00"
-      }
-    },
-    {
-      "id": "d7de9076e1e7",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/gladjeskutt-pa-borsen-fastighetsbolag-gick-starkt",
-      "guid": "8b50212b-658e-40d8-8a5b-94ae1b50743a",
-      "published_at": "2026-11-26T17:42:57+01:00",
-      "fetched_at": "2026-11-26T17:45:47+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c10f0a5f-e40d-4080-86cf-a76c9a92348b.jpeg?width=600",
-      "sv": {
-        "title": "Glädjeskutt på börsen – fastighetsbolag gick starkt",
-        "summary": "Stockholmsbörsen studsade upp kraftigt med ett nära helgrönt OMXS30, efter den senaste tidens AI-frossa. ”De europeiska marknaderna försöker återhämta sig”, säger Capital.com-analytikern Daniela Hathorn till CNBC.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stocks jump – property companies strong",
-        "summary": "The Stockholm Stock Exchange rebounded sharply, with the OMXS30 nearly flat, after recent AI jitters. \"The European markets are trying to recover,\" says Capital.com analyst Daniela Hathorn to CNBC."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T17:45:53+01:00"
       }
     }
   ]

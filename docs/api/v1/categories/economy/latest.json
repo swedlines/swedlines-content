@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T18:25:31+01:00",
+  "generated_at": "2026-11-28T18:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "26e5ec049e4a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/netanyahus-drag-roterande-ledare-i-israel",
+      "guid": "465e32d2-f765-4ed0-a322-383d0c75bd85",
+      "published_at": "2026-11-28T18:22:45+01:00",
+      "fetched_at": "2026-11-28T18:31:01+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/849e1889-eed7-4dcb-876b-3599dfd42b80.jpg?width=600",
+      "sv": {
+        "title": "Netanyahus drag: Roterande ledare i Israel",
+        "summary": "Benjamin Netanyahu vill se ett roterande styre i Israel, där han och den politiske motståndaren Gadi Eisenkot skulle rotera på premiärministerposten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Netanyahu's move: rotating leadership in Israel",
+        "summary": "Benjamin Netanyahu wants to see rotating rule in Israel, in which he and political rival Gadi Eisenkot would rotate the post of prime minister."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T18:31:06+01:00"
+      }
+    },
     {
       "id": "21e0054d477b",
       "schema_version": 1,
@@ -5322,32 +5349,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T08:15:58+01:00"
-      }
-    },
-    {
-      "id": "d848ff143bb1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/verves-vd-miljontankar-aktier",
-      "guid": "58d615c2-27ef-4259-aa74-8f87878a95ef",
-      "published_at": "2026-11-27T07:52:59+01:00",
-      "fetched_at": "2026-11-27T08:01:17+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Verves vd miljontankar aktier",
-        "summary": "Verves vd och största ägare Remco Westermann har i fyra affärer köpt drygt 580.000 aktier i det digitala medieföretaget för omkring 4,2 miljoner kronor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Verve CEO buys shares for millions",
-        "summary": "Verve CEO and largest owner Remco Westermann has, in four transactions, bought just over 580,000 shares in the digital media company for about SEK 4.2 million."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T08:01:22+01:00"
       }
     }
   ]
