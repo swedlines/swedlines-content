@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-28T07:15:51+01:00",
+  "generated_at": "2026-11-28T07:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1745c4596b47",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/tva-klinikvakter-dodade-i-israelisk-attack",
+      "guid": "4dc77036-cc5b-4443-a49f-ca26c383a185",
+      "published_at": "2026-11-28T07:23:47+01:00",
+      "fetched_at": "2026-11-28T07:31:02+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/91b282ac-f736-4f3e-92b0-35860435d88b.jpg?width=600",
+      "sv": {
+        "title": "Två klinikvakter dödade i israelisk attack",
+        "summary": "Två personer har dödats i en israelisk attack mot en klinik tillhörande Läkare utan gränser (MSF) i Gazaremsan, uppger organisationen på X.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two clinic guards killed in Israeli attack",
+        "summary": "Two people have been killed in an Israeli attack on a clinic belonging to Médecins Sans Frontières (MSF) in the Gaza Strip, the organisation says on X."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "27cb8999a47b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/statsvetare-da-bor-c-politiker-lamna-sina-uppdrag",
+      "guid": "494abfef-dd98-4227-acbe-f5017ade7cd5",
+      "published_at": "2026-11-28T07:22:43+01:00",
+      "fetched_at": "2026-11-28T07:31:02+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/69f79f6f-ae74-4c87-a0e8-afe43071e2ff.jpg?width=600",
+      "sv": {
+        "title": "Statsvetare: Då bör C-politiker lämna sina uppdrag",
+        "summary": "Flera av Centerns riksdagsledamöter har aviserat att de kommer att trycka rött i måndagens statsministeromröstning – oavsett vilket beslut som fattas av partiets förtroenderåd.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Political scientist: Then C politicians should give up their posts",
+        "summary": "Several of the Centre Party's Riksdag members have announced that they will vote red in Monday's prime ministerial vote – regardless of the decision made by the party's board of trust."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
     {
       "id": "2c7f86b6e1c3",
       "schema_version": 1,
@@ -5210,60 +5264,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T10:15:50+01:00"
-      }
-    },
-    {
-      "id": "4033d19ea45f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/familj/minnesord-om-peter-ingwersen",
-      "guid": "03a0fe89-b0cf-4300-8803-612c696fa294",
-      "published_at": "2026-11-25T10:00:00+01:00",
-      "fetched_at": "2026-11-25T10:01:13+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/c9288517-83b1-4f35-84cb-c6f3d69326f0.jpeg?width=600",
-      "sv": {
-        "title": "Minnesord om Peter Ingwersen",
-        "summary": "Professor Peter Ingwersen, Malmö, har avlidit i en ålder av 79 år. Han sörjes närmast av hustrun Iren Wormell, och av oss, hans vänner i Malmö.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Obituary for Peter Ingwersen",
-        "summary": "Professor Peter Ingwersen, Malmö, has died at the age of 79. He is survived by his wife Iren Wormell, and by us, his friends in Malmö."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:01:19+01:00"
-      }
-    },
-    {
-      "id": "95b2f2c8a028",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/unik-zombiesvamp-hittad-utanfor-lund",
-      "guid": "e8a9644c-9503-40ba-a617-f7094765313e",
-      "published_at": "2026-11-25T10:00:00+01:00",
-      "fetched_at": "2026-11-25T10:01:13+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/f76949f0-45b2-4e7b-9294-12a8d0de1b93.jpeg?width=600",
-      "sv": {
-        "title": "Unik zombiesvamp hittad utanför Lund",
-        "summary": "Benjamin Hasselberg skulle fotografera slemsvampar, men hittade något ännu mer exotiskt – en extremt ovanlig zombiesvamp. För första gången någonsin har den märkliga arten nu fångats på bild i Sverige. – Det här är ett once-in-a-lifetime-fynd, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unique zombie fungus found outside Lund",
-        "summary": "Benjamin Hasselberg was going to photograph slime molds, but found something even more exotic – an extremely rare zombie fungus. For the first time ever, the peculiar species has now been captured on camera in Sweden. – It's a once-in-a-lifetime find, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T10:01:19+01:00"
       }
     }
   ]

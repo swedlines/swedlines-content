@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T07:15:51+01:00",
+  "generated_at": "2026-11-28T07:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9360907f2fb0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/darfor-ar-manga-sjuka-risk-for-influensatopp-under-jul",
+      "guid": "https://www.expressen.se/nyheter/sverige/darfor-ar-manga-sjuka-risk-for-influensatopp-under-jul/",
+      "published_at": "2026-11-28T07:20:39+01:00",
+      "fetched_at": "2026-11-28T07:31:00+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Därför är många sjuka – risk för influensatopp under jul",
+        "summary": "Ho, ho, ho – eller host, host, host? Enligt Folkhälsomyndigheten kan influensatoppen komma lagom till jul.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "That's why many are sick – risk of flu peak during Christmas",
+        "summary": "Ho, ho, ho – or cough, cough, cough? According to the Public Health Agency, the flu peak may arrive just in time for Christmas."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
     {
       "id": "4a0dc300cc80",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T06:05:21+01:00"
-      }
-    },
-    {
-      "id": "c64c57cec7d2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/ny-matning-centerpartiet-backar-nara-sparren",
-      "guid": "https://www.expressen.se/nyheter/politik/ny-matning-centerpartiet-backar-nara-sparren/",
-      "published_at": "2026-11-25T05:32:55+01:00",
-      "fetched_at": "2026-11-25T05:45:46+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Ny mätning: Centerpartiet backar – nära spärren",
-        "summary": "Centerpartiet fortsätter backa och närmar sig riksdagsspärren. Stödet för partiet ligger nu på 4,8 procent, enligt en ny mätning från Indikator Opinion för Sveriges Radio Ekot. Samtidigt ökar Moderaterna med över fem procentenheter jämfört med valresultatet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New poll: Centre Party slips – close to the threshold",
-        "summary": "The Centre Party (C) continues to slip and is approaching the Riksdag threshold. Support for the party now stands at 4.8 percent, according to a new poll from Indikator Opinion for Sveriges Radio Ekot. Meanwhile, the Moderates are up by over five percentage points compared with the election result."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T05:46:04+01:00"
       }
     }
   ]

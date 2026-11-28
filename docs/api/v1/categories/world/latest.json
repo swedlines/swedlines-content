@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T07:15:51+01:00",
+  "generated_at": "2026-11-28T07:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1745c4596b47",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/tva-klinikvakter-dodade-i-israelisk-attack",
+      "guid": "4dc77036-cc5b-4443-a49f-ca26c383a185",
+      "published_at": "2026-11-28T07:23:47+01:00",
+      "fetched_at": "2026-11-28T07:31:02+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/91b282ac-f736-4f3e-92b0-35860435d88b.jpg?width=600",
+      "sv": {
+        "title": "Två klinikvakter dödade i israelisk attack",
+        "summary": "Två personer har dödats i en israelisk attack mot en klinik tillhörande Läkare utan gränser (MSF) i Gazaremsan, uppger organisationen på X.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two clinic guards killed in Israeli attack",
+        "summary": "Two people have been killed in an Israeli attack on a clinic belonging to Médecins Sans Frontières (MSF) in the Gaza Strip, the organisation says on X."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
     {
       "id": "e3296d62dacb",
       "schema_version": 1,
@@ -5322,33 +5349,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T01:15:52+01:00"
-      }
-    },
-    {
-      "id": "6ffc85a674b4",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/podd/spotlight/europas-vansterledare-kampar-for-sin-overlevnad",
-      "guid": "https://www.dn.se/podd/spotlight/europas-vansterledare-kampar-for-sin-overlevnad/",
-      "published_at": "2026-11-26T01:00:29+01:00",
-      "fetched_at": "2026-11-26T07:30:59+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/u6ls22jozxbev7ozsp3kfr47ci4qoiwjpzymtzewiyhrcywul5za.png?io=1&width=1000",
-      "sv": {
-        "title": "“Europas vänsterledare” kämpar för sin överlevnad",
-        "summary": "Han kallas för “el guapo”, “snyggingen”. Rent politiskt har Spaniens premiärminister Pedro Sanchez setts som hela Europas vänsterledare efter att högljutt ha kritiserat Donald Trump, vilket gjort honom populär på många håll. Men hemma i Spanien är situationen en annan.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "\"Europe's left-wing leader\" fights for survival",
-        "summary": "He is called \"el guapo\", \"the handsome one\". Politically, Spain's prime minister Pedro Sanchez has been seen as Europe's left-wing leader across the continent after loudly criticising Donald Trump, which has made him popular in many places. But at home in Spain the situation is different."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T07:31:07+01:00"
       }
     }
   ]

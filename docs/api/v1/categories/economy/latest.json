@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T07:15:51+01:00",
+  "generated_at": "2026-11-28T07:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0625f6e6c8cc",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/veckans-viktigaste-fran-di-s-nyhetstjanster-Nmd5Q",
+      "guid": "79355856-7980-48ed-84a0-0cf36e54e352",
+      "published_at": "2026-11-28T07:14:49+01:00",
+      "fetched_at": "2026-11-28T07:31:00+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/ce931453-64eb-493a-b186-5e2c3c004ec1.jpeg?width=600",
+      "sv": {
+        "title": "Veckans viktigaste från Di:s nyhetstjänster",
+        "summary": "Ny teknik gör det lättare för försäkringsbolag att lokalisera kunderna som löper störst risk att behöva ersättning – och därmed får betala mer. Nu vill experter granska premierna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "This week's most important from Di's news services",
+        "summary": "New technology makes it easier for insurance companies to locate the customers most at risk of needing compensation – and who therefore end up paying more. Now experts want to scrutinise the premiums."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
     {
       "id": "9cf36aa20c15",
       "schema_version": 1,
@@ -5298,33 +5325,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T05:15:53+01:00"
-      }
-    },
-    {
-      "id": "6120ffd509d0",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/nu-maste-wall-street-radda-varlden-fran-ai",
-      "guid": "836085e4-5034-455e-ae72-923a6fd8d280",
-      "published_at": "2026-11-26T22:39:37+01:00",
-      "fetched_at": "2026-11-26T22:45:41+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3f627c77-b218-4107-8c11-169923f1ed25.jpeg?width=600",
-      "sv": {
-        "title": "Nu måste Wall Street rädda världen från AI",
-        "summary": "NEW YORK. AI rullas ut i rasande fart och USA vill inte låta Kina komma ikapp. AI-utvecklare varnar för att mänsklighetens existens kan hotas, andra för en jobbslakt. Just nu framstår Wall Street som den enda möjliga bromsen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Now Wall Street must save the world from AI",
-        "summary": "NEW YORK. AI is being rolled out at a furious pace and the US does not want to let China catch up. AI developers warn that the existence of humanity could be threatened, others warn of a mass wipeout of jobs. Right now Wall Street appears to be the only possible brake."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T22:45:44+01:00"
       }
     }
   ]

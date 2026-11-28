@@ -1,7 +1,222 @@
 {
-  "generated_at": "2026-11-28T07:15:51+01:00",
+  "generated_at": "2026-11-28T07:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2b641d75cbd1",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/stahlis-jultrenden-har-gjort-douglas-odraglig",
+      "guid": "https://www.dn.se/kultur/stahlis-jultrenden-har-gjort-douglas-odraglig/",
+      "published_at": "2026-11-28T07:30:00+01:00",
+      "fetched_at": "2026-11-28T07:30:58+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/25df7f95-36e5-41b6-afc4-920bbb50e641.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Ståhlis: Jultrenden har gjort Douglas odräglig",
+        "summary": "Följ med Ståhlis ner i källaren. Men godkänns adventspyntet av taxen Douglas? Han har blivit en besserwisser efter en artikel i Svenska Dagbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ståhlis: The Christmas trend has made Douglas unbearable",
+        "summary": "Follow Ståhlis down to the basement. But will the dachshund Douglas approve the Advent decorations? He has become a know-it-all after an article in Svenska Dagbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "1745c4596b47",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/tva-klinikvakter-dodade-i-israelisk-attack",
+      "guid": "4dc77036-cc5b-4443-a49f-ca26c383a185",
+      "published_at": "2026-11-28T07:23:47+01:00",
+      "fetched_at": "2026-11-28T07:31:02+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/91b282ac-f736-4f3e-92b0-35860435d88b.jpg?width=600",
+      "sv": {
+        "title": "Två klinikvakter dödade i israelisk attack",
+        "summary": "Två personer har dödats i en israelisk attack mot en klinik tillhörande Läkare utan gränser (MSF) i Gazaremsan, uppger organisationen på X.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two clinic guards killed in Israeli attack",
+        "summary": "Two people have been killed in an Israeli attack on a clinic belonging to Médecins Sans Frontières (MSF) in the Gaza Strip, the organisation says on X."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "6bf17b0629fc",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/statsvetare-hotet-om-extraval-kommer-hanga-aven-over-en-ny-regering",
+      "guid": "https://www.dn.se/sverige/statsvetare-hotet-om-extraval-kommer-hanga-aven-over-en-ny-regering/",
+      "published_at": "2026-11-28T07:23:24+01:00",
+      "fetched_at": "2026-11-28T07:30:58+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/c4e5efb1-6403-44f5-a96c-b5d63b12079e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Statsvetare: Hotet om extraval kommer hänga även över en ny regering",
+        "summary": "Risken för ett extraval har minskat betydligt efter C:s högersväng. Men den finns fortfarande – i närtid eller om en svag minoritetsregering inte får igenom sin politik. Men hur många orkar ta sig till valurnorna då?",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Political scientist: Threat of snap election will hang over a new government too",
+        "summary": "The risk of a snap election has decreased significantly after C's shift to the right. But it still exists – in the near term or if a weak minority government fails to push through its policies. But how many will then bother to go to the polls?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "637d9bb770c5",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/enkat-kommer-du-rosta-om-det-blir-extraval",
+      "guid": "https://www.dn.se/sverige/enkat-kommer-du-rosta-om-det-blir-extraval/",
+      "published_at": "2026-11-28T07:23:10+01:00",
+      "fetched_at": "2026-11-28T07:30:58+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/02a8628f-b08f-4fda-afd8-4e4904bb3065.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Enkät: Kommer du rösta om det blir extraval?",
+        "summary": "Har du lust att gå till valurnan igen, du röstberättigade svensk? När DN tog tempen på röstviljan var svaren enhälliga: klart vi röstar om det blir extraval.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Survey: Will you vote if there is a snap election?",
+        "summary": "Do you feel like going to the polls again, you eligible Swede? When DN took the temperature on voting intentions, the answers were unanimous: of course we will vote if there is a snap election."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "27cb8999a47b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/statsvetare-da-bor-c-politiker-lamna-sina-uppdrag",
+      "guid": "494abfef-dd98-4227-acbe-f5017ade7cd5",
+      "published_at": "2026-11-28T07:22:43+01:00",
+      "fetched_at": "2026-11-28T07:31:02+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/69f79f6f-ae74-4c87-a0e8-afe43071e2ff.jpg?width=600",
+      "sv": {
+        "title": "Statsvetare: Då bör C-politiker lämna sina uppdrag",
+        "summary": "Flera av Centerns riksdagsledamöter har aviserat att de kommer att trycka rött i måndagens statsministeromröstning – oavsett vilket beslut som fattas av partiets förtroenderåd.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Political scientist: Then C politicians should give up their posts",
+        "summary": "Several of the Centre Party's Riksdag members have announced that they will vote red in Monday's prime ministerial vote – regardless of the decision made by the party's board of trust."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "9360907f2fb0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/darfor-ar-manga-sjuka-risk-for-influensatopp-under-jul",
+      "guid": "https://www.expressen.se/nyheter/sverige/darfor-ar-manga-sjuka-risk-for-influensatopp-under-jul/",
+      "published_at": "2026-11-28T07:20:39+01:00",
+      "fetched_at": "2026-11-28T07:31:00+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Därför är många sjuka – risk för influensatopp under jul",
+        "summary": "Ho, ho, ho – eller host, host, host? Enligt Folkhälsomyndigheten kan influensatoppen komma lagom till jul.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "That's why many are sick – risk of flu peak during Christmas",
+        "summary": "Ho, ho, ho – or cough, cough, cough? According to the Public Health Agency, the flu peak may arrive just in time for Christmas."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "7e69f1ec02ec",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/statsvetare-da-bor-c-politiker-lamna-sina-uppdrag",
+      "guid": "https://www.dn.se/sverige/statsvetare-da-bor-c-politiker-lamna-sina-uppdrag/",
+      "published_at": "2026-11-28T07:20:29+01:00",
+      "fetched_at": "2026-11-28T07:30:58+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/b7815b79-7e4e-43e5-a1f6-f86d5443dcee.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Statsvetare: Då bör C-politiker lämna sina uppdrag",
+        "summary": "Flera av Centerns riksdagsledamöter har aviserat att de kommer att trycka rött i måndagens statsministeromröstning – oavsett vilket beslut som fattas av partiets förtroenderåd.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Political scientist: Then C politicians should give up their posts",
+        "summary": "Several of the Centre Party's Riksdag members have announced that they will vote red in Monday's prime ministerial vote – regardless of the decision made by the party's board of trust."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "0625f6e6c8cc",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/veckans-viktigaste-fran-di-s-nyhetstjanster-Nmd5Q",
+      "guid": "79355856-7980-48ed-84a0-0cf36e54e352",
+      "published_at": "2026-11-28T07:14:49+01:00",
+      "fetched_at": "2026-11-28T07:31:00+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/ce931453-64eb-493a-b186-5e2c3c004ec1.jpeg?width=600",
+      "sv": {
+        "title": "Veckans viktigaste från Di:s nyhetstjänster",
+        "summary": "Ny teknik gör det lättare för försäkringsbolag att lokalisera kunderna som löper störst risk att behöva ersättning – och därmed får betala mer. Nu vill experter granska premierna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "This week's most important from Di's news services",
+        "summary": "New technology makes it easier for insurance companies to locate the customers most at risk of needing compensation – and who therefore end up paying more. Now experts want to scrutinise the premiums."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
     {
       "id": "3d0d42d02109",
       "schema_version": 1,
@@ -5283,227 +5498,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T17:31:18+01:00"
-      }
-    },
-    {
-      "id": "5727658501cc",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8a7458e9-9cf6-44e7-8aec-581c6fdfe2a3",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8a7458e9-9cf6-44e7-8aec-581c6fdfe2a3",
-      "published_at": "2026-11-27T17:16:54+01:00",
-      "fetched_at": "2026-11-27T17:31:05+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "S-källor: Andersson kan behöva avgå",
-        "summary": "S-källor uppger för Aftonbladet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "S sources: Andersson may have to resign",
-        "summary": "S sources tell Aftonbladet"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T17:31:18+01:00"
-      }
-    },
-    {
-      "id": "41c0790430ee",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/politik/jonas-attenius-pekas-ut-som-mojlig-partiledare-for-socialdemokraterna-kommenterar-ryktet.ece56ef1-322b-5b04-a4b3-f94f2190c83c",
-      "guid": "ece56ef1-322b-5b04-a4b3-f94f2190c83c",
-      "published_at": "2026-11-27T17:15:18+01:00",
-      "fetched_at": "2026-11-27T17:31:06+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Politik",
-        "Tagg: Magdalena Andersson",
-        "Tagg: Jonas Attenius (S)",
-        "Tagg: Socialdemokraterna",
-        "Tagg: Politik",
-        "Tagg: Svensk politik"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/29131f44-3460-3e5a-b519-d1605ede653b",
-      "sv": {
-        "title": "Attenius om nya ryktet – pekas ut som partiledare",
-        "summary": "Kommenterar uppgifterna om Anderssons framtid i S: ”Det spekuleras.”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Attenius on new rumour – named as party leader",
-        "summary": "Commenting on the reports about Andersson's future in S: “It is being speculated.”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T17:31:18+01:00"
-      }
-    },
-    {
-      "id": "b5aa020c3208",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/fem-mil-langa-koer-till-moskva",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/fem-mil-langa-koer-till-moskva",
-      "published_at": "2026-11-27T17:12:38+01:00",
-      "fetched_at": "2026-11-27T17:15:46+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Fem mil kö till Moskva",
-        "summary": "Snökaos i Ryssland",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Five-mile queue to Moscow",
-        "summary": "Snow chaos in Russia"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T17:15:50+01:00"
-      }
-    },
-    {
-      "id": "ee6db18f66a3",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9351782",
-      "guid": "rss:sr.se/article/9351782",
-      "published_at": "2026-11-27T17:11:00+01:00",
-      "fetched_at": "2026-11-27T17:15:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Burnham: Migrationen till Storbritannien minskar",
-        "summary": "Nya siffror i Storbritannien visar att netto-invandringen till Storbritannien minskat kraftigt och nu är den lägsta på flera decennier. Färre personer invandrar, färre söker asyl och vi börjar få kontroll på migrations-systemet, säger den brittiske premiärministern Andy Burnham Invandringen till…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Burnham: Migration to the UK is falling",
-        "summary": "New figures in the UK show that net migration to the UK has fallen sharply and is now the lowest in several decades. Fewer people are immigrating, fewer are seeking asylum, and we are starting to get control of the migration system, says British prime minister Andy Burnham. Invandringen till…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T17:15:50+01:00"
-      }
-    },
-    {
-      "id": "c901cae26e20",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/mMR76g/linnea-claesons-forlag-svarar-pa-kritiken",
-      "guid": "https://www.svd.se/a/mMR76g/linnea-claesons-forlag-svarar-pa-kritiken?utm_medium=rss",
-      "published_at": "2026-11-27T17:08:09+01:00",
-      "fetched_at": "2026-11-27T17:10:44+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/01d75bec-663a-3cdc-adee-0b5a5d3b5148?format=auto&s=3f04ce5e9588c86179d74dfda1a037f46e00419c&w=1000",
-      "sv": {
-        "title": "Förlaget: ”Stort förtroende för Claeson”",
-        "summary": "Trovärdigheten i nya självbiografin ifrågasätts • Nu svarar förlaget.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Publisher: \"Great trust in Claeson\"",
-        "summary": "Credibility of new autobiography questioned • Publisher now responds."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T17:10:51+01:00"
-      }
-    },
-    {
-      "id": "e491afdf48c0",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/M5RxzJ/s-kallor-om-framtiden-for-partiet-flera-kommer-behova-lamna",
-      "guid": "https://www.aftonbladet.se/nyheter/a/M5RxzJ/s-kallor-om-framtiden-for-partiet-flera-kommer-behova-lamna?utm_medium=rss",
-      "published_at": "2026-11-27T17:07:45+01:00",
-      "fetched_at": "2026-11-27T17:10:45+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/05d90961-809b-3f17-89fb-943249b59de4?format=auto&s=8be6852551d87b485c38fc410d7cffdf09bddc96&w=1000",
-      "sv": {
-        "title": "S-källor om framtiden för partiet: Flera kommer behöva lämna",
-        "summary": "Namnen som pekas ut ✓ ”Det är oundvikligt”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "S sources on the party's future: Several will have to leave",
-        "summary": "The names pointed out ✓ \"It is inevitable\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T17:10:51+01:00"
-      }
-    },
-    {
-      "id": "66fb8427fb14",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/OyQblA/ledare-for-svaltsekt-domd-for-over-hundra-drap",
-      "guid": "https://www.aftonbladet.se/nyheter/a/OyQblA/ledare-for-svaltsekt-domd-for-over-hundra-drap?utm_medium=rss",
-      "published_at": "2026-11-27T17:05:52+01:00",
-      "fetched_at": "2026-11-27T17:10:45+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/b6c280c3-cb67-3f38-8aaa-954af37d2730?format=auto&s=5b643d922b5070c42a31382817fb818bc19c4542&w=1000",
-      "sv": {
-        "title": "Ledare för svältsekt dömd för över hundra dråp",
-        "summary": "Den kenyanske sektledaren Paul Mackenzie som uppmanat sina medlemmar att svälta sig till döds döms…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Leader of starvation cult convicted of over a hundred manslaughters",
-        "summary": "Kenyan cult leader Paul Mackenzie, who urged his followers to starve themselves to death, is sentenced…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T17:10:51+01:00"
-      }
-    },
-    {
-      "id": "e6dd95b4e72d",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/nLa5Ed/nya-e-legitimationen-sverige-id-lanseras-far-kritik",
-      "guid": "https://www.svd.se/a/nLa5Ed/nya-e-legitimationen-sverige-id-lanseras-far-kritik?utm_medium=rss",
-      "published_at": "2026-11-27T17:05:44+01:00",
-      "fetched_at": "2026-11-27T17:10:44+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/8ed3c572-5fcd-3975-ba0f-010fc24cb26f?format=auto&s=abc19a2807e80ac7d9ec59a6c3054890da69faf2&w=1000",
-      "sv": {
-        "title": "Nu kommer nya id:t – funkar bara hos Polisen",
-        "summary": "På tisdag lanseras den nya e-legitimationen Sverige-id. Men till en början är det bara Polisen, som…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Now the new ID works only with the Police",
-        "summary": "On Tuesday the new e-identification Sverige-id is launched. But initially it is only the Police that…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T17:10:51+01:00"
       }
     }
   ]

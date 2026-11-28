@@ -1,7 +1,222 @@
 {
-  "generated_at": "2026-11-28T07:15:51+01:00",
-  "count": 74,
+  "generated_at": "2026-11-28T07:31:09+01:00",
+  "count": 82,
   "items": [
+    {
+      "id": "2b641d75cbd1",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/stahlis-jultrenden-har-gjort-douglas-odraglig",
+      "guid": "https://www.dn.se/kultur/stahlis-jultrenden-har-gjort-douglas-odraglig/",
+      "published_at": "2026-11-28T07:30:00+01:00",
+      "fetched_at": "2026-11-28T07:30:58+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/25df7f95-36e5-41b6-afc4-920bbb50e641.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Ståhlis: Jultrenden har gjort Douglas odräglig",
+        "summary": "Följ med Ståhlis ner i källaren. Men godkänns adventspyntet av taxen Douglas? Han har blivit en besserwisser efter en artikel i Svenska Dagbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ståhlis: The Christmas trend has made Douglas unbearable",
+        "summary": "Follow Ståhlis down to the basement. But will the dachshund Douglas approve the Advent decorations? He has become a know-it-all after an article in Svenska Dagbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "1745c4596b47",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/tva-klinikvakter-dodade-i-israelisk-attack",
+      "guid": "4dc77036-cc5b-4443-a49f-ca26c383a185",
+      "published_at": "2026-11-28T07:23:47+01:00",
+      "fetched_at": "2026-11-28T07:31:02+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/91b282ac-f736-4f3e-92b0-35860435d88b.jpg?width=600",
+      "sv": {
+        "title": "Två klinikvakter dödade i israelisk attack",
+        "summary": "Två personer har dödats i en israelisk attack mot en klinik tillhörande Läkare utan gränser (MSF) i Gazaremsan, uppger organisationen på X.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two clinic guards killed in Israeli attack",
+        "summary": "Two people have been killed in an Israeli attack on a clinic belonging to Médecins Sans Frontières (MSF) in the Gaza Strip, the organisation says on X."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "6bf17b0629fc",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/statsvetare-hotet-om-extraval-kommer-hanga-aven-over-en-ny-regering",
+      "guid": "https://www.dn.se/sverige/statsvetare-hotet-om-extraval-kommer-hanga-aven-over-en-ny-regering/",
+      "published_at": "2026-11-28T07:23:24+01:00",
+      "fetched_at": "2026-11-28T07:30:58+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/c4e5efb1-6403-44f5-a96c-b5d63b12079e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Statsvetare: Hotet om extraval kommer hänga även över en ny regering",
+        "summary": "Risken för ett extraval har minskat betydligt efter C:s högersväng. Men den finns fortfarande – i närtid eller om en svag minoritetsregering inte får igenom sin politik. Men hur många orkar ta sig till valurnorna då?",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Political scientist: Threat of snap election will hang over a new government too",
+        "summary": "The risk of a snap election has decreased significantly after C's shift to the right. But it still exists – in the near term or if a weak minority government fails to push through its policies. But how many will then bother to go to the polls?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "637d9bb770c5",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/enkat-kommer-du-rosta-om-det-blir-extraval",
+      "guid": "https://www.dn.se/sverige/enkat-kommer-du-rosta-om-det-blir-extraval/",
+      "published_at": "2026-11-28T07:23:10+01:00",
+      "fetched_at": "2026-11-28T07:30:58+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/02a8628f-b08f-4fda-afd8-4e4904bb3065.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Enkät: Kommer du rösta om det blir extraval?",
+        "summary": "Har du lust att gå till valurnan igen, du röstberättigade svensk? När DN tog tempen på röstviljan var svaren enhälliga: klart vi röstar om det blir extraval.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Survey: Will you vote if there is a snap election?",
+        "summary": "Do you feel like going to the polls again, you eligible Swede? When DN took the temperature on voting intentions, the answers were unanimous: of course we will vote if there is a snap election."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "27cb8999a47b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/statsvetare-da-bor-c-politiker-lamna-sina-uppdrag",
+      "guid": "494abfef-dd98-4227-acbe-f5017ade7cd5",
+      "published_at": "2026-11-28T07:22:43+01:00",
+      "fetched_at": "2026-11-28T07:31:02+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/69f79f6f-ae74-4c87-a0e8-afe43071e2ff.jpg?width=600",
+      "sv": {
+        "title": "Statsvetare: Då bör C-politiker lämna sina uppdrag",
+        "summary": "Flera av Centerns riksdagsledamöter har aviserat att de kommer att trycka rött i måndagens statsministeromröstning – oavsett vilket beslut som fattas av partiets förtroenderåd.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Political scientist: Then C politicians should give up their posts",
+        "summary": "Several of the Centre Party's Riksdag members have announced that they will vote red in Monday's prime ministerial vote – regardless of the decision made by the party's board of trust."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "9360907f2fb0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/darfor-ar-manga-sjuka-risk-for-influensatopp-under-jul",
+      "guid": "https://www.expressen.se/nyheter/sverige/darfor-ar-manga-sjuka-risk-for-influensatopp-under-jul/",
+      "published_at": "2026-11-28T07:20:39+01:00",
+      "fetched_at": "2026-11-28T07:31:00+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Därför är många sjuka – risk för influensatopp under jul",
+        "summary": "Ho, ho, ho – eller host, host, host? Enligt Folkhälsomyndigheten kan influensatoppen komma lagom till jul.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "That's why many are sick – risk of flu peak during Christmas",
+        "summary": "Ho, ho, ho – or cough, cough, cough? According to the Public Health Agency, the flu peak may arrive just in time for Christmas."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "7e69f1ec02ec",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/statsvetare-da-bor-c-politiker-lamna-sina-uppdrag",
+      "guid": "https://www.dn.se/sverige/statsvetare-da-bor-c-politiker-lamna-sina-uppdrag/",
+      "published_at": "2026-11-28T07:20:29+01:00",
+      "fetched_at": "2026-11-28T07:30:58+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/b7815b79-7e4e-43e5-a1f6-f86d5443dcee.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Statsvetare: Då bör C-politiker lämna sina uppdrag",
+        "summary": "Flera av Centerns riksdagsledamöter har aviserat att de kommer att trycka rött i måndagens statsministeromröstning – oavsett vilket beslut som fattas av partiets förtroenderåd.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Political scientist: Then C politicians should give up their posts",
+        "summary": "Several of the Centre Party's Riksdag members have announced that they will vote red in Monday's prime ministerial vote – regardless of the decision made by the party's board of trust."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "0625f6e6c8cc",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/veckans-viktigaste-fran-di-s-nyhetstjanster-Nmd5Q",
+      "guid": "79355856-7980-48ed-84a0-0cf36e54e352",
+      "published_at": "2026-11-28T07:14:49+01:00",
+      "fetched_at": "2026-11-28T07:31:00+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/ce931453-64eb-493a-b186-5e2c3c004ec1.jpeg?width=600",
+      "sv": {
+        "title": "Veckans viktigaste från Di:s nyhetstjänster",
+        "summary": "Ny teknik gör det lättare för försäkringsbolag att lokalisera kunderna som löper störst risk att behöva ersättning – och därmed får betala mer. Nu vill experter granska premierna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "This week's most important from Di's news services",
+        "summary": "New technology makes it easier for insurance companies to locate the customers most at risk of needing compensation – and who therefore end up paying more. Now experts want to scrutinise the premiums."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
     {
       "id": "3d0d42d02109",
       "schema_version": 1,

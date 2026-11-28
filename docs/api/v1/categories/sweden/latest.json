@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T07:15:51+01:00",
+  "generated_at": "2026-11-28T07:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9360907f2fb0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/darfor-ar-manga-sjuka-risk-for-influensatopp-under-jul",
+      "guid": "https://www.expressen.se/nyheter/sverige/darfor-ar-manga-sjuka-risk-for-influensatopp-under-jul/",
+      "published_at": "2026-11-28T07:20:39+01:00",
+      "fetched_at": "2026-11-28T07:31:00+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Därför är många sjuka – risk för influensatopp under jul",
+        "summary": "Ho, ho, ho – eller host, host, host? Enligt Folkhälsomyndigheten kan influensatoppen komma lagom till jul.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "That's why many are sick – risk of flu peak during Christmas",
+        "summary": "Ho, ho, ho – or cough, cough, cough? According to the Public Health Agency, the flu peak may arrive just in time for Christmas."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:31:07+01:00"
+      }
+    },
     {
       "id": "d1a95eca4dc5",
       "schema_version": 1,
@@ -5482,32 +5508,6 @@
       "en": {
         "title": "Several accidents on the E4",
         "summary": "Disruptions on the E4 in the Stockholm area"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T05:45:51+01:00"
-      }
-    },
-    {
-      "id": "5b410f10f70a",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sormland/105-av-112-botfallda-hade-betalat-for-parkering-javlas-med-folk",
-      "guid": "https://www.svt.se/nyheter/lokalt/sormland/105-av-112-botfallda-hade-betalat-for-parkering-javlas-med-folk",
-      "published_at": "2026-11-24T05:30:09+01:00",
-      "fetched_at": "2026-11-24T05:45:38+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "105 av 112 bötfällda hade betalat för parkering: ”Jävlas med folk”",
-        "summary": "SVT Sörmland har granskat 112 p-böter som utfärdats på en parkeringsplats i centrala Eskilstuna. I sju fall saknades någon form av biljett. 105 av bilisterna hade betalat, men angett fel områdeskod.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "105 of 112 people fined had paid for parking: \"Screws people over\"",
-        "summary": "SVT Sörmland has examined 112 parking fines issued at a car park in central Eskilstuna. In seven cases there was no ticket of any kind. 105 of the motorists had paid but entered the wrong zone code."
       },
       "translation": {
         "status": "done",
