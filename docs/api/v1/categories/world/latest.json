@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-28T13:15:54+01:00",
+  "generated_at": "2026-11-28T13:28:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f785acd087a8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9352104",
+      "guid": "rss:sr.se/article/9352104",
+      "published_at": "2026-11-28T13:21:00+01:00",
+      "fetched_at": "2026-11-28T13:28:07+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Framåt för nationalistisk partiet: ”Det här är det riktiga Spanien”",
+        "summary": "På söndagen är det val i EU:s fjärde största ekonomi, Spanien där det är helt öppen fråga om landets högerblock ska vinna över socialdemokraten Pedro Sanchez sittande regeringskoalition.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Nationalist party gains ground: \"This is the real Spain\"",
+        "summary": "On Sunday there is an election in the EU's fourth-largest economy, Spain, where it is completely open whether the country's right-wing bloc will defeat the sitting coalition government led by Social Democrat Pedro Sanchez."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:28:15+01:00"
+      }
+    },
+    {
+      "id": "5adbb9ae74c4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/har-gar-putins-olja-upp-i-rok",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-gar-putins-olja-upp-i-rok",
+      "published_at": "2026-11-28T13:14:45+01:00",
+      "fetched_at": "2026-11-28T13:28:09+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Här går Putins olja upp i rök",
+        "summary": "Nya attacker mot ryska bränsleindustrin rapporterade",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here Putin's oil goes up in smoke",
+        "summary": "New attacks on Russian fuel industry reported"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:28:15+01:00"
+      }
+    },
     {
       "id": "231d4d0967fa",
       "schema_version": 1,
@@ -5307,58 +5359,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T06:04:21+01:00"
-      }
-    },
-    {
-      "id": "302971c6c130",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/nLap9o/dodssiffran-stiger-efter-gruvolycka-i-indonesien",
-      "guid": "https://www.aftonbladet.se/nyheter/a/nLap9o/dodssiffran-stiger-efter-gruvolycka-i-indonesien?utm_medium=rss",
-      "published_at": "2026-11-26T05:49:47+01:00",
-      "fetched_at": "2026-11-26T06:01:13+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Dödssiffran stiger efter gruvolycka i Indonesien",
-        "summary": "Över 20 arbetare fastnade tidigare i veckan i en översvämmad guldgruva i Indonesien.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Death toll rises after gold mine collapse in Indonesia",
-        "summary": "More than 20 workers became trapped earlier this week in a flooded gold mine in Indonesia."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T06:01:21+01:00"
-      }
-    },
-    {
-      "id": "b6b74f324cad",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=c74d89f6-ab6b-4059-8ac7-8f84d3e93253",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c74d89f6-ab6b-4059-8ac7-8f84d3e93253",
-      "published_at": "2026-11-26T05:48:19+01:00",
-      "fetched_at": "2026-11-26T06:01:14+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trumps och Ruttes vädjan till Putin",
-        "summary": "Uppmaningen till ”vännen”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump and Rutte's appeal to Putin",
-        "summary": "The appeal to \"friend\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T06:01:21+01:00"
       }
     }
   ]

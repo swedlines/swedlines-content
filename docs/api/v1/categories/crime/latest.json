@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T13:15:54+01:00",
+  "generated_at": "2026-11-28T13:28:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5e006b12fc1c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/kupp-mot-konstmuseum-olssons-malningar-borta",
+      "guid": "709e5e2b-601d-4f38-a51b-fce9e94ea79e",
+      "published_at": "2026-11-28T13:23:50+01:00",
+      "fetched_at": "2026-11-28T13:28:12+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Kupp mot konstmuseum – Olssons målningar borta",
+        "summary": "Tre målningar av Olle Olsson har stulits från museet i Hagalund i Solna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Heist at art museum – Olsson paintings gone",
+        "summary": "Three paintings by Olle Olsson have been stolen from the museum in Hagalund in Solna."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:28:15+01:00"
+      }
+    },
     {
       "id": "cca344317f9e",
       "schema_version": 1,
@@ -5341,32 +5367,6 @@
       },
       "en": {
         "title": "Suspected Murder in Heby"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T21:01:14+01:00"
-      }
-    },
-    {
-      "id": "8d2393339361",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2357fa30-f644-4045-8ca9-74e72497b36d",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2357fa30-f644-4045-8ca9-74e72497b36d",
-      "published_at": "2026-11-23T20:51:24+01:00",
-      "fetched_at": "2026-11-23T21:01:09+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Person hittad död – misstänkt mord",
-        "summary": "Misstänkt mord i Heby",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Person Found Dead – Suspected Murder",
-        "summary": "Suspected murder in Heby"
       },
       "translation": {
         "status": "done",

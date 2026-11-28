@@ -1,7 +1,113 @@
 {
-  "generated_at": "2026-11-28T13:15:54+01:00",
-  "count": 198,
+  "generated_at": "2026-11-28T13:28:18+01:00",
+  "count": 203,
   "items": [
+    {
+      "id": "c0d26682b507",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/usa-aterhamtar-sig-efter-kraftigt-ovader",
+      "guid": "d9bcb162-866c-4137-9953-49d8192eef45",
+      "published_at": "2026-11-28T13:24:54+01:00",
+      "fetched_at": "2026-11-28T13:28:12+01:00",
+      "category": "weather",
+      "image_url": "https://static.bonniernews.se/ba/5584b8e2-f542-4053-994d-40f25c229078.jpg?width=600",
+      "sv": {
+        "title": "USA återhämtar sig efter kraftigt oväder",
+        "summary": "Amerikanerna städar nu upp efter en periods kraftigt oväder. Strömmen börjar gradvis fungera igen hos de hundratusentals hushåll som blivit strömlösa.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "USA recovers after severe storms",
+        "summary": "Americans are now cleaning up after a period of severe storms. Power is gradually returning to the hundreds of thousands of households that were left without electricity."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:28:15+01:00"
+      }
+    },
+    {
+      "id": "5e006b12fc1c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/kupp-mot-konstmuseum-olssons-malningar-borta",
+      "guid": "709e5e2b-601d-4f38-a51b-fce9e94ea79e",
+      "published_at": "2026-11-28T13:23:50+01:00",
+      "fetched_at": "2026-11-28T13:28:12+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Kupp mot konstmuseum – Olssons målningar borta",
+        "summary": "Tre målningar av Olle Olsson har stulits från museet i Hagalund i Solna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Heist at art museum – Olsson paintings gone",
+        "summary": "Three paintings by Olle Olsson have been stolen from the museum in Hagalund in Solna."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:28:15+01:00"
+      }
+    },
+    {
+      "id": "f785acd087a8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9352104",
+      "guid": "rss:sr.se/article/9352104",
+      "published_at": "2026-11-28T13:21:00+01:00",
+      "fetched_at": "2026-11-28T13:28:07+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Framåt för nationalistisk partiet: ”Det här är det riktiga Spanien”",
+        "summary": "På söndagen är det val i EU:s fjärde största ekonomi, Spanien där det är helt öppen fråga om landets högerblock ska vinna över socialdemokraten Pedro Sanchez sittande regeringskoalition.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Nationalist party gains ground: \"This is the real Spain\"",
+        "summary": "On Sunday there is an election in the EU's fourth-largest economy, Spain, where it is completely open whether the country's right-wing bloc will defeat the sitting coalition government led by Social Democrat Pedro Sanchez."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:28:15+01:00"
+      }
+    },
+    {
+      "id": "1ed159cd1e90",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/M5R3oE/harvardprofessorn-nu-hotas-de-hogutbildade",
+      "guid": "https://www.svd.se/a/M5R3oE/harvardprofessorn-nu-hotas-de-hogutbildade?utm_medium=rss",
+      "published_at": "2026-11-28T13:17:59+01:00",
+      "fetched_at": "2026-11-28T13:28:08+01:00",
+      "category": "science_tech",
+      "image_url": "https://akamai.vgc.no/v2/images/8bef3ca3-c8e0-3f89-be83-fc3ea886b291?format=auto&s=3335e033dbec782d4949a3c2b5df4eda5d642c78&w=1000",
+      "sv": {
+        "title": "Harvardprofessorn: ”Nu hotas de högutbildade”",
+        "summary": "AI kommer leda till att många förlorar jobbet. Det menar Richard Freeman, en av världens ledande…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Harvard professor: \"Now the highly educated are under threat\"",
+        "summary": "AI will lead to many people losing their jobs. That is the view of Richard Freeman, one of the world's leading..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:28:15+01:00"
+      }
+    },
     {
       "id": "4c6ef1de9148",
       "schema_version": 1,
@@ -26,6 +132,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T13:15:49+01:00"
+      }
+    },
+    {
+      "id": "5adbb9ae74c4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/har-gar-putins-olja-upp-i-rok",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-gar-putins-olja-upp-i-rok",
+      "published_at": "2026-11-28T13:14:45+01:00",
+      "fetched_at": "2026-11-28T13:28:09+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Här går Putins olja upp i rök",
+        "summary": "Nya attacker mot ryska bränsleindustrin rapporterade",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here Putin's oil goes up in smoke",
+        "summary": "New attacks on Russian fuel industry reported"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:28:15+01:00"
       }
     },
     {

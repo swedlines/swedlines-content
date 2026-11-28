@@ -1,7 +1,113 @@
 {
-  "generated_at": "2026-11-28T13:15:54+01:00",
+  "generated_at": "2026-11-28T13:28:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c0d26682b507",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/usa-aterhamtar-sig-efter-kraftigt-ovader",
+      "guid": "d9bcb162-866c-4137-9953-49d8192eef45",
+      "published_at": "2026-11-28T13:24:54+01:00",
+      "fetched_at": "2026-11-28T13:28:12+01:00",
+      "category": "weather",
+      "image_url": "https://static.bonniernews.se/ba/5584b8e2-f542-4053-994d-40f25c229078.jpg?width=600",
+      "sv": {
+        "title": "USA återhämtar sig efter kraftigt oväder",
+        "summary": "Amerikanerna städar nu upp efter en periods kraftigt oväder. Strömmen börjar gradvis fungera igen hos de hundratusentals hushåll som blivit strömlösa.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "USA recovers after severe storms",
+        "summary": "Americans are now cleaning up after a period of severe storms. Power is gradually returning to the hundreds of thousands of households that were left without electricity."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:28:15+01:00"
+      }
+    },
+    {
+      "id": "5e006b12fc1c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/kupp-mot-konstmuseum-olssons-malningar-borta",
+      "guid": "709e5e2b-601d-4f38-a51b-fce9e94ea79e",
+      "published_at": "2026-11-28T13:23:50+01:00",
+      "fetched_at": "2026-11-28T13:28:12+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Kupp mot konstmuseum – Olssons målningar borta",
+        "summary": "Tre målningar av Olle Olsson har stulits från museet i Hagalund i Solna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Heist at art museum – Olsson paintings gone",
+        "summary": "Three paintings by Olle Olsson have been stolen from the museum in Hagalund in Solna."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:28:15+01:00"
+      }
+    },
+    {
+      "id": "f785acd087a8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9352104",
+      "guid": "rss:sr.se/article/9352104",
+      "published_at": "2026-11-28T13:21:00+01:00",
+      "fetched_at": "2026-11-28T13:28:07+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Framåt för nationalistisk partiet: ”Det här är det riktiga Spanien”",
+        "summary": "På söndagen är det val i EU:s fjärde största ekonomi, Spanien där det är helt öppen fråga om landets högerblock ska vinna över socialdemokraten Pedro Sanchez sittande regeringskoalition.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Nationalist party gains ground: \"This is the real Spain\"",
+        "summary": "On Sunday there is an election in the EU's fourth-largest economy, Spain, where it is completely open whether the country's right-wing bloc will defeat the sitting coalition government led by Social Democrat Pedro Sanchez."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:28:15+01:00"
+      }
+    },
+    {
+      "id": "1ed159cd1e90",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/M5R3oE/harvardprofessorn-nu-hotas-de-hogutbildade",
+      "guid": "https://www.svd.se/a/M5R3oE/harvardprofessorn-nu-hotas-de-hogutbildade?utm_medium=rss",
+      "published_at": "2026-11-28T13:17:59+01:00",
+      "fetched_at": "2026-11-28T13:28:08+01:00",
+      "category": "science_tech",
+      "image_url": "https://akamai.vgc.no/v2/images/8bef3ca3-c8e0-3f89-be83-fc3ea886b291?format=auto&s=3335e033dbec782d4949a3c2b5df4eda5d642c78&w=1000",
+      "sv": {
+        "title": "Harvardprofessorn: ”Nu hotas de högutbildade”",
+        "summary": "AI kommer leda till att många förlorar jobbet. Det menar Richard Freeman, en av världens ledande…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Harvard professor: \"Now the highly educated are under threat\"",
+        "summary": "AI will lead to many people losing their jobs. That is the view of Richard Freeman, one of the world's leading..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:28:15+01:00"
+      }
+    },
     {
       "id": "4c6ef1de9148",
       "schema_version": 1,
@@ -26,6 +132,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T13:15:49+01:00"
+      }
+    },
+    {
+      "id": "5adbb9ae74c4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/har-gar-putins-olja-upp-i-rok",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-gar-putins-olja-upp-i-rok",
+      "published_at": "2026-11-28T13:14:45+01:00",
+      "fetched_at": "2026-11-28T13:28:09+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Här går Putins olja upp i rök",
+        "summary": "Nya attacker mot ryska bränsleindustrin rapporterade",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here Putin's oil goes up in smoke",
+        "summary": "New attacks on Russian fuel industry reported"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:28:15+01:00"
       }
     },
     {
@@ -5335,138 +5467,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T00:30:14+01:00"
-      }
-    },
-    {
-      "id": "48c20b155ba6",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/j3dVw9/sofia-wood-om-sin-helg",
-      "guid": "https://www.svd.se/a/j3dVw9/sofia-wood-om-sin-helg?utm_medium=rss",
-      "published_at": "2026-11-28T00:15:00+01:00",
-      "fetched_at": "2026-11-28T00:30:07+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/42174d32-3eb2-32d9-a865-ba3af9f20259?format=auto&s=c33f0713b37bba45eadee8c0408f50e035fec794&w=1000",
-      "sv": {
-        "title": "”Veckotävlingen är en viktig tradition”",
-        "summary": "Sjuksköterskan och författaren Sofia Wood tittar på tv, lagar laxtartar och renoverar ett kråkslott.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"The weekly competition is an important tradition\"",
-        "summary": "Nurse and author Sofia Wood watches TV, makes salmon tartare and renovates a crow castle."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-28T00:30:14+01:00"
-      }
-    },
-    {
-      "id": "36371c6d8a35",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/lejlands-motor/volvos-stora-varldssucce-designad-av-en-23-aring",
-      "guid": "f0ac32eb-d79a-5ca6-8dbc-df399aafa83d",
-      "published_at": "2026-11-28T00:00:00+01:00",
-      "fetched_at": "2026-11-28T00:15:47+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Volvos stora världssuccé – designad av en 23-åring",
-        "summary": "Volvo Amazon firar 70 år som en av Sveriges mest älskade bilar. I veckans Lejland Motor djupdyker vi i modellen som gjorde Volvo internationellt känd.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Volvo's big global hit – designed by a 23-year-old",
-        "summary": "The Volvo Amazon turns 70 as one of Sweden's most beloved cars. In this week's Lejland Motor, we take a deep dive into the model that made Volvo internationally known."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-28T00:15:50+01:00"
-      }
-    },
-    {
-      "id": "8ff6347424f4",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/namn-och-nytt-grafall-och-varflora",
-      "guid": "https://www.dn.se/kultur/namn-och-nytt-grafall-och-varflora/",
-      "published_at": "2026-11-28T00:00:00+01:00",
-      "fetched_at": "2026-11-28T00:01:14+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/9996239e-9006-492f-a705-3b3945d5dc90.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Namn och Nytt: Gråfäll och ”Vårflora”",
-        "summary": "Här är dagens Namn och Nytt. En klassisk avdelning i DN – varje dag sedan 1909. Nuförtiden med kåserier, serier och läsarnas bidrag.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Namn och Nytt: Gråfäll and \"Vårflora\"",
-        "summary": "Here is today's Namn och Nytt. A classic department at DN – every day since 1909. Nowadays with columns, comics and readers' contributions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-28T00:01:20+01:00"
-      }
-    },
-    {
-      "id": "ac45ef52c411",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/kallor-tysk-polis-utreder--terrorplaner-i-malmo",
-      "guid": "https://www.expressen.se/nyheter/sverige/kallor-tysk-polis-utreder--terrorplaner-i-malmo/",
-      "published_at": "2026-11-27T23:55:55+01:00",
-      "fetched_at": "2026-11-28T00:01:15+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Källor: Tysk polis utreder terrorplaner i Malmö",
-        "summary": "Två personer har gripits i Tyskland misstänkta för terrorplaner mot synagogor. Enligt uppgifter till Der Spiegel ska ett av målen ha varit en synagoga i Malmö.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sources: German police investigate terror plans in Malmö",
-        "summary": "Two people have been arrested in Germany suspected of terror plans against synagogues. According to information given to Der Spiegel, one of the targets is said to have been a synagogue in Malmö."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-28T00:01:20+01:00"
-      }
-    },
-    {
-      "id": "05439ad5319b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/putin-visar-upp-nya-atomubaten",
-      "guid": "https://www.expressen.se/nyheter/varlden/putin-visar-upp-nya-atomubaten/",
-      "published_at": "2026-11-27T23:52:14+01:00",
-      "fetched_at": "2026-11-28T00:01:15+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Putin visar upp nya atomubåten",
-        "summary": "Vladimir Putins atomvapenarsenal växer. Nu visar han upp landets senaste tillskott – en ny atomubåt. – Den har förmåga att framgångsrikt genomföra uppdrag i alla delar av världshaven, säger Putin.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Putin shows off new nuclear submarine",
-        "summary": "Vladimir Putin's nuclear arsenal is growing. Now he is showing off the country's latest addition – a new nuclear submarine. \"It has the capability to successfully carry out missions in all parts of the world's oceans,\" says Putin."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-28T00:01:20+01:00"
       }
     }
   ]
