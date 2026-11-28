@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T19:45:52+01:00",
+  "generated_at": "2026-11-28T20:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6e35119cc5c4",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9351783",
+      "guid": "rss:sr.se/article/9351783",
+      "published_at": "2026-11-28T19:59:00+01:00",
+      "fetched_at": "2026-11-28T20:01:10+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ungerns nya regering vill stärka kvinnors rättigheter",
+        "summary": "I Ungern vill den nya regeringen stärka kvinnors rättigheter på flera sätt, bland annat ska det inte längre krävas recept från en läkare för att få köpa akut-p-piller.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Hungary's new government wants to strengthen women's rights",
+        "summary": "In Hungary, the new government wants to strengthen women's rights in several ways, including that a doctor's prescription will no longer be required to buy emergency contraceptive pills."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T20:01:19+01:00"
+      }
+    },
     {
       "id": "bf84ee233153",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T17:31:06+01:00"
-      }
-    },
-    {
-      "id": "9d8df531b9e3",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348444",
-      "guid": "rss:sr.se/article/9348444",
-      "published_at": "2026-11-23T16:55:00+01:00",
-      "fetched_at": "2026-11-23T17:01:09+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Socialsekreterare: Överhyrorna gör folk bidragsberoende",
-        "summary": "Fler reagerar på Ekots granskning av de oskäliga hyrorna inom Stockholms stads bostadsstiftelse SHIS. Socialsekreteraren Sara Korkut har i flera år försökt slå larm. Enligt henne gör överhyrorna det omöjligt för människor som redan befinner sig i en utsatt situation att bli självförsörjande.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Social worker: Excessive rents make people dependent on benefits",
-        "summary": "More people are reacting to Ekot's investigation into unreasonable rents within the Stockholm city housing foundation SHIS. Social worker Sara Korkut has tried to sound the alarm for several years. According to her, the excessive rents make it impossible for people already in a vulnerable situation to become self-sufficient."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T17:01:18+01:00"
       }
     }
   ]

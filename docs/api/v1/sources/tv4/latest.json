@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-28T19:45:52+01:00",
+  "generated_at": "2026-11-28T20:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7f9246fba8a7",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5uPn0c3UUkEGoq2ooXtozK/uppgifter-till-tv4-c-majoritet-saeger-ja-till-kristersson",
+      "guid": "5uPn0c3UUkEGoq2ooXtozK",
+      "published_at": "2026-11-28T19:44:45+01:00",
+      "fetched_at": "2026-11-28T20:01:13+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Elisabeth Thand Ringqvist"
+      ],
+      "sv": {
+        "title": "Uppgifter till TV4: C-majoritet säger ja till Kristersson",
+        "summary": "Rysarnatt stundar – jämnt in i det sista",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports to TV4: Centre majority says yes to Kristersson",
+        "summary": "Thriller night ahead – neck and neck to the very end"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T20:01:19+01:00"
+      }
+    },
     {
       "id": "78e7db69d57e",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T12:01:25+01:00"
-      }
-    },
-    {
-      "id": "619f924d8451",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/mv4e13pwzKvv18V0DfcZo/man-atalas-foer-att-ha-koert-ihjael-lotta-hellstrand-57",
-      "guid": "mv4e13pwzKvv18V0DfcZo",
-      "published_at": "2026-11-20T10:49:18+01:00",
-      "fetched_at": "2026-11-20T11:01:12+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Brott och straff"
-      ],
-      "sv": {
-        "title": "20-årig man åtalas för att ha kört ihjäl Lotta Hellstrand, 57",
-        "summary": "Vittnen har uppgett i polisutredningen att vansinnesfärden natten den 12 september gick i över 200 km/h och delvis i fel körfält. – Jag har aldrig sett någon köra så fort i hela mitt liv, säger ett ögonvittne i förhör. Färden tog slut mellan Karlavägen och Sibyllegatan på Östermalm.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "20-year-old man charged for running over and killing Lotta Hellstrand, 57",
-        "summary": "Witnesses have stated in the police investigation that the reckless drive on the night of 12 September exceeded 200 km/h and partly took place in the wrong lane. – I have never seen anyone drive so fast in my entire life, says an eyewitness in an interview. The drive ended between Karlavägen and Sibyllegatan in Östermalm."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:01:27+01:00"
       }
     }
   ]
