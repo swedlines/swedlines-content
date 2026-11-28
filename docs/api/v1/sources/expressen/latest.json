@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T06:31:04+01:00",
+  "generated_at": "2026-11-28T06:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4a0dc300cc80",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/who-varnar-for-vaccinationsglapp-inte-i-mal",
+      "guid": "https://www.expressen.se/nyheter/varlden/who-varnar-for-vaccinationsglapp-inte-i-mal/",
+      "published_at": "2026-11-28T06:28:37+01:00",
+      "fetched_at": "2026-11-28T06:45:50+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”",
+        "summary": "Färre personer än någonsin dör till följd av mässlingen. Men vaccinationsgraden är ojämn, vilket hindrar en utrotning av sjukdomen, varnar Världshälsorganisationen (WHO) i en ny rapport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "WHO warns of vaccination gaps: “Not on track”",
+        "summary": "Fewer people than ever are dying from measles. But vaccination coverage is uneven, which is preventing the disease from being eradicated, the World Health Organization (WHO) warns in a new report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T06:45:56+01:00"
+      }
+    },
     {
       "id": "63333dde3c9e",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T05:46:04+01:00"
-      }
-    },
-    {
-      "id": "6fcf8295a92f",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7f952430-3caa-4a65-9475-259319033e03",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7f952430-3caa-4a65-9475-259319033e03",
-      "published_at": "2026-11-25T05:10:58+01:00",
-      "fetched_at": "2026-11-25T05:15:53+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Man död i brand",
-        "summary": "Började brinna på gård",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man dead in fire",
-        "summary": "Began burning at farm"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T05:15:59+01:00"
       }
     }
   ]

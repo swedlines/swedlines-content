@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T06:31:04+01:00",
-  "count": 16,
+  "generated_at": "2026-11-28T06:45:58+01:00",
+  "count": 15,
   "stories": [
     {
       "id": "87682fb8575b",
@@ -207,6 +207,82 @@
       ]
     },
     {
+      "id": "3b6158982f86",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-28T06:00:09+01:00",
+      "last_published_at": "2026-11-28T06:28:37+01:00",
+      "lead": {
+        "id": "3b6158982f86",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/JnJ1J4/who-varnar-for-vaccinationsglapp-inte-i-mal",
+        "guid": "https://www.aftonbladet.se/nyheter/a/JnJ1J4/who-varnar-for-vaccinationsglapp-inte-i-mal?utm_medium=rss",
+        "published_at": "2026-11-28T06:00:09+01:00",
+        "fetched_at": "2026-11-28T06:01:09+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/d5024e1e-80fc-3f4a-8348-a91e8a320ec7?format=auto&s=1cabbec501e54dbf9db14b71f21a87cf70ddc231&w=1000",
+        "sv": {
+          "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”",
+          "summary": "Färre personer än någonsin dör till följd av mässlingen. Men vaccinationsgraden är ojämn, vilket…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "WHO warns of vaccination gaps: \"Not on track\"",
+          "summary": "Fewer people than ever are dying from measles. But vaccination coverage is uneven, which…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T06:01:20+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "4a0dc300cc80",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/who-varnar-for-vaccinationsglapp-inte-i-mal",
+          "published_at": "2026-11-28T06:28:37+01:00",
+          "sv": {
+            "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”"
+          },
+          "en": {
+            "title": "WHO warns of vaccination gaps: “Not on track”"
+          }
+        },
+        {
+          "id": "a1376f65dba6",
+          "source": "svd",
+          "url": "https://www.svd.se/a/z0gLg1/who-varnar-for-vaccinationsglapp-inte-i-mal",
+          "published_at": "2026-11-28T06:00:10+01:00",
+          "sv": {
+            "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”"
+          },
+          "en": {
+            "title": "WHO warns of vaccination gaps: \"Not on track\""
+          }
+        },
+        {
+          "id": "3b6158982f86",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/JnJ1J4/who-varnar-for-vaccinationsglapp-inte-i-mal",
+          "published_at": "2026-11-28T06:00:09+01:00",
+          "sv": {
+            "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”"
+          },
+          "en": {
+            "title": "WHO warns of vaccination gaps: \"Not on track\""
+          }
+        }
+      ]
+    },
+    {
       "id": "30a8be31f6dd",
       "source_count": 3,
       "sources": [
@@ -353,147 +429,6 @@
           },
           "en": {
             "title": "Putin shows off new nuclear submarine"
-          }
-        }
-      ]
-    },
-    {
-      "id": "0dca6dd182eb",
-      "source_count": 3,
-      "sources": [
-        "tv4",
-        "aftonbladet",
-        "svt"
-      ],
-      "first_published_at": "2026-11-27T17:29:25+01:00",
-      "last_published_at": "2026-11-27T18:42:50+01:00",
-      "lead": {
-        "id": "0dca6dd182eb",
-        "schema_version": 1,
-        "source": "tv4",
-        "url": "https://www.tv4.se/artikel/34L9iCnVVgNO7yoIK0No2s/uppgifter-doeende-patient-valdtagen-pa-vardhem",
-        "guid": "34L9iCnVVgNO7yoIK0No2s",
-        "published_at": "2026-11-27T17:29:25+01:00",
-        "fetched_at": "2026-11-27T17:31:05+01:00",
-        "category": "crime",
-        "feed_categories": [
-          "Brott och straff"
-        ],
-        "sv": {
-          "title": "Uppgifter: Döende patient våldtagen på vårdhem",
-          "summary": "Polisen larmades till vårdhemmet på Lidingö i tisdags och hade en stor insats på platsen. Enligt uppgifter till TV4 Nyheterna utreder polisen en våldtäkt mot en kvinnlig patient på boendet. Hon ska ha vårdats i livets slutskede. Misstankarna riktades mot en annan patient, en man i 80-årsåldern.",
-          "summary_origin": "truncated"
-        },
-        "en": {
-          "title": "Reports: Dying patient raped at care home",
-          "summary": "Police were alerted to the care home on Lidingö on Tuesday and had a large operation on site. According to TV4 Nyheterna, police are investigating a rape of a female patient at the facility. She is said to have been receiving care at the end of life. Suspicion was directed at another patient, a man in his 80s."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T17:31:18+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "2d4bdb2554f0",
-          "source": "svt",
-          "url": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-for-valdtakt-pa-aldreboende-pa-lidingo-slappt",
-          "published_at": "2026-11-27T18:42:50+01:00",
-          "sv": {
-            "title": "Misstänkt för våldtäkt på äldreboende på Lidingö släppt"
-          },
-          "en": {
-            "title": "Suspect in rape at Lidingö care home released"
-          }
-        },
-        {
-          "id": "1711a6a3d62d",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/GPalnl/misstankt-for-valdtakt-pa-aldreboende-slappt",
-          "published_at": "2026-11-27T17:40:48+01:00",
-          "sv": {
-            "title": "Misstänkt för våldtäkt på äldreboende släppt"
-          },
-          "en": {
-            "title": "Suspect in care home rape released"
-          }
-        },
-        {
-          "id": "0dca6dd182eb",
-          "source": "tv4",
-          "url": "https://www.tv4.se/artikel/34L9iCnVVgNO7yoIK0No2s/uppgifter-doeende-patient-valdtagen-pa-vardhem",
-          "published_at": "2026-11-27T17:29:25+01:00",
-          "sv": {
-            "title": "Uppgifter: Döende patient våldtagen på vårdhem"
-          },
-          "en": {
-            "title": "Reports: Dying patient raped at care home"
-          }
-        }
-      ]
-    },
-    {
-      "id": "3b6158982f86",
-      "source_count": 2,
-      "sources": [
-        "aftonbladet",
-        "svd"
-      ],
-      "first_published_at": "2026-11-28T06:00:09+01:00",
-      "last_published_at": "2026-11-28T06:00:10+01:00",
-      "lead": {
-        "id": "3b6158982f86",
-        "schema_version": 1,
-        "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/JnJ1J4/who-varnar-for-vaccinationsglapp-inte-i-mal",
-        "guid": "https://www.aftonbladet.se/nyheter/a/JnJ1J4/who-varnar-for-vaccinationsglapp-inte-i-mal?utm_medium=rss",
-        "published_at": "2026-11-28T06:00:09+01:00",
-        "fetched_at": "2026-11-28T06:01:09+01:00",
-        "category": "world",
-        "image_url": "https://akamai.vgc.no/v2/images/d5024e1e-80fc-3f4a-8348-a91e8a320ec7?format=auto&s=1cabbec501e54dbf9db14b71f21a87cf70ddc231&w=1000",
-        "sv": {
-          "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”",
-          "summary": "Färre personer än någonsin dör till följd av mässlingen. Men vaccinationsgraden är ojämn, vilket…",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "WHO warns of vaccination gaps: \"Not on track\"",
-          "summary": "Fewer people than ever are dying from measles. But vaccination coverage is uneven, which…"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-28T06:01:20+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "a1376f65dba6",
-          "source": "svd",
-          "url": "https://www.svd.se/a/z0gLg1/who-varnar-for-vaccinationsglapp-inte-i-mal",
-          "published_at": "2026-11-28T06:00:10+01:00",
-          "sv": {
-            "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”"
-          },
-          "en": {
-            "title": "WHO warns of vaccination gaps: \"Not on track\""
-          }
-        },
-        {
-          "id": "3b6158982f86",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/JnJ1J4/who-varnar-for-vaccinationsglapp-inte-i-mal",
-          "published_at": "2026-11-28T06:00:09+01:00",
-          "sv": {
-            "title": "WHO varnar för vaccinationsglapp: ”Inte i mål”"
-          },
-          "en": {
-            "title": "WHO warns of vaccination gaps: \"Not on track\""
           }
         }
       ]
