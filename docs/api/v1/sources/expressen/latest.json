@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T03:01:16+01:00",
+  "generated_at": "2026-11-28T03:15:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "53c76d9bb778",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/kungligt/prinsessan-kate-om-mystiska-gestalten-tacksam",
+      "guid": "https://www.expressen.se/nyheter/kungligt/prinsessan-kate-om-mystiska-gestalten-tacksam/",
+      "published_at": "2026-11-28T03:05:07+01:00",
+      "fetched_at": "2026-11-28T03:15:40+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Prinsessan Kate om mystiska gestalten: Tacksam",
+        "summary": "Prinsessan Kate talar ut om ensamheten efter diagnosen. I nya BBC-filmen ”Heal” berättar hon om mörkret – och en mystisk gestalt vid sjukhussängen. – Jag kommer alltid att vara tacksam, säger hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Princess Kate on the mysterious figure: Grateful",
+        "summary": "Princess Kate speaks out about the loneliness after her diagnosis. In the new BBC film \"Heal\", she talks about the darkness – and a mysterious figure at the hospital bedside. – I will always be grateful, she says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T03:15:44+01:00"
+      }
+    },
     {
       "id": "efe969d04290",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T00:01:15+01:00"
-      }
-    },
-    {
-      "id": "528d66e1fdf8",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk",
-      "guid": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk/",
-      "published_at": "2026-11-24T23:39:38+01:00",
-      "fetched_at": "2026-11-24T23:43:19+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Thand Ringqvists ord på interna C-mötet: ”Tar stryk”",
-        "summary": "Centerpartiets ledning ser bara två vägar framåt. Antingen tar man plats i en högerregering – eller så blir det extraval där C får skulden för kaoset i regeringsbildningsprocessen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Thand Ringqvist's words at the internal Centre Party meeting: “Takes a beating”",
-        "summary": "The Centre Party leadership sees only two paths forward. Either it takes a place in a right-wing government – or there will be a snap election in which C is blamed for the chaos in the government formation process."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T23:43:24+01:00"
       }
     }
   ]
