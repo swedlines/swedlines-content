@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T01:45:50+01:00",
+  "generated_at": "2026-11-28T02:01:14+01:00",
   "count": 30,
   "stories": [
     {
@@ -1817,82 +1817,6 @@
       ]
     },
     {
-      "id": "6c76594ce7ce",
-      "source_count": 3,
-      "sources": [
-        "di",
-        "sydsvenskan",
-        "sr"
-      ],
-      "first_published_at": "2026-11-27T08:23:29+01:00",
-      "last_published_at": "2026-11-27T13:53:00+01:00",
-      "lead": {
-        "id": "6c76594ce7ce",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/live/bra-fart-i-svensk-ekonomi-bnp-stiger-brant",
-        "guid": "5ebf2447-1417-439d-909d-0138d96cca3f",
-        "published_at": "2026-11-27T08:23:29+01:00",
-        "fetched_at": "2026-11-27T08:31:05+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/d5bdff9a-fe36-4904-ba27-822ec440f6b1.jpeg?width=600",
-        "sv": {
-          "title": "Bra fart i svensk ekonomi – BNP stiger brant",
-          "summary": "Sveriges BNP steg 0,5 procent under det tredje kvartalet jämfört med föregående kvartal. Jämfört med motsvarande kvartal föregående år steg BNP 2,8 procent. Det visar SCB:s nationalräkenskaper.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Strong momentum in Swedish economy – GDP rises sharply",
-          "summary": "Sweden's GDP rose 0.5 percent in the third quarter compared with the previous quarter. Compared with the same quarter a year earlier, GDP rose 2.8 percent. This is shown by Statistics Sweden's national accounts."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T08:31:10+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "884a8d952f0e",
-          "source": "sr",
-          "url": "https://www.sverigesradio.se/artikel/9351594",
-          "published_at": "2026-11-27T13:53:00+01:00",
-          "sv": {
-            "title": "Ljusare tider i ekonomi – men mörkare hushållshumör"
-          },
-          "en": {
-            "title": "Brighter Times in the Economy – but Gloomier Household Mood"
-          }
-        },
-        {
-          "id": "510bcb08578b",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/ekonomi/svensk-ekonomi-okar",
-          "published_at": "2026-11-27T09:27:13+01:00",
-          "sv": {
-            "title": "Svensk ekonomi ökar"
-          },
-          "en": {
-            "title": "Swedish economy grows"
-          }
-        },
-        {
-          "id": "6c76594ce7ce",
-          "source": "di",
-          "url": "https://www.di.se/live/bra-fart-i-svensk-ekonomi-bnp-stiger-brant",
-          "published_at": "2026-11-27T08:23:29+01:00",
-          "sv": {
-            "title": "Bra fart i svensk ekonomi – BNP stiger brant"
-          },
-          "en": {
-            "title": "Strong momentum in Swedish economy – GDP rises sharply"
-          }
-        }
-      ]
-    },
-    {
       "id": "25f83e5faf08",
       "source_count": 2,
       "sources": [
@@ -2601,6 +2525,68 @@
           },
           "en": {
             "title": "Fuglesang on Musk's plans: \"Totally brilliant\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "53dc374c0b6f",
+      "source_count": 2,
+      "sources": [
+        "svt",
+        "svd"
+      ],
+      "first_published_at": "2026-11-27T05:30:04+01:00",
+      "last_published_at": "2026-11-27T17:05:44+01:00",
+      "lead": {
+        "id": "53dc374c0b6f",
+        "schema_version": 1,
+        "source": "svt",
+        "url": "https://www.svt.se/nyheter/lokalt/smaland/polisen-borjar-utfarda-digitalt-sverigeid-men-anvandningen-ar-begransad",
+        "guid": "https://www.svt.se/nyheter/lokalt/smaland/polisen-borjar-utfarda-digitalt-sverigeid-men-anvandningen-ar-begransad",
+        "published_at": "2026-11-27T05:30:04+01:00",
+        "fetched_at": "2026-11-27T05:45:41+01:00",
+        "category": "sweden",
+        "sv": {
+          "title": "Nu lanseras Sveriges nya e-legitimation – kommer bara fungera hos polisen",
+          "summary": "Den 1 december lanseras den nya statliga e-legitimationen Sverige-ID, som utfärdas av Polismyndigheten. Men när den lanseras kommer den knappt gå att använda någonstans – endast polisen själv kommer acceptera den nya e-legitimationen.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Sweden's new e-ID launched – will only work with the police",
+          "summary": "On 1 December the new state e-ID Sverige-ID, issued by the Police Authority, will be launched. But when launched it will barely be usable anywhere – only the police themselves will accept the new e-ID."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T05:46:02+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "e6dd95b4e72d",
+          "source": "svd",
+          "url": "https://www.svd.se/a/nLa5Ed/nya-e-legitimationen-sverige-id-lanseras-far-kritik",
+          "published_at": "2026-11-27T17:05:44+01:00",
+          "sv": {
+            "title": "Nu kommer nya id:t – funkar bara hos Polisen"
+          },
+          "en": {
+            "title": "Now the new ID works only with the Police"
+          }
+        },
+        {
+          "id": "53dc374c0b6f",
+          "source": "svt",
+          "url": "https://www.svt.se/nyheter/lokalt/smaland/polisen-borjar-utfarda-digitalt-sverigeid-men-anvandningen-ar-begransad",
+          "published_at": "2026-11-27T05:30:04+01:00",
+          "sv": {
+            "title": "Nu lanseras Sveriges nya e-legitimation – kommer bara fungera hos polisen"
+          },
+          "en": {
+            "title": "Sweden's new e-ID launched – will only work with the police"
           }
         }
       ]
