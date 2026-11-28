@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-28T07:31:09+01:00",
+  "generated_at": "2026-11-28T07:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9562a7c0023e",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6m3mekrhIJfjZGrsyG1YlS/svenskt-hudvardsfoeretag-anklagas-foer-pyramidspel",
+      "guid": "6m3mekrhIJfjZGrsyG1YlS",
+      "published_at": "2026-11-28T07:34:13+01:00",
+      "fetched_at": "2026-11-28T07:45:46+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Svenskt hudvårdsföretag anklagas för pyramidspel",
+        "summary": "Flera personer i Marocko uppges ha slagit larm om ett svenskt hudvårdsmärke och vittnat om att de blivit lurade på pengar i vad de beskriver som ett pyramidspel, rapporterar le 360.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Swedish skincare company accused of pyramid scheme",
+        "summary": "Several people in Morocco reportedly raised the alarm about a Swedish skincare brand and testified that they were cheated out of money in what they describe as a pyramid scheme, reports le 360."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:45:50+01:00"
+      }
+    },
     {
       "id": "0625f6e6c8cc",
       "schema_version": 1,
@@ -5292,32 +5321,6 @@
       "en": {
         "title": "Trump insists: Huang is no security threat",
         "summary": "Donald Trump claims he has received \"sufficient information\" to conclude that Nvidia's scandal-plagued CEO Jensen Huang does not pose any security threat. \"I think he is totally fine,\" says the president."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T05:15:53+01:00"
-      }
-    },
-    {
-      "id": "99fadef93dbe",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/detta-hander-fredag-27-november-nNkyP",
-      "guid": "a41a7fb8-7ef5-49c1-bb49-2e080d8f2dbd",
-      "published_at": "2026-11-27T05:00:00+01:00",
-      "fetched_at": "2026-11-27T05:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Detta händer fredag 27 november",
-        "summary": "Efter att ha hållit stängt under onsdagen öppnar Wall Street för halvdagshandel under torsdagen. Morgonen bjuder på en rejäl dos svensk makrostatistik, däribland BNP för tredje kvartalet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "What happens Friday 27 November",
-        "summary": "After closing on Wednesday, Wall Street opens for half-day trading on Thursday. The morning brings a substantial dose of Swedish macroeconomic statistics, including GDP for the third quarter."
       },
       "translation": {
         "status": "done",

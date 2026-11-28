@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T07:31:09+01:00",
+  "generated_at": "2026-11-28T07:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "36d6e5c0c316",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/saudiarabien-och-huthirorelsen-utbyter-attacker",
+      "guid": "963051af-255c-4339-bd08-7e3f6a04a0fd",
+      "published_at": "2026-11-28T07:37:03+01:00",
+      "fetched_at": "2026-11-28T07:45:48+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/0ba37ab1-e706-4277-bbab-eee205d5fbbb.jpg?width=600",
+      "sv": {
+        "title": "Saudiarabien och Huthirörelsen utbyter attacker",
+        "summary": "Saudiarabien och den Iranstödda Huthimilisen i Jemen har utbytt attacker under den tidiga lördagen, uppger representanter för båda sidor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Saudi Arabia and Houthi movement exchange attacks",
+        "summary": "Saudi Arabia and the Iran-backed Houthi militia in Yemen have exchanged attacks during the early hours of Saturday, representatives of both sides say."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T07:45:50+01:00"
+      }
+    },
     {
       "id": "1745c4596b47",
       "schema_version": 1,
@@ -5316,32 +5343,6 @@
       "en": {
         "title": "Sea drama off Iceland – 17 people end up in the water",
         "summary": "Off Iceland's northeastern coast, a sea drama unfolded yesterday evening after a fishing vessel sank and all 17 crew members ended up in the water."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T01:15:52+01:00"
-      }
-    },
-    {
-      "id": "f36566d05e44",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/fartyg-i-sjonod-utanfor-island",
-      "guid": "https://www.dn.se/varlden/fartyg-i-sjonod-utanfor-island/",
-      "published_at": "2026-11-26T01:09:28+01:00",
-      "fetched_at": "2026-11-26T01:15:45+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Fartyg i sjönöd utanför Island",
-        "summary": "Ett fiskefartyg med en besättning på 17 personer hamnade under onsdagseftermiddagen i sjönöd utanför Islands kust, rapporterar det isländska public service-bolaget Rúv.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Vessel in distress off Iceland",
-        "summary": "A fishing vessel with a crew of 17 got into distress off Iceland's coast on Wednesday afternoon, reports the Icelandic public service broadcaster Rúv."
       },
       "translation": {
         "status": "done",
