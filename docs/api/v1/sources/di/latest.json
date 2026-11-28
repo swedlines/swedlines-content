@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T08:01:23+01:00",
+  "generated_at": "2026-11-28T08:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9d85e4740df2",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/salj-analytikernas-favorit",
+      "guid": "ae6c75eb-b745-4589-b2e0-78213d8935bf",
+      "published_at": "2026-11-28T08:05:07+01:00",
+      "fetched_at": "2026-11-28T08:15:50+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d11a92a5-ab26-413e-a1cd-9114e176eff6.jpeg?width=600",
+      "sv": {
+        "title": "Sälj analytikernas favorit",
+        "summary": "Jättenoteringen blev ett totalt fiasko och nu ryktas det om bud. Men aktien borde vara omöjlig att räkna hem, även för ett riskkapitalbolag. Di går emot strömmen och rekommenderar sälj – när alla analytiker säger köp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sell the Analysts' Favourite",
+        "summary": "The mega listing was a total fiasco and now there are rumours of a bid. But the share should be impossible to make pay, even for a private equity firm. Di goes against the current and recommends selling – when all analysts say buy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T08:15:54+01:00"
+      }
+    },
     {
       "id": "89ef7110c274",
       "schema_version": 1,
@@ -5292,32 +5319,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T15:15:57+01:00"
-      }
-    },
-    {
-      "id": "4848fa62045c",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/stabila-siffror-for-preservium-property",
-      "guid": "1fc4643b-d8cd-4c95-81e1-044b02b0edeb",
-      "published_at": "2026-11-26T14:47:01+01:00",
-      "fetched_at": "2026-11-26T15:01:15+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Stabila siffror för Preservium Property",
-        "summary": "Fastighetsbolaget Preservium Property hade intäkter på 18,5 miljoner kronor i det tredje kvartalet 2026 (19,2).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stable figures for Preservium Property",
-        "summary": "Property company Preservium Property had revenue of SEK 18.5 million in the third quarter of 2026 (19.2)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T15:01:26+01:00"
       }
     }
   ]

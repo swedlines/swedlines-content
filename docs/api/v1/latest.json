@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T08:01:23+01:00",
+  "generated_at": "2026-11-28T08:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9d85e4740df2",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/salj-analytikernas-favorit",
+      "guid": "ae6c75eb-b745-4589-b2e0-78213d8935bf",
+      "published_at": "2026-11-28T08:05:07+01:00",
+      "fetched_at": "2026-11-28T08:15:50+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d11a92a5-ab26-413e-a1cd-9114e176eff6.jpeg?width=600",
+      "sv": {
+        "title": "Sälj analytikernas favorit",
+        "summary": "Jättenoteringen blev ett totalt fiasko och nu ryktas det om bud. Men aktien borde vara omöjlig att räkna hem, även för ett riskkapitalbolag. Di går emot strömmen och rekommenderar sälj – när alla analytiker säger köp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sell the Analysts' Favourite",
+        "summary": "The mega listing was a total fiasco and now there are rumours of a bid. But the share should be impossible to make pay, even for a private equity firm. Di goes against the current and recommends selling – when all analysts say buy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T08:15:54+01:00"
+      }
+    },
     {
       "id": "30c50a13144c",
       "schema_version": 1,
@@ -5449,35 +5476,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T17:45:50+01:00"
-      }
-    },
-    {
-      "id": "0dca6dd182eb",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/34L9iCnVVgNO7yoIK0No2s/uppgifter-doeende-patient-valdtagen-pa-vardhem",
-      "guid": "34L9iCnVVgNO7yoIK0No2s",
-      "published_at": "2026-11-27T17:29:25+01:00",
-      "fetched_at": "2026-11-27T17:31:05+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Brott och straff"
-      ],
-      "sv": {
-        "title": "Uppgifter: Döende patient våldtagen på vårdhem",
-        "summary": "Polisen larmades till vårdhemmet på Lidingö i tisdags och hade en stor insats på platsen. Enligt uppgifter till TV4 Nyheterna utreder polisen en våldtäkt mot en kvinnlig patient på boendet. Hon ska ha vårdats i livets slutskede. Misstankarna riktades mot en annan patient, en man i 80-årsåldern.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Reports: Dying patient raped at care home",
-        "summary": "Police were alerted to the care home on Lidingö on Tuesday and had a large operation on site. According to TV4 Nyheterna, police are investigating a rape of a female patient at the facility. She is said to have been receiving care at the end of life. Suspicion was directed at another patient, a man in his 80s."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T17:31:18+01:00"
       }
     }
   ]
