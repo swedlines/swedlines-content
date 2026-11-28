@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T05:31:02+01:00",
+  "generated_at": "2026-11-28T05:46:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f73e03959cd3",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/caroline-vill-radda-skadade-igelkottar-min-barndomsdrom",
+      "guid": "https://www.svt.se/nyheter/lokalt/ost/caroline-vill-radda-skadade-igelkottar-min-barndomsdrom",
+      "published_at": "2026-11-28T05:30:09+01:00",
+      "fetched_at": "2026-11-28T05:45:46+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Caroline vill rädda skadade igelkottar: ”Min barndomsdröm”",
+        "summary": "Nyligen hölls en kurs på Kolmårdens djurpark för de som vill bli viltrehabiliterare. Arrangör var den rikstäckande ideella organisationen KFV, vilket står för Katastrofhjälp – Fåglar och Vilt, som hoppas att fler ska öppna anläggningar i Östergötland, där behovet av hjälp för vilda djur är stort.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Caroline wants to save injured hedgehogs: \"My childhood dream\"",
+        "summary": "A course was recently held at Kolmården Zoo for those who want to become wildlife rehabilitators. The organiser was the nationwide non-profit organisation KFV, which stands for Katastrofhjälp – Fåglar och Vilt (Disaster Relief – Birds and Wildlife), which hopes that more people will open facilities in Östergötland, where the need for help for wild animals is great."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T05:45:59+01:00"
+      }
+    },
     {
       "id": "c3b216b38463",
       "schema_version": 1,
@@ -5477,33 +5503,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T05:45:51+01:00"
-      }
-    },
-    {
-      "id": "dc7563812c77",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/skaningar-har-ratt-att-forvanta-sig-en-sjukvard-som-fungerar",
-      "guid": "c24753c7-d596-4cff-b93a-3af98ab0c569",
-      "published_at": "2026-11-24T05:30:00+01:00",
-      "fetched_at": "2026-11-24T05:31:04+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/d1cd9abc-3a3b-4297-8dc4-b0ff7f732d5b.jpeg?width=600",
-      "sv": {
-        "title": "”Skåningar har rätt att förvänta sig en sjukvård som fungerar.”",
-        "summary": "De förändringar Kristdemokraterna vill driva kräver politiskt mod, skriver Anders Lundström (KD) , tillträdande ordförande i Region Skånes hälso- och sjukvårdsnämnd.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Skåningar have the right to expect health care that works.\"",
-        "summary": "The changes the Christian Democrats want to push require political courage, writes Anders Lundström (KD), incoming chair of the Region Skåne health and medical care committee."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T05:31:09+01:00"
       }
     }
   ]
