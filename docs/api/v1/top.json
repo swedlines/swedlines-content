@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T16:01:20+01:00",
-  "count": 27,
+  "generated_at": "2026-11-28T16:15:58+01:00",
+  "count": 29,
   "stories": [
     {
       "id": "8147b0543184",
@@ -1159,6 +1159,134 @@
           },
           "en": {
             "title": "Eight dead after helicopter crash in Peru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0c5f7f1c5145",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-28T16:11:27+01:00",
+      "last_published_at": "2026-11-28T16:14:08+01:00",
+      "lead": {
+        "id": "0c5f7f1c5145",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/z0gLmb/valdsamma-protester-i-albanien-avga",
+        "guid": "https://www.aftonbladet.se/nyheter/a/z0gLmb/valdsamma-protester-i-albanien-avga?utm_medium=rss",
+        "published_at": "2026-11-28T16:11:27+01:00",
+        "fetched_at": "2026-11-28T16:15:46+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/38c49378-b853-31d9-9ce0-64015c17b024?format=auto&s=cf17a776d687a1a5d57f34ef3a16778b81f73f36&w=1000",
+        "sv": {
+          "title": "Våldsamma protester i Albanien: Avgå!",
+          "summary": "Tusentals människor samlades i Albaniens huvudstad Tirana på lördagen för att kräva premiärminister…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Violent protests in Albania: Resign!",
+          "summary": "Thousands gathered in the Albanian capital Tirana on Saturday to demand that Prime Minister…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T16:15:53+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "5d3505f8989b",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/varlden/valdsamma-protester-i-albanien-avga",
+          "published_at": "2026-11-28T16:14:08+01:00",
+          "sv": {
+            "title": "Våldsamma protester i Albanien: Avgå!"
+          },
+          "en": {
+            "title": "Violent protests in Albania: Resign!"
+          }
+        },
+        {
+          "id": "0c5f7f1c5145",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/z0gLmb/valdsamma-protester-i-albanien-avga",
+          "published_at": "2026-11-28T16:11:27+01:00",
+          "sv": {
+            "title": "Våldsamma protester i Albanien: Avgå!"
+          },
+          "en": {
+            "title": "Violent protests in Albania: Resign!"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0885d1340c35",
+      "source_count": 2,
+      "sources": [
+        "tv4",
+        "expressen"
+      ],
+      "first_published_at": "2026-11-28T16:02:01+01:00",
+      "last_published_at": "2026-11-28T16:13:59+01:00",
+      "lead": {
+        "id": "0885d1340c35",
+        "schema_version": 1,
+        "source": "tv4",
+        "url": "https://www.tv4.se/artikel/16cbwATilKchI0fLZYUhOX/jimmie-akesson-redan-vunnit",
+        "guid": "16cbwATilKchI0fLZYUhOX",
+        "published_at": "2026-11-28T16:02:01+01:00",
+        "fetched_at": "2026-11-28T16:15:46+01:00",
+        "category": "politics",
+        "feed_categories": [
+          "/"
+        ],
+        "sv": {
+          "title": "Jimmie Åkesson: ”Redan vunnit”",
+          "summary": "Talar på partiets kommun- och regionkonferens • ”Ett icke-alternativ”",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Jimmie Åkesson: \"Already won\"",
+          "summary": "Speaking at the party's municipal and regional conference • \"A non-alternative\""
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T16:15:53+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "ffebdc4c9e7f",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/politik/jimmie-akessons-besked-vi-ar-inte-dorrmatta",
+          "published_at": "2026-11-28T16:13:59+01:00",
+          "sv": {
+            "title": "Jimmie Åkessons besked: ”Vi är inte dörrmatta”"
+          },
+          "en": {
+            "title": "Jimmie Åkesson's message: \"We are not a doormat\""
+          }
+        },
+        {
+          "id": "0885d1340c35",
+          "source": "tv4",
+          "url": "https://www.tv4.se/artikel/16cbwATilKchI0fLZYUhOX/jimmie-akesson-redan-vunnit",
+          "published_at": "2026-11-28T16:02:01+01:00",
+          "sv": {
+            "title": "Jimmie Åkesson: ”Redan vunnit”"
+          },
+          "en": {
+            "title": "Jimmie Åkesson: \"Already won\""
           }
         }
       ]

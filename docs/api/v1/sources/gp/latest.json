@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-11-28T16:01:20+01:00",
+  "generated_at": "2026-11-28T16:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "da8301b8d72a",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/kim-hellbergs-succe-i-middlesbrough-kan-skriva-svensk-fotbollshistoria.b8b19d1d-2f34-5690-9aba-1f41797b4db1",
+      "guid": "b8b19d1d-2f34-5690-9aba-1f41797b4db1",
+      "published_at": "2026-11-28T15:40:33+01:00",
+      "fetched_at": "2026-11-28T16:15:48+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Fotboll",
+        "Tagg: Championship",
+        "Tagg: Premier League",
+        "Tagg: Kim Hellberg",
+        "Tagg: Sven-Göran Eriksson",
+        "Tagg: Middlesbrough FC"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e2ec9c71-6f11-30ca-89df-d3a87842f671",
+      "sv": {
+        "title": "Kim Hellbergs succé – kan bli historisk i Premier League",
+        "summary": "Kan bli förste svenske tränaren i Premier League sedan ”Svennis”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kim Hellberg's success – could become historic in the Premier League",
+        "summary": "Could become the first Swedish coach in the Premier League since \"Svennis\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T16:15:53+01:00"
+      }
+    },
     {
       "id": "57aeabf5c8de",
       "schema_version": 1,
@@ -6841,40 +6876,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T19:45:54+01:00"
-      }
-    },
-    {
-      "id": "634c8ab2d19a",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/recension-gta-6.6b66b755-9728-526d-ab7b-0d6957666a23",
-      "guid": "6b66b755-9728-526d-ab7b-0d6957666a23",
-      "published_at": "2026-11-23T17:37:27+01:00",
-      "fetched_at": "2026-11-23T17:45:49+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Kultur",
-        "Tagg: Satir",
-        "Tagg: Red dead redemption 2",
-        "Tagg: GTA 6",
-        "Tagg: Vice"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/40e6b7f5-2317-3ed9-a01f-03c6ff61f903",
-      "sv": {
-        "title": "”GTA 6” flyttar nivån för vad som är ett mästerverk",
-        "summary": "Anar en spelad upprördhet från killar som måste bete sig som en hygglig pojkvän.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"GTA 6\" moves the bar for what counts as a masterpiece",
-        "summary": "Smells of played-out outrage from guys who need to behave like decent boyfriends."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T17:45:54+01:00"
       }
     }
   ]

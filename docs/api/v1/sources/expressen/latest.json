@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-28T16:01:20+01:00",
+  "generated_at": "2026-11-28T16:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ffebdc4c9e7f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/jimmie-akessons-besked-vi-ar-inte-dorrmatta",
+      "guid": "https://www.expressen.se/nyheter/politik/jimmie-akessons-besked-vi-ar-inte-dorrmatta/",
+      "published_at": "2026-11-28T16:13:59+01:00",
+      "fetched_at": "2026-11-28T16:15:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Jimmie Åkessons besked: ”Vi är inte dörrmatta”",
+        "summary": "Från och med valet 2026 är SD ett regeringsparti eller ett oppositionsparti – ingen dörrmatta, meddelar Jimmie Åkesson under lördagen. – Ska vi garantera stöd för en regerings politik ska vi också sitta i den.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jimmie Åkesson's message: \"We are not a doormat\"",
+        "summary": "From the 2026 election onward, the Sweden Democrats (SD) will be either a government party or an opposition party – no doormat, Jimmie Åkesson announced on Saturday. \"If we are to guarantee support for a government's policy, we should also sit in it.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T16:15:53+01:00"
+      }
+    },
+    {
+      "id": "de6a4e6dfe0e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/nazistiska-aktivklubb-sverige--marscherar-genom-stockholm",
+      "guid": "https://www.expressen.se/nyheter/sverige/nazistiska-aktivklubb-sverige--marscherar-genom-stockholm/",
+      "published_at": "2026-11-28T16:04:50+01:00",
+      "fetched_at": "2026-11-28T16:15:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Nazistiska Aktivklubb Sverige marscherar genom Stockholm",
+        "summary": "Nazistiska Aktivklubb ska marschera genom Stockholm. Polisen har förberett sig med en extra resurs och drönare i luften. – Vi vet att demonstrationen väcker oro, säger Ola Österling på Stockholmspolisen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nazi Activist Club Sweden marches through Stockholm",
+        "summary": "Nazi Activist Club Sweden is set to march through Stockholm. The police have prepared with an extra resource and drones in the air. \"We know the demonstration is causing concern,\" says Ola Österling of the Stockholm Police."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T16:15:53+01:00"
+      }
+    },
     {
       "id": "a25a671c23a3",
       "schema_version": 1,
@@ -5144,58 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T13:01:21+01:00"
-      }
-    },
-    {
-      "id": "0ce526ee4caf",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/c-kvinnor-nej-till-borgerlig-regering",
-      "guid": "https://www.expressen.se/nyheter/politik/c-kvinnor-nej-till-borgerlig-regering/",
-      "published_at": "2026-11-25T11:42:14+01:00",
-      "fetched_at": "2026-11-25T11:45:44+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C-kvinnor: Nej till borgerlig regering",
-        "summary": "Centern kan inte göra sig beroende av SD. Det menar Centerkvinnorna. Partiet borde gå i opposition i stället för att ingå i en borgerlig regering, skriver de på Expressen debatt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "C-women: No to bourgeois government",
-        "summary": "The Centre Party cannot make itself dependent on the Sweden Democrats. That is the view of the Centre Party Women's League. The party should go into opposition rather than join a bourgeois government, they write in an Expressen debate piece."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T11:45:51+01:00"
-      }
-    },
-    {
-      "id": "be13ba336896",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/sd-vill-sanka-skatten-pa-bensin-och-diesel",
-      "guid": "https://www.expressen.se/nyheter/politik/sd-vill-sanka-skatten-pa-bensin-och-diesel/",
-      "published_at": "2026-11-25T11:26:52+01:00",
-      "fetched_at": "2026-11-25T11:31:08+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "SD vill sänka skatten på bensin och diesel",
-        "summary": "Sverigedemokraterna vill sänka skatten på bensin och diesel under första halvåret 2027. Det framgår av partiets budgetmotion, som bland annat finansieras genom minskat bistånd.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Sweden Democrats want to cut the tax on petrol and diesel",
-        "summary": "The Sweden Democrats want to cut the tax on petrol and diesel during the first half of 2027. This is stated in the party's budget motion, which is partly financed through reduced aid."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T11:31:23+01:00"
       }
     }
   ]

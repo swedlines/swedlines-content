@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T16:01:20+01:00",
+  "generated_at": "2026-11-28T16:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5d3505f8989b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/valdsamma-protester-i-albanien-avga",
+      "guid": "61bc99c4-468c-4973-ab9c-5c9ec8423935",
+      "published_at": "2026-11-28T16:14:08+01:00",
+      "fetched_at": "2026-11-28T16:15:49+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/e32da2e7-6af0-47fe-ab59-2cb247ae7961.jpg?width=600",
+      "sv": {
+        "title": "Våldsamma protester i Albanien: Avgå!",
+        "summary": "Tusentals människor samlades i Albaniens huvudstad Tirana på lördagen för att kräva premiärminister Edi Ramas avgång.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Violent protests in Albania: Resign!",
+        "summary": "Thousands gathered in the Albanian capital Tirana on Saturday to demand the resignation of Prime Minister Edi Rama."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T16:15:53+01:00"
+      }
+    },
     {
       "id": "30fa4595e611",
       "schema_version": 1,
@@ -5255,33 +5282,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T20:31:22+01:00"
-      }
-    },
-    {
-      "id": "b9cf5db0e91a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/inga-toadorrar-pa-haktet-jo-kritiserar",
-      "guid": "715b1c44-1c6c-4736-aee1-eb5a78c6f6ec",
-      "published_at": "2026-11-25T19:34:08+01:00",
-      "fetched_at": "2026-11-25T19:34:45+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/b59a411d-ddce-47af-9170-378b003d5676.jpg?width=600",
-      "sv": {
-        "title": "Inga toadörrar på häktet – JO kritiserar",
-        "summary": "Intagna på det nya häktet i Kristianstad kan inte stänga om sig när de ska gå på toaletten i cellen, rapporterar P4 Kristianstad.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "No toilet doors at remand centre – Parliamentary Ombudsman criticises",
-        "summary": "Inmates at the new remand centre in Kristianstad cannot close themselves in when they go to the toilet in their cell, P4 Kristianstad reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T19:34:52+01:00"
       }
     }
   ]

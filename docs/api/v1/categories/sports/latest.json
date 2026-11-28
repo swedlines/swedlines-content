@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T16:01:20+01:00",
+  "generated_at": "2026-11-28T16:15:58+01:00",
   "count": 200,
   "items": [
     {
@@ -27,6 +27,41 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T16:01:18+01:00"
+      }
+    },
+    {
+      "id": "da8301b8d72a",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/kim-hellbergs-succe-i-middlesbrough-kan-skriva-svensk-fotbollshistoria.b8b19d1d-2f34-5690-9aba-1f41797b4db1",
+      "guid": "b8b19d1d-2f34-5690-9aba-1f41797b4db1",
+      "published_at": "2026-11-28T15:40:33+01:00",
+      "fetched_at": "2026-11-28T16:15:48+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Fotboll",
+        "Tagg: Championship",
+        "Tagg: Premier League",
+        "Tagg: Kim Hellberg",
+        "Tagg: Sven-Göran Eriksson",
+        "Tagg: Middlesbrough FC"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e2ec9c71-6f11-30ca-89df-d3a87842f671",
+      "sv": {
+        "title": "Kim Hellbergs succé – kan bli historisk i Premier League",
+        "summary": "Kan bli förste svenske tränaren i Premier League sedan ”Svennis”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kim Hellberg's success – could become historic in the Premier League",
+        "summary": "Could become the first Swedish coach in the Premier League since \"Svennis\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T16:15:53+01:00"
       }
     },
     {
@@ -5600,33 +5635,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T11:15:52+01:00"
-      }
-    },
-    {
-      "id": "cfeeda191449",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/henrik-rydstroms-dubbla-sorg-vordnad-infor-livet",
-      "guid": "8adbe3a6-608b-4c21-ab42-f42a7ad5b8bd",
-      "published_at": "2026-11-22T11:00:00+01:00",
-      "fetched_at": "2026-11-22T11:01:14+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/5386a4bd-cb6c-4903-b83d-b11868c941d3.jpeg?width=600",
-      "sv": {
-        "title": "Rydströms sorg – förlorat båda föräldrarna i år: ”Tacksam för allt de gjorde”",
-        "summary": "Hammarbys tränare Henrik Rydström letar efter orden. – Jag vet inte hur jag ska säga det här för alla ord blir futtiga, men jag är bara så tacksam för allt som mina föräldrar gjorde för mig, säger han till slut. I början av året förlorade den guldjagande tränaren sin pappa.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Rydström's grief – lost both parents this year: \"Grateful for everything they did\"",
-        "summary": "Hammarby coach Henrik Rydström searches for words. \"I don't know how to say this because all words feel inadequate, but I am just so grateful for everything my parents did for me,\" he says in the end. Earlier this year, the gold-chasing coach lost his father."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T11:01:18+01:00"
       }
     }
   ]

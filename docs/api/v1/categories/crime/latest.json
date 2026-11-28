@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T16:01:20+01:00",
+  "generated_at": "2026-11-28T16:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "de6a4e6dfe0e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/nazistiska-aktivklubb-sverige--marscherar-genom-stockholm",
+      "guid": "https://www.expressen.se/nyheter/sverige/nazistiska-aktivklubb-sverige--marscherar-genom-stockholm/",
+      "published_at": "2026-11-28T16:04:50+01:00",
+      "fetched_at": "2026-11-28T16:15:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Nazistiska Aktivklubb Sverige marscherar genom Stockholm",
+        "summary": "Nazistiska Aktivklubb ska marschera genom Stockholm. Polisen har förberett sig med en extra resurs och drönare i luften. – Vi vet att demonstrationen väcker oro, säger Ola Österling på Stockholmspolisen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nazi Activist Club Sweden marches through Stockholm",
+        "summary": "Nazi Activist Club Sweden is set to march through Stockholm. The police have prepared with an extra resource and drones in the air. \"We know the demonstration is causing concern,\" says Ola Österling of the Stockholm Police."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T16:15:53+01:00"
+      }
+    },
     {
       "id": "1b304d8fd862",
       "schema_version": 1,
@@ -5358,35 +5384,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T22:45:50+01:00"
-      }
-    },
-    {
-      "id": "65b25a4a6a4a",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3ZcIdwoDXipwGZ0eV5fhd1/flera-foernedrades-och-hotades-till-doeden-om-det-haer-laecker-ut",
-      "guid": "3ZcIdwoDXipwGZ0eV5fhd1",
-      "published_at": "2026-11-23T21:29:24+01:00",
-      "fetched_at": "2026-11-23T21:31:03+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Flera förnedrades och hotades till döden: ”Om det här läcker ut”",
-        "summary": "Sex manliga tredjeklassare på Sigtunaskolan Humanistiska Läroverket, SSHL, åtalas för brott mot yngre internatelever. Två av dem ska enligt åtalet ha varit särskilt drivande och misstänks för bland annat grovt sexuellt ofredande, grov misshandel och grovt olaga tvång.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Several were humiliated and threatened with death: \"If this leaks out\"",
-        "summary": "Six male third-year students at Sigtunaskolan Humanistiska Läroverket, SSHL, are charged with offences against younger boarding students. According to the charges, two of them were especially driving and are suspected of, among other things, aggravated sexual harassment, aggravated assault and aggravated unlawful coercion."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T21:31:09+01:00"
       }
     }
   ]
