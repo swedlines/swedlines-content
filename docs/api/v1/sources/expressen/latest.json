@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T02:31:06+01:00",
+  "generated_at": "2026-11-28T02:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "efe969d04290",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/markwayne-mullin-kan-bli-nasta-minister-att-sparkas-en-idiot",
+      "guid": "https://www.expressen.se/nyheter/varlden/markwayne-mullin-kan-bli-nasta-minister-att-sparkas-en-idiot/",
+      "published_at": "2026-11-28T02:39:00+01:00",
+      "fetched_at": "2026-11-28T02:45:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Markwayne Mullin kan bli nästa minister att sparkas: ”En idiot”",
+        "summary": "Efter åtta månader på jobbet kan det vara kört för säkerhetsministern Markwayne Mullin. Medarbetare har inlett vadslagning om hur länge han blir kvar. – Han är en idiot, säger en källa.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Markwayne Mullin could be next minister to be fired: \"An idiot\"",
+        "summary": "After eight months in the job, it may be over for Security Minister Markwayne Mullin. Staff have started betting on how long he will stay. \"He is an idiot,\" says a source."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T02:45:49+01:00"
+      }
+    },
     {
       "id": "ac45ef52c411",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T23:43:24+01:00"
-      }
-    },
-    {
-      "id": "595ac3895796",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trebarnsmamman--dodad-av-flera-djur",
-      "guid": "https://www.expressen.se/nyheter/varlden/trebarnsmamman--dodad-av-flera-djur/",
-      "published_at": "2026-11-24T23:23:17+01:00",
-      "fetched_at": "2026-11-24T23:30:59+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trebarnsmamman dödad av flera djur",
-        "summary": "Allison Anderson skulle snart bli mormor för första gången. Då blev 36-åriga trebarnsmamman dödad av hundar, skriver NBC News. – Jag är så äcklad att ägarna till dessa hundar inte hade kontroll över dem, säger dottern Miley Garner.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Three-child mother killed by several dogs",
-        "summary": "Allison Anderson was soon to become a grandmother for the first time. Then the 36-year-old mother of three was killed by dogs, NBC News reports. \"I am so disgusted that the owners of these dogs did not have control over them,\" says daughter Miley Garner."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T23:31:05+01:00"
       }
     }
   ]
