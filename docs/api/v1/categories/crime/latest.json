@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T13:31:06+01:00",
+  "generated_at": "2026-11-28T13:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c0ccc24e1963",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/M5RGlo/sweden-aslam-gripen-i-bangladesh",
+      "guid": "https://www.aftonbladet.se/nyheter/a/M5RGlo/sweden-aslam-gripen-i-bangladesh?utm_medium=rss",
+      "published_at": "2026-11-28T13:44:55+01:00",
+      "fetched_at": "2026-11-28T13:45:46+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/912a3094-13cd-3e02-ae92-095ed0fba066?format=auto&s=7566e2af4ddffe23b848907aab7d2f080dcd8716&w=1000",
+      "sv": {
+        "title": "”Sweden Aslam” gripen i Bangladesh",
+        "summary": "Fast på flygplatsen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Sweden Aslam” arrested in Bangladesh",
+        "summary": "Caught at the airport"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:45:58+01:00"
+      }
+    },
     {
       "id": "5e006b12fc1c",
       "schema_version": 1,
@@ -26,6 +53,41 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T13:28:15+01:00"
+      }
+    },
+    {
+      "id": "91cd7830f389",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/livsstil/tva-dagar/mustafa-zatara-vagrar-lata-lasermannen-definiera-pappans-liv.21094cae-4606-503e-8b14-7d8313063c4d",
+      "guid": "21094cae-4606-503e-8b14-7d8313063c4d",
+      "published_at": "2026-11-28T13:18:36+01:00",
+      "fetched_at": "2026-11-28T13:45:48+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Två Dagar",
+        "Tagg: ”Lasermannen” John Ausonius",
+        "Tagg: Scen",
+        "Tagg: Kultur",
+        "Tagg: Två Dagar",
+        "Tagg: Rasism"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e2235f60-f90f-327f-8e2b-aabd7dad7802",
+      "sv": {
+        "title": "Lasermannen sköt hans pappa – 30 år senare började Mustafa söka svar",
+        "summary": "”Smärtan har gjort det omöjligt för min familj att prata om vad som hände”, säger Mustafa Zatara.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lasermannen shot his dad – 30 years later Mustafa began seeking answers",
+        "summary": "“The pain has made it impossible for my family to talk about what happened”, says Mustafa Zatara."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:45:58+01:00"
       }
     },
     {
@@ -5325,55 +5387,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T21:15:56+01:00"
-      }
-    },
-    {
-      "id": "3f3abb10c295",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/spionens-brev-kan--ha-kodade-budskap-",
-      "guid": "https://www.expressen.se/nyheter/sverige/spionens-brev-kan--ha-kodade-budskap-/",
-      "published_at": "2026-11-23T20:59:49+01:00",
-      "fetched_at": "2026-11-23T21:15:50+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Spionens brev kan ha kodade budskap",
-        "summary": "Storspionen Peyman Kia har begärt ut uppgifter om anställda inom Kriminalvården – och kräver nu en muntlig domstolsförhandling med tio vittnen. Samtidigt granskas hans handskrivna brev efter misstankar om att de innehåller kodade budskap.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Spy's letters may contain coded messages",
-        "summary": "Master spy Peyman Kia has requested records on employees of the Prison and Probation Service – and now demands an oral court hearing with ten witnesses. Meanwhile, his handwritten letters are being examined over suspicions that they contain coded messages."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T21:15:56+01:00"
-      }
-    },
-    {
-      "id": "e6b8ca42eafa",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80229",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80229&utm_medium=rss",
-      "published_at": "2026-11-23T20:52:35+01:00",
-      "fetched_at": "2026-11-23T21:01:08+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Misstänkt mord i Heby"
-      },
-      "en": {
-        "title": "Suspected Murder in Heby"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T21:01:14+01:00"
       }
     }
   ]

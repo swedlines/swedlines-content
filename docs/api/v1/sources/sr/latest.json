@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-28T13:31:06+01:00",
+  "generated_at": "2026-11-28T13:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4c668e0dc985",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9352163",
+      "guid": "rss:sr.se/article/9352163",
+      "published_at": "2026-11-28T13:37:00+01:00",
+      "fetched_at": "2026-11-28T13:45:44+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Första advent stundar – kyrkomusikern: ”Äntligen”",
+        "summary": "I morgon söndag tänds det första adventsljuset i kyrkor och hem. Högtiden präglas av klassiska psalmer och sånger. Hör Karin Wall Kälming, redaktör för Kyrkomusikernas Tidning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "First Advent approaches – church musician: “Finally”",
+        "summary": "Tomorrow, Sunday, the first Advent candle is lit in churches and homes. The holiday is marked by classic hymns and songs. Listen to Karin Wall Kälming, editor of Kyrkomusikernas Tidning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:45:58+01:00"
+      }
+    },
+    {
+      "id": "6e8716e65960",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9352167",
+      "guid": "rss:sr.se/article/9352167",
+      "published_at": "2026-11-28T13:36:00+01:00",
+      "fetched_at": "2026-11-28T13:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Explosion vid skola i Afghanistan – sju döda",
+        "summary": "I Afghanistan har minst sju personer dött och 97 skadats efter en explosion vid en skola i de nordöstra delarna av landet, skriver nyhetsbyrån AP. Undersökningar visar att explosionen skedde vid ett lager för explosiva ämnen som ska ha tillhört ett gruvföretag som låg nära skolan, skriver Reuters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Explosion at school in Afghanistan – seven dead",
+        "summary": "At least seven people have died and 97 have been injured after an explosion at a school in the northeastern part of Afghanistan, news agency AP reports. Investigations show the explosion occurred at a store of explosive materials said to belong to a mining company located near the school, Reuters reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:45:58+01:00"
+      }
+    },
     {
       "id": "f785acd087a8",
       "schema_version": 1,
@@ -5148,58 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T14:16:05+01:00"
-      }
-    },
-    {
-      "id": "87222b7d340d",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348302",
-      "guid": "rss:sr.se/article/9348302",
-      "published_at": "2026-11-23T13:44:00+01:00",
-      "fetched_at": "2026-11-23T13:45:48+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Greta Thunberg döms för olaga intrång",
-        "summary": "Den svenska aktivisten Greta Thunberg döms för olaga intrång i Danmark. Hon döms dels för en aktion 2024 på Köpenhamns universitet, då hon tillsammans med andra aktivister tog sig in i en byggnad utan tillstånd.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Greta Thunberg convicted of trespassing",
-        "summary": "Swedish activist Greta Thunberg is convicted of trespassing in Denmark. She is convicted in part for an action in 2024 at the University of Copenhagen, when she and other activists entered a building without permission."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T13:45:56+01:00"
-      }
-    },
-    {
-      "id": "c051f04cc8c5",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348265",
-      "guid": "rss:sr.se/article/9348265",
-      "published_at": "2026-11-23T13:19:00+01:00",
-      "fetched_at": "2026-11-23T13:30:58+01:00",
-      "category": "world",
-      "sv": {
-        "title": "FN-chefen om klimattoppmötet utan avtal: ”Djupt besviken”",
-        "summary": "Det kommer flera besvikna reaktioner på att klimattoppmötet COP31 slutade utan en överenskommelse. Det var bland annat EU:s delegation och flera mindre önationer, som redan nu drabbas hårt av höjda havsnivåer och exteremväder, som vägrade ställa sig bakom förslaget till sluttext, eftersom fossila…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "UN chief on the climate summit without agreement: “Deeply disappointed”",
-        "summary": "There are several disappointed reactions to the climate summit COP31 ending without an agreement. Among others, the EU delegation and several small island nations, which are already hit hard by rising sea levels and extreme weather, refused to back the proposed final text because fossil…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T13:31:20+01:00"
       }
     }
   ]

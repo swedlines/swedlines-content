@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T13:31:06+01:00",
+  "generated_at": "2026-11-28T13:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "61a5a299b2e8",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/bedomare-lagre-loneokningar-vantar",
+      "guid": "ba0dcd5e-e26b-47d7-91fc-225f0eaa751f",
+      "published_at": "2026-11-28T13:40:00+01:00",
+      "fetched_at": "2026-11-28T13:45:49+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/25319e2d-06d4-4a4c-82d7-7ab027a52b52.jpg?width=600",
+      "sv": {
+        "title": "Bedömare: Lägre löneökningar väntar",
+        "summary": "Löneökningarna för över tre miljoner svenskar ser ut att bli lägre än tidigare år. Det spår bedömare inför vinterns stora lönerörelse, med anledning av att fackens utgångskrav är sänkta. – Det talar för att löneavtalen också växlar ner lite grann, säger Susanne Spector på Danske Bank.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Analysts: Lower wage increases ahead",
+        "summary": "Wage increases for over three million Swedes look set to be lower than in previous years. That is what analysts predict ahead of this winter's major wage round, as unions' opening demands have been lowered. – It suggests the wage agreements will also shift down a little, says Susanne Spector at Danske Bank."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:45:58+01:00"
+      }
+    },
     {
       "id": "c0d26682b507",
       "schema_version": 1,
@@ -5238,33 +5265,6 @@
       "en": {
         "title": "Staffanstorp's first gated community – this is what it will look like",
         "summary": "High walls, guards and surveillance cameras? Staffanstorp's first gated community is planned as a company town with shops and a town square – and great opportunities to shut out the outside world from both homes and businesses."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T17:01:32+01:00"
-      }
-    },
-    {
-      "id": "85d7ae41ac81",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/riksdagen-klubbade-ny-svensk-filmpolitik",
-      "guid": "161d3673-ac6d-43a0-94ca-788ee4fd1b36",
-      "published_at": "2026-11-25T16:51:14+01:00",
-      "fetched_at": "2026-11-25T17:01:23+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/50b45da3-6da2-47d3-b5b1-153a2988da9b.jpg?width=600",
-      "sv": {
-        "title": "Riksdagen klubbade ny svensk filmpolitik",
-        "summary": "Nu är det klart. Den 1 januari får Sverige en ny filmpolitik. Riksdagen har klubbat regeringens filmproposition.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Riksdag passed new Swedish film policy",
-        "summary": "Now it is decided. On 1 January Sweden gets a new film policy. The Riksdag has passed the government's film bill."
       },
       "translation": {
         "status": "done",

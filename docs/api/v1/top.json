@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T13:31:06+01:00",
-  "count": 18,
+  "generated_at": "2026-11-28T13:46:00+01:00",
+  "count": 19,
   "stories": [
     {
       "id": "8147b0543184",
@@ -908,6 +908,69 @@
           },
           "en": {
             "title": "Eight dead after helicopter crash in Peru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cd4e25a81b70",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-28T10:00:12+01:00",
+      "last_published_at": "2026-11-28T13:40:00+01:00",
+      "lead": {
+        "id": "cd4e25a81b70",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/kMRamj/bedomare-lagre-loneokningar-vantar",
+        "guid": "https://www.svd.se/a/kMRamj/bedomare-lagre-loneokningar-vantar?utm_medium=rss",
+        "published_at": "2026-11-28T10:00:12+01:00",
+        "fetched_at": "2026-11-28T10:15:45+01:00",
+        "category": "economy",
+        "image_url": "https://akamai.vgc.no/v2/images/37ce4f10-038f-3a99-b371-33a15f86625e?format=auto&s=303301e7c760e68b0502508774eb5f2f53c736a6&w=1000",
+        "sv": {
+          "title": "Bedömare: Lägre löneökningar väntar",
+          "summary": "Löneökningarna för över tre miljoner svenskar ser ut att bli lägre än tidigare år.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Analysts: Lower pay rises ahead",
+          "summary": "Pay rises for over three million Swedes look set to be lower than in previous years."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T10:15:53+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "61a5a299b2e8",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/bedomare-lagre-loneokningar-vantar",
+          "published_at": "2026-11-28T13:40:00+01:00",
+          "sv": {
+            "title": "Bedömare: Lägre löneökningar väntar"
+          },
+          "en": {
+            "title": "Analysts: Lower wage increases ahead"
+          }
+        },
+        {
+          "id": "cd4e25a81b70",
+          "source": "svd",
+          "url": "https://www.svd.se/a/kMRamj/bedomare-lagre-loneokningar-vantar",
+          "published_at": "2026-11-28T10:00:12+01:00",
+          "sv": {
+            "title": "Bedömare: Lägre löneökningar väntar"
+          },
+          "en": {
+            "title": "Analysts: Lower pay rises ahead"
           }
         }
       ]

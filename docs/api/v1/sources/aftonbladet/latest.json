@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T13:31:06+01:00",
+  "generated_at": "2026-11-28T13:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c0ccc24e1963",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/M5RGlo/sweden-aslam-gripen-i-bangladesh",
+      "guid": "https://www.aftonbladet.se/nyheter/a/M5RGlo/sweden-aslam-gripen-i-bangladesh?utm_medium=rss",
+      "published_at": "2026-11-28T13:44:55+01:00",
+      "fetched_at": "2026-11-28T13:45:46+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/912a3094-13cd-3e02-ae92-095ed0fba066?format=auto&s=7566e2af4ddffe23b848907aab7d2f080dcd8716&w=1000",
+      "sv": {
+        "title": "”Sweden Aslam” gripen i Bangladesh",
+        "summary": "Fast på flygplatsen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Sweden Aslam” arrested in Bangladesh",
+        "summary": "Caught at the airport"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:45:58+01:00"
+      }
+    },
     {
       "id": "f1624214ae02",
       "schema_version": 1,
@@ -5343,32 +5370,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T14:15:57+01:00"
-      }
-    },
-    {
-      "id": "bba89d8f80b0",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/9Bv2Lp/bonusprinsens-nya-jobb-mobelsnickare",
-      "guid": "https://www.aftonbladet.se/nyheter/a/9Bv2Lp/bonusprinsens-nya-jobb-mobelsnickare?utm_medium=rss",
-      "published_at": "2026-11-25T13:55:36+01:00",
-      "fetched_at": "2026-11-25T14:45:46+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Bonusprinsens nya jobb: Möbelsnickare",
-        "summary": "Bonusprinsens första dag",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The bonus prince's new job: Furniture maker",
-        "summary": "The bonus prince's first day"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T14:45:52+01:00"
       }
     }
   ]
