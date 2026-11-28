@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T15:45:48+01:00",
+  "generated_at": "2026-11-28T16:01:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "657e279ab5c4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/argentina-nekas-oljestopp-vid-falklandsoarna",
+      "guid": "fa7102ae-2ce9-4c74-a4d7-4bf503361149",
+      "published_at": "2026-11-28T15:55:38+01:00",
+      "fetched_at": "2026-11-28T16:01:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f5031bd8-8ac2-4c30-a8ec-3f14a0fc5487.jpg?width=600",
+      "sv": {
+        "title": "Argentina nekas oljestopp vid Falklandsöarna",
+        "summary": "En internationell domstol avslår Argentinas begäran om att stoppa ett brittiskt-israeliskt oljeprojekt utanför de omstridda Falklandsöarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Argentina denied oil halt near the Falkland Islands",
+        "summary": "An international court rejects Argentina's request to stop a British-Israeli oil project off the disputed Falkland Islands."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T16:01:18+01:00"
+      }
+    },
     {
       "id": "921d4434cdc7",
       "schema_version": 1,
@@ -5294,33 +5321,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T17:31:12+01:00"
-      }
-    },
-    {
-      "id": "cc29e50e3c78",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/soderfjell-efter-nvidia-besoket-styrelsen-borde-avga",
-      "guid": "0fcde42b-faf2-48e8-9693-3eda09752012",
-      "published_at": "2026-11-26T16:59:05+01:00",
-      "fetched_at": "2026-11-26T17:15:55+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a2391083-5ab6-4ade-9463-1557e5d060e3.jpeg?width=600",
-      "sv": {
-        "title": "Söderfjell efter Nvidia-besöket: ”Styrelsen borde avgå”",
-        "summary": "Förra veckan, mitt under vd-turbulensen, besökte en grupp välkända svenska investerare halvledarjätten Nvidia i Silicon Valley. Slutsatsen från medresenären Lars Söderfjell: ”Jag tycker personligen att styrelsen borde avgå”, säger Ålandsbankens aktiechef.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Söderfjell after Nvidia visit: \"The board should resign\"",
-        "summary": "Last week, in the middle of the CEO turmoil, a group of well-known Swedish investors visited the semiconductor giant Nvidia in Silicon Valley. The conclusion from fellow traveller Lars Söderfjell: \"Personally, I think the board should resign\", says the head of equities at Ålandsbanken."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T17:16:01+01:00"
       }
     }
   ]

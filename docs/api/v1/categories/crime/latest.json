@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T15:45:48+01:00",
+  "generated_at": "2026-11-28T16:01:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1b304d8fd862",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/26-skoldpaddor-beslagtagna-i-tullen-pa-amsterdams-flygplats",
+      "guid": "https://www.dn.se/varlden/26-skoldpaddor-beslagtagna-i-tullen-pa-amsterdams-flygplats/",
+      "published_at": "2026-11-28T15:46:05+01:00",
+      "fetched_at": "2026-11-28T16:01:10+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/9fc5d703-a1de-42a5-94c7-7b79d31fb46d.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "26 sköldpaddor beslagtagna i tullen på Amsterdams flygplats",
+        "summary": "I ett incheckat bagage på Amsterdams flygplats gjorde tullpersonalen på lördagen ett ovanligt fynd: 26 sköldpaddor. Ägaren till väskan, en man på väg från Mexiko till Hongkong, har gripits.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "26 turtles seized by customs at Amsterdam airport",
+        "summary": "In checked luggage at Amsterdam airport, customs officers made an unusual find on Saturday: 26 turtles. The owner of the bag, a man travelling from Mexico to Hong Kong, has been arrested."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T16:01:18+01:00"
+      }
+    },
     {
       "id": "c0ccc24e1963",
       "schema_version": 1,
@@ -5360,33 +5387,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T21:31:09+01:00"
-      }
-    },
-    {
-      "id": "4e1d85ff1df8",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ARdnPn/atal-for-alvsjomordet-om-nagra-manader",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ARdnPn/atal-for-alvsjomordet-om-nagra-manader?utm_medium=rss",
-      "published_at": "2026-11-23T21:14:46+01:00",
-      "fetched_at": "2026-11-23T21:15:49+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/2387d15e-0c83-3991-a918-4fb6bc105d67?format=auto&s=c2bbf26f400c148a4df9b1bb3469f7c3d7441e6c&w=1000",
-      "sv": {
-        "title": "Åtal för Älvsjömordet ”om några månader”",
-        "summary": "Utredningen om det uppmärksammade mordet på en 24-årig kvinna i Älvsjö fortsätter att växa.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Charges for the Älvsjö murder “in a few months”",
-        "summary": "The investigation into the high-profile murder of a 24-year-old woman in Älvsjö continues to grow."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T21:15:56+01:00"
       }
     }
   ]
