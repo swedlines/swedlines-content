@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T04:01:17+01:00",
+  "generated_at": "2026-11-28T04:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "30a8be31f6dd",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9352086",
+      "guid": "rss:sr.se/article/9352086",
+      "published_at": "2026-11-28T04:09:00+01:00",
+      "fetched_at": "2026-11-28T04:15:48+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Åtta döda efter helikopterkrasch i Peru",
+        "summary": "I sydöstra Peru har åtta personer dött när en helikopter med militärpersonal kraschade i en floddal där det förekommer omfattande koka-odling, det meddelar Perus försvarsministerie enligt AFP. Kraschen inträffade efter att helikoptern plockat upp en patrull under ett räddningsuppdrag.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Eight dead after helicopter crash in Peru",
+        "summary": "Eight people have died in south-eastern Peru after a helicopter carrying military personnel crashed in a river valley where extensive coca cultivation takes place, Peru's Ministry of Defence told AFP. The crash occurred after the helicopter had picked up a patrol during a rescue mission."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T04:15:53+01:00"
+      }
+    },
     {
       "id": "db08370bd199",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T12:01:24+01:00"
-      }
-    },
-    {
-      "id": "2c07e291ef75",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348166",
-      "guid": "rss:sr.se/article/9348166",
-      "published_at": "2026-11-23T11:25:00+01:00",
-      "fetched_at": "2026-11-23T11:30:57+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Zelenskyj: Ukraina bakom fartygsattack i Libyen",
-        "summary": "Ett rysk stridsfartyg har sänkts i Libyen i en hamn kontrollerad av rysstödda styrkor i Benghazi. Ukrainas president Zelenskyy har bekräftat att Ukraina ligger bakom attacken.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Zelenskyy: Ukraine behind ship attack in Libya",
-        "summary": "A Russian warship has been sunk in Libya, in a port controlled by Russian-backed forces in Benghazi. Ukraine's president Zelenskyy has confirmed that Ukraine is behind the attack."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T11:31:07+01:00"
       }
     }
   ]
