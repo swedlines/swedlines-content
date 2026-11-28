@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T12:45:47+01:00",
+  "generated_at": "2026-11-28T13:01:26+01:00",
   "count": 200,
   "items": [
     {
@@ -135,6 +135,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T11:45:49+01:00"
+      }
+    },
+    {
+      "id": "79ab12a151d5",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/WmOL8g/dadgostar-vi-finns-har",
+      "guid": "https://www.aftonbladet.se/nyheter/a/WmOL8g/dadgostar-vi-finns-har?utm_medium=rss",
+      "published_at": "2026-11-28T10:07:57+01:00",
+      "fetched_at": "2026-11-28T13:01:10+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/c871f579-1b5d-313a-853d-5fa22cd260f6?format=auto&s=ec95c616d07d45819651de08e5efb60bc00a50b2&w=1000",
+      "sv": {
+        "title": "Dadgostar: ”Vi finns här”",
+        "summary": "V-ledaren: Vi vill förhandla",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dadgostar: \"We are here\"",
+        "summary": "Left Party (V) leader: We want to negotiate"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:01:21+01:00"
       }
     },
     {
@@ -5342,33 +5369,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T14:45:52+01:00"
-      }
-    },
-    {
-      "id": "b3db755689d7",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/4Eq2Rg/centerpartiet-abir-al-sahlani-i-oppen-strid-med-partiledaren-elisabeth-thand-ringvist",
-      "guid": "https://www.aftonbladet.se/nyheter/a/4Eq2Rg/centerpartiet-abir-al-sahlani-i-oppen-strid-med-partiledaren-elisabeth-thand-ringvist?utm_medium=rss",
-      "published_at": "2026-11-25T13:47:31+01:00",
-      "fetched_at": "2026-11-25T14:01:15+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/08f32ab3-655e-3b13-a857-401d7d593ca3?format=auto&s=eafea18daa84b4b773a37fed4378b7e9aa88f93d&w=1000",
-      "sv": {
-        "title": "C-toppen går emot Thand Ringqvist: ”Djupt oroad”",
-        "summary": "”Den enkla och ärliga matematiken”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "C top leadership goes against Thand Ringqvist: \"Deeply worried\"",
-        "summary": "\"The simple and honest arithmetic\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T14:01:22+01:00"
       }
     }
   ]

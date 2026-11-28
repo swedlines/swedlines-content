@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T12:45:47+01:00",
-  "count": 18,
+  "generated_at": "2026-11-28T13:01:26+01:00",
+  "count": 19,
   "stories": [
     {
       "id": "8147b0543184",
@@ -14,7 +14,7 @@
         "di"
       ],
       "first_published_at": "2026-11-28T09:42:09+01:00",
-      "last_published_at": "2026-11-28T12:05:51+01:00",
+      "last_published_at": "2026-11-28T13:00:32+01:00",
       "lead": {
         "id": "8147b0543184",
         "schema_version": 1,
@@ -45,6 +45,18 @@
         }
       },
       "items": [
+        {
+          "id": "d418bba5ed56",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/olof-lundh-hyllas-efter-sjukdomsbeskedet",
+          "published_at": "2026-11-28T13:00:32+01:00",
+          "sv": {
+            "title": "Olof Lundh hyllas efter sjukdomsbeskedet"
+          },
+          "en": {
+            "title": "Olof Lundh praised after illness announcement"
+          }
+        },
         {
           "id": "16c8b7afe203",
           "source": "tv4",
@@ -795,6 +807,65 @@
           },
           "en": {
             "title": "Eight dead after helicopter crash in Peru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2cb3e036def2",
+      "source_count": 2,
+      "sources": [
+        "svd",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-28T12:47:56+01:00",
+      "last_published_at": "2026-11-28T12:59:33+01:00",
+      "lead": {
+        "id": "2cb3e036def2",
+        "schema_version": 1,
+        "source": "svd",
+        "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80402",
+        "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80402&utm_medium=rss",
+        "published_at": "2026-11-28T12:47:56+01:00",
+        "fetched_at": "2026-11-28T13:01:09+01:00",
+        "category": "sports",
+        "sv": {
+          "title": "Svahn vinner sprintpremiären – svensk trippel"
+        },
+        "en": {
+          "title": "Svahn wins the sprint opener – Swedish triple"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T13:01:21+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "1b8cbc1f9626",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/svahn-vinner-sprintpremiaren-svensk-trippel",
+          "published_at": "2026-11-28T12:59:33+01:00",
+          "sv": {
+            "title": "Svahn vinner sprintpremiären – svensk trippel"
+          },
+          "en": {
+            "title": "Svahn wins the sprint opener – Swedish triple"
+          }
+        },
+        {
+          "id": "2cb3e036def2",
+          "source": "svd",
+          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80402",
+          "published_at": "2026-11-28T12:47:56+01:00",
+          "sv": {
+            "title": "Svahn vinner sprintpremiären – svensk trippel"
+          },
+          "en": {
+            "title": "Svahn wins the sprint opener – Swedish triple"
           }
         }
       ]

@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-28T12:45:47+01:00",
+  "generated_at": "2026-11-28T13:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cca344317f9e",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6rakuXa9JFJTxqlOfvKRdO/katja-nyberg-har-blivit-med-butik-nu-tar-jag-tillbaka-beraettelsen",
+      "guid": "6rakuXa9JFJTxqlOfvKRdO",
+      "published_at": "2026-11-28T12:49:28+01:00",
+      "fetched_at": "2026-11-28T13:01:10+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Katja Nyberg har blivit med butik: ”Nu tar jag tillbaka berättelsen”",
+        "summary": "Det var i december 2025 som den nu tidigare SD-ledamoten och polisen Katja Nyberg stoppades efter en trafikolycka på Värmdö. I bilen ska polisen ha hittat 1,18 gram kokain, samtidigt som hårprover enligt åtalet visade spår av kokain, amfetamin och ecstasy.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Katja Nyberg opens up: \"Now I'm taking back the story\"",
+        "summary": "It was in December 2025 that the now former SD member and police officer Katja Nyberg was stopped after a traffic accident on Värmdö. Police reportedly found 1.18 grams of cocaine in the car, while hair samples, according to the charges, showed traces of cocaine, amphetamine and ecstasy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:01:21+01:00"
+      }
+    },
+    {
+      "id": "a62b8c95af1d",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9352143",
+      "guid": "rss:sr.se/article/9352143",
+      "published_at": "2026-11-28T12:47:00+01:00",
+      "fetched_at": "2026-11-28T13:01:08+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Säpo om misstänkta terrorplaner: ”Känner till uppgifterna”",
+        "summary": "Två personer har gripits i Tyskland, misstänkta för att ha planerat ett sprängdåd mot en synagoga i Malmö, enligt uppgifter till tyska tidningen Der Spiegel. De två kopplas av åklagarmyndigheten till en pro-iransk terrororganisation, som även planerade ett dåd mot en synagoga i Köln.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Security Service (Säpo) on suspected terror plans: \"We know about the information\"",
+        "summary": "Two people have been arrested in Germany, suspected of having planned a bombing attack against a synagogue in Malmö, according to information to the German newspaper Der Spiegel. The Prosecution Authority links the two to a pro-Iranian terrorist organisation, which also planned an attack against a synagogue in Cologne."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:01:21+01:00"
+      }
+    },
     {
       "id": "6aee93fd267b",
       "schema_version": 1,
@@ -5319,60 +5374,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T21:01:14+01:00"
-      }
-    },
-    {
-      "id": "59fa8e2110b5",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/BrR909/polisen-om-dataintranget-hos-cabonline-omfattande-lacka",
-      "guid": "https://www.aftonbladet.se/nyheter/a/BrR909/polisen-om-dataintranget-hos-cabonline-omfattande-lacka?utm_medium=rss",
-      "published_at": "2026-11-23T20:28:08+01:00",
-      "fetched_at": "2026-11-23T20:30:57+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/3d37901a-b9b4-388b-bb7f-c46d33a0290a?format=auto&s=f3c6d318fcfb83fd6ff3f21442da6a6e14430799&w=1000",
-      "sv": {
-        "title": "Polisen om taxijättens läcka: Ser en låg hotbild",
-        "summary": "Uppgifter: Adresser röjda ✓ ”Omfattande”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police on taxi giant's leak: Sees a low threat level",
-        "summary": "Reports: Addresses exposed ✓ ”Extensive”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T20:31:03+01:00"
-      }
-    },
-    {
-      "id": "3bcc74bf2f00",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/sverige-oppnar-polisstation-i-irak-planerar-for-fler",
-      "guid": "https://www.dn.se/sverige/sverige-oppnar-polisstation-i-irak-planerar-for-fler/",
-      "published_at": "2026-11-23T20:18:56+01:00",
-      "fetched_at": "2026-11-23T20:30:56+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/0f962d9c-0058-4a70-bc7f-953fc9ec510c.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Sverige öppnar polisstation i Irak – planerar för fler",
-        "summary": "I jakten på gängkriminella utomlands öppnar Sverige en polisstation i Irak. Om testet faller väl ut väntar fyra nya etableringar runt om i världen. – Ambitionen är att skapa relationer på plats som gör att våra ärenden blir mer prioriterade, säger polischefen Anders Wiberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sweden opens police station in Iraq – plans for more",
-        "summary": "In the hunt for gang criminals abroad, Sweden is opening a police station in Iraq. If the test turns out well, four new establishments around the world await. – The ambition is to build relationships on the ground that mean our cases get higher priority, says police chief Anders Wiberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T20:31:03+01:00"
       }
     }
   ]

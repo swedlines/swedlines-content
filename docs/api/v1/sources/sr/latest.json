@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T12:45:47+01:00",
+  "generated_at": "2026-11-28T13:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a62b8c95af1d",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9352143",
+      "guid": "rss:sr.se/article/9352143",
+      "published_at": "2026-11-28T12:47:00+01:00",
+      "fetched_at": "2026-11-28T13:01:08+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Säpo om misstänkta terrorplaner: ”Känner till uppgifterna”",
+        "summary": "Två personer har gripits i Tyskland, misstänkta för att ha planerat ett sprängdåd mot en synagoga i Malmö, enligt uppgifter till tyska tidningen Der Spiegel. De två kopplas av åklagarmyndigheten till en pro-iransk terrororganisation, som även planerade ett dåd mot en synagoga i Köln.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Security Service (Säpo) on suspected terror plans: \"We know about the information\"",
+        "summary": "Two people have been arrested in Germany, suspected of having planned a bombing attack against a synagogue in Malmö, according to information to the German newspaper Der Spiegel. The Prosecution Authority links the two to a pro-Iranian terrorist organisation, which also planned an attack against a synagogue in Cologne."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T13:01:21+01:00"
+      }
+    },
     {
       "id": "3cb26bcf627c",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T13:15:59+01:00"
-      }
-    },
-    {
-      "id": "624ddf131d33",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348122",
-      "guid": "rss:sr.se/article/9348122",
-      "published_at": "2026-11-23T12:44:00+01:00",
-      "fetched_at": "2026-11-23T13:01:14+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Liwång: Kan vänta oss fler ukrainska attacker i Finska viken",
-        "summary": "Det ryska fartyg som attackerades helgen har nu har lämnat finskt vatten. Men vad som fanns ombord förblir ett mysterium. Enligt Finlands gränsbevakning har man frågat Ryssland exakt vad lasten innehöll, utan att få några klara svar.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Liwång: Can expect more Ukrainian attacks in the Gulf of Finland",
-        "summary": "The Russian vessel that was attacked over the weekend has now left Finnish waters. But what was on board remains a mystery. According to the Finnish Border Guard, it has asked Russia exactly what the cargo contained, without receiving any clear answers."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T13:01:23+01:00"
       }
     }
   ]
