@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-28T09:01:23+01:00",
+  "generated_at": "2026-11-28T09:15:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f35d5b913972",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/black-friday-forsaljningen-sjonk-manaden-viktigare",
+      "guid": "84022b95-368b-4573-9582-48fffd520fbe",
+      "published_at": "2026-11-28T09:02:36+01:00",
+      "fetched_at": "2026-11-28T09:15:41+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1147369b-9c53-4468-bbb2-e4d2e9b896e9.jpg?width=600",
+      "sv": {
+        "title": "Black Friday-försäljningen sjönk – månaden viktigare",
+        "summary": "Konsumtionen under årets Black Friday-rea ökar. Men under själva fredagen krymper försäljningen, enligt nya siffror.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Black Friday sales fell – the month matters more",
+        "summary": "Consumption during this year's Black Friday sale is rising. But on the day itself, sales shrink, according to new figures."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T09:15:45+01:00"
+      }
+    },
+    {
+      "id": "16116e0bb53f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/usa-bedyrar-sakra-system-efter-uppgifter-om-hackerattack",
+      "guid": "56b49bfa-4e99-48a3-a803-d920a5b0dbc4",
+      "published_at": "2026-11-28T09:00:40+01:00",
+      "fetched_at": "2026-11-28T09:15:41+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f0a41e81-113c-4b08-9348-de24117c8919.jpg?width=600",
+      "sv": {
+        "title": "USA bedyrar ”säkra system” efter uppgifter om hackerattack",
+        "summary": "USA:s försvar försäkrar att landets cybersystem är säkra, efter rapporter om att hackare tagit sig in hos flygvapnet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "USA insists on \"secure systems\" after reports of hacker attack",
+        "summary": "The US defence department assures that the country's cyber systems are secure, after reports that hackers gained access to the air force."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T09:15:45+01:00"
+      }
+    },
     {
       "id": "e53aefac62fd",
       "schema_version": 1,
@@ -5267,60 +5321,6 @@
       "en": {
         "title": "Putin welcomed to G20 by Trump",
         "summary": "US President Donald Trump says he is unsure whether his Russian counterpart Vladimir Putin will attend the G20 summit in Florida."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T05:46:02+01:00"
-      }
-    },
-    {
-      "id": "0ea15e0b9e4e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/skanska-smaforetag-ar-inte-statens-kassako",
-      "guid": "13a79c7c-9fea-4d18-9457-7dfad2929967",
-      "published_at": "2026-11-27T05:30:00+01:00",
-      "fetched_at": "2026-11-27T05:30:57+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3d7840c0-a972-460d-aacb-daa6526b39b8.jpeg?width=600",
-      "sv": {
-        "title": "”Skånska småföretag är inte statens kassako.”",
-        "summary": "Det händer mycket i elfrågan i övriga Europa. Sverige har all anledning att följa utvecklingen noga, skriver Magnus N:son Engelbäck och André Nilsson, företrädare för branschorganisationen Företagarna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Skåne's small businesses are not the state's cash cow.\"",
-        "summary": "A lot is happening on the electricity issue in the rest of Europe. Sweden has every reason to follow developments closely, write Magnus N:son Engelbäck and André Nilsson, representatives of the industry organisation Företagarna."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T05:31:03+01:00"
-      }
-    },
-    {
-      "id": "ab54c44f4e2f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/stormar-i-usa-900-000-stromlosa",
-      "guid": "179239a2-8575-4869-844e-be26981a27e9",
-      "published_at": "2026-11-27T05:27:44+01:00",
-      "fetched_at": "2026-11-27T05:45:44+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/aeeec2d5-b327-4cda-a7cf-31b069f2879e.jpg?width=600",
-      "sv": {
-        "title": "Stormar i USA – 900.000 strömlösa",
-        "summary": "Stormarna fortsätter att piska USA från två håll. Natten mot fredag svensk tid är 900.000 hushåll och företag utan ström.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Storms in USA – 900,000 without power",
-        "summary": "The storms continue to lash the USA from two directions. Overnight Friday Swedish time, 900,000 households and businesses are without power."
       },
       "translation": {
         "status": "done",

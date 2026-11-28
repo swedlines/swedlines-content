@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-28T09:01:23+01:00",
+  "generated_at": "2026-11-28T09:15:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f35d5b913972",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/black-friday-forsaljningen-sjonk-manaden-viktigare",
+      "guid": "84022b95-368b-4573-9582-48fffd520fbe",
+      "published_at": "2026-11-28T09:02:36+01:00",
+      "fetched_at": "2026-11-28T09:15:41+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1147369b-9c53-4468-bbb2-e4d2e9b896e9.jpg?width=600",
+      "sv": {
+        "title": "Black Friday-försäljningen sjönk – månaden viktigare",
+        "summary": "Konsumtionen under årets Black Friday-rea ökar. Men under själva fredagen krymper försäljningen, enligt nya siffror.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Black Friday sales fell – the month matters more",
+        "summary": "Consumption during this year's Black Friday sale is rising. But on the day itself, sales shrink, according to new figures."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T09:15:45+01:00"
+      }
+    },
+    {
+      "id": "16116e0bb53f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/usa-bedyrar-sakra-system-efter-uppgifter-om-hackerattack",
+      "guid": "56b49bfa-4e99-48a3-a803-d920a5b0dbc4",
+      "published_at": "2026-11-28T09:00:40+01:00",
+      "fetched_at": "2026-11-28T09:15:41+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f0a41e81-113c-4b08-9348-de24117c8919.jpg?width=600",
+      "sv": {
+        "title": "USA bedyrar ”säkra system” efter uppgifter om hackerattack",
+        "summary": "USA:s försvar försäkrar att landets cybersystem är säkra, efter rapporter om att hackare tagit sig in hos flygvapnet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "USA insists on \"secure systems\" after reports of hacker attack",
+        "summary": "The US defence department assures that the country's cyber systems are secure, after reports that hackers gained access to the air force."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T09:15:45+01:00"
+      }
+    },
     {
       "id": "9d85e4740df2",
       "schema_version": 1,
@@ -5265,60 +5319,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T15:31:15+01:00"
-      }
-    },
-    {
-      "id": "de7af55760a3",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/storstadsmajoriteterna-gar-vilse-i-valfarden",
-      "guid": "c576fadb-1945-4e5f-9789-1567e18a0ae9",
-      "published_at": "2026-11-26T15:06:15+01:00",
-      "fetched_at": "2026-11-26T15:15:52+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/19e59c08-df96-4139-b541-99ccae8fb283.jpeg?width=600",
-      "sv": {
-        "title": "Storstadsmajoriteterna går vilse i välfärden",
-        "summary": "Både Stockholm och Göteborg vill nu avskaffa valfriheten i hemtjänsten. Efter sjutton år som hemtjänstföretagare vet jag vad det leder till: när konkurrensen dör blir omsorgen sämre för alla – även för dem som har valt kommunen, skriver Kayhan Utkutug",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Metropolitan majorities lose their way on welfare",
-        "summary": "Both Stockholm and Göteborg now want to abolish freedom of choice in home care. After seventeen years as a home care company owner, I know where that leads: when competition dies, care gets worse for everyone – including those who chose the municipality, writes Kayhan Utkutug"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T15:15:57+01:00"
-      }
-    },
-    {
-      "id": "aba08ab42be7",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/marine-le-pen-ar-bryssels-huvudvark",
-      "guid": "11d8864d-ef7d-4071-b89c-33ce64859a70",
-      "published_at": "2026-11-26T15:04:55+01:00",
-      "fetched_at": "2026-11-26T15:15:52+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/37ba8b28-665a-4597-94a1-1cee05579411.jpeg?width=600",
-      "sv": {
-        "title": "Marine Le Pen är Bryssels huvudvärk",
-        "summary": "Hotet om ett franskt maktskifte används som påtryckningsmedel i de tuffa förhandlingarna om EU:s nästa långtidsbudget. Men de största bidragsgivarna håller huvudet kallt – med all rätt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Marine Le Pen is Brussels' headache",
-        "summary": "The threat of a French change of power is being used as leverage in the tough negotiations over the EU's next long-term budget. But the largest contributors are keeping a cool head – and rightly so."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T15:15:57+01:00"
       }
     }
   ]
