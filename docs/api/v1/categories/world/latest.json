@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T15:01:12+01:00",
+  "generated_at": "2026-11-28T15:16:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "245e515fd050",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/suget-efter-fiskpinnar-goder-rysslands-krigskassa",
+      "guid": "https://www.dn.se/ekonomi/suget-efter-fiskpinnar-goder-rysslands-krigskassa/",
+      "published_at": "2026-11-28T15:04:04+01:00",
+      "fetched_at": "2026-11-28T15:15:50+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/37bf1b58-1477-40ac-ace8-98ece2e22c5d.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Suget efter fiskpinnar göder Rysslands krigskassa",
+        "summary": "EU har ökat importen av ryskfångad alaska pollock, som bland annat blir till fiskpinnar – trots försök att införa sanktioner. När kommissionen nu presenterar nästa sanktionspaket mot Ryssland saknas återigen åtgärder mot fiskeindustrins lönsamma export.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Craving for fish sticks fuels Russia's war chest",
+        "summary": "The EU has increased imports of Russian-caught Alaska pollock, which among other things becomes fish sticks – despite attempts to introduce sanctions. As the Commission now presents the next sanctions package against Russia, measures against the fishing industry's lucrative exports are once again missing."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T15:16:01+01:00"
+      }
+    },
     {
       "id": "7b4211f444b7",
       "schema_version": 1,
@@ -5336,32 +5363,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T07:00:25+01:00"
-      }
-    },
-    {
-      "id": "b893f7957a68",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9350357",
-      "guid": "rss:sr.se/article/9350357",
-      "published_at": "2026-11-26T06:37:00+01:00",
-      "fetched_at": "2026-11-26T06:45:50+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Minst 13 döda efter gruvolycka i Indonesien",
-        "summary": "I Indonesien har minst tretton gruvarbetare bekräftats döda i en översvämmad guldgruva. Flera saknas fortfarande, enligt nyhetsbyrån AFP. Gruvan som är illegal fylldes med vatten till följd av kraftiga regn i början av veckan.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "At least 13 dead after gold mine collapse in Indonesia",
-        "summary": "In Indonesia, at least thirteen gold miners have been confirmed dead in a flooded gold mine. Several are still missing, according to the news agency AFP. The mine, which is illegal, was filled with water as a result of heavy rain at the beginning of the week."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T06:45:58+01:00"
       }
     }
   ]
