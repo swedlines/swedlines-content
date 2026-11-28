@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T08:31:14+01:00",
-  "count": 13,
+  "generated_at": "2026-11-28T08:45:53+01:00",
+  "count": 14,
   "stories": [
     {
       "id": "87682fb8575b",
@@ -518,6 +518,68 @@
           },
           "en": {
             "title": "Putin shows off new nuclear submarine"
+          }
+        }
+      ]
+    },
+    {
+      "id": "62dee6d142d8",
+      "source_count": 2,
+      "sources": [
+        "expressen",
+        "aftonbladet"
+      ],
+      "first_published_at": "2026-11-28T07:53:45+01:00",
+      "last_published_at": "2026-11-28T08:40:35+01:00",
+      "lead": {
+        "id": "62dee6d142d8",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=eec90518-83d4-43cb-b5eb-948bb9d53287",
+        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=eec90518-83d4-43cb-b5eb-948bb9d53287",
+        "published_at": "2026-11-28T07:53:45+01:00",
+        "fetched_at": "2026-11-28T08:01:11+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Knivskuren på bar",
+          "summary": "Misstänkt mordförsök",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Stabbing at bar",
+          "summary": "Suspected attempted murder"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T08:01:19+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "1774fc534754",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/pMA61R/man-knivskuren-pa-bar-misstankt-mordforsok",
+          "published_at": "2026-11-28T08:40:35+01:00",
+          "sv": {
+            "title": "Man knivskuren på bar – misstänkt mordförsök"
+          },
+          "en": {
+            "title": "Man stabbed at bar – suspected attempted murder"
+          }
+        },
+        {
+          "id": "62dee6d142d8",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=eec90518-83d4-43cb-b5eb-948bb9d53287",
+          "published_at": "2026-11-28T07:53:45+01:00",
+          "sv": {
+            "title": "Knivskuren på bar"
+          },
+          "en": {
+            "title": "Stabbing at bar"
           }
         }
       ]

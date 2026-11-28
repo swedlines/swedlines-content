@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-28T08:31:14+01:00",
+  "generated_at": "2026-11-28T08:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5b79745632d1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/paarup-petersen-jag-har-kallats-fascistkramare",
+      "guid": "https://www.expressen.se/nyheter/politik/paarup-petersen-jag-har-kallats-fascistkramare/",
+      "published_at": "2026-11-28T08:41:20+01:00",
+      "fetched_at": "2026-11-28T08:45:45+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Paarup-Petersen: Jag har kallats fascistkramare",
+        "summary": "Niels Paarup-Petersen vill rösta ja till Ulf Kristersson på måndag. Nu berättar han att han kallats fascistkramare – av partivänner. ”Så jag hoppas att alla skärper sig lite och kommer ihåg att vi är partivänner. Inte fiender”, skriver han i ett Facebook-inlägg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Paarup-Petersen: I have been called a fascist hugger",
+        "summary": "Niels Paarup-Petersen wants to vote yes to Ulf Kristersson (M) on Monday. Now he reveals that he has been called a fascist hugger – by party colleagues. \"So I hope everyone tones it down a little and remembers that we are party colleagues. Not enemies\", he writes in a Facebook post."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T08:45:50+01:00"
+      }
+    },
+    {
+      "id": "2e17759abef0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f4b65733-4443-41ff-a986-3875de972fda",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f4b65733-4443-41ff-a986-3875de972fda",
+      "published_at": "2026-11-28T08:37:10+01:00",
+      "fetched_at": "2026-11-28T08:45:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Gick till läkare – fick dödsbevis",
+        "summary": "Ville sjukskrivas – dödförklarades i stället",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Went to doctor – received death certificate",
+        "summary": "Wanted sick leave – was declared dead instead"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T08:45:50+01:00"
+      }
+    },
     {
       "id": "61b46e2a129e",
       "schema_version": 1,
@@ -5144,58 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T08:15:50+01:00"
-      }
-    },
-    {
-      "id": "db705abfab3a",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/polisens-ilska-efter-strandbilderna",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/polisens-ilska-efter-strandbilderna",
-      "published_at": "2026-11-25T07:05:32+01:00",
-      "fetched_at": "2026-11-25T07:15:42+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Polisens ilska efter strandbilderna",
-        "summary": "Varnar efter skräcksekunderna i USA: Håll er borta!",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police anger after the beach footage",
-        "summary": "Warns after horror seconds in the USA: Stay away!"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T07:15:56+01:00"
-      }
-    },
-    {
-      "id": "231e50a44145",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/migrationsverket-pausar-utvisningar-av-unga-vuxna",
-      "guid": "https://www.expressen.se/nyheter/sverige/migrationsverket-pausar-utvisningar-av-unga-vuxna/",
-      "published_at": "2026-11-25T07:05:30+01:00",
-      "fetched_at": "2026-11-25T07:15:42+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Migrationsverket pausar utvisningar av unga vuxna",
-        "summary": "Migrationsverket pausar tills vidare utvisningar av unga vuxna, så kallade tonårsutvisningar. Beslutet kommer efter att riksdagspartierna aviserat ny lagstiftning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Migration Agency pauses deportations of young adults",
-        "summary": "The Migration Agency is pausing deportations of young adults, so-called teen deportations, until further notice. The decision comes after the Riksdag parties announced new legislation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T07:15:56+01:00"
       }
     }
   ]
