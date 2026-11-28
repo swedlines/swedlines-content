@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T18:01:28+01:00",
+  "generated_at": "2026-11-28T18:16:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3a323c3e1bf9",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/norrman-robotar-lego-och-lagtrojor-fyllde-the-loop",
+      "guid": "16f2dec5-ef45-45cf-82ba-86e23e41a09d",
+      "published_at": "2026-11-28T18:07:00+01:00",
+      "fetched_at": "2026-11-28T18:15:57+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/bae2be1d-f1a3-4704-88fa-e0a57fee06d9.jpeg?width=600",
+      "sv": {
+        "title": "Norrmän, robotar, Lego och lagtröjor fyllde the Loop",
+        "summary": "På lördagen avgjordes en stor skandinavisk tävling i programmering, byggande och naturvetenskap, First Lego League, i Lund. – Våra elever har lärt sig jättemycket, sa Inger Marie Meinich, lärare och lagledare som rest hit med en klass från norska Stavanger.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegians, robots, Lego and team jerseys filled the Loop",
+        "summary": "On Saturday a major Scandinavian competition in programming, building and science, First Lego League, was decided in Lund. – Our students have learned a huge amount, said Inger Marie Meinich, teacher and team leader who travelled here with a class from Stavanger in Norway."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T18:16:01+01:00"
+      }
+    },
     {
       "id": "b36cc80fe722",
       "schema_version": 1,
@@ -5459,33 +5486,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T13:31:19+01:00"
-      }
-    },
-    {
-      "id": "2061a42d02ae",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/GPG904/venhalsans-mottagning-pa-sodersjukhuset-svarar-hanne-kjoller-om-prep",
-      "guid": "https://www.svd.se/a/GPG904/venhalsans-mottagning-pa-sodersjukhuset-svarar-hanne-kjoller-om-prep?utm_medium=rss",
-      "published_at": "2026-11-24T10:28:46+01:00",
-      "fetched_at": "2026-11-24T10:31:01+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/9fc76856-2168-32e6-8212-916e3553bcaa?format=auto&s=b55652ea4cdc02f381b284295b78ec3103a3324c&w=1000",
-      "sv": {
-        "title": "Kommentar om subvention av PrEP",
-        "summary": "Venhälsans mottagning på Södersjukhuset svarar Hanne Kjöller.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Comment on subsidy of PrEP",
-        "summary": "Venhälsan's clinic at Södersjukhuset responds to Hanne Kjöller."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T10:31:08+01:00"
       }
     }
   ]

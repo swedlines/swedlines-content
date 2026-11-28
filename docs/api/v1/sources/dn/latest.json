@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T18:01:28+01:00",
+  "generated_at": "2026-11-28T18:16:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a550e25700e5",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/beskeden-fran-c-distrikten-timmarna-fore-odesmotet",
+      "guid": "https://www.dn.se/sverige/beskeden-fran-c-distrikten-timmarna-fore-odesmotet/",
+      "published_at": "2026-11-28T18:04:33+01:00",
+      "fetched_at": "2026-11-28T18:15:53+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/35e94967-af02-497f-98bf-beda95e23cdc.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Beskeden från C-distrikten – timmarna före ödesmötet",
+        "summary": "Med timmar kvar till ödesmötet tar C-distrikt ute i landet ställning till en möjlig Kristerssonregering. På lördagen kommer flera nya besked. – Förslaget går emot allt vi står för, säger Effie Kourlos, distriktsordförande i Jämtland.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The verdicts from the Centre Party districts – the hours before the make-or-break meeting",
+        "summary": "With hours to go before the make-or-break meeting, Centre Party districts across the country are taking a position on a possible Kristersson government. Several new statements come on Saturday. – The proposal goes against everything we stand for, says Effie Kourlos, district chair in Jämtland."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T18:16:01+01:00"
+      }
+    },
     {
       "id": "4fba2be418d3",
       "schema_version": 1,
@@ -5369,33 +5396,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T19:16:10+01:00"
-      }
-    },
-    {
-      "id": "f4268245594a",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/gerillorna-slar-tillbaka-mot-colombias-president",
-      "guid": "https://www.dn.se/varlden/gerillorna-slar-tillbaka-mot-colombias-president/",
-      "published_at": "2026-11-25T19:00:00+01:00",
-      "fetched_at": "2026-11-25T19:01:18+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/e076d83f-8f44-4643-bda9-12ee59d7676f.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Gerillorna slår tillbaka mot Colombias president",
-        "summary": "RIO DE JANEIRO. Våldet trappas upp i Colombia sedan den nye presidenten skärpt kampen mot gerillorna. Inför fredsavtalets tioårsdag detonerade Farc-dissidenter en bilbomb i Villavicencio, där 23 personer skadades.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Guerrillas strike back against Colombia's president",
-        "summary": "RIO DE JANEIRO. Violence is escalating in Colombia after the new president tightened the fight against the guerrillas. Ahead of the peace agreement's tenth anniversary, Farc dissidents detonated a car bomb in Villavicencio, injuring 23 people."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T19:01:24+01:00"
       }
     }
   ]
