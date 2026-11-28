@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T12:15:54+01:00",
+  "generated_at": "2026-11-28T12:27:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6aee93fd267b",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/vittnen-slog-larm-om-balkongsex-i-vindeln-par-frias-fran-sexofredande",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/vittnen-slog-larm-om-balkongsex-i-vindeln-par-frias-fran-sexofredande",
+      "published_at": "2026-11-28T12:20:33+01:00",
+      "fetched_at": "2026-11-28T12:26:58+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Vittnen slog larm om balkongsex i Vindeln – par frias från sexofredande",
+        "summary": "Fler personer larmade polis om att en sexakt pågick på en balkong i Vindeln. Men balkongsnusket är inte brottsligt enligt Umeå tingsrätt. Sexuellt ofredande måste riktas mot en specifik person – inte allmänhet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Witnesses raised alarm over balcony sex in Vindeln – couple acquitted of sexual molestation",
+        "summary": "Several people alerted police that a sex act was taking place on a balcony in Vindeln. But balcony sex is not criminal according to Umeå district court. Sexual molestation must be directed at a specific person – not the public."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T12:27:07+01:00"
+      }
+    },
     {
       "id": "2b5e217603c7",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T09:01:26+01:00"
-      }
-    },
-    {
-      "id": "4a1569bce066",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/skane/stora-tagforseningar-signalfel-i-malmo",
-      "guid": "https://www.svt.se/nyheter/lokalt/skane/stora-tagforseningar-signalfel-i-malmo",
-      "published_at": "2026-11-23T08:06:48+01:00",
-      "fetched_at": "2026-11-23T08:15:20+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Stora tågförseningar – signalfel i Malmö",
-        "summary": "Det är stora tågförseningar under måndagsmorgonen. Ett signalfel i Hyllie skapar problem sedan 06:40.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Major train delays – signal fault in Malmö",
-        "summary": "There are major train delays on Monday morning. A signal fault in Hyllie has caused problems since 06:40."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T08:15:29+01:00"
       }
     }
   ]
