@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T07:45:53+01:00",
+  "generated_at": "2026-11-28T08:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "89ef7110c274",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/statsvetaren-da-borde-c-vagrarna-avga",
+      "guid": "9b350f6b-47d8-4143-b980-1826650a9c87",
+      "published_at": "2026-11-28T07:47:26+01:00",
+      "fetched_at": "2026-11-28T08:01:12+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8968b463-e488-4c98-b270-1dd4639c69b7.jpg?width=600",
+      "sv": {
+        "title": "Statsvetaren: Då borde C-vägrarna avgå",
+        "summary": "Flera av Centerns riksdagsledamöter har aviserat att de kommer att trycka rött i måndagens statsministeromröstning – oavsett vilket beslut som fattas av partiets förtroenderåd.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Political scientist: Then the C refuseniks should resign",
+        "summary": "Several of the Centre Party's Riksdag members have announced they will vote red in Monday's prime minister vote, regardless of the decision taken by the party's trust council."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T08:01:19+01:00"
+      }
+    },
     {
       "id": "0625f6e6c8cc",
       "schema_version": 1,
@@ -5291,33 +5318,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T15:01:26+01:00"
-      }
-    },
-    {
-      "id": "3c58015a8aee",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/uppgift-pablo-hernandez-de-cos-blir-ny-ecb-chef",
-      "guid": "91725f08-a173-4a10-a657-1fb7f0bc4bc3",
-      "published_at": "2026-11-26T14:44:27+01:00",
-      "fetched_at": "2026-11-26T14:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/054c7e67-16f8-45ee-884c-944053422cd2.jpeg?width=600",
-      "sv": {
-        "title": "Uppgift: Pablo Hernández de Cos blir ny ECB-chef",
-        "summary": "Spanjoren Pablo Hernández de Cos blir ny chef för den europeiska centralbanken, ECB, skriver Financial Times med hänvisning till källor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Report: Pablo Hernández de Cos to become new ECB chief",
-        "summary": "Spanish economist Pablo Hernández de Cos is to become the new head of the European Central Bank, ECB, Financial Times reports, citing sources."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T14:45:57+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T07:45:53+01:00",
+  "generated_at": "2026-11-28T08:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "98b165ec183a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/slar-larm-efter-trumps-inlagg-avsatt-honom",
+      "guid": "https://www.expressen.se/nyheter/varlden/slar-larm-efter-trumps-inlagg-avsatt-honom/",
+      "published_at": "2026-11-28T07:49:31+01:00",
+      "fetched_at": "2026-11-28T08:01:11+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Slår larm efter Trumps inlägg: Avsätt honom",
+        "summary": "Avsätt Donald Trump – han kan inte längre fullgöra sina plikter. Kravet kommer från allt fler håll. – Vi befinner oss i stor fara, säger psykologen John Gartner.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Raises alarm after Trump's post: Remove him",
+        "summary": "Remove Donald Trump – he can no longer fulfil his duties. The demand is coming from more and more quarters. – We are in grave danger, says psychologist John Gartner."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T08:01:19+01:00"
+      }
+    },
     {
       "id": "36d6e5c0c316",
       "schema_version": 1,
@@ -5324,32 +5350,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T01:31:06+01:00"
-      }
-    },
-    {
-      "id": "8e04e582feb0",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9350341",
-      "guid": "rss:sr.se/article/9350341",
-      "published_at": "2026-11-26T01:11:00+01:00",
-      "fetched_at": "2026-11-26T01:15:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Sjödrama utanför Island – 17 personer hamnade i vattnet",
-        "summary": "Utanför Islands nordöstra kust pågick under gårdagskvällen ett sjödrama efter att ett fiskefartyg sjunkit och samtliga 17 i besättningen hamnat i vattnet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sea drama off Iceland – 17 people end up in the water",
-        "summary": "Off Iceland's northeastern coast, a sea drama unfolded yesterday evening after a fishing vessel sank and all 17 crew members ended up in the water."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T01:15:52+01:00"
       }
     }
   ]

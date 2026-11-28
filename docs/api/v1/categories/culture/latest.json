@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T07:45:53+01:00",
+  "generated_at": "2026-11-28T08:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "30c50a13144c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/vem-ar-carina-bergfeldt-inte-ens-hon-sjalv-verkar-veta",
+      "guid": "bdaf8207-6578-4823-ba73-c481f76db6eb",
+      "published_at": "2026-11-28T08:00:00+01:00",
+      "fetched_at": "2026-11-28T08:01:13+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/f91642ee-5fd4-4145-94a5-53e3074506dc.jpeg?width=600",
+      "sv": {
+        "title": "Det är absurt att Carina Bergfeldt ska vara julvärd i SVT",
+        "summary": "Det har blivit minst sagt rörigt i kölvattnet efter Carina Bergfeldts personliga adhd-serie ”Alla mina bokstäver”. Kan vi vara säkra på att årets julvärd sitter säkert?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "It is absurd that Carina Bergfeldt should be Christmas host at SVT",
+        "summary": "Things have become, to say the least, chaotic in the wake of Carina Bergfeldt's personal ADHD series \"Alla mina bokstäver\". Can we be sure this year's Christmas host is safe?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T08:01:19+01:00"
+      }
+    },
     {
       "id": "2b641d75cbd1",
       "schema_version": 1,
@@ -5615,33 +5642,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T07:15:56+01:00"
-      }
-    },
-    {
-      "id": "665d1c0697ab",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/kontrapunkt-ar-en-narmast-chockerande-upplevelse-for-en-dammig-forskare",
-      "guid": "efc5b8c4-0b75-423f-bc7e-c1d58641f3ca",
-      "published_at": "2026-11-25T07:00:00+01:00",
-      "fetched_at": "2026-11-25T07:01:06+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/ca0e21f0-0bc9-443f-a05e-cfeb0b3ea4e2.jpeg?width=600",
-      "sv": {
-        "title": "Kontrapunkt är en närmast chockerande upplevelse för en dammig forskare",
-        "summary": "”Snillen spekulerar, jo du!” Linda Fagerström rapporterar inifrån lag Ranelids bur i SVT:s prestigefyllda frågesport ”Kulturfrågan Kontrapunkt”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kontrapunkt is an almost shocking experience for a dusty researcher",
-        "summary": "\"Geniuses speculate, oh yes!\" Linda Fagerström reports from inside Team Ranelid's cage on SVT's prestigious quiz show \"Kulturfrågan Kontrapunkt\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T07:01:10+01:00"
       }
     }
   ]

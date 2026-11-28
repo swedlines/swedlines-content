@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-28T07:45:53+01:00",
+  "generated_at": "2026-11-28T08:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "62dee6d142d8",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=eec90518-83d4-43cb-b5eb-948bb9d53287",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=eec90518-83d4-43cb-b5eb-948bb9d53287",
+      "published_at": "2026-11-28T07:53:45+01:00",
+      "fetched_at": "2026-11-28T08:01:11+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Knivskuren på bar",
+        "summary": "Misstänkt mordförsök",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stabbing at bar",
+        "summary": "Suspected attempted murder"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T08:01:19+01:00"
+      }
+    },
+    {
+      "id": "98b165ec183a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/slar-larm-efter-trumps-inlagg-avsatt-honom",
+      "guid": "https://www.expressen.se/nyheter/varlden/slar-larm-efter-trumps-inlagg-avsatt-honom/",
+      "published_at": "2026-11-28T07:49:31+01:00",
+      "fetched_at": "2026-11-28T08:01:11+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Slår larm efter Trumps inlägg: Avsätt honom",
+        "summary": "Avsätt Donald Trump – han kan inte längre fullgöra sina plikter. Kravet kommer från allt fler håll. – Vi befinner oss i stor fara, säger psykologen John Gartner.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Raises alarm after Trump's post: Remove him",
+        "summary": "Remove Donald Trump – he can no longer fulfil his duties. The demand is coming from more and more quarters. – We are in grave danger, says psychologist John Gartner."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T08:01:19+01:00"
+      }
+    },
     {
       "id": "9360907f2fb0",
       "schema_version": 1,
@@ -5144,58 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T06:45:52+01:00"
-      }
-    },
-    {
-      "id": "d265c9d76e21",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-krigsdrag-efter-putins-hamndord",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-krigsdrag-efter-putins-hamndord",
-      "published_at": "2026-11-25T06:10:24+01:00",
-      "fetched_at": "2026-11-25T06:15:46+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Krigsdraget mot Putin",
-        "summary": "Zelenskyjs dubbelslag i natt – timmar efter ryska hämndlöftet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The war gambit against Putin",
-        "summary": "Zelenskyy's double blow overnight – hours after the Russian revenge pledge"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T06:15:53+01:00"
-      }
-    },
-    {
-      "id": "132f5551f1ea",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/svensk-jas-gripen-pilot-kunde-inte-skjuta-ner-rysk-robot",
-      "guid": "https://www.expressen.se/nyheter/varlden/svensk-jas-gripen-pilot-kunde-inte-skjuta-ner-rysk-robot/",
-      "published_at": "2026-11-25T06:02:22+01:00",
-      "fetched_at": "2026-11-25T06:05:16+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Svensk Jas Gripen-pilot kunde inte skjuta ner rysk robot",
-        "summary": "I fredags tog sig två misstänkta ryska robotar och en jetdriven drönare in i polskt luftrum. En svensk stridspilot som flög ett Jas 39 Gripen-plan under Nato-befäl fick tillstånd att skjuta ner en robot – men kunde inte, skriver Kyiv Independent. Orsaken: Dåligt väder.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish Jas Gripen pilot could not shoot down Russian missile",
-        "summary": "On Friday, two suspected Russian missiles and a jet-powered drone entered Polish airspace. A Swedish fighter pilot flying a Jas 39 Gripen under NATO command was authorised to shoot down one missile – but could not, writes the Kyiv Independent. The reason: bad weather."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T06:05:21+01:00"
       }
     }
   ]

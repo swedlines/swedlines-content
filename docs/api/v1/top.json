@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T07:45:53+01:00",
-  "count": 15,
+  "generated_at": "2026-11-28T08:01:23+01:00",
+  "count": 14,
   "stories": [
     {
       "id": "87682fb8575b",
@@ -119,15 +119,16 @@
     },
     {
       "id": "f0b4e2836fe9",
-      "source_count": 4,
+      "source_count": 5,
       "sources": [
         "aftonbladet",
         "svd",
         "dn",
-        "sydsvenskan"
+        "sydsvenskan",
+        "di"
       ],
       "first_published_at": "2026-11-28T07:00:12+01:00",
-      "last_published_at": "2026-11-28T07:22:43+01:00",
+      "last_published_at": "2026-11-28T07:47:26+01:00",
       "lead": {
         "id": "f0b4e2836fe9",
         "schema_version": 1,
@@ -156,6 +157,18 @@
         }
       },
       "items": [
+        {
+          "id": "89ef7110c274",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/statsvetaren-da-borde-c-vagrarna-avga",
+          "published_at": "2026-11-28T07:47:26+01:00",
+          "sv": {
+            "title": "Statsvetaren: Då borde C-vägrarna avgå"
+          },
+          "en": {
+            "title": "Political scientist: Then the C refuseniks should resign"
+          }
+        },
         {
           "id": "27cb8999a47b",
           "source": "sydsvenskan",
@@ -1030,69 +1043,6 @@
           },
           "en": {
             "title": "Suspected murderer stopped – by an elephant"
-          }
-        }
-      ]
-    },
-    {
-      "id": "fdae31c8b2bb",
-      "source_count": 2,
-      "sources": [
-        "di",
-        "svd"
-      ],
-      "first_published_at": "2026-11-27T15:55:49+01:00",
-      "last_published_at": "2026-11-27T19:51:36+01:00",
-      "lead": {
-        "id": "fdae31c8b2bb",
-        "schema_version": 1,
-        "source": "di",
-        "url": "https://www.di.se/nyheter/m-kd-l-och-c-overens-sa-ska-budgeten-hanteras",
-        "guid": "39e2aeff-08a7-4b2b-a9a1-82ed2a761b8c",
-        "published_at": "2026-11-27T15:55:49+01:00",
-        "fetched_at": "2026-11-27T16:01:24+01:00",
-        "category": "economy",
-        "image_url": "https://static.bonniernews.se/ba/6d5bab63-554f-4d50-ab7f-e4bbda9076b0.jpg?width=600",
-        "sv": {
-          "title": "M, KD, L och C överens – så ska budgeten hanteras",
-          "summary": "Partiledarna för Moderaterna, Kristdemokraterna, Liberalerna och Centerpartiet har ingått ett avtal, bland annat om en ”återhållsam asylrelaterad invandring”. De vill också fortsätta genomföra skattesänkningar om de bildar regering.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "M, KD, L and C agree – this is how the budget will be handled",
-          "summary": "The party leaders of the Moderates, the Christian Democrats, the Liberals and the Centre Party have entered into an agreement, including on \"restrained asylum-related immigration\". They also want to continue implementing tax cuts if they form a government."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T16:01:31+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "aa94a516e281",
-          "source": "svd",
-          "url": "https://www.svd.se/a/6Pj2AL/tolv-fragor-visar-hur-nara-centern-star-sverigedemokraterna",
-          "published_at": "2026-11-27T19:51:36+01:00",
-          "sv": {
-            "title": "Trots den röda linjen – här är C och SD överens"
-          },
-          "en": {
-            "title": "Despite the red line – here is where the Centre Party and the Sweden Democrats agree"
-          }
-        },
-        {
-          "id": "fdae31c8b2bb",
-          "source": "di",
-          "url": "https://www.di.se/nyheter/m-kd-l-och-c-overens-sa-ska-budgeten-hanteras",
-          "published_at": "2026-11-27T15:55:49+01:00",
-          "sv": {
-            "title": "M, KD, L och C överens – så ska budgeten hanteras"
-          },
-          "en": {
-            "title": "M, KD, L and C agree – this is how the budget will be handled"
           }
         }
       ]
