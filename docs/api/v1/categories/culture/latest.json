@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T17:31:07+01:00",
+  "generated_at": "2026-11-28T17:46:09+01:00",
   "count": 200,
   "items": [
     {
@@ -54,6 +54,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T17:15:54+01:00"
+      }
+    },
+    {
+      "id": "d62385a701c8",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7LVebpPQDVB2y7uzhLBVKi/efter-tittarfragan-svarar-pa-kaerleksryktet-gulligt-och-kul",
+      "guid": "7LVebpPQDVB2y7uzhLBVKi",
+      "published_at": "2026-11-28T17:00:15+01:00",
+      "fetched_at": "2026-11-28T17:45:48+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nöje"
+      ],
+      "sv": {
+        "title": "Efter tittarfrågan – svarar på kärleksryktet: ”Gulligt och kul”",
+        "summary": "När Armin Bolhassani framförde ”Fan va bra” och sjöng ”Om jag var sju så skulle jag ha frågat chans på dig” samtidigt som han tog Ella Magnussons hand i direktsändning var kärleksryktena mellan de två deltagarna i gång.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "After viewer question – responds to dating rumour: “Cute and fun”",
+        "summary": "When Armin Bolhassani performed “Fan va bra” and sang “Om jag var sju så skulle jag ha frågat chans på dig” while taking Ella Magnusson's hand during a live broadcast, dating rumours between the two contestants started."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T17:46:05+01:00"
       }
     },
     {
@@ -5619,35 +5648,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T18:31:20+01:00"
-      }
-    },
-    {
-      "id": "98803bd36896",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/49fQypHZgbhZSpWE5mNNXs/taylor-swift-pekas-ut-i-stort-reportage-hon-korsfaester-dem",
-      "guid": "49fQypHZgbhZSpWE5mNNXs",
-      "published_at": "2026-11-25T17:52:59+01:00",
-      "fetched_at": "2026-11-25T18:01:18+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Taylor Swift pekas ut i stort reportage: ”Hon korsfäster dem”",
-        "summary": "I reportaget, som publicerades på måndagen under rubriken ”The mastermind”, har journalisten May Jeong intervjuat över 100 personer med koppling till artisten. Taylor Swift, 36, nämns aldrig vid namn, men detaljerna i reportaget pekar tydligt på världsstjärnan.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Taylor Swift singled out in major report: \"She crucifies them\"",
-        "summary": "In the report, published on Monday under the headline \"The mastermind\", journalist May Jeong interviewed over 100 people connected to the artist. Taylor Swift, 36, is never named, but the details in the report clearly point to the global star."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T18:01:24+01:00"
       }
     }
   ]
