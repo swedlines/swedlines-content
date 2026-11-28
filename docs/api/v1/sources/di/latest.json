@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T20:01:21+01:00",
+  "generated_at": "2026-11-28T20:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4b7d2409731a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/ukraina-begransar-rapportering-om-skador",
+      "guid": "061b5c38-a9f1-497c-89af-ba7d574d8759",
+      "published_at": "2026-11-28T20:05:43+01:00",
+      "fetched_at": "2026-11-28T20:15:42+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1067bbb0-ebc2-4e15-8ac1-179fe744f1f2.jpg?width=600",
+      "sv": {
+        "title": "Ukraina begränsar rapportering om skador",
+        "summary": "Ukraina begränsar från och med lördagen medier från att rapportera detaljerad information om skador på infrastruktur efter ryska anfall.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ukraine restricts reporting on damage",
+        "summary": "From Saturday, Ukraine is restricting media from reporting detailed information on damage to infrastructure after Russian attacks."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T20:15:47+01:00"
+      }
+    },
     {
       "id": "fe26c4c53b91",
       "schema_version": 1,
@@ -5301,33 +5328,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T18:45:46+01:00"
-      }
-    },
-    {
-      "id": "c83d9ff67dc7",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kambi-inleder-nytt-aterkopsprogram-00OnC",
-      "guid": "049c109e-8f1f-418f-9736-d7bb7b7483e1",
-      "published_at": "2026-11-26T18:11:39+01:00",
-      "fetched_at": "2026-11-26T18:15:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7cf1e223-4d67-4624-911b-ae079a97d270.jpeg?width=600",
-      "sv": {
-        "title": "Kambi inleder nytt återköpsprogram",
-        "summary": "Kambi inleder ett nytt återköpsprogram värd totalt 70 miljoner kronor som ska löpa till och med 15 februari nästa år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kambi launches new share buyback programme",
-        "summary": "Kambi is launching a new buyback programme worth a total of SEK 70 million, running until 15 February next year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T18:15:51+01:00"
       }
     }
   ]

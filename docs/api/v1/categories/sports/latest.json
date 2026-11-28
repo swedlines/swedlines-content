@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T20:01:21+01:00",
+  "generated_at": "2026-11-28T20:15:49+01:00",
   "count": 200,
   "items": [
     {
@@ -26,6 +26,41 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T20:01:19+01:00"
+      }
+    },
+    {
+      "id": "b640078e52e1",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/ishockey/frolunda/meijer-crosscheckad-utgick-skadad.2c1f192f-04d6-5187-83d5-f994e1b40fc1",
+      "guid": "2c1f192f-04d6-5187-83d5-f994e1b40fc1",
+      "published_at": "2026-11-28T19:34:56+01:00",
+      "fetched_at": "2026-11-28T20:15:42+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Frölunda",
+        "Tagg: Frölunda HC",
+        "Tagg: Växjö Lakers",
+        "Tagg: Henrik Tömmernes",
+        "Tagg: Robert Ohlsson",
+        "Tagg: JVM"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/ce69a7a9-452a-3cd8-b7e4-7d03d8845a95",
+      "sv": {
+        "title": "Supertalangen crosscheckad – utgick med skada",
+        "summary": "Frölundas Bosse Meijer skadad – JVM i fara",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Supertalent crosschecked – left with injury",
+        "summary": "Frölunda's Bosse Meijer injured – World Juniors in doubt"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T20:15:47+01:00"
       }
     },
     {
@@ -5612,29 +5647,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T16:15:48+01:00"
-      }
-    },
-    {
-      "id": "3789d8a6cbb4",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80186",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80186&utm_medium=rss",
-      "published_at": "2026-11-22T15:59:14+01:00",
-      "fetched_at": "2026-11-22T16:01:11+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Siruis slog Djurgården - Hammarby pressat"
-      },
-      "en": {
-        "title": "Sirius beat Djurgården - Hammarby under pressure"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T16:01:23+01:00"
       }
     }
   ]

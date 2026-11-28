@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-28T20:01:21+01:00",
+  "generated_at": "2026-11-28T20:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e593e7104a9e",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5QBXI9oiVtd8iCoQ7VAh0s/saknas-ploetsligt-i-direktsaendningen",
+      "guid": "5QBXI9oiVtd8iCoQ7VAh0s",
+      "published_at": "2026-11-28T20:08:56+01:00",
+      "fetched_at": "2026-11-28T20:15:41+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nöje"
+      ],
+      "sv": {
+        "title": "Saknas plötsligt i direktsändningen",
+        "summary": "Bolagets frontman Oliver Norqvist, 30, har varit ett uppskattat inslag i årets jurykonstellation. Som ersättare till Arash ”Ash” Pournouri gick han in i tävlingen med förhoppningen att kunna guida idolerna i vad som händer när man går från ett vanligt jobb till att potentiellt arbeta med musik på…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Suddenly missing from the live broadcast",
+        "summary": "Band frontman Oliver Norqvist, 30, has been a popular presence on this year's jury lineup. As a replacement for Arash \"Ash\" Pournouri, he entered the competition hoping to guide the idols through what happens when you move from an ordinary job to potentially working with music on…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T20:15:47+01:00"
+      }
+    },
     {
       "id": "2117656b2145",
       "schema_version": 1,
@@ -5640,33 +5669,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T19:16:10+01:00"
-      }
-    },
-    {
-      "id": "aaa7115dcc43",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/konstbluffen-som-lurade-tusentals-nu-kommer-tv-serien",
-      "guid": "5df23b48-4d32-46b7-91ef-2501fa973d8c",
-      "published_at": "2026-11-25T18:30:00+01:00",
-      "fetched_at": "2026-11-25T18:31:05+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/e5580e68-837a-4db7-9c98-a4327be20318.jpeg?width=600",
-      "sv": {
-        "title": "Konstbluffen som lurade tusentals – nu kommer tv-serien",
-        "summary": "Galleristen Joanna Segelström fick massor av människor att tro på hennes löften om säkra konstinvesteringar. Men allt slutade i krossade drömmar och miljardkrav. På fredag får dokumentärserien ”The Art of Deception” om Sveriges största konsthärva premiär på HBO Max.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The art scam that fooled thousands – now the TV series is coming",
-        "summary": "Gallerist Joanna Segelström got many people to believe her promises of safe art investments. But everything ended in shattered dreams and billion claims. On Friday the documentary series ”The Art of Deception” about Sweden's biggest art scam premieres on HBO Max."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T18:31:20+01:00"
       }
     }
   ]

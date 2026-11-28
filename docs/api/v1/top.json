@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T20:01:21+01:00",
+  "generated_at": "2026-11-28T20:15:49+01:00",
   "count": 30,
   "stories": [
     {
@@ -1318,6 +1318,69 @@
       ]
     },
     {
+      "id": "f0918f52abee",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "di"
+      ],
+      "first_published_at": "2026-11-28T19:59:59+01:00",
+      "last_published_at": "2026-11-28T20:05:43+01:00",
+      "lead": {
+        "id": "f0918f52abee",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/lMEAM3/ukraina-begransar-rapportering-om-skador",
+        "guid": "https://www.aftonbladet.se/nyheter/a/lMEAM3/ukraina-begransar-rapportering-om-skador?utm_medium=rss",
+        "published_at": "2026-11-28T19:59:59+01:00",
+        "fetched_at": "2026-11-28T20:01:12+01:00",
+        "category": "world",
+        "image_url": "https://akamai.vgc.no/v2/images/c9fb1b5e-a9e7-3cd2-b403-ede0473b129a?format=auto&s=ad9e9964fc0620afd5d8e12a813a0d029e852bc9&w=1000",
+        "sv": {
+          "title": "Ukraina begränsar rapportering om skador",
+          "summary": "Ukraina begränsar från och med lördagen medier från att rapportera detaljerad information om skador…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Ukraine restricts reporting on casualties",
+          "summary": "From Saturday, Ukraine is restricting media from reporting detailed information on casualties…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T20:01:19+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "4b7d2409731a",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/ukraina-begransar-rapportering-om-skador",
+          "published_at": "2026-11-28T20:05:43+01:00",
+          "sv": {
+            "title": "Ukraina begränsar rapportering om skador"
+          },
+          "en": {
+            "title": "Ukraine restricts reporting on damage"
+          }
+        },
+        {
+          "id": "f0918f52abee",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/lMEAM3/ukraina-begransar-rapportering-om-skador",
+          "published_at": "2026-11-28T19:59:59+01:00",
+          "sv": {
+            "title": "Ukraina begränsar rapportering om skador"
+          },
+          "en": {
+            "title": "Ukraine restricts reporting on casualties"
+          }
+        }
+      ]
+    },
+    {
       "id": "74b098a30018",
       "source_count": 2,
       "sources": [
@@ -2187,68 +2250,6 @@
           },
           "en": {
             "title": "Car crashes into façade – at least one injured"
-          }
-        }
-      ]
-    },
-    {
-      "id": "d44a613a70d1",
-      "source_count": 2,
-      "sources": [
-        "expressen",
-        "svd"
-      ],
-      "first_published_at": "2026-11-28T10:43:54+01:00",
-      "last_published_at": "2026-11-28T10:45:52+01:00",
-      "lead": {
-        "id": "d44a613a70d1",
-        "schema_version": 1,
-        "source": "expressen",
-        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=51bf9cce-0c8e-4ecc-8ce8-41e86798b33b",
-        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=51bf9cce-0c8e-4ecc-8ce8-41e86798b33b",
-        "published_at": "2026-11-28T10:43:54+01:00",
-        "fetched_at": "2026-11-28T11:01:14+01:00",
-        "category": "sweden",
-        "sv": {
-          "title": "Bil har kört in i skyltfönster",
-          "summary": "Polis och ambulanshelikopter i centrala Stockholm",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "Car has crashed into a shop window",
-          "summary": "Police and ambulance helicopter in central Stockholm"
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-28T11:01:22+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "3c13eaf6866a",
-          "source": "svd",
-          "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80401",
-          "published_at": "2026-11-28T10:45:52+01:00",
-          "sv": {
-            "title": "Bil har kört in i skyltfönster i centrala Stockholm"
-          },
-          "en": {
-            "title": "Car has crashed into a shop window in central Stockholm"
-          }
-        },
-        {
-          "id": "d44a613a70d1",
-          "source": "expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=51bf9cce-0c8e-4ecc-8ce8-41e86798b33b",
-          "published_at": "2026-11-28T10:43:54+01:00",
-          "sv": {
-            "title": "Bil har kört in i skyltfönster"
-          },
-          "en": {
-            "title": "Car has crashed into a shop window"
           }
         }
       ]
