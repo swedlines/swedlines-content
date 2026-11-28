@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-11-28T11:45:53+01:00",
+  "generated_at": "2026-11-28T12:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "256c59f9e4b1",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/jimmie-akesson-har-spelat-sina-kort-bast-i-matchen-om-makten-i-sverige",
+      "guid": "6282d47c-9112-4eb5-80b6-533851195085",
+      "published_at": "2026-11-28T12:00:00+01:00",
+      "fetched_at": "2026-11-28T12:01:18+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/9fc18184-5562-4cb1-a148-b2e7c854e682.jpeg?width=600",
+      "sv": {
+        "title": "Jimmie Åkesson har spelat sina kort bäst i matchen om makten i Sverige"
+      },
+      "en": {
+        "title": "Jimmie Åkesson has played his cards best in the battle for power in Sweden"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T12:01:24+01:00"
+      }
+    },
+    {
+      "id": "994ccfc664f4",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/skane/brandmannen-christoffer-akte-till-ukraina-for-att-lara-sig-av-kollegor-som-jobbar-i-krig",
+      "guid": "1ae80094-ae68-4dc7-a379-98c19c0eb8b5",
+      "published_at": "2026-11-28T12:00:00+01:00",
+      "fetched_at": "2026-11-28T12:01:18+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/7279e35c-649b-40e2-99df-291804575b1a.jpeg?width=600",
+      "sv": {
+        "title": "Nätterna i skyddsrummet förändrade brandmannen från Malmö",
+        "summary": "De nattliga flyglarmen blev snabbt vardag för brandmannen Christoffer Persson Victorson. Samtidigt väntade hans fru parets första barn hemma i Malmö. Den senaste tidens närmast dagliga attacker i Kiev har fått honom att följa nyheterna ännu mer noggrant.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nights in the shelter changed the firefighter from Malmö",
+        "summary": "The nightly air-raid alarms quickly became everyday life for firefighter Christoffer Persson Victorson. At the same time, his wife was waiting for the couple's first child at home in Malmö. The recent almost daily attacks in Kyiv have led him to follow the news even more closely."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T12:01:24+01:00"
+      }
+    },
     {
       "id": "adef362cc539",
       "schema_version": 1,
@@ -5219,56 +5270,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T14:31:14+01:00"
-      }
-    },
-    {
-      "id": "f5f90b45fd6a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/122-kvadratmeter-stort-hus-for-6-5-miljoner",
-      "guid": "65a0c4d0-9128-40c2-a921-c6488fe9b0c7",
-      "published_at": "2026-11-25T14:21:49+01:00",
-      "fetched_at": "2026-11-25T14:28:35+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "122 kvadratmeter stort hus för 6,5 miljoner"
-      },
-      "en": {
-        "title": "122 square metre house for 6.5 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T14:28:40+01:00"
-      }
-    },
-    {
-      "id": "351ebc9bf8b8",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/sd-vill-sanka-skatten-pa-bensin-och-diesel",
-      "guid": "7b213656-d733-4515-b4a3-6999a3a52854",
-      "published_at": "2026-11-25T14:16:28+01:00",
-      "fetched_at": "2026-11-25T14:28:35+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/e6da5e91-fe74-46d8-8310-e357b90e1ea2.jpg?width=600",
-      "sv": {
-        "title": "SD vill sänka skatten på bensin och diesel",
-        "summary": "Sverigedemokraterna vill sänka skatten på bensin och diesel under första halvåret 2027. Däremot väntar partiet med den stora tandvårdsreform som man gick till val på.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "SD wants to cut the tax on petrol and diesel",
-        "summary": "The Sweden Democrats want to cut the tax on petrol and diesel during the first half of 2027. However, the party is holding off on the major dental care reform it went to the polls on."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T14:28:40+01:00"
       }
     }
   ]

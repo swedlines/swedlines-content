@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-28T11:45:53+01:00",
+  "generated_at": "2026-11-28T12:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "27c40662cd6f",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/58YkzMSLVLSzitaPEvUatI/svarar-pa-kritiken-bara-skratta-och-tacka-foer-uppmaerksamheten",
+      "guid": "58YkzMSLVLSzitaPEvUatI",
+      "published_at": "2026-11-28T11:47:02+01:00",
+      "fetched_at": "2026-11-28T12:01:16+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nöje"
+      ],
+      "sv": {
+        "title": "Svarar på kritiken: ”Bara skratta och tacka för uppmärksamheten”",
+        "summary": "I veckan rapporterade Jönköpings-Posten att Tareq Taylor och artisten Andreas Alemans julshow ”En innerlig jul” ställs in i Jönköping. Samtidigt som tidningen redovisade PR-byråns förklaring om ”produktionstekniska skäl” uppmärksammades också Göteborgs-Postens dåliga recension av premiären i…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Responds to criticism: \"Just laugh and thank them for the attention\"",
+        "summary": "This week Jönköpings-Posten reported that Tareq Taylor and artist Andreas Aleman's Christmas show \"En innerlig jul\" is being cancelled in Jönköping. At the same time as the newspaper reported the PR agency's explanation of \"production-technical reasons\", Göteborgs-Posten's poor review of the premiere in…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T12:01:24+01:00"
+      }
+    },
     {
       "id": "0c1d63c42c88",
       "schema_version": 1,
@@ -5620,33 +5649,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T12:00:33+01:00"
-      }
-    },
-    {
-      "id": "50875f457d80",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Oyp5P3/tveklost-en-av-var-tids-stora-filmberattare",
-      "guid": "https://www.svd.se/a/Oyp5P3/tveklost-en-av-var-tids-stora-filmberattare?utm_medium=rss",
-      "published_at": "2026-11-25T11:25:37+01:00",
-      "fetched_at": "2026-11-25T11:31:08+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/074b3f5e-ffc5-36e9-ba0e-1a963acaa706?format=auto&s=5e1b38ca8d62107ba05c77511f251e3afd81cfba&w=1000",
-      "sv": {
-        "title": "Tveklöst en av vår tids stora filmberättare",
-        "summary": "”Paper tiger” är James Grays hittills bästa film – iögonfallande, stämningsfull och kanske som allra…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unquestionably one of our time's great filmmakers",
-        "summary": "“Paper Tiger” is James Gray's best film so far – eye-catching, atmospheric and perhaps as all…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T11:31:23+01:00"
       }
     }
   ]
