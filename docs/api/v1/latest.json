@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-28T15:16:05+01:00",
+  "generated_at": "2026-11-28T15:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "182d62cdfadc",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/qOLjom/par-nyman-lakare-fran-stockholm-skulle-segla-jorden-runt-pa-egen-hand-da-gick-masten-av",
+      "guid": "https://www.aftonbladet.se/nyheter/a/qOLjom/par-nyman-lakare-fran-stockholm-skulle-segla-jorden-runt-pa-egen-hand-da-gick-masten-av?utm_medium=rss",
+      "published_at": "2026-11-28T15:26:02+01:00",
+      "fetched_at": "2026-11-28T15:31:04+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/8b5bb2f8-0ba7-3756-b2d0-1a4e58809d98?format=auto&s=9e790b77ed492f7238c6792234ac160f1be35c4b&w=1000",
+      "sv": {
+        "title": "Pär ensam på havet med trasig mast – en månad till land",
+        "summary": "Pär skulle segla jorden runt",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pär alone at sea with broken mast – a month from land",
+        "summary": "Pär was going to sail around the world"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T15:31:09+01:00"
+      }
+    },
+    {
+      "id": "a25a671c23a3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a3a88483-a473-49bf-aa42-d44f505fe939",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a3a88483-a473-49bf-aa42-d44f505fe939",
+      "published_at": "2026-11-28T15:21:14+01:00",
+      "fetched_at": "2026-11-28T15:31:04+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Åkesson: \"Extraval är osannolikt\"",
+        "summary": "Jimmie Åkesson håller tal",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Åkesson: \"Extraval är osannolikt\"",
+        "summary": "Jimmie Åkesson gives a speech"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T15:31:09+01:00"
+      }
+    },
     {
       "id": "b4a43ecb5942",
       "schema_version": 1,
@@ -5417,66 +5470,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T06:15:51+01:00"
-      }
-    },
-    {
-      "id": "d1a95eca4dc5",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/tvinga-inte-larare-att-anvanda-ai",
-      "guid": "a015e950-b417-455f-bd2f-49b99ec8ba6c",
-      "published_at": "2026-11-28T06:05:00+01:00",
-      "fetched_at": "2026-11-28T06:15:47+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/f48ca5cd-1d7f-41c7-82d1-820ed34a927a.jpeg?width=600",
-      "sv": {
-        "title": "”Tvinga inte lärare att använda AI.”",
-        "summary": "Löftet om effektivisering får inte bli en trojansk häst, skriver Tullia Jack, biträdande universitetslektor och docent i tjänstevetenskap vid Lunds universitet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "“Do not force teachers to use AI.”",
-        "summary": "The promise of efficiency must not become a Trojan horse, writes Tullia Jack, associate senior lecturer and docent in service studies at Lund University"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-28T06:15:51+01:00"
-      }
-    },
-    {
-      "id": "1d84972b4165",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/lakarvilla-i-goteborg-sald-for-26-miljoner-kronor.1ccda0b7-3357-5b69-8100-59ea2f698981",
-      "guid": "1ccda0b7-3357-5b69-8100-59ea2f698981",
-      "published_at": "2026-11-28T06:02:20+01:00",
-      "fetched_at": "2026-11-28T06:45:51+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: Läkarförbundet",
-        "Tagg: Fastigheter",
-        "Tagg: Samhällsredaktionen"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/95d90d9c-253f-32c4-98df-8f77ddbf78bc",
-      "sv": {
-        "title": "Läkarvilla såld – för 26 miljoner",
-        "summary": "Mäklaren: ”Området är fint, skyddat och har ett historiskt värde” • Här är de nya ägarna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Doctor's villa sold – for SEK 26 million",
-        "summary": "The estate agent: “The area is beautiful, protected and has historical value” • Here are the new owners."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-28T06:45:56+01:00"
       }
     }
   ]

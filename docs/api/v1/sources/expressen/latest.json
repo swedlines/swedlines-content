@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T15:16:05+01:00",
+  "generated_at": "2026-11-28T15:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a25a671c23a3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a3a88483-a473-49bf-aa42-d44f505fe939",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a3a88483-a473-49bf-aa42-d44f505fe939",
+      "published_at": "2026-11-28T15:21:14+01:00",
+      "fetched_at": "2026-11-28T15:31:04+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Åkesson: \"Extraval är osannolikt\"",
+        "summary": "Jimmie Åkesson håller tal",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Åkesson: \"Extraval är osannolikt\"",
+        "summary": "Jimmie Åkesson gives a speech"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T15:31:09+01:00"
+      }
+    },
     {
       "id": "fc316ff6d289",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T11:31:23+01:00"
-      }
-    },
-    {
-      "id": "49a4fbc47083",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/krim/busschauffor-doms-efter-dodsolycka",
-      "guid": "https://www.expressen.se/nyheter/krim/busschauffor-doms-efter-dodsolycka/",
-      "published_at": "2026-11-25T11:04:11+01:00",
-      "fetched_at": "2026-11-25T11:15:46+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Busschaufför döms efter dödsolycka",
-        "summary": "En mopedförare dog efter att ha krockat med en buss i Gävle förra sommaren. Nu döms bussföraren för vårdslöshet i trafik och vållande till annans död.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bus driver sentenced after fatal accident",
-        "summary": "A moped rider died after colliding with a bus in Gävle last summer. The bus driver is now sentenced for negligent driving and causing death by negligence."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T11:15:55+01:00"
       }
     }
   ]

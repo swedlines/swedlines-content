@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T15:16:05+01:00",
+  "generated_at": "2026-11-28T15:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "182d62cdfadc",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/qOLjom/par-nyman-lakare-fran-stockholm-skulle-segla-jorden-runt-pa-egen-hand-da-gick-masten-av",
+      "guid": "https://www.aftonbladet.se/nyheter/a/qOLjom/par-nyman-lakare-fran-stockholm-skulle-segla-jorden-runt-pa-egen-hand-da-gick-masten-av?utm_medium=rss",
+      "published_at": "2026-11-28T15:26:02+01:00",
+      "fetched_at": "2026-11-28T15:31:04+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/8b5bb2f8-0ba7-3756-b2d0-1a4e58809d98?format=auto&s=9e790b77ed492f7238c6792234ac160f1be35c4b&w=1000",
+      "sv": {
+        "title": "Pär ensam på havet med trasig mast – en månad till land",
+        "summary": "Pär skulle segla jorden runt",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pär alone at sea with broken mast – a month from land",
+        "summary": "Pär was going to sail around the world"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T15:31:09+01:00"
+      }
+    },
     {
       "id": "e74a2abf1098",
       "schema_version": 1,
@@ -5504,33 +5531,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T20:31:09+01:00"
-      }
-    },
-    {
-      "id": "d290512059c1",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/svenskar-bast-pa-att-forsta-engelska",
-      "guid": "48279558-cd53-4be7-afb2-14596d8ac768",
-      "published_at": "2026-11-18T19:43:17+01:00",
-      "fetched_at": "2026-11-18T19:45:47+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/ceebbcda-6dac-4527-aca8-900085f4aa97.jpg?width=600",
-      "sv": {
-        "title": "Svenskar bäst på att förstå engelska",
-        "summary": "Svenskarna kommer på första plats i ett globalt test av engelskkunskaper. Fast det tycks ändå finnas en del att slipa på.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedes best at understanding English",
-        "summary": "Sweden ranks first in a global test of English skills. Still, there appears to be some room for improvement."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:45:52+01:00"
       }
     }
   ]
