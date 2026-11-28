@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T05:01:19+01:00",
+  "generated_at": "2026-11-28T05:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "643532efabc2",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/amanda-sokolnicki-thand-ringqvist-riskerar-att-krossa-det-centerpartiet-har-byggt-upp",
+      "guid": "https://www.dn.se/ledare/amanda-sokolnicki-thand-ringqvist-riskerar-att-krossa-det-centerpartiet-har-byggt-upp/",
+      "published_at": "2026-11-28T05:08:16+01:00",
+      "fetched_at": "2026-11-28T05:15:43+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/7a49e744-6c73-4143-a6ef-13b759ed2644.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Amanda Sokolnicki: Thand Ringqvist riskerar att krossa det Centerpartiet har byggt upp",
+        "summary": "Vem ska rösta på Centerpartiet när det här är över?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Amanda Sokolnicki: Thand Ringqvist risks destroying what the Centre Party has built up",
+        "summary": "Who will vote for the Centre Party once this is over?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T05:15:51+01:00"
+      }
+    },
     {
       "id": "db22bcd5543f",
       "schema_version": 1,
@@ -5400,37 +5427,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T17:16:01+01:00"
-      }
-    },
-    {
-      "id": "f2b24294f377",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/ledare/centerns-val-kan-bli-slutet-for-symbolpolitiken.cbdf7be0-90fd-5bba-ae56-8bba2fcce389",
-      "guid": "cbdf7be0-90fd-5bba-ae56-8bba2fcce389",
-      "published_at": "2026-11-26T16:59:25+01:00",
-      "fetched_at": "2026-11-26T17:31:07+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Ledare",
-        "Tagg: Centerpartiet"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/4605a52d-bc96-34c9-93b0-a3c07fffeaf3",
-      "sv": {
-        "title": "Håkan Boström: Centerns val kan bli slutet för symbolpolitiken",
-        "summary": "Sakpolitiken talar tydligt för att C bör gå till borgerligheten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Håkan Boström: The Centre Party's choice could mark the end of symbolic politics",
-        "summary": "Policy substance clearly indicates that C should go to the bourgeois side."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T17:31:12+01:00"
       }
     }
   ]

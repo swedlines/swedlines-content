@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T05:01:19+01:00",
+  "generated_at": "2026-11-28T05:15:54+01:00",
   "count": 200,
   "items": [
     {
@@ -26,6 +26,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T05:01:16+01:00"
+      }
+    },
+    {
+      "id": "7c366991dba8",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/har-festar-hemliga-iq-eliten-en-myt",
+      "guid": "https://www.expressen.se/nyheter/sverige/har-festar-hemliga-iq-eliten-en-myt/",
+      "published_at": "2026-11-28T05:00:00+01:00",
+      "fetched_at": "2026-11-28T05:15:44+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Här festar hemliga IQ-eliten: ”En myt”",
+        "summary": "De är i olika åldrar och kommer från olika samhällsklasser. Men de har en gemensam faktor: De tillhör Sveriges absoluta IQ-elit. Dessutom lever de längre än andra.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here the secret IQ elite party: ”En myt”",
+        "summary": "They are of different ages and come from different social classes. But they share one common factor: They belong to Sweden's absolute IQ elite. Moreover, they live longer than others."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T05:15:51+01:00"
       }
     },
     {
@@ -5632,33 +5658,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T06:31:04+01:00"
-      }
-    },
-    {
-      "id": "f2c1a09f62e9",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/OypKA3/nathan-fielders-you-can-see-everything-lever-inte-upp-till-loftet",
-      "guid": "https://www.svd.se/a/OypKA3/nathan-fielders-you-can-see-everything-lever-inte-upp-till-loftet?utm_medium=rss",
-      "published_at": "2026-11-25T05:38:41+01:00",
-      "fetched_at": "2026-11-25T05:45:45+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/df987fe4-d79a-3ecc-a24d-f4f2ecb1673f?format=auto&s=abfe138b6137636d32ac2bd02801464b1d1e73a2&w=1000",
-      "sv": {
-        "title": "Hyllningskören har fel om Fielder",
-        "summary": "”You can see everything” har flera problem. Relationen till sanningen är inte ett av dem.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The choir of praise is wrong about Fielder",
-        "summary": "“You can see everything” has several problems. Its relationship to the truth is not one of them."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T05:46:04+01:00"
       }
     }
   ]
