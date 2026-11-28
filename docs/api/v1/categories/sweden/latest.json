@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-28T18:31:08+01:00",
+  "generated_at": "2026-11-28T18:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7f66f059954c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/nordens-storsta-skateboardhall-oppnar-i-goteborg.a7984c36-1aba-516c-9a44-f749441527a3",
+      "guid": "a7984c36-1aba-516c-9a44-f749441527a3",
+      "published_at": "2026-11-28T18:30:58+01:00",
+      "fetched_at": "2026-11-28T18:45:49+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Lindholmen"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/74713c4c-52b3-3d39-bc82-06dbde85ee0a",
+      "sv": {
+        "title": "Nya skatehallen på Lindholmen har öppnat",
+        "summary": "Gubbdagis eller ungdomshäng, eller varför inte båda?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New skate hall in Lindholmen has opened",
+        "summary": "Old-man daycare or youth hangout, or why not both?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T18:45:54+01:00"
+      }
+    },
     {
       "id": "3a323c3e1bf9",
       "schema_version": 1,
@@ -5459,33 +5491,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T13:45:53+01:00"
-      }
-    },
-    {
-      "id": "dfac783a3ada",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/GPGA19/sprangning-av-fem-tons-explosivt-material-stoppas-i-usa",
-      "guid": "https://www.aftonbladet.se/nyheter/a/GPGA19/sprangning-av-fem-tons-explosivt-material-stoppas-i-usa?utm_medium=rss",
-      "published_at": "2026-11-24T13:23:57+01:00",
-      "fetched_at": "2026-11-24T13:31:03+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/0e0adb59-99ab-36f7-bf76-13173c7970df?format=auto&s=985923471a9a27ef2c08b2bd6cbea5367506f423&w=1000",
-      "sv": {
-        "title": "Sprängning av fem tons explosivt material stoppas",
-        "summary": "Arméns planer stoppas ✓ ”Oroade”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Blasting of five tons of explosive material stopped",
-        "summary": "The army's plans are stopped ✓ \"Worried\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T13:31:19+01:00"
       }
     }
   ]

@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-28T18:31:08+01:00",
+  "generated_at": "2026-11-28T18:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0e8af0e5da76",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kulturdebatt/mette-frederiksens-ord-ger-eko-fran-kriget-i-bosnien.de1f1d05-9e1d-583f-8a81-555388c04170",
+      "guid": "de1f1d05-9e1d-583f-8a81-555388c04170",
+      "published_at": "2026-11-28T18:27:56+01:00",
+      "fetched_at": "2026-11-28T18:45:49+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Kulturdebatt",
+        "Tagg: Mette Frederiksen",
+        "Tagg: Konspirationsteorier",
+        "Tagg: Högerpopulism",
+        "Tagg: Extremhögern",
+        "Tagg: Invandringspolitik",
+        "Tagg: Danmark"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/1ed254b8-35da-3fd0-b5c6-2aac3bfc8207",
+      "sv": {
+        "title": "Mette Fredriksens ord ger eko från Balkankrigen",
+        "summary": "”Jag känner igen ordet ’ursprunglig’ från min skolgång i Bosnien”, skriver Admir Rahmanović.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mette Frederiksen's words echo from the Balkan wars",
+        "summary": "\"I recognise the word 'original' from my schooldays in Bosnia,\" writes Admir Rahmanović."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T18:45:54+01:00"
+      }
+    },
     {
       "id": "78e7db69d57e",
       "schema_version": 1,
@@ -5352,30 +5388,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T10:01:24+01:00"
-      }
-    },
-    {
-      "id": "fa10527a05a1",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/KL3owo/explosion-pa-oljeanlaggning",
-      "guid": "https://www.svd.se/a/KL3owo/explosion-pa-oljeanlaggning?utm_medium=rss",
-      "published_at": "2026-11-26T09:45:28+01:00",
-      "fetched_at": "2026-11-26T09:47:52+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/34032f77-a8f8-380b-897c-eb4149382136?format=auto&s=8c57295476c4a3a8e10156cbafdee6927d2c3e33&w=1000",
-      "sv": {
-        "title": "Explosion på oljeanläggning"
-      },
-      "en": {
-        "title": "Explosion at oil facility"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T09:47:57+01:00"
       }
     }
   ]
