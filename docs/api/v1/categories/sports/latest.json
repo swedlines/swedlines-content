@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T14:31:12+01:00",
+  "generated_at": "2026-11-28T14:42:46+01:00",
   "count": 200,
   "items": [
     {
@@ -27,6 +27,37 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T14:31:09+01:00"
+      }
+    },
+    {
+      "id": "e40db219e590",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/anton-grahns-ilska-sparkade-ner-staket.438a9177-3126-5c0a-92de-0ddf3c920cca",
+      "guid": "438a9177-3126-5c0a-92de-0ddf3c920cca",
+      "published_at": "2026-11-28T14:11:45+01:00",
+      "fetched_at": "2026-11-28T14:42:38+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Sport",
+        "Tagg: Anton Grahn"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/a65ee1df-fbbf-3107-a437-a990352e286f",
+      "sv": {
+        "title": "Kritiken mot svensken: ”Gillar det inte”",
+        "summary": "Anton Grahn hade stora förhoppningar inför sprinten i Ruka.Det slutade med respass i kvartsfinal och ett nedsparkat staket.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Criticism of the Swede: \"Don't like it\"",
+        "summary": "Anton Grahn had high hopes for the sprint in Ruka. It ended with a quarter-final exit and a kicked-over fence."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T14:42:42+01:00"
       }
     },
     {
@@ -5590,40 +5621,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T10:01:21+01:00"
-      }
-    },
-    {
-      "id": "d93c8addfd32",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/bk-hacken/hacken-jagar-djurgarden-i-kampen-om-europaspel.ea74fbbd-9493-55a3-9d5a-bf72bb7e517b",
-      "guid": "ea74fbbd-9493-55a3-9d5a-bf72bb7e517b",
-      "published_at": "2026-11-22T09:28:01+01:00",
-      "fetched_at": "2026-11-22T09:45:46+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "BK Häcken",
-        "Tagg: Jens Gustafsson",
-        "Tagg: Julius Lindberg",
-        "Tagg: Brice Wembangomo",
-        "Tagg: BK Häcken"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/3b296127-7841-319f-81c7-75bf7f60b335",
-      "sv": {
-        "title": "Häcken jagar Europa – och Djurgården: ”Lite kaos där”",
-        "summary": "Vill bli trea – men även fjärdeplatsen kan räcka: ”Brice borde hjälpa Jens med notan”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Häcken chases Europe – and Djurgården: \"A bit of chaos there\"",
-        "summary": "Wants to finish third – but fourth place could also do: \"Brice should help Jens with the bill.\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T09:45:53+01:00"
       }
     }
   ]
