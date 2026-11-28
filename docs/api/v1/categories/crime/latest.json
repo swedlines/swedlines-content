@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T10:15:57+01:00",
+  "generated_at": "2026-11-28T10:28:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b49c86be6139",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/polisens-chock-upptackten-under-lekparken",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/polisens-chock-upptackten-under-lekparken",
+      "published_at": "2026-11-28T10:14:57+01:00",
+      "fetched_at": "2026-11-28T10:28:50+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Lyfter på lekparken – ser mörk hemlighet",
+        "summary": "Underjordiska nästet i Spanien • Kriminella verksamheten",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lifts the lid on the playground – sees dark secret",
+        "summary": "Underground nest in Spain • Criminal activity"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T10:28:55+01:00"
+      }
+    },
     {
       "id": "1774fc534754",
       "schema_version": 1,
@@ -5339,32 +5365,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T20:01:24+01:00"
-      }
-    },
-    {
-      "id": "c41ccc8abfc5",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/ikea-bedragarnas-fracka-metod-mycket-allvarligt",
-      "guid": "https://www.expressen.se/nyheter/sverige/ikea-bedragarnas-fracka-metod-mycket-allvarligt/",
-      "published_at": "2026-11-23T18:54:53+01:00",
-      "fetched_at": "2026-11-23T19:01:16+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Ikea-bedragarnas fräcka metod: ”Mycket allvarligt”",
-        "summary": "En kommande Ikea-leverans är betet i ett bedrägeri. Ikea själva ser mycket allvarligt på bedragarnas metod.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ikea scammers' cheeky method: “Very serious”",
-        "summary": "An upcoming Ikea delivery is the bait in a scam. Ikea itself takes a very serious view of the scammers' method."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T19:01:29+01:00"
       }
     }
   ]

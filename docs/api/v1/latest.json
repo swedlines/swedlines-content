@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-28T10:15:57+01:00",
+  "generated_at": "2026-11-28T10:28:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "00c5adcbcc51",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/kandiskockarna-det-far-du-gora-och-inte-gora-pa-julbordet",
+      "guid": "https://www.dn.se/sverige/kandiskockarna-det-far-du-gora-och-inte-gora-pa-julbordet/",
+      "published_at": "2026-11-28T10:15:48+01:00",
+      "fetched_at": "2026-11-28T10:28:49+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/5baaaa08-c72a-4e1d-b3d1-b274b804f129.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Kändiskockarna: Det får du göra och inte göra på julbordet",
+        "summary": "Får man ta hur mycket mat som helst? Är det okej att sjunga snapsvisor? Och får man plocka med sig godis hem? Här svarar tre kändiskockar om vad som uppmuntras på restaurangernas julbord – och vad de stör sig på. – Nej, nej, nej, nej, nej nej, svarar Melker Andersson på en etikettfråga.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Celebrity chefs: Here's what you can and can't do at the Christmas buffet",
+        "summary": "Can you take as much food as you like? Is it okay to sing snaps songs? And can you take candy home? Here three celebrity chefs answer what is encouraged at restaurant Christmas buffets – and what bothers them. – No, no, no, no, no no, answers Melker Andersson to an etiquette question."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T10:28:55+01:00"
+      }
+    },
+    {
+      "id": "b49c86be6139",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/polisens-chock-upptackten-under-lekparken",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/polisens-chock-upptackten-under-lekparken",
+      "published_at": "2026-11-28T10:14:57+01:00",
+      "fetched_at": "2026-11-28T10:28:50+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Lyfter på lekparken – ser mörk hemlighet",
+        "summary": "Underjordiska nästet i Spanien • Kriminella verksamheten",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lifts the lid on the playground – sees dark secret",
+        "summary": "Underground nest in Spain • Criminal activity"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T10:28:55+01:00"
+      }
+    },
     {
       "id": "56d3d8015789",
       "schema_version": 1,
@@ -5414,61 +5467,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T19:01:25+01:00"
-      }
-    },
-    {
-      "id": "dd6dacbcfd89",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9352028",
-      "guid": "rss:sr.se/article/9352028",
-      "published_at": "2026-11-27T18:57:00+01:00",
-      "fetched_at": "2026-11-27T19:01:15+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "KD: Budgetmotionen inte anpassad för SD",
-        "summary": "I en gemensam motion föreslår M, KD och L stärkta resurser till cancervården och psykiatrin. Kristdemokraternas förste vice ordförande Jakob Forssmed säger att M, KD och L inte har anpassat budgetmotionen efter Sverigedemokraterna och inte heller har förhandlat med dem.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "KD: Budget motion not adapted for SD",
-        "summary": "In a joint motion, the Moderates, the Christian Democrats and the Liberals propose strengthened resources for cancer care and psychiatry. Christian Democrat first deputy chair Jakob Forssmed says that the M, KD and L have not adapted the budget motion to the Sweden Democrats and have not negotiated with them either."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T19:01:25+01:00"
-      }
-    },
-    {
-      "id": "3fd36445e6e1",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/30HliGGSNRDiY5Vre74SQo/ella-foeddes-vid-busshallplats",
-      "guid": "30HliGGSNRDiY5Vre74SQo",
-      "published_at": "2026-11-27T18:51:58+01:00",
-      "fetched_at": "2026-11-27T20:01:10+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Efter fem"
-      ],
-      "sv": {
-        "title": "Ella, 2, föddes vid busshållplats – nu firas hon där",
-        "summary": "Den 24 november 2024 var Sofie Carlson och Adam Linde på väg till sjukhuset när de insåg att de inte skulle hinna fram. Vid Kämpagårdens busshållplats fick de stanna och med 112 i telefonen fick Adam ta emot sin dotter i bilen. Trots den dramatiska förlossningen hann han aldrig bli rädd.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Ella, 2, was born at a bus stop – now she is celebrated there",
-        "summary": "On 24 November 2024, Sofie Carlson and Adam Linde were on their way to the hospital when they realised they would not make it in time. At Kämpagården's bus stop they had to stop, and with 112 on the phone Adam had to deliver his daughter in the car. Despite the dramatic birth, he never had time to become scared."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T20:01:17+01:00"
       }
     }
   ]
