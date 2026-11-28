@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T03:31:14+01:00",
+  "generated_at": "2026-11-28T03:45:44+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "db08370bd199",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9349683",
+      "guid": "rss:sr.se/article/9349683",
+      "published_at": "2026-11-28T03:30:00+01:00",
+      "fetched_at": "2026-11-28T03:45:36+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Dansk ekonomi växer mest i Europa – Ozempic en faktor",
+        "summary": "Danmarks ekonomi går strålande just nu och vårt grannland har i det närmaste kinesiska tillväxttal. Enlig EU-kommissionens ekonomiska höstprognos som publicerades häromveckan förväntas den danska tillväxten i år landa på 4,5 procent, mest i Europa.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Danish economy grows fastest in Europe – Ozempic a factor",
+        "summary": "Denmark's economy is booming right now, and our neighbour has near-Chinese growth rates. According to the European Commission's autumn economic forecast, published a few weeks ago, Danish growth this year is expected to land at 4.5 percent, the highest in Europe."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T03:45:42+01:00"
+      }
+    },
     {
       "id": "53c76d9bb778",
       "schema_version": 1,
@@ -5430,32 +5456,6 @@
       },
       "en": {
         "title": "Charges for the Rönninge murder on Tuesday"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T15:31:11+01:00"
-      }
-    },
-    {
-      "id": "d22e578281c9",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/vkAWeL/atal-om-ronningemord-nasta-vecka",
-      "guid": "https://www.aftonbladet.se/nyheter/a/vkAWeL/atal-om-ronningemord-nasta-vecka?utm_medium=rss",
-      "published_at": "2026-11-27T15:27:49+01:00",
-      "fetched_at": "2026-11-27T15:31:01+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Åtal om Rönningemord nästa vecka",
-        "summary": "På tisdag nästa vecka lämnas åtalet in mot den 26-årige man som misstänkts för det uppmärksammade…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Charges in Rönninge murder next week",
-        "summary": "On Tuesday next week the charges will be filed against the 26-year-old man suspected of the high-profile…"
       },
       "translation": {
         "status": "done",
