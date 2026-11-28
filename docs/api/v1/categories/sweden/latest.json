@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T02:45:51+01:00",
+  "generated_at": "2026-11-28T03:01:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3200314b1fdf",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/trelleborg/kolonistuga-i-lagor-utanfor-trelleborg",
+      "guid": "2ff53bed-17a2-49bc-b4c7-32d388cc1db8",
+      "published_at": "2026-11-28T02:51:24+01:00",
+      "fetched_at": "2026-11-28T03:01:11+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Kolonistuga i lågor utanför Trelleborg",
+        "summary": "Under natten mot lördag kom larmet. Ett kolonistuga hade fattat eld i Trelleborgs östra utkanter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Allotment cabin ablaze outside Trelleborg",
+        "summary": "The alarm came during the night towards Saturday. A allotment cabin had caught fire on the eastern outskirts of Trelleborg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T03:01:13+01:00"
+      }
+    },
     {
       "id": "ca8136ce6836",
       "schema_version": 1,
@@ -5479,33 +5505,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T03:45:52+01:00"
-      }
-    },
-    {
-      "id": "869048e07eaa",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/aGwnjM/smutsig-tandlakarutrustning-kan-ha-spridit-hiv",
-      "guid": "https://www.aftonbladet.se/nyheter/a/aGwnjM/smutsig-tandlakarutrustning-kan-ha-spridit-hiv?utm_medium=rss",
-      "published_at": "2026-11-24T00:48:08+01:00",
-      "fetched_at": "2026-11-24T00:52:53+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/da944c21-6903-314a-bb2c-ee02a570fc8a?format=auto&s=c9122d8527fcac839e46703314f61887574d9f57&w=1000",
-      "sv": {
-        "title": "Smutsig tandläkarutrustning kan ha spridit hiv",
-        "summary": "Kan ha smittats av Folktandvården",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dirty dental equipment may have spread HIV",
-        "summary": "May have been infected by Folktandvården"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T00:52:58+01:00"
       }
     }
   ]
