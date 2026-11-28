@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-28T17:46:09+01:00",
+  "generated_at": "2026-11-28T18:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "21e0054d477b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/saab-tar-miljardorder-fran-ukraina",
+      "guid": "cff87638-ea22-4328-a56e-fd10f185beac",
+      "published_at": "2026-11-28T17:57:33+01:00",
+      "fetched_at": "2026-11-28T18:01:17+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Saab tar miljardorder från Ukraina",
+        "summary": "Försvarsbolaget Saab har fått en order från Ukrainas försvarsdepartement avseende radarsystemet Giraffe 1X, enligt ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Saab wins billion-kronor order from Ukraine",
+        "summary": "Defence company Saab has received an order from Ukraine's Ministry of Defence for the Giraffe 1X radar system, according to a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T18:01:23+01:00"
+      }
+    },
+    {
+      "id": "c62683c85e11",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/agaren-talar-ut-om-trogsalda-ostermalm-townhouset",
+      "guid": "3f48bf74-57b6-4df7-8623-ba63d269b27c",
+      "published_at": "2026-11-28T17:46:22+01:00",
+      "fetched_at": "2026-11-28T18:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2134ee3a-977e-4450-875c-ae04b04691fe.jpeg?width=600",
+      "sv": {
+        "title": "Ägaren talar ut om trögsålda Östermalm-townhouset",
+        "summary": "Fastighetsentreprenören Stefan Liljestrand är van att leta samlarobjekt, främst bilar. När han sprang på Volvohandlaren Ernst Nilsons gamla townhouse från 1920-talet kunde han inte motstå Östermalmsfastigheten.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Owner speaks out about slow-selling Östermalm townhouse",
+        "summary": "Property entrepreneur Stefan Liljestrand is used to hunting collectors' items, mainly cars. When he came across Volvo dealer Ernst Nilson's former 1920s townhouse, he could not resist the Östermalm property."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T18:01:23+01:00"
+      }
+    },
     {
       "id": "7854803a2cad",
       "schema_version": 1,
@@ -5267,59 +5320,6 @@
       "en": {
         "title": "Stocks jump – property companies strong",
         "summary": "The Stockholm Stock Exchange rebounded sharply, with the OMXS30 nearly flat, after recent AI jitters. \"The European markets are trying to recover,\" says Capital.com analyst Daniela Hathorn to CNBC."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T17:45:53+01:00"
-      }
-    },
-    {
-      "id": "29beacb5b107",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/locket-pa-efter-plotsliga-avhoppen-ganska-oseriost",
-      "guid": "743b1bcc-772c-406f-b691-bd8d84433be6",
-      "published_at": "2026-11-26T17:40:01+01:00",
-      "fetched_at": "2026-11-26T17:45:47+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/cc2bb7af-bfb0-47af-b713-26b49ae73f27.jpeg?width=600",
-      "sv": {
-        "title": "Locket på efter plötsliga avhoppen: ”Ganska oseriöst”",
-        "summary": "Samtliga parter duckar frågor gällande de plötsliga avhoppen från kraschade Cerenos styrelse. Di har sökt ledningen, bolagets tidigare ordförande samt den avhoppade styrelseledamoten.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Silence after sudden resignations: \"Quite unserious\"",
-        "summary": "All parties are ducking questions about the sudden resignations from the board of the collapsed Cereno. They have contacted the management, the company's former chair and the resigned board member."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T17:45:53+01:00"
-      }
-    },
-    {
-      "id": "288df1ba0df6",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nordenborser-steg-rekyl-i-nokia",
-      "guid": "a750a6eb-532a-49a2-93a6-b6a9474aaa70",
-      "published_at": "2026-11-26T17:39:13+01:00",
-      "fetched_at": "2026-11-26T17:45:47+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nordenbörser steg – rekyl i Nokia",
-        "summary": "De nordiska börserna avancerade på bred front under torsdagen. Det regionala samlingsindexet Vinx 30 höjdes 2,3 procent till 1.497.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nordic stocks rise – Nokia recoils",
-        "summary": "The Nordic stock markets advanced broadly on Thursday. The regional composite index Vinx 30 rose 2.3 percent to 1,497."
       },
       "translation": {
         "status": "done",

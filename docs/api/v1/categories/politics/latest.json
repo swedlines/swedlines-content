@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T17:46:09+01:00",
+  "generated_at": "2026-11-28T18:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "505535631ffa",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/striden-tatnar-i-c-falangen-som-leder",
+      "guid": "https://www.expressen.se/nyheter/politik/striden-tatnar-i-c-falangen-som-leder/",
+      "published_at": "2026-11-28T17:53:56+01:00",
+      "fetched_at": "2026-11-28T18:01:16+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Striden tätnar i C – falangen som leder",
+        "summary": "Centerpartiets förtroenderåd väntas bli en rysare. Ja-sidan uppges nu vara något större än nej-sidan, enligt uppgifter till Expressen. Men fortfarande har ingen falang majoritet – så många röster behövs för majoritet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Battle intensifies in the Centre Party – the faction leading",
+        "summary": "The Centre Party's trust council is expected to be a nail-biter. The yes side is reportedly slightly larger than the no side, according to information given to Expressen. But no faction yet has a majority – so many votes are needed for a majority."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T18:01:23+01:00"
+      }
+    },
     {
       "id": "e3c50bd751af",
       "schema_version": 1,
@@ -5369,35 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T22:01:19+01:00"
-      }
-    },
-    {
-      "id": "098e4851e769",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3D3sx7yIvoSN0iZJjlMMQQ/gemensam-borglig-budget-laeggs-fram-i-morgon",
-      "guid": "3D3sx7yIvoSN0iZJjlMMQQ",
-      "published_at": "2026-11-26T21:43:41+01:00",
-      "fetched_at": "2026-11-26T23:01:10+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Inrikes"
-      ],
-      "sv": {
-        "title": "Gemensam borgerlig budget läggs fram under fredagen",
-        "summary": "Uppgifter till TV4 • Källa: ”C kommer gilla det”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Joint centre-right budget to be presented on Friday",
-        "summary": "Information to TV4 • Source: \"C will like it\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T23:01:16+01:00"
       }
     }
   ]
