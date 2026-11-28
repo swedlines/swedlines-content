@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T09:26:06+01:00",
+  "generated_at": "2026-11-28T09:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "71901331bdf9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9352065",
+      "guid": "rss:sr.se/article/9352065",
+      "published_at": "2026-11-28T09:24:00+01:00",
+      "fetched_at": "2026-11-28T09:30:59+01:00",
+      "category": "world",
+      "sv": {
+        "title": "José om migranterna i Spanien: Arbetskraften behövs",
+        "summary": "Många i Spanien håller fram migranternas betydelse för ekonomin. Spänningen stiger inför det spanska valet på söndag och migration är ett valtema med allt hårdare retorik. ”Det är extremt att vilja stoppa människor så drastiskt som yttersta högern vill”, anser vänsterväljaren José.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "José on migrants in Spain: The workforce is needed",
+        "summary": "Many in Spain emphasise migrants' importance to the economy. Tensions are rising ahead of Sunday's Spanish election, and migration is an election issue with increasingly harsh rhetoric. \"It is extreme to want to stop people as drastically as the far right wants,\" says left-leaning voter José."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T09:31:07+01:00"
+      }
+    },
     {
       "id": "8f18e754da19",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T12:31:03+01:00"
-      }
-    },
-    {
-      "id": "002abe34043c",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9348215",
-      "guid": "rss:sr.se/article/9348215",
-      "published_at": "2026-11-23T12:11:00+01:00",
-      "fetched_at": "2026-11-23T12:15:45+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Klimattoppmöten väntas bli mer polariserade",
-        "summary": "Världens länder lyckades inte enas om ett slutdokument efter det rekordlånga klimattoppmötet i Turkiet, främst på grund av oenighet om utfasning av fossila bränslen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Climate summits expected to become more polarised",
-        "summary": "The world's countries failed to agree on a final document after the record-long climate summit in Turkey, mainly due to disagreement over phasing out fossil fuels."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T12:15:54+01:00"
       }
     }
   ]
