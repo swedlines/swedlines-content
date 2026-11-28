@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T06:15:53+01:00",
+  "generated_at": "2026-11-28T06:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9cf36aa20c15",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/naringsliv/har-ar-malmos-nya-superhamn-konstgjord-halvo-for-miljarder",
+      "guid": "776fa8f8-65dc-4d7d-a7f8-dc79ae546212",
+      "published_at": "2026-11-28T06:30:00+01:00",
+      "fetched_at": "2026-11-28T06:31:00+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/3254e686-bb57-4747-b7f3-2df959c198c1.jpeg?width=600",
+      "sv": {
+        "title": "Här är Malmös nya superhamn – konstgjord halvö för miljarder",
+        "summary": "Nya järnvägsspår, en ny kaj för en kvarts miljard och en yta motsvarande 52 fotbollsplaner ska fyllas ut i Öresund. Det här är Malmös nya superhamn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here is Malmö's new super port – artificial peninsula for billions",
+        "summary": "New railway tracks, a new quay for a quarter of a billion kronor and an area equivalent to 52 football pitches are to be filled in Öresund. This is Malmö's new super port."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T06:31:02+01:00"
+      }
+    },
     {
       "id": "7347b96a4140",
       "schema_version": 1,
@@ -5292,33 +5319,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T22:15:38+01:00"
-      }
-    },
-    {
-      "id": "ee5c12a60a66",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/zelenskyj-ryssland-forbereder-nya-massiva-anfall",
-      "guid": "865b9bb1-2040-45da-8ae1-bf15213fc729",
-      "published_at": "2026-11-26T21:54:22+01:00",
-      "fetched_at": "2026-11-26T22:01:13+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/884b4466-7bc3-4c7e-90d5-4213829e1140.jpg?width=600",
-      "sv": {
-        "title": "Zelenskyj: Ryssland förbereder nya massiva anfall",
-        "summary": "Ryssland gör sig klart för nya massiva anfall mot Ukraina och i synnerhet mot kraftverk. Den varningen kommer från Volodymyr Zelenskyj under torsdagskvällen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Zelenskyj: Russia preparing new massive attacks",
-        "summary": "Russia is preparing new massive attacks against Ukraine, in particular against power plants. The warning comes from Volodymyr Zelenskyj on Thursday evening."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T22:01:19+01:00"
       }
     }
   ]

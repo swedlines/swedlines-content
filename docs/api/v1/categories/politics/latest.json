@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T06:15:53+01:00",
+  "generated_at": "2026-11-28T06:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e43069000afc",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/qOApyo/nytt-dokument-avslojar-har-ar-planen",
+      "guid": "https://www.aftonbladet.se/nyheter/a/qOApyo/nytt-dokument-avslojar-har-ar-planen?utm_medium=rss",
+      "published_at": "2026-11-28T06:28:51+01:00",
+      "fetched_at": "2026-11-28T06:30:57+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/358ab01e-44ab-328a-a3c1-d960fc1df06a?format=auto&s=a4689c961f8e73a12ed552ef792b574b9394b224&w=1000",
+      "sv": {
+        "title": "Här är planen – så ska regeringen få igenom sin politik",
+        "summary": "Så ska de få igenom sin politik",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here is the plan – how the government will push through its policy",
+        "summary": "This is how they will push through their policy"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T06:31:02+01:00"
+      }
+    },
     {
       "id": "11fee657fcb8",
       "schema_version": 1,
@@ -5402,32 +5429,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T17:52:48+01:00"
-      }
-    },
-    {
-      "id": "0b9fd1570f21",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/centerpartiet-har-presstraff-efter-odesmotet-",
-      "guid": "https://www.expressen.se/nyheter/politik/centerpartiet-har-presstraff-efter-odesmotet-/",
-      "published_at": "2026-11-26T17:33:56+01:00",
-      "fetched_at": "2026-11-26T17:45:45+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Centerpartiet har pressträff – efter ödesmötet",
-        "summary": "Centerpartiets riksdagsgrupp och partistyrelse har haft ett flera timmar långt möte om vägvalet i regeringsfrågan. Vid 17:40 håller C-ledaren Elisabeth Thand Ringqvist en pressträff i riksdagen. – Vi ses på presskonferensen, sa hon när hon lämnade mötet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party holds press briefing – after decisive meeting",
-        "summary": "The Centre Party's Riksdag group and party board have held a meeting lasting several hours about the choice of course on the government question. At 17:40, C leader Elisabeth Thand Ringqvist holds a press conference in the Riksdag. – See you at the press conference, she said as she left the meeting."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T17:45:53+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T06:15:53+01:00",
+  "generated_at": "2026-11-28T06:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9cf36aa20c15",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/naringsliv/har-ar-malmos-nya-superhamn-konstgjord-halvo-for-miljarder",
+      "guid": "776fa8f8-65dc-4d7d-a7f8-dc79ae546212",
+      "published_at": "2026-11-28T06:30:00+01:00",
+      "fetched_at": "2026-11-28T06:31:00+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/3254e686-bb57-4747-b7f3-2df959c198c1.jpeg?width=600",
+      "sv": {
+        "title": "Här är Malmös nya superhamn – konstgjord halvö för miljarder",
+        "summary": "Nya järnvägsspår, en ny kaj för en kvarts miljard och en yta motsvarande 52 fotbollsplaner ska fyllas ut i Öresund. Det här är Malmös nya superhamn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here is Malmö's new super port – artificial peninsula for billions",
+        "summary": "New railway tracks, a new quay for a quarter of a billion kronor and an area equivalent to 52 football pitches are to be filled in Öresund. This is Malmö's new super port."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T06:31:02+01:00"
+      }
+    },
     {
       "id": "98e7651be75c",
       "schema_version": 1,
@@ -5234,30 +5261,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T09:45:58+01:00"
-      }
-    },
-    {
-      "id": "b4805faacd09",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/upp-till-bevis-for-partierna-som-lovat-att-satsa-pa-malmos-unga",
-      "guid": "2b87d870-5b55-4c8c-9cc6-8616ea213d25",
-      "published_at": "2026-11-25T09:30:00+01:00",
-      "fetched_at": "2026-11-25T09:31:04+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/86710256-c98b-429d-bd87-6186f0037a32.jpeg?width=600",
-      "sv": {
-        "title": "Upp till bevis för partierna som lovat att satsa på Malmös unga"
-      },
-      "en": {
-        "title": "Proof needed for the parties that promised to invest in Malmö's young people"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T09:31:10+01:00"
       }
     }
   ]

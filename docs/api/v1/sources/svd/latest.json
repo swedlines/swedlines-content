@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T06:15:53+01:00",
+  "generated_at": "2026-11-28T06:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fbb20ba03333",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/xlqJqn/tiktokarna-pa-drattninggatan-del-1-barnidolerna",
+      "guid": "https://www.svd.se/a/xlqJqn/tiktokarna-pa-drattninggatan-del-1-barnidolerna?utm_medium=rss",
+      "published_at": "2026-11-28T06:29:30+01:00",
+      "fetched_at": "2026-11-28T06:30:56+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/f9996a1b-1125-3bad-94ec-cd231543946b?format=auto&s=83c31e2c3c019937f3b63cad93204dac8b3e8b02&w=1000",
+      "sv": {
+        "title": "De nya barnidolerna",
+        "summary": "Vad händer egentligen på Drottninggatan?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The new child idols",
+        "summary": "What is actually happening on Drottninggatan?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T06:31:02+01:00"
+      }
+    },
     {
       "id": "a1376f65dba6",
       "schema_version": 1,
@@ -5252,33 +5279,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T20:01:21+01:00"
-      }
-    },
-    {
-      "id": "6265448b71d7",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wdPoLP/black-week-bud-stressar-centern",
-      "guid": "https://www.svd.se/a/wdPoLP/black-week-bud-stressar-centern?utm_medium=rss",
-      "published_at": "2026-11-24T18:54:26+01:00",
-      "fetched_at": "2026-11-24T19:01:06+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/97454d94-deef-39a6-96a9-426b35fc78b1?format=auto&s=cfb7fa92d925f48701e2f411590d0d53068ba632&w=1000",
-      "sv": {
-        "title": "Black Week-bud stressar Centern",
-        "summary": "Innan C ens gått över till Kristersson bråkar de rödgröna om vems fel det var.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Black Week deal stresses the Centre Party",
-        "summary": "Before C has even moved over to Kristersson, the red-greens are arguing over whose fault it was."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T19:01:15+01:00"
       }
     }
   ]
