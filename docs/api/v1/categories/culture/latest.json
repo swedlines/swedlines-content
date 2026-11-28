@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T14:15:53+01:00",
+  "generated_at": "2026-11-28T14:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "75bf7bb9c68c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/spannande-story-men-spraket-ar-en-ren-klicheovning",
+      "guid": "https://www.dn.se/kultur/spannande-story-men-spraket-ar-en-ren-klicheovning/",
+      "published_at": "2026-11-28T14:26:38+01:00",
+      "fetched_at": "2026-11-28T14:31:03+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/6eab65c2-be32-4450-a70f-1a47cf1954e4.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Spännande story – men språket är en ren klichéövning",
+        "summary": "Mari Jungstedt drar igång en ny spänningsserie och introducerar starka polisgestalter och miljöer. Men ”När göken tystnar” är en roman som haltar, skriver DN:s Kerstin Särneö.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gripping story – but the language is a pure exercise in clichés",
+        "summary": "Mari Jungstedt launches a new crime series and introduces strong police characters and settings. But \"När göken tystnar\" is a novel that stumbles, writes DN's Kerstin Särneö."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T14:31:09+01:00"
+      }
+    },
     {
       "id": "2aeece497c1e",
       "schema_version": 1,
@@ -5615,43 +5642,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T15:01:30+01:00"
-      }
-    },
-    {
-      "id": "9dc069948fb0",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/kommentar/serbiens-andra-ansikte-trader-fram.ffc44ba4-fd5f-59f4-a9ec-8b9069551144",
-      "guid": "ffc44ba4-fd5f-59f4-a9ec-8b9069551144",
-      "published_at": "2026-11-25T14:08:42+01:00",
-      "fetched_at": "2026-11-25T14:28:34+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Kommentar",
-        "Tagg: Serbien",
-        "Tagg: Studenter",
-        "Tagg: Filmfestivalen i Venedig",
-        "Tagg: Val",
-        "Tagg: Korruption",
-        "Tagg: Slobodan Milosevic",
-        "Tagg: Aleksandar Vucic"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/403a4451-0734-3839-892f-6535448cc964",
-      "sv": {
-        "title": "Serbiens andra ansikte träder fram",
-        "summary": "I filmerna om motståndet ser jag miljontals människors strävan efter ett värdigt liv, skriver Sanjin Pejković.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Serbia's second face emerges",
-        "summary": "In the films about the resistance I see millions of people's striving for a dignified life, writes Sanjin Pejković."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T14:28:40+01:00"
       }
     }
   ]

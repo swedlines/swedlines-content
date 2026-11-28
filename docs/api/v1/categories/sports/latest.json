@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T14:15:53+01:00",
+  "generated_at": "2026-11-28T14:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2b5333383b54",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/QrmlqA/olof-lundh-drabbad-av-allvarlig-sjukdom-far-stod-av-kollegorna",
+      "guid": "https://www.svd.se/a/QrmlqA/olof-lundh-drabbad-av-allvarlig-sjukdom-far-stod-av-kollegorna?utm_medium=rss",
+      "published_at": "2026-11-28T14:15:31+01:00",
+      "fetched_at": "2026-11-28T14:31:03+01:00",
+      "category": "sports",
+      "image_url": "https://akamai.vgc.no/v2/images/5937fd2e-3bc5-3ba7-a156-3420b3f82def?format=auto&s=3e0d8161d63ce69d27b73e2a062705ce1445ab2b&w=1000",
+      "sv": {
+        "title": "Hyllas efter beskedet: ”En ikon i vår tid”",
+        "summary": "Efter fotbollsjournalisten Olof Lundhs besked att han drabbats av en allvarlig sjukdom strömmar…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hailed after announcement: \"An icon of our time\"",
+        "summary": "After football journalist Olof Lundh's announcement that he has been diagnosed with a serious illness, tributes pour in…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T14:31:09+01:00"
+      }
+    },
     {
       "id": "9136c4a9c1d0",
       "schema_version": 1,
@@ -5597,32 +5624,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T09:45:53+01:00"
-      }
-    },
-    {
-      "id": "5c9a965193b8",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/curling/heta-ordvaxlingen-mellan-lag-eriksson-och-kanadensarna-du-vet-allt",
-      "guid": "https://www.svt.se/sport/curling/heta-ordvaxlingen-mellan-lag-eriksson-och-kanadensarna-du-vet-allt",
-      "published_at": "2026-11-22T08:13:08+01:00",
-      "fetched_at": "2026-11-22T08:15:42+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Heta ordväxlingen mellan Lag Eriksson och kanadensarna: ”Du vet allt”",
-        "summary": "Det verkar fortsatt vara frostigt mellan Lag Eriksson och Lag Jacobs. Inför nattens Grand Slam-semifinal började spelarna tjafsa med varandra. – Du är den enda skippern som inte gör det, hörs Brad Jacobs säga till Oskar Eriksson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Heated exchange between Lag Eriksson and the Canadians: “You know everything”",
-        "summary": "Things still seem frosty between Lag Eriksson and Lag Jacobs. Ahead of tonight's Grand Slam semi-final, the players began bickering. – You're the only skip who isn't doing it, Brad Jacobs can be heard saying to Oskar Eriksson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T08:15:50+01:00"
       }
     }
   ]
