@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T16:15:58+01:00",
+  "generated_at": "2026-11-28T16:25:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "96eb0a444c86",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/valdsamma-protester-i-albanien-avga",
+      "guid": "65d21486-ba02-4b7d-9d32-d2019e0730a5",
+      "published_at": "2026-11-28T16:12:59+01:00",
+      "fetched_at": "2026-11-28T16:25:12+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/7aa861b0-0d3f-4327-b905-3458fd654c88.jpg?width=600",
+      "sv": {
+        "title": "Våldsamma protester i Albanien: Avgå!",
+        "summary": "Tusentals människor samlades i Albaniens huvudstad Tirana på lördagen för att kräva premiärminister Edi Ramas avgång.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Violent protests in Albania: Resign!",
+        "summary": "Thousands of people gathered in the Albanian capital Tirana on Saturday to demand the resignation of Prime Minister Edi Rama."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T16:25:17+01:00"
+      }
+    },
     {
       "id": "657e279ab5c4",
       "schema_version": 1,
@@ -5294,33 +5321,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T17:45:53+01:00"
-      }
-    },
-    {
-      "id": "a2cf061f051e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/strannegard-om-miljonmissen-pa-moderna-museet-bekymmersamt",
-      "guid": "c8902187-9e4d-4716-8622-8fd1f9e94e0d",
-      "published_at": "2026-11-26T17:19:45+01:00",
-      "fetched_at": "2026-11-26T17:31:07+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/386e6d92-78e8-4e21-9b34-2034de34ca6a.jpeg?width=600",
-      "sv": {
-        "title": "Strannegård om miljonmissen på Moderna museet: ”Bekymmersamt”",
-        "summary": "Moderna museet går enligt den nya ledningens beräkningar mot ett betydligt större miljonunderskott än vad som tidigare varit känt. Styrelseordföranden Lars Strannegård beskriver situationen som bekymmersam.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Strannegård on the million-kronor shortfall at Moderna museet: \"Worrying\"",
-        "summary": "Moderna museet is, according to the new management's calculations, heading for a considerably larger million shortfall than previously known. Board chair Lars Strannegård describes the situation as worrying."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T17:31:12+01:00"
       }
     }
   ]

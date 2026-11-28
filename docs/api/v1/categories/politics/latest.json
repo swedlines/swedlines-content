@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-28T16:15:58+01:00",
+  "generated_at": "2026-11-28T16:25:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2f4d2465a998",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9352214",
+      "guid": "rss:sr.se/article/9352214",
+      "published_at": "2026-11-28T16:17:00+01:00",
+      "fetched_at": "2026-11-28T16:25:09+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Åkesson om inflytandedebatten: Ett tröttmösseargument",
+        "summary": "Jimmie Åkesson avfärdar debatten om Sverigedemokraternas inflytande inför måndagens statsministeromröstning om Ulf Kristersson. Frågan diskuteras flitigt inom Centerpartiet, men Åkesson menar att det är väljarna, inte andra partier, som ger SD inflytande.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Åkesson on the influence debate: A tired argument",
+        "summary": "Jimmie Åkesson dismisses the debate over the Sweden Democrats' influence ahead of Monday's vote for prime minister on Ulf Kristersson (M). The question is widely discussed within the Centre Party, but Åkesson argues that it is voters, not other parties, who give SD influence."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T16:25:17+01:00"
+      }
+    },
+    {
+      "id": "5a54e9d5b36e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/s-kangan-till-kristersson-lever-i-en-fantasivarld",
+      "guid": "https://www.expressen.se/nyheter/politik/s-kangan-till-kristersson-lever-i-en-fantasivarld/",
+      "published_at": "2026-11-28T16:15:33+01:00",
+      "fetched_at": "2026-11-28T16:25:11+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "S-kängan till Kristersson: ”Lever i en fantasivärld”",
+        "summary": "Alla partier kan få en vågmästarroll om det blir en ny borgerlig regering, enligt Kristersson. Det får S-toppen Lena Hallengren att rasa. – Det är oärligt att hävda att man inte kommer vara beroende av SD, säger hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "S jab at Kristersson: \"Living in a fantasy world\"",
+        "summary": "All parties could get a kingmaker role if there is a new centre-right government, according to Kristersson. This makes the Social Democrats' leader Lena Hallengren furious. – It is dishonest to claim that one will not be dependent on the Sweden Democrats, she says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T16:25:17+01:00"
+      }
+    },
     {
       "id": "ffebdc4c9e7f",
       "schema_version": 1,
@@ -5347,60 +5399,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T08:31:10+01:00"
-      }
-    },
-    {
-      "id": "c2078a730b95",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/GPGoLJ/kritik-inom-centerpartiets-fortroenderad-att-slappa-fram-ulf-kristersson",
-      "guid": "https://www.svd.se/a/GPGoLJ/kritik-inom-centerpartiets-fortroenderad-att-slappa-fram-ulf-kristersson?utm_medium=rss",
-      "published_at": "2026-11-26T21:15:15+01:00",
-      "fetched_at": "2026-11-26T21:31:04+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/8e7655e0-4975-399d-b5fc-df80bd3e2f3f?format=auto&s=be00c027b779b09b92c42afe004f85084932d113&w=1000",
-      "sv": {
-        "title": "Går emot C-ledningen: ”Oerhört besviken”",
-        "summary": "C-ledningen vill se Ulf Kristersson som statsminister – och beslutet ligger nu hos partiets…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Goes against C leadership: \"Utterly disappointed\"",
-        "summary": "The C leadership wants to see Ulf Kristersson as prime minister – and the decision now lies with the party's…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T21:31:10+01:00"
-      }
-    },
-    {
-      "id": "63ac6f74a1ac",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/qOL29z/kristersson-partier-kommer-inte-sura-i-fyra-ar",
-      "guid": "https://www.aftonbladet.se/nyheter/a/qOL29z/kristersson-partier-kommer-inte-sura-i-fyra-ar?utm_medium=rss",
-      "published_at": "2026-11-26T21:14:55+01:00",
-      "fetched_at": "2026-11-26T21:15:46+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/d70e81a7-6cb2-36cc-a2be-6148f0447970?format=auto&s=2da4d0d11689dbe7ea71325a53156d9f9c79a983&w=1000",
-      "sv": {
-        "title": "Kristersson: Partier kommer inte sura i fyra år",
-        "summary": "M-ledaren Ulf Kristersson räknar med att hans eventuella nya regering kan hitta olika partier att…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kristersson: Parties won't sulk for four years",
-        "summary": "M leader Ulf Kristersson (M) expects that his possible new government can find various parties to…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T21:15:52+01:00"
       }
     }
   ]
