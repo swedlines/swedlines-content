@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T01:01:44+01:00",
+  "generated_at": "2026-11-28T01:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "25f83e5faf08",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/j3B96b/tva-dodade-i-israelisk-attack",
+      "guid": "https://www.svd.se/a/j3B96b/tva-dodade-i-israelisk-attack?utm_medium=rss",
+      "published_at": "2026-11-28T01:11:22+01:00",
+      "fetched_at": "2026-11-28T01:15:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Två dödade i israelisk attack",
+        "summary": "Två personer har dödats i en israelisk attack mot en klinik tillhörande Läkare utan gränser (MSF) i…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two killed in Israeli attack",
+        "summary": "Two people have been killed in an Israeli attack on a clinic belonging to Médecins Sans Frontières (MSF) in…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T01:15:47+01:00"
+      }
+    },
     {
       "id": "f05548fb660a",
       "schema_version": 1,
@@ -5253,33 +5279,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T17:45:55+01:00"
-      }
-    },
-    {
-      "id": "136930727b5f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/OypK4O/arkipelag-sald-till-flera-lander",
-      "guid": "https://www.svd.se/a/OypK4O/arkipelag-sald-till-flera-lander?utm_medium=rss",
-      "published_at": "2026-11-24T17:24:11+01:00",
-      "fetched_at": "2026-11-24T17:30:58+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/fcdcfd4d-3c73-306a-8346-d827ebbbbdb4?format=auto&s=9a31a186bf0d73afd5c3572da3f97487e026a694&w=1000",
-      "sv": {
-        "title": "”Arkipelag” såld till flera länder",
-        "summary": "Sveriges Oscarsbidrag ”Arkipelag” fortsätter att skörda internationella framgångar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "”Arkipelag” sold to several countries",
-        "summary": "Sweden's Oscar entry ”Arkipelag” continues to enjoy international success."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T17:31:10+01:00"
       }
     }
   ]
