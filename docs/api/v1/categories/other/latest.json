@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-28T11:01:27+01:00",
+  "generated_at": "2026-11-28T11:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "64f13fb46c75",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/vastsverige/joachim-flodin-ar-farfarledig-med-barnbarnet-alexandra.928a3ef2-ae17-5dba-a77d-a929e40e10d9",
+      "guid": "928a3ef2-ae17-5dba-a77d-a929e40e10d9",
+      "published_at": "2026-11-28T10:57:43+01:00",
+      "fetched_at": "2026-11-28T11:15:44+01:00",
+      "category": "other",
+      "feed_categories": [
+        "Västsverige",
+        "Tagg: Trollhättan",
+        "Tagg: breaking-GP",
+        "Tagg: Inspirera mig - BEHOV"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/664f8b03-f6c7-365f-8ba0-73416fa721c6",
+      "sv": {
+        "title": "Joachim är farfarledig med åtta månader gamla Alexandra",
+        "summary": "En googling mitt i natten gav honom idén att vara hemma med sitt barnbarn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Joachim takes grandfather leave with eight-month-old Alexandra",
+        "summary": "A late-night search gave him the idea to be home with his grandchild."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:15:50+01:00"
+      }
+    },
     {
       "id": "8ccd1c581561",
       "schema_version": 1,
@@ -5498,33 +5531,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "0e1f78445869",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/mina-asp-romefors-mobbarjulen-2026-narmar-sig-tacka-arets-julklapp",
-      "guid": "https://www.dn.se/kultur/mina-asp-romefors-mobbarjulen-2026-narmar-sig-tacka-arets-julklapp/",
-      "published_at": "2026-11-18T17:11:11+01:00",
-      "fetched_at": "2026-11-18T17:15:44+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/b8897e8d-e4d0-4647-b6e4-24ab2d1f9439.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Mina Asp Romefors: Mobbarjulen 2026 närmar sig – tacka årets julklapp",
-        "summary": "Med utnämningen av årets julklapp tar HUI research samhällstempen. I år blåser det kallt, snålt och smalt. Nu har alla mobbare därute ett alternativ till att ge bort en deodorant, konstaterar Mina Asp Romefors.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mina Asp Romefors: Mobbarjulen 2026 is approaching – thank this year's Christmas gift",
-        "summary": "With the naming of this year's Christmas gift, HUI Research takes the pulse of society. This year it is cold, stingy and narrow. Now all the bullies out there have an alternative to giving a deodorant, says Mina Asp Romefors."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:15:53+01:00"
       }
     }
   ]

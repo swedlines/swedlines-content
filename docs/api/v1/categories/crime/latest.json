@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T11:01:27+01:00",
+  "generated_at": "2026-11-28T11:15:53+01:00",
   "count": 200,
   "items": [
     {
@@ -27,6 +27,49 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T11:01:22+01:00"
+      }
+    },
+    {
+      "id": "fae28eabc1a4",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/storgoteborg/polisen-varnar-foraldrar-koper-olagliga-elsparkcyklar-till-sina-barn.dcaff696-e32d-525c-bec7-ab1d2315476d",
+      "guid": "dcaff696-e32d-525c-bec7-ab1d2315476d",
+      "published_at": "2026-11-28T10:58:07+01:00",
+      "fetched_at": "2026-11-28T11:15:44+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Storgöteborg",
+        "Tagg: VITA FLÄCKAR Lerum",
+        "Tagg: Lerum",
+        "Tagg: Samhällsredaktionen",
+        "Tagg: Elsparkcykel",
+        "Tagg: Polisen",
+        "Tagg: Olyckor",
+        "Tagg: Transportstyrelsen",
+        "Tagg: Böter",
+        "Tagg: Brott",
+        "Tagg: Trafiksäkerhet",
+        "Tagg: Skola",
+        "Tagg: Trafik",
+        "Tagg: Cykel"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/2e858665-9c4a-3dfd-82b9-c034d746b30d",
+      "sv": {
+        "title": "Varningen: Elspark ofta olaglig",
+        "summary": "Polisen varnar: Föräldrar köper olagliga elsparkcyklar till sina barn",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Warning: E-scooters often illegal",
+        "summary": "Police warn: Parents are buying illegal e-scooters for their children"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:15:50+01:00"
       }
     },
     {
@@ -5339,32 +5382,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T20:15:50+01:00"
-      }
-    },
-    {
-      "id": "3ce2ff089da4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/kronikorer/fredrik-sjoshult/chockstraffet-for-sven-tolv-ars-fangelse",
-      "guid": "https://www.expressen.se/kronikorer/fredrik-sjoshult/chockstraffet-for-sven-tolv-ars-fangelse/",
-      "published_at": "2026-11-23T19:50:02+01:00",
-      "fetched_at": "2026-11-23T20:01:13+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Chockstraffet för ”Sven”: Tolv års fängelse",
-        "summary": "Tolv års fängelse blir det nya gängstraffet för en kille som kallades Sven innan han gick i polisens fälla. Han döms bara för hantering av tre vapen – brott som tidigare gett två-tre års fängelse. Så motiveras det extremt hårda straffet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Harsh sentence for \"Sven\": Twelve years in prison",
-        "summary": "Twelve years in prison is the new gang sentence for a man known as Sven before he walked into a police trap. He was convicted only for handling three weapons – offences that previously led to two to three years in prison. This is how the extremely harsh sentence is justified."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T20:01:24+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T11:01:27+01:00",
+  "generated_at": "2026-11-28T11:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8b05d14b11f2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2e39b04a-797d-4c9a-8701-6a144abc4612",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2e39b04a-797d-4c9a-8701-6a144abc4612",
+      "published_at": "2026-11-28T11:06:15+01:00",
+      "fetched_at": "2026-11-28T11:15:43+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Dagdostar uppmanar C",
+        "summary": "Dadgostar: ”Vi finns här”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dagdostar urges C",
+        "summary": "Dadgostar: \"We are here\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:15:50+01:00"
+      }
+    },
     {
       "id": "d44a613a70d1",
       "schema_version": 1,
@@ -5163,32 +5189,6 @@
       "en": {
         "title": "Fire at Ström Castle",
         "summary": "Burning in the structure, GP writes"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T09:15:48+01:00"
-      }
-    },
-    {
-      "id": "9abbe7117205",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trumps-nya-plan-for-iran-vill-forgora-de-radikala-ledarna",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumps-nya-plan-for-iran-vill-forgora-de-radikala-ledarna/",
-      "published_at": "2026-11-25T09:05:40+01:00",
-      "fetched_at": "2026-11-25T09:15:42+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trumps nya plan för Iran: Vill förgöra de radikala ledarna",
-        "summary": "Donald Trump har redan dödat de högsta ledarna i Iran en gång. Nu vill han göra det igen, enligt NBC News. Denna gång vill han fokusera på ”de radikala”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump's new plan for Iran: Wants to eliminate the radical leaders",
-        "summary": "Donald Trump has already killed Iran's top leaders once. Now he wants to do it again, according to NBC News. This time he wants to focus on \"the radicals\"."
       },
       "translation": {
         "status": "done",
