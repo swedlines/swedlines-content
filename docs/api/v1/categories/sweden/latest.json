@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-28T11:15:53+01:00",
+  "generated_at": "2026-11-28T11:29:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1846c887d8f4",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/bil-korde-in-i-fasad-minst-en-skadad",
+      "guid": "ee72c611-5e1d-4af3-aef4-438566fda4f4",
+      "published_at": "2026-11-28T11:27:14+01:00",
+      "fetched_at": "2026-11-28T11:29:07+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/82c5f362-0f06-475d-bd18-5f16fa059504.jpg?width=600",
+      "sv": {
+        "title": "Bil körde in i fasad – minst en skadad",
+        "summary": "En bil har kört in en glasfasad på Östermalm mitt i Stockholm och minst en person har skadats, rapporterar flera medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Car crashes into façade – at least one injured",
+        "summary": "A car has crashed into a glass façade in Östermalm in central Stockholm and at least one person has been injured, several media outlets report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:29:11+01:00"
+      }
+    },
+    {
+      "id": "00f99d4d19e6",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/8P6w7Q/bil-korde-in-i-fasad-minst-en-skadad",
+      "guid": "https://www.aftonbladet.se/nyheter/a/8P6w7Q/bil-korde-in-i-fasad-minst-en-skadad?utm_medium=rss",
+      "published_at": "2026-11-28T11:21:49+01:00",
+      "fetched_at": "2026-11-28T11:29:05+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/e38d7b6d-a14f-349b-a495-2ed7c7929822?format=auto&s=a74cddf5baab0bfbc5800f4f0e7f4cc547f58bf9&w=1000",
+      "sv": {
+        "title": "Bil körde in i fasad – minst en skadad",
+        "summary": "En bil har kört in en glasfasad på Östermalm mitt i Stockholm och minst en person har…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Car crashes into façade – at least one injured",
+        "summary": "A car has crashed into a glass façade in Östermalm in central Stockholm and at least one person has…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:29:11+01:00"
+      }
+    },
     {
       "id": "3c13eaf6866a",
       "schema_version": 1,
@@ -5452,59 +5506,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T07:45:50+01:00"
-      }
-    },
-    {
-      "id": "350afa84fd23",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=3a97a941-2138-4aca-a26e-c048a4a3fa43",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3a97a941-2138-4aca-a26e-c048a4a3fa43",
-      "published_at": "2026-11-24T06:52:12+01:00",
-      "fetched_at": "2026-11-24T06:58:31+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Buss i diket i Haninge",
-        "summary": "Krockat med annan buss",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bus in ditch in Haninge",
-        "summary": "Collided with another bus"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T06:58:36+01:00"
-      }
-    },
-    {
-      "id": "3096827818a0",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/8Pm0LG/smittrisk-vid-tandvardsbesok-erbjuds-hivtest",
-      "guid": "https://www.svd.se/a/8Pm0LG/smittrisk-vid-tandvardsbesok-erbjuds-hivtest?utm_medium=rss",
-      "published_at": "2026-11-24T06:29:45+01:00",
-      "fetched_at": "2026-11-24T06:31:00+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/b2fa1ca6-bf50-31d1-aa21-5b1b1f6c411a?format=auto&s=cad0516e1842fc454be7e002a4d5b2f940c26f15&w=1000",
-      "sv": {
-        "title": "Smittrisk vid tandvårdsbesök – erbjuds hivtest",
-        "summary": "Region Kronoberg kan inte utesluta att otillräckligt rengjorda instrument lett till smitta av hiv…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Risk of infection at dental visit – offered HIV test",
-        "summary": "Region Kronoberg cannot rule out that inadequately cleaned instruments led to transmission of HIV…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-24T06:31:06+01:00"
       }
     }
   ]

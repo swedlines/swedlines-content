@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T11:15:53+01:00",
+  "generated_at": "2026-11-28T11:29:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e74a2abf1098",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/johan-esk-han-ar-mastaren-och-maskinen-nu-drommer-jag-om-hans-mirakel",
+      "guid": "https://www.dn.se/sport/johan-esk-han-ar-mastaren-och-maskinen-nu-drommer-jag-om-hans-mirakel/",
+      "published_at": "2026-11-28T11:28:04+01:00",
+      "fetched_at": "2026-11-28T11:29:04+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/df3c8bb0-1368-44bf-ae7a-8fb9f78fdd12.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Johan Esk: Han är mästaren och maskinen – nu drömmer jag om hans mirakel",
+        "summary": "Olof Lundh är sportjournalistikens mästare och maskin. Nu drömmer jag om att människan Olof Lundh får det mirakel han behöver.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Johan Esk: He is the master and the machine – now I dream of his miracle",
+        "summary": "Olof Lundh is the master and machine of sports journalism. Now I dream that the human Olof Lundh gets the miracle he needs."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:29:11+01:00"
+      }
+    },
     {
       "id": "c38e298d8481",
       "schema_version": 1,
@@ -5369,33 +5396,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T15:15:52+01:00"
-      }
-    },
-    {
-      "id": "0c072346de5c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/the-further-mis-adventures-of-cliff-booth-ar-en-skamlost-underhallande-provokation",
-      "guid": "https://www.dn.se/kultur/the-further-mis-adventures-of-cliff-booth-ar-en-skamlost-underhallande-provokation/",
-      "published_at": "2026-11-25T15:00:17+01:00",
-      "fetched_at": "2026-11-25T15:01:21+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/2e71e1d0-ea8e-4781-b83f-fd77ab270f1b.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "”The further mis-adventures of Cliff Booth” är en skamlöst underhållande provokation",
-        "summary": "Stuntmannen Cliff Booth har blivit biokille och bartender sedan vi mötte honom sist i ”Once upon a time in Hollywood”. David Finchers uppföljare har kvar Tarantinos ordglada röst men är kantigare och mer analytisk, skriver Sebastian Lindvall.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "”The Further Mis-adventures of Cliff Booth” is a shamelessly entertaining provocation",
-        "summary": "Stuntman Cliff Booth has become a cinema hunk and bartender since we last met him in ”Once Upon a Time in Hollywood”. David Fincher's sequel keeps Tarantino's verbose voice but is edgier and more analytical, writes Sebastian Lindvall."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T15:01:30+01:00"
       }
     }
   ]

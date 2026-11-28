@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T11:15:53+01:00",
+  "generated_at": "2026-11-28T11:29:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "adef362cc539",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/155-centerpartister-rosta-nej-till-kristersson",
+      "guid": "9fe60297-b426-40d6-a593-737b205242f3",
+      "published_at": "2026-11-28T11:28:13+01:00",
+      "fetched_at": "2026-11-28T11:29:07+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/1655d93f-dc5c-4808-b45a-48cd6fc8bb55.jpg?width=600",
+      "sv": {
+        "title": "155 centerpartister: Rösta nej till Kristersson",
+        "summary": "155 centerpartister uppmanar partiets förtroenderåd att rösta nej till den planerade högersvängen i regeringsfrågan, skriver de i ett upprop på Expressens debattsida.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "155 Centre Party members: Vote no to Kristersson",
+        "summary": "155 Centre Party members urge the party's trust council to vote no to the planned right-wing shift in the government question, they write in an appeal on Expressen's debate page."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:29:11+01:00"
+      }
+    },
     {
       "id": "8b05d14b11f2",
       "schema_version": 1,
@@ -5385,33 +5412,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T19:31:20+01:00"
-      }
-    },
-    {
-      "id": "997ab0b28c5c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/ilska-och-besvikelse-bland-c-toppar-efter-beslutet-kanner-mig-bedrovad",
-      "guid": "https://www.dn.se/sverige/ilska-och-besvikelse-bland-c-toppar-efter-beslutet-kanner-mig-bedrovad/",
-      "published_at": "2026-11-26T19:11:34+01:00",
-      "fetched_at": "2026-11-26T19:15:45+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/b91fff67-7141-4713-be63-2e58646ec048.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Ilska och besvikelse bland C-toppar efter beslutet: ”Känner mig bedrövad”",
-        "summary": "Centerpartiets vägval i regeringsfrågan har föregåtts av en stor splittring inom partiet. Och efter att det står klart att partistyrelsen beslutat att rösta grönt för Kristersson i måndagens statsministeromröstning är flera C-toppar besvikna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Anger and disappointment among C leaders after decision: “I feel devastated”",
-        "summary": "The Centre Party's choice in the government question has been preceded by a major split within the party. And after it became clear that the party board has decided to vote green for Kristersson in Monday's prime minister vote, several C leaders are disappointed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T19:15:52+01:00"
       }
     }
   ]

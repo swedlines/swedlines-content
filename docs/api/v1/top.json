@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T11:15:53+01:00",
-  "count": 17,
+  "generated_at": "2026-11-28T11:29:13+01:00",
+  "count": 18,
   "stories": [
     {
       "id": "87682fb8575b",
@@ -128,7 +128,7 @@
         "gp"
       ],
       "first_published_at": "2026-11-28T09:42:09+01:00",
-      "last_published_at": "2026-11-28T10:09:13+01:00",
+      "last_published_at": "2026-11-28T11:28:04+01:00",
       "lead": {
         "id": "8147b0543184",
         "schema_version": 1,
@@ -159,6 +159,18 @@
         }
       },
       "items": [
+        {
+          "id": "e74a2abf1098",
+          "source": "dn",
+          "url": "https://www.dn.se/sport/johan-esk-han-ar-mastaren-och-maskinen-nu-drommer-jag-om-hans-mirakel",
+          "published_at": "2026-11-28T11:28:04+01:00",
+          "sv": {
+            "title": "Johan Esk: Han är mästaren och maskinen – nu drömmer jag om hans mirakel"
+          },
+          "en": {
+            "title": "Johan Esk: He is the master and the machine – now I dream of his miracle"
+          }
+        },
         {
           "id": "401586b90e33",
           "source": "gp",
@@ -420,6 +432,82 @@
           },
           "en": {
             "title": "WHO warns of vaccination gaps: \"Not on track\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "854a04565add",
+      "source_count": 3,
+      "sources": [
+        "aftonbladet",
+        "svd",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-28T10:51:51+01:00",
+      "last_published_at": "2026-11-28T11:28:13+01:00",
+      "lead": {
+        "id": "854a04565add",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/Lon0aq/155-centerpartister-rosta-nej-till-kristersson",
+        "guid": "https://www.aftonbladet.se/nyheter/a/Lon0aq/155-centerpartister-rosta-nej-till-kristersson?utm_medium=rss",
+        "published_at": "2026-11-28T10:51:51+01:00",
+        "fetched_at": "2026-11-28T11:01:14+01:00",
+        "category": "politics",
+        "image_url": "https://akamai.vgc.no/v2/images/df3c92f2-6fff-3ad7-b641-f2639b7ef96e?format=auto&s=de44344731bced11974bf1bb4a82774cbb3772f1&w=1000",
+        "sv": {
+          "title": "155 centerpartister: Rösta nej till Kristersson",
+          "summary": "155 centerpartister uppmanar partiets förtroenderåd att rösta nej till den planerade högersvängen i…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "155 Centre Party members: Vote no to Kristersson",
+          "summary": "155 Centre Party members urge the party's trust council to vote no to the planned right-wing shift in…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T11:01:22+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "adef362cc539",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/155-centerpartister-rosta-nej-till-kristersson",
+          "published_at": "2026-11-28T11:28:13+01:00",
+          "sv": {
+            "title": "155 centerpartister: Rösta nej till Kristersson"
+          },
+          "en": {
+            "title": "155 Centre Party members: Vote no to Kristersson"
+          }
+        },
+        {
+          "id": "f5afb9af7bfc",
+          "source": "svd",
+          "url": "https://www.svd.se/a/WmOLad/155-centerpartister-rosta-nej-till-kristersson",
+          "published_at": "2026-11-28T10:51:52+01:00",
+          "sv": {
+            "title": "155 centerpartister: Rösta nej till Kristersson"
+          },
+          "en": {
+            "title": "155 Centre Party members: Vote no to Kristersson"
+          }
+        },
+        {
+          "id": "854a04565add",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/Lon0aq/155-centerpartister-rosta-nej-till-kristersson",
+          "published_at": "2026-11-28T10:51:51+01:00",
+          "sv": {
+            "title": "155 centerpartister: Rösta nej till Kristersson"
+          },
+          "en": {
+            "title": "155 Centre Party members: Vote no to Kristersson"
           }
         }
       ]
@@ -878,64 +966,64 @@
       ]
     },
     {
-      "id": "854a04565add",
+      "id": "00f99d4d19e6",
       "source_count": 2,
       "sources": [
         "aftonbladet",
-        "svd"
+        "sydsvenskan"
       ],
-      "first_published_at": "2026-11-28T10:51:51+01:00",
-      "last_published_at": "2026-11-28T10:51:52+01:00",
+      "first_published_at": "2026-11-28T11:21:49+01:00",
+      "last_published_at": "2026-11-28T11:27:14+01:00",
       "lead": {
-        "id": "854a04565add",
+        "id": "00f99d4d19e6",
         "schema_version": 1,
         "source": "aftonbladet",
-        "url": "https://www.aftonbladet.se/nyheter/a/Lon0aq/155-centerpartister-rosta-nej-till-kristersson",
-        "guid": "https://www.aftonbladet.se/nyheter/a/Lon0aq/155-centerpartister-rosta-nej-till-kristersson?utm_medium=rss",
-        "published_at": "2026-11-28T10:51:51+01:00",
-        "fetched_at": "2026-11-28T11:01:14+01:00",
-        "category": "politics",
-        "image_url": "https://akamai.vgc.no/v2/images/df3c92f2-6fff-3ad7-b641-f2639b7ef96e?format=auto&s=de44344731bced11974bf1bb4a82774cbb3772f1&w=1000",
+        "url": "https://www.aftonbladet.se/nyheter/a/8P6w7Q/bil-korde-in-i-fasad-minst-en-skadad",
+        "guid": "https://www.aftonbladet.se/nyheter/a/8P6w7Q/bil-korde-in-i-fasad-minst-en-skadad?utm_medium=rss",
+        "published_at": "2026-11-28T11:21:49+01:00",
+        "fetched_at": "2026-11-28T11:29:05+01:00",
+        "category": "sweden",
+        "image_url": "https://akamai.vgc.no/v2/images/e38d7b6d-a14f-349b-a495-2ed7c7929822?format=auto&s=a74cddf5baab0bfbc5800f4f0e7f4cc547f58bf9&w=1000",
         "sv": {
-          "title": "155 centerpartister: Rösta nej till Kristersson",
-          "summary": "155 centerpartister uppmanar partiets förtroenderåd att rösta nej till den planerade högersvängen i…",
+          "title": "Bil körde in i fasad – minst en skadad",
+          "summary": "En bil har kört in en glasfasad på Östermalm mitt i Stockholm och minst en person har…",
           "summary_origin": "feed"
         },
         "en": {
-          "title": "155 Centre Party members: Vote no to Kristersson",
-          "summary": "155 Centre Party members urge the party's trust council to vote no to the planned right-wing shift in…"
+          "title": "Car crashes into façade – at least one injured",
+          "summary": "A car has crashed into a glass façade in Östermalm in central Stockholm and at least one person has…"
         },
         "translation": {
           "status": "done",
           "provider": "anthropic",
           "model": "claude-haiku-5-5",
           "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-28T11:01:22+01:00"
+          "translated_at": "2026-11-28T11:29:11+01:00"
         }
       },
       "items": [
         {
-          "id": "f5afb9af7bfc",
-          "source": "svd",
-          "url": "https://www.svd.se/a/WmOLad/155-centerpartister-rosta-nej-till-kristersson",
-          "published_at": "2026-11-28T10:51:52+01:00",
+          "id": "1846c887d8f4",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sverige/bil-korde-in-i-fasad-minst-en-skadad",
+          "published_at": "2026-11-28T11:27:14+01:00",
           "sv": {
-            "title": "155 centerpartister: Rösta nej till Kristersson"
+            "title": "Bil körde in i fasad – minst en skadad"
           },
           "en": {
-            "title": "155 Centre Party members: Vote no to Kristersson"
+            "title": "Car crashes into façade – at least one injured"
           }
         },
         {
-          "id": "854a04565add",
+          "id": "00f99d4d19e6",
           "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Lon0aq/155-centerpartister-rosta-nej-till-kristersson",
-          "published_at": "2026-11-28T10:51:51+01:00",
+          "url": "https://www.aftonbladet.se/nyheter/a/8P6w7Q/bil-korde-in-i-fasad-minst-en-skadad",
+          "published_at": "2026-11-28T11:21:49+01:00",
           "sv": {
-            "title": "155 centerpartister: Rösta nej till Kristersson"
+            "title": "Bil körde in i fasad – minst en skadad"
           },
           "en": {
-            "title": "155 Centre Party members: Vote no to Kristersson"
+            "title": "Car crashes into façade – at least one injured"
           }
         }
       ]

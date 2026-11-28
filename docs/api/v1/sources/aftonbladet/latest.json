@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T11:15:53+01:00",
+  "generated_at": "2026-11-28T11:29:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "00f99d4d19e6",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/8P6w7Q/bil-korde-in-i-fasad-minst-en-skadad",
+      "guid": "https://www.aftonbladet.se/nyheter/a/8P6w7Q/bil-korde-in-i-fasad-minst-en-skadad?utm_medium=rss",
+      "published_at": "2026-11-28T11:21:49+01:00",
+      "fetched_at": "2026-11-28T11:29:05+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/e38d7b6d-a14f-349b-a495-2ed7c7929822?format=auto&s=a74cddf5baab0bfbc5800f4f0e7f4cc547f58bf9&w=1000",
+      "sv": {
+        "title": "Bil körde in i fasad – minst en skadad",
+        "summary": "En bil har kört in en glasfasad på Östermalm mitt i Stockholm och minst en person har…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Car crashes into façade – at least one injured",
+        "summary": "A car has crashed into a glass façade in Östermalm in central Stockholm and at least one person has…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:29:11+01:00"
+      }
+    },
     {
       "id": "854a04565add",
       "schema_version": 1,
@@ -5342,33 +5369,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T13:15:54+01:00"
-      }
-    },
-    {
-      "id": "77d6c7ab480d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/wdPW9o/migranter-overvaldigar-lilla-kanarieon",
-      "guid": "https://www.aftonbladet.se/nyheter/a/wdPW9o/migranter-overvaldigar-lilla-kanarieon?utm_medium=rss",
-      "published_at": "2026-11-25T12:58:23+01:00",
-      "fetched_at": "2026-11-25T13:01:14+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f2f883fd-c9d5-3d55-a32a-043c70928ed5?format=auto&s=aeb77c8b1f1900cc23edd4aa2e65f61ee3871c83&w=1000",
-      "sv": {
-        "title": "Migranter överväldigar lilla kanarieön",
-        "summary": "En glesbefolkad liten kanarieö har tagit emot tusentals migrerande människor på kort tid.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Migrants overwhelm small Canary island",
-        "summary": "A sparsely populated small Canary island has received thousands of migrants in a short time."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T13:01:21+01:00"
       }
     }
   ]

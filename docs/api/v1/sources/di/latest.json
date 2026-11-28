@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T11:15:53+01:00",
+  "generated_at": "2026-11-28T11:29:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e7c06b8acc1c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/uppgangar-overallt-tunga-revanscher-pa-borsen",
+      "guid": "d1469190-f8f0-4cfc-9cc6-8fccdfedf1cc",
+      "published_at": "2026-11-28T11:14:41+01:00",
+      "fetched_at": "2026-11-28T11:29:06+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/62864c36-ba09-4d48-bf0b-d729e23044fd.jpeg?width=600",
+      "sv": {
+        "title": "Uppgångar överallt – tunga revanscher på börsen",
+        "summary": "Hemnets mardrömssvit har brutits och aktien hör till veckans vinnare. Det var symptomatiskt för en börsvecka där det mesta steg och årets tidigare kursförlorare bjöd på revanschrusningar. Här är veckans vinnare och förlorare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gains everywhere – strong comebacks on the stock market",
+        "summary": "Hemnet's nightmare streak has been broken and the share is among the week's winners. It was symptomatic of a stock week in which most things rose and this year's earlier losers staged comeback rallies. Here are the week's winners and losers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T11:29:11+01:00"
+      }
+    },
     {
       "id": "5e14bce4f615",
       "schema_version": 1,
@@ -5292,33 +5319,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T16:01:26+01:00"
-      }
-    },
-    {
-      "id": "786211b1db9f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/brittiskt-handelsavtal-med-eu-innehaller-farageklausul",
-      "guid": "d67c1825-fde6-410a-92b2-a2cd4233254f",
-      "published_at": "2026-11-26T15:28:37+01:00",
-      "fetched_at": "2026-11-26T15:41:35+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0b7b8ba2-863c-400d-9f01-fcc16fca0222.jpeg?width=600",
-      "sv": {
-        "title": "Brittiskt handelsavtal med EU innehåller ”Farageklausul”",
-        "summary": "Storbritanniens nya livsmedelsavtal med EU innehåller en tioårig klausul som innebär att den part som säger upp avtalet får bekosta återupprättandet av gränskontrollerna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "UK trade deal with EU contains \"Farage clause\"",
-        "summary": "The United Kingdom's new food agreement with the EU contains a ten-year clause meaning that the party that terminates the agreement must pay for reinstating border controls."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T15:41:39+01:00"
       }
     }
   ]
