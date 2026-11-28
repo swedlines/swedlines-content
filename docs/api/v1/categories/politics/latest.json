@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T10:01:24+01:00",
+  "generated_at": "2026-11-28T10:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c2320868ca5a",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/martin-liby-troein-i-kristerssons-uppgorelse-med-c-finns-en-ny-fornedringsklausul",
+      "guid": "https://www.dn.se/ledare/martin-liby-troein-i-kristerssons-uppgorelse-med-c-finns-en-ny-fornedringsklausul/",
+      "published_at": "2026-11-28T10:05:36+01:00",
+      "fetched_at": "2026-11-28T10:15:45+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/a8ef8dff-198b-4a25-a2af-3e88c073d866.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Martin Liby Troein: I Kristerssons uppgörelse med C finns en ny förnedringsklausul",
+        "summary": "Centerpartisterna lovades massor av sakpolitik om de gick åt höger – nu erbjuds de ett hån.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Martin Liby Troein: Kristersson's deal with the Centre Party contains a new humiliation clause",
+        "summary": "The Centre Party members were promised plenty of policy if they went right – now they are being offered an insult."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T10:15:53+01:00"
+      }
+    },
     {
       "id": "4adc3d149429",
       "schema_version": 1,
@@ -160,6 +187,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T09:01:20+01:00"
+      }
+    },
+    {
+      "id": "2f96534ac246",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/WmOLmK/kristersson-det-dras-och-slits-i-centerpartiet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/WmOLmK/kristersson-det-dras-och-slits-i-centerpartiet?utm_medium=rss",
+      "published_at": "2026-11-28T08:51:01+01:00",
+      "fetched_at": "2026-11-28T10:15:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Kristersson: Det dras och slits i Centerpartiet",
+        "summary": "Pratar om regeringsbildningen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson: There is pulling and tearing in the Centre Party",
+        "summary": "Talks about the government formation"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T10:15:53+01:00"
       }
     },
     {
@@ -5365,61 +5418,6 @@
       "en": {
         "title": "Kristersson: \"Welcome news\"",
         "summary": "\"My door is always open\", says Magdalena Andersson (S)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T18:58:22+01:00"
-      }
-    },
-    {
-      "id": "334b097a5edb",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5346t2uKL2Qh1ljWweoIOn/s-ledaren-kommer-bli-en-historiskt-svag-regering",
-      "guid": "5346t2uKL2Qh1ljWweoIOn",
-      "published_at": "2026-11-26T18:53:08+01:00",
-      "fetched_at": "2026-11-26T23:01:10+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "S-ledaren: ”Kommer bli en historiskt svag regering”",
-        "summary": "Centerkvinnorna stöttar inte beslutet: ”Vi är emot det här”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "S leader: \"Will become a historically weak government\"",
-        "summary": "Centre women do not support the decision: \"We are against this\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T23:01:16+01:00"
-      }
-    },
-    {
-      "id": "5089f42fe511",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/c-ledningen-sager-ja-till-ulf-kristersson",
-      "guid": "https://www.svt.se/nyheter/inrikes/c-ledningen-sager-ja-till-ulf-kristersson",
-      "published_at": "2026-11-26T18:51:21+01:00",
-      "fetched_at": "2026-11-26T18:58:11+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C-ledningen säger ja till Ulf Kristersson",
-        "summary": "Centerpartiets ledning vill rösta ja till Ulf Kristersson (M) på måndag och ingå i en minoritetsregering. Det meddelar partiledaren Elisabeth Thand Ringqvist under en pressträff. – Det här är en ny kurs för Sverige, inte en förlängning av de fyra gångna åren, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party leadership says yes to Ulf Kristersson",
-        "summary": "The Centre Party leadership wants to vote yes to Ulf Kristersson (M) on Monday and join a minority government. Party leader Elisabeth Thand Ringqvist announced this at a press conference. – This is a new course for Sweden, not an extension of the past four years, she says."
       },
       "translation": {
         "status": "done",

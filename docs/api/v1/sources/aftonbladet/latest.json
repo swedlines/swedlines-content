@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T10:01:24+01:00",
+  "generated_at": "2026-11-28T10:15:57+01:00",
   "count": 200,
   "items": [
     {
@@ -54,6 +54,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T09:26:04+01:00"
+      }
+    },
+    {
+      "id": "2f96534ac246",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/WmOLmK/kristersson-det-dras-och-slits-i-centerpartiet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/WmOLmK/kristersson-det-dras-och-slits-i-centerpartiet?utm_medium=rss",
+      "published_at": "2026-11-28T08:51:01+01:00",
+      "fetched_at": "2026-11-28T10:15:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Kristersson: Det dras och slits i Centerpartiet",
+        "summary": "Pratar om regeringsbildningen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson: There is pulling and tearing in the Centre Party",
+        "summary": "Talks about the government formation"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T10:15:53+01:00"
       }
     },
     {
@@ -5343,33 +5369,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T12:31:13+01:00"
-      }
-    },
-    {
-      "id": "4880c5c90efa",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/kMJkwL/ny-eu-kritik-mot-svensk-vargpolitik",
-      "guid": "https://www.aftonbladet.se/nyheter/a/kMJkwL/ny-eu-kritik-mot-svensk-vargpolitik?utm_medium=rss",
-      "published_at": "2026-11-25T11:58:08+01:00",
-      "fetched_at": "2026-11-25T12:00:22+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/06fbfb7d-114b-3196-8cde-3cc499045a1c?format=auto&s=9f099405200185d06f83546a7f28c8edde067682&w=1000",
-      "sv": {
-        "title": "Ny EU-kritik mot svensk vargpolitik",
-        "summary": "EU-kommissionen ger Sverige bakläxa på vargpolitiken. I ett brev från EU-kommissionen till…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New EU criticism of Swedish wolf policy",
-        "summary": "The EU Commission gives Sweden a reprimand over its wolf policy. In a letter from the EU Commission to…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T12:00:33+01:00"
       }
     }
   ]
