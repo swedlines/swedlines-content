@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-28T04:54:44+01:00",
+  "generated_at": "2026-11-28T05:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "02995342b1e0",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/asikt-och-debatt/ledare/det-ar-skillnad-pa-terror-och-terror.531c3115-8d28-579d-9768-f263c7f9009a",
+      "guid": "531c3115-8d28-579d-9768-f263c7f9009a",
+      "published_at": "2026-11-28T05:00:00+01:00",
+      "fetched_at": "2026-11-28T05:01:11+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Ledare",
+        "Tagg: Terrorism",
+        "Tagg: Hamas",
+        "Tagg: IRA"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/0a4f0598-7765-3a06-95ed-45fbb8e757ce",
+      "sv": {
+        "title": "Susanna Birgersson: Det är skillnad på terror och terror",
+        "summary": "Med IRA gick det att sluta fred. Filosofen Quassim Cassam menar att Hamas mål gör en sådan uppgörelse omöjlig. Det är den tes hans kritiker borde bemöta.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Susanna Birgersson: There is a difference between terror and terror",
+        "summary": "IRA made peace possible. Philosopher Quassim Cassam argues that Hamas's aims make such an agreement impossible. That is the thesis his critics should address."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T05:01:16+01:00"
+      }
+    },
     {
       "id": "fe1becc39264",
       "schema_version": 1,
@@ -5310,33 +5343,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T21:33:58+01:00"
-      }
-    },
-    {
-      "id": "40c8aded7d8d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/4Eq9we/usa-kims-dotters-klader-kan-vara-brottsliga",
-      "guid": "https://www.aftonbladet.se/nyheter/a/4Eq9we/usa-kims-dotters-klader-kan-vara-brottsliga?utm_medium=rss",
-      "published_at": "2026-11-25T21:19:13+01:00",
-      "fetched_at": "2026-11-25T21:31:06+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/bbc6647c-82b7-34f1-862d-bd45ed698c7e?format=auto&s=2a6a16e5ed5ed2acefb69d2d6bc8415a51150a04&w=1000",
-      "sv": {
-        "title": "USA: Kims dotters kläder kan vara brottsliga",
-        "summary": "Diktatorns dotters lyxiga skidkläder kan utgöra sanktionsbrott. Det varnar USA efter bilderna från…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "USA: Kim's daughter's clothes may be criminal",
-        "summary": "The dictator's daughter's luxurious ski clothing may constitute sanctions violation. The US warns after the pictures from…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T21:31:12+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T04:54:44+01:00",
+  "generated_at": "2026-11-28T05:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "31ca3a5eb7fc",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/testa-sjalv-klarar--du-mensas-fragor",
+      "guid": "https://www.expressen.se/nyheter/sverige/testa-sjalv-klarar--du-mensas-fragor/",
+      "published_at": "2026-11-28T05:00:00+01:00",
+      "fetched_at": "2026-11-28T05:01:11+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Testa själv – klarar du Mensas frågor?",
+        "summary": "Sanningens stund är kommen. Nu ska det avgöras vilka som håller måttet – och vilka som inte gör det.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Test yourself – can you pass Mensa's questions?",
+        "summary": "The moment of truth has arrived. Now it will be decided who measures up – and who does not."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T05:01:16+01:00"
+      }
+    },
     {
       "id": "53c76d9bb778",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T00:51:32+01:00"
-      }
-    },
-    {
-      "id": "1f9896091c0a",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/mystisk-mordgata-lost-efter-58-ar",
-      "guid": "https://www.expressen.se/nyheter/varlden/mystisk-mordgata-lost-efter-58-ar/",
-      "published_at": "2026-11-24T23:54:08+01:00",
-      "fetched_at": "2026-11-25T00:01:12+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "”Mystisk” mordgåta löst – efter 58 år",
-        "summary": "16-åriga Jacqueline Dunleavy blev strypt i vad som beskrivits som ett ”mystiskt mordfall” av CBS News. – Hon hade hela livet framför sig, säger polischefen Thai Truong. 58 år senare har nu mordgåtan lösts.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "“Mysterious” murder mystery solved – after 58 years",
-        "summary": "16-year-old Jacqueline Dunleavy was strangled in what CBS News described as a “mysterious murder case”. – She had her whole life ahead of her, says police chief Thai Truong. 58 years later, the murder mystery has now been solved."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T00:01:15+01:00"
       }
     }
   ]
