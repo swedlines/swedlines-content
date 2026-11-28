@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T18:16:09+01:00",
+  "generated_at": "2026-11-28T18:25:31+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "74b098a30018",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/krisen-fortsatter-united-krossat-pa-hemmaplan",
+      "guid": "2b35ee18-3487-42bb-a2ca-c82a1d5a0877",
+      "published_at": "2026-11-28T18:22:39+01:00",
+      "fetched_at": "2026-11-28T18:25:24+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/d899a949-fd5e-47cc-a1f4-f377a7dfe759.jpg?width=600",
+      "sv": {
+        "title": "Krisen fortsätter – United förnedrat igen",
+        "summary": "Manchester United blev förnedrat – igen. Brentford vann med 4–0 borta på Old Trafford och det är den andra raka storförlusten för den nye tränaren Mauricio Pochettino i Premier League-fotbollen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Crisis continues – United humiliated again",
+        "summary": "Manchester United were humiliated – again. Brentford won 4–0 away at Old Trafford, and it is the second straight heavy defeat for new manager Mauricio Pochettino in Premier League football."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T18:25:27+01:00"
+      }
+    },
     {
       "id": "c76290c4eb8d",
       "schema_version": 1,
@@ -5612,38 +5639,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-22T15:29:12+01:00"
-      }
-    },
-    {
-      "id": "276261c33981",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/sam-larsson-missar-hammarbymatchen.cc36fe1d-d3d2-501d-8798-662acff0f2e9",
-      "guid": "cc36fe1d-d3d2-501d-8798-662acff0f2e9",
-      "published_at": "2026-11-22T14:57:42+01:00",
-      "fetched_at": "2026-11-22T15:15:45+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Sport",
-        "Tagg: Sam Larsson",
-        "Tagg: IFK Göteborg"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/3c78cddc-56cd-3e9a-be11-2055137a3430",
-      "sv": {
-        "title": "Blåvitts storstjärna missar Hammarbymatchen",
-        "summary": "Fortsatta skadeproblem • Flera nyckelspelare missar matchen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Blåvitt's superstar misses the Hammarby match",
-        "summary": "Continued injury problems • Several key players miss the match"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-22T15:15:59+01:00"
       }
     }
   ]
