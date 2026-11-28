@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T02:15:50+01:00",
+  "generated_at": "2026-11-28T02:31:06+01:00",
   "count": 30,
   "stories": [
     {
@@ -1742,81 +1742,6 @@
       ]
     },
     {
-      "id": "23ba2c6e80d0",
-      "source_count": 3,
-      "sources": [
-        "svd",
-        "aftonbladet",
-        "sydsvenskan"
-      ],
-      "first_published_at": "2026-11-27T13:58:10+01:00",
-      "last_published_at": "2026-11-27T14:20:02+01:00",
-      "lead": {
-        "id": "23ba2c6e80d0",
-        "schema_version": 1,
-        "source": "svd",
-        "url": "https://www.svd.se/a/2vGM2a/75-dagar-utan-regering-detta-har-hant",
-        "guid": "https://www.svd.se/a/2vGM2a/75-dagar-utan-regering-detta-har-hant?utm_medium=rss",
-        "published_at": "2026-11-27T13:58:10+01:00",
-        "fetched_at": "2026-11-27T14:01:17+01:00",
-        "category": "politics",
-        "sv": {
-          "title": "75 dagar utan regering – detta har hänt",
-          "summary": "Det har gått 75 dagar sedan valdagen. Det är fortfarande oklart vilken regering Sverige ska få.",
-          "summary_origin": "feed"
-        },
-        "en": {
-          "title": "75 Days Without a Government – Here Is What Has Happened",
-          "summary": "It has been 75 days since election day. It is still unclear which government Sweden will get."
-        },
-        "translation": {
-          "status": "done",
-          "provider": "anthropic",
-          "model": "claude-haiku-5-5",
-          "prompt_version": "2026-11-14b",
-          "translated_at": "2026-11-27T14:01:28+01:00"
-        }
-      },
-      "items": [
-        {
-          "id": "8dcd5b3c8c90",
-          "source": "sydsvenskan",
-          "url": "https://www.sydsvenskan.se/sverige/75-dagar-utan-regering-detta-har-hant",
-          "published_at": "2026-11-27T14:20:02+01:00",
-          "sv": {
-            "title": "75 dagar utan regering – detta har hänt"
-          },
-          "en": {
-            "title": "75 days without a government – here's what has happened"
-          }
-        },
-        {
-          "id": "9d5904559e1d",
-          "source": "aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/oMpJ0g/75-dagar-utan-regering-detta-har-hant",
-          "published_at": "2026-11-27T13:58:10+01:00",
-          "sv": {
-            "title": "75 dagar utan regering – detta har hänt"
-          },
-          "en": {
-            "title": "75 Days Without a Government – Here Is What Has Happened"
-          }
-        },
-        {
-          "id": "23ba2c6e80d0",
-          "source": "svd",
-          "url": "https://www.svd.se/a/2vGM2a/75-dagar-utan-regering-detta-har-hant",
-          "published_at": "2026-11-27T13:58:10+01:00",
-          "sv": {
-            "title": "75 dagar utan regering – detta har hänt"
-          },
-          "en": {
-            "title": "75 Days Without a Government – Here Is What Has Happened"
-          }
-        }
-      ]
-    },
-    {
       "id": "25f83e5faf08",
       "source_count": 2,
       "sources": [
@@ -2587,6 +2512,68 @@
           },
           "en": {
             "title": "Sweden's new e-ID launched – will only work with the police"
+          }
+        }
+      ]
+    },
+    {
+      "id": "89ca66f372cc",
+      "source_count": 2,
+      "sources": [
+        "aftonbladet",
+        "di"
+      ],
+      "first_published_at": "2026-11-27T16:47:21+01:00",
+      "last_published_at": "2026-11-27T16:54:34+01:00",
+      "lead": {
+        "id": "89ca66f372cc",
+        "schema_version": 1,
+        "source": "aftonbladet",
+        "url": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai",
+        "guid": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai?utm_medium=rss",
+        "published_at": "2026-11-27T16:47:21+01:00",
+        "fetched_at": "2026-11-27T17:01:14+01:00",
+        "category": "crime",
+        "sv": {
+          "title": "Misstänkt huvudman i stor momshärva gripen i Dubai",
+          "summary": "En man som misstänks vara huvudman i en stor momshärva har gripits i Dubai, skriver polisen på sin…",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Suspected mastermind of major VAT fraud arrested in Dubai",
+          "summary": "A man suspected of being the mastermind of a major VAT fraud has been arrested in Dubai, the police write on their website…"
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-27T17:01:22+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "66ea4003dc0b",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai",
+          "published_at": "2026-11-27T16:54:34+01:00",
+          "sv": {
+            "title": "Misstänkt huvudman i stor momshärva gripen i Dubai"
+          },
+          "en": {
+            "title": "Suspected mastermind of major VAT fraud arrested in Dubai"
+          }
+        },
+        {
+          "id": "89ca66f372cc",
+          "source": "aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/JnJW7X/misstankt-huvudman-i-stor-momsharva-gripen-i-dubai",
+          "published_at": "2026-11-27T16:47:21+01:00",
+          "sv": {
+            "title": "Misstänkt huvudman i stor momshärva gripen i Dubai"
+          },
+          "en": {
+            "title": "Suspected mastermind of major VAT fraud arrested in Dubai"
           }
         }
       ]
