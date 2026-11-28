@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T20:25:59+01:00",
+  "generated_at": "2026-11-28T20:31:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "52c0c636a7ed",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9352252",
+      "guid": "rss:sr.se/article/9352252",
+      "published_at": "2026-11-28T20:26:00+01:00",
+      "fetched_at": "2026-11-28T20:30:56+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Militärexpert: Saab-radar får viktig roll i Ukrainas försvar",
+        "summary": "Ukraina har beställt radarsystemet Giraffe 1X från Saab, vilket enligt Johan Huovinen, överstelöjtnant vid Försvarshögskolan, kommer att spela en viktig roll i Ukrainas försvar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Military expert: Saab radar to play key role in Ukraine's defence",
+        "summary": "Ukraine has ordered the Giraffe 1X radar system from Saab, which according to Johan Huovinen, lieutenant colonel at the Swedish Defence University, will play an important role in Ukraine's defence."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T20:31:02+01:00"
+      }
+    },
     {
       "id": "44118e70b98a",
       "schema_version": 1,
@@ -5360,33 +5386,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T10:45:50+01:00"
-      }
-    },
-    {
-      "id": "1be2b77324eb",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/brak-om-ukrainastod-i-eu-det-blir-en-batalj",
-      "guid": "d7a1ffdc-fe6e-4be8-8bb3-1158a9a227a5",
-      "published_at": "2026-11-26T10:27:16+01:00",
-      "fetched_at": "2026-11-26T10:31:08+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/3360d2cb-862b-4426-95db-68bf87c6cc12.jpg?width=600",
-      "sv": {
-        "title": "Bråk om Ukrainastöd i EU: ”Det blir en batalj”",
-        "summary": "Ett rejält bråk väntar när EU-ländernas ledare ska försöka enas om såväl budget som Ukrainastöd. – Det kommer att bli en batalj i dag, konstaterar statsminister Ulf Kristersson (M) i Bryssel.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dispute over Ukraine aid in EU: \"It will be a battle\"",
-        "summary": "A serious dispute awaits as EU leaders try to agree on both the budget and Ukraine aid. \"It is going to be a battle today,\" says Prime Minister Ulf Kristersson (M) in Brussels."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T10:31:14+01:00"
       }
     }
   ]
