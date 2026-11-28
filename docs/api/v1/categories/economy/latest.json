@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T08:45:53+01:00",
+  "generated_at": "2026-11-28T09:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e53aefac62fd",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/forsaljningen-okar-under-novemberrean",
+      "guid": "05d010cd-bd8f-4e4a-973f-f45a3f7dfdb2",
+      "published_at": "2026-11-28T08:58:10+01:00",
+      "fetched_at": "2026-11-28T09:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/7da3ad28-bda1-495f-8a94-4d9dc40056e6.jpg?width=600",
+      "sv": {
+        "title": "Försäljningen ökar under novemberrean",
+        "summary": "Konsumtionen under årets Black Friday-rea ökar. Men under själva fredagen krymper försäljningen, enligt nya siffror.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sales Rise During November Sale",
+        "summary": "Consumption during this year's Black Friday sale is rising. But on Friday itself, sales are shrinking, according to new figures."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T09:01:20+01:00"
+      }
+    },
     {
       "id": "9d85e4740df2",
       "schema_version": 1,
@@ -5301,33 +5328,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-27T05:46:02+01:00"
-      }
-    },
-    {
-      "id": "34b29e1ab881",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/varnar-135-000-pensionarer-kan-missa-stod",
-      "guid": "5c7e5953-865c-45c6-83e3-811c653afb44",
-      "published_at": "2026-11-27T05:25:20+01:00",
-      "fetched_at": "2026-11-27T05:30:56+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/4b14951c-4ce8-478b-ac0c-e81a1ea59510.jpg?width=600",
-      "sv": {
-        "title": "Varnar: 135 000 pensionärer kan missa stöd",
-        "summary": "Omkring 135 000 pensionärer i Sverige kan ha rätt till bostadstillägg utan att få det, enligt Hyresgästföreningen. ”Informationen måste bli tydligare och det måste bli enklare att söka”, säger föreningens ordförande Marie Linder i ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Warning: 135,000 pensioners may miss out on support",
-        "summary": "Around 135,000 pensioners in Sweden may be entitled to housing supplement without receiving it, according to the Tenants' Association. \"The information must become clearer and it must become easier to apply,\" says the association's chair Marie Linder in a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T05:31:03+01:00"
       }
     }
   ]
