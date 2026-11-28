@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T18:45:57+01:00",
+  "generated_at": "2026-11-28T19:01:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "75a4d1986baa",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=0c1e23c1-756c-4dad-83da-be29f59b4737",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0c1e23c1-756c-4dad-83da-be29f59b4737",
+      "published_at": "2026-11-28T18:47:09+01:00",
+      "fetched_at": "2026-11-28T19:01:08+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "”Roadrage” på E18 – två personer började slåss",
+        "summary": "Polisen: ”Rök de ihop när de klev ur bilen”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Roadrage” on the E18 – two people start fighting",
+        "summary": "Police: “They went at each other as soon as they got out of the car”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T19:01:12+01:00"
+      }
+    },
     {
       "id": "fb28f79967e5",
       "schema_version": 1,
@@ -5170,32 +5196,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-25T15:01:30+01:00"
-      }
-    },
-    {
-      "id": "51a3b109fce7",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/gruppens-video-far-japaner-att-rasa",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/gruppens-video-far-japaner-att-rasa",
-      "published_at": "2026-11-25T14:33:02+01:00",
-      "fetched_at": "2026-11-25T14:45:46+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Tvingas radera – efter landets ilska",
-        "summary": "Rasar över detaljen i Tokyo: ”Kom aldrig tillbaka”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Forced to delete – after national outrage",
-        "summary": "Outrage over a detail in Tokyo: \"Never come back\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-25T14:45:52+01:00"
       }
     }
   ]

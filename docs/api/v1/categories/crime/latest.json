@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T18:45:57+01:00",
+  "generated_at": "2026-11-28T19:01:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "75a4d1986baa",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=0c1e23c1-756c-4dad-83da-be29f59b4737",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0c1e23c1-756c-4dad-83da-be29f59b4737",
+      "published_at": "2026-11-28T18:47:09+01:00",
+      "fetched_at": "2026-11-28T19:01:08+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "”Roadrage” på E18 – två personer började slåss",
+        "summary": "Polisen: ”Rök de ihop när de klev ur bilen”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Roadrage” on the E18 – two people start fighting",
+        "summary": "Police: “They went at each other as soon as they got out of the car”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T19:01:12+01:00"
+      }
+    },
     {
       "id": "de6a4e6dfe0e",
       "schema_version": 1,
@@ -5358,32 +5384,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-24T05:16:01+01:00"
-      }
-    },
-    {
-      "id": "d72f7b407948",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/elevernas-misstankta-tortyrliknande-vald-pa-sigtunaskolan",
-      "guid": "https://www.expressen.se/nyheter/sverige/elevernas-misstankta-tortyrliknande-vald-pa-sigtunaskolan/",
-      "published_at": "2026-11-23T22:35:51+01:00",
-      "fetched_at": "2026-11-23T22:45:46+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Elevernas misstänkta ”tortyrliknande” våld på Sigtunaskolan",
-        "summary": "Prefekten stod högst i rang. Men det var, enligt åtalet, strafförmannen och viceprefekten som utförde de grövsta, ”tortyrliknande” brotten mot yngre elever. Slag med golfklubba och metallskohorn, sexuella kränkningar och dödshot misstänks ha varit några av inslagen i skräckväldet på Sigtunaskolan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Pupils' suspected \"torture-like\" violence at Sigtuna school",
-        "summary": "The headmaster ranked highest. But according to the charges, the disciplinary prefect and deputy headmaster carried out the most serious \"torture-like\" crimes against younger pupils. Beatings with a golf club and metal shoehorn, sexual abuse and death threats are suspected to have been among the elements of the reign of terror at Sigtuna school."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T22:45:50+01:00"
       }
     }
   ]
