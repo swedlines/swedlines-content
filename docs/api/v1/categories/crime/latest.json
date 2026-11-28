@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-28T08:15:55+01:00",
+  "generated_at": "2026-11-28T08:17:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0070106a37d6",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=b9a45e38-5963-4190-8e96-8fbeb415a771",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b9a45e38-5963-4190-8e96-8fbeb415a771",
+      "published_at": "2026-11-28T08:14:24+01:00",
+      "fetched_at": "2026-11-28T08:17:02+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Kaos på kalas",
+        "summary": "35 utkastade från hotell av polisen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Chaos at party",
+        "summary": "35 ejected from hotel by police"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T08:17:05+01:00"
+      }
+    },
     {
       "id": "62dee6d142d8",
       "schema_version": 1,
@@ -5340,33 +5366,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-23T17:31:06+01:00"
-      }
-    },
-    {
-      "id": "23ea9b39ba19",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/yz324R/greta-thunberg-doms-for-olaga-intrang",
-      "guid": "https://www.aftonbladet.se/nyheter/a/yz324R/greta-thunberg-doms-for-olaga-intrang?utm_medium=rss",
-      "published_at": "2026-11-23T16:57:27+01:00",
-      "fetched_at": "2026-11-23T17:01:11+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/82b21c44-d9f0-35cb-8c19-ff30a4d74c82?format=auto&s=d9fc9f40d8d01ffa178007960efe69f0d13c1b18&w=1000",
-      "sv": {
-        "title": "Greta Thunberg döms för olaga intrång",
-        "summary": "Tog sig in på universitet ✓”Gammal tradition”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Greta Thunberg convicted of unlawful intrusion",
-        "summary": "Gained access to university ✓\"Old tradition\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-23T17:01:18+01:00"
       }
     }
   ]

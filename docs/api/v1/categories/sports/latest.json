@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T08:15:55+01:00",
+  "generated_at": "2026-11-28T08:17:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "151c7f244795",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/kennedy-ryser-nar-nagon-namner-slutsignalen-2001",
+      "guid": "https://www.dn.se/sport/kennedy-ryser-nar-nagon-namner-slutsignalen-2001/",
+      "published_at": "2026-11-28T08:15:35+01:00",
+      "fetched_at": "2026-11-28T08:17:02+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/bf9cc51a-7c5e-4b27-b7e1-14fa0b2e0356.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Kennedy: ”Ryser när någon nämner slutsignalen 2001”",
+        "summary": "Det var ett tag sedan Hammarby vann sitt enda SM-guld i fotboll på herrsidan. Väntan på nästa har varat i 25 år med ekonomiska kriser, missade guldchanser och ångest i superettan.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Kennedy: \"Gets a chill when anyone mentions the final whistle in 2001\"",
+        "summary": "It has been a while since Hammarby last won a Swedish championship in men's football. The wait for the next one has lasted 25 years, with financial crises, missed title chances and anxiety in the Superettan."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T08:17:05+01:00"
+      }
+    },
     {
       "id": "9c4c02220f65",
       "schema_version": 1,
@@ -5603,33 +5630,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T18:45:51+01:00"
-      }
-    },
-    {
-      "id": "0e8ae0529bb1",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/inhoppare-nara-fralsa-lunds-bk-i-kvalet",
-      "guid": "2064be11-e497-4a2b-a999-fb70bfd60d2c",
-      "published_at": "2026-11-21T16:57:43+01:00",
-      "fetched_at": "2026-11-21T17:01:15+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/8bb5ac0e-97cf-4234-ab58-7ca3060ad87d.jpeg?width=600",
-      "sv": {
-        "title": "Inhoppare nära frälsa Lunds BK i kvalet",
-        "summary": "Skyttekungens comeback var nära att ge Lunds BK en drömstart i superettankvalet. Alexander Nilsson hoppade in och blev målskytt efter bara sju minuter på planen. Målet räckte bara till 1–1 i det första mötet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Substitute Came Close to Saving Lunds BK in the Play-off",
-        "summary": "The goal-scoring comeback of the Shooting King came close to giving Lunds BK a dream start in the Superettan play-off. Alexander Nilsson came on and scored after just seven minutes on the pitch. The goal was only enough for a 1–1 draw in the first leg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T17:01:20+01:00"
       }
     }
   ]
