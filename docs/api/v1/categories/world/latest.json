@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T13:46:00+01:00",
+  "generated_at": "2026-11-28T14:01:23+01:00",
   "count": 200,
   "items": [
     {
@@ -194,6 +194,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-28T12:01:24+01:00"
+      }
+    },
+    {
+      "id": "62869dd3b90d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/411326",
+      "guid": "https://tv.aftonbladet.se/video/411326?utm_medium=rss",
+      "published_at": "2026-11-28T11:12:00+01:00",
+      "fetched_at": "2026-11-28T14:01:08+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/a7285b4b55f16453d0d6062064d3312c.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Ukrainsk laser — stoppar rysk drönare",
+        "summary": "Nytt vapen lanseras",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ukrainian laser – stops Russian drone",
+        "summary": "New weapon launched"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T14:01:15+01:00"
       }
     },
     {
@@ -5334,41 +5361,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-26T06:15:55+01:00"
-      }
-    },
-    {
-      "id": "5b0633efe6b6",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/kulturkronika/minnet-av-forintelsen-forvanskas-till-ljudet-av-applader.47daf6d3-6171-5f5e-a28c-440cfc627a29",
-      "guid": "47daf6d3-6171-5f5e-a28c-440cfc627a29",
-      "published_at": "2026-11-26T06:05:47+01:00",
-      "fetched_at": "2026-11-26T06:31:00+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Kulturkrönika",
-        "Tagg: Antisemitism",
-        "Tagg: Norge",
-        "Tagg: Israel",
-        "Tagg: Sionism",
-        "Tagg: Förintelsen"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/07cbf99a-852d-3bad-a077-d409179e2160",
-      "sv": {
-        "title": "Minnet av Förintelsen förvrängs – till ljudet av applåder",
-        "summary": "En norsk debatt sätter fingret på hur utsatt den judiska befolkningen är.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Memory of the Holocaust distorted – to the sound of applause",
-        "summary": "A Norwegian debate highlights how vulnerable the Jewish population is."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-26T06:31:14+01:00"
       }
     }
   ]

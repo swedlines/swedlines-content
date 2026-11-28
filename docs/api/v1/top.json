@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T13:46:00+01:00",
-  "count": 19,
+  "generated_at": "2026-11-28T14:01:23+01:00",
+  "count": 21,
   "stories": [
     {
       "id": "8147b0543184",
@@ -14,7 +14,7 @@
         "di"
       ],
       "first_published_at": "2026-11-28T09:42:09+01:00",
-      "last_published_at": "2026-11-28T13:00:32+01:00",
+      "last_published_at": "2026-11-28T13:47:05+01:00",
       "lead": {
         "id": "8147b0543184",
         "schema_version": 1,
@@ -45,6 +45,18 @@
         }
       },
       "items": [
+        {
+          "id": "6025d2b21ff3",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/sport/all-karlek-till-olof-lundh",
+          "published_at": "2026-11-28T13:47:05+01:00",
+          "sv": {
+            "title": "All kärlek till Olof Lundh"
+          },
+          "en": {
+            "title": "All the love for Olof Lundh"
+          }
+        },
         {
           "id": "d418bba5ed56",
           "source": "sydsvenskan",
@@ -908,6 +920,131 @@
           },
           "en": {
             "title": "Eight dead after helicopter crash in Peru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "83ae2d31fde9",
+      "source_count": 2,
+      "sources": [
+        "di",
+        "sydsvenskan"
+      ],
+      "first_published_at": "2026-11-28T10:56:50+01:00",
+      "last_published_at": "2026-11-28T13:50:00+01:00",
+      "lead": {
+        "id": "83ae2d31fde9",
+        "schema_version": 1,
+        "source": "di",
+        "url": "https://www.di.se/nyheter/storsta-bankkollapsen-pa-tva-ar-i-usa",
+        "guid": "f1258940-0976-470d-b43f-3b13e56096ab",
+        "published_at": "2026-11-28T10:56:50+01:00",
+        "fetched_at": "2026-11-28T11:01:15+01:00",
+        "category": "economy",
+        "image_url": "https://static.bonniernews.se/ba/0f6c6eca-ab58-444b-bd43-f5960f44bf45.jpg?width=600",
+        "sv": {
+          "title": "Största bankkollapsen på två år i USA",
+          "summary": "Amerikanska myndigheter har stängt ned den regionala banken United Fidelity, vilket innebär den största bankkollapsen i USA på två år.",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Largest bank collapse in two years in the USA",
+          "summary": "US authorities have shut down the regional bank United Fidelity, the largest bank collapse in the USA in two years."
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T11:01:22+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "8e73c9b6aa7d",
+          "source": "sydsvenskan",
+          "url": "https://www.sydsvenskan.se/ekonomi/ny-bankkollaps-i-usa-storsta-pa-tva-ar",
+          "published_at": "2026-11-28T13:50:00+01:00",
+          "sv": {
+            "title": "Ny bankkollaps i USA – största på två år"
+          },
+          "en": {
+            "title": "New bank collapse in the US – biggest in two years"
+          }
+        },
+        {
+          "id": "83ae2d31fde9",
+          "source": "di",
+          "url": "https://www.di.se/nyheter/storsta-bankkollapsen-pa-tva-ar-i-usa",
+          "published_at": "2026-11-28T10:56:50+01:00",
+          "sv": {
+            "title": "Största bankkollapsen på två år i USA"
+          },
+          "en": {
+            "title": "Largest bank collapse in two years in the USA"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a65880c24c35",
+      "source_count": 2,
+      "sources": [
+        "expressen",
+        "sr"
+      ],
+      "first_published_at": "2026-11-28T12:11:23+01:00",
+      "last_published_at": "2026-11-28T13:45:00+01:00",
+      "lead": {
+        "id": "a65880c24c35",
+        "schema_version": 1,
+        "source": "expressen",
+        "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a1a7d4ce-1cd0-43c4-9926-ae84876cebd9",
+        "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a1a7d4ce-1cd0-43c4-9926-ae84876cebd9",
+        "published_at": "2026-11-28T12:11:23+01:00",
+        "fetched_at": "2026-11-28T12:15:45+01:00",
+        "category": "politics",
+        "sv": {
+          "title": "Anderssons vädjan till C",
+          "summary": "”Gå inte till de högerextrema”",
+          "summary_origin": "feed"
+        },
+        "en": {
+          "title": "Andersson's appeal to the Centre Party",
+          "summary": "\"Don't go to the far-right\""
+        },
+        "translation": {
+          "status": "done",
+          "provider": "anthropic",
+          "model": "claude-haiku-5-5",
+          "prompt_version": "2026-11-14b",
+          "translated_at": "2026-11-28T12:15:51+01:00"
+        }
+      },
+      "items": [
+        {
+          "id": "a28380d6fa42",
+          "source": "sr",
+          "url": "https://www.sverigesradio.se/artikel/9352170",
+          "published_at": "2026-11-28T13:45:00+01:00",
+          "sv": {
+            "title": "Anderssons vädjan till C: ”Kommer göra allt i min makt”"
+          },
+          "en": {
+            "title": "Andersson's appeal to the Centre Party: \"Will do everything in my power\""
+          }
+        },
+        {
+          "id": "a65880c24c35",
+          "source": "expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a1a7d4ce-1cd0-43c4-9926-ae84876cebd9",
+          "published_at": "2026-11-28T12:11:23+01:00",
+          "sv": {
+            "title": "Anderssons vädjan till C"
+          },
+          "en": {
+            "title": "Andersson's appeal to the Centre Party"
           }
         }
       ]

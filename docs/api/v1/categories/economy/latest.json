@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-28T13:46:00+01:00",
+  "generated_at": "2026-11-28T14:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8e73c9b6aa7d",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/ny-bankkollaps-i-usa-storsta-pa-tva-ar",
+      "guid": "b2ad0cd0-352b-4a44-87d5-2d44d5512554",
+      "published_at": "2026-11-28T13:50:00+01:00",
+      "fetched_at": "2026-11-28T14:01:11+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/aed06a81-2d44-4e77-a1d4-bb00c304a2d6.jpg?width=600",
+      "sv": {
+        "title": "Ny bankkollaps i USA – största på två år",
+        "summary": "Amerikanska myndigheter har stängt ned den regionala banken United Fidelity, vilket innebär den största bankkollapsen i USA på två år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New bank collapse in the US – biggest in two years",
+        "summary": "American authorities have shut down the regional bank United Fidelity, which marks the biggest bank collapse in the US in two years."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T14:01:15+01:00"
+      }
+    },
     {
       "id": "61a5a299b2e8",
       "schema_version": 1,
@@ -5289,29 +5316,6 @@
       },
       "en": {
         "title": "Plot in Höllviken has a new owner"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-27T07:03:06+01:00"
-      }
-    },
-    {
-      "id": "2a7e35028f48",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-185-kvm-saldes-for-7-3-miljoner",
-      "guid": "d02609f8-dedc-48a4-b47e-f57c0c7e0bd0",
-      "published_at": "2026-11-27T07:02:02+01:00",
-      "fetched_at": "2026-11-27T07:03:03+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Hus på 185 kvm såldes för 7,3 miljoner"
-      },
-      "en": {
-        "title": "House of 185 sq m sold for SEK 7.3 million"
       },
       "translation": {
         "status": "done",

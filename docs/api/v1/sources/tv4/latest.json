@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-28T13:46:00+01:00",
+  "generated_at": "2026-11-28T14:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "603e7214811a",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/DC7rP4ThGcpc4Q1v5EL34/satsade-pengar-pa-kristersson-kort-innan-sd-s-tillkaennagivande",
+      "guid": "DC7rP4ThGcpc4Q1v5EL34",
+      "published_at": "2026-11-28T13:49:16+01:00",
+      "fetched_at": "2026-11-28T14:01:09+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Satsade pengar på Kristersson – kort innan SD:s tillkännagivande",
+        "summary": "Spåras till kryptobörs • Korruptionsexpert: ”Visste dom vad som skulle hända?\"",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Invested money in Kristersson – shortly before the Sweden Democrats' announcement",
+        "summary": "Traced to crypto exchange • Corruption expert: \"Did they know what would happen?\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-28T14:01:15+01:00"
+      }
+    },
     {
       "id": "cca344317f9e",
       "schema_version": 1,
@@ -5750,35 +5779,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T22:01:17+01:00"
-      }
-    },
-    {
-      "id": "b000ced7b95b",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1GqBseMxQIPK9zcx8utCnM/sommelieren-folksamling-utanfoer-innan-de-oeppnade",
-      "guid": "1GqBseMxQIPK9zcx8utCnM",
-      "published_at": "2026-11-19T21:33:49+01:00",
-      "fetched_at": "2026-11-19T21:45:46+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Efter fem"
-      ],
-      "sv": {
-        "title": "Sommelieren: ”Folksamling utanför innan de öppnade”",
-        "summary": "Tredje torsdagen i november är en stor dag för en del vinentusiaster. Det är nämligen då de franska Beaujolais Nouveau-vinerna börjar säljas. – När jag var på Systembolaget och handlade vinerna i förmiddags pratade jag med en anställd som sa att det var en folksamling utanför innan de öppnade,…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sommelier: 'Crowd gathered outside before they opened'",
-        "summary": "The third Thursday in November is a big day for some wine enthusiasts. It is when the French Beaujolais Nouveau wines go on sale. – When I was at Systembolaget buying the wines this morning, I spoke with an employee who said there was a crowd outside before they opened,…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T21:45:52+01:00"
       }
     }
   ]
